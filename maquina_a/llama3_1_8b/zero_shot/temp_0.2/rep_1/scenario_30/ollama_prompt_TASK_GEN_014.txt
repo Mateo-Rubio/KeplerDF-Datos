@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Argenta"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution thermal map of the Argenta region in Italy by the day after tomorrow overnight, as this is an absolute institutional priority for critical payload capture and mandatory directive involving a binding contract requirement."
