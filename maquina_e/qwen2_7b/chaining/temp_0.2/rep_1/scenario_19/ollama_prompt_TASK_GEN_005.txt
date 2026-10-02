@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing a location within Norte city, which lacks specific details such as country information. Instead, we'll describe it using realistic combinations of available fields: Norte city itself will serve as the primary descriptor for the region. The mission allocation priority is set at medium importance (Priority 2), indicating that this request falls under standard operational tasks or commercial tasking with fixed parameters representing normal operational status.
+
+The primary sensor specified is SAR, which we interpret as an active radar scan using microwave surface imaging to capture cloud-penetrating data. This method allows us to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The target day for this task is "the day after tomorrow", with the specific diurnal period being "in the evening". This deadline has already been resolved by an upstream module, and we must include this phrase verbatim in our request as the stated upper limit for data availability. No raw UTC timestamps or countdown metrics will be used.
+
+In summary, our request to the automated satellite constellation planner is as follows:
+
+"Please schedule a standard operational task involving an active radar scan using microwave surface imaging to capture cloud-penetrating data and ground geometry in Norte city, specifically during the evening of 'the day after tomorrow'. This mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Kindly ensure that this request is given due attention as it falls under medium importance."
+
+This request encapsulates the essence of the provided JSON metadata while adhering to the guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.

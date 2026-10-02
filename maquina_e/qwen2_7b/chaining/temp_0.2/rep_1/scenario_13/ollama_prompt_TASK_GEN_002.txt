@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of Moncalieri, Italy, with the primary sensor being VNIR. The location details include the country "Italia" and city "Moncalieri", which will be described as such in our request. The priority level is set to low importance, indicating that this task is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The mission allocation priority reflects an operational tone that acknowledges the task's status as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". We'll frame this as a "background survey" or "testbed tracking task", treating it as a "non-essential background filler task".
+
+The physical objectives of the mission are to assess chlorophyll absorption levels and calculate the vegetation NDVI index using VNIR technology. This will involve capturing multispectral vegetation analysis for our purposes.
+
+The delivery deadline is set for four days in the morning, which we must insert verbatim into our request as the upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request to the satellite constellation planner will be structured around these operational guidelines, ensuring that the translation of the raw physical simulation metadata is both natural and accurate, while also adhering to the specific task's priority level and deadline.

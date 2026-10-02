@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for a location in Piacenza, Italy, using a Near-Infrared (NIR) sensor on the target day, which is three days from now, in the morning.
+
+The mission allocation priority is medium importance, indicating this task is part of our standard operational pipeline tracking with fixed parameters representing normal operational status. The language must reflect professional and direct communication, emphasizing that this request is a routine monitoring task.
+
+Sensors and physical objectives dictate the nature of the data we aim to collect. The primary sensor, NIR, will be used for near-infrared reflection to map water body boundaries or assess soil moisture levels, providing critical information for environmental monitoring and agricultural applications.
+
+The deadline for this task has been resolved by an upstream module, with the upper limit for data availability being three days from now in the morning. This phrase must be inserted verbatim into the request, as it sets the time frame for data collection without rephrasing or altering the time of day.
+
+In summary, our request is to capture high-resolution optical snapshots using a Near-Infrared sensor for daylight photography and near-infrared reflection analysis on a location in Piacenza, Italy. This task is part of our standard operational pipeline tracking with medium importance, adhering to fixed parameters and normal operational status. The deadline for data collection is three days from now in the morning, as determined by an upstream module.

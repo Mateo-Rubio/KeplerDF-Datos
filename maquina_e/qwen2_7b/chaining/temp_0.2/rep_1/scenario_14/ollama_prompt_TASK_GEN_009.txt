@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing a location in Indonesia, specifically near Ecuatorial City, which is an area of interest for our mission. We'll describe this region using a realistic combination of country, city, and landmark fields from 'location_details', ensuring we don't use raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is part of a flexible schedule for opportunistic capture, acting as a low-priority background filler task. We'll frame this as a "non-essential background survey" with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will be used for an active radar scan employing microwave surface imaging. This technology will allow us to capture cloud-penetrating imagery, providing valuable data for understanding ground geometry and capturing details that are not visible through optical means.
+
+The delivery deadline for this task has been resolved by an upstream module, with the target being "the day after tomorrow during the afternoon". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability. This deadline is not to be rephrased, shortened, or moved to a different part of the day.
+
+In conclusion, our task request will focus on leveraging the capabilities of SAR technology for an active radar scan during the afternoon of the day after tomorrow, targeting a specific location in Indonesia near Ecuatorial City. This mission aligns with our operational guidelines, ensuring that we provide a highly realistic and conversational English request while adhering to the specified priority level and deadline.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're dealing with a low priority importance task, which involves a flexible schedule for opportunistic capture. This non-essential background filler task is part of a low-priority workflow update.
+
+The geographic context for this mission is centered around Norte, though country details are not available. The target day for this task is in three days during the afternoon, and the physical phenomenon to be observed will be assessed through VNIR sensors. The goal here is to conduct multispectral vegetation analysis, focusing on chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance.
+
+Given the operational guidelines, we're not using raw technical system tags, underscores, or coordinate arrays in our final output. We're combining JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+In summary, our request is framed as a low priority importance task with a flexible schedule for opportunistic capture. This is part of a standard operational tasking setup, representing normal operational status or a routine monitoring activity within our baseline pipeline tracking. The language heavily implies that this mission can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+Let's proceed with the translation and submission of this request to ensure smooth execution within our automated satellite constellation planner.

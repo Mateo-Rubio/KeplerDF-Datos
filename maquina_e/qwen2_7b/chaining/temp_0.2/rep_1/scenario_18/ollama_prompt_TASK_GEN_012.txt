@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Tanjung Jabung Timur, located in Indonesia. This area requires an active radar scan using microwave surface imaging for cloud-penetrating capture. The primary sensor is set to SAR (Synthetic Aperture Radar), which will provide critical data for understanding ground geometry under various weather conditions.
+
+The mission allocation priority is of low importance, indicating a flexible schedule for opportunistic capture. This task falls under the category of a non-essential background filler task, part of our baseline pipeline tracking with fixed parameters representing normal operational status. The language must be casual and highly flexible, treating this as a background survey or testbed tracking task.
+
+The delivery deadline is set for tomorrow in the morning, which is the upper limit for data availability. The request does not include raw UTC timestamps, digits, or countdown metrics; instead, it focuses on the operational context and the specific task requirements.
+
+In summary, our request to the satellite constellation planner involves capturing high-resolution optical snapshots of Tanjung Jabung Timur in Indonesia using SAR technology for cloud-penetrating capture. This task is part of a low priority importance request with a flexible schedule for opportunistic data collection, adhering to our normal operational status and background survey requirements. The deadline for this task is tomorrow in the morning, ensuring timely delivery of the requested data.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing a specific location in Colombia, specifically the city of San Pablo. This region is of medium importance due to its priority level being set at 2. The mission allocation priority indicates that this task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor for this observation is Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture levels. This request aims to capture near-infrared reflection data, providing valuable information on water bodies and soil conditions.
+
+The target day for this task is tomorrow, with the diurnal period set for the evening. The deadline for data availability is "tomorrow in the evening," as determined by an upstream module. This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our task involves capturing near-infrared reflection data of water bodies and soil moisture assessment in San Pablo, Colombia, during the evening hours of tomorrow. This is part of a standard operational tasking with fixed parameters representing normal operational status.
