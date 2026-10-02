@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context, this task request is for a low priority importance mission allocation with a deadline set for tomorrow morning. The primary sensor involved will be conducting a multispectral vegetation analysis using near-infrared (NIR) technology. This will involve assessing chlorophyll absorption levels and mapping water body boundaries or soil moisture to discriminate gradients.
+
+The geographical context involves Indonesia, specifically focusing on the equatorial region of the country. The task requires capturing high-resolution optical imagery through daylight photography for clear visual documentation. This is part of a background survey or testbed tracking task that can be scheduled flexibly, allowing for drop or rescheduling at convenience without impacting the overall operational status.
+
+The deadline to deliver the data products is strictly tomorrow morning, which aligns with the target day and diurnal period provided in the JSON metadata. The request does not involve altering, extending, or interpreting this deadline in any way.
