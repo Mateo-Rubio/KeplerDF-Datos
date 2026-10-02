@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request based on the provided JSON format.
+
+The geographic context involves capturing data for a location in Colombia, specifically El Castillo. We'll describe this area using a realistic combination of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we'll focus on the 'country' and 'city' fields to provide a natural description.
+
+The mission allocation priority is set at 'Priority 1 (Low Importance)', which means this request should be treated as a low priority importance task with a flexible schedule for opportunistic capture. We'll frame this as a "non-essential background filler task" that can be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is 'VNIR', which we'll interpret as the goal of assessing chlorophyll absorption levels and calculating the vegetation NDVI index. This will help us understand surface reflectance and provide valuable insights into the health and composition of the land.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set for "in three days during the afternoon". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability. This ensures that the deadline is clearly communicated without rephrasing or altering the time frame.
+
+In summary, our request to the satellite constellation planner will be structured around capturing a multispectral vegetation analysis using VNIR technology on a location in Colombia, El Castillo, with a flexible schedule and a clear deadline of "in three days during the afternoon". This task is treated as a low priority importance background survey that can be conveniently scheduled or rescheduled based on operational needs.

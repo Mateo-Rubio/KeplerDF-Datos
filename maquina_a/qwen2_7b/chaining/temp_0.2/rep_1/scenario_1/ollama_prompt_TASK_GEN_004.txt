@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the city of Ibagué in Colombia. This location is described using realistic combinations of country, city, and landmark fields from 'location_details'. Since specific landmarks are not provided, we'll focus on the country and city details.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. The language reflects this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It's labeled as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is VNIR, which translates into explaining the goal as a "multispectral vegetation analysis". This involves assessing the "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance. The request emphasizes the importance of capturing these details for comprehensive environmental monitoring.
+
+The delivery deadline is set for "the day after tomorrow overnight", which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request combines the geographic context of Ibagué in Colombia with a low-priority mission allocation level and a VNIR sensor for multispectral vegetation analysis. The deadline is set for "the day after tomorrow overnight", ensuring that all data is captured within this timeframe. This request aligns with operational guidelines for naturalness and validation accuracy, providing a clear and concise description of the task at hand.
