@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" that matches the list {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The deadline specified is for "tomorrow" during the "overnight" period. There is no indication or allowance to shift this deadline to any other part of the day. It is crucial to adhere strictly to this timeframe as it represents a strict operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over the region in Italy, specifically focusing on the city of Norte. This task involves assessing chlorophyll absorption levels and calculating an NDVI index to monitor vegetation health. The mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require this data to be captured tomorrow during the overnight period, ensuring it aligns with our workflow update schedule.
