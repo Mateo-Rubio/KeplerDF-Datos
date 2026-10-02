@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the provided JSON metadata, our task request can be formulated as follows:
+
+"Please capture a low priority importance 'in four days' morning high-resolution optical snapshot of Cossogno, Italia using multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating the NDVI index to evaluate surface reflectance. The objective is to conduct a background survey or testbed tracking task with flexible scheduling for opportunistic capture."
+
+This request adheres to the guidelines by interpreting the metadata organically, avoiding raw technical tags, and using natural language to describe the mission allocation priority, geographic context, sensors and physical objectives, and relative timeframes.
