@@ -1,0 +1,44 @@
+Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+You are an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. Your objective is to translate the raw physical simulation metadata provided in JSON format below into a single, highly realistic, and conversational English request. Here's the complex scenario:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name', nested 'location_details'):
+   - Do NOT use technical system tags or coordinate arrays in your final output.
+   - Combine the JSON parameters into a natural description, using realistic combinations of fields where available and defaulting to 'region_name' if specifics are missing.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'priority_level'):
+   - Reflect urgency without direct numerical references; use operational language that conveys the appropriate level of importance.
+   - For Priority 3, incorporate phrases like "time-sensitive directive" and "immediate action required".
+   - For Priority 2, phrase it as a necessary but not immediate task with terms such as "scheduled observation sequence".
+   - For Priority 1, use language that suggests this is an additional or secondary objective.
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Translate the sensor type into a natural explanation of what physical phenomenon it's meant to observe, using terms like "capture" for VIS and NIR sensors.
+
+4. RELATIVE TIMEFRAMES:
+   - Use relative time phrases that indicate urgency without specific timestamps (e.g., "within the next operational window").
+
+5. ADDITIONAL CONSTRAINTS:
+   - Include a hypothetical environmental condition affecting the mission, such as weather or light availability, and how it impacts data collection.
+   - Mention any potential collaboration with another satellite system for cross-verification of data.
+
+6. REQUEST FORMAT:
+   - Start your request with "Mission Brief:" followed by a concise mission objective statement.
+   - End the request with an actionable item, such as "Please confirm receipt and readiness to proceed".
+
+7. JSON input for this scenario:
+{
+  "region_name": "The Amazon Basin",
+  "location_details": {
+    "country": "Brazil",
+    "city": "Manaus",
+    "landmark": "Rio Negro"
+  },
+  "priority_level": 3,
+  "primary_sensor": "NIR",
+  "target_day": "tomorrow",
+  "target_diurnal_period": "during the rainy season peak hours",
+  "collaborating_system": "Sentinel-2"
+}
+
+Now output ONLY the final natural user request inside:
