@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing Indonesia's Ecuatorial region. This location combines the country and city details from 'location_details', creating a realistic description that avoids technical system tags or coordinate arrays. If any of the fields are "N/A", they would be gracefully ignored, allowing for a natural and accurate depiction of the area.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for an opportunistic capture. This request is framed as a low priority importance task with a "non-essential background filler" status, where the operator explicitly notes to "drop or reschedule at convenience". It's treated as a "background survey" or "testbed tracking task", reflecting its operational context.
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which will be used for an active radar scan. This involves microwave surface imaging to capture cloud-penetrating data, essential for ground geometry observation under heavy weather conditions. The goal is to gather detailed information about the region's surface features and structures.
+
+The delivery deadline stipulates that the task must be completed "in four days overnight". This phrase is inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are included, adhering to the guidelines provided.
+
+In summary, this Earth-observation mission aims to capture detailed information about Indonesia's Ecuatorial region using SAR technology, with a low priority importance level and a specific deadline for data collection. The request is structured to ensure naturalness and validation accuracy while aligning with operational guidelines.

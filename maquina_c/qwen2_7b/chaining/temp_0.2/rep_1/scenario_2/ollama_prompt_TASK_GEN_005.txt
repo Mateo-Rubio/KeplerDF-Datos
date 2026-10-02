@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Sotta", located in France. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for various applications such as urban planning or environmental monitoring.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This task is labeled as a non-essential background filler task, with an explicit note to drop or reschedule at convenience. It's treated as a background survey or testbed tracking task, reflecting its status within the baseline pipeline tracking setup.
+
+The primary sensor involved is VIS (Visible Imaging Spectrograph), which will be used for this mission. The operational objective is to capture a high-quality image of the region during the overnight period four days ahead. This timeframe is specified as "in four days overnight", serving as the upper limit for data availability without rephrasing or altering it.
+
+In summary, our request involves capturing clear optical imagery of Sotta, France, using VIS technology during the overnight period four days from now. This task is categorized as a low priority importance request with a flexible schedule and is treated as a background survey or testbed tracking task. The deadline for this task has been resolved by an upstream module, and we are adhering to the specified timeframe of "in four days overnight" for data availability.

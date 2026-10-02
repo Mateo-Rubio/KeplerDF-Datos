@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing San Gil, Colombia, which is a beautiful location in the country known for its unique landscapes and cultural heritage. The primary sensor used will be VNIR, which aims to capture multispectral vegetation analysis for assessing chlorophyll absorption levels or calculating the NDVI index and surface reflectance.
+
+Given the priority level of 2, this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. It's a routine monitoring activity that requires attention but not an urgent execution. The deadline for this task is "the day after tomorrow during the afternoon," which means we aim to capture the data within these specific hours.
+
+To maximize naturalness and validation accuracy, we will interpret the metadata organically, avoiding raw technical system tags, underscores, or coordinate arrays. We'll describe San Gil using realistic combinations of country, city, and landmark fields from 'location_details' if available. If any of these fields are "N/A," we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+In summary, our request is to capture multispectral vegetation data for San Gil, Colombia, during the afternoon on the day after tomorrow as part of our standard operational tasking. This activity will contribute to our baseline pipeline tracking setup with fixed parameters representing normal operational status.

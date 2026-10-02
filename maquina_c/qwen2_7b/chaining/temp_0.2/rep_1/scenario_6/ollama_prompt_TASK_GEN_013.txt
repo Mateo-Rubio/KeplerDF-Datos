@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy in the dataset.
+
+The geographic context involves observing Tocaima, Colombia, which is a critical payload capture under high importance (Priority 3). This mission allocation is an absolute institutional priority, involving a binding contract requirement for a "critical payload capture" with an urgent operational execution. The language heavily implies an un-preemptable mission lock, emphasizing the need for immediate attention.
+
+The primary sensor to be used is VNIR, which will provide a multispectral vegetation analysis. This task aims to assess chlorophyll absorption levels and calculate the vegetation NDVI index, offering insights into surface reflectance patterns. This request is part of a standard operational tasking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has been resolved by an upstream module: "today in the evening". This phrase serves as the upper limit for data availability, ensuring that our team understands the urgency and the specific time frame within which the data must be delivered.
+
+In conclusion, this low priority importance (Priority 1) request involves a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. The operator explicitly notes to drop or reschedule at convenience, acknowledging its non-essential nature in the baseline pipeline tracking setup.
+
+Let's proceed with executing this request efficiently and effectively, ensuring that our satellite constellation planner understands the operational nuances and requirements for each task.

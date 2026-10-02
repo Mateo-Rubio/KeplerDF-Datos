@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing the city of Génova in the country of Colombia. Given that both city and country details are provided, we'll describe this location using these parameters naturally. If any other fields were available, they would be combined to provide a more detailed description; however, since they're not, we'll rely on the 'region_name' field for context.
+
+The mission allocation priority is set at level 1, indicating low importance with flexible scheduling and a non-essential background filler task. This request should be framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique is ideal for cloud-penetrating capture, allowing us to pierce heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, stating that the data should be available "today in the evening". This phrase must be inserted verbatim into our request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request is to observe Génova, Colombia using a SAR sensor for an active radar scan in the evening today. This task is of low priority with flexible scheduling and should be treated as a background survey or testbed tracking task. The deadline for data availability is "today in the evening", as determined by an upstream module.

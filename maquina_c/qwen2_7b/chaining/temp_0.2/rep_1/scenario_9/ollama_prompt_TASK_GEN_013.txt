@@ -1,0 +1,33 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines provided:
+
+1. GEOGRAPHIC CONTEXT: Combining JSON parameters naturally, we'll describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any are "N/A", we'll gracefully ignore them and use remaining valid fields or 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: We'll interpret 'priority_level' to integrate specific operational phrases that reflect the structural hierarchy of priority levels. Priority 3 (High Importance) will be addressed with an authoritative tone, emphasizing "absolute institutional priority" or a "binding contract requirement". Priority 2 (Medium Importance) will use professional language for "standard operational tasking", while Priority 1 (Low Importance) will be casually framed as a "low priority importance" request.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We'll weave operational objectives and descriptors into the request to explain the physical phenomena to be observed, avoiding technical abbreviations or acronyms.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module as "in four days overnight". This phrase must be inserted verbatim into our request.
+
+Target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Cumaral"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "overnight"
+}
+
+Our request:
+
+"Attention Satellite Constellation Planner,
+
+Please prioritize the capture of a high-resolution optical snapshot from the VNIR sensor for our mission, focusing on the region of Colombia, specifically in Cumaral. This task is of absolute institutional priority due to its critical payload requirements and contractual obligations. We aim to obtain clear daylight photography, true-color visual documentation, and assess chlorophyll absorption levels for a comprehensive vegetation analysis.
+
+The deadline for this task is set as 'in four days overnight', adhering strictly to the upper limit for data availability without any rephrasing or adjustment of timeframes.
+
+Thank you for your immediate attention to this high-priority operational task."
+
+End of request.

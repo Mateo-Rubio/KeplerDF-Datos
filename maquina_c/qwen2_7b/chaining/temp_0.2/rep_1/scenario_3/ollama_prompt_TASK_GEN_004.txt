@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing data for a location in Colombia, specifically the city of Canelos. We're utilizing the Near-Infrared (NIR) sensor for this mission, which aims to map water bodies' boundaries and assess soil moisture levels, providing essential information for agricultural monitoring and environmental studies.
+
+Given the priority level of 2, this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We're treating it as a routine monitoring activity that requires attention but doesn't necessitate an urgent operational execution or an un-preemptable mission lock.
+
+The delivery deadline for this task is "the day after tomorrow in the morning," which is the upper limit for data availability as determined by an upstream module. We're inserting this phrase verbatim into our request, ensuring clarity on when the data should be delivered without altering the time frame or rephrasing it.
+
+In summary, our request to the satellite constellation planner involves capturing high-resolution optical snapshots of Canelos, Colombia, using the Near-Infrared sensor for water body boundary mapping and soil moisture assessment. This task is part of our baseline pipeline tracking with a standard operational tone, emphasizing routine monitoring activities that are essential for environmental studies but do not require immediate attention.
