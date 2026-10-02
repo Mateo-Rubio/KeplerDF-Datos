@@ -1,0 +1,11 @@
+Given the operational guidelines and the context provided by the JSON metadata, our Earth-observation mission operator has been tasked with capturing a thermal mapping dataset for Norte, a location without a specified country. The priority level is set at low importance, indicating that this task should be treated as a flexible schedule background survey or testbed tracking task. The deadline for delivering the data products is tomorrow morning, which represents a strict operational deadline.
+
+The primary sensor to be used for this mission is TIR (Thermal Infrared), which will allow us to capture thermal signatures and map heat emissions across the region. This will involve assessing surface temperatures and identifying any thermal anomalies that may indicate unusual activity or conditions on the ground.
+
+As we prepare for this mission, it's crucial to adhere to the operational guidelines. We should not use raw technical system tags or coordinate arrays in our request. Instead, we'll describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since Norte lacks a country, city, or landmark description, we'll describe it based on the remaining valid fields or the clean 'region_name'.
+
+The priority level is Low Importance, which means this task should be treated as a low priority importance request with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+In summary, our mission involves capturing thermal mapping data using TIR sensors for Norte tomorrow morning. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. The deadline represents an absolute institutional priority, emphasizing the critical payload capture and mandatory directive involved in this "urgent operational execution" and "un-preemptable mission lock".
+
+As we proceed with preparations for this Earth-observation mission, we must ensure that our approach aligns with these guidelines to maximize the naturalness and validation accuracy of the dataset while respecting the operational context provided by the JSON metadata.
