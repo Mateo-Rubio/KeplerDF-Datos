@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, focusing on the city of Mesetas. The primary sensor for this mission is Near-Infrared (NIR), which will be used for near-infrared reflection to map water body boundaries and assess soil moisture.
+
+Given the operational guidelines, I'll interpret the metadata as follows:
+
+1. GEOGRAPHIC CONTEXT: We're observing a location in Colombia, specifically Mesetas. Since country, city, and landmark details are provided, we can describe the region naturally without using raw technical system tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: The priority level is set to 1, which indicates low importance. This request is framed as a "low priority importance" task with a flexible schedule for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is Near-Infrared (NIR), which will be used for near-infrared reflection to map water body boundaries and assess soil moisture. This involves capturing information about water bodies and soil conditions without the need for rephrasing or abbreviations.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, stating that the data should be available "today in the evening". This phrase is inserted verbatim into the request as the upper limit for data availability.
+
+In summary, our request to the automated satellite constellation planner involves observing the city of Mesetas in Colombia using Near-Infrared (NIR) sensors for water body boundary mapping and soil moisture assessment. The mission has a low priority importance with a flexible schedule for "opportunistic capture", and the deadline for data availability is set for today in the evening. This request adheres to the operational guidelines provided, ensuring naturalness and validation accuracy in the dataset.

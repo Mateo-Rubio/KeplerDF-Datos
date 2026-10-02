@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's equatorial region, with a city described as "Ecuatorial". Combining the JSON parameters naturally, we'll describe this location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'city' is "N/A", we'll use 'country' and 'region_name' for a more accurate description.
+
+The mission allocation priority is set at Level 1 (Low Importance), which means this request should be treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted to be a "non-essential background filler task", where the operator can "drop or reschedule at convenience", considering it as a "background survey" or "testbed tracking task".
+
+The primary sensor is VNIR, which will be used for "multispectral vegetation analysis". The goal is to assess the "chlorophyll absorption level" and calculate the "NDVI index" and surface reflectance. This will provide valuable data on plant health and environmental conditions.
+
+The delivery deadline is set for "in three days", specifically during the afternoon. This phrase should be inserted verbatim into our request, as it represents the upper limit for data availability without any rephrasing or shortening.
+
+In conclusion, this task request aims to capture essential data using VNIR sensors over Indonesia's equatorial region, with a low priority importance level and a flexible schedule for data collection. The deadline is set for three days during the afternoon, ensuring that we adhere to the agreed-upon timeframe for data availability.
