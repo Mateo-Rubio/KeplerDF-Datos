@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, specifically the city of Huasanó. We're focusing on capturing thermal mapping data for this region, aiming to identify heat signatures and surface temperature profiles. This task falls under priority level 1, which means it's a low-priority importance request with a flexible schedule for opportunistic capture. We're treating this as a background survey or testbed tracking task, acknowledging that it can be dropped or rescheduled at convenience.
+
+The primary sensor we're utilizing is TIR (Thermal Infrared), which will enable us to assess thermal anomalies and map heat emissions effectively. This technology is crucial for understanding the thermal dynamics of the region, providing valuable insights into various environmental conditions.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data must be available "in three days overnight," adhering strictly to this phrase as the upper limit for data availability. We're not outputting raw UTC timestamps or rephrasing the deadline; instead, we're inserting it verbatim into our request.
+
+In summary, our task involves capturing thermal mapping data in Colombia's Huasanó city using TIR technology, with a flexible schedule and a strict delivery deadline of "in three days overnight." This request aligns with our operational guidelines for natural language interpretation and priority level integration.

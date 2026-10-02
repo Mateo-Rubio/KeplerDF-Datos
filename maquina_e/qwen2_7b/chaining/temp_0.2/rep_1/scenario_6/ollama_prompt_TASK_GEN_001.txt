@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing Colombia, specifically the city of San Vicente del Caguán. We're aiming for a high-resolution optical snapshot using an active radar scan with microwave surface imaging capabilities. This will allow us to capture cloud-penetrating data that can pierce through heavy weather or reveal ground geometry details.
+
+Given the priority level of 3, this mission allocation is considered of high importance. We're framing it as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", reflecting the structural hierarchy of priority levels.
+
+The delivery deadline is set for three days around mid-day. This upper limit for data availability must be adhered to, as it's already been resolved by an upstream module. We're not outputting raw UTC timestamps or rephrasing this phrase; instead, we're inserting it verbatim into our request.
+
+In summary, our task involves capturing detailed radar imagery of San Vicente del Caguán in Colombia using SAR technology, with a high level of urgency and importance attached to the mission. The deadline for data availability is three days around mid-day, emphasizing the need for timely execution without compromising on quality or operational standards.

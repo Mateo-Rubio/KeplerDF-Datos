@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a low priority importance mission allocation. The primary sensor required is Thermal Infrared (TIR), which will be used for thermal mapping purposes. This involves capturing a heat signature or surface temperature profile and conducting thermal anomaly detection and mapping heat emissions.
+
+The geographic context of this mission involves Norte, a city in an unspecified country. The operational guidelines dictate that we should combine the JSON parameters naturally without using raw technical system tags, underscores, or coordinate arrays. Therefore, we'll describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' is marked as 'N/A', we will focus on 'city' and 'landmark'.
+
+The mission allocation priority is set to level 1, which means this request should be treated as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a "non-essential background filler task" that can be dropped or rescheduled at convenience, acting as a "background survey" or "testbed tracking task".
+
+The delivery deadline is set for the day after tomorrow during the afternoon. This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In conclusion, our mission involves capturing thermal data using a TIR sensor in Norte, a city without a specified country. This task is of low priority importance with a flexible schedule and will be executed during the afternoon on the day after tomorrow. The guidelines ensure that we interpret the metadata organically, maintaining naturalness and validation accuracy in the dataset.

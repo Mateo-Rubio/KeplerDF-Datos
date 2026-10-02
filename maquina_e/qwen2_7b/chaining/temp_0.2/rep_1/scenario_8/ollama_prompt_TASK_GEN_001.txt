@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Colombia, specifically the city of Murindó. We aim to translate this into a natural description of the location by combining the 'country' and 'city' fields from 'location_details'. Since there's no landmark specified, we'll describe the region using these fields alone.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request falls under a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". The language must reflect a casual, highly flexible tone, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is VIS (Visible Imaging System), which we'll interpret as capturing a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". This sensor aims to provide detailed visual information about the landscape during daylight hours.
+
+The delivery deadline is set for "in three days in the evening". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing, shortening, or moving it to a different part of the day. The deadline is not tied to raw UTC timestamps or countdown metrics.
+
+In summary, our task request will focus on capturing a VIS image of Murindó, Colombia, in the evening three days from now. This mission is classified as a low priority background survey with a flexible schedule, emphasizing the importance of obtaining high-quality daylight imagery for our operational needs.

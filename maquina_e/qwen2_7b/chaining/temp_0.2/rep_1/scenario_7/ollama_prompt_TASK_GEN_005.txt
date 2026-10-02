@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, natural-sounding request that maximizes validation accuracy.
+
+The geographic context involves observing the region of Italia, specifically focusing on the city of Bossico. The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture and treating it as a non-essential background filler task. The request is framed as a low priority importance with normal operational status or a workflow update.
+
+The primary sensor to be utilized is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging technology. This scan aims to capture cloud-penetrating imagery, enabling us to pierce through heavy weather conditions and capture ground geometry for detailed analysis.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for "the day after tomorrow in the morning". This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without rephrasing or altering it.
+
+In summary, our request involves observing the region of Italia, specifically focusing on Bossico, using a SAR sensor to capture cloud-penetrating imagery in the morning of the day after tomorrow. This task is treated as a low priority importance with normal operational status, allowing for flexible scheduling and opportunistic capture.

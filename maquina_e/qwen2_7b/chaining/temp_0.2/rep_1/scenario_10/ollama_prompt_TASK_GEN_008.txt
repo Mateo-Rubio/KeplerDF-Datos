@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing a high-resolution optical snapshot of a location in "Italia", specifically in the city of "Norte". This region is described using a realistic combination of country, city, and landmark fields from 'location_details'. The primary sensor to be used for this mission is VIS (visual imagery), which will provide us with a daylight photography, clear optical imagery, or true-color visual documentation of the area.
+
+The mission allocation priority is set at medium importance, indicating that this request falls under standard operational tasking or commercial tasking. We are tracking this as part of our baseline pipeline setup with fixed parameters representing normal operational status. The language used reflects an authoritative tone, emphasizing that this is a standard workflow update without any close deadlines.
+
+The delivery deadline for this task has already been resolved by an upstream module: "in four days overnight". This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without rephrasing or altering it in any way.
+
+In summary, our Earth-observation mission aims to capture high-quality visual documentation of a location in Italia's Norte city using VIS sensors. This task is part of our standard operational pipeline with medium importance and a clear deadline set for four days overnight.
