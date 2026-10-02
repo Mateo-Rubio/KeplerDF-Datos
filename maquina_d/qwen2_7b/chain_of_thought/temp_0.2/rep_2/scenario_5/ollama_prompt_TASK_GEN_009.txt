@@ -1,0 +1,5 @@
+Given the operational context, we are tasked with capturing thermal mapping data for a critical payload capture involving the city of Berau, Indonesia, on the day after tomorrow. The mission's priority level is set at Low Importance, allowing for a flexible schedule that accommodates this "non-essential background filler task". The deadline for delivering the data products is strictly by evening on the specified day.
+
+Our primary sensor will be the TIR (Thermal Infrared) instrument, which will provide us with thermal mapping capabilities to capture heat signatures and surface temperature profiles. This mission aims to assess heat emissions and detect thermal anomalies in Berau, Indonesia, during the evening hours of the target day.
+
+As this task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, we are to conduct a "testbed tracking task" that does not require immediate attention or an urgent operational execution. The deadline for this task is set by the 'target_day' and 'target_diurnal_period', which means we must ensure that our data capture concludes by evening on the day after tomorrow.
