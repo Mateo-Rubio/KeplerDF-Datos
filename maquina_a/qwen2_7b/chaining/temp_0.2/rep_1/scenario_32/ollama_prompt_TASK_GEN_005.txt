@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a location with the primary sensor being SAR (active radar scan) for microwave surface imaging, aiming to capture cloud-penetrating data or ground geometry details.
+
+Given the operational guidelines, I'll interpret the metadata organically:
+
+1. GEOGRAPHIC CONTEXT: The region is Norte, which doesn't specify a country or city. I'll describe it using realistic terms without relying on raw technical system tags, underscores, or coordinate arrays.
+2. MISSION ALLOCATION PRIORITY: Since the priority level is 1 (low importance), I'll frame this request as a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is SAR, which will be used to perform an active radar scan for cloud-penetrating capture or ground geometry mapping.
+4. DELIVERY DEADLINE: The deadline for this task is "in three days overnight", which means the data should be available by the end of the night three days from now.
+
+Taking all these factors into account, my request reads as follows:
+
+"Please schedule an active radar scan using our satellite constellation to capture cloud-penetrating data or ground geometry mapping for the region known as Norte. This task is considered a low priority importance request with a flexible schedule for opportunistic capture. It's classified as a background survey or testbed tracking task. The deadline for this data availability is 'in three days overnight', meaning it should be ready by the end of the night three days from now."
+
+I've structured this request to maximize naturalness and validation accuracy, interpreting the metadata organically according to the provided operational guidelines.

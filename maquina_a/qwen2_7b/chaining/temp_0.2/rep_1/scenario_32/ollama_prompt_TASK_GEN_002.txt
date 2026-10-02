@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Talamello. The operational guidelines dictate that we should interpret the JSON parameters naturally, avoiding technical system tags, underscores, or coordinate arrays. Instead, we combine the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location. In this case, since 'landmark' is "N/A", we'll use the 'region_name' as a fallback.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request falls under a low priority importance category with a flexible schedule for opportunistic capture. We should frame this as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is VNIR, which we interpret as "multispectral vegetation analysis". This operation aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance. The goal is to gather comprehensive data on plant health and environmental conditions.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the stated upper limit for data availability being "today in the evening". We must insert this phrase verbatim into our request, as it represents the final data availability time frame without rephrasing or altering it.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution multispectral vegetation analysis data for the region of Italia, specifically focusing on Talamello. This task falls under a low priority importance category with a flexible schedule for opportunistic capture, and the deadline for data availability is set for "today in the evening". The operation aims to assess plant health and environmental conditions using VNIR sensors, providing valuable insights for background surveys or testbed tracking tasks.
