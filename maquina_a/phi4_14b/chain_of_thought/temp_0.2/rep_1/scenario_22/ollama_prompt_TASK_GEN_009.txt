@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies capturing data "in three days" and "around mid-day," which aligns with the operational guidelines without any alterations to the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over Banyuasin, Indonesia. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index using VNIR sensors. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data delivered in three days, specifically around mid-day, to ensure accurate surface reflectance measurements.
