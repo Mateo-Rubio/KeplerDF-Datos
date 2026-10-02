@@ -1,0 +1,12 @@
+Good day to our automated satellite constellation planner,
+
+We're reaching out with a task request that's of low priority importance, which we're tagging as a flexible schedule "background survey" or "testbed tracking task". Our objective is to capture thermal mapping data using the TIR sensor for a specific location in Colombia. We're focusing on the city of Paimadó, where our interest lies in assessing heat signatures and surface temperature profiles.
+
+Given the operational guidelines, we're not mentioning raw technical system tags or coordinate arrays. Instead, we're describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+We're aiming to deliver this data by tomorrow's overnight block, ensuring that the products are ingested into our pipeline before the deadline set for tomorrow's nighttime period. This request is part of a non-essential background filler task where we explicitly note that it can be dropped or rescheduled at convenience.
+
+Thank you for your attention and cooperation in fulfilling this request. We appreciate your understanding of the operational context and constraints involved.
+
+Best regards,
+[Your Name]
