@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia, specifically the city of Gilirang. We'll describe this location using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we'll focus on 'country' and 'city' to provide a clear and vivid description.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. We'll frame this as an "absolute institutional priority" or a "binding contract requirement". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of the payload capture.
+
+Our primary sensor is 'SAR', which will be used for an active radar scan. This involves microwave surface imaging, allowing us to capture cloud-penetrating data that pierces heavy weather or captures ground geometry with precision.
+
+The deadline for this task has been resolved by an upstream module: "in three days overnight". We'll insert this phrase verbatim into our request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics will be included.
+
+In summary, we're requesting a detailed SAR scan of Indonesia's Gilirang city, with a focus on capturing cloud-penetrating imagery that reveals ground geometry and surface features. This task is of high priority and must be executed urgently, with the data needed by the specified deadline of "in three days overnight". The request is submitted with the understanding that it represents an absolute institutional priority, involving critical payload capture under an un-preemptable mission lock.

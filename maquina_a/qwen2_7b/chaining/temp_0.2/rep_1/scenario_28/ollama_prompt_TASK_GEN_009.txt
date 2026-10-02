@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves observing Indonesia, specifically Bangka Tengah city. We aim to gather data using the Near-Infrared (NIR) sensor for a "today in the evening" target day, focusing on capturing "in the evening" as the upper limit for data availability.
+
+Our mission allocation priority is set at Low Importance (Priority 1), which means this request is treated as a "flexible schedule" for "opportunistic capture", a "background survey", or a "testbed tracking task". The language must reflect a casual, highly flexible tone with an explicit note to "drop or reschedule at convenience".
+
+The physical objectives involve the NIR sensor's capabilities. We aim to assess "water body boundary mapping" and perform "soil moisture assessment" using this technology. The goal is to discriminate gradients through near-infrared reflection.
+
+In summary, our task request is as follows: "As an operator, I'm requesting a satellite observation for today in the evening over Indonesia's Bangka Tengah city using the Near-Infrared sensor. This mission has a low priority importance and should be treated as a 'flexible schedule' task, focusing on 'water body boundary mapping' and 'soil moisture assessment'. The data collection is to serve as a 'background survey' or 'testbed tracking task', with no strict deadlines beyond today's evening timeframe."
+
+This request integrates the operational guidelines provided, ensuring naturalness and validation accuracy while adhering to the structural hierarchy of mission allocation priorities and physical objectives.
