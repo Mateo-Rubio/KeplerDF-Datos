@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the information provided in the JSON metadata, our request for tomorrow's afternoon task involves capturing high-resolution optical snapshots using an active radar scan. This mission targets a location in Indonesia, specifically near the equator, which is described as "Ecuatorial" within the 'location_details'. The priority level assigned to this task is Low Importance (Priority 1), indicating that it is part of a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. This request aligns with a standard operational tasking setup, where the focus is on baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor used for this mission is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging to capture cloud-penetrating data. The goal is to obtain detailed ground geometry information that can pierce through heavy weather conditions, providing critical insights into the landscape and infrastructure in the Ecuatorial region of Indonesia.
+
+The deadline for delivering the data products is strictly set for tomorrow afternoon, as per the 'target_day' and 'target_diurnal_period' parameters. This deadline represents a strict operational requirement to ensure timely data collection without altering or extending the timeframe. The task is considered a background survey or testbed tracking task, reflecting its low priority importance within the overall mission allocation hierarchy.
+
+In summary, our request for tomorrow's afternoon task involves capturing high-resolution optical snapshots using an active radar scan with SAR technology, targeting a location near the equator in Indonesia. This mission is part of a standard operational tasking setup with fixed parameters and represents normal operational status, falling under the category of low priority importance tasks that can be flexibly scheduled according to operational convenience.
