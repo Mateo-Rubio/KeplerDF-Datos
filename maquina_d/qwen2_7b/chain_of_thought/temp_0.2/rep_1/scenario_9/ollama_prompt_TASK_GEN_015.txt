@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context, we're tasked with capturing a low priority importance request for an overnight VNIR (visual near-infrared) survey in Indonesia, specifically focusing on the equatorial region around Ecuatorial city. This "non-essential background filler task" is to be executed as part of our baseline pipeline tracking setup, representing normal operational status. The request is framed with a flexible schedule, allowing for "drop or rescheduling at convenience", treating it as a "background survey" or "testbed tracking task". The deadline for delivering the data products is set for tomorrow night, which aligns with the 'target_day' and 'target_diurnal_period' provided in the JSON metadata.
