@@ -1,0 +1,5 @@
+Good day to our automated satellite constellation planner. We're looking at a low priority importance task here, which involves capturing a multispectral vegetation analysis using VNIR sensors for Colombia's San Martín region. Our objective is to assess the chlorophyll absorption levels and calculate the NDVI index along with surface reflectance data.
+
+This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We're aiming for a flexible schedule, treating this as a background survey or testbed tracking task. It's important that we capture this data opportunistically, and it can be dropped or rescheduled at convenience if necessary.
+
+We need the data by the target day, which is four days from now, with a strict delivery deadline set for overnight. This means ensuring the products are ingested into our pipeline before the target day's overnight block to meet our operational requirements. Thank you for your attention to this task.
