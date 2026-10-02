@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The target day remains as specified, and the diurnal period is simply a constraint on when the data should be captured within that day.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This involves a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance, targeting the region of Colombia, specifically the city of San Carlos de Guaroa. The mission allocation priority for this tasking is medium importance, and we need the data products delivered in three days, overnight.
