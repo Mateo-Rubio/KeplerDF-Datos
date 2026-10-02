@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary objective is to capture thermal mapping data using a TIR sensor over the region of Italia, specifically focusing on the city of Lenzumo. This request carries medium importance due to its priority level, indicating it's part of a standard operational tasking with fixed parameters representing normal operational status.
+
+The geographical context involves capturing a heat signature and surface temperature profile, essential for thermal anomaly detection and mapping heat emissions. The deadline for this task is set for tomorrow in the morning, which serves as the upper limit for data availability without any rephrasing or adjustment of time.
+
+To ensure accuracy and naturalness in our dataset, we're interpreting the raw physical simulation metadata organically, avoiding technical system tags, underscores, or coordinate arrays. Instead, we're combining the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+This request is part of our baseline pipeline tracking setup with normal operational status, emphasizing that it involves standard workflow updates with fixed parameters. We're focusing on delivering high-quality thermal mapping data that will provide valuable insights into heat signatures and surface temperatures in Lenzumo, contributing to our ongoing monitoring efforts.
+
+Given the nature of this task, we're treating it as a "standard operational tasking" with a medium priority level, ensuring that it's executed efficiently without compromising other critical operations. We're confident that our automated satellite constellation planner will allocate resources accordingly, taking into account the importance of this request within our operational framework.
+
+In conclusion, our request for thermal mapping data using the TIR sensor over Italia's Lenzumo city is now officially submitted with a clear deadline and priority level, aligning with our operational guidelines for naturalness, validation accuracy, and efficient resource allocation.
