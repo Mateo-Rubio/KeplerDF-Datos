@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided, we are tasked with capturing high-resolution near-infrared (NIR) imagery of a location in the Ecuatorial region. The priority level for this mission is medium importance, which means it's part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The deadline to deliver the data products is set for tomorrow morning. This deadline represents a strict operational requirement and not an orbital capture window. We aim to complete this task by capturing the necessary near-infrared reflection data to map water body boundaries or assess soil moisture, which will help in discriminating gradients in the area.
+
+To ensure we meet this deadline, our automated satellite constellation planner will allocate resources accordingly, focusing on the Ecuatorial region during the morning hours. The imagery collected will provide critical insights into water bodies and soil moisture levels, contributing to our baseline pipeline tracking setup with normal operational status.
