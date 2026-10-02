@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing a location in Indonesia, specifically within the city of Ecuatorial. Given that country, city, or landmark details are available, we'll describe this location using these fields naturally. The region's specifics will be woven into the request to ensure a realistic and organic interpretation.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for an opportunistic capture. This task is framed as a low priority importance request with a "flexible schedule" for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task", reflecting its status within the baseline pipeline tracking setup with normal operational parameters.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will be described as an active radar scan using microwave surface imaging. This method is employed for cloud-penetrating capture, allowing us to pierce heavy weather conditions or capture ground geometry with precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, stating that the data should be available "in four days overnight". This phrase will be inserted verbatim into our request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics will be outputted.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please observe a location in Indonesia within the city of Ecuatorial using an active SAR (Synthetic Aperture Radar) scan with microwave surface imaging capabilities. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. It's treated as a background survey or testbed tracking task, reflecting its status within the baseline pipeline tracking setup with normal operational parameters. The deadline for this task is 'in four days overnight', as per the upstream module's resolution."
+
+This request adheres to the operational guidelines provided, ensuring naturalness and validation accuracy of the dataset while maximizing its utility.

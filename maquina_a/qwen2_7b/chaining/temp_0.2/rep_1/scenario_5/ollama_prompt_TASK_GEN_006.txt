@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Indonesia, specifically the city of Pangkalan Bun. This location will be observed using a VIS sensor for a daylight optical snapshot, aiming to achieve clear optical imagery and true-color visual documentation of the area.
+
+Given the priority level is 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is set for "in four days overnight". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our mission allocation involves capturing high-resolution optical imagery of Pangkalan Bun using a VIS sensor, with a low priority importance level and a flexible schedule for data collection. The deadline is set for four days overnight, ensuring that this task is completed within the specified timeframe.

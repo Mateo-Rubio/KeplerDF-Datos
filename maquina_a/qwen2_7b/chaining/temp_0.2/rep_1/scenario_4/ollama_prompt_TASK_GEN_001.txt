@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a specific geographic location using the VNIR sensor on a future day, which is three days in the evening.
+
+The target area is located in Colombia, specifically within the city of Calamar. This region will be captured using high-resolution optical imagery for daylight photography, providing clear visual documentation and true-color visual details that are essential for our baseline pipeline tracking setup.
+
+Given the priority level of this task being 1 (low importance), it's framed as a low priority importance request with a flexible schedule for opportunistic capture. This is treated as a non-essential background filler task, where we explicitly note to drop or reschedule at convenience. The language used reflects a casual and highly flexible tone, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module, set for three days in the evening. This phrase is inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request involves capturing high-resolution optical imagery from the VNIR sensor over the city of Calamar in Colombia, three days in the evening. This is done with a low priority importance tone, focusing on background survey and testbed tracking tasks that can be conveniently scheduled or dropped as needed.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing imagery of a location in Indonesia, specifically the city of Ecuatorial. The region's description combines country, city, and landmark fields from 'location_details', providing a realistic context for the satellite's mission. If any of these details are "N/A", we will gracefully describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to Low Importance (Priority 1). This request is framed as a low priority importance task with a flexible schedule for opportunistic capture, treated as a non-essential background filler task. The language used reflects this structural hierarchy, explicitly noting that it's a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar). This technology enables active radar scans using microwave surface imaging, which is particularly useful for cloud-penetrating capture and capturing ground geometry. The goal is to achieve this through an "active radar scan", emphasizing its capability to pierce heavy weather or capture ground geometry.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for today in the evening, which must be inserted verbatim into our request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request to the satellite constellation planner involves capturing high-resolution SAR imagery of a location in Indonesia's Ecuatorial city during the evening hours today. This task is characterized by low priority importance and flexible scheduling, focusing on active radar scans for cloud-penetrating capture and ground geometry assessment.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on natural language interpretation of the provided data.
+
+The geographic context involves capturing high-resolution optical imagery of Norte, Brazil, using a VNIR sensor. This location description combines the 'target_day' and 'target_diurnal_period' parameters with the 'country' field from 'location_details', as 'city' and 'landmark' are marked as "N/A". The imagery aims to provide daylight photography, clear optical imagery, or true-color visual documentation of the area.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This request is framed as an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. It's a binding contract requirement with fixed parameters representing normal operational status.
+
+The physical objectives are to assess the chlorophyll absorption level through multispectral vegetation analysis or calculate the vegetation NDVI index and surface reflectance using the VNIR sensor. This task is part of our baseline pipeline tracking setup, contributing to standard workflow updates and commercial tasking.
+
+The delivery deadline for this task is "in three days in the morning". This phrase is inserted verbatim into the request as the stated upper limit for data availability, without rephrasing or altering the time frame.
+
+In summary, our request involves capturing high-resolution optical imagery of Norte, Brazil, using a VNIR sensor on the specified day and time. The mission is of high importance, requiring urgent operational execution and contributing to standard workflow updates. The deadline for data availability is "in three days in the morning", as determined by an upstream module.
