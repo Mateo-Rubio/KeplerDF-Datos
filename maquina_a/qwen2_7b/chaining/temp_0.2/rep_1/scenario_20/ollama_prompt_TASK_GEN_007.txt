@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing imagery of Puerto Libertador, Colombia, using the primary SAR sensor. This request carries a low importance level, implying a flexible schedule for opportunistic capture, fitting into our background survey or testbed tracking task.
+
+The mission allocation priority is set to 'Priority 1', which means this request is treated as a non-essential background filler task with an unstructured deadline of "in four days in the morning". The language must reflect this status without mentioning raw technical details or numbers, focusing on standard operational tasks.
+
+The sensors and physical objectives are interpreted naturally. The SAR sensor will perform an active radar scan using microwave surface imaging to capture cloud-penetrating imagery, essential for understanding ground geometry under various weather conditions. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In conclusion, this request is for a routine monitoring task that involves capturing high-resolution SAR imagery of Puerto Libertador, Colombia, in the morning four days from now. The imagery will serve as a valuable addition to our dataset without imposing any urgent operational execution requirements or contractual obligations.

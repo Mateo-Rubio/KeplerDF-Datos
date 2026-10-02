@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on natural language interpretation of operational guidelines.
+
+The geographic context involves observing Malaysia's Belaga region overnight the day after tomorrow. We're utilizing an active radar scan for microwave surface imaging, aiming to capture cloud-penetrating data that pierces heavy weather conditions or reveals ground geometry. This task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is medium importance, indicating this request is a standard operational tasking or commercial tasking within our baseline pipeline tracking setup. The language reflects an authoritative tone without implying urgency or contractual binding, emphasizing normal operational status and workflow updates.
+
+Given the operational objectives, we're focusing on the primary sensor being SAR for this task. The goal involves capturing high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation. This is complemented by the use of thermal mapping capabilities provided by TIR sensors to capture heat signatures, surface temperature profiles, or perform thermal anomaly detection and mapping of heat emissions.
+
+In summary, our request is to observe Malaysia's Belaga region overnight the day after tomorrow using an active radar scan for microwave surface imaging. The task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status. The language used reflects medium priority importance without implying urgency or contractual binding, emphasizing normal workflow updates and standard operational tasks.
+
+The deadline for this task has already been resolved by an upstream module, which is "the day after tomorrow overnight." This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are to be outputted.
