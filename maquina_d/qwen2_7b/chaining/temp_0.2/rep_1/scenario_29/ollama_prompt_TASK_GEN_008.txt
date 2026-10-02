@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified parameters.
+
+The geographic context involves capturing data from the region of Italia, specifically focusing on the city of Monte Romano. This location is described using a realistic combination of country, city, and landmark fields from 'location_details'. Given that the provided JSON does not specify a landmark, we'll describe this as an observation over the picturesque Italian landscape.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic data collection". It's explicitly noted that this operator has the discretion to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified in the JSON is "NIR", which we interpret as capturing near-infrared reflection. The goal here is to map water body boundaries and assess soil moisture, distinguishing gradients with precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set at "in four days overnight". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing or altering it.
+
+In summary, our request is to capture near-infrared reflection data over the picturesque region of Italia, specifically focusing on Monte Romano. This task is categorized as a low priority importance request with a flexible schedule for "opportunistic data collection". The deadline for data availability is set at "in four days overnight", ensuring that we adhere to the established timeline without any rephrasing or alteration.

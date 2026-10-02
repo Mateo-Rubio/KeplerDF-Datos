@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically.
+
+The geographic context involves observing La Cumbre, Colombia, which is a specific location within the broader region. The primary sensor designated for this task is SAR (Synthetic Aperture Radar), enabling us to conduct an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture and ground geometry mapping, providing valuable insights into the terrain.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status with no indication of urgency or contractual binding. This request is to be treated as a routine monitoring activity without any preemption concerns.
+
+The deadline for this task has been resolved by an upstream module and is set for four days from now around mid-day. We are not concerned with raw UTC timestamps or countdown metrics; instead, we focus on delivering the data within this specified timeframe.
+
+In summary, our request involves capturing high-resolution SAR imagery of La Cumbre, Colombia, focusing on cloud-penetrating capture and ground geometry mapping. This task is part of our standard operational pipeline and will be executed according to fixed parameters with no priority level indicating an urgent or contractual requirement. The data delivery deadline is set for four days from now around mid-day, ensuring timely availability for further analysis.

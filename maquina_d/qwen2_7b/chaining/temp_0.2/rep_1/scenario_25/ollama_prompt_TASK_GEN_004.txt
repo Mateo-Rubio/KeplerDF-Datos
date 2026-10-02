@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary objective is to capture a multispectral vegetation analysis using VNIR sensors over the region of Colombia, specifically focusing on the city of La Macarena. This low priority importance request aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index for this area.
+
+Given the operational guidelines, I will not use raw technical system tags or coordinate arrays in my final output. Instead, I'll describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", I'll combine 'country' and 'city' to provide a natural description.
+
+The mission allocation priority for this task is set at Level 1, indicating that it's a low priority importance request with a flexible schedule for opportunistic capture. This means the task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module: "the day after tomorrow overnight". I will insert this phrase verbatim into my request, as the stated upper limit for data availability. This deadline is not to be rephrased, shortened, or moved to a different part of the day.
+
+In summary, our mission aims to gather detailed multispectral vegetation data over La Macarena, Colombia, with an emphasis on flexibility and opportunistic capture, adhering to the guidelines provided. The task will be executed under the constraint that the data must be available by "the day after tomorrow overnight".
