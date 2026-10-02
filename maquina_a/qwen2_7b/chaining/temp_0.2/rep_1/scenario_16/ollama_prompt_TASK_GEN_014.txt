@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Norte, a city in the region with no specified country details. This imagery will serve as daylight photography, providing clear optical information for documentation purposes.
+
+The mission allocation priority is set at Low Importance (Priority 1), indicating that this request is a flexible schedule task for opportunistic capture. It's labeled as a non-essential background filler task, with an explicit note to drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor involved is VIS (visual imagery), which will be used to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This will help in understanding surface reflectance and capturing true-color visual documentation.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being today in the evening. The request must include this phrase verbatim as the stated time frame for data availability, without any rephrasing or adjustments to the timing.
+
+In summary, our request involves capturing high-resolution VIS imagery of Norte, a city in an unspecified country, with a low priority importance level and a flexible schedule for data collection. The deadline for this task is today in the evening, as determined by an upstream module.
