@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the target context provided in JSON format.
+
+The geographic context involves capturing imagery of "Sotto il Monte Giovanni XXIII", located within the picturesque country of Italia. This location, while not explicitly detailed with city or landmark specifics, is described using the available 'country' field to ensure a natural and contextual representation.
+
+The mission allocation priority for this task is set at level 1, indicating low importance. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted that this operator can "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor designated for this mission is VNIR, which will be used to conduct "multispectral vegetation analysis". The goal here is to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. This operation aims to provide valuable insights into the health and characteristics of the vegetation in the targeted area.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability set as "tomorrow around mid-day". This phrase is inserted verbatim into the request, ensuring clarity on when the data should be available.
+
+In conclusion, this Earth-observation mission request is structured to align with operational guidelines, focusing on natural language interpretation of technical metadata and emphasizing the specific objectives and context of the task. The request is designed to facilitate efficient communication between operators and planners, ensuring that the satellite constellation is allocated resources effectively for the given mission.

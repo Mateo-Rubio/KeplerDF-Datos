@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for tomorrow's overnight delivery deadline.
+
+The geographic context involves observing Indonesia, with the city of Ecuatorial as our target location. The primary sensor designated for this mission is VNIR, which will be used for multispectral vegetation analysis. This task aims to assess chlorophyll absorption levels and calculate a vegetation NDVI index, providing valuable insights into surface reflectance.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator will drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+To maximize naturalness and validation accuracy, we interpret the operational guidelines organically. We avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+In conclusion, our task request integrates specific operational phrases to reflect the structural hierarchy of mission allocation priority. We emphasize that this is a low priority importance request with normal operational status or standard workflow update. The language heavily implies an urgent operational execution and an un-preemptable mission lock for tasks with higher priority levels.
+
+This request is submitted with the understanding that the deadline for this task has already been resolved by an upstream module, with the data availability upper limit set as "tomorrow overnight". We do not output raw UTC timestamps, digits, or countdown metrics but instead insert this phrase verbatim into our request.
