@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on natural language interpretation of the provided JSON format.
+
+The geographic context involves observing a location in Norte, Brazil. Although specific country, city, and landmark details are not available, we'll describe the area using the remaining valid fields or the clean 'region_name' if necessary. The mission allocation priority is set to 'Priority 1', indicating low importance with a flexible schedule for opportunistic capture. This request is framed as a "non-essential background filler task", fitting into our "background survey" or "testbed tracking task" pipeline.
+
+The primary sensor involved is 'TIR', which will be used for thermal mapping purposes. The goal is to capture a "heat signature" or conduct "surface temperature profiling" and detect thermal anomalies, essential for monitoring heat emissions in the area.
+
+The delivery deadline is set for "tomorrow in the morning", serving as the upper limit for data availability. This phrase must be inserted verbatim into our request, without any rephrasing, shortening, or altering the time of day.
+
+In summary, our task request involves observing a location in Norte, Brazil, using thermal mapping capabilities provided by the 'TIR' sensor. The mission is of low priority with a flexible schedule and is due for delivery tomorrow in the morning. This task aligns with our "background survey" or "testbed tracking task" setup, fitting into our baseline pipeline tracking with fixed parameters representing normal operational status.

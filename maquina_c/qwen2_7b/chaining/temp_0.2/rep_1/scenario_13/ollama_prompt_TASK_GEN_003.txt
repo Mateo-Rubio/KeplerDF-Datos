@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for Indonesia, specifically in an area known as Ecuatorial. We're not using raw technical system tags or coordinate arrays; instead, we're describing the location using a realistic combination of country, city, and landmark fields from 'location_details'. Since 'city' is "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at High Importance (Priority 3), which requires an authoritative, explicit, and commanding tone. We're framing this as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of the payload capture.
+
+The primary sensor is set to Near-Infrared (NIR), which we'll interpret as capturing data for "water body boundary mapping" and "soil moisture assessment". This involves discriminating gradients through near-infrared reflection, providing valuable insights into water bodies and soil conditions.
+
+The delivery deadline is tomorrow during the afternoon. This phrase will be inserted verbatim into our request, as the stated upper limit for data availability. We're not outputting raw UTC timestamps, digits, or countdown metrics; instead, we're focusing on delivering the data by this specific time frame.
+
+In summary, our task request involves capturing high-resolution optical snapshots using Near-Infrared technology in Indonesia's Ecuatorial region, with a clear deadline of tomorrow afternoon for data delivery. This request is treated as a "critical payload capture" under "high priority importance", requiring an "urgent operational execution" and emphasizing the "un-preemptable mission lock". The language used reflects the structural hierarchy of mission allocation priorities and the operational status of this task.

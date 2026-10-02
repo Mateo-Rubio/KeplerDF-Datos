@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing a thermal mapping of a specific area, which combines the 'country' and 'city' fields from 'location_details'. We're focusing on the 'Italia' country and 'Vigonza' city for our observation. The 'primary_sensor' is set to 'NIR', which we interpret as "near-infrared reflection" aimed at mapping water body boundaries or assessing soil moisture.
+
+The mission allocation priority level is '2', indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is framed as a routine monitoring activity, emphasizing its importance within our standard workflow updates.
+
+The delivery deadline is set for "the day after tomorrow in the evening", which is the upper limit for data availability as determined by an upstream module. We've included this phrase verbatim in our request to ensure clarity on when the data should be delivered.
+
+In conclusion, our request is to capture a detailed thermal mapping of the 'Vigonza' area in 'Italia', utilizing near-infrared reflection capabilities of our satellite constellation for water body boundary mapping or soil moisture assessment. This task is part of our standard operational activities and will be executed with normal priority, adhering to our baseline pipeline tracking setup with fixed parameters.
+
+Let's proceed with the execution of this request, ensuring that we meet the deadline set for "the day after tomorrow in the evening" as specified by our upstream module.
