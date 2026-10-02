@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata. The objective is to translate this JSON data into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing thermal mapping data using the TIR sensor over the region of Italia, specifically focusing on the city of Argenta. This location is described using realistic combinations of country, city, and landmark fields from 'location_details', with 'country' being Italia and 'city' being Argenta. The 'landmark' field was not provided or was "N/A", so it's gracefully ignored.
+
+The mission allocation priority is set to High Importance (Priority 3), which requires an authoritative tone. This task is framed as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+The sensors and physical objectives are interpreted as follows: the primary sensor, TIR, aims to capture thermal mapping data. This goal is explained as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+The delivery deadline is set for "the day after tomorrow overnight". This phrase is inserted verbatim into the request, serving as the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are included.
+
+In summary, this Earth-observation mission operator is requesting a thermal mapping task using the TIR sensor over Italia's Argenta city with an urgent operational execution requirement and a deadline set for "the day after tomorrow overnight". The request is tailored to maximize naturalness and validation accuracy while adhering to the provided operational guidelines.

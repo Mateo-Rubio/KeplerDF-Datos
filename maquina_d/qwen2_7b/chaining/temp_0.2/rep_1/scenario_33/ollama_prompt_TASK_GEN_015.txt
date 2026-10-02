@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Pangalaseang region, focusing on capturing thermal mapping data for heat signature detection and surface temperature profiling. This task carries low importance, as indicated by the priority level of 1, which is framed as a "flexible schedule" request with "non-essential background filler tasks". The operator explicitly notes that this task can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized is the TIR (Thermal Infrared), which will enable capturing thermal anomalies and mapping heat emissions. This sensor's objective is explained as "thermal mapping", emphasizing its capability for "heat signature" detection and surface temperature profiling.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability set as "today in the evening". The request does not include raw UTC timestamps or rephrases the phrase, maintaining it verbatim as "today in the evening".
+
+In summary, this task request is structured to align with operational guidelines, ensuring clear communication of the mission's objectives, priority level, sensor usage, and deadline. The aim is to provide a natural and validated dataset for further analysis and decision-making processes.

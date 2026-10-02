@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English description based on the provided raw physical simulation metadata. The objective is to translate this JSON format into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing a location in Norte, Brazil, which is described using realistic combinations of available fields from 'location_details'. Since the country and city are marked as "N/A", we will describe the location using the remaining valid fields or the clean 'region_name' if applicable. The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for an opportunistic capture, framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This task is labeled as a "non-essential background filler task", treated as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which will be interpreted as an active radar scan using microwave surface imaging. The goal is to capture cloud-penetrating imagery that pierces heavy weather conditions, providing detailed ground geometry information.
+
+The target day for this task is set for "in three days overnight", meaning the deadline for data availability is resolved by an upstream module and must be inserted verbatim into our request. This phrase represents the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please observe a location in Norte, Brazil, using an active radar scan (SAR) with microwave surface imaging capabilities. The objective is to capture cloud-penetrating imagery that provides detailed ground geometry information. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture, treated as a background survey or testbed tracking task. The deadline for data availability is set for 'in three days overnight', meaning the data must be available by this time frame."
+
+This request ensures that our Earth-observation mission operator's task is communicated in a natural and conversational manner, adhering to operational guidelines for geographic context interpretation, mission allocation priority, sensors and physical objectives, and delivery deadline.
