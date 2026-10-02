@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context of this mission involves capturing data for a low priority importance task, with a flexible schedule for opportunistic capture, treating it as a non-essential background filler task. This request aligns with our baseline pipeline tracking setup featuring standard operational status or workflow update.
+
+The target geographic location is Colombia, specifically the city of Puerto Rico, where we aim to conduct a multispectral vegetation analysis using VNIR sensors. Our goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index for surface reflectance. This task requires capturing high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation.
+
+Given the operational guidelines, we emphasize that this request does not involve any raw technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for today in the evening, which is the upper limit for data availability as stated by our system. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, this Earth-observation mission adheres to our operational guidelines, ensuring a natural and validated dataset with maximum accuracy. Our request is now ready for execution by the automated satellite constellation planner.

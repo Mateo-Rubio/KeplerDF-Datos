@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata. The primary sensor specified is SAR (Synthetic Aperture Radar), which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating data, ensuring ground geometry is accurately mapped even under heavy weather conditions.
+
+The geographic context involves Indonesia, with a specific focus on the city of Malinau. Although the country and city details are provided, the landmark field is "N/A", so we'll describe the location using the remaining valid fields or the clean 'region_name'. The region name will be integrated into our request to provide a realistic context.
+
+The mission allocation priority level is set at 1, indicating low importance. This request will be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We'll explicitly note that this is a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The delivery deadline for this task has already been resolved by an upstream module, set for "the day after tomorrow overnight". This phrase will be inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request will be structured to reflect the operational guidelines provided, ensuring naturalness and validation accuracy in the dataset. We aim to translate the raw physical simulation metadata into a single, highly realistic, and conversational English request that adheres to these guidelines while maintaining the essence of the mission's objectives and priorities.

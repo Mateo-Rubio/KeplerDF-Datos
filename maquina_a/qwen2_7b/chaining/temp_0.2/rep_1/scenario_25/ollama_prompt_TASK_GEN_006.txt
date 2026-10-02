@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian region of Singkep Barat using the VNIR sensor on the target day, which is four days in the morning.
+
+The geographic context is set within Indonesia, focusing on the city of Singkep Barat. The location details provide a realistic description of the area without using raw technical system tags or coordinate arrays. The mission allocation priority is Low Importance, indicating that this request is treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "non-essential background filler task", which can be "dropped or rescheduled at convenience" and is considered a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are interpreted naturally. The VNIR sensor aims to achieve "multispectral vegetation analysis" for assessing the "chlorophyll absorption level" or calculating the "NDVI index" and surface reflectance. This operation will provide valuable insights into the health and composition of vegetation in the area.
+
+The delivery deadline is already resolved by an upstream module, with the data availability set as "in four days in the morning". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In conclusion, this task request combines the operational guidelines to create a natural and accurate representation of the Earth-observation mission, focusing on the Indonesian region of Singkep Barat with the VNIR sensor, aiming for "multispectral vegetation analysis", and adhering to the specified low priority importance deadline.

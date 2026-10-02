@@ -1,0 +1,10 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The geographic context involves capturing data for an unspecified location, as the country details are not available. However, we can describe the region using the city name "Ecuatorial". The mission allocation priority is set at medium importance (Priority 2), which implies a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor used for this task is Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture. This request involves capturing data on "tomorrow in the morning", specifically during the early hours of the day, as per the deadline already resolved by an upstream module.
+
+To summarize our request:
+"Please allocate a satellite mission with a medium priority level to capture Near-Infrared (NIR) data for water body boundaries and soil moisture assessment at Ecuatorial region. The task is part of our standard operational pipeline tracking setup with fixed parameters, representing normal operational status. The deadline for this task is tomorrow in the morning, as specified by the upstream module."
+
+This request integrates the operational guidelines provided, ensuring a natural flow while adhering to the structural hierarchy of priority levels and incorporating the specific operational objectives related to the sensor type.
