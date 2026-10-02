@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided in the JSON metadata, we are tasked with capturing a high-resolution active radar scan using microwave surface imaging technology. This scan aims to cloud-penetrate and capture ground geometry for a location in Colombia, specifically within the city of Tame. The mission allocation priority is set at low importance, indicating that this request can be treated as a flexible schedule task, suitable for opportunistic capture or fitting into a background survey.
+
+The deadline for delivering the data products is set for "in three days", with the target diurnal period being overnight. This means we are looking to execute the mission during the night hours when conditions may offer optimal visibility and reduced interference from natural lighting sources. The specific operational objectives include assessing surface temperature profiles and conducting thermal anomaly detection, as well as mapping heat emissions.
+
+In summary, our Earth-observation mission operator will focus on capturing detailed microwave imagery of the city of Tame in Colombia overnight, aiming to provide valuable insights into surface temperatures and potential anomalies without altering the deadline or shifting the timeframe to an adjacent part of the day.

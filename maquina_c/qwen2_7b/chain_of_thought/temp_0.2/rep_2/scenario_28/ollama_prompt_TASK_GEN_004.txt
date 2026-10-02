@@ -1,0 +1,16 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+In response to our operational guidelines, we are tasked with capturing a thermal mapping dataset for the region of Colombia, specifically focusing on the city of San Pablo. This mission allocation carries a medium importance level, indicating that it is part of our standard operational tasking and represents normal pipeline tracking with fixed parameters.
+
+The primary sensor required for this task is the TIR (Thermal Infrared) sensor, which will be used to gather thermal data overnight tomorrow. This active radar scan will provide us with microwave surface imaging capabilities, allowing us to capture cloud-penetrating data that can pierce through heavy weather conditions or reveal ground geometry.
+
+The deadline for delivering this data product is set for tomorrow's overnight period. This temporal parameter represents a strict operational deadline for the data delivery, not an orbital capture window. We are not altering, extending, shifting, or interpreting this deadline in any way.
+
+In summary, our task involves capturing thermal mapping data for San Pablo, Colombia, using the TIR sensor overnight tomorrow. This mission is part of our standard operational pipeline tracking and carries a medium importance level, adhering to our baseline workflow updates with fixed parameters. The deadline for delivering this dataset is set for tomorrow's overnight period, as specified in our task context JSON metadata.
