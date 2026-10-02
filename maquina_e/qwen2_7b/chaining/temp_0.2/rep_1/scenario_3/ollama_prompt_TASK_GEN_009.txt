@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'region_name' and nested 'location_details', interpreting them naturally without using raw technical system tags, underscores, or coordinate arrays.
+
+Our target geographic context involves Indonesia, specifically Kapuas Hulu. We're combining these parameters to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. We're framing this as an "absolute institutional priority" or a "binding contract requirement". This involves a "critical payload capture" or a "mandatory directive", heavily implying an "urgent operational execution" and an "un-preemptable mission lock".
+
+Our primary sensor is 'SAR', which we interpret as an "active radar scan" using "microwave surface imaging". The goal is to capture this for "cloud-penetrating capture", allowing us to pierce heavy weather or capture ground geometry. We're integrating specific operational phrases to reflect the structural hierarchy of priority levels.
+
+The delivery deadline for this task has been resolved by an upstream module. It's set for "the day after tomorrow overnight". We've inserted this phrase verbatim into our request, as the stated upper limit for data availability. We do not rephrase or shorten it and ensure it's placed at the specified time of day.
+
+In summary, our task request is to capture a detailed radar scan of Kapuas Hulu in Indonesia during the overnight period on the day after tomorrow. This is a high-priority mission requiring urgent execution and is part of an absolute institutional priority or binding contract requirement involving critical payload capture. The deadline for data availability is set for "the day after tomorrow overnight", as determined by an upstream module.
