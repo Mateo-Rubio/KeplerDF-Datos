@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for France, specifically in Norte city, using the 'SAR' primary sensor. This task has been allocated with a priority level of 1, indicating it's a low importance request with a flexible schedule for opportunistic capture. The mission allocation authority and asset contractual value are not the focus here; instead, we're treating this as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The operational guidelines suggest describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we'll describe the location using the remaining valid fields or 'region_name'. In this case, we'll mention France and Norte city.
+
+The physical objectives are to perform an active radar scan using microwave surface imaging for cloud-penetrating capture. This will allow us to capture ground geometry, even in heavy weather conditions. The delivery deadline is set for "in four days in the morning", which means we need to ensure that the data is available by this specific time.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please conduct an active radar scan using microwave surface imaging to capture ground geometry in Norte city, France. This task has a priority level of 1, indicating it's a low importance request with a flexible schedule for opportunistic capture. The deadline for this task is set for 'in four days in the morning'. Please ensure that the data availability adheres to this specific time frame."
+
+This request aligns with the operational guidelines and provides a clear, conversational description of the task, incorporating the geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline."

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our focus is on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' keys.
+
+The geographic context involves capturing data for France, specifically in Norte, utilizing an active radar scan through microwave surface imaging. This task aims to penetrate heavy weather conditions or capture ground geometry with precision. The mission allocation priority is set at medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup. We're dealing with fixed parameters representing normal operational status and a routine monitoring process.
+
+The deadline for this task is the day after tomorrow overnight, which means we need to ensure that our satellite constellation is ready to capture the data within these constraints without any restraints on time or flexibility. The request is framed as a standard operational task with an un-preemptable mission lock due to its medium priority status.
+
+In summary, our request is for a SAR scan of France's Norte region overnight on the day after tomorrow, focusing on capturing ground geometry and penetrating heavy weather conditions. This task is part of our standard operational pipeline tracking setup with fixed parameters and represents normal operational status.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing Indonesia's Malinau region overnight tomorrow. The mission allocation priority is low importance, indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The primary sensor involved is the Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture. This task aims to provide insights into the environmental conditions by capturing near-infrared reflection data during the overnight period when satellite observations are typically more favorable due to reduced atmospheric interference.
+
+Given the operational guidelines, we avoid using raw technical system tags or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. The stated upper limit for data availability is "tomorrow overnight". We must insert this phrase verbatim into our request, as the stated time frame for data availability.
+
+In summary, our request to the satellite constellation planner involves capturing near-infrared reflection data over Indonesia's Malinau region overnight tomorrow, with a low priority importance. This task aims to provide environmental insights through water body boundary mapping and soil moisture assessment using satellite observations during an opportune time when atmospheric conditions are most favorable.

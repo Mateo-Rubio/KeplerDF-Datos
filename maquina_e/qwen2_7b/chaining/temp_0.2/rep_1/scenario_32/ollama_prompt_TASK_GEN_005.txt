@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing a location with the primary sensor being SAR (active radar scan) for cloud-penetrating capture using microwave surface imaging.
+
+Given that the country and city details are not available, we'll describe the location using the region name provided in 'region_name'. Since there's no specific landmark mentioned, we'll focus on capturing ground geometry and surface features without relying on a particular landmark.
+
+The mission allocation priority is set to Low Importance (Priority 1), which means this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's framed as a non-essential background filler task that can be dropped or rescheduled at convenience, acting as a background survey or testbed tracking task.
+
+The deadline for this task has been resolved by an upstream module, and it's set to "in three days overnight". This phrase is inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are included in the request.
+
+In summary, our task involves capturing ground geometry and surface features using SAR technology on a location described by its region name, with an emphasis on flexibility and opportunistic capture within the specified deadline. The request is tailored to ensure naturalness and validation accuracy while adhering to operational guidelines.

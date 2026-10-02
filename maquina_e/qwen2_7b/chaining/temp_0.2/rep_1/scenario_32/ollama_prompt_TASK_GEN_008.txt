@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing a location in "Norte", a city within the country of "Italia". Since specific details about landmarks are not provided, we'll describe this area based on its geographical coordinates. The mission allocation priority is set to level 1, indicating low importance with a flexible schedule for opportunistic capture, treated as a non-essential background filler task.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This scan aims to capture cloud-penetrating imagery that pierces heavy weather conditions or captures ground geometry with high precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability set as "tomorrow in the evening". This phrase must be inserted verbatim into our request, as the stated time frame for data availability.
+
+In summary, we're requesting a SAR scan of a location in "Norte", Italia, to capture cloud-penetrating imagery for ground geometry observation. This task is considered a low priority importance request with a flexible schedule for opportunistic capture, fitting into our background survey or testbed tracking tasks.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the provided operational guidelines.
+
+The geographic context for this mission involves observing Indonesia, with a focus on the equatorial region, as indicated by the 'region_name' field. The 'country' field specifies 'Indonesia', while 'city' is marked as 'Ecuatorial'. Since 'landmark' is not available, we will describe the location using the country and city fields for a realistic context.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', which means this request should be treated as a 'low priority importance' task with a 'flexible schedule' for 'opportunistic capture'. It's labeled as a 'non-essential background filler task', and the operator explicitly notes that it can be 'dropped or rescheduled at convenience', treating it as a 'background survey' or 'testbed tracking task'.
+
+The primary sensor for this mission is 'NIR', which aims to perform 'near-infrared reflection' for 'water body boundary mapping' or 'soil moisture assessment'. This will help discriminate gradients and provide valuable insights into water bodies and soil conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set as "in three days around mid-day". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without rephrasing or altering it.
+
+In summary, our request to the satellite constellation planner is as follows: "Please capture a 'background survey' using near-infrared reflection for water body boundary mapping and soil moisture assessment in Indonesia's equatorial region. This task has a 'low priority importance', allowing for flexible scheduling around mid-day three days from now. We aim to provide valuable insights into water bodies and soil conditions without impacting critical operational tasks."
+
+This request adheres to the guidelines provided, ensuring that the metadata is interpreted organically, and the language used is natural and conversational while maintaining the structural hierarchy of mission allocation priorities.

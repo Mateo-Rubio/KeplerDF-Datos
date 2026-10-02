@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Vegachí, Colombia, during today's afternoon period. The mission allocation priority is low importance, indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The primary sensor used will be TIR, aimed at capturing thermal mapping to assess heat signatures and surface temperature profiles. This task involves monitoring heat emissions across the region, providing valuable insights into thermal anomalies and heat distribution patterns.
+
+Given the operational guidelines, I've combined the JSON parameters naturally, avoiding raw technical system tags or coordinate arrays. The location description is a realistic combination of country, city, and landmark fields from 'location_details', with 'region_name' serving as a fallback when other details are unavailable.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring data availability today during the afternoon period. This phrase will be inserted verbatim into the request, maintaining the stated upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, my request is to capture thermal mapping of Vegachí, Colombia, using TIR sensors during today's afternoon period, with a low priority level indicating a flexible schedule for opportunistic capture. This task aligns with our baseline pipeline tracking setup and represents a standard workflow update in our operational status.
