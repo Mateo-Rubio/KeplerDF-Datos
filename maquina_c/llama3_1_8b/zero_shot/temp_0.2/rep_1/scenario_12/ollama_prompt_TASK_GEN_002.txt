@@ -1,0 +1,75 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves interpreting the provided JSON metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Describe this request as a "standard operational tasking" for Priority 2 (Medium Importance).
+   - Frame this as a "low priority importance" request with a "flexible schedule" for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal as a "high-resolution optical snapshot" for VIS.
+   - Explain the goal as an "active radar scan" using "microwave surface imaging" for SAR.
+   - Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions for TIR.
+   - Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance for VNIR.
+   - Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients for NIR.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+   - Use phrases like "...needed by [target_day] [target_diurnal_period] at the latest." or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Napoli"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Final natural user request:
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves interpreting the provided JSON metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Describe this request as a "standard operational tasking" for Priority 2 (Medium Importance).
+   - Frame this as a "low priority importance" request with a "flexible schedule" for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal as a "high-resolution optical snapshot" for VIS.
+   - Explain the goal as an "active radar scan" using "microwave surface imaging" for SAR.
+   - Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions for TIR.
+   - Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance for VNIR.
+   - Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients for NIR.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+   - Use phrases like "...needed by [target_day] [target_diurnal_period] at the latest." or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Napoli"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Final natural user request:
+"Capture a high-resolution thermal map of Napoli, Italy, using the TIR sensor by the day after tomorrow in the evening at the latest. This is an absolute institutional priority and a binding contract requirement for critical payload capture."
