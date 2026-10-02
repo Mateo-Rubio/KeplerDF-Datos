@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data from Indonesia, specifically from the city of Ecuatorial. This location will be described using realistic combinations of country, city, and landmark fields from 'location_details', gracefully ignoring "N/A" values if present.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture as a non-essential background filler task. The language reflects this status by treating it as a low priority importance request with a flexible schedule for opportunistic data collection, labeling it as a "background survey" or "testbed tracking task".
+
+The primary sensor is set to "NIR", which will be explained as capturing near-infrared reflection for water body boundary mapping or soil moisture assessment. This process involves discriminating gradients through the use of this sensor.
+
+The delivery deadline is specified as "in four days overnight". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request involves capturing near-infrared reflection data from Indonesia's Ecuatorial city for water body boundary mapping or soil moisture assessment. This is a low priority importance task with a flexible schedule for opportunistic capture, scheduled for four days overnight. The request adheres to operational guidelines focusing on natural language interpretation of metadata and maintaining the specified deadline.

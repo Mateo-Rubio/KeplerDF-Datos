@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The primary sensor is set to SAR, which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating data, ensuring ground geometry is accurately mapped even through heavy weather conditions.
+
+The geographic context involves Norte city, though it's mentioned as "N/A" in the country field, we'll describe this location using the remaining valid fields or the clean 'region_name'. The region name will be incorporated naturally into our request without using raw technical system tags, underscores, or coordinate arrays. 
+
+Our mission allocation priority is set to medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is framed as a routine monitoring activity that's essential for our workflow update but doesn't require urgent operational execution.
+
+The delivery deadline for this task is "the day after tomorrow in the evening", which serves as the upper limit for data availability, and we'll insert this phrase verbatim into our request without rephrasing or altering it. 
+
+In summary, our request will be a professional, direct, and standard operational tone that highlights the importance of capturing detailed ground geometry through cloud-penetrating SAR scans in Norte city on the specified day and time. We're looking forward to receiving the data as part of our normal operational status without any preemption or rescheduling concerns.

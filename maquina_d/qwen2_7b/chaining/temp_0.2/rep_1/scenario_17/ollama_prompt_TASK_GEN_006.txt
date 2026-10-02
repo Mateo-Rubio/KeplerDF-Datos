@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the Indonesian city of Majangkan with a medium-importance priority level, which requires a professional and standard operational tone.
+
+The primary sensor specified for this mission is SAR (Synthetic Aperture Radar), enabling us to conduct an active radar scan using microwave surface imaging technology. This will allow us to capture cloud-penetrating imagery that pierces through heavy weather conditions, providing invaluable ground geometry data.
+
+The operational guidelines dictate that we should not use raw technical system tags or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally, describing Majangkan using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we focus on 'country' and 'city', resulting in a description that blends these elements smoothly.
+
+The mission allocation priority is medium importance, which means this request falls into the category of standard operational tasks or commercial tasking. We emphasize that it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language heavily implies an urgent operational execution and an un-preemptable mission lock due to its high priority.
+
+The deadline for this task is tomorrow around mid-day, as determined by an upstream module. This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or adjustments.
+
+In conclusion, our request to the satellite constellation planner is to capture high-resolution SAR imagery of Majangkan in Indonesia during the mid-day period tomorrow. This mission aims to provide critical data that will contribute to our understanding of ground geometry and weather conditions, aligning with our standard operational tasks while maintaining a professional tone that reflects its medium-importance priority level.

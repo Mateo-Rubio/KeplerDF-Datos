@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian region of Rokan Hilir using a VNIR sensor during the target day, which falls on tomorrow afternoon.
+
+The geographic context includes Indonesia as the country and Rokan Hilir as the city, providing a vivid description of the location without relying on raw technical system tags or coordinate arrays. The mission allocation priority is set at low importance, indicating that this request is treated as a flexible schedule task with no strict deadlines or contractual obligations.
+
+The primary sensor, VNIR, will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This involves capturing surface reflectance data to understand vegetation health and distribution in Rokan Hilir.
+
+Given that the deadline for this task has already been resolved by an upstream module, it's specified that the data must be available during tomorrow afternoon. This phrase is included verbatim in our request, emphasizing the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our task request involves observing Rokan Hilir in Indonesia using a VNIR sensor to gather multispectral vegetation analysis data, with no strict deadlines beyond the specified afternoon timeframe. This low-priority importance task is treated as a background survey or testbed tracking task, allowing for flexible scheduling and opportunistic capture.
