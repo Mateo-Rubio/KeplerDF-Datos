@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, natural-sounding request that maximizes validation accuracy.
+
+The geographic context involves observing Indonesia's Kapuas Hulu region using thermal mapping (TIR) technology during the day after tomorrow's afternoon period. The country and city details are sufficient for describing the location without needing to include technical system tags or coordinate arrays. The 'region_name' field is used when 'country', 'city', or 'landmark' fields are unavailable.
+
+The mission allocation priority level is set at Low Importance (Priority 1), which means this request should be framed as a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The language must reflect that this is a "non-essential background filler task" with an "unconstrained deadline".
+
+The sensors and physical objectives dictate the nature of the observation. With TIR technology, our goal is to capture a "heat signature", "surface temperature profile", or perform "thermal anomaly detection" and map heat emissions. This is crucial for understanding thermal patterns in Kapuas Hulu.
+
+The delivery deadline is set for the day after tomorrow during the afternoon period. This phrase must be included verbatim in the request, as it represents the upper limit for data availability without any rephrasing or adjustment of time.
+
+In summary, this task request aims to translate the provided metadata into a natural-sounding English paragraph that adheres to operational guidelines for geographic context, mission allocation priority, sensors and objectives, and delivery deadlines. The final request will encapsulate these elements in a manner that is both accurate and reflective of real-world Earth-observation mission operations.

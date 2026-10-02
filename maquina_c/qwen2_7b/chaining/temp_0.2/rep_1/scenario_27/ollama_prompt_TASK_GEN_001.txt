@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture highly realistic, conversational English requests based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves observing Colombia, specifically focusing on Puerto Rico, which is a region of interest for detailed analysis. The mission allocation priority is set at Low Importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task with no strict deadlines or contractual obligations.
+
+The primary sensor to be utilized is VNIR, which will enable us to conduct multispectral vegetation analysis. This involves assessing the chlorophyll absorption level and calculating the vegetation NDVI index along with surface reflectance, providing valuable insights into the health and characteristics of the vegetation in the targeted area.
+
+Given that today's target day is specified as "today", and the target diurnal period is "in the evening", we are aiming to capture this information during a time when lighting conditions are optimal for our objectives. The deadline for this task has already been resolved by an upstream module, with the upper limit for data availability set as "today in the evening". This means that our request must be executed accordingly, ensuring that we meet the specified timeframe without any rephrasing or alteration of the phrase.
+
+In summary, our request is to capture a multispectral vegetation analysis using VNIR sensors over Puerto Rico, Colombia, during today's evening period. This task is part of a low priority importance request with a flexible schedule for opportunistic capture, adhering to the deadline set by an upstream module.

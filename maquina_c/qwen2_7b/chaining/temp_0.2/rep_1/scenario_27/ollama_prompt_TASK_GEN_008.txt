@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing the naturalness and validation accuracy of the dataset.
+
+The geographic context involves capturing imagery of Norte, Brazil, using a VNIR sensor for daylight photography. The location details are straightforward, as the country field is marked as "N/A", but we can describe the city as Norte, which implies a specific area within Brazil that requires attention.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating this request is part of a flexible schedule for opportunistic capture. We'll frame this as a low priority importance task with a 'drop or reschedule at convenience' status, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is "in three days around mid-day", which means the data should be available by that time frame, without any rephrasing or adjustment of the time frame. This deadline is an upper limit for data availability and does not include raw UTC timestamps or countdown metrics.
+
+In summary, our request involves capturing high-resolution optical snapshots using a VNIR sensor over Norte, Brazil, with a low priority importance level. The imagery should be collected in daylight conditions around mid-day, three days from now, adhering to the provided deadline without any modifications.

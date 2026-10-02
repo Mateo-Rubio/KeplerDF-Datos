@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' and 'target_diurnal_period' keys for this task.
+
+The geographic context involves capturing data from France, specifically Norte city, using an active radar scan with microwave surface imaging capabilities. This is a standard operational tasking that requires us to capture cloud-penetrating imagery for ground geometry observation. The mission allocation priority is medium importance, indicating it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for this task is the day after tomorrow overnight. This phrase should be inserted verbatim into the request as the stated upper limit for data availability. We're not outputting raw UTC timestamps, digits, or countdown metrics.
+
+In summary, we aim to provide a detailed and natural description of our mission request that aligns with the operational guidelines provided. The task involves capturing high-resolution SAR imagery from France's Norte city during the overnight period on the day after tomorrow, as part of our standard operational tasks with medium priority.

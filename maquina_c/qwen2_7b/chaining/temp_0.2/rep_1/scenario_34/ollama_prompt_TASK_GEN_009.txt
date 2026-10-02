@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves observing Malaysia's Ecuatorial region. Combining the JSON parameters naturally, we describe the location using Malaysia as the country and Ecuatorial as the city, which is a realistic combination of fields from 'location_details'. If any of the country, city, or landmark are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to Low Importance (Priority 1). This request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator can drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will be used to conduct an active radar scan using microwave surface imaging. The goal is to pierce heavy weather conditions and capture ground geometry for cloud-penetrating capture.
+
+The delivery deadline is set for four days in the morning, as determined by an upstream module. This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, this Earth-observation mission involves observing Malaysia's Ecuatorial region using SAR technology for cloud-penetrating capture of ground geometry. The task is classified as a low priority importance request with a flexible schedule and a deadline set for four days in the morning.

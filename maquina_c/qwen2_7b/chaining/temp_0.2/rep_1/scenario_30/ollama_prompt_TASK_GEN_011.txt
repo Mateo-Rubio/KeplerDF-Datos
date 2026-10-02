@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'region_name', nested 'location_details', and 'priority_level' keys to interpret the context.
+
+The geographic context involves capturing imagery of Chiusi, Italy, which is located in the heart of Tuscany. Our mission allocation priority is set at medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor is an active radar scan using microwave surface imaging, designed to pierce through heavy weather conditions and capture ground geometry. This task aims to provide cloud-penetrating capture for detailed mapping purposes.
+
+The delivery deadline is set for tomorrow in the morning, as stipulated by our upstream module. We're not concerned with raw timestamps or countdown metrics; instead, we're focusing on delivering data that meets our operational requirements within this timeframe.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution SAR imagery of Chiusi, Italy, in the morning of tomorrow, as part of our standard operational tasking. This mission involves an active radar scan for cloud-penetrating capture and detailed ground geometry mapping, reflecting our medium priority level and normal operational status.
