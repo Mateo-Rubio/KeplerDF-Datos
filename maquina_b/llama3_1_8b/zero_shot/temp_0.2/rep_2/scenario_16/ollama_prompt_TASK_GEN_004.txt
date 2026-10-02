@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Guamal"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution near-infrared reflection snapshot of the water body boundary in Guamal, Colombia, by tomorrow morning at the latest. This is an absolute institutional priority and a critical payload capture requirement, as it involves mandatory directive for a binding contract. Ensure the products are ingested into the pipeline before tomorrow's morning block."
