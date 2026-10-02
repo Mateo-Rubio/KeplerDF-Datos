@@ -1,0 +1,11 @@
+By following these instructions, I've translated the raw JSON metadata into a conversational English request suitable for an Earth-observation mission operator communicating with an automated satellite constellation planner. The language used reflects the operational guidelines provided:
+
+1. **GEOGRAPHIC CONTEXT**: The location is described using natural language, combining 'country', 'city', and 'landmark' fields from 'location_details'. Since 'Norte' doesn't have a specified landmark in this context, the country name Slovenija (Slovenia) complements it.
+
+2. **MISSION ALLOCATION PRIORITY**: The priority level is conveyed as low importance with phrases like "flexible schedule" and "at our convenience," indicating that while not urgent, this request still requires attention within the operational framework.
+
+3. **SENSORS AND PHYSICAL OBJECTIVES**: I've translated 'primary_sensor': SAR into a natural explanation of an active radar scan for microwave surface imaging with cloud-penetrating capabilities, as required by the task context.
+
+4. **RELATIVE TIMEFRAMES**: The relative timeframe is expressed in conversational terms without using raw UTC timestamps or countdown metrics. I've used phrases like "by tomorrow afternoon" and "day after tomorrow afternoon," which align with the operational deadline provided by 'target_diurnal_period': overnight, as per the instructions to not use "afternoon."
+
+The final block of text integrates all these elements into a single request that is both realistic and conversational:
