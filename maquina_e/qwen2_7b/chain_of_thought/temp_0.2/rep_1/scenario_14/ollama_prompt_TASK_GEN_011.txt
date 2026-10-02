@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as "overnight" tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the metadata organically:
+
+Tomorrow night, our Earth-observation mission operator requests a high-priority task allocation for a low priority importance request involving a flexible schedule and opportunistic capture. The primary sensor designated is VNIR, which will be used to conduct a nighttime multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating the vegetation NDVI index along with surface reflectance for the region of Italia, specifically focusing on the city of Montaquila. The goal is to capture thermal anomalies and map heat emissions through thermal mapping, providing critical data for environmental monitoring and agricultural assessment in the area. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, serving as a non-essential background filler task that can be dropped or rescheduled at convenience. The deadline is strictly set for overnight tomorrow, adhering to the operational guidelines without altering, extending, or shifting the deadline.
