@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in the string is "mid-day". This will be used verbatim in the final request.
+
+d) Upon reviewing the task context, it appears that the deadline is not being shifted to an adjacent part of the day. The 'target_diurnal_period' is specified as "around mid-day", which suggests that the mission should be executed during this specific time frame, rather than being rescheduled to a different part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for commercial purposes, utilizing the active radar scan capabilities of our satellite constellation. The target location is in Indonesia, specifically in the city of Majangkan. We need to capture a high-resolution image using microwave surface imaging, which will enable us to pierce through heavy weather and capture ground geometry. This task is an absolute institutional priority, and we must execute it around mid-day tomorrow.
