@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+On the day after tomorrow, our Earth-observation mission operator requests a task focusing on the city of Ibagué, located in the country of Colombia. The primary sensor involved will be the VNIR (visual near-infrared) camera, which is essential for capturing detailed multispectral vegetation data. This task is classified as a low priority importance request, indicating that it can be accommodated within our flexible schedule without compromising more critical operational tasks.
+
+The objective is to conduct an overnight observation, which means gathering data during the dark hours when the VNIR sensor can capture high-resolution optical snapshots of the city's vegetation under the cover of darkness. This will allow for a comprehensive assessment of chlorophyll absorption levels and the calculation of the NDVI (normalized difference vegetation index) as well as surface reflectance.
+
+This task is framed as a non-essential background filler task, where our operator explicitly notes that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline for delivering the data products is strictly adhered to, without any alteration, extension, or reinterpretation of the operational deadline set for this specific request.
