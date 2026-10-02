@@ -1,0 +1,59 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational English request that accurately reflects the operational context and requirements of the mission.
+
+To achieve this, we need to interpret the metadata according to the given operational guidelines:
+
+1.  Geographic Context: Combine the location details naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2.  Mission Allocation Priority: Integrate specific operational phrases to reflect the structural hierarchy of priority levels. For Priority 3 (High Importance), use an authoritative tone, framing it as an "absolute institutional priority" or a "binding contract requirement". For Priority 2 (Medium Importance), use a professional tone, describing it as a "standard operational tasking" or "routine monitoring". For Priority 1 (Low Importance), use a casual tone, explicitly framing it as a "low priority importance" request.
+
+3.  Sensors and Physical Objectives: Naturally weave the operational objectives and descriptors into the request to explain the physical phenomenon to be observed. For example, if the primary sensor is VIS, explain the goal as a "high-resolution optical snapshot" for "daylight photography".
+
+4.  Relative Timeframes: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Given the target task context JSON:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+The final natural user request is:
+
+"Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+The task involves translating the provided JSON metadata into a natural language request. The goal is to create a conversational English request that accurately reflects the operational context and requirements of the mission.
+
+To achieve this, we need to interpret the metadata according to the given operational guidelines:
+
+1.  Geographic Context: Combine the location details naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2.  Mission Allocation Priority: Integrate specific operational phrases to reflect the structural hierarchy of priority levels. For Priority 3 (High Importance), use an authoritative tone, framing it as an "absolute institutional priority" or a "binding contract requirement". For Priority 2 (Medium Importance), use a professional tone, describing it as a "standard operational tasking" or "routine monitoring". For Priority 1 (Low Importance), use a casual tone, explicitly framing it as a "low priority importance" request.
+
+3.  Sensors and Physical Objectives: Naturally weave the operational objectives and descriptors into the request to explain the physical phenomenon to be observed. For example, if the primary sensor is VIS, explain the goal as a "high-resolution optical snapshot" for "daylight photography".
+
+4.  Relative Timeframes: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Given the target task context JSON:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+The final natural user request is:
+
+"Obtain a high-resolution thermal map of Italia, specifically focusing on the Norte region, by capturing a heat signature and surface temperature profile using active thermal imaging. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for a binding contract requirement. The data must be ready by in four days in the morning at the latest."
