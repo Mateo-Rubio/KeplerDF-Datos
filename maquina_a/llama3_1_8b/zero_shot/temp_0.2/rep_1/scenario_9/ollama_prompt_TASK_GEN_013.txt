@@ -1,0 +1,7 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON metadata into a natural language request that meets the specified operational guidelines. The goal is to create a clear and concise request that accurately reflects the mission objectives, location, priority, and temporal constraints.
+
+Here's the translated request:
+
+"Capture high-resolution multispectral vegetation analysis data using VNIR sensors over Cumaral, Colombia, by capturing a chlorophyll absorption level and NDVI index to assess vegetation health. This is an absolute institutional priority, as it involves a critical payload capture for a binding contract requirement. The data must be ready by in four days overnight at the latest."
