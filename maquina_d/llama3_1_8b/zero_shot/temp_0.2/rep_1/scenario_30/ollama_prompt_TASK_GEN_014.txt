@@ -1,0 +1,39 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The task requires translating the following JSON parameters:
+
+- Primary sensor: TIR (Thermal Infrared)
+- Location details:
+  - Country: Italia
+  - City: Argenta
+- Priority level: 3 (High Importance)
+- Target day: The day after tomorrow
+- Target diurnal period: Overnight
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. Geographic context:
+   - Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. Mission allocation priority:
+   - Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is.
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance).
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance).
+
+3. Sensors and physical objectives:
+   - Naturally weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed:
+     * TIR -> Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+4. Relative timeframes:
+   - The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window.
+   - You are strictly forbidden from altering or extending this deadline.
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
+     * "...needed by [target_day] [target_diurnal_period] at the latest."
+     * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+     * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+Now, translate the given JSON parameters into a natural user request:
+
+The task requires capturing high-resolution thermal imagery of the region in Italia, specifically focusing on the city of Argenta. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for thermal anomaly detection and mapping heat emissions. The data must be ready by the day after tomorrow overnight at the latest.
