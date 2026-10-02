@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The deadline specified is "tomorrow in the morning." There is no indication or reason to shift this deadline to any other part of the day. The task requires delivery by this specific time, and it is crucial to adhere strictly to this timeframe without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a high-resolution optical snapshot over Tanjung Saleh in Indonesia. This task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. We require clear optical imagery capturing the true-color visual documentation of the area. The data products are needed by tomorrow in the morning, ensuring timely delivery as per our workflow update schedule.
