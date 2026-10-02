@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves capturing data for a specific location in Italia, under the city of Sotto il Monte Giovanni XXIII.
+
+The primary sensor required for this mission is VNIR, which will be used for multispectral vegetation analysis. This task aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index to understand surface reflectance accurately. The operational guidelines dictate that we should not use raw technical system tags or coordinate arrays in our final output.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task, which can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module, set for tomorrow around mid-day. The request must include this phrase verbatim as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our mission is to capture multispectral vegetation data using VNIR sensors for Sotto il Monte Giovanni XXIII in Italia, with the task being a low priority background survey that can be scheduled according to convenience. The data must be available by tomorrow around mid-day.

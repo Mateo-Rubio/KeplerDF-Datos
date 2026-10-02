@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for tomorrow's overnight delivery deadline.
+
+The geographic context involves observing Indonesia, specifically the Ecuatorial region. The primary sensor required is VNIR, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Given the priority level of 1, this task is labeled as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task, treated as a background survey or testbed tracking task.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically according to operational guidelines. We avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If these are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+In conclusion, our request is for a low-priority task involving multispectral vegetation analysis in Indonesia's Ecuatorial region using VNIR sensors. The deadline for this task has already been resolved by an upstream module: "tomorrow overnight". We are confident that our request will be handled with the appropriate operational flexibility and attention to detail required for background survey tasks.
