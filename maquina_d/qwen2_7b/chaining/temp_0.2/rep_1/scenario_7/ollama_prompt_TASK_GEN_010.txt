@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing high-resolution optical imagery of the region in Colombia, specifically focusing on the city of Pantanillo. This location is described using realistic combinations of country, city, and landmark fields from 'location_details', ensuring a natural and accurate representation without raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at medium importance (Priority 2), which requires a professional and standard operational tone. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to capture the essence of this request as a "standard operational tasking" that involves routine monitoring, emphasizing the importance of adhering to established procedures and maintaining baseline performance.
+
+The primary sensor specified for this mission is VNIR (Vegetation Normalized Reflectance Index), which will be used for multispectral vegetation analysis. This operation aims to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance, providing valuable insights into the health and dynamics of the local ecosystem.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days in the morning". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing, shortening, or altering the time of day.
+
+In conclusion, this Earth-observation mission is a standard operational tasking with medium importance, focusing on capturing high-resolution optical imagery using VNIR sensors to assess vegetation health. The deadline for data delivery is set for "in three days in the morning", ensuring that our satellite constellation planner understands the urgency and specific requirements of this request.

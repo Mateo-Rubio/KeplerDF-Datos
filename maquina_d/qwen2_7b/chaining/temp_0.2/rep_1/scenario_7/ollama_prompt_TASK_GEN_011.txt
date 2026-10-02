@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the guidelines provided.
+
+The geographic context involves capturing imagery of Valle-di-Rostino, France, with a focus on the day after tomorrow around mid-day. This location is described using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. The mission allocation priority is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be executed with urgency, as it represents an un-preemptable mission lock.
+
+The primary sensor to be utilized is the Near-Infrared (NIR), which will be employed for near-infrared reflection observations of water body boundaries and soil moisture assessment. This sensor allows for discriminating gradients in the landscape by capturing the unique spectral signature of water and soil.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically, avoiding raw technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of fields from 'location_details'. If country, city, or landmark are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+In conclusion, this task request is for a low priority importance with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, which can be treated as a background survey or testbed tracking task. The deadline for this task has already been resolved by an upstream module: "the day after tomorrow around mid-day". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Let's proceed with executing this mission, ensuring that we capture the necessary data within the specified timeframe and with the required level of detail and accuracy.

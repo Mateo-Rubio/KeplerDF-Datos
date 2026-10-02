@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for Indonesia, specifically in the equatorial region, using a highly important operational directive due to the priority level being set at 3.
+
+The mission allocation priority indicates an absolute institutional requirement, as it's a binding contract with a critical payload capture involved. This urgent operational execution demands an un-preemptable mission lock, emphasizing the importance of this task being executed during tomorrow's afternoon.
+
+Our primary sensor is set to capture near-infrared reflection for water body boundary mapping and soil moisture assessment. This task aims to discriminate gradients accurately by leveraging the capabilities of the NIR sensor for detailed analysis.
+
+The request is framed as a standard operational tasking that contributes to our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a routine monitoring process. The language used reflects professional, direct, and standard operational tones, indicating this request is part of our regular workflow updates.
+
+To ensure the naturalness and validation accuracy of the dataset, we interpret the metadata organically according to the provided guidelines. This includes combining JSON parameters naturally without using raw technical system tags, underscores, or coordinate arrays. We describe locations using realistic combinations of country, city, and landmark fields from 'location_details', gracefully ignoring "N/A" values.
+
+The deadline for this task has already been resolved by an upstream module, with the data availability set for tomorrow during the afternoon. This phrase is inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or shortening.
+
+In conclusion, this Earth-observation mission operator's request to the automated satellite constellation planner aims to capture high-resolution optical snapshots and near-infrared reflection data in Indonesia's equatorial region during tomorrow's afternoon. The task is prioritized at level 3, indicating an urgent operational execution with a binding contract requirement and critical payload capture involved.
