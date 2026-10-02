@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing Indonesia's Kapuas region. Our primary sensor is TIR, aimed at capturing thermal mapping for heat signature detection and surface temperature profiling. This task is of low importance with a flexible schedule, labeled as a "non-essential background filler task" or "background survey". The deadline for this task is today in the evening, serving as the upper limit for data availability.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically. Indonesia's Kapuas region is described using realistic combinations of country, city, and landmark fields from 'location_details'. If any are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+In summary, our request involves capturing thermal data for Indonesia's Kapuas region using TIR sensors. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard workflow update with an "absolute institutional priority", "binding contract requirement", or "critical payload capture" tone due to its low importance. The deadline is today in the evening, ensuring timely data availability for our mission.

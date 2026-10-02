@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of a location in Colombia, specifically in the city of Páez. This imagery will serve as daylight photography, clear optical imagery, or true-color visual documentation to provide detailed insights into the area's landscape and features.
+
+Given the priority level is 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor to be utilized is VIS (visual imagery sensor). This will enable the acquisition of data for assessing chlorophyll absorption levels, calculating the vegetation NDVI index, and determining surface reflectance, contributing to a comprehensive understanding of the area's ecological status.
+
+The delivery deadline is set for four days in the morning. The task must be completed by then, as per the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included; only the phrase "in four days in the morning" needs to be inserted verbatim into the request.
+
+In summary, this task involves capturing high-resolution optical imagery of a location in Colombia's Páez city using a VIS sensor. The priority is low, with a flexible schedule and deadline set for four days in the morning. The request is presented in a casual, highly flexible tone, emphasizing opportunistic capture and background survey purposes.

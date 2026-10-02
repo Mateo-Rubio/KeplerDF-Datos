@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' keys.
+
+The geographic context involves capturing data for a specific region, which includes the country "Italia" and city "Silea". The mission allocation priority is set to 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request requires an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor used for this task is 'NIR', which aims to map water body boundaries and assess soil moisture levels, providing valuable information for agricultural monitoring and environmental studies. The location details are combined naturally, describing the region using realistic combinations of country, city, and landmark fields from 'location_details'.
+
+The delivery deadline is set for "in three days in the evening". This phrase serves as the upper limit for data availability, ensuring that our satellite constellation prioritizes this task accordingly.
+
+In summary, our request involves capturing near-infrared reflection data over the region of Silea, Italia, with a high-resolution optical snapshot to map water bodies and assess soil moisture levels. This is an 'High Importance' task requiring urgent execution and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Let's proceed with the execution of this critical mission, ensuring that our satellite constellation captures the necessary data for our agricultural monitoring and environmental studies by the specified deadline.

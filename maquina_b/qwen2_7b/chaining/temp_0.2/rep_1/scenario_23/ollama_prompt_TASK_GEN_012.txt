@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing Indonesia's Malinau region. This location combines the country parameter with the city name for a realistic description. If any of the 'country', 'city', or 'landmark' fields are "N/A", we would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, as indicated by the JSON's 'priority_level' key set to 2. This request should be framed as a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor specified in the JSON is "NIR", which we interpret as near-infrared reflection for water body boundary mapping or soil moisture assessment, allowing us to discriminate gradients effectively.
+
+The delivery deadline is set for "the day after tomorrow in the morning". This phrase should be inserted verbatim into our request, serving as the upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, we're requesting a routine monitoring task involving near-infrared reflection to map water body boundaries or assess soil moisture in Malinau, Indonesia, with an urgent operational execution due to its medium importance level. The deadline is set for the day after tomorrow in the morning, ensuring timely data availability for our baseline pipeline tracking setup.

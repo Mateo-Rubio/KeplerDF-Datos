@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a medium-importance mission allocation. The priority level is set at 2, indicating a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our objective is to capture high-resolution optical imagery of the region in Indonesia, specifically focusing on the city of Solok. We aim for daylight photography, clear optical imagery, and true-color visual documentation to provide comprehensive insights into the area's landscape and features. This task is not time-sensitive; it falls under our standard workflow update with a flexible schedule for opportunistic capture.
+
+The primary sensor involved will be the VNIR (Visible Near-Infrared) sensor, which will conduct multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance. This data is crucial for monitoring environmental conditions and vegetation health.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring us to have the data available in four days in the morning. We must ensure that our satellite constellation captures the necessary data within these parameters to meet our operational requirements without compromising quality or missing the specified time frame.
+
+In summary, our request is for a standard operational task focusing on Solok, Indonesia, utilizing the VNIR sensor for multispectral vegetation analysis with a deadline of four days in the morning. This mission aligns with our baseline pipeline tracking setup and represents a routine monitoring activity that contributes to our ongoing efforts in Earth observation.

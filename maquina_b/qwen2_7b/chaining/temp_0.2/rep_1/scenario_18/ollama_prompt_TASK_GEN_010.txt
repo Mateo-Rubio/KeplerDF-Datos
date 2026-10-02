@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'TIR' sensor with a delivery deadline set for tomorrow during the afternoon.
+
+Our geographic context involves Colombia, specifically the city of Concepción. Combining these parameters naturally, we describe the location using the country and city fields from 'location_details'. The task is to capture thermal mapping data that will help us identify heat signatures and surface temperature profiles, crucial for detecting thermal anomalies and mapping heat emissions.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule. It's treated as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience. This task is considered a background survey or testbed tracking task, fitting into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In conclusion, our request involves capturing thermal data from the TIR sensor over Colombia's Concepción city during the afternoon of tomorrow. This task is part of our standard workflow update, focusing on thermal mapping for environmental monitoring and anomaly detection without any urgency or contractual binding requirements.

@@ -1,0 +1,26 @@
+As an Earth-observation mission operator, I'm submitting a task request to capture a highly realistic and conversational English description based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting it organically according to specific operational guidelines.
+
+The geographic context involves the 'region_name' and nested 'location_details', which include country, city, and landmark fields. We combine these parameters naturally, describing the location using realistic combinations of these fields or the clean 'region_name' if necessary. The mission allocation priority is indicated by the 'priority_level', which we interpret to reflect institutional importance, standard operational tasks, or low-priority background filler tasks.
+
+The sensors and physical objectives are defined by the 'primary_sensor'. We weave operational objectives and descriptors into our request to explain the physical phenomena to be observed, using terms like "high-resolution optical snapshot", "active radar scan", "thermal mapping", "multispectral vegetation analysis", and "near-infrared reflection".
+
+The deadline for this task is specified as "today in the evening", which we insert verbatim into the request as the upper limit for data availability. We do not rephrase, shorten, or move it to a different part of the day.
+
+Given the target context JSON:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "today",
+  "target_diurnal_period": "in the evening"
+}
+
+The request for this task would be:
+
+"Please capture a high-resolution optical snapshot of Norte, located in the region, using daylight photography to document clear optical imagery and true-color visual details. This is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. The deadline for this task is today in the evening."
+
+This request integrates the operational guidelines seamlessly, ensuring that the dataset maximizes naturalness and validation accuracy while adhering to the provided JSON metadata."

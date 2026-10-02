@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: We're focusing on the 'region_name' and nested 'location_details'. Avoid using raw technical system tags, underscores, or coordinate arrays. Combine the JSON parameters naturally, describing the location using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these are "N/A", gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Interpret 'priority_level' to reflect mission allocation authority and asset contractual value, not urgency. For Priority 3 (High Importance), use an authoritative tone, framing it as an "absolute institutional priority" or a "binding contract requirement". Mention a "critical payload capture" or "mandatory directive", implying "urgent operational execution" and an "un-preemptable mission lock". For Priority 2 (Medium Importance), use a professional tone describing this request as a "standard operational tasking" or "commercial tasking". Highlight "fixed parameters" representing "normal operational status" or a standard "workflow update". For Priority 1 (Low Importance), use a casual tone, framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Interpret 'primary_sensor' to explain the physical phenomenon to be observed naturally. For VIS, describe the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". For SAR, explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry. For TIR, explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. For VNIR, explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. For NIR, explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4. DELIVERY DEADLINE: The deadline for this task has already been resolved by an upstream module. It is specified as "in four days in the morning". Insert this phrase verbatim into your request, as the stated upper limit for data availability. Do not rephrase it, do not shorten it, and do not move it to a different part of the day.
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Blera"
+  },
+  "priority_level": 1,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Given this context, my request is as follows:
+
+"Please capture a high-resolution optical snapshot of Blera, Italia, in the morning four days from now. This task is labeled with a low priority importance, indicating that it can be scheduled flexibly and treated as a background survey or testbed tracking task. The imagery should serve as true-color visual documentation for daylight photography, providing clear optical details suitable for our analysis needs."
+
+Please note that this request has been crafted to adhere to the guidelines provided, ensuring naturalness and validation accuracy while interpreting the JSON metadata organically.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The primary sensor is set to "NIR", which will be used for near-infrared reflection to map water body boundaries and assess soil moisture levels. The geographic context involves capturing data from Pavullo nel Frignano, Italy, focusing on a mid-day period three days ahead.
+
+The mission allocation priority level is medium importance, indicating a standard operational tasking or commercial tasking part of the baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is to be treated as a routine monitoring activity with normal workflow updates, emphasizing that it's a standard operational task without any urgent deadlines.
+
+To maximize naturalness and validation accuracy, I will interpret the metadata organically by combining the JSON parameters naturally. The location details include Pavullo nel Frignano, Italy, which will be described using realistic combinations of country, city, and landmark fields from 'location_details'. If necessary, I'll describe the location using the remaining valid fields or the clean 'region_name' if country, city, or landmark are "N/A".
+
+The delivery deadline is set for three days around mid-day, which means that the data availability upper limit is already resolved by an upstream module. This phrase will be inserted verbatim into the request without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, this task request aims to capture detailed near-infrared reflection data from Pavullo nel Frignano, Italy, focusing on mid-day conditions three days ahead, with medium importance and standard operational status. The deadline for data availability is already determined as three days around mid-day.

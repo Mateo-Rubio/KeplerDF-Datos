@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing a location in Norte, Brazil. Although the country field is marked as "N/A", we'll describe this area using the city name provided, Norte, which adds a sense of realism to our request.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating that this task requires professional operational attention but doesn't necessitate an urgent or immediate response. We'll frame this as a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor for this observation will be the Near-Infrared (NIR) sensor. The goal is to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment. This task aims to discriminate gradients in soil moisture content, providing valuable insights into environmental conditions without the need for raw technical details.
+
+The delivery deadline for this task has already been resolved by an upstream module. The upper limit for data availability is "tomorrow in the evening", which we'll insert verbatim into our request.
+
+In conclusion, our task request is to capture high-resolution optical snapshots of Norte, Brazil, using the Near-Infrared sensor for water body boundary mapping and soil moisture assessment. This task is part of our standard operational pipeline with fixed parameters, representing normal operational status. We aim to deliver this data by tomorrow evening, adhering to our medium priority level.
+
+Let's proceed with executing this task request efficiently, ensuring that our automated satellite constellation planner understands the context and urgency appropriately.
