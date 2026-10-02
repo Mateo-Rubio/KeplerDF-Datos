@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request remains as is, with the target day being tomorrow and the target diurnal period being in the morning.
+
+The deadline is a strict operational deadline to deliver the data products, not the orbital capture window. This means that the satellite must be able to capture the data on the specified day and time, but it does not necessarily mean that the satellite will be in the correct position at that exact moment. The temporal parameters represent a deadline for delivering the data products, not the orbital capture window.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low-priority importance request with a flexible schedule for opportunistic capture of thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We need this to be captured tomorrow in the morning.
