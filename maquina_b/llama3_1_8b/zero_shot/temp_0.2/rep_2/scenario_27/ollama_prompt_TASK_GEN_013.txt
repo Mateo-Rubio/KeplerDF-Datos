@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Chivatá"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution multispectral vegetation analysis of Chivatá, Colombia, using VNIR technology by the end of the afternoon in three days. This is an absolute institutional priority for critical payload capture and mandatory directive, ensuring the products are ingested into the pipeline before the afternoon deadline."
