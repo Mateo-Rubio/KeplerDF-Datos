@@ -1,0 +1,17 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON metadata into a natural language request that meets the specified operational guidelines. The goal is to create a clear and concise request that accurately reflects the mission's objectives, location, priority, and deadline.
+
+Based on the provided JSON metadata, the following natural language request can be generated:
+
+"Capture high-resolution thermal mapping data over the region of Argenta in Italy using active microwave surface imaging to detect heat signatures and surface temperature profiles. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for a binding contract requirement. The data must be ready by the day after tomorrow overnight at the latest."
+
+This request meets all the specified guidelines, including:
+
+1. Geographic context: The location is described using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+2. Mission allocation priority: The priority level is reflected in the tone and language used, with an authoritative and commanding tone for Priority 3.
+3. Sensors and physical objectives: The primary sensor is described naturally, using the correct operational objectives and descriptors for TIR.
+4. Relative timeframes: The deadline is woven into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+This request can be used as a template for generating similar requests based on different metadata inputs.
