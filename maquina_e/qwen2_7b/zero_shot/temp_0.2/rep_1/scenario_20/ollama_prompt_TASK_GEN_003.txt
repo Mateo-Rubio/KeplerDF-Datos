@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to capture highly realistic and detailed data using the Near-Infrared (NIR) sensor for a critical payload capture involving a "binding contract requirement" with "urgent operational execution". The task involves assessing soil moisture levels through near-infrared reflection for a comprehensive water body boundary mapping.
+
+The geographic context is centered around Indonesia, specifically the city of Lumpatan II. Our mission allocation priority is set at High Importance, which means this request carries an authoritative and explicit tone reflecting an "absolute institutional priority" or a "mandatory directive". We must ensure that the data products are ingested into the pipeline before the strict delivery deadline set for the day after tomorrow's overnight block.
+
+To maximize naturalness and validation accuracy of the dataset, we interpret the metadata organically according to operational guidelines. We combine the JSON parameters naturally, avoiding raw technical system tags, underscores, or coordinate arrays in our final output. We describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The temporal parameters represent a strict operational deadline to deliver the data products to the user, not the orbital capture window. We must weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Our final request is as follows:
+
+"Please prepare and capture high-resolution optical snapshots of the area around Lumpatan II, Indonesia, using our Near-Infrared (NIR) sensor. This task involves assessing soil moisture levels through near-infrared reflection for a comprehensive water body boundary mapping. The imagery must be ready by the day after tomorrow's overnight block at the latest to ensure timely data availability and integration into our baseline pipeline tracking setup."
+
+This request aligns with our operational guidelines, emphasizing the importance of the mission, the geographic context, and the strict deadline for data delivery."
