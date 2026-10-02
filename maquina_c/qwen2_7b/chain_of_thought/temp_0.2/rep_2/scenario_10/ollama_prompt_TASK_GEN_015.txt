@@ -1,0 +1,14 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+In response to the operational guidelines and interpreting the provided metadata, our Earth-observation mission operator requests a standard operational tasking for tomorrow night. Specifically, we aim to capture high-resolution optical snapshots of Pesisir Selatan, Indonesia, using an active radar scan with microwave surface imaging capabilities. This "cloud-penetrating capture" is essential for cloud-piercing imagery and ground geometry mapping, as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission's priority level is set at medium importance, indicating a standard workflow update without any urgent operational execution or contractual requirements. The task involves thermal mapping to detect heat signatures and surface temperature profiles, which are critical for thermal anomaly detection and heat emission mapping. Additionally, we will conduct multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+The deadline for delivering these data products is strictly set for overnight tomorrow, as per the target_diurnal_period field in the JSON metadata. This deadline represents a strict operational deadline for data delivery, not an orbital capture window, and no alteration or extension of the deadline is planned.

@@ -1,0 +1,14 @@
+In response to the operational guidelines and the provided JSON metadata, our Earth-observation mission operator requests a task to be executed on the day after tomorrow, specifically in the morning. The primary sensor required for this mission is Synthetic Aperture Radar (SAR), which will conduct an active radar scan using microwave surface imaging technology. This scan aims to capture cloud-penetrating imagery of Indonesia's Sanggau region, providing critical insights into ground geometry and features that are essential for our baseline pipeline tracking setup.
+
+The geographical context involves Indonesia, with a focus on the city of Sanggau. Although the country and city details are specified, the landmark is not provided; thus, we describe the location using the remaining valid fields from 'location_details'. The mission allocation priority is set to Priority 1 (Low Importance), indicating that this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It is explicitly noted that this task can be dropped or rescheduled at convenience, treating it as a non-essential background filler task.
+
+The temporal parameters represent a strict operational deadline to deliver the data products on the day after tomorrow in the morning, which is not subject to alteration, extension, or reinterpretation. The mission's primary objective is to gather high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation of the Sanggau region using SAR technology.
+
+In summary, our Earth-observation mission operator requests a task to be executed on the day after tomorrow in the morning with the following specifications:
+
+- Primary Sensor: Synthetic Aperture Radar (SAR)
+- Geographical Context: Indonesia, focusing on Sanggau
+- Mission Allocation Priority: Low Importance
+- Temporal Parameters: The day after tomorrow in the morning
+
+This request adheres to the operational guidelines and aims to capture essential data for our baseline pipeline tracking setup while respecting the low priority importance status of this task.
