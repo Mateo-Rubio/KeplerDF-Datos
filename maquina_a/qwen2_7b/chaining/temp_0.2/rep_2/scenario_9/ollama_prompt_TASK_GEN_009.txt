@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The task involves capturing thermal mapping data using the TIR sensor for a location in Indonesia, near the equator, specifically described as "Ecuatorial". This request carries a low priority importance, implying that it's a flexible schedule task for opportunistic capture, treated as a non-essential background filler task.
+
+The operational guidelines dictate that we should avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is determined by the 'priority_level' key. In this case, it's set to 1, indicating a low importance request with a flexible schedule for opportunistic capture. This means that the language must explicitly frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are interpreted based on the 'primary_sensor' key, which here is set to TIR. This sensor is used for thermal mapping to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+The delivery deadline has already been resolved by an upstream module, with the task due in three days around mid-day. This phrase must be inserted verbatim into our request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, the task request is to capture thermal mapping data using the TIR sensor for a location in Indonesia near the equator, with a low priority importance and a deadline set for three days around mid-day. The request should be presented in a casual, highly flexible tone, emphasizing the "non-essential background filler task" nature of this mission.

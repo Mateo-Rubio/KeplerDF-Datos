@@ -1,0 +1,23 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing Norte, a location within a country that's not specified in the JSON parameters. We'll describe this area using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' and 'city' are "N/A", we'll focus on the 'region_name' for a more accurate description.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup. The language will reflect normal operational status with fixed parameters representing routine monitoring activities.
+
+Our primary sensor is SAR (Synthetic Aperture Radar), which we'll interpret as an active radar scan using microwave surface imaging for cloud-penetrating capture, essential for capturing ground geometry even under heavy weather conditions.
+
+The delivery deadline is set for "the day after tomorrow overnight", a phrase that must be included verbatim in our request. This deadline represents the upper limit for data availability without rephrasing or shortening it.
+
+In summary, we're requesting a SAR scan of Norte, a location within an unspecified country, to capture ground geometry through cloud-penetrating radar imaging. This task is part of our standard operational pipeline tracking activities with fixed parameters and represents normal operational status. The deadline for this task is "the day after tomorrow overnight", emphasizing the urgency without specifying exact time.
+
+Let's proceed with crafting the request:
+
+---
+
+"Requesting a standard operational task involving the observation of Norte, an unspecified location within a country, using our Synthetic Aperture Radar (SAR) system. This mission aims to capture ground geometry through cloud-penetrating radar imaging, essential for understanding terrain under various weather conditions. The task is part of our baseline pipeline tracking activities with fixed parameters and represents normal operational status.
+
+The deadline for this task is set for 'the day after tomorrow overnight', emphasizing the urgency without specifying exact time. This request aligns with medium importance, indicating standard operational tasks that are part of our contractual obligations and operational workflow updates."
+
+---
+
+This request integrates the operational guidelines provided, ensuring naturalness and validation accuracy while adhering to the structured hierarchy of mission allocation priorities and interpreting sensor objectives in a conversational manner.

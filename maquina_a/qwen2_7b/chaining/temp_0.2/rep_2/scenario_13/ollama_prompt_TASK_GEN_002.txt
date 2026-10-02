@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The geographic context involves capturing data from Moncalieri, Italy, with a focus on the surrounding region. The primary sensor designated for this mission is VNIR, which will be used for multispectral vegetation analysis. This task requires assessing chlorophyll absorption levels and calculating the NDVI index to understand surface reflectance.
+
+Given the priority level of 1 (low importance), this request is framed as a "flexible schedule" low priority importance task with a "non-essential background filler task". The operator explicitly notes that this can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task". 
+
+The delivery deadline for this task has already been resolved by an upstream module, requiring the data to be available "in four days in the morning". This phrase is inserted verbatim into the request, as the stated upper limit for data availability. The deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+In summary, our request involves capturing multispectral vegetation data from Moncalieri, Italy, using VNIR sensors, with a low priority importance and a specified delivery deadline of "in four days in the morning". This task is part of an ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status.
