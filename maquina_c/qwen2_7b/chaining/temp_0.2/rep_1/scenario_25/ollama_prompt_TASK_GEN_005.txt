@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The task involves utilizing the primary sensor "SAR" (active radar scan) for an "optical snapshot" of the region named "Slovenija Norte", a location in the country of Slovenia, specifically within the city of Norte. This request is categorized under priority level 1, which we frame as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We explicitly note that this is a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The geographic context is described using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is not provided, we use the remaining valid fields to describe the location. The region name "Slovenija Norte" is used to convey the geographical context.
+
+The mission allocation priority is interpreted according to operational guidelines:
+- Priority 3 (High Importance) would involve an authoritative, explicit, and commanding tone, framing this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+- Priority 2 (Medium Importance) would use a professional, direct, and standard operational tone, describing this request as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+- Priority 1 (Low Importance) uses a casual, highly flexible, or opportunistic tone, explicitly framing this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+The sensors and physical objectives are interpreted as follows:
+- VIS -> Explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+- SAR -> Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+- TIR -> Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+- VNIR -> Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+- NIR -> Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon", which is the upper limit for data availability. This phrase is inserted verbatim into the request, as it represents the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this task request is submitted with all guidelines in mind, ensuring that the metadata is translated into a natural and accurate English request that aligns with operational priorities and deadlines.
