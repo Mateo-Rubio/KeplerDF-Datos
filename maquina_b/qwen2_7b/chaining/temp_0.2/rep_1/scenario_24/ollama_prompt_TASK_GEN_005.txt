@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target geographic context involves capturing data for Norte, Brazil, focusing on the evening of the third day ahead.
+
+The primary sensor designated for this mission is Near-Infrared (NIR), which will be used for near-infrared reflection observations. This task aims to map water body boundaries and assess soil moisture levels, providing valuable insights into environmental conditions.
+
+Given the priority level of 1, this request is framed as a low-priority importance task with a flexible schedule. It's explicitly noted that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline for this task has been resolved by an upstream module and is set for the evening of the third day ahead.
+
+The operational guidelines ensure that the request is interpreted naturally, avoiding raw technical system tags, underscores, or coordinate arrays. Instead, we combine the JSON parameters to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+In summary, this task request is for a low-priority importance mission involving Near-Infrared observations in Norte, Brazil, scheduled for the evening of the third day ahead. The guidelines ensure that the request is presented in a casual, highly flexible tone, aligning with operational phrases that reflect the structural hierarchy of priority levels and emphasizing the nature of the task as a background survey or testbed tracking.

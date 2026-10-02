@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing imagery of Pranzalito, a city located in the country of Italia. The mission's priority level is set at 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be used for this mission is the SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging technology. The goal is to capture cloud-penetrating imagery that pierces heavy weather conditions, providing essential ground geometry data.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for 'in three days overnight'. This phrase must be included verbatim in the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In conclusion, our mission aims to capture high-resolution SAR imagery of Pranzalito, Italia, during the overnight period three days from now. This task is a standard operational tasking that involves critical payload capture and must be executed with the utmost urgency and authority due to its high priority level.

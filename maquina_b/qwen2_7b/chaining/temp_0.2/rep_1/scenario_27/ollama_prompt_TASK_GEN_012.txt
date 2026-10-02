@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Indonesia's Kapuas Hulu region using thermal mapping (TIR) sensors during the day after tomorrow's afternoon period.
+
+The geographic context requires a natural interpretation of the provided JSON parameters, avoiding raw technical system tags or coordinate arrays. The location details are combined to describe Kapuas Hulu as part of Indonesia. If any fields like country, city, or landmark are "N/A", they are gracefully ignored and the region name is used for description.
+
+The mission allocation priority level is set to Low Importance (Priority 1). This means the request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, treated as a background survey or testbed tracking task.
+
+Sensors and physical objectives are interpreted naturally. The primary sensor TIR is explained as thermal mapping to capture heat signatures, surface temperature profiles, or detect thermal anomalies and map heat emissions. This aligns with the operational objectives of assessing heat signatures and mapping heat emissions.
+
+The delivery deadline is "the day after tomorrow during the afternoon", which is inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are outputted.
+
+In summary, this task request integrates the operational guidelines to provide a natural, realistic, and conversational English description of the Earth-observation mission, focusing on Kapuas Hulu's thermal mapping using TIR sensors during the specified afternoon period on the day after tomorrow.

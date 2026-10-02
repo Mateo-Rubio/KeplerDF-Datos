@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the guidelines provided.
+
+The geographic context involves capturing imagery of Norte, Brazil. Although the country and city details are not available, we will describe the location using the remaining valid fields or the clean 'region_name'. Our mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture, treating it as a non-essential background filler task.
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar). We aim to perform an active radar scan using microwave surface imaging technology. This will allow us to pierce through heavy weather conditions and capture ground geometry with precision. The goal is to obtain cloud-penetrating capture, ensuring that our data collection is not hindered by atmospheric obstructions.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days overnight". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We do not need to rephrase or shorten it, nor move it to a different part of the day.
+
+In summary, our task request involves capturing high-resolution SAR imagery of Norte, Brazil, with a focus on cloud-penetrating capture and ground geometry mapping. This is a low priority importance request, with a flexible schedule for opportunistic data collection. The deadline for this task is "in three days overnight", ensuring that we adhere to the established upper limit for data availability.

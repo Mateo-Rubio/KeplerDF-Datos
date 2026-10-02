@@ -1,0 +1,11 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the provided JSON format data organically according to operational guidelines:
+
+GEOGRAPHIC CONTEXT: In Indonesia, specifically Malinau city, capture an active radar scan using microwave surface imaging for cloud-penetrating capture and ground geometry mapping. The location details include a country and city, but if any are "N/A", describe the location using remaining valid fields or clean 'region_name'.
+
+MISSION ALLOCATION PRIORITY: This request is of low importance, with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task that can be dropped or rescheduled at convenience, treated as a background survey or testbed tracking task.
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is SAR (Synthetic Aperture Radar), which will be used to observe the area overnight on the day after tomorrow. The goal is an active radar scan for cloud-penetrating capture and ground geometry mapping.
+
+DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, set as "the day after tomorrow overnight". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, the Earth-observation mission operator requests a low-priority task to capture an active radar scan using microwave surface imaging in Malinau, Indonesia, overnight on the day after tomorrow, as part of a background survey or testbed tracking task with a flexible schedule.
