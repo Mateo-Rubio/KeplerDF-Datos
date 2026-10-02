@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to specific operational guidelines.
+
+The geographic context involves capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation from Colombia, specifically in the city of Remedios. This location is described using realistic combinations of country, city, and landmark fields from 'location_details', gracefully ignoring any "N/A" values.
+
+The mission allocation priority is set at Low Importance, indicating a flexible schedule for opportunistic capture as a non-essential background filler task. The language reflects this by treating it as a low priority importance request with a "flexible schedule" for "opportunistic capture", labeled as a "background survey" or "testbed tracking task".
+
+The primary sensor is VIS, which will be used to achieve the physical objective of capturing a high-resolution optical snapshot. This goal is explained in terms of daylight photography, clear optical imagery, and true-color visual documentation.
+
+The delivery deadline for this task has already been resolved by an upstream module: "the day after tomorrow during the afternoon". This phrase must be inserted verbatim into our request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request is structured to align with operational guidelines, ensuring that the translation of raw physical simulation metadata into a conversational English request is both natural and accurate. The task aims to capture high-resolution optical imagery from Colombia's Remedios city during the afternoon of the day after tomorrow, reflecting low priority importance with flexible scheduling for opportunistic capture.

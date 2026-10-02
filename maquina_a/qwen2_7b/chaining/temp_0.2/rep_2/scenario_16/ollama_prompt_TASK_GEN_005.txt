@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for a location in Norte, Brazil. Although the country field is marked as "N/A", we'll describe the region using the available details. The city mentioned is Norte, which will be our primary reference point for this task.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request falls under a low priority importance category. We're treating it as a flexible schedule "opportunistic capture" task, which can be dropped or rescheduled at convenience. This task is part of a background survey or testbed tracking task, fitting into our baseline pipeline tracking setup with normal operational status.
+
+Our primary sensor for this mission is VNIR (Vegetation Normalized Difference Index Reflectance), which will be used to conduct multispectral vegetation analysis. The goal here is to assess the chlorophyll absorption level and calculate a vegetation NDVI index, as well as surface reflectance data.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days during the afternoon". This phrase will be inserted verbatim into our request, serving as the upper limit for data availability.
+
+In summary, we're requesting a VNIR multispectral vegetation analysis for a location in Norte, Brazil, with a low priority importance level. The deadline is set for three days during the afternoon, ensuring that this task is part of our background survey or testbed tracking task setup, fitting into our baseline pipeline tracking with normal operational status.

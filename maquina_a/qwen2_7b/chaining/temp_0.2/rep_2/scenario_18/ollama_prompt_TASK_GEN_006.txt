@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing Indonesia's Ecuatorial region, which combines the country and city details naturally without using technical system tags or coordinate arrays.
+
+The mission allocation priority is of low importance, indicating that this task is part of a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task with a "drop or reschedule at convenience" note, fitting into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor is VNIR, which we'll use for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This involves capturing surface reflectance data to understand plant health and environmental conditions.
+
+The delivery deadline is set for tomorrow in the morning, with the upper limit for data availability being strictly adhered to as "tomorrow in the morning." We will not rephrase or shorten this phrase, nor move it to a different part of the day. This ensures that our request aligns with the established timeline without introducing raw UTC timestamps or countdown metrics.
+
+In summary, we're requesting a low-priority task involving multispectral vegetation analysis using VNIR sensors in Indonesia's Ecuatorial region, scheduled for tomorrow morning, adhering strictly to the deadline set by an upstream module.

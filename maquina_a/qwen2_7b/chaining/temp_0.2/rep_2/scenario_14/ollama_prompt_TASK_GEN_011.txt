@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Montaquila, located in Italia, with a primary sensor designated for VNIR (visual near-infrared) technology. This mission allocation falls under priority level 1, indicating a low importance request with a flexible schedule for opportunistic capture. The task aims to assess chlorophyll absorption levels and calculate the vegetation NDVI index as well as surface reflectance.
+
+The operational guidelines require us to interpret the metadata organically without using raw technical system tags or coordinate arrays. We should combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. In this case, since Montaquila is specified, we'll focus on that for our description.
+
+The delivery deadline for this task has already been resolved by an upstream module: "tomorrow overnight". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please capture a multispectral vegetation analysis using VNIR technology over Montaquila, Italia, tomorrow overnight. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture."
+
+This request encapsulates the essence of the operational guidelines while maintaining the naturalness and validation accuracy of the dataset.

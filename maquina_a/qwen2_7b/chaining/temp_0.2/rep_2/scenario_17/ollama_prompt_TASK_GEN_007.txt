@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the location in Colombia, specifically Paya city, using thermal mapping with a TIR sensor during the target day of tomorrow afternoon.
+
+The mission allocation priority for this task is Low Importance. This means it's a flexible schedule "opportunistic capture" request that can be treated as a "background survey" or "testbed tracking task". The language must reflect a casual, highly flexible tone with an explicit note to "drop or reschedule at convenience".
+
+The sensors and physical objectives are centered around capturing thermal mapping data using the TIR sensor. This involves assessing heat signatures, surface temperature profiles, and performing thermal anomaly detection for heat emissions. The goal is to gather information on heat emissions without being influenced by cloud cover or heavy weather conditions.
+
+To summarize, our request is as follows: "Please observe the location in Colombia, specifically Paya city, using thermal mapping with a TIR sensor during tomorrow's afternoon. This task has a low priority importance and can be treated as a flexible schedule 'background survey' or 'testbed tracking task'. The deadline for data availability is tomorrow afternoon."
+
+This request integrates the operational guidelines by avoiding raw technical system tags, underscores, coordinate arrays, and focusing on natural language interpretation of the metadata provided in JSON format.

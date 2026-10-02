@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're dealing with a task of medium importance, as indicated by the priority level of 2.
+
+Our geographic context involves Indonesia, a country known for its diverse landscapes and tropical climates. The specific location details include a city referred to as "Ecuatorial," which might suggest a focus on equatorial regions or a city with a unique geographical feature. We're utilizing an active radar scan, leveraging microwave surface imaging capabilities of the SAR sensor to capture cloud-penetrating data that will provide us with detailed ground geometry information.
+
+The operational guidelines require us to interpret the metadata organically without using raw technical system tags, underscores, or coordinate arrays. We must combine the JSON parameters naturally and describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A," we should gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task is set for "the day after tomorrow during the afternoon." This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability. We're not to output raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, our mission allocation priority indicates a standard operational tasking that's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a workflow update. This request is essential for maintaining our satellite constellation's performance and ensuring continuous monitoring of the Earth's surface conditions.

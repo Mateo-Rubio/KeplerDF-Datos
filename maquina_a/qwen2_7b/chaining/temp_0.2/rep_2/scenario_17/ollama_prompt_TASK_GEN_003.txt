@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy of the dataset.
+
+The geographic context involves observing Indonesia's Berau region overnight tomorrow. This location is described using realistic combinations of country, city, and landmark fields from 'location_details'. Although both city and landmark are "N/A", we combine the 'country' field with the 'region_name' to provide a comprehensive description.
+
+The mission allocation priority for this task is 'Priority 1 (Low Importance)', indicating it's part of a flexible schedule for opportunistic capture. The language reflects a low priority importance request, with a note to drop or reschedule at convenience. This task is labeled as a "non-essential background filler task" and treated as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is 'NIR', which aims to map water body boundaries and assess soil moisture. The goal is to capture near-infrared reflection for this purpose, providing valuable insights into water body boundaries and soil moisture assessment.
+
+The delivery deadline for this task has already been resolved by an upstream module: "tomorrow overnight". This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request is now formulated according to the provided operational guidelines, ensuring that the Earth-observation mission operator's task submission meets the required standards for naturalness and validation accuracy.
