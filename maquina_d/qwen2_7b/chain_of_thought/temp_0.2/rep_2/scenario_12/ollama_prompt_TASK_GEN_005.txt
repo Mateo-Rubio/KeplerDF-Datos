@@ -1,0 +1,7 @@
+Given the operational guidelines and the context provided by the JSON metadata, our Earth-observation mission operator is tasked with capturing a thermal mapping dataset for Norte, a region in Brazil. The primary sensor required for this mission is the TIR (Thermal Infrared) sensor, which will be used to capture heat signatures and surface temperature profiles across the area.
+
+The deadline for delivering this data product is set for tomorrow morning, as specified by the 'target_day' field being "tomorrow" and the 'target_diurnal_period' being "in the morning". This deadline represents a strict operational requirement rather than an orbital window.
+
+As this task has been allocated a priority level of 1, it is considered a low priority importance request with a flexible schedule. The operator should treat this as a non-essential background filler task, noting that it can be dropped or rescheduled at convenience if necessary. This task serves as a background survey or testbed tracking task for thermal anomaly detection and mapping heat emissions.
+
+In summary, our mission involves capturing thermal data using the TIR sensor in Norte, Brazil, tomorrow morning, with this being a low priority task that can be adjusted according to operational needs.

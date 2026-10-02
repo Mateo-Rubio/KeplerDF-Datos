@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON metadata, we are tasked with capturing a low priority importance request for a nighttime observation using a VNIR sensor over Montaquila, Italy. The deadline is set for "tomorrow" at "overnight", which means we aim to capture high-resolution optical imagery of the region during the dark hours when the satellite can provide detailed visual documentation without interference from sunlight.
+
+To ensure that our mission allocation respects the operational hierarchy and deadlines, we will treat this as a flexible schedule task with a "non-essential background filler" status. This means that while it is important to capture the data, it can be dropped or rescheduled at convenience if other higher priority tasks require immediate attention. The imagery collected will serve as a "background survey" or "testbed tracking task", providing valuable information for further analysis without impacting critical operational workflows.
+
+As we prepare our automated satellite constellation planner for this request, we emphasize that the deadline is strict and must be adhered to, reflecting the "absolute institutional priority" of delivering data products on time. The VNIR sensor will be deployed to capture the "high-resolution optical snapshot" needed for "daylight photography", "clear optical imagery", or "true-color visual documentation" of Montaquila, Italy during the overnight hours when conditions are optimal for such observations.
+
+In conclusion, our operational request is clear and adheres to the guidelines provided. We will proceed with the task allocation, ensuring that all necessary resources are directed towards this "standard operational tasking" without compromising the deadlines or the quality of data collection.
