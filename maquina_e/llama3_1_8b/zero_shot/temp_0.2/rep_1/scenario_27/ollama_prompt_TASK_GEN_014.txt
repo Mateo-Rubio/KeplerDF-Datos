@@ -1,0 +1,18 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The task involves translating the following JSON parameters:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Cantù"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Here's the translated request:
+
+"Capture a high-resolution thermal map of the region around Cantù, Italy, by tomorrow around mid-day. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for our baseline pipeline tracking setup. The data must be ready by tomorrow around mid-day at the latest, ensuring the products are ingested into the pipeline before this deadline."
