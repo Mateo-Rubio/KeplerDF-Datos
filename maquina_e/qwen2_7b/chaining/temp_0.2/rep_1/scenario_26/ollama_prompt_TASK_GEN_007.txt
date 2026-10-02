@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's La Vega region using thermal mapping (TIR sensor) with a priority level of medium importance. This task falls under the 'standard operational tasking' category, representing normal operational status or part of a baseline pipeline tracking setup with fixed parameters.
+
+The mission aims to capture a heat signature and surface temperature profile for La Vega on the day after tomorrow in the evening, ensuring that the thermal mapping process is executed with standard operational rigor. The region's geographical details are well-defined, making it unnecessary to include country, city, or landmark tags directly in the request.
+
+Given the priority level, we emphasize that this task is part of our routine monitoring activities and requires attention but does not necessitate an urgent operational execution or an un-preemptable mission lock. It is a standard workflow update that aligns with our baseline pipeline tracking setup.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow in the evening." This phrase will be inserted verbatim into our request, as it represents the upper limit for data availability without any rephrasing or shortening. The deadline ensures that we adhere to our operational schedule while maintaining flexibility for any adjustments that might be required.
+
+In conclusion, this task request is a part of our ongoing efforts to provide comprehensive Earth observation services using our satellite constellation. It is designed to capture essential data on La Vega's thermal characteristics with the utmost accuracy and reliability, contributing to our broader mission objectives.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary sensor for this mission is VNIR, aimed at conducting a multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the NDVI index for Norte region's surface reflectance. Given the operational guidelines, I will interpret the metadata naturally without using raw technical system tags or coordinate arrays.
+
+The geographic context of our target area is Norte, which doesn't provide specific details about a country or city, so we'll describe it as a region with an unspecified location. The mission allocation priority is set at Level 1, indicating low importance and flexibility in scheduling. This request can be treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", fitting into our "background survey" or "testbed tracking task" setup.
+
+The delivery deadline for this task has already been resolved by an upstream module, stating that the data must be available "tomorrow during the afternoon". We will adhere to this upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request is to capture high-resolution optical imagery through VNIR sensors for Norte region's vegetation analysis, aiming to assess chlorophyll absorption levels and calculate NDVI indices. This task is part of a "background survey" with a "flexible schedule", scheduled for tomorrow afternoon as per our operational guidelines.

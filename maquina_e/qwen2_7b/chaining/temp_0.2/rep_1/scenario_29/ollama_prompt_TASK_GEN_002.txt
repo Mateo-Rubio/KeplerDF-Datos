@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Italia Norte", using a realistic combination of available fields. The country is "Italia", but since the city and landmark details are not provided, we'll describe the location using the 'region_name' field as "Italia Norte".
+
+The mission allocation priority is set to 'Priority 3', which indicates an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be treated with urgency and cannot be preempted; it's an urgent operational execution that requires an un-preemptable mission lock.
+
+The primary sensor specified is "VIS", which will be used for daylight photography, capturing clear optical imagery, and true-color visual documentation of the region. The goal is to obtain a high-resolution image that serves as a snapshot of the area during the day.
+
+The delivery deadline is set for "in three days during the afternoon". This phrase must be included verbatim in our request, as it represents the upper limit for data availability. We are not to rephrase or shorten this statement and should place it at the appropriate time of day within our request.
+
+In summary, our task request involves capturing a high-resolution optical image of "Italia Norte" using a VIS sensor during daylight hours, with an absolute priority level that necessitates urgent operational execution. The deadline for data availability is set for three days from now, specifically during the afternoon period.
+
+Let's formulate this request:
+
+"Urgent and high-priority mission allocation for capturing a high-resolution optical snapshot of 'Italia Norte' using a VIS sensor during daylight hours on the specified date. This task is an absolute institutional priority or a binding contract requirement involving a critical payload capture, requiring immediate attention and an un-preemptable mission lock. The deadline for data availability is set for three days from now, specifically during the afternoon period."
+
+This request encapsulates all operational guidelines and ensures that our satellite constellation planner understands the context, urgency, and specific requirements of this task.

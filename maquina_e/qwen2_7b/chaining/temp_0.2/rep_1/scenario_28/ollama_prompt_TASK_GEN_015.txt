@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified parameters.
+
+The geographic context involves capturing data in Malaysia, specifically focusing on Rumah Budak. This location will provide us with valuable insights into the region's environmental conditions through our mission allocation priority level.
+
+Given that the priority level is set to 1, this task is considered a low importance request with flexible scheduling for opportunistic capture. We're treating it as a non-essential background filler task, acknowledging that it can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task.
+
+The primary sensor involved in this mission is VNIR, which will enable us to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This will provide us with surface reflectance data essential for understanding the ecological health of the region.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in four days overnight." We've inserted this phrase verbatim into our request, ensuring that it aligns with the upper limit for data availability without rephrasing or altering its context.
+
+In summary, our request involves capturing VNIR data in Malaysia's Rumah Budak region, focusing on ecological health assessment through chlorophyll absorption level and vegetation NDVI index calculations. This task is a low priority importance request with flexible scheduling requirements, to be completed "in four days overnight," adhering to the specified deadline without any modifications.

@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The primary sensor required is VNIR for a detailed multispectral vegetation analysis in France, specifically in Venaco. This task falls under priority level 2, indicating it's part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
+
+The mission aims to assess chlorophyll absorption levels and calculate the NDVI index for the area, capturing surface reflectance data. The geographic context involves a high-resolution optical snapshot of Venaco, France, in three days during the morning hours. This task is not time-sensitive beyond the deadline set by our upstream module, allowing us to schedule it as a flexible background survey or testbed tracking task.
+
+Please ensure that the satellite constellation captures this critical data for our baseline pipeline tracking setup without any delays or preemption issues. Thank you for your attention and cooperation in fulfilling this operational request.

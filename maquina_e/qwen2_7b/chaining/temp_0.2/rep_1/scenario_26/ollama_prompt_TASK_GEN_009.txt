@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' keys for this task.
+
+The geographic context involves observing Indonesia's Ecuatorial region, which is a vital area for monitoring environmental changes and natural resources. The mission allocation priority is medium importance (Priority 2), indicating that this request falls under standard operational tasks or commercial tasking within our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status with no urgent deadlines.
+
+The primary sensor to be used is TIR, which will capture thermal mapping data for heat signature detection and surface temperature profiling. This is crucial for identifying thermal anomalies and mapping heat emissions across the region, providing valuable insights into environmental conditions and potential issues.
+
+The delivery deadline is set for four days in the morning, which means we need to ensure that the data is available by this time frame. This upper limit for data availability is already resolved by an upstream module, and we must adhere to this specific phrase when requesting the task.
+
+In summary, our request involves capturing thermal mapping data using a TIR sensor over Indonesia's Ecuatorial region with medium priority importance. The task is part of our standard operational tasks, and we aim to complete it by four days in the morning, adhering to the predefined deadline.
