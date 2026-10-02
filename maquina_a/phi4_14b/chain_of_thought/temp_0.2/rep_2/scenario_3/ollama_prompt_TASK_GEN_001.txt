@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task is specifically requested for "tomorrow" and "in the evening," which means the data delivery deadline is set for that specific time frame without any alterations or extensions.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking in the baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission involves capturing multispectral vegetation analysis over Tame, Colombia, using VNIR sensors to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This routine monitoring is part of our workflow update, and we require the data products delivered by tomorrow in the evening.
