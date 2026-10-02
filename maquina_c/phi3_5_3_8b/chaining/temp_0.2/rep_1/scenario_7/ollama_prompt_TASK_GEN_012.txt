@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the detailed requirement:
+
+We need to conduct multispectral vegetation analysis using near-infrared reflection capabilities, focusing on assessing chlorophyll absorption levels or calculating the Normalized Difference Vegetation Index (NDVI) and surface reflectance in a specific region. The target area is located within an equatorial city environment—a setting where such analyses are crucial for understanding vegetative health and water body boundaries, as well as soil moisture gradients.
+
+This task falls under the category of standard operational tracking with medium importance. It's a routine part of our baseline pipeline setup that ensures continuous monitoring and data collection to maintain an up-to-date environmental database for research purposes. The request is not urgent but requires timely execution as we aim to integrate these observations into our ongoing studies effectively.
+
+The delivery deadline has been established by the upstream module, with all necessary data expected to be available "the day after tomorrow in the morning." This timeframe must be adhered to strictly for seamless integration and analysis of the incoming datasets.
+
+Here's how I would phrase this request:
+
+"We are scheduled to perform a standard operational tasking aimed at conducting multispectral vegetation analysis using near-infrared reflection capabilities in an equatorial city environment. The focus is on assessing chlorophyll absorption levels or calculating the Normalized Difference Vegetation Index (NDVI) and surface reflectance to understand better plant health, water boundaries, and soil moisture gradients. This routine monitoring task aligns with our baseline pipeline tracking setup for continuous environmental data collection. The expected delivery of all necessary information is set for 'the day after tomorrow in the morning,' as per upstream module specifications."
