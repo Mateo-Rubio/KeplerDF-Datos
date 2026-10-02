@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "evening." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task specifies a strict operational deadline of "in three days" and "in the evening," which means the data products must be delivered by that specific timeframe without any alteration or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over Santander de Quilichao, Colombia. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index using the VNIR sensor. The request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need this data delivered in three days, specifically in the evening, to ensure it aligns with our workflow update schedule.
