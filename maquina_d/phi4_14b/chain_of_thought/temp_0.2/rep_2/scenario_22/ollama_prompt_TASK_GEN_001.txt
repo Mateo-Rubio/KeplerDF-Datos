@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string 'target_diurnal_period' that matches the list {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used literally in the final request.
+
+d) The deadline specified as "in three days" and "overnight" indicates a strict operational timeframe. It is important to adhere to this without shifting it to any other part of the day or extending the period. The task must be completed during the overnight period exactly three days from now, maintaining the integrity of the original deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance mission for thermal mapping over Santa Helena del Opón in Colombia. This task involves capturing a heat signature or surface temperature profile using thermal infrared imaging. Given its flexible schedule, this is an opportunistic capture that can be dropped or rescheduled at convenience. Please ensure the data is delivered by "in three days" during the "overnight" period.
