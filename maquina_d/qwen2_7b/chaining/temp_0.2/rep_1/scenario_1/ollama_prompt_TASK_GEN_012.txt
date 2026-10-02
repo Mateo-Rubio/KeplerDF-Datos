@@ -1,0 +1,9 @@
+In the morning of the target day, which is in three days, an Earth-observation mission operator requests a highly realistic and conversational English task to be executed by an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia, with a specific focus on Bengkalis city. The primary sensor required for this mission is Thermal Infrared (TIR), which will be used for thermal mapping purposes. This task aims to capture a heat signature or surface temperature profile, as well as detect thermal anomalies and map heat emissions.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It is explicitly noted that this operator treats it as a background survey or testbed tracking task, indicating that it can be dropped or rescheduled at convenience.
+
+The deadline for this task has already been resolved by an upstream module: "in three days in the morning". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. The operator ensures not to output raw UTC timestamps, digits, or countdown metrics, maintaining a clear and concise communication style.
+
+In summary, the Earth-observation mission operator requests an automated satellite constellation planner to execute a TIR observation task in Indonesia's Bengkalis city on the morning of the target day, which is three days away. This task focuses on thermal mapping with a flexible schedule for opportunistic capture, aligning with low priority importance guidelines.

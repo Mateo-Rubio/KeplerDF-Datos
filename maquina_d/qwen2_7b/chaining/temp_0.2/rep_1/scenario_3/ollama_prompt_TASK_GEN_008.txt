@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a "multispectral vegetation analysis" using the VNIR sensor over the region of "Gazzola, Italia", a picturesque location nestled within the country's lush landscapes. The operational guidelines dictate that we should avoid raw technical system tags or coordinate arrays, focusing instead on crafting a narrative that combines the 'country', 'city', and 'landmark' fields from 'location_details'.
+
+Given the 'priority_level' set at 1, this request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". The language must explicitly note that this operator has the discretion to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task is "in three days overnight", a phrase that serves as the upper limit for data availability. This deadline is already resolved by an upstream module, and we must insert this phrase verbatim into our request without rephrasing, shortening, or altering its placement.
+
+In conclusion, our request aims to capture a "multispectral vegetation analysis" over Gazzola, Italia, using the VNIR sensor during the overnight period three days from now. This task is positioned as a "background survey", reflecting its low priority status and flexible scheduling requirements.

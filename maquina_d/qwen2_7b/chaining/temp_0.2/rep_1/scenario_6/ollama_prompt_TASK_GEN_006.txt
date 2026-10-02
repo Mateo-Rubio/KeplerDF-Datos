@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Rokan Hulu region. This location is described using the country and city details provided, combining them naturally for a realistic depiction. If any of the country, city, or landmark fields are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, indicated by a priority level of 2. This request should be framed as a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a workflow update.
+
+The primary sensor for this task is near-infrared (NIR), which aims to capture the goal as "near-infrared reflection" for water body boundary mapping or soil moisture assessment. This process allows us to discriminate gradients effectively.
+
+The delivery deadline is set for tomorrow around mid-day, serving as the upper limit for data availability. We must insert this phrase verbatim into our request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task involves capturing near-infrared reflection data over Indonesia's Rokan Hulu region at mid-day tomorrow, with medium importance and standard operational parameters. This request aligns with our baseline pipeline tracking setup for normal operational status or workflow updates.

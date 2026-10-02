@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata. The objective is to translate the JSON format into a single request that maximizes naturalness and validation accuracy by interpreting the data organically according to the outlined guidelines.
+
+The geographic context involves capturing an active radar scan using microwave surface imaging, which will serve as cloud-penetrating capture for a detailed view of the region named "Poggi del Sasso" in the country of "Italia". This location is described without relying on raw technical system tags or coordinate arrays, combining the 'country' and 'city' fields naturally.
+
+The mission allocation priority level is set to 1, indicating low importance. This request is framed as a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task with a "drop or reschedule at convenience" note from the operator.
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which will be used to observe the region in question. The operational objectives are to assess ground geometry and capture the scene through cloud cover, providing essential data for various applications such as urban planning, disaster response, or environmental monitoring.
+
+The delivery deadline is set for "the day after tomorrow in the morning", adhering to the provided upper limit for data availability without rephrasing or shortening the phrase. This deadline represents the final time frame within which the data must be collected and delivered.
+
+In summary, this task request aims to capture detailed information about the region of Poggi del Sasso in Italia using SAR technology, with a focus on ground geometry assessment and cloud-penetrating capture. The request is submitted as a low priority importance task with a flexible schedule for data collection, adhering to the deadline set for "the day after tomorrow in the morning".

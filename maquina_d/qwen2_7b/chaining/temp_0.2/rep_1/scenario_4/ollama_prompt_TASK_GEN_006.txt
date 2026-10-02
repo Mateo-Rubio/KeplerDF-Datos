@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English description based on the provided raw physical simulation metadata. The objective is to translate this JSON data into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing the Indonesian city of Air Itam, which is located in the country of Indonesia. The primary sensor specified is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, enabling us to pierce through heavy weather conditions and capture ground geometry.
+
+This request falls under Priority Level 1, indicating low importance with a flexible schedule for opportunistic capture. It's explicitly framed as a "low priority importance" task, with a "flexible schedule" for "opportunistic capture". This request is treated as a "background survey" or "testbed tracking task", where the operator notes to "drop or reschedule at convenience".
+
+The delivery deadline for this task has been resolved by an upstream module. It's set for "the day after tomorrow in the evening", which must be inserted verbatim into our request, serving as the stated upper limit for data availability.
+
+In conclusion, our task request is to observe Air Itam, Indonesia, using SAR technology for cloud-penetrating capture of ground geometry during the evening on the day after tomorrow. This request adheres to operational guidelines that interpret metadata organically and ensures a natural and accurate dataset for future reference.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, natural-sounding request that maximizes validation accuracy.
+
+The geographic context involves observing an area in Colombia, specifically Medio Baudó, which is described using realistic combinations of country, city, and landmark fields from 'location_details'. Since the provided details are sufficient, there's no need to ignore or gracefully describe missing information.
+
+The mission allocation priority is medium importance, indicated by a 'priority_level' of 2. This request should be framed as a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a workflow update.
+
+The primary sensor is SAR (Synthetic Aperture Radar), which will be used for an active radar scan using microwave surface imaging to capture cloud-penetrating data. This is crucial for cloud-penetrating capture and capturing ground geometry, especially in heavy weather conditions.
+
+The delivery deadline is tomorrow during the afternoon, which must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request to the satellite constellation planner is as follows: "We are requesting a standard operational tasking using SAR technology for an active radar scan during tomorrow's afternoon period in Medio Baudó, Colombia. This mission aims to capture cloud-penetrating data and ground geometry imagery essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status or a workflow update. The deadline for this task is tomorrow during the afternoon, as per our upstream module's resolution."
+
+This request integrates specific operational phrases to reflect the structural hierarchy of priority levels and emphasizes the importance of the mission allocation authority and asset contractual value without mentioning raw technical details or priority numbers.

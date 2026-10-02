@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves observing the city of Calamar, located in the country of Colombia. This location will be captured through a low-resolution importance tasking, which is framed as a "flexible schedule" for "opportunistic capture". The language must heavily imply that this request is a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor used for this mission will be VNIR, which aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This goal is explained as a "multispectral vegetation analysis", capturing the "surface reflectance" of the area.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data availability upper limit is set for "in three days in the evening". This phrase must be inserted verbatim into the request, as it represents the stated time frame for data delivery.
+
+In summary, our request involves capturing a multispectral vegetation analysis of Calamar, Colombia, using VNIR sensors, with a deadline for data availability set for "in three days in the evening". The language used reflects a low priority importance task, with a flexible schedule for capture and a clear deadline.

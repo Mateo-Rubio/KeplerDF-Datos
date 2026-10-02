@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for a location in Indonesia, specifically in the city of Kubu Raya. We'll describe this area using realistic combinations of country, city, and landmark fields from 'location_details', gracefully handling any "N/A" values by describing the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for an opportunistic capture. We'll frame this request as a low priority importance task with a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task". The language must be casual and highly flexible, allowing for "drop or reschedule at convenience".
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will be employed for an active radar scan using microwave surface imaging. This will allow us to capture cloud-penetrating data, providing a unique perspective on ground geometry that can't be obtained through other means under heavy weather conditions.
+
+The delivery deadline is set for "in three days in the evening". This phrase must be inserted verbatim into our request as the stated upper limit for data availability. We're not to rephrase, shorten, or move it to a different part of the day; it's a critical piece of information that defines when we need the data.
+
+In summary, our task request involves capturing data using SAR technology in Indonesia, specifically in Kubu Raya, with a low priority importance level and a deadline set for "in three days in the evening". This request adheres to the operational guidelines provided, focusing on natural language interpretation of technical metadata and ensuring accurate representation of mission allocation priorities.

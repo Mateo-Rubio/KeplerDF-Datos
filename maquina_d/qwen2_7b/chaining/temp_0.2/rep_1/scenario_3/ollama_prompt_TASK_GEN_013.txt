@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The task involves capturing data using the Near-Infrared (NIR) sensor over a specific geographic context in Colombia.
+
+The target location is Santa Rosa del Sur, a city nestled within the vibrant country of Colombia. This region is known for its diverse landscapes and rich biodiversity, making it an ideal area for detailed observation with the NIR sensor. The mission allocation priority is High Importance, emphasizing that this task is an absolute institutional priority or a binding contract requirement involving a critical payload capture.
+
+The operational guidelines require interpreting the metadata organically without using raw technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task is in four days overnight. This phrase must be inserted verbatim into our request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request is to capture detailed data using the Near-Infrared sensor over Santa Rosa del Sur, Colombia, with an emphasis on capturing water body boundaries and soil moisture assessment. This task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status or a workflow update. The language heavily implies an urgent operational execution and an un-preemptable mission lock due to the high priority level.
+
+Let's proceed with this request, ensuring that our automated satellite constellation planner understands the importance and urgency of this task while maintaining the naturalness and validation accuracy of the dataset.
