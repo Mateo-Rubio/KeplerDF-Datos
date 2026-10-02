@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the structured information:
+
+The primary sensor required for this operation is VNIR, which necessitates multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The target location specified in the metadata is Tagliole, situated within Italy—a country known for its rich biodiversity and agricultural landscapes.
+
+Given that this task has been assigned a priority level of 2, it falls under "standard operational tasking" within our baseline pipeline tracking setup with fixed parameters representing normal operational status or standard workflow updates. This indicates the importance of maintaining routine monitoring while ensuring efficient resource allocation and mission execution.
+
+The delivery deadline for this request is explicitly stated as "in three days overnight," which has been resolved by an upstream module, setting a clear upper limit for data availability without resorting to raw UTC timestamps or countdown metrics. This phrase must be integrated verbatim into the finalized task request to maintain operational clarity and adherence to established scheduling protocols.
+
+Here is the synthesized request:
