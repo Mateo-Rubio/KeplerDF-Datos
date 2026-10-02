@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates the specific timeframe by which the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string is "morning." This word must appear literally in the final request to accurately reflect the timing of the task.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request clearly states that the observation should occur "in the morning," and this timing aligns with the delivery deadline of "in four days."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over Prati di Tivo, Italy. This routine monitoring is part of our baseline pipeline tracking setup, requiring fixed parameters to assess chlorophyll absorption levels and calculate the NDVI index. The data products are needed in four days, with the observation scheduled for the morning. Please ensure this task is integrated into the normal operational workflow as a standard update.
