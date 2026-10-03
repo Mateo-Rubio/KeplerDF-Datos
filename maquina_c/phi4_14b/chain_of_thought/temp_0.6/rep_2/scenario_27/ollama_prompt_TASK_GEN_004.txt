@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for the data delivery is set to three days from now.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the satellite should capture the imagery.
+
+c) The single word contained in the 'target_diurnal_period' string is "mid-day". This word must be included literally in the final request to describe the timing of the observation.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly states that the data should be captured around mid-day, adhering strictly to the specified timeframe without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a high-resolution optical snapshot over La Macarena, Colombia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The imagery should be captured in three days, around mid-day. This routine monitoring effort aligns with our commercial tasking objectives and ensures consistent data quality for ongoing analysis.

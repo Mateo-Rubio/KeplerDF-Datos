@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in three days". This indicates the specific deadline by which the data product must be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "in the morning". This specifies when during the day the satellite capture should occur.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning". It directly references the time of day for the data collection.
+
+d) There is no indication or reason to shift the deadline to another part of the day. The requirement explicitly states "in the morning", and the deadline remains "in three days". Therefore, the operational plan must adhere strictly to these parameters without any adjustments to the timing.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a standard operational tasking for our satellite constellation to capture multispectral vegetation analysis over Venaco, France. This mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The focus should be on assessing chlorophyll absorption levels and calculating the NDVI index and surface reflectance. Please ensure that this high-resolution optical snapshot is captured in three days, specifically in the morning, to meet our workflow update requirements.
