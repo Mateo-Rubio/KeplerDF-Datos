@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The goal is to create a natural and accurate dataset for maximum validation.
+
+The geographic context involves a location in Colombia, specifically Sabana de Torres, combining the country and city fields from 'location_details'. If necessary, we would describe this area using realistic information about the region, even if the details are not directly available in the metadata. For this request, we will use the provided country and city names to specify our target location.
+
+The mission allocation priority for this task is indicated by a medium importance level (Priority 2). This means it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. The language must reflect that this request is part of a baseline pipeline tracking setup and should be handled with the understanding that it's a routine monitoring activity, not an urgent one.
+
+Our primary sensor for this mission is VNIR, which translates to "multispectral vegetation analysis" aimed at assessing the chlorophyll absorption level or calculating the vegetation NDVI index and surface reflectance. This operational objective is crucial for understanding environmental conditions and changes in vegetation health.
+
+The delivery deadline for this task is set for "in three days overnight". This phrase must be included verbatim, as it represents the upper limit for data availability. It's important not to rephrase or shorten this phrase and not to move it to a different part of the day.
+
+In summary, our request involves capturing high-resolution optical snapshots of daylight photography, clear optical imagery, or true-color visual documentation from Sabana de Torres in Colombia using VNIR technology. This is part of a standard operational tasking with fixed parameters representing normal operational status and should be executed as part of a baseline pipeline tracking setup. The deadline for this task is "in three days overnight," emphasizing that it's not time-sensitive beyond this specific timeframe.

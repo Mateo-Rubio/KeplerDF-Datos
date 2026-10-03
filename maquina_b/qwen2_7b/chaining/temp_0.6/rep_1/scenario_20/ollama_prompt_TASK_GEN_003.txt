@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to your automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request, maximizing naturalness and validation accuracy.
+
+The geographic context involves the Indonesian region of Lumpatan II, where our focus is on capturing thermal anomalies with near-infrared reflection capabilities overnight—the day after tomorrow. This mission allocation carries high importance due to its binding contract requirement involving a critical payload capture, implying an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor, NIR, aims for near-infrared reflection capabilities to map water body boundaries or assess soil moisture levels, serving as a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The explicit language reflects this structural hierarchy and standard workflow update.
+
+Lumpatan II, with its Indonesian country tag, provides the geographic context for this request without relying on raw technical system tags or coordinate arrays. The city details are "N/A", gracefully ignoring them and describing the location using the remaining valid fields or the clean 'region_name'.
+
+In conclusion, this is a low priority importance request, treated as a flexible schedule opportunity for opportunistic capture, labeled as a non-essential background filler task. Our operator notes to drop or reschedule at convenience, acknowledging it as a background survey or testbed tracking task.
+
+The deadline for this task has been resolved by an upstream module and is set for "the day after tomorrow overnight". This phrase is inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing, shortening, or altering the time period.
