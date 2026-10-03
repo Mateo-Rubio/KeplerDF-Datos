@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating the given metadata into a conversational request for an Earth-observation mission operator. Let's break down the provided information to ensure accuracy and naturalness in our request.
+
+a) The 'target_day' specified in the JSON is "tomorrow". This indicates that the data collection needs to be completed by the day following today, providing a clear deadline for when the satellite constellation planner should schedule the task.
+
+b) For 'target_diurnal_period', the string provided is "in the evening". This specifies not just the day but also the time of day when the observation should ideally occur. It's crucial for planning purposes, especially considering the operational capabilities and limitations of the sensors involved.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "evening". This term will be directly used in our final request to clearly communicate the desired time frame for data capture.
+
+d) It's important to confirm that we are not altering the deadline provided. The task specifies "in the evening" on "tomorrow", which means the observation must be scheduled for the evening of the next day without any shifts to earlier or later parts of the day. This ensures that the request adheres strictly to the operational guidelines and respects the temporal constraints set by the mission parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for the satellite constellation, focusing on a near-infrared reflection analysis over the city of Norte. This mission involves capturing data critical for water body boundary mapping or assessing soil moisture levels, which are essential components of our baseline pipeline tracking setup. The task is set with fixed parameters to ensure it aligns with our normal operational status and represents a routine part of our workflow update. It's scheduled for tomorrow, specifically in the evening, to take advantage of the optimal conditions for near-infrared data capture. This timing is crucial for achieving the desired clarity and detail in the observations, ensuring they meet our standard for quality and relevance in environmental monitoring and analysis.
