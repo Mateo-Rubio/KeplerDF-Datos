@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string contained in 'target_day' is "tomorrow".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word contained in the string from step (b) that must appear literally in the final request is "morning".
+d) I am not shifting the deadline to an adjacent part of the day, as the deadline explicitly states "in the morning" on "tomorrow".
+
+STAGE 2 - FINAL REQUEST
+
+Given the high-level operational context provided by the JSON metadata, our mission allocation priority is designated as 'Priority 2', which signifies a standard operational tasking within our baseline pipeline tracking system. This task involves capturing a high-resolution optical snapshot of the region in Colombia, specifically Mapiripán, using our visible light sensor (VIS). The objective is to gather clear daylight photography and true-color visual documentation to support our monitoring efforts.
+
+The target day for delivering this data product is 'tomorrow', and we aim to complete the capture during the 'morning' period. This operational window adheres strictly to the deadline without any extensions or adjustments, ensuring timely execution according to our standard workflow parameters.
+
+With a clear understanding of the deadline and priorities involved, our satellite constellation is poised to execute this task efficiently, providing valuable insights into the region's conditions as per our normal operational status.
