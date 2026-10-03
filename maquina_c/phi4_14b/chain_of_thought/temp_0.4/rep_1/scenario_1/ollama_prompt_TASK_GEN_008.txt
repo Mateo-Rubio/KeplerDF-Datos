@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters are strictly defined as "tomorrow" and "in the morning," indicating that the data products must be delivered by this specified time without any alteration or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking for a high-resolution optical snapshot over Follo, Italy, to capture clear optical imagery. This task is part of our baseline pipeline tracking and involves fixed parameters reflecting normal operational status. We need the data delivered tomorrow in the morning as part of our routine monitoring workflow update.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific timeframe by which the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the observation should ideally occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "mid-day". This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The requirement is strictly for "around mid-day", and this timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a task request for a low-priority importance mission over Sizzano, Italy. This is a flexible schedule, opportunistic capture with a non-essential background filler task designation. The satellite should perform an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area. Please ensure this observation occurs around mid-day in three days. We appreciate your understanding that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.

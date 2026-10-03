@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for the task execution and data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should ideally occur.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The deadline specified as "in three days" and "in the morning" must be adhered to strictly. There is no indication or allowance for shifting this deadline to an adjacent part of the day, such as mid-day or afternoon. The task must be completed within the given timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for opportunistic capture in Porto Recanati, Italy. This is a non-essential background filler task where we can drop or reschedule at convenience. We are looking to conduct a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please ensure this task is completed in three days, specifically in the morning.

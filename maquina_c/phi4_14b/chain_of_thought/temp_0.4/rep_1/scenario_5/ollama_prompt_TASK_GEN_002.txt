@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) The temporal parameters are strict operational deadlines. The request specifies capturing data "the day after tomorrow" and "in the morning," so there is no intention to shift the deadline to an adjacent part of the day. The specified timeframe is adhered to strictly as per the mission requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task with a flexible schedule for opportunistic capture in Poggi del Sasso, Italy. This non-essential background filler task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. We are looking to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, focusing on ground geometry. The data collection is set for the day after tomorrow, specifically in the morning.
