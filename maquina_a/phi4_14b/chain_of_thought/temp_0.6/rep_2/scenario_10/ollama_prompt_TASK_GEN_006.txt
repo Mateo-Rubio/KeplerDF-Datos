@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in three days." This indicates a clear deadline for when the data needs to be delivered.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur, reflecting the best conditions for the sensor's capabilities.
+
+c) The single word contained in this string that matches one of the specified options is "morning." This word will be used literally in the final request to accurately describe the time of day for the task.
+
+d) It is important to confirm that the deadline is not being shifted. The phrase "in the morning" directly specifies the time window and aligns with the delivery deadline "in three days." There is no indication or need to adjust this timing to another part of the day, ensuring adherence to the specified operational timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a standard operational tasking for a multispectral vegetation analysis over the region of Simabur, Indonesia. This task involves capturing chlorophyll absorption levels and calculating an NDVI index using VNIR sensors. The mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this routine monitoring is executed in three days in the morning.
