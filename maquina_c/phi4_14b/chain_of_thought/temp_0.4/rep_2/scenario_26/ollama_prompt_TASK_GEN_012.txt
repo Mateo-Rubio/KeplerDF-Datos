@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The task specifies a strict operational deadline to deliver data products by "tomorrow in the morning." This indicates that the request should not be shifted to any other part of the day. The specified time frame is critical and must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a near-infrared reflection mission over the Ecuatorial region, with a focus on water body boundary mapping or soil moisture assessment. This task is part of our baseline pipeline tracking setup, and we expect it to be carried out with fixed parameters under normal operational status. The data collection should occur tomorrow in the morning, ensuring timely delivery as per our workflow update requirements.

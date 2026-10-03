@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite observation should occur.
+
+c) The single word contained in the string "overnight" that matches the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request to specify when the observation should take place.
+
+d) The deadline specified as "in four days" and "overnight" should not be shifted to any other part of the day. It is critical to adhere strictly to this timeframe for the operational execution, ensuring that the data products are delivered by the specified deadline without altering the time of capture.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a routine monitoring mission over Simití, Colombia. This involves a near-infrared reflection sensor to map water body boundaries and assess soil moisture levels. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the data products are delivered in four days, specifically during an overnight observation period.
