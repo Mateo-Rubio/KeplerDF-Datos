@@ -1,0 +1,16 @@
+Translate the following raw physical simulation metadata into a single, highly realistic and conversational English request:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Ghedi"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution optical snapshot of the region around Ghedi, Italy, utilizing multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This is an absolute institutional priority, as it directly impacts a critical payload capture. The data must be ready by tomorrow's overnight block at the latest."
