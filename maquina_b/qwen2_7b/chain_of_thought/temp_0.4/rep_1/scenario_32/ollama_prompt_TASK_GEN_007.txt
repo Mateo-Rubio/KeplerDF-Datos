@@ -1,0 +1,7 @@
+Given the operational guidelines and the target task context JSON provided, our request for the automated satellite constellation planner is as follows:
+
+With a strict deadline set for 'in three days', we aim to capture a critical SAR (active radar scan) image of the location in Tarazá, Colombia, during the 'overnight' period. This high-priority mission allocation, marked as 'High Importance' due to its 'priority_level' setting, is an absolute institutional priority and involves a binding contract requirement for a 'critical payload capture'. The SAR scan will use microwave surface imaging to pierce through heavy weather conditions, ensuring cloud-penetrating capture of ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+The 'target_day' deadline is strictly adhered to without any alteration or interpretation. Our request is for a high-resolution optical snapshot using the VIS sensor for daylight photography, clear optical imagery, and true-color visual documentation. This will complement our SAR data collection by providing a comprehensive view of the region during the specified 'overnight' period.
+
+We are aware that this deadline represents a strict operational deadline to deliver the data products, not an orbital capture window. Our focus is on meeting this deadline with precision and fulfilling the mission's requirements without compromising quality or urgency.

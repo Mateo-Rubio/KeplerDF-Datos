@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the provided metadata, we are tasked with a standard operational tasking involving the deployment of a satellite equipped with a SAR sensor. The mission aims to capture high-resolution radar imagery of a region situated in the country of Italia, specifically within the city of Norte. This task carries a medium importance level, signifying that it is part of our baseline pipeline tracking operations with fixed parameters representing normal operational status.
+
+The deadline for delivering this data product is set for tomorrow during the afternoon. The SAR sensor will be utilized to perform an active radar scan using microwave surface imaging technology. This scan will penetrate through any cloud cover to capture ground geometry, providing invaluable insights into the region's topography and infrastructure visibility under various weather conditions.
+
+In summary, our automated satellite constellation planner must allocate resources to ensure that this critical task is executed as scheduled, capturing the data product by tomorrow afternoon, thereby contributing to our ongoing monitoring efforts in the specified area with the SAR sensor.

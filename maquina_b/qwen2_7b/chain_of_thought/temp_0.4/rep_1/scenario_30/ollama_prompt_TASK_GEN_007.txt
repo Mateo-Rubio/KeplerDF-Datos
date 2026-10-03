@@ -1,0 +1,7 @@
+In response to the operational guidelines and interpreting the provided JSON metadata, our Earth-observation mission operator requests a task focused on Colombia, specifically the city of El Marmol. The primary sensor to be used for this mission is VNIR, which will capture high-resolution optical snapshots during the afternoon on "the day after tomorrow". This daylight photography will serve as a clear optical imagery and true-color visual documentation essential for our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Given the 'target_day' specified as "the day after tomorrow" and the 'target_diurnal_period' as "during the afternoon", we are to deliver thermal mapping data, capturing heat signatures and surface temperature profiles. The VNIR sensor will assess chlorophyll absorption levels or calculate a vegetation NDVI index for multispectral vegetation analysis.
+
+This task is categorized with a priority level of 1, which means it's treated as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline to deliver the data products is strictly on "the day after tomorrow" during the afternoon, adhering to the guidelines provided.
+
+Our operator ensures not to alter, extend, shift, or reinterpret the deadline, maintaining the integrity and urgency of the request within the specified timeframe.
