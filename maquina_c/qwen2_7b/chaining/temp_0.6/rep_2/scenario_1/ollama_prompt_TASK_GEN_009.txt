@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines guide us through interpreting the data in a context that maximizes naturalness and validation accuracy.
+
+Given the provided JSON format, our objective is to translate this into a clear, actionable task request.
+
+We're focusing on an area located in Indonesia, specifically the city of Kubu Raya, which involves capturing imagery with our primary sensor, SAR. The operational guidelines suggest describing this as an "active radar scan", using "microwave surface imaging" for "cloud-penetrating capture", allowing us to capture ground geometry even under heavy weather conditions.
+
+Considering the priority level is set to 'low importance', the request should be framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". It's explicitly noted that this task can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The deadline for this task is resolved by an upstream module and is set for "in three days in the evening". This phrase should be inserted verbatim into our request, as it represents the upper limit for data availability.
+
+In summary, we are tasked with capturing detailed ground geometry using SAR technology in Kubu Raya, Indonesia, on a flexible schedule, aiming to complete this task by the evening of the third day from now. The operational guidelines ensure that our request is clear, concise, and aligned with the guidelines provided.
