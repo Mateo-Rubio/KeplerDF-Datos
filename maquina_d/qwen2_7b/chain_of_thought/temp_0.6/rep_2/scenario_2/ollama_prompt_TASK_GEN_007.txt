@@ -1,0 +1,20 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day, as the specified diurnal period is "overnight".
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the raw JSON metadata, we aim to capture high-resolution optical imagery over the city of San Joaquín, located in Colombia. This request holds a medium importance level, indicating that it's part of our standard operational tasking with fixed parameters and represents normal operational status. The deadline for acquiring the data is set for tomorrow evening, specifically during the overnight period, which means we require an active radar scan to penetrate the clouds and capture ground geometry without interference from daylight or atmospheric conditions.
+
+To address this task, our satellite constellation must allocate resources to execute an overnight SAR mission over San Joaquín, Colombia, ensuring that the imagery captured will provide critical information on surface features and ground geometry, unaffected by the presence of clouds or other obstructions. The imagery will be used for baseline pipeline tracking and will contribute to our understanding of the region's topography under conditions that are typically obscured during daylight hours.
+
+The imagery will serve as a valuable asset for updating our databases with high-resolution data on urban expansion, infrastructure development, and environmental monitoring in the area. As part of this mission, we aim to capture thermal mapping data using TIR sensors to identify heat signatures across various land uses, which will help us detect and analyze surface temperature profiles and potential thermal anomalies.
+
+For the VNIR sensor, we will undertake multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for different areas within San Joaquín. This information will be crucial for agricultural management, water resource allocation, and conservation efforts in the region.
+
+The near-infrared (NIR) sensor data will be utilized for mapping water bodies and assessing soil moisture content, providing insights into hydrological dynamics and agricultural suitability across the city's landscape.
+
+In conclusion, our satellite constellation is tasked with capturing the specified data over San Joaquín, Colombia, tomorrow evening during the overnight period. We anticipate receiving high-quality imagery that combines optical photography, radar scans, thermal mapping, multispectral vegetation analysis, and near-infrared reflection data to support our ongoing operational tasks and contribute to the continuous improvement of our Earth observation capabilities.
