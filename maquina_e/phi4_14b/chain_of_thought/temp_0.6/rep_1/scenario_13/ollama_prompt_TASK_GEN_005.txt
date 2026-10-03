@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data collection deadline is set for the next calendar day from when the request is made.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day within the target day that the data should be captured.
+
+c) The single word contained in 'target_diurnal_period' that fits within the set options {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request to accurately reflect the specified time of capture.
+
+d) It's important to confirm that the deadline is strictly for "in the morning" on "tomorrow," without any shift or reinterpretation to another part of the day. The task must be completed within this specific timeframe, ensuring adherence to the set operational parameters and avoiding any potential delay or misalignment with the specified schedule.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture over the region near Norte, focusing on an active radar scan using microwave surface imaging. The goal is to achieve cloud-penetrating capture, which will help in assessing ground geometry even under heavy weather conditions. This task falls into the category of non-essential background filler tasks, allowing flexibility in scheduling. If necessary, it can be dropped or rescheduled at convenience. We aim to complete this as part of a background survey or testbed tracking task by tomorrow morning.

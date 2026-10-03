@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This clearly specifies when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates the specific time frame during which the data collection should occur.
+
+c) The single word contained in the string from 'target_diurnal_period' that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to describe when the satellite should perform its task.
+
+d) It's crucial to confirm that there is no intention or action to shift the deadline from "overnight" on "the day after tomorrow" to any other part of the day. The parameters provided must remain strictly as stated, ensuring that the task is executed within the specified time frame without deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm submitting a request for an Earth-observation mission focusing on thermal mapping to capture surface temperature profiles in the region of Norte. This task involves a low priority importance with a flexible schedule for opportunistic capture, and it's designated as a non-essential background filler task that can be dropped or rescheduled at convenience. The satellite should perform this as a background survey during the overnight period on the day after tomorrow. The objective is to gather thermal anomaly data, emphasizing heat emissions over the area.
