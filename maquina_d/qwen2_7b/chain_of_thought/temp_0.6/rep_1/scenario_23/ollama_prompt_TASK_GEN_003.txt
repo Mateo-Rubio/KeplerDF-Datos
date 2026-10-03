@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string, which must appear literally in the final request, is "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given today's deadline and the operational requirement for capturing data in the evening, we are tasked with acquiring thermal mapping data for Indonesia, specifically focusing on the Kapuas region. This request is classified as a low priority importance task, which allows for a flexible schedule with no urgency to compromise other operational priorities. We aim to perform thermal anomaly detection and map heat emissions without altering today's deadline, adhering strictly to the specified time frame of the evening. The data collection will utilize our thermal imaging sensor to gather critical information on surface temperature profiles and heat signatures, providing essential insights without impacting more critical operational tasks.
