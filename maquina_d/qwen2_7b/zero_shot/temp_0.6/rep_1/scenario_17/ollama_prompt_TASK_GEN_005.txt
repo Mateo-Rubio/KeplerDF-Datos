@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. Our objective is to ensure that the dataset maximizes naturalness and validation accuracy by interpreting the provided operational guidelines.
+
+Geographically, we're looking at a location in Norte, which doesn't specify a country or city but still requires a comprehensive description of its location using available parameters. We'll blend 'location_details' fields and 'region_name' to provide context without directly using technical tags or coordinate arrays.
+
+The mission has a high priority level, indicating an "absolute institutional priority" with a "binding contract requirement". This "critical payload capture" involves an "urgent operational execution" that must be "un-preemptable" due to the nature of our "standard operational tasking".
+
+For this request, we'll use the 'TIR' primary sensor to conduct "thermal mapping". Our goal is to capture a "heat signature" or assess "surface temperature profiles" for "thermal anomaly detection", making sure our focus is on "mapping heat emissions".
+
+The temporal parameters state that our deadline for delivering the data products is set for the day after tomorrow, specifically "overnight". This deadline represents an absolute limit for data availability, ensuring that our products are "ingested into the pipeline" before this time.
+
+In summary, our request to the satellite constellation planner will include a high-resolution optical snapshot using our 'TIR' sensor to conduct thermal mapping operations. We aim to capture heat signatures and surface temperature profiles with urgency, prioritizing our "critical payload capture" within the strict deadline of the day after tomorrow's overnight period.
+
+Let's formulate this natural user request:
+
+---
+
+Good day! I'm reaching out on behalf of our Earth-observation mission to submit a highly important task for our satellite constellation planner. This task involves conducting thermal mapping using our 'TIR' sensor, focusing on capturing heat signatures and surface temperature profiles for "thermal anomaly detection". We're looking at a location in Norte, which doesn't specify a country or city but can still be described using available parameters.
+
+Given the high priority level, this mission is an "absolute institutional priority" with a "binding contract requirement", implying that it's a "critical payload capture" that requires an "urgent operational execution". We aim to ensure that our data products are ready by the day after tomorrow at the latest, specifically during the overnight period. This deadline is not negotiable and represents the strict upper limit for data availability.
+
+Our goal is to provide detailed thermal mapping data that can help us detect anomalies and understand surface temperature profiles effectively. This task is part of our "standard operational tasking", contributing to our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".
+
+Thank you for your attention to this matter, and we look forward to your support in fulfilling this critical mission.
+
+---
+
+This request follows the operational guidelines provided, integrating a natural language approach while adhering to the structural hierarchy of priority levels and emphasizing the urgency tied to our strict deadline.

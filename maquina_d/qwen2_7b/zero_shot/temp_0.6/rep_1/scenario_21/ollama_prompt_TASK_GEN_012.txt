@@ -1,0 +1,38 @@
+Good day to all Earth observation mission operators! We are pleased to request a task from the automated satellite constellation planner for an immediate operational need. As per our guidelines, let's interpret this raw physical simulation metadata in a conversational English format.
+
+The target geographic context involves Indonesia, a country with a rich biodiversity and vast landscapes. Our focus is on capturing a high-resolution optical snapshot of this region for daylight photography purposes. We aim to document the natural beauty and environmental conditions using true-color visual imagery.
+
+We're requesting this task with a priority level that is considered low importance. This means we recognize that our request can be accommodated within flexible scheduling parameters. It's part of an opportunistic background survey aimed at gathering additional data that may serve as testbed tracking tasks for future missions.
+
+The operational timeframe includes capturing the imagery on the target day, which is four days from now, with the absolute need being in the morning. This deadline is strictly set to ensure that the data products are ready and available by that specific time frame to be ingested into our pipeline efficiently.
+
+Let's proceed with the automation process by translating this information into a task request format:
+
+---
+
+[Task Request]
+
+Subject: Low Importance Geographical Survey - Indonesia
+
+Priority: Low Importance
+
+Sensor: VIS (Visible Imaging)
+
+Geographic Context:
+- Country: Indonesia
+- City: Ecuatorial (Assuming 'Ecuatorial' refers to the equatorial region within Indonesia)
+
+Mission Allocation Priority:
+- This task is considered a non-essential background filler task that can be scheduled based on convenience. The operator explicitly notes it as a low priority importance request, treating it as a background survey or testbed tracking task.
+
+Relative Timeframes:
+- The data must be ready by [target_day], which is four days from now, with the strict delivery deadline set for the morning of that day.
+- Ensuring the products are ingested into the pipeline before [target_day] at the latest.
+
+---
+
+[End of Task Request]
+
+---
+
+Let's proceed with automating this task request for the satellite constellation planner. We appreciate your diligence in meeting our deadline and providing the best operational service possible.
