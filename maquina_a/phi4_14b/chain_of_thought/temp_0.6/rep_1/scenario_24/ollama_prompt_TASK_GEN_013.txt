@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the given options is "morning". This word will appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The requirement is explicitly stated as "in the morning", and I will adhere strictly to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to capture critical vegetation analysis data over Melgar, Colombia. This task involves a multispectral vegetation analysis using a VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index. It is a binding contract requirement that this operation be executed with utmost urgency. The data must be delivered in three days, specifically captured in the morning. This mission lock is un-preemptable, ensuring no other tasks interfere with this high-importance directive.

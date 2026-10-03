@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This indicates when the data products need to be delivered and sets a clear deadline for the task.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the satellite should capture the imagery, indicating it should occur during the nighttime hours.
+
+c) The word contained in this string that matches one of the options provided is "overnight". Therefore, this is the term that will appear literally in the final request.
+
+d) It's important to ensure that the deadline is strictly adhered to. The phrase "in four days" and the specification of "overnight" make it clear that no adjustment or shifting of the deadline to another part of the day is necessary. The task must be executed at the specified time without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for a multispectral analysis over Simití, Colombia, using near-infrared reflection to assess soil moisture levels and water body boundaries. This is part of our baseline pipeline tracking, with fixed parameters representing normal operational status. The task must be completed in four days, specifically during the overnight period.

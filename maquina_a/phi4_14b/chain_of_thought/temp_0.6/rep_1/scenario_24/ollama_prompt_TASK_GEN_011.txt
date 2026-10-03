@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This indicates when the task needs to be completed.
+
+b) The exact string found in 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite should capture the data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "morning". This will be used in the final request to specify the time of day for the task.
+
+d) It's important to note that the deadline specified as "in four days" should not be altered or shifted to another part of the day. The requirement is clear that the task must be completed within this timeframe and specifically "in the morning".
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low priority importance satellite observation over Campli, Italy. This task involves capturing near-infrared reflection data to assess soil moisture levels, which will help in discriminating gradients. The request should be treated as a flexible schedule for opportunistic capture, allowing for it to be dropped or rescheduled at convenience if necessary. Please ensure that this non-essential background filler task is completed in four days, specifically in the morning.
