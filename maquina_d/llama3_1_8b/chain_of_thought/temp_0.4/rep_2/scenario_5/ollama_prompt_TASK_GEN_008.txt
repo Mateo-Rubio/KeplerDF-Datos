@@ -1,0 +1,14 @@
+Let's go through the reasoning for Stage 1.
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This is the word that must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The target day remains as specified, and the diurnal period is simply a description of the timing within that day.
+
+Now, let's proceed to Stage 2 for the final request.
+
+```prompt
+Please task the satellite with conducting a standard operational tasking using active radar scan via microwave surface imaging for cloud-penetrating capture overnight on the day after tomorrow. This commercial tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and a standard workflow update.
