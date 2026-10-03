@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided in the JSON format, the Earth-observation mission operator would formulate the task request as follows:
+
+"Please capture a high-resolution optical snapshot of the Ecuatorial region in Indonesia, ideally during the morning hours tomorrow. This mission is to be executed with an emphasis on flexibility and opportunism, as it carries a low priority importance. The primary objective is to produce clear daylight imagery that serves as true-color visual documentation of the area for potential future use or analysis. We understand this request falls within a strict deadline to deliver the data products, but please treat it as a background survey or a testbed tracking task, adjusting the schedule at your convenience if needed."

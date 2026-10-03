@@ -1,0 +1,18 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string which is also one of {morning, mid-day, afternoon, evening, overnight} is "evening".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the metadata as described:
+
+We are tasked with capturing a thermal mapping dataset tomorrow, specifically focusing on the evening period. The geographical context involves Norte region, although country details are unavailable, we'll consider it as part of a broader unspecified area. Since the location details such as city or landmark aren't provided, we'll describe the region in a general manner.
+
+The mission priority is indicated as medium importance. This means this task is part of our standard operational tasking and represents a baseline pipeline tracking setup with fixed parameters. We view it as a routine monitoring activity with normal operational status. We recognize that while it holds a certain level of importance, it does not require an urgent or un-preemptable operation.
+
+The primary sensor involved will be the TIR (Thermal Infrared), which allows us to capture thermal mapping data for heat signature detection and surface temperature profiling. This is a critical tool for identifying thermal anomalies and mapping heat emissions across the region.
+
+The deadline to deliver this data product is set for tomorrow in the evening, which aligns with our operational parameters. We will ensure that we adhere to this deadline as strictly as the physical simulation metadata dictates, without altering or extending it in any way.
