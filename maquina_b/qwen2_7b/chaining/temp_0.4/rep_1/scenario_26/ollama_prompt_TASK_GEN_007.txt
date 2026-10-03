@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata. The objective is to translate this JSON format into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Colombia's La Vega region, combining country, city, and landmark details naturally without using technical system tags or coordinate arrays. The mission allocation priority is medium importance (Priority 2), which requires professional, direct, and standard operational language, framing this as a "standard operational tasking" part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be used is TIR for thermal mapping, capturing a heat signature or surface temperature profile. This involves assessing the heat emissions from the region, which could be crucial for thermal anomaly detection or understanding local heat patterns.
+
+The delivery deadline is "the day after tomorrow in the evening," maintaining this phrase verbatim as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included in the request.
+
+In summary, our task request is to conduct a thermal mapping mission using TIR sensors on Colombia's La Vega region with medium priority, aiming to capture heat signatures and surface temperature profiles by "the day after tomorrow in the evening." This request aligns with our standard operational tasks while ensuring timely data availability for further analysis.

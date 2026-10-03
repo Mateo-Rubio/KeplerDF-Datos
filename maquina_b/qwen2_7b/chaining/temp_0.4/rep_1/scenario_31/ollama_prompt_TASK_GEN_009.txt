@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner with utmost importance. The objective is to capture a highly realistic, detailed, and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Malaysia, specifically Kabong, a city within this country. The operational guidelines guide us to interpret the 'region_name' and nested 'location_details' without using raw technical system tags, underscores, or coordinate arrays. We must describe the location using realistic combinations of the fields provided, gracefully handling any "N/A" values by describing the location using remaining valid fields or the 'region_name'.
+
+The mission allocation priority is set at level 3, indicating high importance and an absolute institutional priority, with a binding contract requirement involving a critical payload capture. This request must be executed with urgency, as it represents an un-preemptable mission lock.
+
+Our primary sensor for this task is VNIR (Vegetation Narrowband Reflectance), which we interpret as a multispectral vegetation analysis aiming to assess the chlorophyll absorption level and calculate the vegetation NDVI index, providing surface reflectance data. This objective will help us understand the health and condition of the vegetation in Malaysia's Kabong region.
+
+The deadline for this task is resolved by an upstream module, requiring that the data become available four days from now, overnight. We must incorporate this phrase verbatim into our request, not rephrasing or altering it in any way.
+
+In conclusion, this task request combines a high-resolution optical snapshot of Malaysia's Kabong region using VNIR technology for detailed vegetation analysis with an urgent operational execution timeframe. The importance level and deadline set the stage for a critical payload capture that must be executed with the utmost care and attention to detail.

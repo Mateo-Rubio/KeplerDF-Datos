@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that I interpret the JSON parameters naturally without using technical system tags or coordinate arrays.
+
+The geographic context for this mission involves observing Colombia, specifically the city of La Chapa, which is an important location for capturing data on soil moisture assessment due to its agricultural significance. This task has been allocated with a low priority importance, meaning it's a flexible schedule "opportunistic capture" request, part of a background survey or testbed tracking task.
+
+The primary sensor involved is the Near-Infrared (NIR), which will be used for mapping water body boundaries and assessing soil moisture levels. The goal here is to gather near-infrared reflection data that will help discriminate gradients in the area, providing crucial information on water distribution and soil health.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days during the afternoon". This phrase must be inserted verbatim into the request as the stated upper limit for data availability.
+
+In summary, my task request is to capture near-infrared reflection data of water bodies and soil moisture levels in La Chapa, Colombia, within the specified deadline. This mission is part of a low priority importance task, which allows for flexible scheduling and is treated as a background survey or testbed tracking task.

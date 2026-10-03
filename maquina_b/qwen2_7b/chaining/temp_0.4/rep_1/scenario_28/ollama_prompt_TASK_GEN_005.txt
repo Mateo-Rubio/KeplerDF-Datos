@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing thermal mapping data using a TIR sensor over a region in "Italia", specifically targeting the city of "Cerasuolo". This location is described with a sense of realism by combining the country, city, and landmark fields from 'location_details'. If any of these are "N/A", they are gracefully ignored.
+
+The mission allocation priority is determined by the 'priority_level' key, which in this case is set to 1. This indicates a low importance request with a flexible schedule for opportunistic capture. It is labeled as a "non-essential background filler task" that can be treated as a "background survey" or "testbed tracking task". The language used reflects the operational guidelines by integrating specific phrases that denote its status as a low priority importance request.
+
+The sensors and physical objectives are described using natural language to explain the physical phenomenon to be observed. The TIR sensor goal is explained as "thermal mapping", capturing a "heat signature" or a "surface temperature profile". This includes the capability for "thermal anomaly detection" and mapping heat emissions, emphasizing its utility in identifying variations in temperature across the region.
+
+The delivery deadline has been resolved by an upstream module and is set for "the day after tomorrow around mid-day". This phrase is inserted verbatim into the request as the stated upper limit for data availability. It does not require rephrasing, shortening, or moving to a different part of the day.
+
+In summary, this task request aims to capture thermal mapping data using a TIR sensor over the city of Cerasuolo in Italia with a low priority importance, flexible schedule, and an operational deadline set for "the day after tomorrow around mid-day".
