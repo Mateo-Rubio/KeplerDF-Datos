@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format is being translated organically according to the operational guidelines:
+
+Geographically, we're focusing on Vista Hermosa, Colombia, which combines the country and city fields naturally without relying on raw technical system tags, underscores, or coordinate arrays. If any of the 'country', 'city', or 'landmark' fields are "N/A," we describe the location using the remaining valid fields or the clean 'region_name'.
+
+Mission allocation priority is defined by the 'priority_level': Priority 2 (Medium Importance) indicates an authoritative and standard operational tasking setup. This request is part of a baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor is set to "NIR," which we interpret as near-infrared reflection for water body boundary mapping or soil moisture assessment, allowing us to discriminate gradients effectively.
+
+The delivery deadline is "the day after tomorrow overnight," which is the upper limit for data availability as decided by an upstream module. We've inserted this phrase verbatim into our request without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, we're requesting a routine monitoring task involving near-infrared reflection for water body boundary mapping or soil moisture assessment from Vista Hermosa, Colombia. This mission is part of our standard operational tasks with normal parameters and represents medium importance in our baseline pipeline tracking setup. The deadline for this task is set for the day after tomorrow overnight, as determined by our upstream module's decision.

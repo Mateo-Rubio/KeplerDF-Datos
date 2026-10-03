@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context of our mission involves Colombia, specifically the city of Puerto López. This area requires an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring we can capture ground geometry regardless of heavy weather conditions.
+
+Our priority level is set to low importance, indicating that this request falls under a flexible schedule for opportunistic capture as part of a non-essential background filler task. We're treating it as a low priority importance mission with normal operational status or a standard workflow update.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for "in three days around mid-day". This upper limit for data availability must be inserted verbatim into our request, without any rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our mission entails capturing detailed imagery of Puerto López using SAR technology for cloud-penetrating capture and ground geometry assessment. As this is a low priority task, we'll ensure it's completed within the specified timeframe without impacting more critical missions.
