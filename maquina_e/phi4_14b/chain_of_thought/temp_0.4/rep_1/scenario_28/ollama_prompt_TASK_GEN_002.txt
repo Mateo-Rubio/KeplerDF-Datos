@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data delivery deadline is set for the next day from the current date.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the observation should occur, focusing on the afternoon period.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "afternoon." This word will be used verbatim in the final request to describe the timing of the task.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The requirement explicitly states "during the afternoon," which must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for a flexible schedule with an opportunistic capture near the region known as Norte. This task involves a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Given its non-essential background filler status, please feel free to drop or reschedule this task at your convenience. The data products are needed by tomorrow during the afternoon.
