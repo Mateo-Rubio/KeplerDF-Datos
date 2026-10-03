@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context revolves around the utilization of a 'TIR' primary sensor in Colombia, specifically in Cubarral, with an assigned priority level of 3, indicating high importance.
+
+Cubarral, a part of the vibrant country of Colombia, is our geographic context for this mission. We're tasked with capturing thermal mapping data to identify heat signatures and surface temperature profiles. Our operational request will emphasize the critical nature of the payload capture, framing it as an absolute institutional priority or a binding contract requirement involving a mandatory directive.
+
+The delivery deadline is set for 'the day after tomorrow in the morning', acting as the upper limit for data availability. This deadline is to be inserted verbatim into our request without any rephrasing or alterations.
+
+Our request is structured to maximize naturalness and validation accuracy by interpreting technical metadata organically. We will avoid using raw technical system tags, underscores, or coordinate arrays, focusing instead on describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we'll gracefully describe the location using the remaining valid fields or the clean 'region_name'.
+
+To interpret sensors and physical objectives naturally:
+- 'TIR' translates into capturing a thermal map to assess heat signatures, surface temperature profiles, or detect thermal anomalies.
+- The goal is to meticulously observe and document these phenomena for critical decision-making purposes.
+
+In conclusion, our request will be tailored with authoritative language reflecting the high importance of the mission, emphasizing the need for urgent operational execution and an un-preemptable mission lock. We're aiming for an efficient workflow update within the baseline pipeline tracking framework, ensuring fixed parameters representing normal operational status.
+
+By following these guidelines, we anticipate a successful mission allocation that prioritizes quality data collection while adhering to strict deadlines. The Earth-observation community will benefit from this highly realistic request format, enhancing our ability to monitor and manage environmental changes with precision.

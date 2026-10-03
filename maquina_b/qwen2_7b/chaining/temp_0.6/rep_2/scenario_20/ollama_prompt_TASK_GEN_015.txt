@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner with the following parameters:
+
+The primary sensor required is Synthetic Aperture Radar (SAR), which will perform an active radar scan using microwave surface imaging to capture cloud-penetrating data. This is for the region of Malaysia's Belaga city.
+
+Considering the operational guidelines, I'll describe this request as a standard operational tasking that involves normal pipeline tracking with fixed parameters and represents the normal operational status. The priority level assigned is medium importance, indicating a standard workflow update with no urgent operational execution or un-preemptable mission lock.
+
+The geographic context involves Malaysia, with the city of Belaga being our target location. Given the operational guidelines, I'll avoid using raw technical system tags, underscores, or coordinate arrays in this request.
+
+Our mission allocation priority is set at medium importance, hence we're framing this as a standard operational tasking part of our baseline pipeline tracking setup. This involves normal operational status and represents a standard workflow update that doesn't require any urgent attention or deviation from the standard procedures.
+
+The delivery deadline has already been resolved by an upstream module. It states "the day after tomorrow overnight", which serves as the upper limit for data availability without any rephrasing, shortening, or moving to a different part of the day. No raw UTC timestamps, digits, or countdown metrics will be included in this request.
+
+In conclusion, our request is for a SAR scan with high-resolution microwave surface imaging capabilities targeting Malaysia's Belaga city on the day after tomorrow overnight. This task has been allocated medium priority and is considered part of our standard baseline pipeline tracking setup.

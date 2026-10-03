@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+In four days in the morning, we aim to capture a daylight photograph of Singkep, Indonesia, for our routine monitoring baseline pipeline tracking setup. This low priority importance task involves assessing chlorophyll absorption levels through a multispectral vegetation analysis using our VNIR sensor, part of our standard operational status. We're treating this as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience.
+
+Given the 'country' and 'city' fields in 'location_details', we describe the location naturally by combining them with realistic context provided by the 'landmark' field from 'location_details'. If 'country', 'city', or 'landmark' are not applicable, we use the 'region_name' field to describe the location.
+
+For this 'primary_sensor', our VNIR sensor will perform the task of capturing a high-resolution optical snapshot for clear optical imagery and true-color visual documentation. The imagery will serve as a background survey or testbed tracking task without any urgency involved.
+
+In summary, we are requesting this 'target_day' in four days in the morning to conduct our routine monitoring baseline pipeline tracking setup using the VNIR sensor to capture daylight photographs of Singkep, Indonesia, as part of our standard operational status with normal parameters. This is a 'priority_level' 1 task, which is labeled as a low priority importance request with a flexible schedule for opportunistic capture.

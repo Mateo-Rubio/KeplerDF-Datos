@@ -1,0 +1,7 @@
+Translate the raw physical simulation metadata provided into a highly realistic request. The primary sensor is SAR, designed for an active radar scan using microwave surface imaging to capture cloud-penetrating images and ground geometry details. Given the 'priority_level' of 2, this request falls under standard operational tasking with fixed parameters representing normal operational status. The mission allocation does not imply a close deadline but rather forms part of our baseline pipeline tracking setup.
+
+The geographic context involves Ecuatorial, which suggests a location in an equatorial region without specific country details. The 'target_day' specified is "the day after tomorrow," and the 'target_diurnal_period' set around mid-day implies that we aim to capture data during this time frame under stable lighting conditions.
+
+To address this task, our automated satellite constellation planner will ensure optimal scheduling and resource allocation for a standard operational mission, leveraging SAR capabilities to deliver high-quality microwave surface images. The delivery deadline is firmly set as "the day after tomorrow around mid-day," ensuring timely data availability without the need for rephrasing or adjustment.
+
+Let's proceed with translating this information into a compelling request that reflects the naturalness and validation accuracy of our dataset while adhering to the operational guidelines provided.
