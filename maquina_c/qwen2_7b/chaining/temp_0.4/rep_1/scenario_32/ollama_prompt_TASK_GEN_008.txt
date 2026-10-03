@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing data over the region of Italia, specifically targeting the city of Norte. This location will be observed using an active radar scan with microwave surface imaging capabilities, aiming for cloud-penetrating capture that can pierce heavy weather or reveal ground geometry details.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a "background survey" or "testbed tracking task", emphasizing its status as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The deadline for this task has already been resolved by an upstream module, set for "tomorrow in the evening". This phrase is inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing, shortening, or altering the part of the day.
+
+In conclusion, our mission allocation prioritizes capturing thermal mapping to detect heat signatures and surface temperature profiles, complemented by a detailed optical snapshot for true-color visual documentation. This holistic approach ensures comprehensive coverage of both physical objectives and operational guidelines while adhering to the specified deadline.

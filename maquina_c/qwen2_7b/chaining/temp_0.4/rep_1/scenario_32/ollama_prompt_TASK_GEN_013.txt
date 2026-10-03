@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The task involves capturing data using the VNIR sensor for a target day set as tomorrow in the evening.
+
+Our geographic context is centered around Colombia, with a specific focus on the city of Belén de Umbría. We're combining this information naturally, avoiding raw technical tags or coordinate arrays, to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'country', 'city', and 'landmark' are provided, we'll integrate them into our request.
+
+The mission allocation priority for this task is set at Priority 1 (Low Importance), indicating a low priority importance with a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, which is part of a low-priority workflow update or background survey.
+
+Our physical objectives are to conduct multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This will allow us to understand surface reflectance and provide valuable insights into the health and condition of the vegetation in Belén de Umbría.
+
+The deadline for this task has been resolved by an upstream module, with the specified upper limit for data availability being tomorrow in the evening. We must insert this phrase verbatim into our request, as it represents the stated upper limit for data availability without rephrasing or altering the time of day.
+
+In summary, our task involves capturing multispectral vegetation analysis data using the VNIR sensor for Belén de Umbría, Colombia, with a low priority importance and a deadline set for tomorrow in the evening. The request is crafted to ensure naturalness and validation accuracy while adhering to operational guidelines.

@@ -1,0 +1,20 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. The operational guidelines provided guide us through interpreting the JSON data in a contextually meaningful way.
+
+For our current task, we are focusing on a location within Norte, which lacks specific details about country or city, but we'll describe it as part of this region's operational context. The primary sensor in play is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging to capture the terrain beneath heavy weather conditions or to map ground geometry.
+
+This request for mission allocation prioritizes our task at level 2, indicating a medium importance with standard operational status and baseline pipeline tracking. We're setting our sights on capturing the necessary data overnight, the day after tomorrow, following an "overnight" diurnal period as per the deadline provided by an upstream module.
+
+In essence, our request to the satellite constellation planner is to conduct this SAR scan to gather critical information about the landscape, ensuring that our operational tasks are carried out with precision and efficiency, reflecting the medium importance level. This involves leveraging the capabilities of SAR technology to penetrate cloud cover and capture essential data for our ongoing projects, all while adhering to the strict deadline set for the day after tomorrow overnight.
+
+Let's proceed with formulating this request in a manner that aligns with these guidelines, ensuring clarity, context, and operational relevance:
+"Attention Satellite Constellation Planner,
+
+We're initiating a mission to capture comprehensive data on the Norte region using Synthetic Aperture Radar (SAR) technology. The primary objective is to perform an active radar scan utilizing microwave surface imaging capabilities, which will allow us to capture ground geometry or penetrate through heavy weather conditions for accurate mapping.
+
+This task carries medium importance, aligning with our standard operational tasks and baseline pipeline tracking setup. It involves fixed parameters that represent normal operational status and is part of our routine monitoring activities.
+
+The deadline for this task is set for the day after tomorrow overnight, adhering to the upper limit provided by an upstream module. We're focusing on capturing essential information within this timeframe, ensuring that our satellite constellation operates efficiently and effectively under the specified conditions.
+
+Please prepare the necessary resources and ensure that the SAR mission is executed with utmost care and precision, considering the medium importance level of this task. We appreciate your attention to detail and adherence to operational guidelines, which will contribute to the overall success of our Earth-observation missions."
+
+This request encapsulates the essence of our operational guidelines while providing a clear, concise, and contextually rich description for the automated satellite constellation planner.
