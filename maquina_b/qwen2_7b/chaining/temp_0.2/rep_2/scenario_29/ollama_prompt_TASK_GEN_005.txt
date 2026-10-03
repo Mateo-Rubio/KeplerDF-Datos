@@ -1,0 +1,24 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines provided for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+Given the target task context JSON:
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Let's interpret this data:
+
+The primary sensor is SAR, which will conduct an active radar scan using microwave surface imaging to capture cloud-penetrating details of ground geometry. The geographic context involves a location with no country specified but a city named Norte. This implies we're focusing on a specific area within Norte without the need for broader national or regional descriptions.
+
+The priority level is set at 1, which means this request is considered low importance. We'll frame this as a "low priority importance" task with a flexible schedule for opportunistic capture, treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline is set for the day after tomorrow in the evening. This phrase must be included verbatim in our request, indicating the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request will involve capturing detailed ground geometry using SAR technology on a specific area within Norte city, with no country details provided. This task is of low priority importance and should be treated as a "background survey" or "testbed tracking task". The deadline for data availability is set for the day after tomorrow in the evening.

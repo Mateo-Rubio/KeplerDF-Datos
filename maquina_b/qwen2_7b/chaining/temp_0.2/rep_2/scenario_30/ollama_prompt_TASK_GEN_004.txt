@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Uribe, Colombia, which is a part of the broader region. We'll describe this location using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'city' and 'landmark' are "N/A", we'll focus on the 'country' field for a concise yet accurate description.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', indicating that this request is part of a flexible schedule for opportunistic capture. We'll frame it as a low priority importance task with a 'flexible schedule', treating it as a 'background survey' or 'testbed tracking task'. The language must be casual and highly flexible, allowing for 'drop or reschedule at convenience'.
+
+The primary sensor is 'SAR', which we'll interpret as an active radar scan using microwave surface imaging. This technique will be used to capture cloud-penetrating data, providing insights into ground geometry that are essential for various applications such as infrastructure monitoring and disaster response.
+
+The delivery deadline has been resolved by an upstream module, stating "in three days overnight". We'll insert this phrase verbatim into our request, ensuring it serves as the stated upper limit for data availability without rephrasing or altering its meaning.
+
+In summary, our task request will focus on observing Uribe, Colombia, using a 'SAR' sensor for an active radar scan during the overnight period three days from now. This observation is part of a low priority importance task with a flexible schedule, emphasizing opportunistic capture and background surveying activities.

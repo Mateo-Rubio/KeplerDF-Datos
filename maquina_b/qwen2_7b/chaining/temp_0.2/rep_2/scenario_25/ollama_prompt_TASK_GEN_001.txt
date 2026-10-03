@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Colombia's Riofrío region, which is a strategic location for capturing detailed environmental data. The primary sensor designated for this mission is near-infrared (NIR), enabling us to assess water body boundaries and soil moisture levels effectively. This task is of low importance, as indicated by the priority level, allowing for a casual tone in our request.
+
+The operational guidelines guide us to avoid raw technical tags and focus on the natural interpretation of the data. We will describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to low importance, which means this request should be treated as a flexible schedule task for opportunistic capture. We can frame it as a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". This request is part of our "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for "in three days around mid-day". We must insert this phrase verbatim into our request as the stated upper limit for data availability. We do not rephrase, shorten, or move it to a different part of the day.
+
+In summary, our request is to capture detailed water body boundaries and soil moisture levels using near-infrared technology in Colombia's Riofrío region on the third day, around mid-day. This task is part of our low-priority background survey, with a flexible schedule for opportunistic capture, adhering to our operational guidelines for naturalness and validation accuracy.

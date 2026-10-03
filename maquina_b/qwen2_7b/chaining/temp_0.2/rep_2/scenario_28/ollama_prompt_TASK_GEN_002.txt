@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The geographic context revolves around capturing a "multispectral vegetation analysis" using VNIR sensors over an area with a target day set for "tomorrow during the afternoon". The location details indicate that we're focusing on Norte, a city within an unspecified country. Since the country field is marked as "N/A", we'll describe the region based on the remaining valid fields or directly use the 'region_name' if provided.
+
+The mission allocation priority level is set to 1, which implies this request is of low importance and carries a flexible schedule for "opportunistic capture". We're treating it as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", serving as a "background survey" or "testbed tracking task".
+
+To summarize our request, we aim to gather "multispectral vegetation analysis" data over Norte during the afternoon of tomorrow. This involves assessing the "chlorophyll absorption level" and calculating the "NDVI index" for surface reflectance. The goal is to provide valuable insights into vegetation health and land use without imposing strict deadlines or prioritizing it above other tasks.
+
+Please proceed with scheduling this task, keeping in mind its low priority status and flexible timing requirements.

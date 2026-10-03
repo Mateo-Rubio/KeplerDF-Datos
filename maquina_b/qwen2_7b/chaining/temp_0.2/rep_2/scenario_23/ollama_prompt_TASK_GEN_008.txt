@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of Burzanella, a city in Italia. Given that the country and city details are provided, we can describe the location as such without relying on nested 'location_details' fields since they are not available. The mission allocation priority is set at level 1, indicating low importance with flexible scheduling for opportunistic capture.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture and the ability to pierce heavy weather conditions while capturing ground geometry. The operational objective is to gather data that can provide insights into the landscape and infrastructure of Burzanella.
+
+The delivery deadline is set for "in three days during the afternoon", which serves as the upper limit for data availability without any rephrasing or adjustment. This timeframe ensures that the data collection process adheres to the established schedule without compromising on quality or relevance.
+
+In conclusion, my request to the satellite constellation planner is to capture high-resolution SAR imagery of Burzanella, Italia, during the afternoon of the specified date, focusing on capturing ground geometry and landscape details for a thermal mapping project. This task is labeled as a low priority importance request with flexible scheduling, treating it as a background survey or testbed tracking task.
