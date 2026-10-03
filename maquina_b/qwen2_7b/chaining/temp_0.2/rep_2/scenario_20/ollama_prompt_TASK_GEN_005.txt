@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for a location in Italia, specifically Pavullo nel Frignano. This area will be observed using the Near-Infrared sensor, which aims to map water body boundaries and assess soil moisture levels for an accurate representation of the region's hydrological conditions.
+
+Given the priority level of this task is medium importance (Priority 2), it is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. The request is framed as a "standard operational tasking" that involves capturing data around mid-day in three days, adhering to our baseline workflow update requirements.
+
+The deadline for this task has been resolved by an upstream module and is set for three days from now, around mid-day. This upper limit for data availability must be strictly followed, as it represents the final window for acquiring the necessary data.
+
+In conclusion, our request is to capture high-resolution optical snapshots using the Near-Infrared sensor for a detailed assessment of water body boundaries and soil moisture levels in Pavullo nel Frignano, Italia, with the understanding that this task is part of our standard operational procedures and must be executed within the specified timeframe.

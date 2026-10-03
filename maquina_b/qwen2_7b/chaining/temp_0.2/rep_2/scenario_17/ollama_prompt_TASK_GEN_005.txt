@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing thermal mapping data overnight in the city of Norte, Brazil. Although the country field is marked as "N/A", we'll describe the location using the city name for clarity. The mission allocation priority is set to 'High Importance', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+The primary sensor to be utilized is Thermal Infrared (TIR), which will enable us to capture heat signatures, surface temperature profiles, or thermal anomalies during the overnight period. This data collection is essential for mapping heat emissions accurately.
+
+The delivery deadline is set for "the day after tomorrow overnight", which means that the upper limit for data availability is strictly adhered to. This deadline is already resolved by an upstream module and must be included verbatim in our request, without any rephrasing or adjustments.
+
+In summary, our task request involves capturing thermal mapping data overnight in Norte, Brazil, using a TIR sensor with high priority and urgency. The data must be collected by "the day after tomorrow overnight" as specified. This mission is an absolute institutional priority requiring immediate attention to ensure the capture of critical information without any delays or preemption.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The primary sensor is set to "NIR", which will be used for near-infrared reflection to map water body boundaries and assess soil moisture levels. The geographic context involves capturing data from Indonesia, specifically focusing on the city of Kepulauan Meranti. This task carries a medium importance level, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is set at medium importance, which means this request is included in a baseline pipeline tracking setup with standard workflow updates. The deadline for this task is "in four days in the morning", serving as the upper limit for data availability without rephrasing or altering the time frame.
+
+To maximize naturalness and validation accuracy, I will interpret the metadata organically by combining the JSON parameters naturally. This involves describing the location using realistic combinations of country, city, and landmark fields from 'location_details', while gracefully ignoring "N/A" values and focusing on the remaining valid fields or the clean 'region_name' if necessary.
+
+The request is structured to include all operational guidelines:
+1. GEOGRAPHIC CONTEXT: The location description will be crafted to avoid raw technical system tags, underscores, or coordinate arrays.
+2. MISSION ALLOCATION PRIORITY: The language will reflect an authoritative tone for high importance tasks, professional directness for medium importance tasks, and casual flexibility for low importance tasks.
+3. SENSORS AND PHYSICAL OBJECTIVES: Descriptors will be woven into the request to explain the physical phenomena being observed using natural language.
+4. DELIVERY DEADLINE: The phrase "in four days in the morning" will be inserted verbatim as the stated upper limit for data availability.
+
+By integrating these guidelines, I aim to create a comprehensive and accurate task request that aligns with operational best practices and maximizes dataset quality.

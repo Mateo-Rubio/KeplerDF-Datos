@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified region and mission allocation priority.
+
+The geographic context involves capturing imagery of Cossogno, a picturesque town in Italia. The primary sensor designated for this task is VNIR, which will be used for multispectral vegetation analysis. This means we aim to assess the chlorophyll absorption level across various plant species, calculate the vegetation NDVI index, and understand surface reflectance patterns.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline for this task has been resolved by an upstream module, requiring the data to be available in four days in the morning.
+
+In conclusion, our mission is to gather VNIR imagery of Cossogno, focusing on vegetation analysis and surface reflectance patterns, with the understanding that this task falls under a low priority importance category. The data must be collected within the specified timeframe and diurnal period, ensuring we capture the essence of the region's flora during optimal daylight conditions.

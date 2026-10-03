@@ -1,0 +1,28 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines provided:
+
+1. GEOGRAPHIC CONTEXT: Combining 'region_name' and nested 'location_details', we describe the location using realistic combinations of country, city, and landmark fields. If any are "N/A", we gracefully ignore them and use remaining valid fields or clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Priority levels indicate mission allocation authority and asset contractual value, not urgency. We use authoritative, professional, and casual tones for Priority 3, 2, and 1 respectively.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Describing the goals naturally using operational objectives and descriptors instead of technical abbreviations.
+
+4. DELIVERY DEADLINE: The task deadline is "tomorrow during the afternoon", which must be inserted verbatim into our request.
+
+Given the target task context JSON:
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Our request is:
+
+"Please allocate a standard operational tasking for an active radar scan using microwave surface imaging. The objective is to capture cloud-penetrating imagery of the Ecuatorial region in Indonesia during the afternoon tomorrow. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's a standard workflow update and should be executed as scheduled."
+
+This request integrates the guidelines by providing a clear, natural description of the task, using appropriate priority language, sensor objectives, and respecting the deadline."

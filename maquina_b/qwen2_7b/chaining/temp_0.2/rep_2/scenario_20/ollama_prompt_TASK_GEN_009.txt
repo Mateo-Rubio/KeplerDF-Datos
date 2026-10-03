@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines provided for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from Indonesia, specifically Pelompek city. The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor for this task is VNIR, which we'll interpret as conducting multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This will help us understand surface reflectance patterns in the area.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for tomorrow overnight. We're not rephrasing or shortening this phrase; it's the upper limit for data availability as per our guidelines.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution multispectral vegetation data from Indonesia, focusing on Pelompek city, using VNIR sensors during the overnight period tomorrow. This task aligns with our standard operational status and will contribute to our baseline pipeline tracking setup.
