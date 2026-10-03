@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating raw metadata from a JSON format into a conversational request for an Earth-observation mission. Let's examine the relevant details:
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data collection needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) Within the string "during the afternoon", the single word that aligns with the options provided is "afternoon". This word will be used verbatim in the final request to specify the timing of the task.
+
+d) It is crucial to confirm that there is no alteration or shift in the deadline. The task must be executed strictly within the specified timeframe, "in three days" and "during the afternoon". Any deviation from this would not meet the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission is an absolute institutional priority involving a critical payload capture over Kampung Pasir Hulu, Malaysia. We require a high-resolution optical snapshot for true-color visual documentation during the afternoon, with data delivery mandated within three days. This task is a binding contract requirement and must be executed with urgent operational execution, ensuring an un-preemptable mission lock.

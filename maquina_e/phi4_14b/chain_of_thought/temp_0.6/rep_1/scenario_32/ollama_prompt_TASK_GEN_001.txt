@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline by which the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the satellite should capture the data.
+
+c) The single word contained in the string "overnight" that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "overnight". This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request specifies capturing data "overnight", adhering strictly to the provided temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task for an opportunistic satellite capture over Tame, Colombia, utilizing SAR technology. This is a low priority importance request with a flexible schedule, intended as a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to perform an active radar scan using microwave surface imaging, ideal for cloud-penetrating capture and capturing ground geometry. The data should be delivered in three days, specifically during the overnight period.

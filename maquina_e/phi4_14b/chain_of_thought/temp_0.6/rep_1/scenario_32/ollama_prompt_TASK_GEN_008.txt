@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the mission needs to be completed by the following day from when this request is made.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day during which the data collection should occur.
+
+c) The single word contained in the string "in the evening" is "evening." This word will be used verbatim in the final request to describe the timing of the task.
+
+d) It is important to confirm that the deadline is not shifted to any other part of the day. The instruction specifies that the data must be delivered by tomorrow evening, and this timeframe should not be altered or extended. The task must adhere strictly to this schedule without any adjustments to the specified period.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request an observation task focusing on the northern region of Italy, specifically targeting the city of Norte. This is a low-priority importance request with a flexible schedule for opportunistic capture, and it can be dropped or rescheduled at convenience. The objective is to perform an active radar scan using microwave surface imaging, which will allow for cloud-penetrating capture and provide detailed ground geometry. Please ensure that the data is delivered by tomorrow evening, treating this as a background survey task.

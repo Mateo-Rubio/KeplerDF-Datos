@@ -1,0 +1,9 @@
+**STAGE 1 - REASONING**
+
+To begin with, the 'target_day' string in the JSON data is "tomorrow". This specifies the exact day when the task needs to be completed. Next, the 'target_diurnal_period' string is "around mid-day", indicating the specific time of day for the task execution. Within this string, the single word that matches from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day". This word must be included in the final request to accurately reflect the timing requirement.
+
+It's important to confirm that the deadline is not being altered or shifted to another part of the day. The instructions clearly state that the temporal parameters represent a strict operational deadline. Therefore, the task must be completed exactly around mid-day tomorrow, without any adjustments to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low priority importance request for a flexible schedule to capture data using near-infrared reflection. This will be used for water body boundary mapping or soil moisture assessment in Tatau, Malaysia. The task should be completed around mid-day tomorrow, and it is understood that this can be dropped or rescheduled at convenience, treating it as a non-essential background filler task.
