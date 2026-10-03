@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission. To do this, we need to interpret the provided JSON parameters organically according to the operational guidelines.
+
+First, let's focus on the geographic context. The location is described as being in Indonesia, specifically in the region of Kapuas Hulu. Since the country and city are both valid fields, we can combine them naturally to describe the location. We will ignore the landmark field since it is "N/A".
+
+Next, we need to consider the mission allocation priority. With a priority level of 1, this request falls under a low-importance category. We should frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This task can be labeled as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+Moving on to the sensors and physical objectives, the primary sensor is listed as TIR. We need to naturally weave in the operational objectives and descriptors to explain the physical phenomenon to be observed. For TIR, we aim for "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, we need to consider the delivery deadline. The task requires data to be available by "the day after tomorrow overnight". This phrase should be inserted verbatim into the request as the stated upper limit for data availability.
+
+Here's the translated request:
+
+We are requesting a low priority importance task with a flexible schedule for opportunistic capture. This non-essential background filler task can be treated as a background survey or testbed tracking task, where we aim to drop or reschedule at convenience. The objective is to conduct thermal mapping using TIR to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. The location of interest is in Indonesia, specifically in the region of Kapuas Hulu. We need to complete this task by "the day after tomorrow overnight".
