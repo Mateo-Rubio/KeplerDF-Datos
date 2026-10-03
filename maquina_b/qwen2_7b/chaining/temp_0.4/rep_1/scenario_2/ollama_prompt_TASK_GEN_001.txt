@@ -1,0 +1,11 @@
+Your Earth-observation mission operator is submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format will be translated into a single, comprehensive request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing an area in Colombia, specifically the city of Génova. The operational guidelines guide us to avoid raw technical system tags, underscores, or coordinate arrays, instead combining the JSON parameters naturally using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is not provided, we will describe the location using the remaining valid fields.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', which means that this request should be treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "non-essential background filler task", indicating it can be "dropped or rescheduled at convenience" and is considered a "background survey" or "testbed tracking task".
+
+The primary sensor specified is 'SAR', which will be used to conduct an "active radar scan" employing "microwave surface imaging". This technique is perfect for capturing a "cloud-penetrating capture", allowing us to observe ground geometry even under heavy weather conditions. The goal of this mission is to gather detailed information about the terrain and possibly detect any anomalies that might not be visible through other means.
+
+The delivery deadline for this task has been resolved by an upstream module, and it is set for "today in the evening". This phrase will be inserted verbatim into the request as the stated upper limit for data availability. There is no need to rephrase, shorten, or move it to a different part of the day.
+
+In conclusion, your automated satellite constellation planner will receive this request with clear instructions and guidelines to ensure that the satellite captures the necessary data using SAR technology, adhering to the specified geographic context, mission priority level, and deadline, all while maintaining the naturalness and validation accuracy of the dataset.

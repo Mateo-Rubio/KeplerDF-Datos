@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate how to interpret the provided JSON format:
+
+1. GEOGRAPHIC CONTEXT: For the region of 'Indonesia', specifically the city of 'Malinau', I'll describe it as a location where detailed observations are needed. Combining the country, city, and landmark fields naturally, I'll focus on capturing the essence of the area without using technical tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: Given the 'priority_level' is set to 3 (High Importance), this request is an "absolute institutional priority" that involves a "critical payload capture". It represents an "urgent operational execution" and an "un-preemptable mission lock", emphasizing its importance in our baseline pipeline tracking setup.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: With the 'primary_sensor' being 'NIR', my request will explain the goal as capturing "near-infrared reflection" to map water body boundaries or assess soil moisture. This provides a clear operational objective, integrating the physical phenomenon being observed in a way that reflects its significance.
+
+4. DELIVERY DEADLINE: The deadline for this task is "in three days in the evening". This phrase will be inserted verbatim into my request as the upper limit for data availability, ensuring clarity on when the information needs to be delivered without rephrasing or altering the time frame.
+
+Taking these guidelines into account, I hereby submit the following request:
+
+"Mission Allocation: High Importance | Priority Level: 3 | Tasking for 'Indonesia', specifically focusing on 'Malinau', we're tasked with capturing detailed observations using a 'near-infrared' sensor. This mission is an 'absolute institutional priority', requiring an 'urgent operational execution' and 'un-preemptable mission lock'. The objective is to map water body boundaries or assess soil moisture through 'near-infrared reflection'. The deadline for this task is set for 'in three days in the evening', ensuring that our observations are captured within the specified timeframe."
+
+This request encapsulates the essence of the operational guidelines, translating the raw JSON metadata into a clear, concise, and contextually relevant English statement.

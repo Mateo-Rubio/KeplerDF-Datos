@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, following organic interpretation guidelines.
+
+The geographic context involves capturing data from Colombia, specifically El Paujil city, which is described as an area of interest for our mission. Due to the 'priority_level' being set at 1, this task is framed as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted as a "background survey" or "testbed tracking task", emphasizing its non-essential nature and the operator's discretion to drop or reschedule it as convenient.
+
+The primary sensor specified is VNIR, which will be used for multispectral vegetation analysis. The goal is to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. This operation aims to provide detailed insights into the health and composition of the vegetation in the region.
+
+Given the deadline is "tomorrow overnight", this phrase is inserted verbatim as the upper limit for data availability, ensuring that the request aligns with the upstream module's resolution without rephrasing or altering the time frame.
+
+In summary, the task request involves capturing VNIR data from Colombia, specifically El Paujil city, focusing on vegetation analysis with a low priority importance and a deadline set for tomorrow overnight. This request is structured to optimize naturalness and validation accuracy while adhering to operational guidelines and ensuring seamless integration into our mission's workflow.

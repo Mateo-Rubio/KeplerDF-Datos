@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format will be translated into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context is set in Colombia, focusing on the city of San Joaquín. This location requires an active radar scan using microwave surface imaging to capture cloud-penetrating data, essential for understanding ground geometry under various weather conditions. The mission allocation priority is medium importance, indicating a standard operational tasking that aligns with normal pipeline tracking and baseline parameters.
+
+The primary sensor in use is the near-infrared (NIR), tasked with mapping water body boundaries and assessing soil moisture levels to discriminate gradients accurately. This request is part of a routine monitoring setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has already been resolved by an upstream module, set for tomorrow overnight. This phrase, "tomorrow overnight," must be included verbatim in the request as the upper limit for data availability. The request does not include raw UTC timestamps or digits and avoids rephrasing or shortening the deadline.
+
+In summary, our mission involves capturing detailed data on water body boundaries and soil moisture levels using near-infrared technology in Colombia's San Joaquín city during the overnight period tomorrow. This task is part of a standard operational setup with medium importance, adhering to normal pipeline tracking parameters.

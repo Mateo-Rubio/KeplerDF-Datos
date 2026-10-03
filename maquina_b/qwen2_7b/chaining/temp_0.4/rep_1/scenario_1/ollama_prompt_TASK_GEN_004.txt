@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The primary sensor for this mission is VNIR, aiming to conduct a multispectral vegetation analysis over a highly significant geographic context. We're focusing on the region of Colombia, with the city of Ibagué as our specific target area. 
+
+The 'priority_level' is set at Low Importance, indicating that this request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must reflect a casual, highly flexible tone, treating this as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The mission's geographic context is described using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For the physical objectives, our goal with the VNIR sensor is to assess the chlorophyll absorption level and calculate a vegetation NDVI index. This will help in understanding surface reflectance across the target area.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set as "the day after tomorrow overnight", which means we're requesting data availability up until that specific upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, this is a low-priority importance request with a flexible schedule for opportunistic capture. It's labeled as a background survey or testbed tracking task, focusing on our mission's core objective of assessing vegetation health and NDVI index in Colombia's Ibagué region.
