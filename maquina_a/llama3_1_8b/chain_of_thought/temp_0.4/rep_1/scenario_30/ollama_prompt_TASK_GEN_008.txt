@@ -1,0 +1,14 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request is to deliver data products by tomorrow, which implies a deadline for delivery, not a capture window.
+
+Now, let's move on to STAGE 2.
+
+```prompt
+We need to capture a high-resolution optical snapshot for daylight photography in the morning tomorrow using our VIS sensor. The location is Brenna, Italy. This task has low priority importance and can be considered a non-essential background filler task with a flexible schedule for opportunistic capture. Please drop or reschedule at convenience if necessary.
