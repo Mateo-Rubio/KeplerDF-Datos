@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the data collection should be completed by the day after today.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time frame during which the satellite should capture the required data.
+
+c) The single word contained in the string "overnight" is "overnight". This will be used verbatim in the final request to specify when the data should be captured.
+
+d) The deadline specified as "tomorrow overnight" means that the data collection must be completed by the end of the night on the day after today. There is no indication or allowance for shifting this deadline to any other part of the day, such as morning or afternoon. The task must be executed within this precise timeframe.
+
+### Stage 2 - Final Request
+
+I am requesting a standard operational tasking for a commercial mission over Kotawaringin Timur, Indonesia. This involves a routine monitoring setup with fixed parameters as part of our baseline pipeline tracking. The mission requires an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, particularly focusing on capturing ground geometry. This task is scheduled for tomorrow overnight, ensuring that the data products are delivered by this strict operational deadline.
