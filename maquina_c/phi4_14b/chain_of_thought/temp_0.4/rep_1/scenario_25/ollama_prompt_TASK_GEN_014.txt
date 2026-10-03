@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline for the task, which must be adhered to without alteration.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the data collection should occur, emphasizing the importance of capturing conditions during this period.
+
+c) The single word contained in that string is "morning." This word must be included literally in the final request to ensure clarity regarding the timing of the task.
+
+d) It is crucial to confirm that the deadline is not shifted to an adjacent part of the day. The task must be completed "in the morning" on "the day after tomorrow," as specified, without any changes to this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a thermal mapping mission over Claut, Italy. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The objective is to capture a heat signature and surface temperature profile using thermal imaging. Please ensure the data collection occurs in the morning on the day after tomorrow.
