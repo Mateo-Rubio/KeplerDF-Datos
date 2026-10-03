@@ -1,0 +1,14 @@
+Hello Satellite Constellation Planner,
+
+I'm reaching out to request a task for an Earth observation mission that's of low priority importance. This task involves capturing data using near-infrared (NIR) sensors, focusing on water body boundaries and soil moisture assessment. The primary objective is to gather detailed information about water bodies and soil conditions across the region.
+
+The geographic context for this mission is centered around Norte, though specific country details are not available. We're looking at a flexible schedule for this task, treating it as a low priority importance background filler task that can be dropped or rescheduled based on convenience.
+
+Our deadline for receiving the data products is set for three days from now, with a strict delivery deadline of being ready in the evening timeframe. This means we need to ensure that all the products are ingested into our pipeline before the specified target day and evening period.
+
+Please note that this task does not require any specific technical system tags or coordinate arrays, as we aim to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Thank you for your attention to this request. We appreciate your cooperation in meeting our deadline and ensuring that the data meets our operational needs.
+
+Best regards,
+[Your Name]
