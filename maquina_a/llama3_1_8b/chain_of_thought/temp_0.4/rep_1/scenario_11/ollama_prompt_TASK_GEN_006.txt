@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight". This word must appear literally in the final request.
+
+d) Confirming that we are not shifting the deadline to an adjacent part of the day, the 'target_day' and 'target_diurnal_period' strings together specify a strict operational deadline for delivering data products on the current day, specifically overnight. We are not altering or extending this deadline.
