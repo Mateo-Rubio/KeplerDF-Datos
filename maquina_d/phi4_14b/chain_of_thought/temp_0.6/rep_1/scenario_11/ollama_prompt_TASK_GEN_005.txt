@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating specific JSON metadata into a conversational request for an Earth-observation mission. Let's break down the necessary components to ensure clarity and accuracy.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the mission must be completed the day after today, emphasizing the urgency of the task.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time frame within the target day when the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening". This word will be used verbatim in the final request to denote the specific time of day for the operation.
+
+d) It is crucial to confirm that the deadline is not being shifted to an adjacent part of the day. The deadline is explicitly set for "tomorrow" and "in the evening", and there is no intention to alter this timeframe. This ensures that the mission adheres strictly to the provided temporal parameters, maintaining the integrity and urgency of the request.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission is an absolute institutional priority and a binding contract requirement involving a critical payload capture. We need a thermal mapping operation to capture a surface temperature profile in Latina, Italia, with a focus on detecting any thermal anomalies. The primary sensor for this task is TIR, which will provide essential heat signature data. This operation must be completed tomorrow in the evening, reflecting its urgent operational execution and un-preemptable mission lock. Please ensure that all resources are allocated to meet this stringent deadline without fail.

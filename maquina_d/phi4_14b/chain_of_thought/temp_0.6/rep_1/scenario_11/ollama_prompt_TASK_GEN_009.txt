@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data should be delivered within a timeframe of three days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation or capture should occur.
+
+c) The single word contained in the string "in the evening" is "evening." This word must appear literally in the final request to reflect the specified diurnal period.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is strictly set for "in three days, in the evening," and this will be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a thermal mapping observation over Kutai Timur, Indonesia, using a medium-resolution sensor setup. This task is a standard operational tasking within our baseline pipeline tracking, involving fixed parameters for normal operational status. The objective is to capture a surface temperature profile or detect any thermal anomalies in the area. Please ensure that the data products are delivered by "in three days, in the evening."
