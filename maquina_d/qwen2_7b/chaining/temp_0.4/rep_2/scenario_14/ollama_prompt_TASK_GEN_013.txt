@@ -1,0 +1,10 @@
+```prompt
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the naturalness and validation accuracy of the dataset.
+
+The geographic context involves observing an area in Colombia, specifically the city of Suratá. This location will be captured through a high-resolution active radar scan using microwave surface imaging technology, which is essential for cloud-penetrating capture, allowing us to gather detailed ground geometry data even under heavy weather conditions.
+
+Given the priority level of the task is low importance (Priority 1), this request can be framed as a "flexible schedule" for "opportunistic capture", acting as a "background survey" or "testbed tracking task". The operational tone should be casual, allowing for "drop or rescheduling at convenience".
+
+The delivery deadline for this task has been resolved by an upstream module and stands at "in three days around mid-day". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability.
+
+In conclusion, our mission aims to capture essential data about Suratá using SAR technology, providing valuable insights without any urgency constraints or contractual binding. The task will be executed within the specified timeframe and will contribute to our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".

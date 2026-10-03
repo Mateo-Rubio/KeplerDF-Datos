@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format includes a primary sensor set to "NIR", which we interpret as our goal being to capture near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. This mission is situated within the geographic context of Colombia, specifically in the city of Guamal. The request carries a priority level of 3, signifying an absolute institutional priority and a binding contract requirement involving a critical payload capture that must be executed with urgency and treated as an un-preemptable mission lock.
+
+Given the operational guidelines, I'll combine the JSON parameters naturally while avoiding raw technical system tags, underscores, or coordinate arrays. We'll describe the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we'll focus on 'country' and 'city'. We'll frame this request as an "urgent operational execution" with an "un-preemptable mission lock".
+
+The delivery deadline for this task has already been resolved by an upstream module, set for "tomorrow in the morning". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability. This ensures that the deadline is clearly communicated and understood.
+
+Our request to the satellite constellation planner will be as follows:
+
+"Please schedule an urgent operational mission with a high priority level of 3 for capturing near-infrared reflection for water body boundary mapping or soil moisture assessment in Colombia, specifically in Guamal. This critical payload capture must be executed with the utmost urgency and treated as an un-preemptable mission lock. The deadline for data availability is set for tomorrow in the morning."
+
+This request integrates specific operational phrases to reflect the structural hierarchy of priority levels, emphasizing the importance of capturing the specified physical phenomena within the given geographic context under the specified deadline.

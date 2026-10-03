@@ -1,0 +1,22 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that we interpret the provided data in a natural manner, avoiding technical jargon and focusing on the context.
+
+Given the input JSON:
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+I will now craft the request:
+
+For tomorrow's overnight mission, our satellite constellation is tasked with capturing a detailed active radar scan using microwave surface imaging technology. The goal is to penetrate heavy weather conditions and capture ground geometry for an area known as Norte, which lacks specific details like country or city specifics. This task falls under the category of low priority importance, characterized by a flexible schedule and treated as a non-essential background filler task.
+
+Our aim is to assess surface conditions without direct sunlight interference, making this "cloud-penetrating capture" an optimal time for our SAR sensor to operate effectively. We're focusing on gathering data that will help in understanding ground geometry and surface characteristics under various weather conditions, without the constraints of daylight photography or clear optical imagery.
+
+In conclusion, this request is a part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. It serves as a routine monitoring task that doesn't require urgent operational execution or an un-preemptable mission lock due to its low priority level. The data availability deadline is set for tomorrow overnight, and we anticipate delivering the results accordingly.
