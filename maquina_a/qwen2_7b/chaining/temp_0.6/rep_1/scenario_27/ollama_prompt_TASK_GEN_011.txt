@@ -1,0 +1,15 @@
+```prompt
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic, conversational English request for an automated satellite constellation planner. The objective is to maximize the naturalness and validation accuracy of the dataset while interpreting operational guidelines carefully.
+
+The geographic context involves the 'region_name' and 'location_details', which include country, city, and landmark information. We combine these parameters naturally into a description of the location without using raw technical system tags or coordinate arrays. Since 'country', 'city', and 'landmark' fields are available in 'location_details', we describe the target region as France's Norte.
+
+The mission allocation priority is based on the 'priority_level'. Given that it's set to 2, our request should maintain a professional, direct tone, framing this as a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must imply an urgent operational execution and an un-preemptable mission lock.
+
+Sensors and physical objectives are explained using the primary sensor 'TIR'. The goal here is thermal mapping, capturing heat signatures and surface temperature profiles for thermal anomaly detection and mapping heat emissions. This task involves a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation to assess the environment's condition.
+
+The delivery deadline for this task has been resolved by an upstream module: "in three days during the afternoon". The request must include this phrase verbatim as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+To summarize and present this information in one flowing paragraph:
+"Given the operational guidelines and guidelines provided, I'm initiating a request for an automated satellite constellation planner to capture thermal anomalies using a TIR sensor. The mission targets a location in France's Norte region during the afternoon of the upcoming three days. This task aligns with a standard operational tasking status, carrying fixed parameters essential for baseline pipeline tracking. The priority level indicates an urgent operational execution, emphasizing the importance of capturing heat signatures and surface temperature profiles for thermal anomaly detection. The deadline for this task is set for 'in three days during the afternoon', ensuring that no raw UTC timestamps or countdown metrics are included."
+
+This request encapsulates the essence of translating raw JSON metadata into a comprehensive, natural English statement while adhering to all specified guidelines and operational instructions."

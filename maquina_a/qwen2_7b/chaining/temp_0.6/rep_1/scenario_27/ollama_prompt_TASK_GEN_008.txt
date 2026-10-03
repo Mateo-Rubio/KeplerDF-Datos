@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing a detailed view of Norte, a city in an unspecified country. We will combine this location with the nested 'location_details' fields for a natural description that avoids raw technical system tags or coordinate arrays.
+
+The mission allocation priority level is set at Low Importance (Priority 1), indicating a "flexible schedule" for "opportunistic capture" as a "non-essential background filler task". The language must reflect the operator's intent to note this request can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+Our primary sensor is VNIR, aimed at collecting data for "multispectral vegetation analysis". This will help us assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. The goal is to gather comprehensive information on the health and composition of the local flora.
+
+The delivery deadline is resolved by an upstream module, with the data availability set for "in three days around mid-day". This phrase must be inserted verbatim into our request as the stated upper limit for data availability. We will not rephrase or shorten this, nor move it to a different part of the day.
+
+In summary, this task is to observe Norte using VNIR sensor technology on a day three days from now, around mid-day. Our mission allocation has a low priority level, allowing for flexibility and opportunistic scheduling. The data collection aims to provide insights into the vegetation health and composition through multispectral analysis. This request ensures smooth integration into our baseline pipeline tracking with fixed parameters, reflecting normal operational status or a standard workflow update.

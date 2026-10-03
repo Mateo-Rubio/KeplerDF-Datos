@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata into a highly realistic and conversational English request. Here's the interpretation based on the provided JSON data:
+
+Our mission allocation priority is set at High Importance, indicated by Priority 3 in the JSON keys. This denotes an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture" that requires an "urgent operational execution" and an "un-preemptable mission lock". The context is set within the country of Colombia, with the city of Aipe serving as our geographic location.
+
+We are tasked with capturing a "high-resolution optical snapshot" for "daylight photography", which represents our primary sensor requirement: VNIR (Visible Near-Infrared). This will enable us to obtain "true-color visual documentation" that's essential for our mission objectives.
+
+The delivery deadline has already been resolved by an upstream module, and it's set as "the day after tomorrow overnight". We aim to adhere strictly to this upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request is to conduct a professional, direct, and standard operational tasking involving VNIR imagery capture under high priority conditions. The goal is to execute an "optical snapshot" of Colombia's Aipe area during daylight photography, ensuring we adhere to the specified deadline of "the day after tomorrow overnight". This request aligns with our baseline pipeline tracking setup with fixed parameters representing normal operational status, contributing to our standard "workflow update".

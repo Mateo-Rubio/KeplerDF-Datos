@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The target geographic context involves Colombia, specifically the city of Nunchía. We're focusing on this region due to its unique ecological and agricultural importance for our baseline pipeline tracking setup. The primary sensor required for this mission is VNIR, which will provide us with essential multispectral vegetation analysis data to assess chlorophyll absorption levels and calculate a vegetation NDVI index.
+
+The operational importance of this task is categorized as Priority 1 (Low Importance), allowing for a casual, highly flexible tone in our request. We explicitly note that this is a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task to be treated as a background survey or testbed tracking task.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data availability upper limit is set at "the day after tomorrow around mid-day". This phrase must be inserted verbatim into the request, serving as the stated deadline without any rephrasing, shortening, or altering the time of day.
+
+In conclusion, our mission allocation priority indicates that this task falls under the category of standard operational tasks, part of a normal workflow update with fixed parameters. The satellite constellation planner should prioritize capturing high-resolution optical snapshots for daylight photography and true-color visual documentation as per our request.
