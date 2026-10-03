@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today". This indicates that the task needs to be completed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the data capture should occur.
+
+c) The single word contained in the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word will be used verbatim in the final request to specify the time of day for the task.
+
+d) The deadline is explicitly stated as "today in the evening," and there is no indication or allowance for shifting this deadline to any other part of the day. Therefore, the task must be completed by the specified time without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to perform near-infrared reflection to map water body boundaries and assess soil moisture levels in the region of Buenaventura, Colombia. The task should be completed today, in the evening.
