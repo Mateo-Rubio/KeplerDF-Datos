@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with submitting a request to an automated satellite constellation planner. The operational guidelines are strict: we're to interpret the raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request. Let's dive into translating this specific task.
+
+The geographic context for our mission is centered on "Ecuatorial", which we'll describe using the realistic combination of 'country' and 'city' fields from 'location_details'. However, since 'country' is marked as 'N/A', we'll focus on 'city'. We'll combine these elements naturally to describe the location without using technical system tags or coordinate arrays.
+
+Our mission has a medium importance, indicated by priority level 2. This means it's part of our standard operational tasking or commercial tasking setup, with fixed parameters representing normal operational status or a routine monitoring activity. The language will be professional and direct, reflecting that this request is part of our baseline pipeline tracking setup.
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which we'll interpret as an active radar scan using microwave surface imaging for cloud-penetrating capture. This approach allows us to pierce heavy weather or capture ground geometry with precision.
+
+The specific day and diurnal period for this task are outlined: the target day is "the day after tomorrow", with the target diurnal period being "around mid-day". We must include this phrase verbatim in our request, as it represents the upper limit for data availability.
+
+In summary, our Earth-observation mission operator is requesting that an automated satellite constellation planner allocate assets for a standard operational task involving SAR data collection on "the day after tomorrow" around mid-day. The mission aims to capture ground geometry with precision using active radar scans, focusing on the Ecuatorial region. This task is part of our normal operational status and represents standard workflow updates in our baseline pipeline tracking setup.

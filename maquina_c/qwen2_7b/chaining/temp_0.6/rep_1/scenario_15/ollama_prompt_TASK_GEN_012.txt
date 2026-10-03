@@ -1,0 +1,15 @@
+In response to our operational guidelines, we aim to translate raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission. The geographical context involves focusing on the 'region_name' and nested 'location_details', combining them naturally to describe the location using realistic combinations of country, city, and landmark fields, or just the region name if necessary.
+
+The mission allocation priority is interpreted as follows: Priority 2 (Medium Importance) conveys an authoritative tone with a standard operational tasking or commercial tracking aspect, emphasizing fixed parameters and normal operational status. The language implies that this request involves baseline pipeline tracking, ensuring "urgent operational execution" with "un-preemptable mission lock".
+
+The sensors and physical objectives are explained using clear operational objectives and descriptors. For our primary sensor being SAR (Synthetic Aperture Radar), we describe the goal as an active radar scan utilizing microwave surface imaging for cloud-penetrating capture or ground geometry assessment.
+
+Delivering the request, we note that the deadline is set for "tomorrow during the afternoon," a phrase that must be inserted verbatim into our request, as it represents the upper limit for data availability.
+
+To summarize, our task request focuses on:
+- Describing the location using realistic combinations of country, city, and landmark fields or region name.
+- Using an authoritative tone with standard operational tasking and fixed parameters for Priority 2 requests.
+- Explaining the primary sensor goal as an active radar scan using microwave surface imaging for cloud-penetrating capture or ground geometry assessment.
+- Inserting the deadline phrase "tomorrow during the afternoon" verbatim into our request.
+
+This approach ensures that our Earth-observation mission is submitted in a highly natural and contextually accurate manner, maximizing the validation accuracy of our dataset while adhering to operational guidelines.
