@@ -1,0 +1,24 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. 
+
+Interpret the provided JSON parameters organically according to the operational guidelines:
+
+1. Geographic Context:
+   - Combine the 'country', 'city', and 'landmark' fields from 'location_details' naturally to describe the location. 
+   - If any of these fields are "N/A", ignore them and describe the location using the clean 'region_name' and the remaining valid fields.
+
+2. Mission Allocation Priority:
+   - Use an authoritative tone for priority 3 (High Importance), framing it as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture".
+   - Use a professional tone for priority 2 (Medium Importance), describing it as a "standard operational tasking" or "routine monitoring" part of a "baseline pipeline tracking" setup.
+   - Use a casual tone for priority 1 (Low Importance), framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. Sensors and Physical Objectives:
+   - Explain the primary_sensor as follows: 
+     * TIR -> thermal mapping to capture a heat signature or surface temperature profile.
+     * VIS, SAR, VNIR, and NIR -> naturally weave operational objectives and descriptors into your request.
+
+4. Relative Timeframes:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Based on the provided JSON, create a single natural user request:
+
+"Capture high-resolution thermal mapping for day and night thermal anomaly detection and surface temperature profiling over the Dolomites region in northeastern Italia, focusing on the Claut area. This is a standard operational tasking with fixed parameters representing normal operational status, needed by the day after tomorrow in the morning at the latest."

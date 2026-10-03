@@ -1,0 +1,15 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+Given the high priority importance of this mission, it is an absolute institutional priority to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment in Indonesia. Specifically, we need to focus on the Lumpatan II region, which is a critical area for our analysis.
+
+The primary objective is to obtain a high-resolution optical snapshot of the region's vegetation health using multispectral vegetation analysis. This will help us assess the chlorophyll absorption level and calculate the NDVI index to understand the surface reflectance.
+
+We require a flexible schedule for opportunistic capture, treating this as a non-essential background filler task where the operator can drop or reschedule at convenience. However, it is essential to note that this mission has a strict delivery deadline set for the day after tomorrow overnight. We need the data products to be ingested into the pipeline before this deadline to ensure timely analysis and decision-making.
+
+The operator should frame this request as a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This will help us maintain a routine monitoring schedule and ensure that the data is available for analysis within the specified timeframe.
+
+We must emphasize that this mission has a critical payload capture requirement, and any delays or rescheduling will impact our ability to meet the deadline. Therefore, it is essential to allocate sufficient resources and prioritize this task accordingly.
+
+The final request should read:
+
+"Capture near-infrared reflection data for water body boundary mapping and soil moisture assessment in Indonesia, specifically in the Lumpatan II region, using a high-resolution optical snapshot for multispectral vegetation analysis. This mission has a strict delivery deadline set for the day after tomorrow overnight, and we require a flexible schedule for opportunistic capture while maintaining a standard operational tasking as part of our baseline pipeline tracking setup."
