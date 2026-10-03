@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+To begin with, we need to identify the exact string present in 'target_day' from the provided JSON data. The value for 'target_day' is "tomorrow." Next, we look at the 'target_diurnal_period' key, which has the value "around mid-day." From this string, the single word that falls within the set {morning, mid-day, afternoon, evening, overnight} and should appear in our final request is "mid-day." Finally, it's crucial to ensure we are not altering or shifting this deadline. The requirement clearly specifies that the satellite data must be delivered by "tomorrow around mid-day," which means the deadline is fixed and must be adhered to without any modifications to a different time of day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a request for a standard operational tasking focused on the region near Norte. This mission involves conducting an active radar scan using microwave surface imaging to capture cloud-penetrating imagery that can pierce through heavy weather conditions and accurately map ground geometry. The objective is to execute this task as part of our routine monitoring efforts, maintaining fixed parameters for a baseline pipeline tracking setup reflecting normal operational status. Please ensure the data products are delivered by tomorrow around mid-day.
