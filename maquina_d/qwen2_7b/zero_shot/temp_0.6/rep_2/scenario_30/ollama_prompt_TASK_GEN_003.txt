@@ -1,0 +1,38 @@
+Good morning! I am reaching out as an Earth-observation mission operator, requesting a low-priority importance task to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment. Our focus will be on the beautiful city of Malinau in Indonesia. With this request, we aim to observe and gather data as part of a flexible schedule background survey or testbed tracking task.
+
+Given the nature of this request, it is imperative that we adhere to our operational guidelines for maximizing naturalness and validation accuracy while ensuring the dataset's quality. Our objective is to translate the raw physical simulation metadata into a highly realistic and conversational English request.
+
+To achieve this, we will interpret the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combining location details naturally without using raw technical system tags or coordinate arrays, we describe Malinau, Indonesia as our focus area.
+2. MISSION ALLOCATION PRIORITY: This low-priority importance task involves no immediate urgency, allowing us to frame it in a casual tone with a flexible schedule for opportunistic capture.
+3. SENSORS AND PHYSICAL OBJECTIVES: We will explain the goal of capturing near-infrared reflection data as part of assessing water body boundaries and soil moisture, aligning with our operational objectives and descriptors for each sensor type.
+4. RELATIVE TIMEFRAMES: Our request is marked by a strict deadline to deliver the data products before tomorrow's overnight period.
+
+Given the context provided in the JSON file:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Malinau"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+We are to deliver the data by tomorrow's overnight block, ensuring our products are ingested into the pipeline before this deadline.
+
+Your request should be structured as follows:
+
+"Good morning! I am reaching out as an Earth-observation mission operator, requesting a low-priority importance task to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment. Our focus will be on the beautiful city of Malinau in Indonesia. Given the nature of this request, it is imperative that we adhere to our operational guidelines for maximizing naturalness and validation accuracy while ensuring the dataset's quality.
+
+To achieve this, we will interpret the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combining location details naturally without using raw technical system tags or coordinate arrays, we describe Malinau, Indonesia as our focus area.
+2. MISSION ALLOCATION PRIORITY: This low-priority importance task involves no immediate urgency, allowing us to frame it in a casual tone with a flexible schedule for opportunistic capture.
+3. SENSORS AND PHYSICAL OBJECTIVES: We will explain the goal of capturing near-infrared reflection data as part of assessing water body boundaries and soil moisture, aligning with our operational objectives and descriptors for each sensor type.
+4. RELATIVE TIMEFRAMES: Our request is marked by a strict deadline to deliver the data products before tomorrow's overnight period.
+
+With this information in mind, I will proceed to craft the natural user request that adheres to these guidelines and effectively communicates our task."
