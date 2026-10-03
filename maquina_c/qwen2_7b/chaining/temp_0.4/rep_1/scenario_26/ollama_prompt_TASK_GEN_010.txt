@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves Colombia, specifically the city of Puerto López. The operational guidelines require us to describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we'll focus on 'country' and 'city'.
+
+Our mission allocation priority is medium importance, indicated by a priority level of 2. This request should be framed as a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging. The goal is to achieve cloud-penetrating capture, allowing us to pierce heavy weather and capture ground geometry for detailed analysis.
+
+The delivery deadline is set for "in three days in the evening". This phrase must be included verbatim as the stated upper limit for data availability. We're not required to output raw UTC timestamps or digits.
+
+In summary, our task request involves capturing detailed ground geometry using SAR technology in Puerto López, Colombia, with a medium priority level and a deadline set for "in three days in the evening". This request is part of our standard operational pipeline tracking setup with fixed parameters that represent normal operational status.

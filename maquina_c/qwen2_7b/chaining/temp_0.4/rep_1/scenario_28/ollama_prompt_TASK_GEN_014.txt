@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. The target task context involves observing the region of Norte, Slovenia using a VNIR sensor on the day after tomorrow in the morning.
+
+To maximize naturalness and validation accuracy, I interpret the geographic context by combining the JSON parameters naturally. I describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'city' is "Norte", I focus on describing the observation area using 'country' Slovenia.
+
+The mission allocation priority is determined by the 'priority_level', which in this case is set to 1. Given this low importance, I frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". I label it as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor 'VNIR' indicates the goal of assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance. I naturally weave this operational objective into my request, explaining that the goal is to perform "multispectral vegetation analysis" for understanding plant health in the region.
+
+In conclusion, my task request is to observe the region of Norte, Slovenia using a VNIR sensor on the day after tomorrow in the morning with a flexible schedule and low priority importance. This observation aims to conduct "multispectral vegetation analysis" to assess plant health without any strict deadlines or contractual requirements, treating it as a "background survey" or "testbed tracking task".

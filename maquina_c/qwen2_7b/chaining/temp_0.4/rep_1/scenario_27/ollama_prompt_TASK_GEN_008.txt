@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The operational guidelines require interpreting raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context is centered around Norte, a location that combines the 'country' and 'city' fields due to their absence of 'N/A'. The mission's allocation priority is set at Level 1 (Low Importance), which involves a flexible schedule for opportunistic capture and treats this as a non-essential background filler task. The request is explicitly framed as a low priority importance with a "flexible schedule" for "opportunistic capture", describing it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used for this mission is VNIR (Visible Near-Infrared), a tool for multispectral vegetation analysis. Its goal is to assess the chlorophyll absorption level, calculate the vegetation NDVI index, and determine surface reflectance.
+
+The delivery deadline for this task has already been resolved by an upstream module: "in three days around mid-day". This phrase is inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are outputted.
+
+In summary, our Earth-observation mission aims to conduct a low priority importance task using VNIR sensors on a flexible schedule in Norte, with a deadline set for three days around mid-day. The goal is to assess vegetation health and surface reflectance for background survey purposes.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data over a region in "Italia", with the city of "Norte" as the primary focus. The operational guidelines guide us to interpret the 'region_name' and nested 'location_details' without using raw technical system tags, underscores, or coordinate arrays. We'll describe the location using realistic combinations of fields like country, city, and landmark.
+
+For the mission allocation priority, we're dealing with a request of "low importance", which means it's a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". The language must reflect this as a "low priority importance" request with an explicit note to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are centered around the 'primary_sensor' being "NIR". This sensor aims to capture data for "near-infrared reflection" to map "water body boundaries" and assess "soil moisture" with high accuracy, providing essential information for environmental monitoring.
+
+The deadline for this task has already been resolved by an upstream module. It's specified as "in four days overnight", which must be inserted verbatim into our request without rephrasing or shortening it. This phrase sets the upper limit for data availability, emphasizing that we're working within a predefined timeframe for capturing the necessary data.
+
+In summary, our task request combines the operational guidelines to create a clear and concise English statement that aligns with the given JSON metadata, ensuring naturalness and validation accuracy in the dataset.

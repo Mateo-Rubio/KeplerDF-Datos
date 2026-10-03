@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to maximize the naturalness and validation accuracy of our dataset by interpreting the provided JSON format organically.
+
+For this specific task, we aim to capture thermal mapping data using a near-infrared sensor on the target day, which is "the day after tomorrow overnight". The geographic context involves Colombia, specifically Santa Sofía. This request carries a high level of importance due to its priority designation as Priority 3, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed with urgency and cannot be preempted.
+
+The operational guidelines guide us in interpreting the metadata:
+
+1. GEOGRAPHIC CONTEXT: We combine the JSON parameters naturally by describing the location using realistic combinations of fields from 'location_details'. Since both city and landmark are "N/A", we focus on the country, resulting in a description of capturing thermal data across Colombia, with a particular emphasis on Santa Sofía.
+
+2. MISSION ALLOCATION PRIORITY: Priority 3 signals an authoritative tone that reflects an urgent operational execution and an un-preemptable mission lock. The request should be framed as a critical payload capture that is essential to the baseline pipeline tracking setup.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The near-infrared sensor's goal is explained as capturing thermal mapping data, which involves assessing soil moisture levels or mapping water body boundaries for agricultural monitoring and environmental management purposes.
+
+4. DELIVERY DEADLINE: The deadline is set as "the day after tomorrow overnight", a phrase that must be inserted verbatim into the request, serving as the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, this task requires capturing thermal mapping data across Colombia, with a particular focus on Santa Sofía using a near-infrared sensor. The urgency and importance of this mission are paramount, necessitating an authoritative tone that underscores its critical nature in the baseline pipeline tracking setup. The deadline for data availability is set as "the day after tomorrow overnight", ensuring that this request is treated with the required level of priority and urgency.

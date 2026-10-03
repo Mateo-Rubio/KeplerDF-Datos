@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, naturalistic image of the region in question using a high-resolution optical sensor for daylight photography purposes. The target geographic context involves the beautiful country of Italia, specifically focusing on the city of Norte, where an iconic landmark is expected to provide optimal conditions for our imagery needs.
+
+Given that this request carries a low priority importance, it is explicitly framed as a "flexible schedule" task, allowing for opportunistic capture without any strict deadlines. This is treated as a "background survey" or "testbed tracking task", which can be dropped or rescheduled at convenience without impacting the overall operational flow.
+
+The delivery deadline for this task has already been resolved by an upstream module: "tomorrow in the evening". Therefore, our request must incorporate this phrase verbatim to specify the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In conclusion, we are looking forward to receiving a true-color visual documentation of the region using our VIS sensor, capturing the essence of the day's light and conditions, underlining our commitment to providing quality imagery without compromising on flexibility and operational efficiency.
