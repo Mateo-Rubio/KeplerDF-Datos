@@ -1,0 +1,32 @@
+Let's work through the four questions in Stage 1.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original deadline is still "in four days", and since "morning" is already specified in the 'target_diurnal_period', it indicates a specific time slot within the deadline, rather than extending or altering it.
+
+Now that we've completed Stage 1, let's move on to Stage 2.
+
+```prompt
+Translate this task request into a single, highly realistic, and conversational English request, reflecting the operational guidelines provided. The task involves translating raw physical simulation metadata in JSON format into a natural language request.
+
+The task parameters are:
+
+* Primary sensor: TIR (Thermal Infrared)
+* Location details: Colombia, Chima
+* Priority level: 3 (High Importance)
+* Target day: in four days
+* Target diurnal period: in the morning
+
+Given the high priority of this task, it is an absolute institutional priority to capture a critical thermal signature using thermal mapping for heat anomaly detection and surface temperature profiling. This task requires a high-resolution thermal snapshot for daylight photography in the morning within the next four days.
+
+The location specified is Colombia, with a focus on the city of Chima. The operator requests that this mission be treated as an absolute institutional priority, with a binding contract requirement for a critical payload capture and mandatory directive for urgent operational execution.
+
+This task should be executed with a flexible schedule for opportunistic capture, but the deadline remains unchanged at in four days, with the specific time slot of morning indicating a precise temporal constraint.
+
+The operator acknowledges that this is a high-priority task and requests that it be treated as such, with a binding contract requirement for critical payload capture and mandatory directive for urgent operational execution.
+
+Please translate these parameters into a single, highly realistic, and conversational English request, reflecting the operational guidelines provided.

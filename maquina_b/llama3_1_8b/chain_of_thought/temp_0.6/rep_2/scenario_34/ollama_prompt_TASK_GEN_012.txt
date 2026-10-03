@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) Upon reviewing the task context, it appears that the deadline is explicitly stated as "in three days", which is a specific time frame rather than an adjacent part of the day. The 'target_diurnal_period' field specifies the preferred timing for the task within that deadline, but it does not alter or shift the deadline itself. Therefore, the deadline remains unchanged and intact.
+
+STAGE 2 - FINAL REQUEST
+
+Capture a near-infrared reflection for water body boundary mapping over the Ecuatorial region in three days. This overnight survey is an absolute institutional priority, requiring a critical payload capture to meet our binding contract requirements. The mission allocation is urgent, and any preemption or delay would compromise the data quality and contractual obligations.

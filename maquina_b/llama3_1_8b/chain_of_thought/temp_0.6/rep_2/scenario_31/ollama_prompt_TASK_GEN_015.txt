@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, which is to be executed on the same day as the task is submitted, i.e., "today" at any point during the overnight period.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a low priority importance request for opportunistic capture of high-resolution optical snapshot imagery using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance over Indonesia, specifically in the area around Tanjung Jabung Timur. This task is a non-essential background filler task with a flexible schedule for overnight execution today...

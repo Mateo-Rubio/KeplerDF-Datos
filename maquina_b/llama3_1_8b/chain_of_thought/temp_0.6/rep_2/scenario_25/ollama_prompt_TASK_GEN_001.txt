@@ -1,0 +1,14 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is: "in three days"
+
+b) The exact string in 'target_diurnal_period' is: "around mid-day"
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is: mid-day
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The target_diurnal_period is specified as "around mid-day", which indicates a specific time of day, but it does not imply any flexibility or adjustment to the deadline.
+
+Now, let's proceed to STAGE 2.
+
+```prompt
+Please task the satellite to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment in Colombia, specifically in Riofrío, using a flexible schedule for opportunistic capture as this is a low priority importance request. The data products should be delivered within "in three days" around mid-day. This is a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
