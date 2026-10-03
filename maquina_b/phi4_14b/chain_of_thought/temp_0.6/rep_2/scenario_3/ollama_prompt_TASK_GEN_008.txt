@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this task request, let's analyze the provided JSON metadata:
+
+a) The exact string in 'target_day' is "in three days". This indicates a specific timeframe for when the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "overnight". This will be used explicitly in the final request to describe when the data capture should take place.
+
+d) It's important to confirm that we are not altering the deadline. The deadline for delivering the data products is strictly "in three days" and during the "overnight" period, as specified. We must adhere to this timeframe without shifting it to any other part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance observation task over Gazzola, Italy, with a flexible schedule for opportunistic capture. This is intended as a non-essential background filler task, and we can drop or reschedule it at convenience. The primary objective is to conduct a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index over the area. Please ensure that this task is completed in three days during the overnight period.

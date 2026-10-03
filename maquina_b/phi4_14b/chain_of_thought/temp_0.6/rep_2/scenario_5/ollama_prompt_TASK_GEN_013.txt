@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the specific day by which the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the satellite data capture should occur.
+
+c) The single word contained in that string, which is part of the set {morning, mid-day, afternoon, evening, overnight}, is "afternoon". This word must be used verbatim in the final request to describe the timing of the data capture.
+
+d) It is crucial to confirm that the deadline is not being shifted. The task specifies that the data capture should occur "during the afternoon" on "tomorrow", and there is no indication or allowance to change this timeframe. Therefore, the deadline remains strictly for tomorrow afternoon, without any adjustments to other parts of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to execute a mission over Andina, Colombia, involving a critical payload capture using high-resolution optical snapshot technology. This task is a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock. We need a clear optical imagery capture during the afternoon tomorrow. This is essential for true-color visual documentation and must be prioritized above all other tasks to ensure compliance with our directive.

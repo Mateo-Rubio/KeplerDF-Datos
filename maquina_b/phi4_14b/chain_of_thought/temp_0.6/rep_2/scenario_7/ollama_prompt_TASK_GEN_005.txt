@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline for the task, emphasizing that the data must be delivered by this particular day.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the satellite capture should ideally occur, aligning with the operational requirements.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning." This word will be used to describe the timing of the task within the request.
+
+d) It is important to confirm that there is no intention to shift the deadline to an adjacent part of the day. The task must adhere strictly to the specified timeframe: "the day after tomorrow, in the morning." This ensures compliance with the operational guidelines and maintains the integrity of the mission's scheduling.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for an opportunistic capture over Bossico, Italia. Given its flexible schedule, this task can be treated as a non-essential background filler task, where the operator can drop or reschedule at convenience. The objective is to perform an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture of the area. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We are looking for data delivery by the day after tomorrow, in the morning.
