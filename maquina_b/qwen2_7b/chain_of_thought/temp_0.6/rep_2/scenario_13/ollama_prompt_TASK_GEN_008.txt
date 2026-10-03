@@ -1,0 +1,10 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) No, the deadline is not being shifted to an adjacent part of the day; it remains at "mid-day" as specified.
+
+STAGE 2 - FINAL REQUEST:
+
+As per the operational guidelines and interpreting the metadata provided in JSON format, our Earth-observation mission operator will be focusing on an absolute institutional priority task. This involves capturing critical data using the Near-Infrared (NIR) sensor for a high-resolution optical snapshot of a location in France, specifically in the city of Norte. The deadline for this urgent operational execution is set for "the day after tomorrow", with the requirement to deliver the data products around mid-day. Our mission will be delivering clear optical imagery and conducting near-infrared reflection analysis to map water body boundaries and assess soil moisture levels at this exact time, ensuring compliance with a binding contract requirement involving normal operational status and a standard workflow update. This task is part of our baseline pipeline tracking setup, utilizing fixed parameters for an efficient and reliable data capture process, all while adhering to the precise temporal parameters provided to meet our deadline.

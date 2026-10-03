@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string which needs to appear literally in the final request is "morning".
+
+d) The deadline is not being shifted or altered from the specified time window.
+
+STAGE 2:
+
+To efficiently allocate our resources and ensure a smooth workflow, we aim to capture high-resolution multispectral vegetation data using VNIR sensors for an in-depth analysis of chlorophyll absorption levels and surface reflectance. The target area is situated within the picturesque countryside of Colombia, specifically focusing on the charming village of Campo Capote. This request falls under category of standard operational tasks with a medium importance level, represented by our baseline pipeline tracking setup with fixed parameters. We prioritize the operation to be executed in the morning of the day designated as 'tomorrow', aligning with the operational guidelines for delivering accurate and timely data products. This mission is part of our regular workflow updates and contributes to our standard procedures without requiring immediate attention beyond the outlined deadline.
