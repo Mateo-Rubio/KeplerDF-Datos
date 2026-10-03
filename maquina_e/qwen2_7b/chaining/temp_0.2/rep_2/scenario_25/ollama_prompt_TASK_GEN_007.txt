@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing the region in Colombia, specifically focusing on the city of Oiba. We'll interpret this location using realistic combinations of country, city, and landmark fields from 'location_details'. Since the country and city are provided, we'll describe the location as such without needing to include any "N/A" fields.
+
+The mission allocation priority is set at Level 1 (Low Importance), which means this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience, considering it as a background survey or testbed tracking task.
+
+The primary sensor specified is VNIR (Visible Near-Infrared), which we'll interpret as an objective to conduct multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating the vegetation NDVI index and surface reflectance for comprehensive environmental monitoring.
+
+The delivery deadline is set for today during the afternoon, which is the upper limit for data availability. We've included this phrase verbatim in our request, adhering to the guidelines provided.
+
+In summary, our task request involves observing the city of Oiba in Colombia using a VNIR sensor for multispectral vegetation analysis with a flexible schedule for today's afternoon session. This low priority importance task is part of our baseline pipeline tracking setup, representing normal operational status and fitting into our standard workflow update.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our target geographic context involves capturing imagery of a specific location in "Italia", specifically within the city of "Norte". The operational guidelines for this task require us to interpret the provided JSON data in an organic manner, avoiding technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We're treating it as a "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The primary sensor designated for this mission is "NIR", which will be used for "near-infrared reflection" to map water body boundaries and assess soil moisture. This technique allows us to discriminate gradients effectively, providing valuable insights into environmental conditions.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set as "in four days overnight". We must insert this phrase verbatim into our request, as it represents the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, we're requesting a satellite mission to capture "near-infrared reflection" data of a location in "Italia", specifically within the city of "Norte". This task is classified as a low priority importance request with a flexible schedule and a deadline set for "in four days overnight". Our goal is to provide valuable environmental insights through this opportunistic capture, aligning with our baseline pipeline tracking setup for standard operational tasks.

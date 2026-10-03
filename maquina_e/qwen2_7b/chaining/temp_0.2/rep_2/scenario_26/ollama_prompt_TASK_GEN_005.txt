@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a "multispectral vegetation analysis" using VNIR sensors over the picturesque region of Italia, specifically focusing on the charming city of San Biagio di Callalta. This task carries a low priority importance, allowing for a flexible schedule with a "non-essential background filler task" status.
+
+The operational guidelines guide us to interpret the metadata organically, avoiding technical system tags and coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If these are unavailable, we describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1, indicating a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This means that while it's not an urgent operational execution, it's still part of our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".
+
+The delivery deadline is set for "tomorrow around mid-day", which is the upper limit for data availability as determined by an upstream module. We've inserted this phrase verbatim into our request, ensuring that no rephrasing or shortening occurs.
+
+In conclusion, our task request is to capture a "multispectral vegetation analysis" over San Biagio di Callalta in Italia using VNIR sensors, with a low priority importance and a flexible schedule for data collection. This aligns with our operational guidelines and meets the deadline set for tomorrow around mid-day.

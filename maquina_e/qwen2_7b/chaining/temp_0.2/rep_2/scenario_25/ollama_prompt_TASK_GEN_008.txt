@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' keys for this task.
+
+The geographic context involves capturing high-resolution optical imagery of Prati di Tivo, Italia, using a multispectral vegetation analysis technique known as VNIR. This is part of a standard operational tasking that contributes to baseline pipeline tracking with fixed parameters representing normal operational status. The request is framed as a routine monitoring activity with the understanding that it's a 'medium importance' mission allocation priority.
+
+The delivery deadline is set for four days in the morning, which is the upper limit for data availability. This deadline is already resolved by an upstream module and must be inserted verbatim into the request without rephrasing or shortening it.
+
+In summary, our task is to capture a VNIR multispectral image of Prati di Tivo, Italia, with a focus on assessing chlorophyll absorption levels and calculating the NDVI index for vegetation health. This is part of our standard operational pipeline, contributing to normal workflow updates and baseline tracking activities.

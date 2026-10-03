@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing Indonesia's Malinau region overnight the day after tomorrow. The priority level for this mission allocation is set at low importance, indicating a flexible schedule for opportunistic capture as part of a background survey or testbed tracking task.
+
+The primary sensor to be utilized is an active radar scan using microwave surface imaging, designed to pierce through heavy weather conditions and capture ground geometry. This task aims to provide cloud-penetrating capture capabilities essential for understanding the region's topography under various atmospheric conditions.
+
+Given the operational guidelines, we avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task is set as "the day after tomorrow overnight," which serves as the upper limit for data availability. This phrase must be inserted verbatim into our request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request integrates specific operational phrases to reflect the structural hierarchy of priority levels and sensor objectives while adhering to the guidelines for maximizing naturalness and validation accuracy in the dataset. The final output is designed to be as conversational and realistic as possible, ensuring clear communication with our satellite constellation planner.

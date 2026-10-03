@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Malinau region. Although the city details are "N/A", we'll describe the location using the country field, resulting in a realistic depiction of the area. The mission allocation priority is medium importance, indicating that this task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is near-infrared (NIR), which will be used for water body boundary mapping and soil moisture assessment. This process involves discriminating gradients in the landscape by capturing near-infrared reflection patterns.
+
+The delivery deadline for this task is "the day after tomorrow in the morning", as stipulated by an upstream module. We must adhere to this exact phrase when inserting it into our request, ensuring that data availability meets the upper limit set for this task.
+
+In summary, our request is to capture detailed imagery of Indonesia's Malinau region using near-infrared sensors during the morning hours on the day after tomorrow. This task is part of our standard operational tasks and represents normal workflow updates with a medium priority level. The deadline is strictly "the day after tomorrow in the morning", emphasizing the importance of timely data collection for our baseline pipeline tracking setup.
