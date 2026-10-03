@@ -1,0 +1,5 @@
+Given the operational guidelines and the provided context, our Earth-observation mission operator requests a routine tasking for tomorrow during the afternoon. Specifically, we are looking to capture high-resolution multispectral vegetation analysis using VNIR sensors over the region of Colombia, with a focus on the city of Cumaral. This observation aims to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+The mission is categorized as low priority importance, allowing for a flexible schedule where the task can be dropped or rescheduled at convenience without impacting the overall operational workflow. It serves as a non-essential background filler task in our baseline pipeline tracking, with fixed parameters representing normal operational status.
+
+This request does not alter the deadline to an earlier or later part of the day; instead, it adheres strictly to capturing the specified data product during the afternoon of tomorrow, as per the target diurnal period provided. The operator ensures that this captures the essence of the task without altering the temporal constraints.
