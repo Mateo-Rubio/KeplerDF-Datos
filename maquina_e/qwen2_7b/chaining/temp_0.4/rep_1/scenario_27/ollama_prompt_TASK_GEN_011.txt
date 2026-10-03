@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner for the highly realistic translation of raw physical simulation metadata into a single, conversational English request. The operational guidelines for this task are as follows:
+
+1. GEOGRAPHIC CONTEXT: We aim to interpret 'region_name' and nested 'location_details', focusing on the country, city, and landmark fields. If these are "N/A", we will describe the location using the remaining valid fields or clean 'region_name'. Avoid raw technical system tags, underscores, coordinate arrays, or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: For 'priority_level', we will use authoritative, professional, or casual tones based on whether it's High Importance (Priority 3), Medium Importance (Priority 2), or Low Importance (Priority 1). Highlight institutional priorities, standard operational tasks, or opportunistic capture requests.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We will explain the physical phenomena to be observed using natural language instead of technical abbreviations. For VIS sensors, we'll describe high-resolution optical snapshots for daylight photography or true-color visual documentation. SAR sensors will be explained as active radar scans using microwave surface imaging for cloud-penetrating capture or ground geometry mapping. TIR sensors aim thermal mapping for heat signature detection, surface temperature profiling, or thermal anomaly detection. VNIR sensors assess chlorophyll absorption levels or calculate vegetation NDVI index and surface reflectance. NIR sensors focus on near-infrared reflection for water body boundary mapping or soil moisture assessment.
+
+4. DELIVERY DEADLINE: The deadline is "in three days during the afternoon" as determined by an upstream module. This phrase must be included verbatim in the request, without rephrasing, shortening, or altering it.
+
+The target task context JSON provided includes a 'primary_sensor' of TIR, 'location_details' for France's Norte city, 'priority_level' set at Medium Importance (Priority 2), 'target_day' as "in three days", and 'target_diurnal_period' during the afternoon. 
+
+Taking these guidelines into account, my request is as follows:
+
+"Please allocate a satellite mission with a TIR sensor to capture thermal mapping data for Norte, France, focusing on heat signatures and surface temperature profiles. This task carries medium importance (Priority 2), necessitating standard operational procedures and baseline pipeline tracking with fixed parameters representing normal operational status. The deadline is set for three days during the afternoon, ensuring that the data will be available in time for further analysis."
+
+This request seamlessly integrates the operational guidelines while maintaining a natural conversational tone appropriate for Earth-observation mission operators."

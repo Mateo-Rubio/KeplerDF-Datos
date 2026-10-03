@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format is being translated organically according to the operational guidelines.
+
+The geographic context involves a location in Indonesia, specifically Kotawaringin Timur city, which is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", the description will gracefully omit them and use the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to medium importance, as indicated by a priority level of 2. This request is framed as a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language heavily implies an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging to capture cloud-penetrating imagery and ground geometry, essential for understanding terrain under various weather conditions.
+
+The delivery deadline is set for tomorrow overnight, with the phrase "tomorrow overnight" inserted verbatim into the request. This upper limit for data availability does not include raw UTC timestamps, digits, or countdown metrics.
+
+In summary, this Earth-observation mission aims to capture detailed SAR imagery of Kotawaringin Timur city in Indonesia, emphasizing its importance within our operational pipeline as a standard task with medium priority. The deadline is strictly tomorrow overnight, ensuring timely data delivery for further analysis and decision-making processes.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context for this mission involves the Indonesian region, specifically the equatorial city of Ecuatorial. We aim to capture a daylight snapshot using a VNIR sensor, which will enable us to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture, labeled as a non-essential background filler task.
+
+The operational guidelines dictate that we should not use raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally. The location is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details', gracefully ignoring "N/A" entries.
+
+The mission allocation priority level is set to 1, which means this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", indicating that it's a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has already been resolved by an upstream module. The stated upper limit for data availability is "the day after tomorrow in the morning". We must insert this phrase verbatim into our request, as the stated timeframe for data delivery.
+
+In summary, our task request to the automated satellite constellation planner involves capturing a daylight snapshot using a VNIR sensor over the equatorial city of Ecuatorial, Indonesia. This is classified as a low priority importance task with a flexible schedule for opportunistic capture, and it must be completed by "the day after tomorrow in the morning".

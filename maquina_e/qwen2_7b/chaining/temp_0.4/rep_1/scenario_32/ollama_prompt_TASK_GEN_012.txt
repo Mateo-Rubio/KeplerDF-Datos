@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The context of this task involves capturing data on the Indonesian region, specifically focusing on the city of Murung Raya, using our primary sensor - the Near-Infrared (NIR) technology.
+
+The operational guidelines dictate that we interpret the geographic context by combining the 'country', 'city', and 'landmark' fields from 'location_details'. Since the 'landmark' field is "N/A", we'll describe the location using the remaining valid fields. The country is Indonesia, and the city is Murung Raya. This request is of medium importance, as indicated by the priority level being 2.
+
+Our mission allocation priority is to perform standard operational tasking, which involves capturing data using our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status. This task is part of our routine monitoring and workflow updates, emphasizing that it's a standard requirement with no deviation from the norm.
+
+The primary sensor used for this task is the Near-Infrared (NIR) technology. This sensor will be utilized to map water body boundaries and assess soil moisture levels, as well as other related tasks. The data collection process will occur during the target day, which is "in four days overnight". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability.
+
+In conclusion, this task involves capturing data using Near-Infrared technology on Indonesia's Murung Raya city, with a medium priority level. The data collection will take place during an overnight period, four days from now. This task is part of our standard operational tasks and workflow updates, contributing to our routine monitoring and baseline pipeline tracking activities.

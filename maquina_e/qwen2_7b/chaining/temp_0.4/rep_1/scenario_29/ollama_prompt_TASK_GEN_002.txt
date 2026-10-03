@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby request a high-resolution optical snapshot for daylight photography purposes. This is to capture clear optical imagery and provide true-color visual documentation of the region named "Italia Norte". The priority level for this task is High Importance, which means it's an absolute institutional priority or a binding contract requirement involving a critical payload capture. This mission must be executed urgently and cannot be preempted; it represents an un-preemptable mission lock.
+
+The primary sensor to be used for this task is the VIS sensor, which will provide us with a detailed view of the region during the afternoon on the target day, which is exactly three days from now. The deadline for data availability is strictly during the afternoon of that day. 
+
+Given the operational guidelines, we are to interpret the metadata organically without using raw technical system tags, underscores, or coordinate arrays. We will combine the JSON parameters naturally by describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The deadline for this task is already resolved by an upstream module, which states that the data should be available during the afternoon on the target day, which is exactly three days from now. This request does not require rephrasing or shortening; it must be placed verbatim in our mission planning.
+
+Let's proceed with the execution of this high-priority task, ensuring we capture the essence of "Italia Norte" in its true glory during the afternoon on the specified day.
