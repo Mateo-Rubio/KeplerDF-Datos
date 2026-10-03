@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The metadata provided is part of a task request for an Earth-observation mission targeting the Malinau region in Indonesia. Let's break down the details:
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products must be delivered, emphasizing the importance of adhering strictly to this timeline without any modifications.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the satellite should capture the required imagery or data, ensuring that the observations are made during the specified period.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options {morning, mid-day, afternoon, evening, overnight} is "evening". This word must be included verbatim in the final request to accurately reflect the intended time of data capture.
+
+d) It is crucial to confirm that the deadline is not shifted to any other part of the day. The task requires capturing data specifically "in the evening" on the specified day, "in three days". This means the mission must be executed precisely during this diurnal period without any adjustments to morning, mid-day, afternoon, or overnight.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a critical payload capture over Malinau, Indonesia. This task involves a near-infrared reflection operation aimed at water body boundary mapping and soil moisture assessment. Given its high importance, this is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. The data must be captured in the evening, in three days, to ensure compliance with our strict operational deadline.

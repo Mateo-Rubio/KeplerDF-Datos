@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the specific deadline when the data products are required.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day when the satellite should capture the imagery.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "morning." This word must be included in the final request to describe the diurnal period accurately.
+
+d) It's important to confirm that the deadline is not being shifted. The task specifies "the day after tomorrow" and "in the morning," which means the data should be captured specifically on that day and time, without any alteration or extension to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an opportunistic capture over Sanggau, Indonesia. This task can be flexibly scheduled as a non-essential background filler task, and operators may drop or reschedule it at convenience. The objective is to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the ground geometry. We aim to obtain this data the day after tomorrow, specifically in the morning.

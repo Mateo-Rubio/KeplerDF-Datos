@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's break down the task request based on the provided JSON metadata:
+
+a) The exact string in 'target_day' is "today". This indicates that the data capture must occur on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the data should be collected.
+
+c) The single word contained in the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word will be used verbatim in the final request to specify the time of data capture.
+
+d) It's important to confirm that the deadline is not being shifted. The metadata specifies "in the evening" on "today", so there is no shift to an adjacent part of the day. We are adhering strictly to this timeframe as the operational deadline for data delivery.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for opportunistic capture in Colombia, specifically focusing on the city of Génova. This is a non-essential background filler task where the operator can drop or reschedule at convenience. The objective is to perform an active radar scan using microwave surface imaging for cloud-penetrating capture, which will pierce heavy weather or capture ground geometry. The data should be collected today in the evening.
