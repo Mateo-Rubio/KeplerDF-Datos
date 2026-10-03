@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates the specific day by which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite should capture the required data.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word will be explicitly used in the final request to describe the timing of the task.
+
+d) I must confirm that I am not shifting the deadline to an adjacent part of the day. The instructions clearly state that the temporal parameters represent a strict operational deadline, and any alteration or reinterpretation of this timeframe is not permitted. Therefore, the deadline remains "tomorrow around mid-day," without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance request for an opportunistic capture with a flexible schedule. This task involves conducting near-infrared reflection over Bukit Mabong, Malaysia, to assess water body boundaries and soil moisture levels. Please consider this as a non-essential background filler task that can be dropped or rescheduled at convenience. The data should be captured tomorrow around mid-day.

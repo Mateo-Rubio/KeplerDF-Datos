@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should occur.
+
+c) The single word contained in "overnight" that must appear literally in the final request is "overnight."
+
+d) It's important to confirm that the deadline is not being shifted. The task requires data capture specifically during the "overnight" period on "the day after tomorrow," and this timeframe should not be altered or extended.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial monitoring mission targeting the region around Norte. This involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, focusing on ground geometry. The mission is scheduled for the day after tomorrow, specifically during the overnight period. This setup is part of our baseline pipeline tracking with fixed parameters, representing normal operational status and a standard workflow update.

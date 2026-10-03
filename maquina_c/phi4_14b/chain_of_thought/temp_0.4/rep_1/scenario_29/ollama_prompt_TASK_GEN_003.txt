@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) The deadline specified by "in three days" and "around mid-day" indicates a strict operational deadline without any shift to an adjacent part of the day. It is important to adhere to this timeframe as it represents when the data products are expected to be delivered, not when the satellite capture occurs.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a commercial tasking involving Ketapang in Indonesia. This request involves thermal mapping to capture a heat signature or surface temperature profile around mid-day. The mission is scheduled for in three days, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this routine monitoring task aligns with our workflow update expectations.
