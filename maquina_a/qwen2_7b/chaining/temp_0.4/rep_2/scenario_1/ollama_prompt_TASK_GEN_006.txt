@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic and conversational English request for the given parameters. The geographic context involves capturing a thermal mapping of the heat signature in Pekanbaru, Indonesia, using near-infrared sensors. This task falls under priority level 2, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is thus described as a routine monitoring activity that is part of the baseline pipeline tracking setup. The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", aligning with the nature of standard operational tasks that require attention but are not as critical as high-priority missions.
+
+The delivery deadline for this task is set as "the day after tomorrow in the morning", which serves as the upper limit for data availability. The request does not output raw UTC timestamps, digits, or countdown metrics, adhering to the guidelines provided.
+
+In summary, this task involves capturing thermal anomalies and mapping heat emissions from Pekanbaru using near-infrared sensors, with a focus on operational efficiency and standard procedures. The deadline ensures that the data is available in time for analysis without compromising on the quality of the information gathered.

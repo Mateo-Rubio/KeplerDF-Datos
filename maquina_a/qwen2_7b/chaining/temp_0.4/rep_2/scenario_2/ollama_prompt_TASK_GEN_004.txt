@@ -1,0 +1,11 @@
+In accordance with our established operational guidelines for Earth observation missions, we hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring maximum naturalness and validation accuracy.
+
+Our geographic context involves Colombia, specifically the city of Nóvita. We will combine the JSON parameters naturally, avoiding raw technical system tags, underscores, or coordinate arrays. The location description will be a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is not applicable here, we will describe the location using 'country' and 'city'.
+
+The mission allocation priority for this task is indicated by the 'priority_level'. As it stands at Priority 1, we will use a casual, highly flexible tone. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It is labeled as a "background survey" or "testbed tracking task", acknowledging that it can be dropped or rescheduled at convenience.
+
+The sensors and physical objectives are defined by the 'primary_sensor', which in this case is SAR. The goal is to conduct an active radar scan using "microwave surface imaging". This will allow for "cloud-penetrating capture", enabling us to pierce heavy weather conditions or capture ground geometry with precision.
+
+The deadline for this task has been resolved by an upstream module and is set as "in four days around mid-day". We will insert this phrase verbatim into our request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics will be outputted.
+
+In summary, we are requesting that our satellite constellation planner allocate resources to capture detailed radar imagery of Nóvita, Colombia, on the fourth day following our request, around mid-day. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission is not time-sensitive and can be accommodated within the flexible schedule as a non-essential background filler task.
