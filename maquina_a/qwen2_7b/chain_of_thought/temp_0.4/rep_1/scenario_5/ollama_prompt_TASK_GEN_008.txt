@@ -1,0 +1,7 @@
+In response to the operational guidelines and interpreting the JSON metadata, our Earth-observation mission operator has a task request for an automated satellite constellation planner. The request is for a standard operational tasking involving an active radar scan using microwave surface imaging, which will be conducted overnight on "the day after tomorrow". This mission is allocated with a medium priority level, emphasizing its importance in the baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The target location for this task is Norte, a city within an unspecified country. The primary sensor for this mission is SAR (Synthetic Aperture Radar), which will be used to capture cloud-penetrating imagery, providing essential data regardless of weather conditions. The purpose of this scan is to gather detailed information about the ground geometry and surface features.
+
+Given the priority level and the deadline specified in the JSON metadata, this mission is not subject to alteration or rescheduling; it must be executed on the exact day and time provided. The operator understands that this task is part of a standard workflow update, contributing to the ongoing monitoring and data collection efforts without requiring any adjustments to the existing schedule.
+
+This operational request adheres to the guidelines for translating raw physical simulation metadata into a highly realistic and conversational English format, ensuring clarity and accuracy in conveying the mission's details.
