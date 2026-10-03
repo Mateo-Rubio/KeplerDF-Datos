@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to capture a low priority importance "low-resolution optical snapshot" for daylight photography of a high chlorophyll absorption level in the vegetation. This is a non-essential background filler task with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. The mission allocation priority reflects normal operational status or a routine monitoring part of a baseline pipeline tracking setup with fixed parameters representing standard workflow updates.
+
+The geographic context involves capturing imagery over the country "Italia", specifically within the city "Norte". The primary sensor VNIR will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance. The delivery deadline is today overnight, which means that all data must be available by the end of tonight's period.
+
+This request does not include raw technical system tags, underscores, or coordinate arrays. The location description combines natural language elements from 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", I will describe the location using the remaining valid fields or the clean 'region_name'.
+
+The priority level of this task is 1, which means it's a low priority importance request with a flexible schedule for opportunistic capture. It is treated as a non-essential background filler task that can be dropped or rescheduled at convenience and is labeled as a background survey or testbed tracking task.
+
+Please ensure that all data requirements are met by today overnight to meet the deadline for this task.

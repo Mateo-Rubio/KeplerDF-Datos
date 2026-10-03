@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic, conversational English request, prioritizing naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, specifically in the city of Pantanillo. This location will be captured using a multispectral vegetation analysis (VNIR sensor) for daylight photography purposes. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index, as well as surface reflectance.
+
+This task has been allocated with a medium importance level, denoted by priority 2. It's part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We aim to capture this data in three days during the morning hours, adhering to our baseline workflow update schedule.
+
+In summary, we're requesting an active radar scan using microwave surface imaging capabilities (SAR sensor) for cloud-penetrating capture and ground geometry mapping. This task is part of our routine monitoring activities with a flexible schedule that allows for opportunistic captures or rescheduling at convenience. We're focusing on thermal anomaly detection and mapping heat emissions through thermal mapping (TIR sensor).
+
+The deadline for this task has been resolved by an upstream module, requiring the data to be available in three days during the morning hours. This upper limit for data availability must be included verbatim in our request.
+
+Please ensure that our satellite constellation captures these specific observations according to the provided guidelines and deadlines.

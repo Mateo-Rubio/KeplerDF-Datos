@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Colombia's Cimitarra region during today's afternoon. Our mission allocation priority is set at low importance, implying a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The primary sensor in play is the near-infrared (NIR) instrument. This technology aims to map water body boundaries and assess soil moisture, distinguishing gradients through near-infrared reflection. The operational guidelines guide us to avoid technical jargon such as VIS, SAR, TIR, VNIR, and NIR abbreviations, opting instead for more natural language that describes the physical phenomena to be observed.
+
+Citing our geographic context, Colombia's Cimitarra region is described without technical tags or coordinate arrays, focusing on realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+In terms of delivery deadlines, our task has an upper limit for data availability set as today during the afternoon. This phrase is inserted verbatim into our request, emphasizing it as the stated timeframe for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+With these guidelines in mind, our task request to the satellite constellation planner is structured to maximize naturalness and validation accuracy while adhering to operational priorities and sensor-specific objectives. We aim for a seamless integration of raw metadata into a fluent, realistic conversation that reflects the essence of Earth observation missions.

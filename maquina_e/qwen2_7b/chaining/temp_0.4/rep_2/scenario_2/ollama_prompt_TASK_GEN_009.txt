@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request based on the provided JSON format.
+
+The geographic context for this mission involves Indonesia, with a specific focus on the city of Sintang. We aim to capture essential data using the Near-Infrared (NIR) sensor, which will provide critical information about water body boundaries and soil moisture assessment during our target day in three days overnight.
+
+Considering the priority level is set at Low Importance, I'm framing this request as a "flexible schedule" for "opportunistic capture", a "non-essential background filler task", where we treat it as a "background survey" or "testbed tracking task". The language must reflect an understanding that this task is not an "urgent operational execution" but rather part of our "normal operational status" or "workflow update".
+
+Given the operational guidelines, we will not use raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we'll combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If necessary, we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's specified as "in three days overnight", which must be inserted verbatim into our request. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request to the satellite constellation planner is to capture essential data using the Near-Infrared sensor over Indonesia, specifically Sintang, during the overnight period in three days. This task is treated as a low priority importance request with a flexible schedule for opportunistic capture, aligning with our baseline pipeline tracking setup and normal operational status.
