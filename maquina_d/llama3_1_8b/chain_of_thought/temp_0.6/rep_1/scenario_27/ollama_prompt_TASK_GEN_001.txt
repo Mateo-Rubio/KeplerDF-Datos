@@ -1,0 +1,13 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word that is contained in the string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the temporal parameters represent a strict operational DEADLINE to deliver the data products. This means that the deadline is for today, and I will include this in the final request verbatim.
+
+Now, moving on to STAGE 2:
+
+...We require a low priority importance request with a flexible schedule for opportunistic capture. We need a multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey. The task should be completed today in the evening...
