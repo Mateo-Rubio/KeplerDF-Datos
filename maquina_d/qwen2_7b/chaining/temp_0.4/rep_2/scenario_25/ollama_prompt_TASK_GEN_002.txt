@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves capturing thermal mapping data of Norte, which is conveniently described without relying on raw technical system tags or coordinate arrays. The 'region_name' serves as the primary descriptor for this location since specific country, city, or landmark details are unavailable.
+
+The mission allocation priority level is set to Low Importance (Priority 1), indicating a flexible schedule for an opportunistic capture that doesn't require immediate attention. This task is framed as a "non-essential background filler task" with a "flexible schedule", fitting into our "background survey" or "testbed tracking task" pipeline.
+
+The primary sensor specified is TIR, which will be used to gather thermal mapping data to capture a heat signature and surface temperature profile. The goal is to map thermal anomalies and detect heat emissions across the region of interest.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as "in three days in the evening". This phrase will be inserted verbatim into our request, ensuring clarity on when the data should be delivered without rephrasing or altering the time frame.
+
+In summary, our request is to capture thermal mapping data of Norte using a TIR sensor, with the deadline for data availability set as "in three days in the evening". This task is considered a low priority importance request that will fit into our operational workflow as a background survey or testbed tracking task.

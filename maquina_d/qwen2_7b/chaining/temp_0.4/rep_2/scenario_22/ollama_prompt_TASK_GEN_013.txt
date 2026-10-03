@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Colombia, with a focus on the charming city of Ráquira. Our primary sensor requirement is VIS (visible light), which we will use for daylight photography, clear optical imagery, and true-color visual documentation to capture the essence of this beautiful location.
+
+Given the priority level of 1, this task is labeled as a low priority importance request with a flexible schedule for opportunistic capture. It's framed as a non-essential background filler task that can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task.
+
+The delivery deadline is set for "in three days around mid-day", which means the data availability upper limit is fixed and cannot be moved to a different part of the day. We're not dealing with raw UTC timestamps or any countdown metrics here.
+
+In summary, our mission allocation priority is set low, but we're still committed to capturing high-resolution optical imagery of Ráquira using VIS sensors on the specified date and time, ensuring a seamless integration into our operational workflow.
