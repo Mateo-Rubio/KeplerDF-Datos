@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string, from the set {morning, mid-day, afternoon, evening, overnight}, is "afternoon." This word must appear literally in the final request.
+
+d) The requirement specifies that I am not allowed to shift the deadline to an adjacent part of the day. Therefore, the deadline for data delivery remains "during the afternoon" and cannot be altered to a different time such as morning or evening.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking request for a thermal mapping mission over the region in France, specifically in the area surrounding Norte. The priority level for this mission is medium importance, making it part of our baseline pipeline tracking with fixed parameters. Our objective is to capture a surface temperature profile and detect any thermal anomalies using thermal infrared sensors. This will provide us with critical insights into heat emissions across the targeted area. The data products must be delivered precisely in three days during the afternoon, adhering strictly to this deadline without any adjustments.

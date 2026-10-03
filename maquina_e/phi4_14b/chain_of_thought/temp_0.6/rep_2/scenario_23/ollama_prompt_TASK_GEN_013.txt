@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves a mission request for an Earth-observation satellite to capture specific data over Puerto Lleras, Colombia. Let's break down the requirements:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the deadline for delivering the requested data products.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the data capture should ideally occur.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning."
+
+d) It's important to confirm that the deadline is not being shifted to any other part of the day. The task specifies "tomorrow, in the morning," which means the data capture should occur during this specific timeframe, and the delivery of the data products must adhere strictly to this schedule.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority mission request for an opportunistic satellite pass over Puerto Lleras, Colombia. This task involves using the near-infrared sensor to map water body boundaries or assess soil moisture levels. Given its low priority importance, there is flexibility in scheduling this capture. The aim is to complete this background survey by tomorrow morning, allowing for the possibility of rescheduling if necessary. This task serves as a non-essential background filler in our current mission pipeline.

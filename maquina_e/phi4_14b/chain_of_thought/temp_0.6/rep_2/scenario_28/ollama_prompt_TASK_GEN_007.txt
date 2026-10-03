@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the part of the day when the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning."
+
+d) The deadline is specified as "tomorrow in the morning," and there is no indication or instruction to shift it to another part of the day. Therefore, the observation must be completed by the specified time without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for Colombia, specifically around Cali, focusing on thermal mapping to capture a heat signature or surface temperature profile. This is a routine monitoring activity, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure this task is completed by tomorrow in the morning.
