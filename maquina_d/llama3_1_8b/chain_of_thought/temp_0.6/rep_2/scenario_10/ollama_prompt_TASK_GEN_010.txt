@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The 'target_diurnal_period' specifies a specific time of day, and the task request will adhere to this strict operational deadline.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+
+We require a standard operational tasking for a commercial tasking involving routine monitoring as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The task involves an active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry. This is a binding contract requirement involving a critical payload capture for an absolute institutional priority. The location details are Colombia, specifically the city of Chaparral, and we need to conduct this mission tomorrow in the morning.

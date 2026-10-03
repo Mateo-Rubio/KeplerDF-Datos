@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request will be for the exact time specified, which is morning on the third day.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Task Request: 
+Obtain a high-resolution multispectral vegetation analysis using VNIR to assess chlorophyll absorption level and calculate the NDVI index and surface reflectance in the region of Colombia, specifically in the area surrounding Puerto Rico. This is a standard operational tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The data products must be delivered by in three days, during in the morning.
