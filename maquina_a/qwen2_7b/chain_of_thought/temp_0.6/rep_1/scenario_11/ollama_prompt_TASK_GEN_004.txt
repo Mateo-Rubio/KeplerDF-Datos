@@ -1,0 +1,18 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string, which must appear literally in the final request, is "overnight".
+d) Confirming that the deadline is not shifted to an adjacent part of the day, it remains as "in three days overnight".
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and context provided by the JSON metadata, our Earth-observation mission task request is as follows:
+
+Three days from now, at midnight when the world is quiet and darkness blankets the skies, we are to capture a near-infrared (NIR) reflection snapshot over the city of Sácama in Colombia. We seek a detailed view of water bodies' boundaries and assess soil moisture levels under this specific overnight condition, ensuring no light pollution or atmospheric interference hinders our critical data gathering process.
+
+The mission's priority reflects its low importance, allowing for flexible scheduling; however, it is still considered an essential background survey to enhance our understanding of the area's environmental conditions. Since it's a "non-essential background filler task," we have the freedom to drop or reschedule it as convenient, treating it as a routine monitoring activity that contributes to our baseline pipeline tracking without impacting critical payload capture operations.
+
+As an absolute institutional priority, this request acknowledges the need for thermal mapping and vegetation analysis in this unique overnight period. Our aim is to capture heat signatures and surface temperature profiles accurately while assessing chlorophyll absorption levels or calculating the NDVI index for the area, all under the umbrella of normal operational status without any urgency in altering the deadline timeframe.
+
+With these considerations in mind, our request ensures that the task is executed within the specified parameters with minimal disruption to existing workflows, maintaining a balance between critical and non-critical tasks while adhering to the guidelines provided.
