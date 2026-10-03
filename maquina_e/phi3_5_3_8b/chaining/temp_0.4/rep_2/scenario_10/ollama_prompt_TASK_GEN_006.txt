@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked to submit a formal request for an automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request. Here are the details:
+
+The primary sensor required for this operation is VNIR, which necessits multispectral vegetation analysis to assess chlorophyll absorption levels or calculate surface reflectance indices such as NDVI. The target location is Simabur city in Indonesia, where we aim to monitor the health and vitality of local flora through this spectral approach.
+
+Given these requirements, our mission allocation priority stands at a medium importance level. This indicates that while not urgent, it remains an essential part of our standard operational tasking within the baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates. The request is for routine monitoring and should be integrated seamlessly into regular satellite scheduling to maintain consistent vegetation health assessment over time.
+
+The delivery deadline has been established as "in three days in the morning," which sets a clear upper limit for data availability without delving into specific UTC timestamps or countdown metrics. This timing must be communicated directly and unambiguously within our request to ensure proper synchronization with upstream modules.
+
+Here is the synthesized task request:
