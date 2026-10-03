@@ -1,0 +1,5 @@
+Given the operational guidelines and the provided Earth-observation mission metadata, we are tasked with capturing a multispectral vegetation analysis using the VNIR sensor. Our objective is to assess the chlorophyll absorption levels and calculate the vegetation NDVI index for the region of Caparrapí, located in Colombia. This task requires a high-resolution optical snapshot, providing clear visual documentation under daylight conditions.
+
+With a priority level of 1 (low importance), this request can be treated as a low priority importance task with a flexible schedule for opportunistic capture. We aim to complete the survey as part of a background filler task and note that it should be scheduled for an opportune time without affecting critical operations.
+
+The data products must be ready by the day after tomorrow, during the afternoon, at the latest. This deadline marks the upper limit for data availability, ensuring that the products are ingested into the pipeline before the specified timeframe. We will ensure that this background survey task does not interfere with any critical payload capture or mandatory directive requirements.
