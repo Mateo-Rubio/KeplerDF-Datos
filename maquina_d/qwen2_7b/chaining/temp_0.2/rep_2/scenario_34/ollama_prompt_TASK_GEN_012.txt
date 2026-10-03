@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the most accurate dataset possible.
+
+The geographic context involves capturing data from an unspecified location within the region named "Ecuatorial". Although the country and city details are not available, we will describe the area using the remaining valid fields or the clean 'region_name'. The operational guidelines dictate a natural interpretation of the JSON parameters without resorting to raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is set at "High Importance", indicated by a priority level of 3. This signifies an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted. The language should heavily imply an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor to be utilized is "NIR", which will be used for near-infrared reflection to map water body boundaries and assess soil moisture, providing essential data for environmental monitoring and agricultural applications.
+
+The target day for this task is scheduled for "in three days overnight". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In summary, our request involves capturing high-resolution optical snapshots of an unspecified location within the region named "Ecuatorial" using a near-infrared sensor. The task is of high importance and must be executed urgently with an un-preemptable mission lock. The data will be available in three days overnight, adhering to the specified deadline.
+
+Let's proceed with this task request to ensure optimal operational efficiency and data accuracy.

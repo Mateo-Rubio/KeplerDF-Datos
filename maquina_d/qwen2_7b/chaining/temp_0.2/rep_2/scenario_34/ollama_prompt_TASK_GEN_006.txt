@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing Indonesia's Ecuatorial region. This location, while not fully detailed, is described using the available country and city parameters. We aim to capture a high-resolution optical snapshot for daylight photography, providing clear optical imagery and true-color visual documentation of the area.
+
+The mission allocation priority level is set at Low Importance (Priority 1). This request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator has the discretion to drop or reschedule the task at their convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor involved is VIS (Visible Imaging System), which will be used to observe the region. The operational objective is to gather data through this system to capture a high-resolution optical snapshot of the area.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as "in four days overnight". This phrase must be inserted verbatim into our request, without any rephrasing, shortening, or movement to a different part of the day.
+
+In conclusion, our request aims to capture high-resolution optical imagery of Indonesia's Ecuatorial region using a VIS sensor. The task is classified as a low priority importance background survey with a flexible schedule for data collection, adhering to the deadline set by an upstream module for "in four days overnight". This request encapsulates the operational guidelines and priorities outlined in the provided JSON metadata.
