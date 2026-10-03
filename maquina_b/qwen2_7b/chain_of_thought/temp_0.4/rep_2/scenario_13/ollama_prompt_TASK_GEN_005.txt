@@ -1,0 +1,13 @@
+STAGE 1 REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 FINAL REQUEST:
+
+Given the operational guidelines and the context provided by the JSON metadata, we are tasked with capturing a high-resolution active radar scan using microwave surface imaging. This will be executed in Norte, a location without specified country details, focusing on collecting data in the morning of the day following today, which is referred to as "tomorrow". The mission allocation priority level is set to 'low importance', indicating that this task should be treated as a flexible schedule background survey or testbed tracking task, with no constraints on the deadline beyond delivering the data products by tomorrow's morning.
