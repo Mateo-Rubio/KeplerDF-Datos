@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+```prompt
+Given the operational guidelines and interpreting the provided metadata, we are tasked with capturing a high-resolution optical snapshot of a specific location in Colombia, specifically in the region around the city of Cáchira. This request has been categorized under Priority Level 1, which indicates that it is a low priority importance task with a flexible schedule for opportunistic capture. The deadline to deliver this data product stipulates that we must acquire the imagery "in four days" overnight.
+
+To fulfill this mission, our satellite constellation will target the region of interest to capture clear optical imagery during the overnight period, when the conditions are most likely to provide optimal visibility and contrast for daylight photography and true-color visual documentation. This task serves as a background survey or testbed tracking task, allowing for adjustments in scheduling without compromising the integrity of our baseline pipeline tracking setup.
+
+Our approach focuses on leveraging the capabilities of our VIS sensor to ensure that we obtain detailed surface temperature profiles and heat signatures if necessary, complemented by other sensors such as SAR for cloud-penetrating capture, TIR for thermal mapping of heat emissions or surface temperatures, VNIR for multispectral vegetation analysis and NDVI index calculations, and NIR for water body boundaries mapping or soil moisture assessment.
+
+With the deadline set for "in four days" overnight, our satellite constellation will meticulously plan its orbit to ensure that we meet this operational deadline precisely. Our team will closely monitor atmospheric conditions and satellite performance to optimize data collection, ensuring that we capture the required information without altering the target day or shifting the deadline to an adjacent part of the day.
+
+In summary, our mission aims to efficiently gather the necessary imagery for the region around Cáchira, Colombia, during the specified overnight period in four days, adhering to the guidelines and operational priorities provided.

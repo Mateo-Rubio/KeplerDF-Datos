@@ -1,0 +1,23 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+In response to the operational guidelines and the provided JSON metadata, our task request for an Earth-observation mission can be structured as follows:
+
+Given the priority level of medium importance (Priority Level 2), it is imperative that we execute this standard operational tasking promptly. We are to capture essential data using a VNIR sensor on Colombia's San Carlos de Guaroa region, which is conveniently located in the heart of the country.
+
+Our objective is clear and well-defined: employing daylight photography techniques through high-resolution optical imagery, we aim to gather detailed information about the landscape. This includes assessing chlorophyll absorption levels and calculating NDVI indices for vegetation analysis. Additionally, our mission will entail capturing thermal anomalies, mapping heat emissions, and understanding surface temperature profiles.
+
+Target day is scheduled "in three days" during the overnight period. Precisely at midnight, we are to conduct an active radar scan utilizing microwave surface imaging capabilities. This will enable us to penetrate cloud cover, providing unparalleled visibility of ground geometry beneath heavy weather conditions.
+
+It's crucial to emphasize that this task holds significant value for our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data collected under these specific temporal constraints is imperative for maintaining the integrity and quality of our commercial tasks and routine monitoring activities.
+
+In summary, we are to capture high-resolution optical snapshots for daylight photography and conduct an active radar scan during the overnight period on our target day, which falls "in three days". This request has been formulated according to the provided JSON metadata and adheres to the guidelines for mission allocation priority and relative timeframes.
