@@ -1,0 +1,7 @@
+Operating an Earth-observation mission, we aim to gather highly realistic data by translating raw physical simulation metadata into a conversational English request. Our objective is to capture the essence of a task involving an automated satellite constellation planner.
+
+We are focusing on a location within Indonesia, specifically near the equator, as denoted by the 'country' field in our JSON data. The mission's allocation priority, indicated by 'priority_level', signifies a medium importance task that requires professional attention, encapsulating standard operational tasks part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor used for this observation is Near-Infrared (NIR), which will enable us to map water bodies' boundaries and assess soil moisture levels, providing critical information on aquatic environments and soil conditions. This request aligns with our operational objectives as outlined by the 'primary_sensor' key in our JSON data.
+
+The deadline for this task is set for today, specifically in the evening. We emphasize this phrase verbatim, respecting the upper limit for data availability provided by an upstream module. Given our priority level and the specified deadline, we will ensure that this task is executed with diligence and efficiency, contributing to our overall operational goals without compromising on quality or accuracy.

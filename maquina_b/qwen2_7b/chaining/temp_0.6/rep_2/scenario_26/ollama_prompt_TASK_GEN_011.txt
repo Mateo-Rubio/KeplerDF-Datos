@@ -1,0 +1,9 @@
+Please undertake a low-priority importance task on the day after tomorrow in the evening. This involves capturing a near-infrared reflection for water body boundary mapping or soil moisture assessment as part of an opportunistic survey activity to discriminate gradients. The geographical context requires flexible scheduling, treating it as a background survey or testbed tracking task with no explicit deadline urgency.
+
+Given that country and city details are not available, describe the location using realistic combinations of 'region_name', 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+This task is to obtain a thermal mapping snapshot of surface temperature profiles or detect thermal anomalies, assessing heat emissions. Employ this as an authoritative, explicit, and commanding tone, framing it as a binding contract requirement involving a critical payload capture with an urgent operational execution and an un-preemptable mission lock.
+
+Incorporate the operational objectives naturally using VIS, SAR, TIR, VNIR, and NIR descriptors to explain the physical phenomenon to be observed without outputting technical abbreviations or acronyms. For instance, explain the goal of capturing high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation, active radar scans for cloud-penetrating capture using microwave surface imaging, thermal mapping to assess surface temperature profiles or detect heat emissions, and multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index.
+
+This low priority importance task is meant for background filler tasks where the operator explicitly notes to drop or reschedule at convenience.
