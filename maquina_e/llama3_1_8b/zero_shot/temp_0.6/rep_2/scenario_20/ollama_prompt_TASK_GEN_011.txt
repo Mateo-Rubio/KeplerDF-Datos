@@ -1,0 +1,14 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Sabaudia"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The mission objective is to capture a high-resolution thermal map of the region surrounding Sabaudia, Italy, by tomorrow overnight. This is an absolute institutional priority, and it is a critical payload capture requirement that involves mandatory thermal mapping to detect heat signatures and surface temperature profiles in the area. The data must be ready for ingestion into the pipeline before tomorrow's nighttime block, and any delay or rescheduling will compromise the integrity of our thermal anomaly detection mission.
