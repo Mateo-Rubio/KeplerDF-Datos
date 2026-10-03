@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Indonesia's Pangkalan Bun region overnight in four days. This daylight photography aims to provide clear optical imagery and true-color visual documentation for the area. The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task with normal operational status or a testbed tracking task.
+
+The primary sensor involved is VIS (visual imagery), which will be used to achieve the goal of capturing high-quality optical data. This sensor will provide detailed visual information about the region, including clear images that can be used for various applications such as urban planning, environmental monitoring, and disaster response.
+
+The deadline for this task has already been resolved by an upstream module: "in four days overnight". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included in the request.
+
+In summary, our mission is to capture high-resolution optical imagery of Indonesia's Pangkalan Bun region using VIS technology overnight in four days. This task is part of a low-priority background filler task with normal operational status and flexible scheduling. The deadline for data availability is "in four days overnight," emphasizing the urgency without compromising the quality or accuracy of the collected information.

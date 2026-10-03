@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the target geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data for a location in France, specifically Valle-di-Rostino, which is an area of significant interest due to its unique environmental conditions. The operational guidelines ensure that we avoid raw technical system tags, underscores, or coordinate arrays, instead combining the JSON parameters naturally to describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This translates to an authoritative, explicit, and commanding tone, framing this as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of the payload capture.
+
+The primary sensor for this task is 'NIR', which we interpret as capturing data through near-infrared reflection. This involves mapping water body boundaries or assessing soil moisture, which are essential for understanding environmental conditions and supporting agricultural practices.
+
+The delivery deadline is set for "the day after tomorrow around mid-day". This phrase is inserted verbatim into the request, serving as the upper limit for data availability without any rephrasing, shortening, or movement to a different part of the day. The deadline represents the final window for data collection, ensuring that our satellite constellation is allocated accordingly.
+
+In summary, this task request integrates the operational guidelines to create a natural and validated dataset, focusing on the geographic context, mission priority, sensor objectives, and delivery deadline to ensure efficient and effective satellite mission planning.

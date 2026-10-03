@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves capturing data for a critical payload using the Near-Infrared (NIR) sensor over a specific geographic location in Val Masino, Italia. This area is renowned for its unique landscape and environmental conditions, making it an absolute institutional priority.
+
+The mission allocation priority is set at level 3, indicating high importance and requiring an authoritative tone with an explicit command to ensure the data capture is executed with urgency and without any preemption. The request is framed as a binding contract requirement involving a critical payload capture that necessitates an un-preemptable mission lock.
+
+The operational guidelines guide us in interpreting the metadata organically. For the geographic context, we combine the JSON parameters naturally, describing Val Masino using realistic combinations of the 'country' and 'city' fields from 'location_details'. Since 'landmark' is not provided, we focus on the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data availability upper limit is set for tomorrow around mid-day, which must be inserted verbatim into our request.
+
+In summary, our request is to capture high-resolution optical snapshots using the Near-Infrared sensor over Val Masino, Italia, at mid-day tomorrow. This task is of high priority and requires an urgent operational execution with a commanding tone, emphasizing its importance as a critical payload capture under a binding contract requirement.

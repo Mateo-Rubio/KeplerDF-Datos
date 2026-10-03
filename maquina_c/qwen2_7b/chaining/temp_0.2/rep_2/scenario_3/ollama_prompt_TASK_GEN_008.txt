@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines.
+
+The geographic context involves the 'region_name', nested 'location_details' fields, and if necessary, 'country', 'city', and 'landmark'. We avoid raw technical system tags, underscores, or coordinate arrays. The location is described using a realistic combination of these fields. If any are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+Mission allocation priority indicates institutional authority, contractual value, or standard operational status. Priority 3 (High Importance) uses an authoritative tone with phrases like "absolute institutional priority" or "binding contract requirement". Priority 2 (Medium Importance) employs professional language for "standard operational tasking" or "commercial tasking". Priority 1 (Low Importance) adopts a casual tone, describing the request as a "low priority importance" task with a "flexible schedule".
+
+Sensors and physical objectives involve interpreting keys like 'primary_sensor'. We avoid technical abbreviations and instead weave operational objectives and descriptors into the request. For instance, 'VIS' translates to a "high-resolution optical snapshot" for "daylight photography" or "true-color visual documentation". 'SAR' is explained as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture". 'TIR' represents "thermal mapping" for capturing a "heat signature" or "surface temperature profile". 'VNIR' explains the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index". 'NIR' involves "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment".
+
+The delivery deadline is already resolved by an upstream module, set for "in three days overnight". This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+For this specific task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Gazzola"
+  },
+  "priority_level": 1,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+The request is structured as follows:
+
+"Please allocate a satellite mission with the primary sensor set to VNIR for a task involving the geographical region of Italia, specifically focusing on the city of Gazzola. This low priority importance task requires capturing high-resolution optical snapshots for daylight photography or true-color visual documentation. The mission should be executed in an opportunistic manner, with a flexible schedule that allows for 'in three days overnight' data availability. This request is treated as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience, considering it as a background survey or testbed tracking task."
+
+This request encapsulates the essence of translating raw physical simulation metadata into a conversational English format, adhering to the guidelines provided.

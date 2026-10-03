@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target geographic context involves capturing data for Norte, Brazil, focusing on the region's environmental conditions around mid-day tomorrow. Our mission allocation priority is set at low importance, indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task.
+
+The primary sensor involved is Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture levels. This request frames the task as a "testbed tracking task" that requires no urgent operational execution or contractual binding, allowing for scheduling adjustments at convenience.
+
+Given the operational guidelines, we avoid using raw technical system tags, underscores, or coordinate arrays in our final output. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+Our delivery deadline is set for tomorrow around mid-day, which is the upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics but instead insert this phrase verbatim into our request.
+
+In summary, our task request translates to capturing near-infrared reflection data for Norte, Brazil, focusing on water body boundaries and soil moisture assessment around mid-day tomorrow. This is framed as a low priority importance request with a flexible schedule for opportunistic capture, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

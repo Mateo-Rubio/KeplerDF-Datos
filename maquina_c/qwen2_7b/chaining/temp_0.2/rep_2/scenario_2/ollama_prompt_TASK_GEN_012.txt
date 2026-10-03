@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing the Indonesian city of Sanggau, which is located in the region specified by 'region_name'. The mission allocation priority is set at Level 1 (Low Importance), indicating that this task is a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted as a "non-essential background filler task" to be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor in use is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging for cloud-penetrating capture. This will allow us to pierce heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline is set for the day after tomorrow in the morning, as stipulated by an upstream module. This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In summary, our task request involves observing Sanggau, Indonesia, using SAR technology to capture high-resolution imagery in the morning of the day after tomorrow. This is a low priority importance task with a flexible schedule and a clear deadline, fitting into our baseline pipeline tracking setup as a standard operational tasking.

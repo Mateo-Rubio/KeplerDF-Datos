@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single, comprehensive task description that adheres to operational guidelines.
+
+The geographic context involves capturing imagery of Campagnatico, a city located in the country of Italia. Given the nested 'location_details', we combine the 'country' and 'city' fields naturally, describing the area without relying on raw technical system tags or coordinate arrays. If any of the 'country', 'city', or 'landmark' fields are "N/A", we would gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is classified as 'Priority 3 (High Importance)', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. We frame this request with authoritative language, emphasizing an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor specified is 'NIR', which we interpret as capturing near-infrared reflection for water body boundary mapping and soil moisture assessment. This task aims to discriminate gradients by assessing the reflectance patterns of water bodies and soil moisture levels.
+
+The delivery deadline is set for "the day after tomorrow overnight", a phrase that serves as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. This deadline is already resolved by an upstream module and does not require raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, our request to the satellite constellation planner is as follows:
+
+"Please prioritize the capture of Campagnatico in Italia using near-infrared sensors for water body boundary mapping and soil moisture assessment. This task is of high importance and must be executed with urgency, ensuring that it does not interfere with any other critical operations. The deadline for this task is set for the day after tomorrow overnight, which represents the upper limit for data availability."
+
+This request integrates the operational guidelines seamlessly, providing a clear and concise description that aligns with the provided JSON metadata.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of the region in "Italia", specifically around the city of "Sizzano". We're utilizing an advanced radar system, known as Synthetic Aperture Radar (SAR), to perform an active scan of this area. The goal is to obtain detailed microwave surface images that can penetrate heavy weather conditions or reveal ground geometry.
+
+The mission allocation priority is set at Level 1, indicating a low importance request with a flexible schedule for opportunistic capture. This task is framed as a "non-essential background filler" within our operational pipeline, where we explicitly note that it can be "dropped or rescheduled at convenience". It's treated as a "background survey" or "testbed tracking task", contributing to our ongoing monitoring efforts without disrupting more critical operations.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for "in three days around mid-day". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request involves capturing high-resolution SAR imagery of a specific region in "Italia" around the city of "Sizzano", with a focus on obtaining detailed surface images that can penetrate heavy weather conditions or reveal ground geometry. This task is part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters and is treated as a low priority importance request with a flexible schedule for opportunistic capture.

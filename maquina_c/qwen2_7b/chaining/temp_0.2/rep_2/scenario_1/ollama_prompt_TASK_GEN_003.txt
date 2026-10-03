@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves observing the region of Indonesia, specifically focusing on the city of Mamuju. This location will be captured using thermal mapping capabilities provided by our TIR sensor, aiming to capture a heat signature or surface temperature profile. The operational guidelines dictate that this task is of low importance and carries a flexible schedule for opportunistic capture, labeling it as a non-essential background filler task.
+
+The mission allocation priority is set at level 1, indicating a low priority importance request with standard operational status or a routine monitoring task part of our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status, and the language used reflects this structural hierarchy.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for "the day after tomorrow around mid-day," which must be inserted verbatim into our request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are to be outputted.
+
+In conclusion, our request to the satellite constellation planner involves capturing thermal mapping data of Indonesia's Mamuju city using our TIR sensor on "the day after tomorrow around mid-day." This task is part of our standard operational pipeline tracking setup with fixed parameters and represents a low priority importance request with flexible scheduling for opportunistic capture.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's Cimitarra region using near-infrared (NIR) sensors during today's afternoon period.
+
+The geographic context requires a natural interpretation of the 'region_name' and nested 'location_details'. Since 'country', 'city', and 'landmark' fields are provided, I'll describe the location using these details. Colombia's Cimitarra is a picturesque area that we aim to capture for our dataset. The goal here is to assess soil moisture levels and water body boundaries using near-infrared reflection capabilities.
+
+The mission allocation priority level is set at Low Importance (Priority 1). This task is framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The sensors and physical objectives are clearly defined. The primary sensor is near-infrared (NIR), which will be used for "near-infrared reflection" to map water body boundaries and assess soil moisture levels. This process allows us to discriminate gradients effectively.
+
+The delivery deadline has already been resolved by an upstream module, stating that the data should be available today during the afternoon period. This phrase is inserted verbatim into our request, as the upper limit for data availability.
+
+In summary, our task request involves capturing high-resolution optical snapshots of Colombia's Cimitarra region using near-infrared sensors during today's afternoon period. The goal is to assess soil moisture levels and water body boundaries while adhering to a low priority importance level with a flexible schedule for data capture.

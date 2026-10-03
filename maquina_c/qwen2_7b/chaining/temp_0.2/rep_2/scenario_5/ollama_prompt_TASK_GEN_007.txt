@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, which is described as a location with a country field set to "Colombia" but no city details available. Therefore, we will describe the region using just the country name for clarity and simplicity.
+
+The mission allocation priority is indicated by a priority level of 1, which we interpret as a low importance request with flexible scheduling requirements. This task is framed as a "non-essential background filler task", with an explicit note to "drop or reschedule at convenience" and treat it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is VIS (visual imagery), which we interpret as the goal of capturing a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". This request is to be executed using this sensor to observe Colombia in the evening of the target day, which is tomorrow.
+
+The delivery deadline is set for "tomorrow in the evening", and we must include this phrase verbatim in our request without any rephrasing, shortening, or moving it to a different part of the day. The deadline represents the upper limit for data availability, ensuring that our request aligns with the operational constraints.
+
+In summary, our task request is as follows:
+
+"Please schedule a background survey task for tomorrow evening in Colombia using high-resolution optical imagery from a visual sensor. This task is considered low priority and can be dropped or rescheduled at your convenience. Capture clear daylight photographs or true-color visual documentation to support our ongoing monitoring efforts."
+
+This request integrates the operational guidelines provided, ensuring that the translation of the raw physical simulation metadata into a conversational English format is both natural and accurate.
