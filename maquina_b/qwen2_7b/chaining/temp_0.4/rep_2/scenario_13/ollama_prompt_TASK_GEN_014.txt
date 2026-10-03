@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing a high-resolution optical snapshot of Norte city in an overnight, three days' timeframe. Our mission allocation priority is set at Low Importance, implying that this request falls under a flexible schedule for opportunistic capture, treated as a non-essential background filler task. The physical objective here is to achieve clear daylight photography, true-color visual documentation, and the utilization of our primary VIS sensor.
+
+Given the operational guidelines, we will not be incorporating raw technical system tags, underscores, or coordinate arrays into our final output. Instead, we'll describe the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' is marked as 'N/A', we'll proceed with 'city' details.
+
+Our delivery deadline is set for three days overnight, which means that our data availability upper limit is resolved by an upstream module. The priority level indicates a low importance, so the language used will be casual and highly flexible, treating this request as a background survey or testbed tracking task.
+
+To ensure the naturalness and validation accuracy of the dataset, we'll interpret the metadata organically according to these operational guidelines. This approach maximizes the realism and relevance of our Earth-observation tasks, aligning with our commitment to providing comprehensive and accurate data for various applications.

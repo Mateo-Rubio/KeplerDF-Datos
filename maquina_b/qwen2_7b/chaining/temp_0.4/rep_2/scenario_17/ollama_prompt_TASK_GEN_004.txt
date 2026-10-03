@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single, highly important task.
+
+The geographic context involves observing the region of Colombia, specifically focusing on Caramanta, a city within this country. We aim to capture a high-resolution optical snapshot, a true-color visual documentation, for daylight photography that will provide clear optical imagery of the area. This is part of our routine monitoring process, representing normal operational status, and it's tagged as a standard baseline pipeline tracking setup with fixed parameters.
+
+The primary sensor to be utilized is VNIR (Visible Near-Infrared), which will be used for multispectral vegetation analysis. The goal here is to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance, providing valuable insights into the health and dynamics of the vegetation in the region.
+
+The mission allocation priority is set at level 1, indicating low importance but with a flexible schedule for opportunistic capture. We explicitly note that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline is specified as "in three days in the evening". This phrase must be included verbatim in our request, representing the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our task request aims to capture essential data on vegetation health and dynamics using VNIR technology in Colombia's Caramanta region, with a deadline for delivery set three days from now in the evening. This request aligns with our standard operational tasks and baseline pipeline tracking setup, maintaining flexibility while ensuring timely data collection.
