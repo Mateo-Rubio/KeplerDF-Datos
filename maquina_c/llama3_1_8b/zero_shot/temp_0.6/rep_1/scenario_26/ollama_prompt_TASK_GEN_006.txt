@@ -1,0 +1,16 @@
+Translate this JSON metadata into a natural, conversational English request for the satellite constellation planner:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Malaysia",
+    "city": "Pantu"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Here's your natural user request:
+ 
+Obtain a high-resolution optical snapshot of the Pantu region in Malaysia using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. This is an absolute institutional priority, as it involves a critical payload capture with a binding contract requirement for mandatory directive execution by tomorrow evening at the latest.
