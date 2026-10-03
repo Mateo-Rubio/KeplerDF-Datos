@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific timeframe within which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data capture should occur.
+
+c) The single word contained in that string, which is part of the set {morning, mid-day, afternoon, evening, overnight}, is "evening." This word must appear literally in the final request to accurately reflect the timing of the task.
+
+d) It's important to confirm that the deadline is not being shifted to an adjacent part of the day. The strings "in three days" and "in the evening" are precise and should be used as given, without alteration. This ensures the task is scheduled correctly according to the specified operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a commercial satellite mission over Puerto López, Colombia. The request involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area's ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The data should be collected in three days, specifically in the evening.

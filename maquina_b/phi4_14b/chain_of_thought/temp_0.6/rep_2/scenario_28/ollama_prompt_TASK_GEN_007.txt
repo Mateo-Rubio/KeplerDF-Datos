@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task should be completed by the next calendar day.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the data capture should occur.
+
+c) The single word contained in the string "in the morning" from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must be included literally in the final request to specify the exact time of day for the task.
+
+d) The deadline is strictly set for "tomorrow in the morning," and there is no indication or allowance to shift it to any other part of the day. The operational deadline must be adhered to as specified, without any changes to the time frame.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking for thermal mapping over Cali, Colombia, scheduled for tomorrow in the morning. This mission involves capturing a heat signature or surface temperature profile using the thermal infrared sensor. As part of our baseline pipeline tracking setup, this task has fixed parameters and represents a routine monitoring effort. Please ensure that the data products are delivered by the specified deadline without deviation.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To develop an effective operational request, I first analyzed the JSON metadata provided for specific details.
+
+a) The exact string in 'target_day' is "in three days." This indicates when the satellite imagery needs to be captured and delivered. It's crucial to maintain this timeline accurately to ensure compliance with the mission schedule.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite should capture the imagery, focusing on nighttime conditions.
+
+c) The single word contained in that string, from the set {morning, mid-day, afternoon, evening, overnight}, is "overnight." This word must be included verbatim in the final request to accurately reflect the timing of the data capture.
+
+d) It's essential to confirm that the deadline is not being shifted. The original metadata specifies "in three days" and "overnight," which means the imagery should be captured during nighttime conditions three days from now. There is no indication or allowance to adjust this deadline to any other part of the day, ensuring strict adherence to the specified operational timeline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to capture critical payload data over Kutai Barat in Indonesia using a high-resolution optical snapshot for clear optical imagery. This task is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. The satellite must perform this task precisely "in three days" during the "overnight" period to ensure compliance with our stringent delivery schedule.
