@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The geographical context involves observing Indonesia's Mamuju region using thermal mapping capabilities from our primary sensor, which is set for "the day after tomorrow" around mid-day.
+
+The operational guidelines guide us to interpret the metadata organically without using raw technical system tags or coordinate arrays. We'll describe the location using a realistic combination of country, city, and landmark fields from 'location_details'. Since 'city' and 'landmark' are not available, we'll use the 'country' field for a clear geographical reference.
+
+The mission allocation priority is set at 'Priority 1', which means this request is treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". The language must be casual and highly flexible, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is 'TIR', which we'll interpret as capturing a "heat signature", "surface temperature profile", or performing "thermal anomaly detection" and mapping heat emissions. This objective aligns with our mission to assess thermal patterns in the region.
+
+In summary, our request involves observing Indonesia's Mamuju region using thermal mapping capabilities from our primary sensor on "the day after tomorrow" around mid-day. The task is treated as a "background survey" or "testbed tracking task", reflecting its low priority importance with a flexible schedule for opportunistic capture.

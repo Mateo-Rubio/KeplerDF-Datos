@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Let's break down the details:
+
+The geographic context involves observing Indonesia, specifically in Kubu Raya. We'll describe this location using realistic terms that combine country, city, and landmark fields from 'location_details', gracefully ignoring any "N/A" entries.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This request is framed as a low priority importance task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar). Our operational objective is to conduct an active radar scan using microwave surface imaging. This will allow us to pierce heavy weather conditions and capture ground geometry, providing cloud-penetrating capture capabilities.
+
+The delivery deadline is set for "in three days in the evening". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. No rephrasing, shortening, or moving it to a different part of the day is necessary.
+
+In summary, our task request involves observing Indonesia's Kubu Raya using SAR technology on a low-priority mission with a flexible schedule. The deadline for this task is "in three days in the evening". Let's proceed with crafting the request that encapsulates these details in a natural and conversational manner.

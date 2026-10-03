@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia, specifically the city of Pekanbaru. We will combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, indicated by a priority level of 2. This request will be framed as a standard operational tasking, part of our commercial tracking pipeline with fixed parameters representing normal operational status. We emphasize that this is an urgent operational execution and an un-preemptable mission lock.
+
+Our primary sensor is the Near-Infrared (NIR), which aims to capture near-infrared reflection for water body boundary mapping or soil moisture assessment, helping discriminate gradients in the area. The physical objective involves assessing soil moisture levels and delineating water bodies accurately.
+
+The delivery deadline is set for "the day after tomorrow in the morning". This phrase will be inserted verbatim into our request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, we are requesting an active radar scan using microwave surface imaging for cloud-penetrating capture and ground geometry observation in Pekanbaru, Indonesia. The task is part of our baseline pipeline tracking setup with normal operational status, emphasizing the importance of capturing soil moisture levels and water body boundaries as part of our standard workflow update.

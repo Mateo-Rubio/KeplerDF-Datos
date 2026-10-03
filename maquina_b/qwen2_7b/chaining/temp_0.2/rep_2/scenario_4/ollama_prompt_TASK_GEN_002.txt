@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves a high-priority mission allocation with a primary sensor set to VNIR, targeting a location in Norte, Brazil. The operational guidelines guide us on interpreting geographic context, mission allocation priority, sensors and physical objectives, and the delivery deadline.
+
+The geographic context is interpreted by combining the 'region_name' and 'location_details'. Since the country and city are not available, we describe the location using the remaining valid fields or the clean 'region_name'. The mission allocation priority is High Importance, which requires an authoritative tone, framing this as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor is VNIR, which we interpret as "multispectral vegetation analysis" aimed at assessing the "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance. This request is part of a "standard operational tasking", "commercial tasking", or "routine monitoring" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+
+The delivery deadline is set for "in three days in the morning". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. The deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+In summary, our task request combines these elements to create a natural and validated dataset that maximizes the accuracy and realism of the Earth-observation mission's operational context.
