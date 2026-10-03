@@ -1,0 +1,9 @@
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'targetdictory_period' is "in the morning".
+c) The single word contained in that string which must appear literally in the final request is "morning".
+d) I am confirming that there is no shift or reinterpretation of the deadline to an adjacent part of the day, as the original strings indicate a specific time frame without such alterations.
+
+```prompt
+As per the Earth-observation mission operator's task request for the automated satellite constellation planner, the objective is to generate a realistic and conversational English request based on the provided JSON metadata. The primary sensor indicated in the data is Thermal Infrared (TIR), which implies that the goal of the operation is thermal mapping to capture a heat signature or surface temperature profile for detecting thermal anomalies and mapping heat emissions from Norte, with an expectation set for tomorrow morning. Considering the low priority level assigned as "1", this task should be framed casually without rush, suggesting it can fit into a flexible schedule. The final request, integrating all specified elements, would read:
+
+"We are organizing a non-essential background filler task that requires thermal mapping in Norte tomorrow morning to capture surface temperature profiles and detect any potential heat anomalies for environmental monitoring purposes. This is not an urgent operational execution but rather a flexible opportunity with a casual approach, so please feel free to drop or reschedule this request at your convenience as it holds low priority importance."
