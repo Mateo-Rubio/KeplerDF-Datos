@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data delivery deadline for this task is set for the day following today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the satellite observation should occur, which is during the nighttime hours.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options given is "overnight." This term will be used literally in the final request to describe the timing of the data capture.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task requires capturing data specifically during the "overnight" period on "tomorrow," as explicitly stated in the JSON metadata. Any deviation from this timeframe would misinterpret the operational deadline and could affect the mission's success.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request for a commercial satellite observation over Indonesia, specifically targeting the area around Ecuatorial. This task involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture during the overnight period on tomorrow. This is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update.

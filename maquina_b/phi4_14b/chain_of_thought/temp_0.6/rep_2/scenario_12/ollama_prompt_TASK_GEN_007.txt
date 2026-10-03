@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the strict operational deadline for the task execution and delivery of data products.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should occur, aligning with the deadline for the data collection.
+
+c) The single word contained in 'target_diurnal_period' that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "evening." This term must appear literally in the final request to maintain alignment with the specified diurnal period.
+
+d) I am not shifting the deadline to an adjacent part of the day. The requirement is explicitly for data collection to occur "in the evening," which aligns precisely with both the temporal constraints and the operational objectives set forth in the task context.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority requiring a critical payload capture over Otanche, Colombia, within three days, specifically in the evening. This mission is a binding contract requirement involving high-priority thermal mapping to capture a heat signature or surface temperature profile. The urgency of this task demands an un-preemptable mission lock, ensuring that no other tasks interfere with this essential operation.
