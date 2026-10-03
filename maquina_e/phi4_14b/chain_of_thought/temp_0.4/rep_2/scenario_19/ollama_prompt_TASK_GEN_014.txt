@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) The deadline specified as "in three days" and "during the afternoon" indicates a precise timing for the task. There is no indication or allowance to shift this deadline to any other part of the day; it must be adhered to strictly as stated.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis in Italy, specifically in the Norte region. This task involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index using VNIR technology. The mission is part of our baseline pipeline tracking with fixed parameters representing normal operational status. We require this data to be delivered in three days during the afternoon. Please ensure that this task is integrated into the routine monitoring schedule as per our standard workflow update.

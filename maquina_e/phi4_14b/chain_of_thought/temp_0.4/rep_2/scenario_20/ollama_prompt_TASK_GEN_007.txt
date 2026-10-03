@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates that the task must be completed by this specific deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the data capture should occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "morning". This word must be included in the final request to accurately describe the timing of the task.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request specifies that the data capture should occur "in the morning," which aligns with the given 'target_diurnal_period' without any alteration or shift.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for capturing data over Puerto Libertador, Colombia. This is a flexible schedule request for opportunistic capture, and it can be dropped or rescheduled at convenience as it's considered a non-essential background filler task. The objective is to perform an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area. Please ensure this task is completed in four days, specifically in the morning.
