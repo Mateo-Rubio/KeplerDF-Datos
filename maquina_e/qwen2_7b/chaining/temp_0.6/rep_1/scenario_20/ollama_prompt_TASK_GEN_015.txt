@@ -1,0 +1,13 @@
+Given the operational guidelines, our Earth-observation mission task request can be formulated as follows:
+
+In order to provide a highly realistic and conversational English request, we focus on translating the raw physical simulation metadata provided in JSON format into a natural-sounding task allocation. The geographic context for this task involves capturing essential details using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. In this case, our target location is Malaysia's Belaga city.
+
+The mission allocation priority level is medium importance (Priority 2), which necessitates a professional tone with direct and standard operational language. We are to undertake a standard operational tasking as part of our baseline pipeline tracking setup, which involves fixed parameters and represents normal operational status or a routine monitoring process.
+
+Our primary sensor for this operation is a SAR (Synthetic Aperture Radar), which will employ active radar scans for microwave surface imaging. This technique allows us to penetrate heavy weather conditions and capture ground geometry accurately. We aim to execute this critical payload capture with a cloud-penetrating capability, ensuring our radar system gathers essential data without the interference of atmospheric conditions.
+
+The delivery deadline is set for 'the day after tomorrow overnight'. This means that by the time specified, we need to have the data available for analysis and processing. Our task is not contingent on a specific time frame within the day but rather an upper limit for data availability, which signifies the urgency of this mission without implying proximity to any particular deadline.
+
+In conclusion, our Earth-observation mission operator requests the automated satellite constellation planner to allocate resources accordingly. The SAR sensor will perform active radar scans over Malaysia's Belaga city during the overnight period on 'the day after tomorrow'. This task is part of our standard operational pipeline and holds medium priority status, meaning it requires a professional approach with fixed parameters and normal operational status.
+
+The deadline for this task is 'the day after tomorrow overnight', which serves as the upper limit for data availability. We are to ensure that the data collection is completed within these constraints without being influenced by closer deadlines or countdown metrics.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. My objective is to capture a highly realistic, conversational English request based on the raw physical simulation metadata provided in JSON format.
+
+The geographic context involves Colombia, specifically the city of Barrancabermeja. This location is described using a realistic combination of country and city parameters, ensuring that the final output avoids raw technical system tags, underscores, or coordinate arrays. If any of these fields are "N/A", I gracefully describe the location using alternative valid fields or the clean 'region_name'.
+
+My mission allocation priority reflects an "absolute institutional priority" due to its high importance level (Priority 3). The request is framed as an "urgent operational execution" and an "un-preemptable mission lock". This authority and contractual value are emphasized through authoritative, explicit, and commanding language that heavily implies the need for immediate action.
+
+The primary sensor involved is VIS, which aims to capture a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". The goal is to visualize and document the landscape during daylight hours with exceptional detail.
+
+The delivery deadline is set for "tomorrow overnight", which is the upper limit for data availability. This phrase is inserted verbatim into my request, ensuring that no rephrasing, shortening, or relocation of the time frame occurs. It represents the final day and time for the data to be available, aligning with the resolved deadline by an upstream module.
+
+In summary, my request is to capture a detailed VIS image in Barrancabermeja, Colombia, at night, as part of an urgent task with high priority, adhering to strict deadlines established by the mission's operational guidelines. The language used reflects professional standards while maintaining a clear and concise format that aligns with the automated satellite constellation planner's expectations.

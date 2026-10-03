@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines dictate a natural and highly realistic translation of the raw physical simulation metadata provided in JSON format below.
+
+We're focusing on a region within Indonesia, specifically near the equator, where our mission's priority level is set to Low Importance (Priority 1). Our primary sensor choice for this task is VNIR, enabling us to capture multispectral vegetation analysis data. This will allow us to assess chlorophyll absorption levels and calculate the NDVI index as well as surface reflectance.
+
+The objective here is to gather data on how different vegetation types absorb sunlight at various wavelengths, which is crucial for understanding plant health, stress, and potential environmental impacts. The geographical context involves a location close to the equator, where unique environmental conditions can provide valuable insights into plant responses to varying light spectra.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow around mid-day". This means that by our standards, this request carries a flexible schedule and is considered a non-essential background filler task. We're treating it as an opportunistic survey or testbed tracking task, with no rush in data availability.
+
+In summary, our Earth-observation mission aims to capture VNIR data over a region near the equator in Indonesia during mid-day on the day after tomorrow. This task focuses on vegetation analysis and NDVI index calculations, contributing to our baseline pipeline tracking setup with normal operational status.
