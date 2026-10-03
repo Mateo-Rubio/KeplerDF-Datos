@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing imagery of Moncalieri, Italy, using the VNIR sensor. This location combines the country and city fields for a realistic description. Since there's no landmark specified, we'll describe it based on the available details.
+
+The mission allocation priority is set to low importance (Priority 1), indicating that this request is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task with a "drop or reschedule at convenience" note, fitting into our "background survey" or "testbed tracking task" setup.
+
+The primary sensor, VNIR, will be used to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This involves capturing surface reflectance data for the purpose of multispectral vegetation analysis.
+
+The delivery deadline is set for four days in the morning. We're inserting this phrase verbatim into our request as the stated upper limit for data availability, adhering to the guidelines provided.
+
+In summary, our task request involves capturing high-resolution optical snapshots of Moncalieri, Italy, using the VNIR sensor for a low-priority background survey or testbed tracking task. The deadline is four days in the morning, and we're treating this as part of our normal operational status with fixed parameters representing standard workflow updates.

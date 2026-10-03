@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a highly prioritized task request to our automated satellite constellation planner. The objective is to capture a critical payload using the VNIR sensor for a high-resolution optical snapshot of Greve in Chianti, Italia, which is a picturesque town nestled within the rolling hills of Tuscany. This location, known for its rich history and vineyards, requires a detailed assessment of its vegetation health and land use.
+
+Given the nature of this request, it is classified as an "absolute institutional priority" due to its high importance. The "binding contract requirement" involves a mandatory directive for capturing the "critical payload", emphasizing the urgency and un-preemptable mission lock associated with this task.
+
+The operational guidelines dictate that we interpret the metadata organically, avoiding raw technical system tags or coordinate arrays. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task is set as "in four days overnight". This phrase serves as the upper limit for data availability, indicating that the data must be collected within this specific timeframe. The deadline is not to be rephrased, shortened, or moved to a different part of the day.
+
+In summary, our request involves capturing detailed multispectral vegetation analysis using the VNIR sensor for Greve in Chianti, Italia, with an emphasis on assessing chlorophyll absorption levels and calculating the NDVI index. This task is classified as having a "high priority importance", requiring a "standard operational tasking" that aligns with our baseline pipeline tracking setup. The fixed parameters represent normal operational status, ensuring that this request is treated with the appropriate level of attention and urgency.
+
+Let us proceed with the execution of this mission, ensuring that we adhere to these guidelines for naturalness and validation accuracy in our dataset.

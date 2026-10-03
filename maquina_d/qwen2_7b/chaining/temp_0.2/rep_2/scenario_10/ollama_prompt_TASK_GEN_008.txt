@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region named "Italia Norte", using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is not provided, we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, indicating a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language should reflect an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor involved is VIS (visual imagery), which we'll interpret as a goal for daylight photography, clear optical imagery, or true-color visual documentation. This will help in capturing the essence of the region during the day.
+
+The delivery deadline is set for "in four days overnight", which means that the data must be available by this time frame, serving as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request involves capturing high-resolution optical imagery of the region named "Italia Norte" using a VIS sensor, with medium importance and a strict deadline of "in four days overnight". This task is part of our standard operational pipeline tracking setup, ensuring that we capture the essence of the region during daylight hours for further analysis and documentation.
