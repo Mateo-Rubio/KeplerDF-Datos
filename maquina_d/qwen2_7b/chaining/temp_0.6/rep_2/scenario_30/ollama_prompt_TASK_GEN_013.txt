@@ -1,0 +1,11 @@
+Your Earth-observation mission operator is tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for satellite constellation planners. The objective is to interpret the provided JSON format and operational guidelines to maximize naturalness and validation accuracy in the dataset.
+
+GEOGRAPHIC CONTEXT: In Colombia, near the city of Puerto Rico, a landmark location is requested for observation on "the day after tomorrow" in the morning. The operator combines JSON parameters by describing the region using realistic field combinations from 'location_details', such as country, city, and landmark, unless they are "N/A". If so, the description focuses on remaining valid fields or uses 'region_name' to provide context.
+
+MISSION ALLOCATION PRIORITY: With a priority level of 3 (High Importance), this request is presented as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or a "mandatory directive". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor designated is "NIR", which will be used for near-infrared reflection to map water body boundaries or assess soil moisture. This task aims to capture data for "water body boundary mapping" and "soil moisture assessment" to discriminate gradients.
+
+DELIVERY DEADLINE: The deadline for this task is set as "the day after tomorrow in the morning", a phrase that must be inserted verbatim into the request without rephrasing or altering it. This statement serves as the upper limit for data availability without including raw UTC timestamps, digits, or countdown metrics.
+
+In summary, the operator requests a satellite mission to observe a specific location in Colombia, near Puerto Rico, using a near-infrared sensor on "the day after tomorrow" in the morning, with a high priority level indicating an urgent operational execution. The task focuses on mapping water body boundaries and assessing soil moisture for discrimination of gradients, all within the constraints provided by the deadline.

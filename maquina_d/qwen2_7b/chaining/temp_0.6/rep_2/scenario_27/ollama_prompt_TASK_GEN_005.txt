@@ -1,0 +1,22 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata is provided in JSON format below:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+GEOGRAPHIC CONTEXT: The request targets a location in Italy's Norte region. Although the city details are "N/A", it's described as being within the country, emphasizing its context rather than relying on technical system tags or coordinates.
+
+MISSION ALLOCATION PRIORITY: Given the priority level of 1, this task is characterized as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly framed as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treated as a "background survey" or "testbed tracking task".
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is VIS, which will be used to acquire high-resolution optical snapshots for daylight photography and true-color visual documentation. This mission aims to capture clear optical imagery of the target area in Italy.
+
+DELIVERY DEADLINE: The deadline for this task is tomorrow evening, as specified by the upstream module. This phrase will be inserted verbatim into the request, indicating the upper limit for data availability without rephrasing or altering the timing.
+
+In summary, our mission operator is requesting a VIS sensor to capture high-resolution optical imagery of an undisclosed location in Italy's Norte region during the evening of tomorrow. This task is classified as a low priority importance request with a flexible schedule and a deadline set for "tomorrow in the evening". Our automated satellite constellation planner will be informed of these details to ensure that the mission aligns with our operational guidelines and priorities.

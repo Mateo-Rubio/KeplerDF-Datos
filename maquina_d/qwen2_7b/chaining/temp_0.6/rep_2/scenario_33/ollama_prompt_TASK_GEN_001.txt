@@ -1,0 +1,22 @@
+Your Earth-observation mission operator is tasked with requesting a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single, detailed task request that maximizes naturalness and validation accuracy.
+
+The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the 'region_name', 'country', 'city', and 'landmark' fields naturally. If any of these are "N/A", gracefully describe the location using the remaining valid fields or the clean 'region_name'.
+2. MISSION ALLOCATION PRIORITY: Use specific operational phrases to reflect the priority level, which indicates mission allocation authority and asset contractual value but does not relate to deadlines.
+3. SENSORS AND PHYSICAL OBJECTIVES: Weave operational objectives and descriptors into the request to explain the physical phenomena to be observed without using technical abbreviations or acronyms.
+4. DELIVERY DEADLINE: Insert the phrase "in three days in the morning" verbatim as the upper limit for data availability.
+
+The target task context JSON is as follows:
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Dolores"
+  },
+  "priority_level": 1,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the morning"
+}
+
+Your request should be structured as a single, flowing paragraph that incorporates these guidelines:

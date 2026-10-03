@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. My objective is to request data capture for the "the day after tomorrow overnight" period using a Near-Infrared (NIR) sensor. The geographic context involves Colombia's vibrant city of Florida. Given this location, I'll interpret the 'region_name' as the operational reference since there are no specific 'country', 'city', or 'landmark' details provided. 
+
+The request must convey the importance level according to priority guidelines. With a Priority 1 ('Low Importance'), this is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". I explicitly label it as a "non-essential background filler task", noting that it's treated as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+To maximize naturalness and validation accuracy of the dataset, I'll interpret the 'primary_sensor' field to explain the physical phenomenon we aim to observe. Using the operational objectives and descriptors provided:
+
+The Near-Infrared sensor will be used for "near-infrared reflection" purposes. This task involves "water body boundary mapping" or "soil moisture assessment", enabling us to discriminate gradients effectively.
+
+In summary, my request reads: "On the night of 'the day after tomorrow', capture data using a Near-Infrared sensor over Colombia's city of Florida. This is a low-priority task with flexible scheduling, treated as a background survey or testbed tracking task. The goal involves mapping water body boundaries and assessing soil moisture levels through near-infrared reflection."
+
+The request integrates the geographic context organically, avoids raw technical system tags, underscores, or coordinate arrays, and adheres to the priority guidelines while conveying specific operational phrases that reflect institutional hierarchy and an urgent operational execution tone.

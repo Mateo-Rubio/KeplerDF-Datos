@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request. 
+
+The target geographic context is Indonesia's Bontang city, which serves as the focal point for our observation. The primary sensor to be utilized is TIR, aimed at capturing thermal mapping data to identify surface temperature profiles and potential thermal anomalies. This task has been prioritized as of low importance (Priority 1), indicating that it requires a flexible schedule for opportunistic capture, fitting into our background survey or testbed tracking tasks.
+
+The delivery deadline for this task has been set for "in three days in the evening." This means that we must ensure the data availability by the specified upper limit without altering the time frame or using any raw UTC timestamps, digits, or countdown metrics. 
+
+In crafting our request, we must avoid technical system tags, underscores, coordinate arrays, and any acronyms such as VIS, SAR, TIR, VNIR, and NIR. We are to interpret the operational metadata naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If 'country', 'city', or 'landmark' fields are "N/A", we should describe the location using the remaining valid fields or the clean 'region_name'.
+
+Our request will integrate specific operational phrases to reflect the structural hierarchy of priority levels. For Priority 1, we'll frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture." The language must be casual and highly flexible, treating it as a "background survey" or "testbed tracking task."
+
+In conclusion, our task request aims to gather thermal mapping data from Bontang city in Indonesia using TIR technology for background survey purposes within the specified deadline. This process will ensure that we adhere to our operational guidelines while maximizing naturalness and validation accuracy of the dataset.

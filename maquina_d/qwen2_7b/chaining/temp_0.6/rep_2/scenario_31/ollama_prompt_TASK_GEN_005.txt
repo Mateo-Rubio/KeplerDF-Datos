@@ -1,0 +1,22 @@
+To the automated satellite constellation planner,
+
+We're seeking a low priority importance task for an Earth observation mission scheduled for the day after tomorrow overnight. Our objective is to capture thermal mapping data on an absolute institutional priority basis, as this involves a critical payload capture and a binding contract requirement.
+
+Our focus is on a highly realistic and conversational English request that maximizes naturalness and validation accuracy by interpreting the raw physical simulation metadata provided in JSON format below:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Roasio"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+We aim to achieve a heat signature, surface temperature profile, or thermal anomaly detection by leveraging thermal mapping capabilities through our TIR sensor. The mission will be conducted over the region of Italia, specifically in the city of Roasio. 
+
+Given that this request carries low priority importance, we recognize that it may be treated as a flexible schedule task with a clear directive to drop or reschedule at convenience. This task is designated as a background survey or testbed tracking task within our baseline pipeline tracking setup.
+
+Thank you for your attention and cooperation in fulfilling this operational requirement.

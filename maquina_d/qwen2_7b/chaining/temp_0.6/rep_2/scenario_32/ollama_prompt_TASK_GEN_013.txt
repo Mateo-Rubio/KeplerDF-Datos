@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for tomorrow in the evening. The geographic context involves observing Colombia, specifically focusing on Belén de Umbría. Our mission allocation priority is set at low importance, which means this task should be treated as a flexible schedule "opportunistic capture", fitting into our background survey or testbed tracking tasks.
+
+Our primary sensor for this observation will be the VNIR (Visible Near-Infrared) instrument, designed to conduct multispectral vegetation analysis. The goal here is to assess the chlorophyll absorption levels and calculate the NDVI index along with surface reflectance to provide comprehensive insights into the vegetation health and land use.
+
+To maximize the naturalness and validation accuracy of our dataset, we will interpret the raw physical simulation metadata organically according to our operational guidelines. We will avoid using raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we will combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'.
+
+This request emphasizes that our mission is not bound by a strict deadline but rather fits into a baseline pipeline tracking setup with fixed parameters representing normal operational status. We understand this task as part of our standard workflow updates, allowing for a casual, highly flexible tone when addressing this "non-essential background filler task". We explicitly note that this task can be dropped or rescheduled at convenience if it disrupts other priorities in our operational schedule.
+
+Please ensure this request is processed accordingly and delivered by tomorrow in the evening. Thank you for your attention to this critical payload capture.
