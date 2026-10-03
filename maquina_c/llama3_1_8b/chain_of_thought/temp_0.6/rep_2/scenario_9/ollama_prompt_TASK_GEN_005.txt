@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) The deadline is explicitly stated as "in four days", which implies a specific target date, rather than an adjacent part of the day. Therefore, we are not shifting the deadline to an adjacent part of the day.
+
+The deadline is for a specific day, and the diurnal period only specifies the time of day when the data should be collected, not the deadline itself.

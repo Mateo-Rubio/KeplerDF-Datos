@@ -1,0 +1,9 @@
+Here are the answers to the four questions in Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". However, I'll choose a more specific word from the given options: "night" is not present, but the word "over" implies that we're looking at the "night" period. So, I'd say the word "night" is not directly mentioned, but the closest one is "night's counterpart", which is "evening". But since it's "overnight", I'll go with "night" as the implied word.
+
+d) No, we are not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' is "overnight", which means we're still targeting the nighttime period, specifically between sunset and sunrise.
