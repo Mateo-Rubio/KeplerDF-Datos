@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves Colombia, specifically the city of Silvania. This location is described using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", they will be gracefully ignored, and the description will utilize the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request demands an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor is VIS, which will be used to acquire high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation. The goal is to capture the essence of this Colombian city in its natural state under the sunlight.
+
+For the delivery deadline, the task must be completed "in three days in the evening". This phrase serves as the upper limit for data availability and must be inserted verbatim into the request. No rephrasing, shortening, or altering the time of day is allowed.
+
+In conclusion, this Earth-observation mission requires a detailed and realistic description of the task, adhering to operational guidelines for naturalness and validation accuracy. The request will be executed with authority, considering the high priority level, and will ensure the timely delivery of data in the specified timeframe.

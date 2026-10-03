@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to allocate resources efficiently while ensuring the naturalness and validation accuracy of the dataset. We're focusing on operational guidelines that interpret keys such as 'region_name', 'location_details', 'priority_level', and 'primary_sensor' in a way that maximizes realism.
+
+Given the provided JSON context, we have a request for a 'standard operational tasking' involving the 'VNIR' sensor, which is to conduct a 'multispectral vegetation analysis'. This operation aims to assess the 'chlorophyll absorption level' or calculate the 'NDVI index' and surface reflectance. The geographical context involves the Indonesian region of 'Kepulauan Meranti', providing a vivid picture of the operational landscape.
+
+The priority level is set at 'Medium Importance', which requires an authoritative tone in our request. We're to frame this as a 'standard operational tasking', part of a 'baseline pipeline tracking' setup with 'fixed parameters'. This reflects the normal operational status and underscores that the mission carries 'normal operational importance'.
+
+The deadline for this task is 'in four days overnight', a clear and concise upper limit for data availability. This phrase must be included verbatim in our request, emphasizing the urgency without providing raw timestamps or countdown metrics.
+
+In summary, our request is to undertake a 'multispectral vegetation analysis' using the VNIR sensor over the Indonesian region of Kepulauan Meranti, with a standard operational importance level. The task requires meticulous execution and adherence to guidelines for optimal data quality and operational efficiency.

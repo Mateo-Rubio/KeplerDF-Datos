@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. My objective focuses on the operational guidelines provided:
+
+1. GEOGRAPHIC CONTEXT: We're looking at Colombia, specifically in Riofrío. I'll describe this location using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these are "N/A", I'll describe the region using remaining valid fields or clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: The priority level is 1, which indicates low importance with flexible scheduling for opportunistic capture. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic data collection", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is "NIR", which aims to map near-infrared reflection for "water body boundary mapping" or "soil moisture assessment". This process will help discriminate gradients effectively.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, with data availability set as "in three days around mid-day". This phrase must be inserted verbatim into the request.
+
+In conclusion, my request is to capture near-infrared reflection data for water body boundaries or soil moisture assessment in Colombia's Riofrío region. This task falls under a low priority importance with flexible scheduling, aiming for "opportunistic data collection" around mid-day three days from now. The data will be used for background surveys or testbed tracking tasks, contributing to our understanding of the region without immediate urgency.

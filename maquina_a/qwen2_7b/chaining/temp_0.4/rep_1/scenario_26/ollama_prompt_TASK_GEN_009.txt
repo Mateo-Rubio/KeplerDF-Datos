@@ -1,0 +1,16 @@
+```prompt
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The geographic context demands a natural interpretation of 'region_name' and nested 'location_details'. I'll combine the JSON parameters in a manner that reflects the operational guidelines.
+
+The mission allocation priority indicates the level of importance and authority required for this task. Since our priority is set at Level 2 (Medium Importance), I will use a professional, direct tone to describe this request as part of our standard operational tasking or commercial tasking setup. The 'primary_sensor' being TIR implies we're focusing on thermal mapping to capture heat signatures and surface temperature profiles, which is essential for thermal anomaly detection and mapping heat emissions.
+
+Our target day is set for four days in the morning, which means that this task must be executed with a high degree of precision and attention to detail. The deadline is already resolved by an upstream module, ensuring that our data will be available at the specified time.
+
+To maximize the naturalness and validation accuracy of the dataset, I'll weave these operational objectives into my request:
+
+"Please allocate a satellite mission with thermal imaging capabilities for a standard operational tasking in Indonesia, specifically focusing on the Ecuatorial region. Our priority is medium importance, indicating that this request should be treated as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to perform thermal mapping using active radar scans for cloud-penetrating capture and surface geometry imaging, which will be critical for our ongoing monitoring activities.
+
+The mission should aim to capture heat signatures and surface temperature profiles to support our thermal anomaly detection efforts. This task requires a high degree of precision and attention to detail, as it is scheduled for four days in the morning, ensuring optimal conditions for clear data collection. We understand that this deadline has already been resolved by an upstream module, so please ensure that our data will be available at the specified time without any delays.
+
+Please proceed with this request as part of our standard operational procedures, recognizing its importance while maintaining flexibility in scheduling to accommodate any unforeseen circumstances. This task is essential for our ongoing monitoring and decision-making processes and should be treated with the appropriate level of urgency and importance."
+
+By following these guidelines and integrating the operational phrases and descriptors, we can ensure that the dataset remains natural and validated, providing accurate and meaningful context for future analysis and decision-making."

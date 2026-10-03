@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines for translating raw physical simulation metadata into a highly realistic and conversational English request are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally without using raw technical system tags, underscores, or coordinate arrays. Describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If 'country', 'city', or 'landmark' are "N/A", gracefully describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Do not mention raw priority numbers or technical priority levels. Priority indicates mission allocation authority and asset contractual value, not how close the deadline is. Use authoritative, professional, or casual tones to reflect this structural hierarchy.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Do not output technical abbreviations or acronyms. Weave operational objectives and descriptors into your request to explain the physical phenomenon to be observed using natural language.
+
+4. DELIVERY DEADLINE: Insert the phrase "the day after tomorrow during the afternoon" verbatim as the stated upper limit for data availability. Do not rephrase, shorten, or move it to a different part of the day.
+
+Target task context JSON:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Given these guidelines, my request is as follows:
+
+"Please allocate a satellite mission for an operational tasking involving near-infrared (NIR) sensors. The task requires capturing data on water body boundaries and soil moisture assessment in Indonesia's Ecuatorial region during the afternoon of the day after tomorrow. This standard operational tasking is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a workflow update."
+
+This request integrates the operational guidelines to maximize the naturalness and validation accuracy of the dataset while adhering to the provided JSON metadata.

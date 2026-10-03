@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request for execution.
+
+The geographic context of our request is centered around Colombia, specifically in the region of La Cumbre. We're focusing on this location using the nested 'location_details' field that includes the country, city, and landmark parameters. Although 'city' and 'landmark' are not available, we'll describe the area using the 'country' parameter for a realistic context.
+
+The mission allocation priority level is set at medium importance (Priority 2), which means this request involves standard operational tasks or commercial tasking that's part of our baseline pipeline tracking setup. We're dealing with fixed parameters representing normal operational status and workflow updates, but without implying any urgency in the deadline.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which we'll interpret as an active radar scan using microwave surface imaging. This technique allows us to capture cloud-penetrating images that can pierce heavy weather or provide detailed ground geometry information.
+
+Our target day for this task is 'in four days', and the target diurnal period is 'around mid-day'. We've included these exact phrases as the upper limit for data availability, without rephrasing or shortening them. This delivery deadline is a resolved constraint that guides our operational planning.
+
+In summary, our request involves capturing high-resolution SAR imagery of La Cumbre, Colombia, focusing on cloud-penetrating radar scans around mid-day four days from now. This task aligns with our standard operational tasks and represents a baseline pipeline tracking setup with fixed parameters for normal operational status.
