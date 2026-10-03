@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon." This word must appear literally in the final request.
+
+d) The deadline specified is "tomorrow during the afternoon." There is no indication or reason to shift this deadline to any other part of the day. The operational guidelines emphasize adhering strictly to the given temporal parameters, ensuring the data products are delivered by this specific time without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a routine monitoring task for Puerto López, Colombia, focusing on near-infrared reflection to assess water body boundaries and soil moisture levels. This is a standard operational tasking as part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. Please ensure the data capture occurs tomorrow during the afternoon.
