@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context provided by the JSON metadata, we are tasked with capturing a high-resolution active radar scan during the afternoon of tomorrow. This specific request has been identified as having a priority level of 1, classifying it as a low importance task with a flexible schedule for opportunistic capture. The mission will involve utilizing an advanced Synthetic Aperture Radar (SAR) sensor to conduct cloud-penetrating surface imaging on a region within Indonesia, specifically focusing on the city of Ecuatorial.
+
+The primary objective is to obtain detailed microwave surface imagery that can capture ground geometry and features without being obscured by heavy weather conditions. This data collection will be crucial for baseline pipeline tracking and standard operational tasks, contributing to a comprehensive understanding of the area's landscape characteristics and enabling routine monitoring with fixed parameters. The acquisition process must adhere strictly to the deadline set for the target day, which is tomorrow afternoon, without any alteration or extension of the timeframe.
+
+The data products resulting from this task will be instrumental in addressing the needs of various stakeholders involved in environmental management, urban planning, and natural resource assessment. By leveraging the capabilities of the SAR sensor, we aim to provide a valuable resource for decision-making processes that require accurate and reliable information about the region's topography and potential anomalies during daylight hours.
+
+In summary, our operational request involves capturing a high-resolution SAR scan in Indonesia, specifically targeting the city of Ecuatorial during the afternoon on tomorrow, for a routine monitoring task with fixed parameters. This non-essential background filler task holds low priority importance but adheres to strict deadlines to ensure timely delivery of data products that are essential for standard operational tasks and workflow updates.
