@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the task must be completed on this specific day without any alterations to the deadline.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies when during the day the data should be captured, focusing on a particular time frame.
+
+c) The single word contained in the string 'target_diurnal_period' that matches one of the specified options is "mid-day." This word will be used verbatim in the final request to ensure clarity about the timing of the task.
+
+d) It is important to confirm that the deadline, which includes both the day and the diurnal period, is not shifted. The task must be executed on "the day after tomorrow" around "mid-day," adhering strictly to these parameters without any adjustments to the specified time frame.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a thermal mapping mission over Indonesia, specifically focusing on the city of Ecuatorial. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The objective is to capture a heat signature or surface temperature profile using thermal imaging. Please ensure that the data products are delivered by the day after tomorrow around mid-day.
