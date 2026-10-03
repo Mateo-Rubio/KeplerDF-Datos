@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I am tasked with submitting a requirement to our automated satellite constellation planner. The objective is to translate the following JSON metadata into a realistic and conversational English request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+0riginating from its capital city, La Paz, we are focusing on capturing thermal imagery. Given the priority level of 2, this translates to a standard operational tasking within our baseline pipeline tracking setup. The aim is to perform an active radar scan using microwave surface imaging for cloud-penetrating capture and detailed ground geometry analysis.
+
+The target location for today's mission objective is the city of La Paz, situated in Colombia, which will serve as the primary site for our thermal mapping efforts. Our goal here is to acquire a comprehensive heat signature, providing us with valuable data on surface temperature profiles and potential thermal anomalies within this region.
+
+Considering the deadline has been firmly set by an upstream module at "tomorrow around mid-day", it's imperative that we align our operational schedule accordingly to ensure timely delivery of high-quality, actionable data back to ground control for analysis and further decision making processes.
+
+In summary, I request the satellite constellation planner to allocate resources effectively so that by tomorrow around mid-day, we can execute this standard operational tasking aimed at thermal mapping within La Paz, Colombia. The successful completion of this mission will significantly enhance our understanding and monitoring capabilities regarding surface temperature dynamics in highland regions prone to unique climatic conditions.
