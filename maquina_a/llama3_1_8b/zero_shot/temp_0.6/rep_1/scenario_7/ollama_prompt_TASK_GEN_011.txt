@@ -1,0 +1,37 @@
+Translate the raw physical simulation metadata into a single, highly realistic and conversational English request.
+
+The task involves translating the provided JSON metadata into a natural language request that accurately reflects the operational context and requirements. The goal is to generate a clear and concise request that can be executed by the automated satellite constellation planner.
+
+To achieve this, we need to interpret the metadata according to the given operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'region_name', 'country', 'city', and 'landmark' fields from 'location_details' naturally to describe the location.
+   - If any of these fields are "N/A", ignore them and use the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative tone for Priority 3, describing it as an "absolute institutional priority" or a "binding contract requirement".
+   - For Priority 2, use a professional tone, describing it as a "standard operational tasking" or a "routine monitoring" part of a "baseline pipeline tracking" setup.
+   - For Priority 1, use a casual tone, explicitly framing it as a "low priority importance" request with a "flexible schedule".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of the primary_sensor according to the provided operational objectives and descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Reflect the urgency of the deadline naturally, using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+   - Do not alter or extend the deadline; strictly weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase.
+
+Given the target task context JSON:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "France",
+    "city": "Valle-di-Rostino"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Here is the final natural user request:
+
+"Execute an absolute institutional priority tasking for a near-infrared reflection mission in France, specifically targeting the city of Valle-di-Rostino. This mission requires a high-resolution optical snapshot for daylight photography, capturing the near-infrared reflection to assess chlorophyll absorption levels and calculate the NDVI index. The data must be ready by the day after tomorrow around mid-day at the latest."
