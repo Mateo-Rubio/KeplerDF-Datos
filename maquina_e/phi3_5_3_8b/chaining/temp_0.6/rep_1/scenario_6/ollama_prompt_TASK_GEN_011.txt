@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request for our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request that adheres to the following operational guidel0ns:
+
+The target location details indicate we are looking at Rheinwald, Switzerland—a region known for its verdant landscapes. Our focus is on utilizing near-infrared reflection capabilities to perform water body boundary mapping and soil moisture assessment, which will help us discriminate gradients effectively within the environment.
+
+Given these requirements, we need a standard operational tasking that falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status. The request is for an NIR-based multispectral vegetation analysis to assess chlorophyll absorption levels and calculate surface reflectance indices accurately within four days around mid-day.
+
+Please allocate resources accordingly, ensuring that this task aligns seamlessly with our routine monitoring schedule while maintaining a high degree of precision in the data collected for Rheinwald's aquatic and terrestrial systems. The deadline has been resolved by an upstream module as "in four days around mid-day", which we must incorporate verbatim into our request to respect the established timeframe without any modifications or rephrasing.
