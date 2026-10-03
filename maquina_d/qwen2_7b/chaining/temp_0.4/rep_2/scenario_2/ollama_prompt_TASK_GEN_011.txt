@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective involves interpreting the provided JSON format while adhering to specific guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines.
+
+The geographic context is centered on the Italian region of Fobello, with the primary sensor being VNIR (Vegetation Narrowband Infrared). This sensor's role in capturing multispectral vegetation analysis will assess chlorophyll absorption levels or calculate a vegetation NDVI index to understand surface reflectance. The mission allocation priority is set at High Importance, indicating an absolute institutional priority that involves a critical payload capture and an urgent operational execution. This request must be treated as a binding contract requirement with fixed parameters representing normal operational status.
+
+The delivery deadline stipulates that the task must be completed in three days in the morning, without any rephrasing or alteration to this time frame. The geographic location of Fobello, Italy, is described organically, combining the country and city names for a realistic context without including the nested 'landmark' field as it was not provided.
+
+In summary, my request to the automated satellite constellation planner is as follows:
+
+"Please capture a high-resolution multispectral vegetation analysis using VNIR technology in Fobello, Italy, for an absolute institutional priority task. This involves assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance. The mission must be treated with urgency as part of normal operational status, fulfilling fixed parameters essential for baseline pipeline tracking. The deadline is set for three days in the morning, adhering to the predefined upper limit for data availability without any adjustments."
+
+This request encapsulates the guidelines provided, translating the raw physical simulation metadata into a conversational English format suitable for an automated satellite constellation planner.

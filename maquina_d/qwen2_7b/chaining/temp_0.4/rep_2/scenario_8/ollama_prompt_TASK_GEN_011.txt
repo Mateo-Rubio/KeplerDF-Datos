@@ -1,0 +1,14 @@
+```prompt
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this information into a single request that maximizes naturalness and validation accuracy by interpreting the data organically according to specific operational guidelines.
+
+The geographic context involves a target location in Arsiero, Italia, which is part of the broader region named "region_name". The primary sensor specified for this mission is VNIR, indicating the goal is to conduct multispectral vegetation analysis. The aim is to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance, providing valuable insights into the health and condition of the vegetation.
+
+The mission allocation priority is set at medium importance (Priority 2), which means this request should be treated as a standard operational tasking with fixed parameters representing normal operational status or part of a baseline pipeline tracking setup. The language must convey professional, direct, and standard operational tones without implying urgency or contractual binding.
+
+The deadline for this task is "in four days in the morning", indicating the upper limit for data availability has already been resolved by an upstream module. This phrase must be inserted verbatim into the request, without any rephrasing, shortening, or relocation to a different part of the day.
+
+In conclusion, my request to the satellite constellation planner is as follows:
+
+"Please capture multispectral vegetation analysis using VNIR technology for Arsiero, Italia, on the target day which is four days ahead in the morning. This task requires standard operational status with fixed parameters and should be treated as a routine monitoring activity part of our baseline pipeline tracking setup."
+
+This request ensures that the satellite constellation planner understands the mission's priority level, geographic context, sensor objectives, and delivery deadline, facilitating efficient allocation and execution of the task."

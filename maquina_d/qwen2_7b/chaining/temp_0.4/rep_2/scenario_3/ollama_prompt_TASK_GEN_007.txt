@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
+
+The geographic context involves Colombia, specifically the city of Istmina. We're focusing on capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation. Given the location details, we aim to provide detailed insight into the region's landscape without relying on raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is set at Level 1, indicating low importance with a flexible schedule for opportunistic capture. This task is labeled as a "non-essential background filler task" that can be dropped or rescheduled at convenience, treated as a background survey or testbed tracking task. The language reflects a casual, highly flexible tone, emphasizing the nature of this request as not requiring urgent operational execution.
+
+The primary sensor to be used is VIS (visual imagery sensor), which will enable us to capture the essence of Colombia's beauty through its daylight photography capabilities. This sensor will provide us with clear optical imagery that can help in understanding the region's geographical features and natural beauty without any interference from clouds or weather conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data availability "in four days overnight". We must include this phrase verbatim in our request, as it represents the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request is to capture a high-resolution optical snapshot of Colombia's Istmina region using a VIS sensor, with an emphasis on daylight photography and clear optical imagery. This task has been allocated at Level 1 priority, indicating a low importance with a flexible schedule for opportunistic capture. The deadline for data availability is set at "in four days overnight", as determined by an upstream module.

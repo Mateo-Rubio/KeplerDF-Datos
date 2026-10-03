@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The provided JSON format contains essential details for this task. 
+
+The geographic context involves the 'region_name' and nested 'location_details'. In this case, the country is "Italia" and the city is "Sizzano". I combine these natural elements to describe the location as a picturesque Italian setting in Sizzano, a charming town in the heart of Italia.
+
+Regarding mission allocation priority, the 'priority_level' indicates the importance of this task. Since it's set at Priority 1 (Low Importance), I frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This is explicitly noted as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treated as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are outlined by the 'primary_sensor'. Given it's set to SAR (Synthetic Aperture Radar), I interpret this as an "active radar scan" using "microwave surface imaging". This method is used for capturing ground geometry, especially in conditions where "cloud-penetrating capture" is necessary, ensuring comprehensive data collection regardless of weather.
+
+The 'target_day' and 'target_diurnal_period' keys provide the deadline for this task. The specific phrase "in three days around mid-day" is inserted verbatim into the request to denote the upper limit for data availability, maintaining the formal structure without altering or shortening it.
+
+In summary, my request is as follows:
+
+As an Earth-observation mission operator focusing on the Italian region of Sizzano, I need to execute a low priority task involving an active radar scan using microwave surface imaging. This task requires capturing ground geometry around mid-day in three days, with flexibility for scheduling adjustments. The objective is to gather comprehensive data that can serve as a background survey or testbed tracking task, contributing to our understanding of the region's natural features and environmental conditions without imposing strict deadlines or priorities beyond their operational context.
