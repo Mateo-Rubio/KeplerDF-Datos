@@ -1,0 +1,14 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original request specifies "tomorrow" as the target day, and I will include the word "mid-day" in the final request without altering the deadline.
+
+Let's proceed to STAGE 2.
+
+```prompt
+Please task the satellite to capture a high-resolution active radar scan using microwave surface imaging for cloud-penetrating capture around mid-day tomorrow. This is a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The location details indicate that we are targeting the area around Norte, and this request is a routine monitoring task as per our commercial tasking requirements.
