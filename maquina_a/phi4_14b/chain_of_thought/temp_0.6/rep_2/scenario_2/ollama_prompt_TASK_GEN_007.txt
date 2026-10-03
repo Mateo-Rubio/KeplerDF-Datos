@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+To begin with, let's examine the key temporal parameter 'target_day'. The exact string provided for this is "tomorrow". This indicates that the data acquisition should be completed by the day after today. Next, we turn our attention to 'target_diurnal_period', which is explicitly stated as "overnight". This suggests that the satellite capture needs to occur during the night hours of the specified day.
+
+Continuing with the analysis, within the string "overnight", the word that appears and is relevant for our context is "overnight" itself. This term clearly indicates the time frame during which the satellite should perform its task, specifically during the nighttime period.
+
+Finally, it's essential to confirm that we are adhering to the specified deadline without any modifications. The requirement is to capture data "tomorrow overnight". Therefore, there is no shifting of the deadline to any other part of the day such as morning or afternoon; we must strictly follow the given parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial mission over the region of San Joaquín in Colombia. The objective is to utilize near-infrared reflection capabilities to map water body boundaries and assess soil moisture levels, which are vital for agricultural monitoring and resource management. This request falls within our baseline pipeline tracking as part of routine monitoring with fixed parameters representing normal operational status. Please ensure that the data products are delivered by tomorrow overnight, adhering strictly to this deadline.

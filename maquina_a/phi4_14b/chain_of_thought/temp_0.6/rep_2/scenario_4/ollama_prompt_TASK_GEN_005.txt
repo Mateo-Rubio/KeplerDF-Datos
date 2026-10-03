@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' key contains the exact string "the day after tomorrow." This indicates a specific deadline for when the data products must be delivered, and it is crucial to adhere strictly to this timeframe without any alterations.
+
+The 'target_diurnal_period' key contains the exact string "during the afternoon." This specifies the time of day when the satellite observation should occur. The word "afternoon" is explicitly mentioned here and must be included in the final request.
+
+From the options provided, the single word contained in the 'target_diurnal_period' string is "afternoon." This word will be used verbatim in the final request to ensure clarity regarding the timing of the observation.
+
+It is essential to confirm that there is no intention to shift the deadline to an adjacent part of the day. The operational guidelines emphasize that the temporal parameters represent a strict deadline for delivering data products, not the orbital capture window. Therefore, the observation must occur "during the afternoon" on "the day after tomorrow," adhering strictly to these specified conditions.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority mission with a binding contract requirement for a critical payload capture. We urgently need an active radar scan using microwave surface imaging to obtain cloud-penetrating capture of the ground geometry in Santa Giustina, Italy. This task is un-preemptable and must be executed on the day after tomorrow during the afternoon. The data is crucial for our operational objectives, and it is imperative that this mission lock is adhered to without deviation.

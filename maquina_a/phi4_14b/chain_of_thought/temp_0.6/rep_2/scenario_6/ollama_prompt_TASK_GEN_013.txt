@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today." This indicates that the task needs to be executed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when during the day the observation should occur.
+
+c) The single word contained in the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word must be used literally in the final request.
+
+d) It's important to confirm that the deadline is not being shifted to another part of the day. The task specifies "today" and "in the evening," so the observation must occur during this precise timeframe without any alterations or shifts to other parts of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for an urgent operational execution involving a critical payload capture over Tocaima, Colombia. This mission is a binding contract requirement and must be completed today, specifically in the evening. The task involves capturing high-resolution multispectral imagery using a VNIR sensor to conduct vegetation analysis, focusing on assessing chlorophyll absorption levels and calculating the NDVI index. This is an un-preemptable mission lock with no room for rescheduling, ensuring that this critical data capture is prioritized above all other tasks.

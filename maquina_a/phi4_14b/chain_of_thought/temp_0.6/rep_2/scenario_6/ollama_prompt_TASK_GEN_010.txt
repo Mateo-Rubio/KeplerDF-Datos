@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed on the next day from when the request is made.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the data capture should occur.
+
+c) The single word contained in that string which must appear literally in the final request is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day. The requirement explicitly states "during the afternoon," and I will adhere strictly to this timeframe without any adjustments or reinterpretations.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for Medio Baudó, Colombia, involving a commercial tasking as part of our baseline pipeline tracking setup. This involves executing an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, focusing on ground geometry. The data collection is scheduled for tomorrow during the afternoon, ensuring fixed parameters that represent our normal operational status and workflow update.
