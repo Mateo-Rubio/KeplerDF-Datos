@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The single word contained in that string is "mid-day".
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains precisely at mid-day tomorrow.
+
+STAGE 2:
+
+Given the operational guidelines and the provided JSON metadata, our Earth-observation mission task is as follows:
+
+The request involves capturing data using a Near-Infrared (NIR) sensor for monitoring conditions in Indonesia's Rokan Hulu region. This task is of medium importance, as indicated by the priority level of 2, reflecting standard operational tasks with fixed parameters and normal operational status.
+
+The primary objective is to gather detailed information about water body boundaries and soil moisture levels around mid-day tomorrow. The "around mid-day" timeframe signifies the strict deadline for delivering the data products, which is not subject to alteration or extension.
+
+To meet this requirement, our automated satellite constellation planner will allocate resources accordingly, ensuring that the mission's execution adheres to the specified priority level and temporal constraints. The data collected will provide valuable insights into water management and soil health in the region, supporting decision-making processes based on accurate and timely information.

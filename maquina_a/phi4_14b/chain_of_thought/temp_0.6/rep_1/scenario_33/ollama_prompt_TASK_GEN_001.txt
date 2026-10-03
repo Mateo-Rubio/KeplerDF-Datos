@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in three days". This indicates the specific time frame within which the data products are expected to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "in the morning". This specifies when during the day the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string 'target_diurnal_period' is "morning". This word must be included literally in the final request to accurately describe the timing of the task.
+
+d) The information provided explicitly states the deadline as "in three days" and "in the morning", with no indication or permission to shift this deadline to any other part of the day. It's crucial to adhere strictly to these specified parameters for the task, ensuring that the mission aligns with the operational deadline requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request for an opportunistic capture over Colombia, specifically around the area of Dolores. The task involves a flexible schedule and should be treated as a non-essential background filler task. At your convenience, please consider this as a testbed tracking task that can be dropped or rescheduled if necessary. We require an active radar scan utilizing microwave surface imaging for cloud-penetrating capture, which will aid in capturing ground geometry. This data collection should occur in three days and is specifically targeted to take place in the morning.
