@@ -1,0 +1,13 @@
+Translate this physical simulation metadata into a detailed task request for our automated satellite constellation planner:
+
+Our objective is to capture a highly realistic and conversational English request based on the provided JSON data. We are tasked with gathering data using the 'SAR' sensor over an area in Colombia, specifically focusing on the city of Cimitarra. This mission falls under the category of 'low importance' as it carries a priority level of 1.
+
+The geographic context suggests we are looking at a location within Colombia's boundaries and targeting the city of Cimitarra for our observations. Given that no specific country, city, or landmark details are provided beyond this, we will describe the area using these fields combined with the 'region_name' if applicable. Since Colombia is the only provided country detail, it suffices to specify our focus on a particular city named Cimitarra.
+
+For the mission allocation priority, we interpret this as a 'low priority importance' request that is part of our baseline pipeline tracking setup. The language must be casual and highly flexible, with an explicit note that this task has a "flexible schedule" for "opportunistic capture" and can be treated as a "background survey" or "testbed tracking task".
+
+The primary sensor, 'SAR', dictates the operational objectives of our mission. This sensor enables us to perform an active radar scan using microwave surface imaging technology. It will allow us to capture cloud-penetrating images, piercing through heavy weather conditions or capturing ground geometry with remarkable detail.
+
+Our mission deadline is set for "the day after tomorrow in the evening". We have been allocated this time frame as the upper limit for data availability and must include this phrase verbatim in our request. There are no raw UTC timestamps, digits, or countdown metrics to be included.
+
+To sum up, our task request should articulate an 'opportunistic' approach to gathering SAR data over Cimitarra on a low-priority mission that requires capturing cloud-penetrating images of ground geometry with a flexible schedule and a deadline set for the evening of the day after tomorrow. The final request encapsulates the essence of this mission within the guidelines provided, ensuring it is both natural and operationally accurate.

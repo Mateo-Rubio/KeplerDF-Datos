@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English task request. The task involves utilizing the automated satellite constellation planner for a mission allocation priority that aligns with our operational guidelines.
+
+The geographic context necessitates a natural interpretation of 'region_name' and nested 'location_details'. Our target location is in Italia, specifically in Norte, combining these fields to create a realistic description without relying on raw technical system tags, underscores, or coordinate arrays. If necessary, we can describe the location using only the remaining valid fields or the clean 'region_name'.
+
+Given the mission allocation priority level of 3 (High Importance), we must frame this request with an authoritative tone that reflects an "absolute institutional priority" or a "binding contract requirement". We are tasked with capturing a "critical payload" under an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the importance of adhering to fixed parameters representing our "normal operational status" or a standard "workflow update".
+
+Our primary sensor is set to SAR, which involves an "active radar scan" utilizing "microwave surface imaging". This task aims to penetrate heavy weather conditions or capture ground geometry, requiring a cloud-penetrating capability for comprehensive data collection.
+
+For the delivery deadline, we've resolved this task based on an upstream module's decision. Our target day is tomorrow, with the specific time frame being "in the morning", which must be included verbatim in our request. This phrase denotes the upper limit for data availability without rephrasing or shortening it and without altering the timing to a different part of the day.
+
+In conclusion, this task requires a highly flexible approach, with the operator noting that it is a "low priority importance" request with a "flexible schedule" for "opportunistic capture". We should treat it as a "background survey" or "testbed tracking task" where drop or rescheduling can be done at our convenience.
+
+This task request encapsulates the essence of our mission, ensuring that the translation from raw metadata to a conversational English request is natural and maximizes the validation accuracy of the dataset.

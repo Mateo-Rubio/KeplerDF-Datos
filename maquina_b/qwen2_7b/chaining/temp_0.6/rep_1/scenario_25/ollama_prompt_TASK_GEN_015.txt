@@ -1,0 +1,11 @@
+Translate the raw physical simulation metadata into a single, highly realistic English request:
+
+In accordance with our operational guidelines, I hereby submit a task request for an Earth-observation mission operator to translate raw physical simulation metadata provided in JSON format. The objective is to capture a daylight photographic snapshot of a location in Indonesia's equatorial region using a high-resolution optical sensor. This request is framed as a low priority importance task with a flexible schedule, classified as a non-essential background filler task or an opportunistic survey. The operator is explicitly noted to drop or reschedule this task at their convenience, treating it as a background survey or testbed tracking task.
+
+The mission's geographic context involves an equatorial location in Indonesia, though specific details about the country and city are not provided. The primary sensor for this task is a VIS sensor, which will be used to capture clear optical imagery of the region for true-color visual documentation purposes. 
+
+This task is allocated with a priority level of 1, indicating low importance for mission allocation authority and asset contractual value. This does not pertain to how close the deadline is but rather reflects an institutional priority that is not time-sensitive or mission-critical.
+
+The delivery deadline for this task has already been resolved by an upstream module, set for "tomorrow in the morning". The data availability upper limit must be included verbatim in the request.
+
+Please ensure that raw technical system tags, underscores, coordinate arrays, or raw priority numbers are not used in your final output. Instead, combine the JSON parameters naturally, interpreting them organically according to the provided guidelines.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context for this mission involves the location of Prati di Tivo, in the beautiful country of Italia. The primary sensor involved will be the VNIR, aimed at capturing a "multispectral vegetation analysis" that assesses the chlorophyll absorption level to calculate the vegetation NDVI index and surface reflectance.
+
+With the priority level set to medium importance (2), this task is part of our standard operational tasking or commercial tasking. It represents a fixed parameter setup for baseline pipeline tracking with normal operational status, implying that it's part of our standard workflow update and does not require any preemption.
+
+The delivery deadline is "in four days in the morning". This means the data will be available by that specified time. The request does not specify raw technical systems tags or coordinate arrays; instead, I aim to describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are 'N/A', we'll describe the location using the remaining valid fields or clean 'region_name'.
+
+Our goal is to gather comprehensive data that will help us understand and monitor environmental changes, agricultural health, and land use dynamics. The VNIR sensor enables us to capture detailed information about vegetation conditions without being affected by cloud cover or atmospheric disturbances.
+
+In conclusion, this task is part of our ongoing efforts to provide valuable insights for decision-makers in agriculture, conservation, and urban planning. We aim to complete this mission efficiently while ensuring that the data meets the quality standards required for our operational pipeline.
+
+Looking forward to your confirmation on the task allocation.
