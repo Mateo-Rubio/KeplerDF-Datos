@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The JSON format below contains information on the target location, primary sensor, priority level, delivery deadline, and target day and diurnal period.
+
+The geographic context of our mission involves a location in Colombia, specifically the city of Sabana de Torres, which is a unique and captivating area to observe from space. This region is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The request for this task falls under the category of a low priority importance, allowing for flexible scheduling to accommodate opportunistic capture.
+
+The primary sensor planned for this mission is VIS (visual imagery), which will be used to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. This sensor aims to provide us with valuable insights into the region's landscape and environment under natural light conditions.
+
+We are targeting the delivery deadline of "in three days overnight" as the upper limit for data availability, ensuring we receive our findings well in advance of this specified time frame. This timeframe is crucial to our workflow update without requiring any adjustments or dropping tasks at convenience.
+
+In conclusion, our request encapsulates a low priority importance task that involves capturing high-resolution optical snapshots using VIS sensor technology from a location in Sabana de Torres, Colombia. We aim to receive this data by the deadline of "in three days overnight" as part of our normal operational status and baseline pipeline tracking setup.

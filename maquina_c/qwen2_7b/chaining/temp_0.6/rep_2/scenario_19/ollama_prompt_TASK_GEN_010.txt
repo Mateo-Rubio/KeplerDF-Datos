@@ -1,0 +1,26 @@
+```prompt
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, we aim to translate raw physical simulation metadata into a highly realistic and conversational English request. Our objective is to gather detailed information about the operational guidelines provided for interpreting the data:
+
+1. GEOGRAPHIC CONTEXT: We describe the location by combining 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' and 'city' are specified here, we refer to "Puerto Wilches", Colombia. The description does not include invalid tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: Given the 'priority_level' is 1 (low importance), we frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This is labeled as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We interpret 'primary_sensor' as "TIR" (thermal infrared sensor). The goal is to capture a "heat signature", which implies collecting data on surface temperature profiles and thermal anomaly detection.
+
+4. DELIVERY DEADLINE: The task deadline is specified as "tomorrow in the evening", which is directly inserted into the request without rephrasing or alteration.
+
+Based on these guidelines, our request to the satellite constellation planner would be structured as follows:
+
+---
+
+[Assuming this as the input data, we now craft the request]
+
+---
+
+As per the operational guidelines provided for the translation of raw physical simulation metadata, our request involves the utilization of a thermal infrared (TIR) sensor. This mission aims to capture heat signatures over Puerto Wilches, Colombia. Given its low priority level and flexible schedule, this task is categorized as a "background survey" or "testbed tracking task", highlighting that it can be dropped or rescheduled at convenience.
+
+The data collection for this mission is scheduled for tomorrow evening, adhering to the deadline provided by our upstream module. The primary objective is thermal mapping, which involves identifying surface temperature profiles and detecting thermal anomalies across the region.
+
+---
+
+Please note that the specific wording and structure used above are illustrative of how the request might be formulated based on the guidelines provided. Actual requests would need to be tailored more closely to the specific operational context and language preferences of the satellite constellation planner or the mission's team.

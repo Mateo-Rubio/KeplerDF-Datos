@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, I hereby translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. The operation involves the 'primary_sensor' VNIR, which is naturally interpreted as "multispectral vegetation analysis" aimed at assessing the "chlorophyll absorption level". This observational task will be carried out in Malaysia, with a specific focus on the city of Tatau, as part of a "background survey".
+
+Given the operational guidelines, the 'priority_level' of 1 indicates this request is of "low priority importance". The phrase "flexible schedule" for "opportunistic capture" frames this task as a "non-essential background filler" within our pipeline tracking setup. We emphasize that it represents "normal operational status", with "fixed parameters" that signify "standard workflow update".
+
+The geographic context provides us with the 'location_details', which are naturally integrated into our request. The 'country' field, Malaysia, and the 'city' field, Tatau, are combined to offer a realistic location description suitable for our observational needs. If any of these details were "N/A", we would gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline has been resolved by an upstream module, and it's set for "tomorrow overnight". This phrase is included verbatim in our request, as the stated upper limit for data availability.
+
+In conclusion, this task request is crafted with these operational guidelines in mind to ensure naturalness and validation accuracy in our dataset. By interpreting each key element of the JSON metadata organically and translating it into a conversational English request, we are maximizing the quality and realism of our Earth-observation missions.

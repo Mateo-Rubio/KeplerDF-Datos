@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a highly realistic English task request. The mission involves capturing data for Malaysia, specifically focusing on Kuning Selatan, with an emphasis on a standard operational tasking due to its medium importance level. The primary sensor deployed will be the VIS, aiming to gather high-resolution optical imagery for daylight photography and true-color visual documentation of the region.
+
+The operational guidelines dictate that we should avoid raw technical system tags or coordinate arrays, instead opting to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is not available, we will incorporate details like 'country' and 'city' for a comprehensive description.
+
+With tomorrow evening as the deadline for data availability, this task is part of the baseline pipeline tracking setup with fixed parameters representing normal operational status. The language should reflect this structural hierarchy without mentioning raw priority numbers or technical priority levels.
+
+To summarize the request: "Capture high-resolution optical snapshots of Malaysia's Kuning Selatan region using the VIS sensor. This task is scheduled for tomorrow evening to contribute to our standard baseline pipeline tracking activities, representing normal operational status with fixed parameters."
+
+This request ensures that the dataset is maximized in naturalness and validation accuracy while adhering to the specific operational guidelines provided."

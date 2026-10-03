@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request:
+
+I'm an Earth-observation mission operator tasked with submitting a task request to an automated satellite constellation planner. The objective is to convert the provided JSON data, which outlines a specific operational task for today in the evening, into a natural and detailed request that aligns with the guidelines.
+
+Geographically, we're focusing on Colombia's Otanche region. This location is described as being within a country not explicitly detailed but richly characterized by its city and landmark details. Thus, our request will paint a vivid picture of this operational setting without resorting to technical jargon or raw coordinate arrays.
+
+The mission priority level is set at Low Importance (Priority 1), indicating that this task is part of the flexible schedule meant for opportunistic capture or background survey work. We emphasize treating it as a non-essential background filler task, where the operator can drop or reschedule it according to their convenience without affecting the operational flow.
+
+The primary sensor involved is VIS, standing for high-resolution optical snapshot. This translates to capturing a daylight photography essence through clear optical imagery or true-color visual documentation of the targeted region. The purpose here is to gather detailed visual information that can be used for various applications such as land use monitoring, urban planning, or environmental studies.
+
+Given that today in the evening is the deadline for this task, we integrate this phrase verbatim into our request, highlighting the urgency and the upper limit for data availability without altering its meaning or moving it to a different part of the day. This ensures clarity on when the satellite constellation needs to be tasked.
+
+In summary, our Earth-observation mission operator is submitting a request to observe Colombia's Otanche region using a VIS sensor in the evening today. The task is categorized as low priority, indicating an opportunistic capture with a flexible schedule for background surveying or testbed tracking tasks. This request is designed to align with operational guidelines that emphasize natural language integration and realistic contextual descriptions while adhering to technical details provided in JSON format.
