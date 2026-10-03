@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating the provided JSON metadata into a natural and conversational request for an Earth-observation mission.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the data collection needs to occur two days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should take place.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options provided is "overnight." This word must appear literally in the final request to accurately reflect the timing of the mission.
+
+d) It is crucial to confirm that the deadline is not shifted to any other part of the day. The task requires the observation to occur specifically during the overnight period on "the day after tomorrow," without any alterations or extensions to this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for a multispectral vegetation analysis over Trujillo, Colombia. This mission involves capturing data using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the observation occurs overnight on the day after tomorrow, as this aligns with our routine monitoring schedule.

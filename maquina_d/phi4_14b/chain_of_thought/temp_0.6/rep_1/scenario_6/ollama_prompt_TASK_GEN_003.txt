@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task involves translating metadata from a JSON format into a conversational English request for an Earth-observation mission. Let's break down the components as per the guidelines provided:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This phrase indicates a specific point in time relative to the current date, which is crucial for planning the mission's timeline without altering the deadline.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the observation should occur, focusing on capturing data when certain conditions are met or phenomena are best observed.
+
+c) From the provided options {morning, mid-day, afternoon, evening, overnight}, the single word contained in the string 'target_diurnal_period' is "overnight". This term will be used verbatim in the final request to ensure clarity and adherence to the specified timing for data capture.
+
+d) It's important to confirm that the deadline, as specified by 'target_day' and 'target_diurnal_period', is not shifted to an adjacent part of the day. The instructions emphasize maintaining the strict operational deadline without any alterations. Therefore, the observation must occur overnight on "the day after tomorrow", without shifting this timeframe to any other part of the day or extending it beyond the specified period.
+
+### Stage 2 - Final Request
+
+We have a low priority importance request for an Earth-observation mission targeting Malinau, Indonesia. This mission involves conducting thermal mapping to capture heat signatures and surface temperature profiles in the area. The primary sensor for this task is equipped for thermal infrared (TIR) imaging, which will be crucial for detecting thermal anomalies and mapping heat emissions across the landscape. Given the nature of the request, we're looking at a flexible schedule with an opportunistic capture approach. This means the mission can be dropped or rescheduled at convenience, treating it as a non-essential background filler task within our broader observation program. The specific data capture is scheduled for overnight on "the day after tomorrow". This timing is chosen to ensure optimal conditions for thermal imaging, leveraging the cooler temperatures and reduced interference that typically occur during this period. The flexibility of this task allows us to prioritize resources effectively while still gathering valuable data as part of our ongoing environmental monitoring efforts.
