@@ -1,0 +1,32 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+To achieve this, we will follow the operational guidelines provided:
+
+1. GEOGRAPHIC CONTEXT:
+   - The location is situated in the region of 'Italia', specifically in the city of 'Povici di sotto'. We will describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - The priority level indicates mission allocation authority and asset contractual value, not how close the deadline is. We will integrate specific operational phrases to reflect this structural hierarchy.
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - The primary sensor is TIR, which we will interpret as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+4. RELATIVE TIMEFRAMES:
+   - The temporal parameters represent a strict operational deadline to deliver the data products to the user, not the orbital capture window. We will weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Based on the target task context JSON:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Povici di sotto"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+The final natural user request is:
+
+"Translate this thermal mapping task as an absolute institutional priority, capturing a heat signature and surface temperature profile in Povici di sotto, Italy, by delivering the products with a strict deadline set for in four days in the morning at the latest."
