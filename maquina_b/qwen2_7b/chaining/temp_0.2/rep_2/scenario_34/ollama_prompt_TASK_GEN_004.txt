@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing thermal mapping data over the region of Colombia, specifically Vegachí city. This location requires a detailed understanding of its surroundings without relying on raw technical system tags or coordinate arrays. Instead, we describe it using the country, city, and landmark fields from 'location_details'. If necessary, we combine these parameters naturally to provide a realistic description.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is part of a flexible schedule for opportunistic capture. It's labeled as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This task is treated as a "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The primary sensor involved in this mission is TIR (Thermal Infrared). The operational objective here is to perform thermal mapping, capturing a "heat signature" or "surface temperature profile". This task aims to detect thermal anomalies and map heat emissions effectively.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set for today during the afternoon, with the upper limit for data availability being clearly stated as "today during the afternoon". We do not output raw UTC timestamps, digits, or countdown metrics but instead insert this phrase verbatim into our request.
+
+In summary, our request to the satellite constellation planner is to capture thermal mapping data over Colombia's Vegachí city using a TIR sensor. This task is part of a low priority importance schedule with a flexible deadline set for today during the afternoon. The goal is to detect thermal anomalies and map heat emissions effectively, contributing to our ongoing Earth observation efforts.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a low priority importance mission allocation. The primary sensor designated for this task is near-infrared (NIR), which will be used for water body boundary mapping and soil moisture assessment. This task involves capturing the heat signature, surface temperature profile, or thermal anomaly detection through the observation of thermal emissions.
+
+The geographic context for this mission is Colombia, specifically focusing on the city of Carmen del Darién (Curbaradó). The request is part of a background survey, with flexible scheduling for opportunistic capture. It's explicitly noted that this task can be dropped or rescheduled at convenience, treating it as a non-essential background filler task.
+
+The deadline for this task has already been resolved by an upstream module, and the upper limit for data availability is today in the evening. The request does not include raw UTC timestamps, digits, or countdown metrics but rather emphasizes the importance of adhering to the specified time frame.
+
+In summary, this mission aims to gather critical information on water body boundaries and soil moisture using near-infrared technology, with a focus on capturing thermal emissions during the evening hours in Colombia. The task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
