@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates when the data product needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite should capture the imagery.
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) The deadline specified as "in four days, around mid-day" is strict and should not be shifted to an adjacent part of the day. The task must be executed precisely at this time to meet the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a near-infrared reflection capture over Rheinwald, Switzerland. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to perform water body boundary mapping or soil moisture assessment in this region. Please ensure that the data product is delivered in four days, around mid-day, adhering to the specified deadline without any alterations.

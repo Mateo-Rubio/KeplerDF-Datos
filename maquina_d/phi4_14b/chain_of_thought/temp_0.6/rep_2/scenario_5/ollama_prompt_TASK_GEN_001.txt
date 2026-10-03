@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the task is scheduled to be completed two days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data collection should occur.
+
+c) The single word contained in the string "in the evening" that matches the given options is "evening." This word will be used literally in the final request to specify the timing of the task.
+
+d) The deadline specified by the target day and diurnal period is "the day after tomorrow, in the evening." There is no indication or need to shift this deadline to any other part of the day. It is crucial to adhere strictly to this schedule to ensure timely delivery of the data products as required by the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for a multispectral vegetation analysis over Curití, Colombia. This involves assessing chlorophyll absorption levels and calculating an NDVI index using the VNIR sensor. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the data capture occurs on the day after tomorrow, in the evening. This fits within our routine monitoring schedule and should be treated as a commercial tasking.
