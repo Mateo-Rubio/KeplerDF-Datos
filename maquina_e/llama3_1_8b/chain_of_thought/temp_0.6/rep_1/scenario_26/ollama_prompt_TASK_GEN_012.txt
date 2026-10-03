@@ -1,0 +1,13 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The original request explicitly states a mission allocation priority, which implies that the deadline is fixed and not flexible.
+
+Moving on to STAGE 2, here's the final request:
+
+...We require a standard operational tasking for commercial tasking as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This involves a routine monitoring task using multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. The target location is in Ecuatorial, and we need this task completed by tomorrow in the morning...

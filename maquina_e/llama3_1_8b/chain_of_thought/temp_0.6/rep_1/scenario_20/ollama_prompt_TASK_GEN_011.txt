@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The original request specifies a target day as "tomorrow", and I will maintain this deadline in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+"Capture high-resolution thermal mapping using active microwave surface imaging for overnight thermal anomaly detection and heat signature analysis over the region of Sabaudia, Italia. This is an absolute institutional priority, as it represents a critical payload capture requirement tied to a binding contract involving a mandatory directive for urgent operational execution. The data products must be delivered by tomorrow."
