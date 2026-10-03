@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific time frame by which the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string is "mid-day." This word will be used literally in the final request to describe the timing of the observation.
+
+d) The deadline specified as "in three days" with a diurnal period of "around mid-day" is strict and must not be shifted to any other part of the day. It is crucial to adhere to this timeframe for the operational execution.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking request for a multispectral vegetation analysis over Banyuasin, Indonesia. This mission involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index using VNIR sensors. The task is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The observation should be captured in three days around mid-day to ensure accurate data collection for routine monitoring purposes.

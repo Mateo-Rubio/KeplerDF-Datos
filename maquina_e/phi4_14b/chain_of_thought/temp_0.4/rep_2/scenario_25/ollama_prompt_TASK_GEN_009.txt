@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This phrase specifies the deadline for delivering the data products.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates the time frame during which the satellite capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string 'target_diurnal_period' is "overnight." This must be included literally in the final request to describe when the data capture should take place.
+
+d) It is crucial to confirm that the deadline is not being shifted to another part of the day. The specified "overnight" period aligns with the original requirement, ensuring no alteration or extension of the intended timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance satellite tasking for an opportunistic capture in Malinau, Indonesia. This is a non-essential background filler task that can be adjusted or rescheduled at your convenience. The objective is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture. The data should be delivered by the day after tomorrow, with the satellite capturing the required imagery overnight.
