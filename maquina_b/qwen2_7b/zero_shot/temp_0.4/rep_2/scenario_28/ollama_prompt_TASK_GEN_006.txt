@@ -1,0 +1,7 @@
+Your Earth-observation mission operator is requesting a task involving a low priority importance, focusing on the primary sensor VNIR for a daylight photography mission. The objective is to conduct a multispectral vegetation analysis in the region of Indonesia, specifically around the Ecuatorial city, capturing the chlorophyll absorption level and calculating the NDVI index and surface reflectance.
+
+The mission allocation priority is set at low importance, indicating that this request is part of a flexible schedule for opportunistic capture. The operator explicitly notes that this task can be dropped or rescheduled as convenience dictates, treating it as a non-essential background filler task.
+
+The deadline for delivering the data products is set for the day after tomorrow, with a strict delivery deadline marked around mid-day. This means that all efforts must ensure the products are ingested into the pipeline before the specified time on the target day. The urgency of this deadline should be clearly communicated to emphasize that it represents the upper limit for data availability and not an orbital capture window.
+
+In summary, your automated satellite constellation planner should prepare for a routine monitoring task with standard parameters, focusing on the Ecuatorial region in Indonesia using VNIR sensors around mid-day on the day after tomorrow. The operator's note on flexibility indicates that this request can be adjusted as needed to accommodate other priorities without impacting the overall operational status.
