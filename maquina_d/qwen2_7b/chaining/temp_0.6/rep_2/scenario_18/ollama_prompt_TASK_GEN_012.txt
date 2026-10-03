@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request that maximizes naturalness and validation accuracy. The operational guidelines guide us through interpreting various keys such as GEOGRAPHIC CONTEXT, MISSION ALLOCATION PRIORITY, SENSORS AND PHYSICAL OBJECTIVES, and DELIVERY DEADLINE.
+
+The GEOGRAPHIC CONTEXT requires us to combine 'region_name', 'country', 'city', and 'landmark' fields naturally. Here, the country is "Indonesia", but the city details are "Tanjung Jabung Timur", which we will describe with realism by focusing on the country without specifying a city as the request focuses on operational context rather than geographical detail.
+
+The MISSION ALLOCATION PRIORITY is determined by the 'priority_level'. For this task, it's set at Priority 1, indicating low importance. This should be communicated in a casual tone, treating it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It's framed as a "non-essential background filler task" that operates under the label of a "background survey" or a "testbed tracking task".
+
+The SENSORS AND PHYSICAL OBJECTIVES key points to 'primary_sensor' being set to "SAR", which we interpret as an "active radar scan". This means using "microwave surface imaging" for this task, aiming to capture ground geometry that can pierce through heavy weather conditions. The goal is to obtain a "cloud-penetrating capture" of the region's landscape for detailed mapping.
+
+The DELIVERY DEADLINE is set for "tomorrow in the morning". This phrase must be included verbatim into our request as it represents the upper limit for data availability from an upstream module.
+
+To synthesize these guidelines, here's how we translate the JSON data into a single, highly realistic and conversational English request:
+
+"Please capture an active radar scan over Indonesia using microwave surface imaging. Focus on Tanjung Jabung Timur to capture ground geometry that can pierce heavy weather conditions, aiming for a 'cloud-penetrating capture'. Treat this task as a low priority importance request with a flexible schedule for opportunistic capture, labeling it as a 'background survey' or 'testbed tracking task'. The deadline is set for tomorrow in the morning. Ensure all data is available by this time for efficient processing."
+
+This request integrates the operational guidelines to provide a clear, natural, and detailed instruction based on the provided JSON metadata.

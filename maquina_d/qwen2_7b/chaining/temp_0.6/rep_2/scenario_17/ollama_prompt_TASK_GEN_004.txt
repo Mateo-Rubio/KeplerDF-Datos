@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The objective is to craft a single command that maximizes the naturalness and validation accuracy of the dataset by interpreting the operational guidelines provided.
+
+Let's consider the target context JSON: primary_sensor="VNIR", location_details={"country": "Colombia", "city": "Caramanta"}, priority_level=1, target_day="in three days", target_diurnal_period="in the evening".
+
+The request should be framed in a casual tone, treating this as a low priority importance task with a flexible schedule for opportunistic capture. This is described as a background survey or testbed tracking task.
+
+We are to use the VNIR sensor to conduct multispectral vegetation analysis, aiming to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance. The goal is to capture essential data on plant health and environmental conditions in Caramanta, Colombia, which will serve as a background filler task.
+
+The deadline for this task is set three days from now in the evening. This means that while we aim to complete the task before the sunset of the specified day, there is flexibility in scheduling and no urgency in meeting the deadline.
+
+To summarize, our mission involves capturing multispectral vegetation data in Caramanta, Colombia, using a VNIR sensor. This background survey will occur over the course of three days leading up to an evening deadline, allowing for opportunistic capture at convenient times without any strict adherence to the deadline's specific hours. The task is low priority, and it should be treated accordingly with a flexible schedule.

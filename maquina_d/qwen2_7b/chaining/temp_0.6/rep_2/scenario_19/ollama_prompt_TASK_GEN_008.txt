@@ -1,0 +1,19 @@
+Translate the following task request into a highly realistic and conversational English format for an automated satellite constellation planner:
+
+---
+
+Objective: Capture comprehensive SAR imagery of the region named "region_name". This region is located in the country "Italia", specifically within the city "Norte". The mission is to be executed during today's overnight period.
+
+---
+
+Geographic Context: The request involves observing a specific area within the "region_name" located in Italia, which happens to be the city "Norte". This region is of medium importance and falls under our baseline pipeline tracking setup.
+
+Sensors and Physical Objectives: The primary sensor for this mission will be an active radar system (SAR), designed to perform microwave surface imaging. Its primary function is to penetrate through dense cloud cover, ensuring that no detail on the ground goes unnoticed, regardless of the weather conditions.
+
+Priority Level: This request is categorized under priority level 2, which indicates a standard operational tasking. We understand this as part of our normal workflow update, with fixed parameters set in place. The mission carries a contractual value but does not demand an urgent operational execution or preempt other tasks. 
+
+Delivery Deadline: The deadline for data availability has been resolved and is "today overnight". This means the task must be completed and data delivered by the end of today's overnight period.
+
+---
+
+In summary, our automated satellite constellation planner should understand that this mission involves the acquisition of SAR imagery over a region located in Italia, specifically within the city "Norte", during today's overnight timeframe. The priority level indicates that while this is part of our standard operational tasks, it does not require immediate attention over other priorities. The use of SAR sensors ensures comprehensive coverage despite potential weather conditions and the deadline has been set for "today overnight".

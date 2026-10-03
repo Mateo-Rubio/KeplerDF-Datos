@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified parameters.
+
+The geographic context involves a target area within Norte, a region in need of observation but without specific country or city details provided. Given this scenario, I will interpret the 'region_name' as our operational context for the task.
+
+The mission allocation priority level is set to 1, indicating low importance and a flexible schedule for opportunistic capture. This task is framed as a "non-essential background filler task" with the understanding that it may be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor designated for this mission is the Near-Infrared (NIR), which will be used to capture "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". The goal is to discriminate gradients in these areas through the assessment.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set to "in three days in the evening". This phrase should be verbatim in the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+To summarize our request concisely:
+
+"Request for an operational task involving a low-priority background survey using Near-Infrared (NIR) technology to capture water body boundaries and assess soil moisture levels. This is scheduled for 'in three days in the evening'. The geographic context focuses on an area within Norte region, as detailed information about country and city is not provided. The mission allocation priority is set to low importance, allowing for flexible scheduling with a binding contract requirement for opportunistic capture."
+
+Please ensure this request aligns with our operational guidelines for naturalness, validation accuracy, and the structure of our dataset.

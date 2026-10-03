@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves capturing data from the region of Colombia, specifically focusing on the city of Aguazul, a place renowned for its scenic landscapes. The primary sensor designated for this mission is VNIR (Vegetation Normalized Imagery Reflectance), which will be used to analyze the vegetation's health by assessing the chlorophyll absorption level and calculating the NDVI index.
+
+Given the priority level of 3 (High Importance), this request is an absolute institutional priority, implying an urgent operational execution. It involves capturing a "high-resolution optical snapshot" as daylight photography or true-color visual documentation that showcases the beauty of Colombia's landscapes during the target day, which falls on "tomorrow in the morning". This tasking is a "standard operational tasking", part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+For this low priority importance request, we explicitly note to "drop or reschedule at convenience" as it acts as a "non-essential background filler task". The flexible schedule allows us to treat it as a "background survey" or "testbed tracking task", ensuring that our satellite constellation is prepared for such opportunistic captures when needed.
+
+In summary, the task request is for a VNIR mission in Colombia's Aguazul region tomorrow in the morning, with high importance and flexible scheduling considerations. This request aims to gather data for a "multispectral vegetation analysis" to assess the health of local flora, thereby contributing to our ongoing efforts in environmental monitoring and research.
