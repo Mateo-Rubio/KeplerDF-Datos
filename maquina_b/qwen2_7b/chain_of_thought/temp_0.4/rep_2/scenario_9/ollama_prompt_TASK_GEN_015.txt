@@ -1,0 +1,14 @@
+STAGE 1 REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 FINAL REQUEST:
+
+To address the operational needs outlined in our Earth-observation mission, we are tasked with capturing a high-resolution optical snapshot of Indonesia's Ecuatorial region using the VNIR sensor. This imagery will serve as a true-color visual documentation for daylight photography and clear optical imagery. Given the priority level of this task being Low Importance, we consider it a flexible schedule "opportunistic capture" request, which can be dropped or rescheduled at convenience without compromising the overall workflow.
+
+The deadline for this data product is set for "tomorrow overnight", which represents the strict operational deadline to deliver the required data products. This deadline does not affect the orbital capture window but rather ensures that the data will be available for analysis in a timely manner, fitting into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+In summary, we are to capture thermal mapping data from Indonesia's Ecuatorial region using VNIR technology, aiming to assess vegetation health and surface temperature profiles. This task is part of our standard operational tasking, with the deadline set for "tomorrow overnight", ensuring that the data product will be ready by that time without altering the operational context or shifting the deadline to an adjacent part of the day.
