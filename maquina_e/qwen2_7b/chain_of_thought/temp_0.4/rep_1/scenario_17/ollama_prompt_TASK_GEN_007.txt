@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified.
+
+STAGE 2:
+
+As per our operational guidelines, this request involves capturing a thermal mapping dataset for the region of Colombia, specifically focusing on the city of Paya. The primary sensor utilized will be TIR (Thermal Infrared), which will enable us to capture the heat signature and surface temperature profile of the area during the afternoon on tomorrow's date.
+
+This task is classified as a low priority importance request, with flexible scheduling. We are aware that this is a non-essential background filler task and can drop or reschedule it at convenience if necessary. The deadline for delivering the data products is strictly set for tomorrow during the afternoon period, which represents our operational deadline to complete the task.
+
+The dataset will be collected using TIR sensors, which will provide us with thermal mapping capabilities to detect heat anomalies and map heat emissions across the region. This information can be crucial for various applications such as urban planning, agriculture monitoring, or emergency response scenarios where thermal data is essential.
+
+In summary, we aim to capture high-quality thermal imagery of Colombia's Paya city during the afternoon on tomorrow's date using TIR sensors, adhering to our operational guidelines and deadlines. The task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, while treating it as a flexible background survey or testbed tracking task.
