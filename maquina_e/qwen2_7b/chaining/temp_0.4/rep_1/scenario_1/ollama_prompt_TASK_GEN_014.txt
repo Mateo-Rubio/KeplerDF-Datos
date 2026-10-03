@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines dictate that we interpret the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Given the target context, our priority is set at medium importance (Priority Level 2), which means this task is part of our standard operational tasks or commercial tasking within our baseline pipeline tracking setup. The mission allocation authority and asset contractual value imply that while not "urgent", it's still a fixed parameter representing normal operational status.
+
+Our primary sensor for this mission is SAR, which will be used to perform an active radar scan using microwave surface imaging technology. This scan aims to capture cloud-penetrating imagery, allowing us to observe ground geometry even under heavy weather conditions. The goal is to gather detailed information about the terrain and its features without being hindered by atmospheric conditions.
+
+The geographic context involves a location in Norte, though it's noted that there are no details about the country or city since they're marked as N/A. Instead, we'll describe this area using realistic terms based on the remaining valid fields or the clean 'region_name'. The region's description will be crafted to reflect its characteristics without relying on raw technical system tags or coordinate arrays.
+
+Our mission is scheduled for tomorrow around mid-day, which is the upper limit for data availability as determined by an upstream module. This deadline is crucial for ensuring that our data collection aligns with our operational planning and can be integrated into our workflow updates without causing any delays.
+
+In summary, our request involves a medium-priority task utilizing SAR technology to capture detailed ground geometry images in Norte, scheduled for tomorrow around mid-day. This mission is part of our standard operational tasks, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.

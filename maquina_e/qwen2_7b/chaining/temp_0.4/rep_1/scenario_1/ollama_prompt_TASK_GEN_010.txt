@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring the dataset's naturalness and validation accuracy.
+
+The geographic context involves observing Colombia, with a specific focus on El Castillo. We're capturing high-resolution optical imagery using the VNIR sensor for daylight photography, clear optical imagery, and true-color visual documentation of the region. This task carries a low priority importance, allowing for flexible scheduling as a non-essential background filler task, fitting into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline is set for "in three days during the afternoon," with the understanding that this upper limit for data availability has already been resolved by an upstream module. We're not rephrasing or shortening this phrase; instead, we're inserting it verbatim into our request.
+
+In summary, our task involves capturing multispectral vegetation analysis using the VNIR sensor over El Castillo, Colombia, aiming to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This is part of our standard operational tasking, contributing to our normal workflow updates while adhering to the flexible schedule for opportunistic capture.

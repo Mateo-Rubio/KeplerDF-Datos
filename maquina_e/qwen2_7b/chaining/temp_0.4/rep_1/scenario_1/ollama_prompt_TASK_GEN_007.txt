@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context for this mission involves the region of Mesetas in Colombia. Although the city details are specified as "Mesetas", it's important to note that the country, "Colombia", provides a strong basis for location description. Therefore, we will focus on incorporating this information into our request.
+
+The mission allocation priority is designated as 'Priority 1', indicating low importance and a flexible schedule for opportunistic capture. This task is labeled as a 'non-essential background filler task' with the understanding that it can be dropped or rescheduled at convenience, serving as a 'background survey' or 'testbed tracking task'. 
+
+The primary sensor to be utilized in this mission is "NIR", which stands for near-infrared. The operational objective here involves capturing "near-infrared reflection" for mapping water body boundaries and assessing soil moisture levels, essential for distinguishing gradients within the region.
+
+The delivery deadline for this task has been resolved by an upstream module, with the stated upper limit being "today in the evening". This phrase must be inserted verbatim into our request, emphasizing that this is the definitive data availability timeframe.
+
+In summary, our request is to capture near-infrared reflection data over Mesetas, Colombia, today in the evening, for mapping water body boundaries and assessing soil moisture levels. This task is considered a low priority importance background survey with flexible scheduling requirements.
