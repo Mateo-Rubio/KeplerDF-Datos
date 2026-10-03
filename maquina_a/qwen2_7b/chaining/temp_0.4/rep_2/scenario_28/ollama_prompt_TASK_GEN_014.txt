@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on natural language interpretation of operational guidelines.
+
+The geographic context involves observing the region within Slovenia, specifically in the city of Norte. The primary sensor for this mission is VNIR, which aims to capture multispectral vegetation analysis. This includes assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance, providing valuable insights into the health and condition of the plants.
+
+The priority level for this task is set at low importance, indicating a flexible schedule for opportunistic capture. As part of this request, it's explicitly noted that this is treated as a non-essential background filler task with a 'drop or reschedule at convenience' approach, fitting into the role of a background survey or testbed tracking task.
+
+The delivery deadline for this task has already been resolved by an upstream module, stipulating that the data must be available 'the day after tomorrow in the morning'. This phrase is to be inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing, shortening, or altering the time of day.
+
+In summary, our mission aims to capture essential vegetation data using VNIR sensors within a specific region and timeframe, with a low priority level that allows for flexible scheduling. The automated satellite constellation planner will ensure this task is allocated accordingly, adhering to the operational guidelines provided.

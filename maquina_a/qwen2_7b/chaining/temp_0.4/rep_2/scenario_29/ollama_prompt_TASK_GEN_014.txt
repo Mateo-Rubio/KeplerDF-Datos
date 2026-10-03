@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context involves capturing data for the region encompassing Italia's Norte city. This location will be described using a realistic combination of the 'country' and 'city' fields from 'location_details', providing a vivid image of the area to be observed.
+
+Given that the priority level is set at 3 (High Importance), this mission allocation requires an authoritative, explicit, and commanding tone. We're dealing with a critical payload capture that involves an urgent operational execution and an un-preemptable mission lock, as part of our binding contract requirement.
+
+The primary sensor for this task is SAR (Synthetic Aperture Radar). This technology will be used to perform an active radar scan using microwave surface imaging. The goal is to pierce heavy weather conditions and capture ground geometry with precision, offering cloud-penetrating capture capabilities that are essential for our baseline pipeline tracking setup.
+
+The operational parameters include a delivery deadline of "tomorrow in the morning". This upper limit for data availability must be inserted verbatim into the request, as it's the stated time frame for data collection. The specific time doesn't need to be moved or shortened; it should remain exactly as provided.
+
+In summary, our task is to capture high-resolution SAR imagery of Italia's Norte region with an active radar scan in the morning tomorrow. This mission carries a high level of importance and requires an urgent execution that aligns with our contractual obligations. The data collected will contribute to our baseline pipeline tracking setup, ensuring fixed parameters for normal operational status.
+
+Let's proceed with the task request, ensuring that all details are accurately conveyed to the satellite constellation planner for optimal data collection and analysis.

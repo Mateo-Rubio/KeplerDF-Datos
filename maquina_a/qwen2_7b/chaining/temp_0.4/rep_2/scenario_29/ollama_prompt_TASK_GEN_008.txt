@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing a thermal mapping of the region named "Monte Romano", located in the country of Italia, using a high-resolution optical snapshot as the primary sensor. The operational guidelines guide us to avoid raw technical system tags or coordinate arrays, instead interpreting the location details naturally. Since the country and city are provided, we combine them with the landmark to describe the area.
+
+The mission allocation priority is set at 'Priority 1', indicating low importance. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "non-essential background filler task", which can be treated as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are interpreted naturally. The primary sensor, being "NIR", is explained as capturing "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". This helps in discriminating gradients within the region.
+
+The delivery deadline has already been resolved by an upstream module. It's specified as "in four days overnight". This phrase is inserted verbatim into the request, as it represents the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, this task request combines natural language interpretation with operational guidelines to create a highly realistic and conversational English document that reflects the raw physical simulation metadata accurately.
