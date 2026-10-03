@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string from {morning, mid-day, afternoon, evening, overnight} is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the context provided by the JSON metadata, we are tasked with capturing high-resolution thermal data over a specific region tomorrow afternoon. This location is in Colombia, specifically in the city of Concepción. The data collection is categorized as a low priority importance request, which means that while it's important, it can be accommodated within a flexible schedule and might potentially be rescheduled or dropped at our convenience if necessary.
+
+The primary sensor deployed will be a Thermal Infrared (TIR) device, which will capture thermal images of the region. This mission aims to map heat signatures and surface temperature profiles across the area, crucial for detecting potential anomalies such as temperature hotspots that might indicate industrial activity, environmental conditions, or even natural phenomena like volcanic emissions.
+
+We are targeting a specific time tomorrow afternoon for this operation, which means the deadline for delivering the thermal data products is strictly defined for that period. However, understanding that this task falls under "low priority importance," we will ensure it receives attention within our baseline pipeline tracking setup but with fixed parameters representing normal operational status. This request serves as a background survey or testbed tracking task for our satellite constellation planner.
+
+In summary, the operational request is to capture thermal imagery over Colombia's Concepción city tomorrow afternoon using a TIR sensor to map heat signatures and surface temperature profiles. The deadline for this task is strictly "tomorrow during the afternoon," and while it carries low priority importance, it will be handled within our standard workflow with fixed parameters and normal operational status.
