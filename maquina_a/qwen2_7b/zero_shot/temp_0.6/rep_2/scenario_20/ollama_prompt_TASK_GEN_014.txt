@@ -1,0 +1,9 @@
+Prompt: Earth-observation mission operator request for satellite constellation planning:
+
+Absolute institutional priority: Immediate capture of high-resolution optical and active radar data on Isola del Gran Sasso d'Italia, located in the picturesque region of Italia. This mission involves a critical payload of an active radar scan using microwave surface imaging capabilities to pierce through heavy weather conditions, ensuring cloud-penetrating capture of ground geometry.
+
+Standard operational tasking: The urgent operational execution requires capturing data by tomorrow's overnight block at the latest, with strict delivery deadline set for [target_day] [target_diurnal_period]. This task involves the utilization of high-resolution optical imagery for daylight photography and clear optical documentation, as well as cloud-penetrating capture using radar sensors.
+
+Critical payload capture: The mission entails the collection of thermal mapping data to capture heat signatures and surface temperature profiles, facilitating thermal anomaly detection and mapping of heat emissions. This is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status, including a vegetation analysis utilizing multispectral data to assess chlorophyll absorption levels and calculate NDVI index for vegetation health.
+
+Non-essential background filler task: With flexible scheduling in place, this low priority importance request is designated as a non-essential background survey. The operator explicitly notes that it can be dropped or rescheduled at convenience, treating it as a testbed tracking task to ensure the timely delivery of data products into the pipeline before [target_day] [target_diurnal_period].
