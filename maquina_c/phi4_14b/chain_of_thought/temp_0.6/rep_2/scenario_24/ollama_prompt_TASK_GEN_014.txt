@@ -1,0 +1,9 @@
+### STAGE 1 - REASONING
+
+The `target_day` key indicates that the mission should be completed "tomorrow." This specific string is crucial as it sets the deadline for the task. Similarly, the `target_diurnal_period` specifies when during the day the task should be executed, which is "during the afternoon." The exact word that matches our list {morning, mid-day, afternoon, evening, overnight} from this period is "afternoon." This word will need to be included verbatim in the final request to ensure clarity about the timing of the satellite capture.
+
+The guidelines make it clear that the temporal parameters represent a strict operational deadline for delivering the data products. Therefore, there is no room for shifting or altering the deadline to any other part of the day. The task must be completed specifically "tomorrow during the afternoon," adhering to this timeframe without deviation.
+
+### STAGE 2 - FINAL REQUEST
+
+We are requesting a standard operational tasking for a commercial satellite mission over Spoleto, Italy. This routine monitoring is part of our baseline pipeline tracking setup and involves fixed parameters representing normal operational status. Our goal is to conduct an active radar scan using microwave surface imaging. The mission aims to capture cloud-penetrating imagery that can pierce through heavy weather conditions or provide detailed ground geometry insights. Please ensure this task is executed as a priority, with data delivery scheduled for tomorrow during the afternoon. This will allow us to maintain our workflow update and meet the operational requirements efficiently.

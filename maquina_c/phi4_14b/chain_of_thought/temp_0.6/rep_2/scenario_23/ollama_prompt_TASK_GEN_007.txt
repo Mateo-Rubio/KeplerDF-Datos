@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days." This indicates the specific timeframe by which the data products are expected to be delivered.
+
+b) The exact string present in 'target_diurnal_period' is "around mid-day." This specifies when during the day the observation should ideally take place.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "mid-day." Therefore, this word must be included verbatim in the final request.
+
+d) It is crucial to confirm that the deadline for delivering the data products is not being shifted or altered. The task requires delivery "in four days" and observation "around mid-day," maintaining this strict operational deadline without modification to adjacent parts of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a standard operational tasking focused on La Cumbre, Colombia. This involves an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring ground geometry is accurately recorded. The mission should be completed in four days with observations planned around mid-day. This fits within our baseline pipeline tracking and represents a routine monitoring effort with fixed parameters.

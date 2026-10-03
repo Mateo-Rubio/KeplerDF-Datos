@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the task should be executed.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight."
+
+d) The deadline specified as "in four days, overnight" should not be shifted to any other part of the day. It is crucial to adhere strictly to this timeframe for the task execution.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for Betulia, Colombia, focusing on a multispectral vegetation analysis using near-infrared reflection. This task aims to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Given its flexible schedule, this is an opportunistic capture task that can be dropped or rescheduled at convenience. Please ensure the data products are delivered in four days, specifically overnight.

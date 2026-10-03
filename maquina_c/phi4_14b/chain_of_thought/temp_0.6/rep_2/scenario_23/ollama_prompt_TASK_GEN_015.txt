@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string, which must appear literally in the final request, is "overnight."
+
+d) The deadline is specified as "in four days" during the "overnight" period. There is no indication or requirement to shift this deadline to an adjacent part of the day, such as morning or afternoon. Therefore, the mission should be executed strictly within the provided timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are requesting a routine monitoring task focused on Kepulauan Meranti, Indonesia. This involves capturing multispectral vegetation analysis data using near-infrared reflection to assess chlorophyll absorption levels and calculate an NDVI index. The mission is part of our baseline pipeline tracking with fixed parameters, reflecting normal operational status. We need this data delivered in four days during the overnight period.
