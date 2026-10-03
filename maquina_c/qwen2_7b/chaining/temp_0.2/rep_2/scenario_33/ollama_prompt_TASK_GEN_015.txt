@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Pangalaseang region. This location combines the country parameter with the nested 'city' field, providing a realistic description of the area without relying on raw technical system tags or coordinate arrays. If necessary, the 'region_name' would serve as a fallback for describing the location.
+
+The mission allocation priority is set to 'Priority 1', indicating low importance and a flexible schedule for opportunistic capture. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic data collection", treating it as a "background survey" or "testbed tracking task". The language reflects the structural hierarchy of operational phrases that align with this priority level.
+
+The primary sensor to be utilized is 'TIR', which will be used for thermal mapping. This involves capturing a "heat signature" or assessing "surface temperature profiles", aiming for "thermal anomaly detection" and mapping heat emissions. The goal is to gather information on heat patterns, essential for various applications such as environmental monitoring, urban planning, and disaster response.
+
+The delivery deadline is set for "today in the evening". This phrase serves as the upper limit for data availability, ensuring that the request adheres to the specified time frame without rephrasing or altering it. The deadline is a critical factor in determining when the data should be collected and delivered, allowing for timely decision-making based on the information gathered.
+
+In summary, our task request involves observing Indonesia's Pangalaseang region using thermal mapping technology ('TIR') with a flexible schedule for "opportunistic data collection" due to its low priority importance. The deadline for this task is set for "today in the evening", emphasizing the urgency of collecting the data within this specific timeframe.

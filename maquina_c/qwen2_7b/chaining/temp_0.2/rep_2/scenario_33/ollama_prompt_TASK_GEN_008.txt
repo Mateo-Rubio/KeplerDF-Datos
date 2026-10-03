@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The primary sensor is set to SAR, which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating data. The geographic context involves Norte city, although the country field is marked as "N/A", so we'll describe this location using the city name alone.
+
+The mission allocation priority is designated as medium importance (Priority 2), indicating a standard operational tasking that fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is part of our routine monitoring activities, and it's essential to maintain our standard workflow updates without any preemption or delay.
+
+The delivery deadline for this task is "the day after tomorrow overnight", which means the data availability upper limit is set for that specific time frame. We're not concerned with raw UTC timestamps or countdown metrics; instead, we'll focus on ensuring that our satellite constellation captures the required SAR data during this specified diurnal period.
+
+In summary, our request to the automated satellite constellation planner is as follows: "Please schedule a standard operational task using an active radar scan with microwave surface imaging capabilities for cloud-penetrating capture. Target the location in Norte city, focusing on the day after tomorrow overnight timeframe. This task is part of our routine monitoring activities and should be executed without any preemption or delay, adhering to our baseline pipeline tracking setup with fixed parameters representing normal operational status."
+
+Let's proceed with this request to ensure that our satellite constellation captures the necessary data for our Earth-observation mission requirements.

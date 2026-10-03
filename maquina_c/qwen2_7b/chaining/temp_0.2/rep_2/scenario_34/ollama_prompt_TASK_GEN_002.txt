@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring maximum naturalness and validation accuracy.
+
+The geographic context involves capturing data for France, specifically in Norte, which is a region of significant interest for our operations. We aim to gather detailed information about the area using an active radar scan with microwave surface imaging capabilities, serving as an "cloud-penetrating capture" essential for understanding ground geometry, even under heavy weather conditions.
+
+Given the priority level of 1, this task is classified as a low importance request with a flexible schedule. We can treat it as a "non-essential background filler task", noting that it's a "background survey" or "testbed tracking task". The deadline for this task has been resolved by an upstream module, requiring the data to be available in four days in the morning.
+
+In summary, our request involves capturing thermal mapping data using SAR technology over France's Norte region. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We aim to gather a heat signature, surface temperature profile, or perform thermal anomaly detection for this area. The deadline for this task is set for four days in the morning, ensuring we meet our operational requirements without impacting more critical tasks.

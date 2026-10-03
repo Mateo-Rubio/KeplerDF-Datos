@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: We're focusing on the 'region_name', 'country', 'city', and 'landmark' fields from 'location_details'. We avoid using raw technical system tags, underscores, or coordinate arrays in our final output. We describe the location using a realistic combination of these fields, gracefully ignoring any that are "N/A".
+
+2. MISSION ALLOCATION PRIORITY: We interpret the 'priority_level' to determine the tone and structure of our request. Priority 3 requests are given an authoritative, explicit, and commanding tone, framed as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". Priority 2 requests use a professional, direct, and standard operational tone, describing them as "standard operational tasks", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update". Priority 1 requests are framed in a casual, highly flexible, or opportunistic tone, explicitly noting they are "low priority importance" requests with a "flexible schedule" for "opportunistic capture", treated as "background survey" or "testbed tracking tasks".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We interpret the 'primary_sensor' to naturally weave operational objectives and descriptors into our request, explaining the physical phenomenon to be observed. VIS sensors are used for "high-resolution optical snapshots" of "daylight photography", "clear optical imagery", or "true-color visual documentation". SAR sensors use "active radar scans" with "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry. TIR sensors are used for "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. VNIR sensors are used for "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. NIR sensors are used for "near-infrared reflection" to map "water body boundaries" or assess "soil moisture" to discriminate gradients.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, set as "today in the evening". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. We do not rephrase it, shorten it, or move it to a different part of the day.
+
+Target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Talamello"
+  },
+  "priority_level": 1,
+  "target_day": "today",
+  "target_diurnal_period": "in the evening"
+}
+
+Given this context, our request is as follows:
+
+"Please capture a high-resolution optical snapshot of Talamello, Italia, in the evening today using a VNIR sensor. This low priority importance task involves assessing the chlorophyll absorption level and calculating the NDVI index for vegetation analysis. As it's a background survey task, feel free to drop or reschedule at your convenience."
+
+This request adheres to the guidelines by interpreting the metadata organically, maintaining natural language flow, and integrating the operational tone based on priority levels."
