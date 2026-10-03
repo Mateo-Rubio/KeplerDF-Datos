@@ -1,0 +1,65 @@
+I need a standard operational tasking to capture high-resolution optical snapshots for daylight photography in Tanjung Saleh, Indonesia. These images are required by tomorrow morning at the latest and must be integrated into our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+```prompt
+
+
+Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+You are an atmospheric researcher requesting additional data from an Earth-observation satellite for your study on urban heat islands. Your task is to translate the provided JSON metadata into a highly detailed, technical English request that maintains all operational guidelines and includes specific scientific terminology:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'city_name' and nested 'coordinates'):
+   - Integrate precise geographic coordinates into your natural output without using raw notation or system tags.
+   - Describe the urban setting with reference to its latitude, longitude, elevation above sea level, and any relevant landmarks for context if provided in 'landmark_details'.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'scientific_importance'):
+   - Translate priority into a scientifically appropriate tone that underscores the significance of data collection:
+     * Scientific Importance 1 (Critical Data Need): Use an urgent, academically charged language emphasizing "immediate data acquisition" for pivotal research and "time-sensitive study parameters".
+     * Scientific Importance 2 (Key Contribution): Employ a detailed request framing that highlights the contribution to understanding urban heat islands with terms like "significant climatic impact assessment", "urban morphology analysis", or "temperature gradient mapping."
+     * Scientific Importance 3 (Supplemental Data): Craft your plea as an essential addition to existing datasets, emphasizing how this complements previous studies and underlines its role in filling data gaps.
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Include sophisticated scientific objectives: Explain the goal using terms like "spectral irradiance measurement", "urban canopy penetration capabilities", or "high-fidelity thermal flux mapping."
+
+4. RELATIVE TIMEFRAMES (Interpret keys 'observation_day' and 'observation_period'):
+   - Integrate the precise temporal constraints into your request with scientific terminology:
+     * Specify exact start and end times of data collection within a "diurnal cycle" or between particular solar zenith angles if provided.
+     * Use specialized jargon that references "solar angle insensitivity window", "optimal thermal infrared acquisition time", etc., for precise timing.
+
+5. DATA PROCESSING AND ANALYSIS (Interpret key 'post_processing'):
+   - Describe the expected post-mission data handling and analysis, incorporating terms like:
+     * Data calibration against standard atmospheric models.
+     * Algorithms for removing urban artifacts in thermal images.
+     - Cross-referencing with meteorological databases to account for anomalous temperature readings caused by transient weather events.
+
+6. ADDITIONAL SCIENTIFIC REQUEST (Interpret 'additional_requests'):
+   - Insert any extra specifications or requests that relate directly to the scientific goals, like requesting data at different times of day, under various atmospheric conditions, or over multiple days/weeks for trend analysis.
+
+7. FUNDING AND RESOURCES (Interpret key 'resource_allocation'):
+   - Articulate a request for additional funding based on the need for high-resolution data and advanced processing techniques:
+     * Clearly outline how these resources directly contribute to ach0us research, potential publications, or further grant applications.
+
+8. PARTICIPATING SATELLITE ORGANIZATION (Interpret key 'satellite_provider'):
+   - Reference the specific satellite provider and explain their role in meeting your research needs:
+     * Highlight any previous collaborations with this organization, unique capabilities they offer for urban heat island studies, or advanced sensor packages that are critical to your work.
+
+Here's a JSON metadata sample for context:
+{
+  "primary_sensor": "TIR",
+  "city_name": "Shanghai",
+  "coordinates": {
+    "latitude": "31.2001° N",
+    "longitude": "121.4996° E"
+  },
+  "elevation": "5 meters above sea level",
+  "landmark_details": {
+    "visible_structure": "The Bund skyline at sunset"
+  },
+  "scientific_importance": 1,
+  "observation_day": "next Thursday",
+  "observation_period": "sunrise to solar noon",
+  "post_processing": {
+    "calibration": true,
+    "artifact_removal": true,
+    "meteorological_cross-reference": true
+  },
+  "additional_requests": ["Data acquisition during a clear sky day"],
+  "resource_allocation": ["
