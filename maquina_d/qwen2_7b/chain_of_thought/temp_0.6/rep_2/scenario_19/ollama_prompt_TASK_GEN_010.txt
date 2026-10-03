@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, we have a task request for tomorrow with an emphasis on capturing data during the evening hours. This request requires attention due to its 'priority_level' set at 1, indicating it falls under the category of a low priority importance request with flexible scheduling options. The primary sensor being used is a TIR (Thermal Infrared) sensor, which is tasked for thermal mapping purposes. This involves capturing the heat signature and surface temperature profile to detect any thermal anomalies or map heat emissions.
+
+The geographic context includes Colombia as the country, with a focus on Puerto Wilches, a city located within this region. Since the city name is provided but 'landmark' is not specified, we'll describe the location using the country and city details without any additional landmarks.
+
+As this task request is categorized under low importance, it comes with flexible scheduling options, allowing for opportunistic capture or rescheduling as needed. The operator has explicitly noted that this is a "non-essential background filler task," where the deadline represents the strict operational deadline to deliver the data products. The primary goal here is to ensure accurate thermal mapping data during the evening hours when atmospheric conditions may be more conducive to capturing detailed images without interference from sunlight.
+
+In conclusion, tomorrow at the specified evening time, our satellite constellation will capture thermal mapping data using a TIR sensor over the region of Colombia, focusing on Puerto Wilches. This task request is part of our baseline pipeline tracking setup with normal operational status, where standard parameters are in place and the operator acknowledges that this is a "routine monitoring" or "testbed tracking task", with flexibility to adjust the timing as needed for optimal data collection.

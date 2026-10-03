@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is: "in the evening".
+c) The word contained in that string which must appear literally in the final request is: "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' are strictly set for delivery on "the day after tomorrow" evening.
+
+STAGE 2 - FINAL REQUEST
+
+As an automated satellite constellation planner, I hereby request that on the specified day, which is "the day after tomorrow" in the evening, our satellite fleet captures thermal data over Malaysia, focusing specifically on the coastal city of Banting. This task is classified as a low priority importance request, indicating that while it's crucial for our baseline pipeline tracking setup with fixed parameters, it can be accommodated within our operational flexibility. The primary sensor to be utilized for this mission is the TIR, enabling us to map thermal anomalies and gather data on surface temperatures in the evening hours when conditions may offer unique insights into heat signatures and emissions patterns. This is framed as a non-essential background filler task, noting that we can drop or reschedule it at our convenience if other higher priority tasks are more urgent.

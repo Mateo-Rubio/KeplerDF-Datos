@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON metadata, here's a conversational request for capturing thermal data of Santa Helena del Opón, Colombia:
+
+"In three days, an overnight thermal mapping mission will be conducted to capture heat signatures across the area. This low priority importance task involves using thermal imaging technology to gather comprehensive data on surface temperatures and potential thermal anomalies. The high-resolution optical snapshot taken during the night will ensure cloud coverage is minimized for the most accurate thermal imagery possible. Santa Helena del Opón, Colombia, will serve as our target location, where we aim to identify patterns in heat emissions across various landscapes and urban settings."
+
+This request incorporates the operational guidelines by avoiding technical system tags or coordinate arrays, using realistic descriptions based on country, city, and landmark details, applying appropriate priority language reflecting the mission allocation, and integrating sensor objectives in a human-readable manner. The relative timeframe is strictly adhered to without shifting the deadline or interpreting it as an orbital window.

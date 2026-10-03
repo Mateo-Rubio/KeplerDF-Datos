@@ -1,0 +1,17 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains "during the afternoon" tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided, this task request can be formulated as follows:
+
+"Please allocate an 'opportunistic background survey' task for tomorrow afternoon using the VNIR sensor. This low priority importance request involves a 'flexible schedule' for capturing 'daylight photography', which is essential for assessing 'multispectral vegetation analysis'. The goal is to obtain information about 'chlorophyll absorption levels' and calculate the 'NDVI index', with an emphasis on understanding surface reflectance. The deadline for this data collection is strictly set for 'during the afternoon', as outlined in the metadata."
+
+This request aligns with the operational guidelines, incorporating a casual tone, the operational objectives for VNIR sensors, and the specific temporal parameters without altering the deadline.
