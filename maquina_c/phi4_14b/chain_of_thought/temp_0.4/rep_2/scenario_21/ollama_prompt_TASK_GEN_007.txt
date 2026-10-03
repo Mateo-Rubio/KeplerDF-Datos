@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string 'target_diurnal_period' that appears in the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The temporal parameters provided are a strict operational deadline. There is no indication or instruction to shift the deadline to an adjacent part of the day. Therefore, we must adhere to the specified deadline of "tomorrow" and during the "overnight" period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to conduct a critical payload capture over Aguadas, Colombia, using VNIR sensors for multispectral vegetation analysis. This task involves assessing chlorophyll absorption levels and calculating the NDVI index to provide surface reflectance data. Given its high importance, this is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. The data must be delivered by tomorrow during the overnight period.

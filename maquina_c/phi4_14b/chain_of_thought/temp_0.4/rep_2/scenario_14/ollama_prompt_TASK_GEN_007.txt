@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The deadline specified as "in four days" during the "overnight" period should not be altered or shifted. It is critical to adhere strictly to this timeframe for delivering the data products, ensuring that the capture occurs precisely within these parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an Earth-observation task over Bolívar, Colombia. This mission involves capturing high-resolution optical snapshots using visible light sensors during daylight photography. The goal is to obtain clear optical imagery and true-color visual documentation of the area. Given its flexible schedule, this task is intended for opportunistic capture, allowing it to be dropped or rescheduled at convenience. Please ensure that the data products are delivered in four days, specifically during the overnight period. This serves as a non-essential background filler task, ideal for testing and survey purposes.
