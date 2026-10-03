@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) The deadline specified is "the day after tomorrow, around mid-day," and there is no indication or allowance to shift this deadline to any other part of the day. It is important to adhere strictly to these temporal parameters as they represent a strict operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking for an active radar scan using microwave surface imaging over Ecuatorial city, focusing on cloud-penetrating capture and ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data collection should occur the day after tomorrow, around mid-day, ensuring timely delivery as per our workflow update requirements.
