@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Indonesian region of Rokan Hilir using a VNIR sensor on the target day, which is in three days in the morning. 
+
+The mission allocation priority is medium importance, indicating it's part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. This request is to be treated as a routine monitoring activity that fits into our baseline pipeline tracking setup.
+
+The geographic context is centered around Indonesia and Rokan Hilir, which will allow us to capture high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation of the region. The VNIR sensor will provide valuable insights into the chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance.
+
+To ensure the accuracy and naturalness of the dataset, we interpret the metadata organically without using raw technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+In conclusion, this task request is to be executed with a professional, direct, and standard operational tone. It's part of our normal workflow update, representing a routine monitoring activity that fits into our baseline pipeline tracking setup with fixed parameters. The deadline for this task has been resolved by an upstream module, and the data availability upper limit is set for three days in the morning.
+
+Let's proceed with the execution of this request, ensuring it aligns with our operational guidelines and contributes to our comprehensive Earth observation dataset.

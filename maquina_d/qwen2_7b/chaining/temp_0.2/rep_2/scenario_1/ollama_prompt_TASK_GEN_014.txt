@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor' being SAR, which requires an active radar scan using microwave surface imaging for cloud-penetrating capture or ground geometry assessment.
+
+The geographic context involves a location with no specific country details but a city named Norte. The operational guidelines guide us to avoid raw technical system tags and coordinate arrays, instead describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'country' and 'city' are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must not imply how close the deadline is but should reflect this structural hierarchy.
+
+The delivery deadline is "tomorrow around mid-day", which is the upper limit for data availability as resolved by an upstream module. We're inserting this phrase verbatim into our request, not rephrasing or shortening it, and not moving it to a different part of the day.
+
+In summary, our request involves capturing high-resolution optical snapshots using a SAR sensor for daylight photography, clear optical imagery, or true-color visual documentation at Norte, a city without country details. The task is part of standard operational status with normal parameters and is scheduled for tomorrow around mid-day.

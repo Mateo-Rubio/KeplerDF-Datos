@@ -1,0 +1,24 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that I should interpret the JSON parameters naturally, avoiding technical tags and coordinate arrays. The geographic context involves combining 'region_name' with 'country', 'city', and 'landmark' fields from 'location_details'. For mission allocation priority, I must use authoritative language for Priority 3 tasks, professional tone for Priority 2, and casual language for Priority 1 requests.
+
+Sensors and physical objectives require translating technical terms into operational phrases that describe the phenomena to be observed. VIS sensors aim for "high-resolution optical snapshots" of daylight photography or true-color visual documentation. SAR sensors perform "active radar scans" using microwave surface imaging for cloud-penetrating capture or ground geometry mapping. TIR sensors are used for "thermal mapping" to detect heat signatures, surface temperature profiles, or thermal anomalies. VNIR sensors assess chlorophyll absorption levels or calculate vegetation NDVI indices and surface reflectance. Lastly, NIR sensors map water body boundaries or assess soil moisture.
+
+The delivery deadline is set for "the day after tomorrow in the morning". This phrase must be included verbatim in the request without any rephrasing, shortening, or moving to a different part of the day.
+
+Given the context provided:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Prado"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+My request would be:
+
+"Please allocate a standard operational tasking for capturing high-resolution optical snapshots of daylight photography or true-color visual documentation in Colombia, specifically in the city of Prado. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission should be executed in the morning on the day after tomorrow as an essential task that does not require preemption or rescheduling."
+
+This request integrates the operational guidelines and JSON metadata to create a natural, conversational English statement suitable for submission to an automated satellite constellation planner."
