@@ -1,0 +1,11 @@
+As a mission operator for our Earth-observation constellation, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines for this task require an interpretation of the provided JSON format that maximizes naturalness and validation accuracy.
+
+The geographic context of our mission involves capturing imagery of Santa Giustina in Italia, a location described through a realistic blend of country, city, and landmark fields from 'location_details'. Given that the 'country' field is "Italia", the 'city' field is "Santa Giustina", and 'landmark' is absent, we can describe the location using these two fields alone.
+
+The mission allocation priority is set at 'Priority 3', which implies an "absolute institutional priority" or a "binding contract requirement". This indicates an "urgent operational execution" with a heavy implication of "critical payload capture". We should frame this request as an "un-preemptable mission lock" that involves an "authoritative and explicit" directive.
+
+Our primary sensor is 'SAR', which requires an active radar scan using microwave surface imaging. We will be piercing through heavy weather or capturing ground geometry for a "cloud-penetrating capture". The goal is to achieve this "piercing capability" to provide unparalleled imagery of the region during the day after tomorrow during the afternoon.
+
+The deadline for this task has been resolved by an upstream module, and it is specified as "the day after tomorrow during the afternoon". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability. We should not rephrase or shorten it, nor move it to a different part of the day.
+
+In conclusion, this Earth-observation mission is set for an absolute priority allocation with an urgent need for a high-resolution SAR scan of Santa Giustina in Italia during the afternoon of the day after tomorrow. This task is not just another routine monitoring; rather, it's a critical payload capture that requires an authoritative approach to ensure its successful execution.

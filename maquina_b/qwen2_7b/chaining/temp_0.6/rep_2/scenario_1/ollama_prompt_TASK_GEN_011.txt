@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner for tomorrow during the afternoon. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of Grottaferrata, a city in Italia. This location will be observed using the primary SAR sensor, which aims to provide an active radar scan for cloud-penetrating capture, essential for understanding ground geometry without being obscured by heavy weather.
+
+This request is designated with a priority level of 1, indicating it's a low priority importance task that can be scheduled flexibly. It's labeled as a non-essential background filler task that can be dropped or rescheduled at convenience. The language used will be casual and highly flexible, treating this as a background survey or testbed tracking task.
+
+To fulfill this mission allocation, the operator must interpret the metadata organically, avoiding technical system tags, underscores, coordinate arrays, and raw priority numbers. Instead, the request should weave in operational objectives that naturally describe the physical phenomena to be observed—such as daylight photography, clear optical imagery, cloud-penetrating capture, active radar scans, thermal mapping, and vegetation analysis.
+
+In conclusion, this task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates. It's important to note that this request does not include any deadlines since the delivery deadline has already been resolved by an upstream module. The upper limit for data availability is specified as tomorrow during the afternoon, which must be inserted verbatim into the request.

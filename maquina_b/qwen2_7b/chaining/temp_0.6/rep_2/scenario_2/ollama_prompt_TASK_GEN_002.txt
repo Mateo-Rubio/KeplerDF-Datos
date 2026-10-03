@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to ensure a highly realistic and conversational English output based on the provided raw physical simulation metadata. The primary sensor is set to Near-Infrared (NIR), which will be used for water body boundary mapping and soil moisture assessment, vital tasks for discriminating gradients in environmental conditions.
+
+The geographical context is set in Italia, specifically in Norte, a region rich with natural beauty and diverse ecosystems that require meticulous observation from space. The task falls under the category of "low priority importance", acknowledging its status as a "flexible schedule" background survey or "testbed tracking task". We are instructed to note that this request can be "dropped or rescheduled at convenience", treating it as a "background survey".
+
+The operational guidelines dictate our approach to interpreting the metadata. Without raw technical tags, underscores, or coordinate arrays, we describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+In terms of mission allocation priority, our language must reflect the structural hierarchy associated with each level. Priority 1 tasks should be framed as "low priority importance" requests, which are treated as "non-essential background filler tasks". The language used should indicate a "flexible schedule" for capturing these scenes, where the operator notes they can be "dropped or rescheduled at convenience".
+
+The delivery deadline is set for "in three days in the evening", which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted VERBATIM into the request, maintaining its original form without rephrasing, shortening, or moving it to a different part of the day.
+
+With these guidelines and the provided context JSON, I am submitting this task request with confidence in our ability to translate raw physical simulation metadata into a highly realistic and conversational English output that meets the operational requirements and reflects the nuances of Earth observation mission planning.

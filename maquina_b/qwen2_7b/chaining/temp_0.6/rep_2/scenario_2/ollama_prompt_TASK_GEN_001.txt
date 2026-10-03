@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the purpose of maximizing naturalness and validation accuracy in our dataset.
+
+The geographic context involves observing Colombia, focusing specifically on the city of Génova. The operational guidelines require interpreting 'region_name' and nested 'location_details' without using raw technical system tags, underscores, or coordinate arrays. We combine the provided parameters in a realistic manner, describing the location using a combination of country, city, and landmark fields from 'location_details'. If these details are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', indicated by a casual tone with flexible scheduling. This request is framed as a low priority importance task with a flexible schedule for opportunistic capture, treated as a background survey or testbed tracking task. The language must explicitly state that this task can be dropped or rescheduled at convenience.
+
+Sensors and physical objectives involve the primary 'SAR' sensor. We interpret this as an active radar scan using microwave surface imaging to perform cloud-penetrating capture for heavy weather conditions or to capture ground geometry. This objective is crucial for ensuring comprehensive data collection without interference from atmospheric conditions.
+
+The delivery deadline stipulates that the task must be completed by "today in the evening". This phrase serves as the stated upper limit for data availability, requiring insertion of this exact phrase into our request. No raw UTC timestamps, digits, or countdown metrics should appear.
+
+Taking all these guidelines into account, the request is as follows: "Please conduct an active radar scan using microwave surface imaging to capture ground geometry and perform cloud-penetrating observations in Colombia, focusing on the city of Génova. This task has a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience. Complete this mission today by evening, adhering to the specified deadline."
+
+The task request is now submitted according to operational guidelines, ensuring that it aligns with our dataset's naturalness and validation accuracy requirements.
