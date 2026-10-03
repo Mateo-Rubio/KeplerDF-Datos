@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The word contained in that string is "mid-day".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, we aim for a request that reflects a medium importance task with a standard operational tone. The target day is set for tomorrow, focusing on capturing data around mid-day. This timeframe represents a critical moment for gathering specific information due to its relevance to the physical phenomena being observed.
+
+The primary sensor specified is TIR (Thermal Infrared), which will be used to capture thermal mapping data. This technique allows us to identify heat signatures and surface temperature profiles, essential for detecting thermal anomalies and mapping heat emissions across the area of interest.
+
+Our geographic context involves Colombia, with a specific focus on the city of La Paz. Although both country and city are mentioned, we can combine these details naturally without using raw technical tags or coordinate arrays. Describing the location as "Colombia" and "La Paz" provides a realistic context for where this task is to be executed.
+
+With a priority level of 2, this mission allocation indicates that it's part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The request is framed as a standard operational tasking rather than an urgent or binding contract requirement. We understand that the deadline is strict and represents a crucial operational deadline for delivering the data products.
+
+In summary, we are tasked with capturing thermal mapping data around mid-day tomorrow in La Paz, Colombia, using our TIR sensor. This mission aligns with our standard operational procedures and will contribute to our baseline pipeline tracking activities without requiring any adjustments to the deadline or shifting it to an adjacent part of the day. The task is part of our normal workflow update process, reflecting a routine monitoring activity that supports our ongoing efforts in Earth observation missions.
