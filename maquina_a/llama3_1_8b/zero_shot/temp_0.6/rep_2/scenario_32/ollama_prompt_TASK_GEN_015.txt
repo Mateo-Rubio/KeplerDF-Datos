@@ -1,0 +1,29 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The task requires translating the provided JSON metadata into a natural language request. This involves interpreting the metadata according to specific operational guidelines.
+
+The location details are as follows: The region is Indonesia, specifically Tanjung Jabung Timur. To describe this location naturally, we can combine the country and city fields. However, since the landmark field is not applicable in this case, we will use a combination of the country and city to describe the location.
+
+The priority level is 3, indicating a high importance task. This requires using an authoritative and commanding tone to frame the request as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive." The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock."
+
+The primary sensor is TIR, which requires explaining the goal as "thermal mapping" to capture a "heat signature," "surface temperature profile," or for "thermal anomaly detection" and mapping heat emissions.
+
+The target day is tomorrow, and the target diurnal period is in the morning. This deadline must be reflected naturally in the request, ensuring the products are ingested into the pipeline before tomorrow's morning block.
+
+Considering these guidelines, the final natural user request would be:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+The task requires translating the provided JSON metadata into a natural language request. This involves interpreting the metadata according to specific operational guidelines.
+
+The location details are as follows: The region is Indonesia, specifically Tanjung Jabung Timur. To describe this location naturally, we can combine the country and city fields. However, since the landmark field is not applicable in this case, we will use a combination of the country and city to describe the location.
+
+The priority level is 3, indicating a high importance task. This requires using an authoritative and commanding tone to frame the request as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive." The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock."
+
+The primary sensor is TIR, which requires explaining the goal as "thermal mapping" to capture a "heat signature," "surface temperature profile," or for "thermal anomaly detection" and mapping heat emissions.
+
+The target day is tomorrow, and the target diurnal period is in the morning. This deadline must be reflected naturally in the request, ensuring the products are ingested into the pipeline before tomorrow's morning block.
+
+Considering these guidelines, the final natural user request would be:
+
+We require a high-resolution thermal image of Tanjung Jabung Timur in Indonesia by tomorrow morning at the latest. This is an absolute institutional priority and a binding contract requirement for critical payload capture. We need to capture a heat signature and surface temperature profile to facilitate thermal anomaly detection and mapping of heat emissions. Please ensure the products are ingested into the pipeline before tomorrow's morning block.

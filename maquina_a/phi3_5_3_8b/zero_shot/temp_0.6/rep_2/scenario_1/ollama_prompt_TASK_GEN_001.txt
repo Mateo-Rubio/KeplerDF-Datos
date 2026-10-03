@@ -1,0 +1,40 @@
+Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+You are an astrophysical researcher drafting a comprehensive request to an automated space probe planner. Your task is to interpret complex scientific metadata provided in JSON format into a detailed and articulate English request that incorporates advanced technical jargon and operational procedures, adhering to the following guidelines:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name' and nested 'location_details'):
+   - Integrate scientific terminology while describing geographic locations without using raw coordinates or system tags.
+   - When country, city, or landmark are "N/A", incorporate the remaining valid fields into a comprehensive description of an astronomical site of interest based on observable characteristics like 'galaxy_cluster', 'dark matter concentration', and 'cosmic microwave background (CMB) radiation'.
+   - If all geographic details are absent, fabricate plausible terms that would fit within the scope of astrophysical study.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Translate priority levels into a specialized research directive tone using precise astronomical terminology and urgency markers.
+     * Priority 3 (Critical Research Mandate): Use an imperative, technical language style to convey absolute necessity for mission execution with phrases like "imperative observational requirement" or "mission-critical observation". Emphasize the need for immediate data acquisition related to a current research anomaly.
+     * Priority 2 (Significant Research Phase): Use an articulate, technical tone that describes this as a key phase in a multiphase study with phrases such as "integral observational campaign" or "crucial temporal window for spectral analysis".
+     * Priority 1 (Supplementary Data Collection): Use language indicating additional information gathering opportunities using terms like "supplementary observations", "complementary data acquisition phase", or "adjunct astrophysical inquiry".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Translate sensor types into their specific scientific goals, such as polarimetry for magnetic field mapping, X-ray spectrometry for high energy phenomena analysis, or gravitational wave detection mechanisms.
+     * VIS -> Describe the goal in terms of photometric accuracy and chromatic fidelity required to study stellar compositions and surface properties.
+     * SAR -> Explain as a necessity for precise topographical mapping using radar interferometry techniques, essential for studying gravitational anomalies or geophysical features on celests bodies.
+     * TIR -> Elaborate the goal in terms of thermal flux measurement and blackbody radiation analysis to understand star formation regions or active galactic nuclei dynamics.
+     * VNIR -> Detail the objective as multi-wavelength photometry for spectral energy distribution modeling, crucial for understanding stellar populations and interstellar medium composition.
+     * NIR -> Describe in terms of submillimeter absorption lines to identify molecular clouds or protoplanetary disks within star-forming regions.
+
+4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+        - Integrate precise temporal language for astrophysical phenomena observation windows, avoiding colloquial time references.
+        - Include a phrase structure that conveys the critical timing of data collection relative to celestial events or orbital mechanics, such as "precisely during the transit phase" or "in alignment with peak galactic activity".
+
+Target task context JSON:
+{
+  "primary_sensor": "Gravity Wave Detector",
+  "location_details": {
+    "galaxy_cluster": "Centaurus A",
+    "dark matter concentration": "High"
+  },
+  "priority_level": 3,
+  "target_day": "2023-04-15",
+  "target_diurnal_period": "transit phase of a black hole candidate within the cluster"
+}
+
+Now output ONLY the final natural user request inside:

@@ -1,0 +1,20 @@
+Return ONLY one block delimited by triple backticks with the language tag `python`.
+
+You are a climate data analyst writing Python code to process satellite imagery for environmental monitoring. Your task is to extract specific land cover types from an array of multispectral images using NumPy and Pandas libraries, where each pixel's value corresponds to different spectral bands representing various land covers (e.g., vegetation, water, urban areas).
+
+The metadata provided in JSON format must be interpreted into a complex Python function that performs the following operations:
+
+1. Preprocess data by normalizing pixel values across all images within a given 'image_set' using MinMaxScaler from sklearn.preprocessing for each spectral band separately, ensuring uniformity before classification.
+2. Use KMeans clustering (from sklearn.cluster) to classify the land cover types into three broad categories: vegetation, water bodies, and urban areas based on their respective spectral signatures within a 'normalized_image_set'. The number of clusters should be set according to preliminary analysis for each category's distinctiveness in the dataset.
+3. Create a new Pandas DataFrame with columns representing pixel coordinates (row, column), original raw values, and predicted land cover types after classification ('vegetation', 'waterbody', 'urban'). The index should be reset without retaining old indices.
+4. Identify and extract time-lapse data points from the 'timestamps' array within the metadata that fall exactly on weekends (Saturday or Sunday), assuming a standard ISO 8601 date format, then create a separate DataFrame with these timestamps only for further temporal analysis of land cover changes over weekends.
+5. Integrate an exception handling mechanism to catch and log any errors during the normalization or clustering steps without stopping the entire process. These logs should contain timestamped entries indicating at which image set point (if applicable) the error occurred.
+6. Write a function 'generate_report' that takes in both DataFrames with extracted weekend timestamps, and generates a summary report by calculating the percentage change of each land cover type over these specific days compared to their respective previous weeksends, assuming you have access to historical data for comparison (you can use dummy variables as placeholders for this part).
+7. The final function should also print out a warning if any normalization or clustering step fails more than once across the entire 'image_set'. This indicates potential issues with image quality that requires further investigation.
+8. Document your code with appropriate comments explaining each significant operation and exception handling, as well as assumptions made for temporal analysis based on weekends only.
+9. Add inline annotations to guide a future data scientist in understanding the purpose of specific lines or blocks within your function.
+10. Include at least two test cases using dummy datasets that demonstrate how your code handles both successful and error scenarios, ensuring the exception handling is adequate for real-world application.
+
+Considering these guidelines, craft a detailed Python function named 'process_land_cover' encapsulating all above requirements. The input JSON metadata should not be directly used in the code; instead, it must inspire its design and flow. After completing your function, explain how each part of your code aligns with these operational guidelines using inline comments for clarity.
+
+Your Python code block:
