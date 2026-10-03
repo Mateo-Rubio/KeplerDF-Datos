@@ -1,0 +1,32 @@
+Please translate the raw physical simulation metadata provided into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the metadata organically according to these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any field is "N/A", gracefully ignore it and describe the location using remaining valid fields or 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - For Priority 3 (High Importance), use an authoritative tone framing this as an "absolute institutional priority" or a "binding contract requirement". Mention "critical payload capture" or "mandatory directive", implying "urgent operational execution" and "un-preemptable mission lock".
+   - For Priority 2 (Medium Importance), use a professional tone describing the request as a "standard operational tasking" or "commercial tasking", part of "baseline pipeline tracking" with "fixed parameters" representing "normal operational status" or a "workflow update".
+   - For Priority 1 (Low Importance), use a casual tone, labeling it as a "low priority importance" request with a "flexible schedule". Explicitly note that this task can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Avoid technical abbreviations or acronyms when describing the sensors and physical objectives.
+   - Explain VIS as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+   - Describe SAR as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", suitable for capturing ground geometry under heavy weather conditions.
+   - Explain TIR as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+   - Describe VNIR as "multispectral vegetation analysis" aimed at assessing "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance.
+   - Explain NIR as "near-infrared reflection" useful for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4. DELIVERY DEADLINE:
+   - The deadline is specified as "in four days overnight", which must be inserted verbatim into your request without rephrasing, shortening, or altering it.
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "France",
+    "city": "Sotta"
+  },
+  "priority_level": 1,
+  "target_day": "in four days",
+  "target_diurnal_period": "overnight"
+}

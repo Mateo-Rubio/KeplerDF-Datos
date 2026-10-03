@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for mission allocation.
+
+I am focusing on a location within the picturesque region of Italia, specifically in the charming city of Borgo San Lorenzo. The geographical context is well-defined here, with the country and city names providing an organic blend for describing our desired location. The 'region_name' field serves as a fallback if needed, ensuring we don't rely on raw technical tags or coordinate arrays.
+
+The mission allocation priority level is set to 'Priority 1', indicating low importance. This request will be framed as a "low priority importance" task with a flexible schedule for "opportunistic capture". We will treat it as a "background survey" or "testbed tracking task" that can be dropped or rescheduled at convenience.
+
+The primary sensor is specified as VNIR, which we will interpret as an objective to conduct "multispectral vegetation analysis". This will involve assessing the "chlorophyll absorption level" and calculating a vegetation "NDVI index" to understand surface reflectance patterns.
+
+Given the delivery deadline is set for "the day after tomorrow overnight", this phrase will be inserted verbatim into our request, indicating the upper limit for data availability. We'll avoid raw UTC timestamps, digits, or countdown metrics in favor of clear and descriptive language.
+
+In conclusion, my request to the satellite constellation planner involves a natural description of the location, an interpretation of mission allocation priority, and an explanation of physical objectives based on VNIR sensor data, all aligned with the deadline constraint provided.

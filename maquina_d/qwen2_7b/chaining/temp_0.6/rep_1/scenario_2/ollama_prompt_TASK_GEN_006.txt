@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to automate our satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a single, highly realistic and conversational English request for a specific location and mission allocation priority.
+
+The geographic context involves capturing data on Indonesia's Ecuatorial region using a VNIR sensor for a "low priority importance" tasking. This mission aligns with a "flexible schedule" and is treated as a "non-essential background filler task". The "standard operational status" here involves "opportunistic capture", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The physical phenomenon to be observed includes capturing details on "multispectral vegetation analysis" for assessing "chlorophyll absorption level" and calculating a vegetation "NDVI index" with a focus on surface reflectance. The request ensures to include a "heat signature", "surface temperature profile", or the capability for "thermal anomaly detection" using our VNIR sensor capabilities.
+
+The delivery deadline for this task has already been resolved by an upstream module, which is set as "in three days during the afternoon". We must insert this phrase verbatim into our request, as the stated upper limit for data availability without any rephrasing or adjustments to the part of the day.
+
+In summary, our task request encapsulates a "standard operational tasking" with a "baseline pipeline tracking" setup. The inclusion of fixed parameters represents "normal operational status", and we are prepared to capture data on Ecuatorial Indonesia's vegetation health using VNIR technology during the afternoon three days from now.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy of the dataset.
+
+Given the operational guidelines, we interpret the keys 'region_name', 'location_details', 'priority_level', 'target_day', and 'target_diurnal_period' in JSON format as follows:
+
+We are tasked with capturing a high-resolution active radar scan using microwave surface imaging. This is to pierce through heavy weather conditions or capture ground geometry. The mission's geographic context involves Indonesia, specifically the city of Ecuatorial.
+
+The operational priority level is set at 'Priority 1', indicating low importance. This request should be framed as a "flexible schedule" task for "opportunistic capture", treated as a "background survey" or "testbed tracking task". The deadline for this task is resolved by an upstream module, with data availability set for "in four days overnight".
+
+In conclusion, our request encapsulates the need for a thermal mapping mission to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and map heat emissions. We aim to assess the operational objectives using VNIR and NIR sensors for multispectral vegetation analysis and near-infrared reflection purposes. This is part of a standard baseline pipeline tracking setup with fixed parameters representing normal operational status or a workflow update.
+
+Please ensure this request aligns with our mission's requirements and deadline, as stipulated in the provided metadata.

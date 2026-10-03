@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context of this task involves Colombia, specifically El Castillo city, which combines country, city, and landmark fields from 'location_details'. The mission allocation priority level is set at Low Importance, indicating a flexible schedule for an opportunistic capture, with the language framing it as a non-essential background filler task. This request is explicitly noted to be treated as a background survey or testbed tracking task.
+
+The primary sensor specified is VNIR, which aims to perform multispectral vegetation analysis. The goal here is to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance, contributing to understanding the health and productivity of ecosystems.
+
+The delivery deadline for this task is resolved by an upstream module, set as "in three days during the afternoon". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In conclusion, this Earth-observation mission involves capturing high-resolution optical snapshots for daylight photography and clear optical imagery, focusing on Colombian vegetation health assessment through VNIR analysis during a scheduled afternoon period in three days. The task is treated as a low priority importance request with flexible scheduling options.
