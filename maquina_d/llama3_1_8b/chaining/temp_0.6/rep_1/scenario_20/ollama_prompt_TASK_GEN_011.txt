@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission task. The task involves translating the provided JSON metadata into a clear and concise operational request.
+
+Given the geographic context, describe the location of the observation mission by combining the JSON parameters naturally. The region_name is 'Italy', and the location_details specify the country as 'Italia' with the city being 'Sabaudia'. Since the landmark field is not provided, the description will focus on the clean region_name and valid location details. Therefore, the location of the observation mission is in Italy, specifically in the city of Sabaudia.
+
+In terms of mission allocation priority, the task has been assigned a high importance level, classified as an absolute institutional priority. This indicates that the mission allocation authority and asset contractual value are critical, and the task requires an urgent operational execution with an un-preemptable mission lock. The task is indeed a critical payload capture, and its execution is a binding contract requirement.
+
+The primary sensor involved in this observation mission is Thermal Infrared (TIR), which will be used for thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. This high-resolution thermal snapshot will provide valuable insights into the thermal dynamics of the region.
+
+The delivery deadline for this task is tomorrow overnight, as specified in the target_day and target_diurnal_period fields. This means that the data must be available by the end of tomorrow night.
