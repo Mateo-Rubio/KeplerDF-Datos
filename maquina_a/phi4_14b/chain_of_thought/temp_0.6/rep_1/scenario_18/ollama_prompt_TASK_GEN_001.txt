@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating metadata into a natural and conversational request for an Earth-observation mission. Let's break down the details:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the urgency of the task, as it requires delivery by the next day.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the data collection should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning." This word must be included verbatim in the final request to ensure clarity regarding the time of data capture.
+
+d) It's crucial to confirm that the deadline is not being shifted. The task specifies a strict operational deadline of "tomorrow morning," and this timing should remain unchanged in the final request to maintain the integrity of the mission's requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to conduct a critical payload capture over Aguazul, Colombia, using multispectral vegetation analysis. This task involves assessing chlorophyll absorption levels and calculating the NDVI index for the region. Given its high importance, this is a binding contract requirement with an urgent operational execution needed by tomorrow morning. The mission lock is un-preemptable, ensuring that this high-priority task is executed without delay.
