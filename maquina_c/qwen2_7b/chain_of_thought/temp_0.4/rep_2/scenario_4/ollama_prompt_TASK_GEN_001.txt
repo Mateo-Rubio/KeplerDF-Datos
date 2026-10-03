@@ -1,0 +1,23 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string that must appear literally in the final request is "evening".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day, as the target diurnal period is explicitly defined as "in the evening" and does not overlap with morning, mid-day, afternoon, or overnight.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the metadata provided:
+
+The Earth-observation mission operator requests a task focused on the region of Colombia, specifically targeting the city of Calamar. This request is categorized as having low priority importance, indicating that it is part of a flexible schedule for opportunistic capture, and is considered a non-essential background filler task.
+
+The primary sensor utilized will be VNIR, aimed at conducting multispectral vegetation analysis to assess chlorophyll absorption levels or calculate the NDVI index and surface reflectance. This data collection aims to provide insights into the health and productivity of the vegetation in the region.
+
+The mission deadline is set for "in three days", with a specific target time of "in the evening". This deadline represents a strict operational deadline for delivering the data products, not altering the orbital capture window.
+
+The task request emphasizes capturing high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation to ensure comprehensive coverage and accurate representation of the region's landscape during the specified time frame.
+
+In conclusion, the Earth-observation mission operator seeks to conduct a routine monitoring task using VNIR sensors in the evening of "in three days" to gather critical data on vegetation health and land use in the city of Calamar, Colombia.
