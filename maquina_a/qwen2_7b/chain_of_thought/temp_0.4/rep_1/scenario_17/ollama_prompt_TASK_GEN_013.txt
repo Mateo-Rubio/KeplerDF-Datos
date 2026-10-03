@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The word contained in that string is "mid-day".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON metadata, we aim to capture a high-resolution optical snapshot of the region named San Pablo, which is located in Colombia. This request is classified as having low priority importance, implying that it falls under the category of a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The deadline for this data collection mission is set for "in four days", specifically around mid-day.
+
+The primary sensor to be utilized for this mission will be a VIS (visual/infrared) sensor, designed to provide daylight photography capabilities, offering clear optical imagery and true-color visual documentation of the area. This will enable detailed observation and documentation of the landscape during the mid-day period, when sunlight is most intense and colors are vivid.
+
+As part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, this tasking involves capturing a heat signature through thermal mapping using the TIR (thermal infrared) sensor. This will help in identifying surface temperature profiles and detecting thermal anomalies, providing valuable insights into heat emissions from various sources on the ground.
+
+To complement the visual and thermal data, the VNIR (visible near-infrared) sensor will be employed for multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI (Normalized Difference Vegetation Index) to understand the health and density of vegetation. Additionally, the NIR (near-infrared) sensor will be utilized for near-infrared reflection capabilities, mapping water body boundaries and assessing soil moisture content.
+
+In summary, our Earth-observation mission operator is tasked with capturing high-resolution optical imagery, conducting thermal mapping, assessing vegetation health, and evaluating soil moisture levels in San Pablo, Colombia, using a VIS, TIR, VNIR, and NIR sensor suite. The deadline for this data collection is set for "in four days", specifically around mid-day, as per the operational guidelines provided by the JSON metadata.

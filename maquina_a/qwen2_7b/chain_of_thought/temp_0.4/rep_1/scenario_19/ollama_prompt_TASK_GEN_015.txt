@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as "during the afternoon" on "tomorrow".
+
+STAGE 2:
+
+Given the operational guidelines and the raw metadata provided, our Earth-observation mission request can be framed as follows:
+
+We are tasked with capturing high-resolution thermal mapping data of Desa Muaro Sentajo, Indonesia, during the afternoon tomorrow. This request is of medium importance, aligning with standard operational tasks that are part of our baseline pipeline tracking setup with fixed parameters. The critical payload capture involves obtaining a heat signature and surface temperature profile to support thermal anomaly detection and mapping heat emissions.
+
+Utilizing our thermal infrared (TIR) sensor, we aim to assess the thermal conditions of the region for critical decision-making purposes. This mission is to be executed with an authoritative tone, emphasizing its importance in our operational status without implying urgency beyond its designated time frame.
+
+Please ensure that this data product is delivered by the specified deadline of "during the afternoon" on "tomorrow", adhering strictly to this temporal parameter as a strict operational deadline for delivering the data products.
