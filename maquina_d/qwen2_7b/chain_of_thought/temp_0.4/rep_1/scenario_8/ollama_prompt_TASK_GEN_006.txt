@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string which must appear literally in the final request is "mid-day".
+d) I am not shifting the deadline to an adjacent part of the day, as the string specifies "the day after tomorrow" and "around mid-day".
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context provided, we are tasked with capturing a thermal mapping dataset for Indonesia's equatorial region, focusing on the critical period around mid-day on the day after tomorrow. This mission is assigned a priority level of medium importance, indicating it is part of our standard operational tasking but with specific parameters that must be adhered to. The high-resolution thermal imagery will provide a comprehensive heat signature and surface temperature profile across the region, essential for thermal anomaly detection and mapping heat emissions.
+
+The deadline for this data collection is set for mid-day on the day after tomorrow, which aligns with our baseline pipeline tracking setup and represents a normal operational status. This request does not necessitate any urgent operational execution or an un-preemptable mission lock, as it falls under our standard workflow updates. It is important to note that while this task carries medium priority, we will ensure its execution without compromising the integrity of other critical tasks in our pipeline.
+
+The primary sensor involved in this mission is a Thermal Infrared Imager (TIR), which will capture detailed thermal data to support our operational objectives. The imagery acquired will contribute to the understanding of heat distribution patterns and temperature profiles across the region, providing valuable insights for various applications such as environmental monitoring, disaster response planning, and resource management.
+
+In summary, we are tasked with capturing high-quality thermal data for Indonesia's equatorial region on the day after tomorrow around mid-day using a TIR sensor. This mission is part of our standard operational tasks but carries medium priority, ensuring it is executed within our normal workflow parameters without affecting other critical operations.
