@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a request for an automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request. Here's the specific information:
+
+The primary sensor required for this operation is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. The focus of this mission is on cloud-penetrating capture, enabling us to pierce through heavy weather conditions and accurately map the ground geometry beneath.
+
+The geographic context for this operation is in Malaysia, specifically targeting a city named Ecuatorial. Given that 'Ecuatorial' does not correspond to an actual city, we will refer to it as being within the country of Malaysia without further location details provided. This places our focus on a significant landmass known for its diverse terrain and climatic conditions where SAR imagery could be particularly valuable.
+
+This task is assigned with low importance (Priority 1), indicating that while necessary, it can be scheduled flexibly or rescheduled as required. The request should therefore adopt an opportunistic capture approach, framed as a non-essential background filler task where the operator has the discretion to drop or reschedule at their convenience.
+
+The target day for this operation is in four days, and we aim to complete data acquisition by morning, which sets our delivery deadline without using raw UTC timestamps or countdown metrics.
+
+Here's how I would formulate the request:
