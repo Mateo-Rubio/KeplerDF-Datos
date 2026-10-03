@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This indicates the deadline for the data delivery, which should not be altered or shifted.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the observation should occur, emphasizing the need to capture data during this period.
+
+c) The single word contained in the 'target_diurnal_period' string that must appear literally in the final request is "mid-day". This word defines the specific part of the day for the data collection.
+
+d) It's important to confirm that the deadline is strictly adhered to as "in three days" and that the observation occurs specifically "around mid-day". There should be no shift to any other part of the day, such as morning, afternoon, evening, or overnight, as these would not align with the specified operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I require an absolute institutional priority tasking for a high-resolution near-infrared reflection capture focusing on soil moisture assessment in Uribe, Colombia. This is a binding contract requirement involving a critical payload capture that must be executed without fail. The data should be delivered within three days and specifically collected around mid-day. Please ensure this mission lock is treated as un-preemptable due to its high importance.

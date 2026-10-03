@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's delve into the details of the task context:
+
+a) The exact string in 'target_day' is "in four days". This indicates the time frame by which the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should ideally occur.
+
+c) Within the string "in the morning", the single word that matches our set is "morning". This word will be used verbatim in the final request to specify the timing of the task.
+
+d) It's crucial to confirm that we are not altering the deadline. The task must be completed "in four days" and specifically "in the morning". There is no indication or permission to shift this timeframe to any other part of the day, such as mid-day, afternoon, evening, or overnight. Therefore, the deadline remains strictly as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a routine monitoring mission over Prati di Tivo, Italy. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The objective is to conduct multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. We need this high-resolution optical snapshot in four days, specifically in the morning. Please ensure that the data products are delivered by this deadline as part of our standard workflow update.

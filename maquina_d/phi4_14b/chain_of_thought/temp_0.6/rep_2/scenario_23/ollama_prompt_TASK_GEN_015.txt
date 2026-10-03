@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in four days."
+
+b) The exact string found in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" that matches the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The task specifies a strict operational deadline with no indication to shift or alter the time frame. Therefore, the deadline remains as "in four days" and during the "overnight" period, without any adjustments to an adjacent part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for Kepulauan Meranti in Indonesia, focusing on multispectral vegetation analysis to assess chlorophyll absorption levels. This involves capturing data using VNIR sensors to calculate NDVI indices and surface reflectance. The mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require this task completed in four days during the overnight period.

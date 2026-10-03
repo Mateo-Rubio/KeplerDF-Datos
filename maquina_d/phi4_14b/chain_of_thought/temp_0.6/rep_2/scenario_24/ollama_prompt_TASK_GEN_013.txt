@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates that the task must be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning". This word will be used literally in the final request to indicate the specific time of day for the task.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be executed specifically "in the morning" as stated, and it must be completed "in three days". These parameters are strict operational deadlines and should be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority mission for a critical payload capture over Melgar, Colombia. This task requires a high-resolution multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate NDVI indices. It is a binding contract requirement that demands urgent operational execution with an un-preemptable mission lock. The data must be delivered no later than in three days, specifically "in the morning". This precise timing is crucial for achieving the necessary atmospheric conditions and solar illumination needed for accurate data collection. Please ensure all resources are allocated to meet this mandatory directive without delay.
