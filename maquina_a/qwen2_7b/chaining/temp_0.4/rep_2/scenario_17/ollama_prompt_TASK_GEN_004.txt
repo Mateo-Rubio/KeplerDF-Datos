@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy of the dataset.
+
+The geographic context involves capturing a "true-color visual documentation" using a "high-resolution optical snapshot" from the primary sensor VNIR over a location in Colombia, specifically the city of Caramanta. Although the country, city, and landmark fields are provided, they may not always be accurate or available, so we will use them as a realistic combination to describe the location.
+
+The mission allocation priority is set at level 1, indicating "low importance" with a "flexible schedule" for "opportunistic capture". This request is labeled as a "non-essential background filler task", which can be treated as a "background survey" or "testbed tracking task" that can be dropped or rescheduled at convenience.
+
+The physical objectives are to assess the "chlorophyll absorption level" through "multispectral vegetation analysis" using VNIR technology. This will help in calculating a vegetation "NDVI index" and surface reflectance, providing valuable insights into the health of the vegetation.
+
+The deadline for this task is "in three days in the evening". This phrase serves as the upper limit for data availability, ensuring that the data collected will be available by this specific time. No raw UTC timestamps or countdown metrics are included in the request.
+
+In conclusion, our aim is to capture essential data on vegetation health and surface reflectance over Caramanta, Colombia, without any urgency but with a clear deadline set three days from now in the evening. This task request is submitted with the understanding that it falls under the category of "low priority importance" and can be managed accordingly within our operational workflow.

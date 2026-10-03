@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture a high-resolution optical snapshot of the region named "Olmo al Brembo" in Italy, using daylight photography techniques. This request is categorized under a low priority importance level, as it's treated as a flexible schedule background survey or testbed tracking task. The imagery is intended for clear optical documentation and true-color visual analysis.
+
+The delivery deadline for this task is the day after tomorrow overnight. We aim to capture the essence of this location without any urgency; therefore, we consider this request as a non-essential background filler task that can be dropped or rescheduled at convenience, representing normal operational status or a workflow update.
+
+Let's proceed with the operational guidelines and translate the raw physical simulation metadata provided into a conversational English request:
+
+1. GEOGRAPHIC CONTEXT: We will describe Olmo al Brembo in Italy using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we'll gracefully ignore them and describe the location using remaining valid fields or clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: We will use a casual, highly flexible tone for this request as it's categorized under priority level 1. This language reflects that it's a low priority importance task with a flexible schedule for opportunistic capture.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We will interpret the 'primary_sensor' key and weave operational objectives and descriptors into our request to explain the physical phenomenon to be observed. For VIS, we'll explain the goal as a high-resolution optical snapshot for daylight photography or clear optical imagery.
+
+4. DELIVERY DEADLINE: The deadline for this task has already been resolved by an upstream module, "the day after tomorrow overnight". We will insert this phrase verbatim into our request, considering it as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our Earth-observation mission operator is requesting the capture of high-resolution optical imagery of Olmo al Brembo in Italy using daylight photography techniques. This task is categorized under low priority importance with an overnight deadline for delivery on the day after tomorrow. We are treating this as a background survey or testbed tracking task that can be rescheduled at convenience, reflecting normal operational status or a workflow update.

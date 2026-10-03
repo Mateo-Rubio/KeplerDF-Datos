@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target task context provided includes a primary sensor of SAR, indicating an active radar scan for microwave surface imaging, aimed at capturing ground geometry or penetrating heavy weather conditions. The geographic context involves the location details with the country being 'N/A' and the city as 'Norte', which I will describe using realistic terms without relying on raw technical system tags or coordinate arrays.
+
+Considering the operational guidelines:
+1. GEOGRAPHIC CONTEXT: I will combine the available parameters naturally, describing the location using a realistic combination of fields from 'location_details'. Since country and city are not specified, I'll focus on the 'region_name' if provided or use 'Norte' as an indicative landmark.
+2. MISSION ALLOCATION PRIORITY: The priority level is 2, which I will interpret by describing this request as a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+3. SENSORS AND PHYSICAL OBJECTIVES: Since the primary sensor is SAR, my request will explain the goal as an active radar scan for cloud-penetrating capture, ensuring we can see ground geometry regardless of weather conditions.
+
+The delivery deadline for this task is "the day after tomorrow in the evening". This phrase will be inserted verbatim into our request, as the stated upper limit for data availability. We understand that the deadline has already been resolved by an upstream module and do not need to rephrase or shorten it.
+
+To summarize, my request is:
+
+"Please allocate resources for a standard operational task involving SAR technology to capture ground geometry in 'Norte', N/A country, on the day after tomorrow in the evening. This task requires cloud-penetrating radar imagery for accurate surface mapping and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status."
+
+This request integrates the provided metadata naturally, ensuring that the dataset maximizes naturalness and validation accuracy while adhering to the operational guidelines.

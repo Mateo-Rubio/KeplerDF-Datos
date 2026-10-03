@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting this task to our automated satellite constellation planner. The objective is to capture a high-resolution optical snapshot for daylight photography of the city of Sabana de Torres in Colombia. This request carries a low priority importance and can be treated as a flexible schedule low-priority background filler task. It's framed as an opportunistic capture with no strict deadline, allowing it to drop or reschedule at our convenience.
+
+The primary sensor involved will be VIS, which will provide us with clear optical imagery for this task. We aim to document the city's landscape and urban environment accurately without any constraints from cloud cover or weather conditions, thanks to the active radar capabilities provided by SAR technology.
+
+The thermal mapping aspect of this task will be handled using TIR technology, focusing on capturing heat signatures, surface temperature profiles, and detecting thermal anomalies. This is crucial for understanding the city's heat emission patterns and planning for potential energy management strategies.
+
+For the VNIR sensor, we're conducting a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance values. This will help us understand the health of the vegetation in the area and plan for future agricultural activities.
+
+As for the NIR sensor, it will be used to map water body boundaries and assess soil moisture content for potential agricultural use or environmental monitoring purposes.
+
+The deadline for this task has already been set by an upstream module, stating that we need the data by "in three days overnight". This means that the final dataset should be available by midnight of the third day from now. Please ensure that our satellite constellation prioritizes this request accordingly to meet this deadline.
+
+Please note that there are no raw technical system tags, underscores, or coordinate arrays in this request. We have combined the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details' when available. If any field is "N/A", we gracefully ignored them and described the location using remaining valid fields or the clean 'region_name'.
+
+Let's proceed with executing this task efficiently while maintaining the operational guidelines for naturalness and validation accuracy.

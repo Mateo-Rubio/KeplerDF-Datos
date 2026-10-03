@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The operational guidelines dictate the interpretation of raw physical simulation metadata provided in JSON format. Our objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves the 'region_name' and nested 'location_details'. We're focusing on the 'country', 'city', and 'landmark' fields for a realistic description of the location. The 'country' field is "Italia", and the 'city' is "Silea". Since there's no specific landmark provided, we'll describe the location using these valid fields.
+
+The mission allocation priority is indicated by the 'priority_level'. In this case, it's set to 3, which means "High Importance". This request is framed as an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture" and an "urgent operational execution" that must be "un-preemptable".
+
+The primary sensor for this task is specified as "NIR", which we'll interpret as "near-infrared reflection". The goal of the observation is to "map water body boundaries" and assess "soil moisture", providing crucial information for environmental monitoring.
+
+The delivery deadline is set for "in three days in the evening". This phrase must be included verbatim in our request, as it represents the upper limit for data availability. It's important not to rephrase or shorten this phrase, nor move it to a different part of the day.
+
+In summary, our request to the satellite constellation planner is as follows: "Please capture near-infrared reflection imagery of the city of Silea in Italia on the evening of three days from now for mapping water body boundaries and assessing soil moisture. This task is of high importance, requiring an urgent operational execution that cannot be preempted. Please ensure the data is available by the specified deadline."
+
+This request integrates the operational guidelines to provide a detailed, realistic, and conversational English description of the mission, ensuring accurate interpretation and validation of the physical simulation metadata.

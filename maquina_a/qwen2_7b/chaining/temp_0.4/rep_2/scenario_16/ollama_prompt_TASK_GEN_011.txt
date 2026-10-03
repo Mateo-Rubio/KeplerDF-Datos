@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines include interpreting the geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. For this task, since 'country' is 'N/A', we will describe the target location based on 'city' and 'landmark'. The city mentioned is 'Norte', which will be part of our description.
+
+The mission allocation priority is indicated by the 'priority_level'. In this case, it's set to 3, which signifies high importance. We'll frame this request as an "absolute institutional priority" or a "binding contract requirement". This involves a "critical payload capture", requiring an "urgent operational execution" and an "un-preemptable mission lock".
+
+The sensors and physical objectives are interpreted based on the 'primary_sensor'. Here, it's set to 'VIS', which will be translated into a request for a "high-resolution optical snapshot" for "daylight photography". This involves capturing "clear optical imagery" or providing "true-color visual documentation".
+
+The delivery deadline is specified as "in three days around mid-day". This phrase must be included verbatim in our request, stating the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request to the satellite constellation planner will be:
+
+"Please prioritize an 'absolute institutional priority' task for a 'high-resolution optical snapshot' using visible light sensors. This is required for 'daylight photography', aiming to capture 'clear optical imagery' or 'true-color visual documentation'. The location is described based on 'Norte', which represents our target geographic context without specific country details. The mission must be executed with an 'urgent operational execution' and should not be pre-empted, aligning with a 'binding contract requirement'. The deadline for data availability is set as 'in three days around mid-day', adhering to the specified upper limit for data delivery."
+
+This request encapsulates all the guidelines provided, ensuring that the translation of raw physical simulation metadata into a conversational English request is both accurate and reflective of the operational context.
