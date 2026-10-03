@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request.
+
+The geographic context involves observing Colombia, specifically the city of Florida, which is a country known for its vibrant biodiversity and unique landscapes. The mission allocation priority is of low importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task within our operational pipeline.
+
+The primary sensor to be used is near-infrared (NIR), aimed at mapping water bodies and assessing soil moisture. The goal is to capture the thermal signature of these areas through near-infrared reflection, providing valuable insights into water boundaries and soil conditions.
+
+The delivery deadline for this task is "the day after tomorrow overnight," a specific time frame that serves as the upper limit for data availability. This phrase must be inserted verbatim into our request, ensuring clear communication regarding when the data should be delivered.
+
+To maximize the naturalness and validation accuracy of the dataset, we interpret the metadata organically according to operational guidelines. We avoid using raw technical system tags, underscores, or coordinate arrays, instead combining the JSON parameters naturally to describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If country, city, or landmark are "N/A," we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+In conclusion, our task request is structured to reflect the low priority importance with a flexible schedule for "opportunistic capture." We aim to provide high-resolution optical snapshots through daylight photography, clear optical imagery, and true-color visual documentation. The request includes all necessary details for our satellite constellation planner to understand the mission's context, deadline, and sensor objectives, ensuring efficient allocation of resources according to operational guidelines.

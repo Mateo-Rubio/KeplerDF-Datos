@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that we interpret the JSON parameters naturally to maximize dataset naturalness and validation accuracy.
+
+The request involves capturing data using the VNIR sensor on the target day, which is the day after tomorrow in the morning. The geographic context indicates that our focus is on Norte, a city within an unspecified country, suggesting a specific region with potential landmarks or notable features. Although the country name is not provided, we can infer that this location might be of interest due to its unique characteristics or strategic importance.
+
+The mission allocation priority is set at Level 1, indicating a low priority importance request with a flexible schedule for opportunistic capture. This is framed as a "low priority importance" task with a "flexible schedule" and treated as a "background survey" or "testbed tracking task", emphasizing that it's not a high urgency requirement but part of the ongoing operational activities.
+
+In terms of sensors and physical objectives, the VNIR sensor is used for multispectral vegetation analysis. This involves assessing the chlorophyll absorption level or calculating the vegetation NDVI index and surface reflectance, providing valuable insights into the health and composition of plant life in the area. The goal is to capture detailed information about vegetation cover, which might help in monitoring environmental changes, agricultural productivity, or ecological health.
+
+To summarize the request concisely while adhering to the guidelines:
+
+"Please conduct a multispectral vegetation analysis using the VNIR sensor on the day after tomorrow in the morning, focusing on Norte, an area of interest that may contain unique characteristics or features. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. The objective is to gather data that can help in monitoring environmental changes, agricultural productivity, or ecological health through assessing chlorophyll absorption levels and calculating vegetation NDVI indices and surface reflectance."
+
+This request integrates the operational guidelines by avoiding raw technical tags, using realistic combinations of location details, interpreting priority levels appropriately, and describing sensor objectives naturally.

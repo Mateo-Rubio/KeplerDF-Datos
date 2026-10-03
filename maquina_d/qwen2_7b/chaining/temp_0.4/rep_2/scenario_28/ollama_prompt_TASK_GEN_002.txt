@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner with the following details:
+
+Our objective is to capture high-resolution optical imagery of Norte city during the afternoon tomorrow. The primary sensor required for this mission will be VNIR, enabling us to assess chlorophyll absorption levels and calculate vegetation NDVI index for comprehensive multispectral analysis.
+
+Given that Norte's specific country is not provided, we'll describe the location using a realistic combination of its 'city' field and any other valid fields from 'location_details'. Since 'country' and 'city' are "N/A", we'll focus on 'landmark', which unfortunately isn't specified. Therefore, we'll refer to Norte city as our target location.
+
+The priority level for this task is set at Low Importance (Priority 1). This means it's a flexible schedule request that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline for this task has already been resolved by an upstream module: "tomorrow during the afternoon", which serves as the upper limit for data availability.
+
+Our mission is to provide essential data without compromising the operational flow of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is not tied to a close deadline but rather aligns with our standard workflow updates, ensuring that our satellite constellation can capture this information at an opportune moment without affecting more critical tasks.
+
+In summary, our task request involves capturing high-resolution optical imagery of Norte city using VNIR sensors during the afternoon tomorrow. The priority level indicates a low importance task with a flexible schedule and no urgency in relation to deadlines or contractual requirements. This request is part of our standard operational tasks aimed at providing background surveys and testbed tracking data for our satellite constellation's baseline pipeline tracking setup.

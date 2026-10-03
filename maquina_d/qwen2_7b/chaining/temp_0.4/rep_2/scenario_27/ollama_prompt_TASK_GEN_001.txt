@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves Colombia, specifically the city of Puerto Rico, which will be the focal point for our observation. We aim to capture a "high-resolution optical snapshot" using the VNIR sensor for daylight photography, clear optical imagery, or true-color visual documentation of this region.
+
+This request carries a low priority importance and is framed as a "flexible schedule" task with "opportunistic capture". It's explicitly noted as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The deadline for this task has already been resolved by an upstream module, and the upper limit for data availability is set to "today in the evening". We've integrated this phrase verbatim into our request, ensuring that no raw UTC timestamps, digits, or countdown metrics are outputted.
+
+In summary, our mission allocation priority reflects a low importance level, with operational phrases emphasizing a flexible schedule and opportunistic capture. The VNIR sensor aims to provide high-resolution optical imagery of Puerto Rico in the evening, serving as a background survey or testbed tracking task for today's sunset data collection.

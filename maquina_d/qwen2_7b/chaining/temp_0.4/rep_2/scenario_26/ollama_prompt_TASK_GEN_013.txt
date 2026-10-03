@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for our satellite constellation.
+
+The geographic context involves observing Betulia, Colombia. Although the country name is provided, city details are "N/A", so we'll describe the location using the remaining valid fields or 'region_name'. We aim to capture a high-resolution optical snapshot of this beautiful region during daylight photography or true-color visual documentation.
+
+The mission allocation priority is set at low importance (Priority 1). This request can be treated as a flexible schedule task, with a "non-essential background filler" that allows for opportunistic capture. It's a "background survey" or "testbed tracking task", which doesn't require urgent attention but should still be executed efficiently.
+
+The primary sensor to be used is VNIR (Vegetation Normalized Difference Index Reflectance). Our goal is to assess the chlorophyll absorption level in the Betulia region, calculate the vegetation NDVI index, and observe surface reflectance. This task will provide valuable insights into the health of the local vegetation.
+
+The delivery deadline for this task has already been resolved by an upstream module: "in four days overnight". We must ensure that our satellite constellation captures the required data within this timeframe, adhering to the specified upper limit for data availability without any rephrasing or alteration.
+
+In conclusion, our request to the automated satellite constellation planner is to capture high-quality VNIR images of Betulia, Colombia, focusing on vegetation health assessment and surface reflectance. This task is treated as a low priority importance (Priority 1) with a flexible schedule, aiming to complete it during an overnight period four days from now.

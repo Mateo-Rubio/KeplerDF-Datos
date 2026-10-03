@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. Our objective is to translate this data into a single, detailed request that maximizes naturalness and validation accuracy.
+
+For our geographic context, we're focusing on Indonesia's Rokan Hilir region. Combining the 'country' and 'city' fields naturally, we'll describe this location as part of Indonesia, with a specific emphasis on the Rokan Hilir area. If the 'landmark' field is unavailable or "N/A", we'll proceed with the remaining valid information or simply use the 'region_name'.
+
+The mission allocation priority for this task is indicated by the 'priority_level', which is set to 1. This low importance request carries a flexible schedule, framed as a "low priority importance" task with a "flexible schedule". The operator explicitly notes that this task can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor for this mission is 'SAR', which will be executed during the 'target_day' of "tomorrow", specifically in the 'target_diurnal_period' of "overnight". The operational objectives for the SAR sensor involve an "active radar scan" using "microwave surface imaging" to capture ground geometry, piercing through heavy weather conditions.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please schedule a routine monitoring task involving an active radar scan with microwave surface imaging capabilities for tomorrow's overnight period. This mission targets the Rokan Hilir region of Indonesia, focusing on capturing ground geometry through cloud-penetrating capture methods. As this task carries a low priority importance, it can be flexibly scheduled or dropped at convenience, serving as a background survey or testbed tracking task."
+
+This request adheres to our operational guidelines, interpreting the metadata organically and translating it into a conversational English format that emphasizes naturalness and validation accuracy."

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format is intended to maximize the naturalness and validation accuracy of the dataset by interpreting it organically according to established operational guidelines.
+
+The geographic context of this mission involves capturing imagery over the region of Italia, specifically focusing on the city of Arezzo. Our primary sensor choice is Synthetic Aperture Radar (SAR), which will enable us to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture and ground geometry mapping. This request falls under Priority 1 (Low Importance) due to its flexible schedule, treating it as a non-essential background filler task or opportunistic survey.
+
+Our mission allocation priority reflects the low importance of this task, which is framed as a low priority importance request with a flexible schedule for opportunistic capture. The operator explicitly notes that this can be dropped or rescheduled at convenience, considering it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module and is set to "in three days in the morning," which must be inserted verbatim into our request as the stated upper limit for data availability. We refrain from outputting raw UTC timestamps, digits, or countdown metrics, adhering strictly to the provided phrase.
+
+In summary, this Earth-observation mission aims to capture detailed SAR imagery of Arezzo, Italia, over the course of three days in the morning, with a flexible approach to scheduling and execution, reflecting its low priority importance status.

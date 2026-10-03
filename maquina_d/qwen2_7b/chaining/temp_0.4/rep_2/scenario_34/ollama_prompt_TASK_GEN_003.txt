@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a TIR sensor task scheduled for tomorrow in the evening.
+
+The geographic context involves focusing on Indonesia, specifically the equatorial region. We're not provided with a specific city or landmark but will describe this area using the available information. Our target day is set for tomorrow, with the diurnal period to capture imagery being in the evening.
+
+Considering the priority level of 2 (medium importance), we'll frame this request as a standard operational tasking. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must not mention raw priority numbers or technical priority levels but should reflect this structural hierarchy appropriately.
+
+The primary sensor is TIR, which will be used for thermal mapping to capture a heat signature and surface temperature profile. This task aims to detect thermal anomalies and map heat emissions accurately. We're looking for high-resolution optical snapshots that allow us to document the scene with true-color visual details, providing clear optical imagery for analysis.
+
+To summarize, our request is to capture thermal data of Indonesia's equatorial region in the evening of tomorrow using a TIR sensor. This task is part of our standard operational pipeline and represents normal status with fixed parameters. The deadline is set for tomorrow in the evening, as per the upstream module's resolution. This request does not include raw technical system tags, underscores, or coordinate arrays but combines the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. The priority is set to medium importance, indicating standard operational tasks with normal status and fixed parameters.
+
+We're looking forward to receiving the data by tomorrow evening, as per our deadline. This task contributes to our ongoing efforts in Earth observation and satellite constellation management, ensuring accurate and timely data collection for various applications.

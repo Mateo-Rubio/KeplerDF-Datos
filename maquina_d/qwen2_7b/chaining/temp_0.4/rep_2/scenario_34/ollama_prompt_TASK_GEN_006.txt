@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English description based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting the operational guidelines.
+
+Given the geographic context, our target location is within Indonesia, specifically near an equatorial city known as "Ecuatorial". This region offers unique observational opportunities due to its position on Earth's equator.
+
+The mission allocation priority for this task is of low importance, as indicated by the 'priority_level' key set at 1. This request is framed as a "flexible schedule" background survey or a "non-essential background filler task", with an explicit note to "drop or reschedule at convenience". It represents a "low priority importance" within our operational pipeline, fitting into our "standard workflow update" for baseline pipeline tracking.
+
+The primary sensor specified in the JSON metadata is "VIS", which we interpret as aiming for a "high-resolution optical snapshot". This will serve as a "daylight photography" effort, capturing "clear optical imagery" or providing "true-color visual documentation" of the region. The goal is to document the landscape and environment under natural lighting conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set at "in four days overnight". This phrase must be included verbatim in our request, as it represents the upper limit for data availability without rephrasing or altering the time frame.
+
+In conclusion, the Earth-observation mission operator requests the automated satellite constellation planner to gather a high-resolution optical snapshot of the equatorial region in Indonesia, specifically near the city of Ecuatorial. This task is part of our standard workflow update, with a flexible schedule for "opportunistic capture", fitting into our baseline pipeline tracking setup as a "non-essential background filler task". The deadline for this data collection is "in four days overnight", adhering to the constraints set by upstream modules.

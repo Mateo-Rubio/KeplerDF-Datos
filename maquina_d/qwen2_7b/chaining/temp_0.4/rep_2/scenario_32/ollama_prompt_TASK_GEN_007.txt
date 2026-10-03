@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the naturalness and validation accuracy of the dataset.
+
+The geographic context is set in Colombia, with our target location being the city of Tarazá. Given that country, city, or landmark details are available, we'll describe this area using these parameters for a more realistic interpretation.
+
+The mission allocation priority is determined by the 'priority_level' key in the JSON metadata. In this case, it's set to Priority 1 (low importance), which means we're treating this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We'll frame this as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor specified in the metadata is 'SAR', which we interpret as an "active radar scan" using "microwave surface imaging". This objective involves capturing an "cloud-penetrating capture" to gather information on ground geometry, suitable for our "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters".
+
+Our target day is set for "in three days overnight". The deadline for this task has already been resolved by an upstream module, and we're inserting this phrase verbatim into our request as the stated upper limit for data availability. We're not outputting raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request to the automated satellite constellation planner is to capture a detailed radar scan of Tarazá, Colombia, during the overnight period three days from now. This task is part of a flexible schedule that allows for "drop or rescheduling at convenience", making it a "background survey" or "testbed tracking task". The use of SAR technology will provide us with valuable information on ground geometry suitable for our operational needs.
