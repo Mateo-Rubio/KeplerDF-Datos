@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days." This indicates the deadline for delivering the data products is set for four days from now.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the task should be executed.
+
+c) The single word contained in the string "overnight" that matches the options provided is "overnight." This word will be used literally in the final request to describe the timing of the task execution.
+
+d) The deadline specified as "in four days" with an "overnight" diurnal period must not be shifted to any other part of the day. It is critical to adhere strictly to this timeframe for operational compliance and accuracy.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a high-priority task request for an absolute institutional priority mission involving a critical payload capture over Cumaral, Colombia. This task requires a high-resolution multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. It is imperative that this mission be executed with an urgent operational execution and an un-preemptable mission lock. The data products must be delivered in four days, specifically during the overnight period. This task is a binding contract requirement, and any deviation from this schedule is not permissible.
