@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context involves Colombia's Nóvita city, where our mission allocation priority is set at Low Importance (Priority 1). This indicates a flexible schedule for opportunistic capture, treating it as a non-essential background filler task. The natural language interpretation should reflect a casual, highly flexible tone with the understanding that this request is part of a "background survey" or "testbed tracking task".
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which will be used for an active radar scan employing microwave surface imaging. The goal is to capture cloud-penetrating imagery for Nóvita, providing a detailed view that can pierce heavy weather conditions and capture ground geometry.
+
+The delivery deadline is set at "in four days around mid-day", with this phrase verbatim included in the request as the stated upper limit for data availability. This deadline does not involve raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task request aims to gather a detailed SAR scan of Nóvita, Colombia, for an operational background survey scheduled four days ahead around mid-day. The natural language interpretation should emphasize flexibility and opportunistic capture, aligning with the low priority importance level.

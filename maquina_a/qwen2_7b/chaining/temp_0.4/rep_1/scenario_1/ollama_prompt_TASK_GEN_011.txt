@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The operational guidelines dictate that we interpret the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Our objective is to translate this task's context into a natural and accurate representation of our mission allocation priority, geographic location, sensor and physical objectives, and delivery deadline.
+
+**Geographic Context**: We're focusing on the historical town of Grottaferrata, nestled in the picturesque region of Italia. This location offers rich cultural heritage and diverse landscapes that are ripe for observation.
+
+**Mission Allocation Priority**: Given the 'priority_level' set to 1, this task is considered low importance. We'll frame this request as a flexible schedule "background survey" or "testbed tracking task", where we can drop or reschedule it at our convenience without disrupting our operational workflow.
+
+**Sensors and Physical Objectives**: The primary sensor specified is 'SAR', which stands for Synthetic Aperture Radar. We're tasked with conducting an active radar scan using microwave surface imaging to capture ground geometry, piercing through heavy weather conditions. This approach allows us to gather essential data on the terrain's structure without being hindered by cloud cover or visibility issues.
+
+**Delivery Deadline**: The deadline for this task is set for "tomorrow during the afternoon". We must ensure our response includes this exact phrase as the upper limit for data availability, maintaining consistency with our upstream module's resolution.
+
+In conclusion, our request to the automated satellite constellation planner is to capture a detailed SAR scan of Grottaferrata in Italia during the afternoon of tomorrow. This task is part of our low priority importance background survey, offering flexible scheduling options while ensuring we adhere to the deadline set by our operational workflow.

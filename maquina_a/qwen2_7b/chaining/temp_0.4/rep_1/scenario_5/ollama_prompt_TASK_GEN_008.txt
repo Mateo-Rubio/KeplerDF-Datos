@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The provided JSON data points are as follows:
+
+- Primary sensor: SAR (active radar scan)
+- Geographical context: Region name - N/A, Location details - country: N/A, city: Norte
+- Mission allocation priority: Medium Importance (standard operational tasking, commercial tasking, routine monitoring)
+- Delivery deadline: The day after tomorrow overnight
+
+My objective is to capture an active radar scan of the region known as Norte using a SAR sensor. While the country and city names are not specified, I will describe the location based on the remaining valid fields or use 'region_name' if provided. This task falls under standard operational status or baseline pipeline tracking with fixed parameters representing normal operational conditions.
+
+To ensure maximum naturalness and validation accuracy of the dataset, I will interpret the metadata organically:
+
+1. The radar scan aims to provide cloud-penetrating capture capabilities, allowing us to map ground geometry regardless of heavy weather conditions.
+2. The request is framed as a standard operational tasking with a medium priority level, indicating that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Considering the delivery deadline is set for the day after tomorrow overnight, I will ensure that this request adheres to the specified time frame without rephrasing or shortening it. The goal is to capture essential data for our satellite constellation planner to schedule the mission accordingly, ensuring that all necessary information is included for an accurate and efficient task allocation process.
