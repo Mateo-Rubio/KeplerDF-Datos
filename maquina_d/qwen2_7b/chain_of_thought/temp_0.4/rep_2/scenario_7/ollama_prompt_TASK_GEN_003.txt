@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string which must appear literally in your final request is "morning".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the context provided by the JSON metadata, we're tasked with capturing a high-resolution active radar scan for a critical payload capture in Malaysia. Specifically, this involves an "in the morning" acquisition on "tomorrow", which represents an absolute institutional priority due to its "binding contract requirement". The radar imaging is to be used for cloud-penetrating capture, ensuring that we can gather ground geometry data even under heavy weather conditions.
+
+The location of interest is Bukit Mabong in Malaysia. This request is framed as an urgent operational execution with an "un-preemptable mission lock", emphasizing the importance and necessity of this task within our baseline pipeline tracking setup. The radar scan will utilize microwave surface imaging to provide us with detailed information about the terrain, making it a standard operational tasking.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which is essential for capturing ground geometry and penetrating cloud cover. This mission allocation has a priority level of 3, indicating high importance, and as such, we are to treat this as a "critical payload capture" with "fixed parameters" representing normal operational status. The temporal parameters represent a strict deadline for delivering the data products, which is critical for our operational workflow update.
+
+To summarize, this task involves capturing detailed radar imagery of Bukit Mabong in Malaysia during the morning hours on "tomorrow", to be used for cloud-penetrating ground geometry capture and essential operational updates. This request is characterized by its high priority level, indicating an urgent need for un-preemptable mission execution within our institutional framework.
