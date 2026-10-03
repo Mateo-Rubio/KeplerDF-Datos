@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission. Given the provided JSON parameters, the objective is to interpret the metadata organically according to operational guidelines that ensure naturalness and validation accuracy of the dataset.
+
+The geographic context of the mission involves translating the 'region_name', 'country', 'city', and 'landmark' fields from 'location_details' into a realistic description. Given the location details, we are in Chivatá, Colombia. This location will be described using the clean 'region_name' as the primary identifier.
+
+The mission allocation priority is set to High Importance, which translates to an absolute institutional priority. This task is a critical payload capture and a binding contract requirement for mandatory directive execution. The urgent operational execution and un-preemptable mission lock imply a high degree of importance, reflecting the priority level.
+
+The primary sensor for this mission is VNIR, which translates to a multispectral vegetation analysis objective. The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance. This will provide valuable insights into the health and condition of the vegetation in the region.
+
+Finally, the delivery deadline for this task is in three days during the afternoon. This request should be prioritized as an absolute institutional priority, with a binding contract requirement for mandatory directive execution. The urgent operational execution and un-preemptable mission lock imply a high degree of importance, reflecting the priority level.
