@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm tasked with submitting a request to our automated satellite constellation planner for a highly realistic and conversational English task based on the raw physical simulation metadata provided. The objective is to translate this JSON information into a single, coherent request that maximizes naturalness and validation accuracy.
+
+The geographic context involves the region of Colombia, with the specific city being San Alberto, which adds a sense of realism by incorporating both country and city names. The mission allocation priority level is set to 1, indicating a "low importance" task, which means it's treated as a "non-essential background filler task" that can be scheduled flexibly.
+
+The primary sensor specified for this request is "NIR", which will be used for capturing "near-infrared reflection" to map water body boundaries and assess soil moisture. This sensor is crucial for discriminating gradients in the landscape, providing valuable data for environmental monitoring.
+
+Delivering the data by "the day after tomorrow in the morning" serves as the upper limit for data availability; this phrase must be included verbatim in our request, reflecting the urgency of the task without specifying a specific time or using technical metrics.
+
+In summary, our mission involves capturing detailed imagery of San Alberto using near-infrared sensors for water body mapping and soil moisture assessment. Given its "low priority importance", we can treat this as a "background survey" task that can be scheduled based on convenience. The request will emphasize the operational context and objectives in natural language, ensuring clarity and efficiency in communication with our satellite constellation planner.
