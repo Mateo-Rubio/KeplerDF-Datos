@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a medium-importance mission allocation. This request involves utilizing our high-resolution SAR sensor to conduct an active radar scan over the region of interest in Colombia, specifically focusing on the city of Otanche. The goal is to capture detailed microwave surface imaging to penetrate through heavy weather conditions and unveil ground geometry with precision.
+
+Given the operational guidelines, I've interpreted the provided JSON metadata organically. The 'priority_level' being 2 signifies a standard operational tasking that's part of our baseline pipeline tracking setup. We are to execute this request with fixed parameters representing normal operational status, ensuring it adheres to our standard workflow updates without causing any preemption or disruption in other critical missions.
+
+The 'primary_sensor' attribute indicates the use of SAR technology, which will be employed for cloud-penetrating capture and detailed surface imaging. This mission aims to provide invaluable insights into ground features that are not visible through optical means, making it a crucial part of our monitoring capabilities.
+
+The deadline for this task is set for tomorrow overnight, as specified by an upstream module. We will ensure that the data is available at this exact time frame, adhering to the predetermined upper limit for data availability without any rephrasing or alteration.
+
+In summary, our request is to capture a detailed SAR scan over the city of Otanche in Colombia during the overnight period tomorrow, utilizing our high-resolution sensor for active radar imaging. This task aligns with our medium-importance mission allocation priority and will contribute to our ongoing operational activities without causing any preemption or disruption.

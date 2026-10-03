@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing imagery of a specific location in Italy, Borgo San Lorenzo, using the VNIR sensor for daylight photography. This task falls under low priority importance, which means it's treated as a flexible schedule "background survey" or "testbed tracking task". The deadline is set for the day after tomorrow overnight, with no need to rephrase this phrase.
+
+The operational guidelines guide us to interpret the metadata in a natural way, avoiding raw technical tags. We combine the JSON parameters by describing the location using realistic combinations of the country, city, and landmark fields from 'location_details'. If any of these are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is determined by the 'priority_level' key. In this case, it's set to 1, which means this request is treated as a low priority importance task with a flexible schedule for opportunistic capture.
+
+In conclusion, our task request is to capture high-resolution optical snapshots of Borgo San Lorenzo using the VNIR sensor for daylight photography, acknowledging that this is a background survey or testbed tracking task with no strict deadline constraints. The automated satellite constellation planner should understand and execute this task accordingly.

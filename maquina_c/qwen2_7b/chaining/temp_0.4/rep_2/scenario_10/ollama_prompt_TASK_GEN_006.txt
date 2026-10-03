@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Here's the interpretation:
+
+The geographic context involves observing Indonesia, specifically focusing on Simabur city. The mission allocation priority is medium importance, indicating this is part of our baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor we're using is VNIR for multispectral vegetation analysis. This task aims to assess the chlorophyll absorption level and calculate the NDVI index along with surface reflectance, providing valuable insights into the health and characteristics of the vegetation in Simabur.
+
+The target day is set for three days ahead, with the specific diurnal period being the morning. This deadline is already resolved by an upstream module, making it clear that data availability will be within this timeframe.
+
+To summarize, our mission involves capturing high-resolution optical snapshots for daylight photography and true-color visual documentation of Simabur's vegetation health using VNIR technology. This task is part of our standard operational tasks with a medium priority level, ensuring it's integrated into our normal workflow update process. The request is structured to align with our institutional priorities while maintaining flexibility for scheduling adjustments as needed.

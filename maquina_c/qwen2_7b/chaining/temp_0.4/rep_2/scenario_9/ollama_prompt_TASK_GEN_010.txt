@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request for an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'primary_sensor', 'location_details', 'priority_level', and 'target_day' keys.
+
+The target geographic context involves Colombia, specifically the city of Puerto Wilches. This location will be observed using a VNIR sensor, aiming for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance.
+
+Given the priority level is 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task, treated as a background survey or testbed tracking task.
+
+The delivery deadline is set for "the day after tomorrow in the morning", which is the upper limit for data availability. Raw UTC timestamps, digits, or countdown metrics are not included.
+
+In summary, this request involves observing Colombia's Puerto Wilches using a VNIR sensor for vegetation analysis with an emphasis on flexibility and opportunism due to its low priority importance. The deadline for data delivery is 'the day after tomorrow in the morning', ensuring that this task is completed within the specified timeframe.

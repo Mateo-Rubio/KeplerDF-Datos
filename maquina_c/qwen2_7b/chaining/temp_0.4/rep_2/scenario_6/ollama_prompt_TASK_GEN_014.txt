@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to ensure naturalness and validation accuracy by interpreting the operational guidelines provided.
+
+The geographic context involves the 'region_name' and nested 'location_details'. The location details encompass the country, city, and landmark fields. In this case, the country is "Italia" (Italy), and the city is "Val Masino". If any of these were "N/A", I would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is determined by the 'priority_level' key. Here, we have a priority level of 3, indicating high importance. This request should be framed as an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+The sensors and physical objectives are interpreted through the 'primary_sensor' key, which here is set to "NIR". This sensor's goal can be explained as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment", allowing us to discriminate gradients effectively.
+
+The deadline for this task has already been resolved by an upstream module. It states that the data should be available "tomorrow around mid-day". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability.
+
+In summary, my request to the satellite constellation planner is:
+
+"Please allocate the necessary resources for a high-priority mission tomorrow, targeting the beautiful landscape of Val Masino in Italia. The focus will be on capturing detailed near-infrared imagery around mid-day to assess water body boundaries and soil moisture levels. This task is of utmost importance and must be executed with urgency and without any possibility of preemption. The deadline for data availability is set for tomorrow around mid-day, ensuring that we capture the critical information required for our analysis."
+
+This request adheres to the guidelines by avoiding raw technical system tags, underscores, or coordinate arrays. It combines the JSON parameters naturally, describes the location realistically, integrates specific operational phrases to reflect the structural hierarchy of priority levels, and weaves in the operational objectives and descriptors for the physical phenomenon to be observed.
