@@ -1,0 +1,15 @@
+Given the operational guidelines, our task is to translate the raw physical simulation metadata into a highly realistic and conversational English request. The context provided involves a satellite mission targeting a location with an unspecified country but labeled as "Ecuatorial" city, utilizing the primary sensor 'TIR'. This implies capturing thermal mapping data for surface temperature profiles or detecting heat anomalies in the area.
+
+With a priority level of medium importance (Priority 2), we are looking at a standard operational tasking that requires 'TIR' sensors for thermal mapping. The language must reflect normal operational status and should not imply any close deadlines since the delivery deadline is already set as "the day after tomorrow during the afternoon". This phrase should be included verbatim in the request.
+
+The satellite constellation planner is tasked with delivering this standard operational task, which involves capturing thermal data across a region described as 'Ecuatorial', possibly implying an area near the equator. The request must emphasize the importance of this operation without overstating urgency or specificity, acknowledging that it fits into the baseline pipeline tracking setup with fixed parameters.
+
+The language to use should be professional and direct, framing this request as part of a routine monitoring process for thermal anomalies or surface temperature profiles. We should avoid technical jargon like VIS, SAR, TIR, VNIR, and NIR; instead, explain the objectives naturally using layperson terms that would fit into a real-world satellite mission briefing.
+
+In conclusion, our operator's request to the satellite constellation planner is as follows:
+
+"Considering the operational guidelines, our task involves capturing thermal mapping data for an area described as 'Ecuatorial', which might refer to a region near the equator. Given the medium priority level (Priority 2), this request aligns with standard operational tasks that are part of the baseline pipeline tracking setup. The satellite constellation is tasked to deliver thermal data by 'the day after tomorrow during the afternoon', incorporating the fixed parameters for thermal mapping.
+
+This operation does not require any close deadlines or urgent actions since it falls into the standard workflow update category. The language used should reflect normal operational status and should not emphasize any specific urgency beyond being part of the routine monitoring process for thermal anomalies or surface temperature profiles."
+
+The request is designed to be natural, clear, and concise, adhering to all the guidelines provided while maintaining the context of the original JSON metadata.

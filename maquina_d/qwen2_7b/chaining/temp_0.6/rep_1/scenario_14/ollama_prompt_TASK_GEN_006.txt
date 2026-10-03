@@ -1,0 +1,11 @@
+As an operator of an Earth-observation mission, I hereby submit this task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy through organic interpretation.
+
+The geographic context involves observing Indonesia, particularly the city of Sintang. Since the country and city provide enough information for a vivid description, there's no need to refer to 'landmark' or 'region_name' in this instance.
+
+The mission allocation priority is determined by the 'priority_level'. With a value of 1, this task falls under "low importance" criteria, indicating it can be executed with a flexible schedule. The language should reflect an "opportunistic capture", suitable for a "background survey" or "testbed tracking task". No mention of raw priority numbers or technical priority levels is needed.
+
+Regarding sensors and physical objectives, we are focusing on 'primary_sensor' VIS (Visible Imaging System). This will be used to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation. The goal is to provide detailed visual information about the area, which is essential for background tasks but not considered critical.
+
+The delivery deadline for this task has been resolved by an upstream module. The upper limit for data availability is "the day after tomorrow during the afternoon". No raw UTC timestamps, digits, or countdown metrics need to be included in this request.
+
+In summary, we aim to gather a high-resolution optical snapshot of Sintang, Indonesia, with a VIS sensor, as part of a low priority importance background survey. The task will be executed on "the day after tomorrow" during the afternoon, ensuring it fits into our flexible schedule for opportunistic capture.

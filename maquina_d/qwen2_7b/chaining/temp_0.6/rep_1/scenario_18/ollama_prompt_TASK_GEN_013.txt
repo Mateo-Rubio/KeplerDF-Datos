@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby request a task from our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for an upcoming mission.
+
+GEOGRAPHIC CONTEXT: We are focusing on the country of Colombia, with the city of Puerto López as our primary location. Although we have specific details about this region, they might not be entirely applicable here, so we will describe it using the 'region_name' field instead.
+
+MISSION ALLOCATION PRIORITY: The priority level for this mission is set to Low Importance, which means that it's part of a flexible schedule for opportunistic capture. We are treating this as a background survey or a testbed tracking task.
+
+SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor will be TIR (Thermal Infrared), used for thermal mapping. This technology aims to capture the heat signature, surface temperature profile, or perform thermal anomaly detection, mapping heat emissions.
+
+DELIVERY DEADLINE: The deadline for this task is "the day after tomorrow in the morning". This is the upper limit for data availability and should be inserted verbatim into our request.
+
+In conclusion, our request involves capturing high-resolution thermal imagery of Puerto López, Colombia, using a TIR sensor. We aim to capture heat signatures and map temperature profiles, focusing on day after tomorrow's morning session. This mission holds low priority importance but is scheduled for an opportune time to gather essential background data.
