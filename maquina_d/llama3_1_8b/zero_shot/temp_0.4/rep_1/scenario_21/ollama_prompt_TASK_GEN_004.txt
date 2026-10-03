@@ -1,0 +1,14 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Útica"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+The task involves capturing a high-resolution thermal map of the region in Colombia, specifically the city of Útica. This is an absolute institutional priority, as it's a critical payload capture required by our binding contract. We need to ensure that the products are ingested into the pipeline before in three days overnight at the latest. The objective is to obtain a heat signature and surface temperature profile for thermal anomaly detection and mapping heat emissions using microwave surface imaging.
