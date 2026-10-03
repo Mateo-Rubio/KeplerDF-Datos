@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves Malaysia, specifically Kabong, which is our prime location for this mission. We aim to capture a high-resolution optical snapshot of the area using VNIR sensors during the overnight period in four days from now, as per the operational guidelines. This task is of high importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture.
+
+The request is framed with an authoritative and commanding tone, emphasizing that this mission is an urgent operational execution and an un-preemptable commitment. The country, city, and landmark details are gracefully combined to describe the location without using raw technical system tags, underscores, or coordinate arrays. Instead, we use realistic combinations of fields from 'location_details', ensuring a natural flow in the request.
+
+The delivery deadline for this task is "in four days overnight," which is already resolved by an upstream module. This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are to be outputted.
+
+In summary, our task involves capturing a detailed view of Malaysia's Kabong region using VNIR sensors during the overnight period in four days. This mission is of high priority and requires an urgent operational execution with strict adherence to the deadline provided.

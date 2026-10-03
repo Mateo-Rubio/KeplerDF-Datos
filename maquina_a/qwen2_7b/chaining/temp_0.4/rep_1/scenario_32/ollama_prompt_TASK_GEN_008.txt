@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request for an automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves observing a specific location within the region of "Italia", with the city being "Norte". The mission allocation priority is labeled as "Priority 1 (Low Importance)", which we're framing as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This task is treated as a "non-essential background filler task" and is explicitly noted to be "dropped or rescheduled at convenience", acting as a "background survey" or "testbed tracking task".
+
+The primary sensor designated for this mission is "SAR", which we interpret as an "active radar scan". This scan utilizes "microwave surface imaging" to capture "cloud-penetrating" data, allowing us to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The deadline for this task has already been resolved by an upstream module. The upper limit for data availability is set as "tomorrow in the evening". We must insert this phrase verbatim into our request without rephrasing or shortening it, ensuring that it fits exactly within the time frame specified.
+
+In conclusion, our request is to observe the specified location using a SAR sensor to capture cloud-penetrating data for ground geometry analysis. This task is part of a "background survey" with a flexible schedule and low priority importance, adhering to the deadline set for data availability tomorrow in the evening.

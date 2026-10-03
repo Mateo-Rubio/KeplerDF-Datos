@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing a "multispectral vegetation analysis" using VNIR sensors over El Marmol, Colombia. This location combines the country's lush landscape with the specific city of El Marmol, focusing on its unique ecological features. The mission allocation priority is set at low importance, indicating that this task is part of a flexible schedule for opportunistic capture. We are treating it as a "non-essential background filler task" that can be dropped or rescheduled at convenience.
+
+The physical objectives are to assess the chlorophyll absorption level and calculate the vegetation NDVI index through VNIR observations. This captures the essence of the mission's purpose, emphasizing the importance of understanding the health and productivity of the vegetation in this specific area.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon". This phrase serves as the upper limit for data availability, ensuring that all necessary information will be gathered within this timeframe. We are not rephrasing or shortening it, adhering to the exact time frame provided by an upstream module.
+
+In conclusion, our request involves capturing a detailed "multispectral vegetation analysis" of El Marmol, Colombia, with VNIR sensors during the afternoon on the day after tomorrow. This task is part of our baseline pipeline tracking setup, representing a low priority importance with flexible scheduling requirements and a clear deadline for data collection.

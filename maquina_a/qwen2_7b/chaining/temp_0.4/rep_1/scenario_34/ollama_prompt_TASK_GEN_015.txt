@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally without using raw technical system tags, underscores, or coordinate arrays. Describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any are "N/A", describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Do not mention raw priority numbers or technical priority levels. Use authoritative, professional, or casual tones to reflect the structural hierarchy of priority levels. Priority 3 is an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture". Priority 2 is a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters". Priority 1 is a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Do not output technical abbreviations or acronyms. Weave operational objectives and descriptors into the request to explain the physical phenomenon to be observed.
+
+4. DELIVERY DEADLINE: The deadline for this task is today during the afternoon, verbatim.
+
+Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Mak Teduh"
+  },
+  "priority_level": 3,
+  "target_day": "today",
+  "target_diurnal_period": "during the afternoon"
+}
+
+The request is as follows:
+
+"Attention satellite constellation planner, urgent operational execution required. An absolute institutional priority has been flagged for an immediate thermal mapping mission over Indonesia's Mak Teduh region today during the afternoon. This task involves capturing a heat signature and surface temperature profile using advanced active radar scanning technology with microwave surface imaging capabilities to pierce through heavy weather conditions or to capture ground geometry. This is a critical payload capture under a binding contract requirement, implying an un-preemptable mission lock for the satellite assets involved."
+
+Please note that this request integrates specific operational phrases reflecting the structural hierarchy of priority levels and the physical objectives of the mission, while adhering to the guidelines provided."

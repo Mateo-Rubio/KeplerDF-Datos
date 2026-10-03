@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines for this task include interpreting the geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+For the geographic context, we are focusing on Mapiripán, Colombia. This location combines the country's rich landscape with the specific city, creating an image that captures both national pride and local relevance. If necessary, we can describe the region using the 'region_name' field if 'country', 'city', or 'landmark' are unavailable.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating a standard operational tasking under normal conditions. We will frame this request as part of a baseline pipeline tracking setup with fixed parameters, representing our standard workflow update and operational status.
+
+The primary sensor for this mission is TIR, which we interpret as thermal mapping to capture a heat signature or surface temperature profile. This objective aims to detect thermal anomalies and map heat emissions, providing valuable insights into environmental conditions that are not visible in optical imagery alone.
+
+The delivery deadline is set for "in three days during the afternoon," a specific time frame that must be included verbatim in our request. This ensures that we adhere to the established upper limit for data availability without rephrasing or altering the time slot.
+
+In summary, our Earth-observation mission operator is tasked with capturing thermal anomalies and mapping heat emissions over Mapiripán, Colombia using TIR sensors during a standard operational tasking period. The deadline for this task is set for "in three days during the afternoon," emphasizing the importance of adhering to this specific time frame for data collection.

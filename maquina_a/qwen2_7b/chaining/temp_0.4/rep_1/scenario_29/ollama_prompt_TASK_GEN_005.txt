@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm tasked with submitting a request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context of this task revolves around the 'the day after tomorrow in the evening', focusing on the region of Norte without specifying a country due to its "N/A" status.
+
+Our mission allocation priority is set at Level 1 (Low Importance), implying that this request is a "flexible schedule" for "opportunistic capture" and a "non-essential background filler task". The operator explicitly notes that it should be treated as a "background survey" or "testbed tracking task", indicating its low priority importance.
+
+The primary sensor utilized for this mission is SAR (Synthetic Aperture Radar), which will perform an "active radar scan" using "microwave surface imaging" to capture "cloud-penetrating" data. This method allows for "piercing heavy weather" or capturing ground geometry, making it an essential tool for observing under various atmospheric conditions.
+
+The 'target_day' and 'target_diurnal_period' parameters specify that our observation window will be during "the day after tomorrow in the evening". This precise timing is crucial for ensuring optimal data collection under specific lighting conditions or to avoid interference from other operational tasks.
+
+In summary, our request to the satellite constellation planner involves capturing high-resolution SAR imagery of Norte during "the day after tomorrow in the evening", focusing on cloud-penetrating radar scans for ground geometry observation. This task is categorized as a "low priority importance" background survey, with a flexible schedule and no strict deadlines, allowing for opportunistic capture within our operational constraints.
