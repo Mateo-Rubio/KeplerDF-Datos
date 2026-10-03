@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline for when the data products need to be delivered, which must be adhered to strictly.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day during which the observation should ideally occur.
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request to accurately reflect the specified diurnal period.
+
+d) It's important to confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters provided are a strict operational deadline, and any deviation from this would be inappropriate. Therefore, the observation must occur "in the evening" on "the day after tomorrow," without any adjustments to the timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for thermal mapping over La Vega, Colombia. This involves capturing a heat signature or surface temperature profile using thermal infrared sensors. The data is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this routine monitoring task is completed by the day after tomorrow in the evening.

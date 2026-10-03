@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline for the task, which should be adhered to without alteration.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur, aligning with the mission's operational requirements.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning." This word is crucial as it defines the precise time frame for the task execution.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be completed specifically "the day after tomorrow, in the morning," as per the provided metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance mission with a flexible schedule for opportunistic capture over the region near Norte. This task is a non-essential background filler task, and operators should feel free to drop or reschedule it at convenience. The objective is to conduct a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data collection should occur the day after tomorrow, in the morning.

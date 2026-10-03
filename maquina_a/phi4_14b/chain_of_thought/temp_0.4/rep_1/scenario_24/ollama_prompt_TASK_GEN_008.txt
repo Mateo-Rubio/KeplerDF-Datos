@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates the specific deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day during which the observation should ideally occur.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will be used literally in the final request to describe the time of day for the task.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The requirement specifies "in the morning" on "the day after tomorrow", and this must be adhered to without alteration. The deadline is strictly set for the morning of the specified day, ensuring timely delivery of the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low priority importance task with a flexible schedule for opportunistic capture over Lentigione, Italy. This is a non-essential background filler task, and please feel free to drop or reschedule at your convenience. The objective is to obtain a high-resolution optical snapshot using visible light imaging, capturing clear optical imagery of the area. The data should be delivered by the day after tomorrow in the morning.
