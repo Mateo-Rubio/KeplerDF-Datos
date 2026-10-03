@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string which must appear literally in the final request is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the raw JSON metadata, we are tasked with capturing thermal mapping data for the region around Correggioli, located in the country of Italia. The deadline for this mission allocation is set on "the day after tomorrow" in the evening. This request falls under low priority importance, which means it should be treated as a flexible schedule "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor required for this task is the TIR (Thermal Infrared) sensor, which will enable us to capture thermal mapping data. This activity involves assessing surface temperature profiles and detecting thermal anomalies for heat emission mapping purposes.
+
+With the deadline set for the evening of "the day after tomorrow", we must ensure that the data collection adheres strictly to this time frame without altering it, as it represents a critical operational deadline rather than an orbital capture window. This mission is tagged with low priority importance, which means it can be accommodated within our baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates.
+
+Please proceed with capturing the thermal mapping data in accordance with these instructions, taking into account the specific time constraints and prioritization level provided in the JSON metadata.
