@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a highly realistic operational directive for our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a conversational English request that adheres strictly to the following guidel0ns:
+
+1. GEOGRAPHIC CONTEXT: We are focusing on La Macarena, located in Colombia, for our next high-resolution optical snapshot tasking. The goal is to capture clear optical imagery during daylight photography within this specific region. This request leverages the natural combination of 'country', 'city', and 'location_details' without resorting to technical system tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: Given that our priority level is set at 2, indicating medium importance, this task should be framed as a standard operational tasking within the baseline pipeline tracking setup. The directive herein communicates an expectation for routine monitoring with fixed parameters representing normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor is VIS, which necessitates a high-resolution optical snapshot aimed at true-color visual documentation of La Macarena in Colombia. This task will provide us with essential daylight photography to monitor and analyze the region's environmental conditions effectively.
+
+4. DELIVERY DEADLINE: The data collection must be completed within three days around mid-day, as per the resolution provided by an upstream module. It is imperative that this deadline is explicitly stated in our request without alteration or rephrasing to ensure timely delivery and optimal operational efficiency.
+
+Herein lies my directive: "We require a standard operational tasking for La Macarena, Colombia, utilizing high-resolution optical snapshots during daylight photography around mid-day in three days. This routine monitoring is part of our baseline pipeline tracking and will contribute to the comprehensive visual documentation necessary for environmental analysis."
