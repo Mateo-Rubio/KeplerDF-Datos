@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a conversational English request for operational execution. Here are the details:
+
+The primary sensor required for this operation is Synthetic Aperture Radar (SAR), which will be used for an active radar scan employing microwave surface imaging to achieve cloud-penetrating capture and precise ground geometry mapping. The target location, identified within Colombia's Dolores city, requires a flexible schedule approach due to its low operational priority status.
+
+Given these parameters, the request would be articulated as follows:
+
+"We have an opportunity for SAR-based microwave surface imaging in Dolores, aimed at capturing ground geometry through cloud penetration capabilities and detailed mapping of thermal anomalies. This task is not critical to our immediate operational pipeline but offers valuable data that could enhance our understanding of the region's environmental conditions. The deadline for this non-essential background filler task has been resolved by an upstream module, specifying a delivery window within three days in the morning."
