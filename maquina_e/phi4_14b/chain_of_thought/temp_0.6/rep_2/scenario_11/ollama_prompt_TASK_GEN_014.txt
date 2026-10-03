@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days." This indicates the specific deadline by which the satellite data must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur to meet the mission's objectives.
+
+c) The single word contained within the 'target_diurnal_period' string that matches one of the specified options is "morning." This indicates the precise time during which the satellite should capture the data.
+
+d) It is essential to confirm that the deadline is not being shifted to an adjacent part of the day. The request explicitly states that the observation should occur "in the morning," and this timeframe aligns directly with the specified 'target_diurnal_period.' Therefore, there is no alteration or shift in the deadline to any other part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a mission over the region named Norte, focusing on multispectral vegetation analysis to assess chlorophyll absorption levels and calculate an NDVI index. This commercial tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The observation should be completed in three days, specifically in the morning, to ensure timely delivery of the data products as per our workflow update schedule.
