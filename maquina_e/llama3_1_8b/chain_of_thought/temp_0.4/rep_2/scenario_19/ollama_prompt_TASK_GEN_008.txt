@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight". However, I should choose a word from the list {morning, mid-day, afternoon, evening, overnight} that is not "overnight". In this case, I will choose "evening" as it is not present, but since "overnight" is not in the list, I will choose "evening" as it is the closest word that is in the list and makes sense in the context of a diurnal period.
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' is already set to "overnight", which implies that the deadline is for capturing data during the nighttime hours.

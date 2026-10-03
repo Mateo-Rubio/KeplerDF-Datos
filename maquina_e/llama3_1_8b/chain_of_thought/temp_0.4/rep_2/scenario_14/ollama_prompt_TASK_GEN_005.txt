@@ -1,0 +1,9 @@
+Here are the answers to the questions in Stage 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly mentions capturing data "in the morning" on the target day, which is four days from now. This implies that the capture window is specifically tied to the morning period of the target day, rather than the entire day or a different part of it.
