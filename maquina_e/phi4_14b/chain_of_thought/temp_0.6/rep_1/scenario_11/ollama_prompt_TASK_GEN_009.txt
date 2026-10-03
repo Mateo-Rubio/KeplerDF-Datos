@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves analyzing specific metadata from a JSON object related to an Earth-observation mission targeting the region of Kutai Timur in Indonesia. Let's break down each part according to the guidelines provided.
+
+a) The exact string present in 'target_day' is "in three days". This indicates the strict deadline by which the data products need to be delivered, emphasizing the urgency and timing of the mission without suggesting any flexibility around this date.
+
+b) For 'target_diurnal_period', the string is "in the evening". This specifies the time of day when the observation should ideally occur, focusing on capturing data during a specific part of the day that might offer unique insights or conditions for the mission's objectives.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening". This detail is crucial as it directly influences the planning and execution phases of the satellite operation, ensuring that the mission aligns with the desired observational conditions.
+
+d) It's important to confirm that the deadline is not being shifted to an adjacent part of the day. The instructions are clear that the temporal parameters represent a strict operational deadline for delivering data products, not the orbital capture window. Therefore, "in three days" and "in the evening" must be adhered to as specified without any adjustments to either the date or time frame.
+
+### STAGE 2 - FINAL REQUEST
+
+For our Earth-observation mission targeting Kutai Timur in Indonesia, we have a standard operational tasking that falls within our baseline pipeline tracking setup. This commercial tasking involves fixed parameters representing normal operational status, ensuring a routine monitoring process is maintained. Our objective is to conduct thermal mapping over this region to capture a surface temperature profile, focusing on identifying any thermal anomalies and mapping heat emissions effectively. The mission is scheduled for "in three days", with observations specifically planned "in the evening". This timing is chosen to optimize our data collection efforts, aligning with the operational requirements and ensuring that we can deliver valuable insights within the established workflow update parameters.
