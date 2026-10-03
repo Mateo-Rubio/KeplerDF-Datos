@@ -1,0 +1,5 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request to translate the provided JSON format into an operational tasking request for the satellite constellation planner.
+
+The mission objective is to capture high-resolution thermal mapping data using microwave surface imaging to detect and map heat emissions in the region of France, specifically in the city of Corte. This is a standard operational tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The request is needed by today during the afternoon at the latest.
+
+The mission allocation priority is medium importance, which means this request is a commercial tasking with a routine monitoring focus. The data products should be ingested into the pipeline before today's afternoon deadline to ensure timely delivery and operational execution.
