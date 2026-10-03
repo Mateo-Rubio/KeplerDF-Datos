@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string that must appear literally in the final request is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' are set for tomorrow morning, which means the dataset is expected to be captured between sunrise and mid-morning.
+
+STAGE 2 - FINAL REQUEST
+
+In preparation for tomorrow's operational requirements, we aim to capture high-resolution active radar scans using our SAR sensor in the morning. Specifically, we are targeting the Italian region of Chiusi. This mission allocation is of medium importance, aligning with standard operational tasks and baseline pipeline tracking activities. Our focus will be on cloud-penetrating capture and ground geometry imaging, ensuring that the data product provides clear insights into the surface conditions under potentially challenging weather conditions. The deadline for delivering these critical data products is set for tomorrow morning, emphasizing the need for an urgent operational execution to meet contractual obligations.

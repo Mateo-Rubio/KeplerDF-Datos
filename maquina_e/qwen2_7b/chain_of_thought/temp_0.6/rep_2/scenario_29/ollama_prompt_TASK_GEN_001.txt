@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is: "in three days"
+b) The exact string found in 'target_diurnal_period' is: "in the morning"
+c) The single word contained within that string is: "morning"
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+As an Earth-observation mission operator, we are tasked with capturing critical data using an active radar scan (SAR sensor) for a location in Colombia, specifically in Uribe. This is classified as a low priority importance request (Priority Level 1), which means it has a flexible schedule that allows us to drop or reschedule at our convenience if necessary. The operational deadline for delivering the data products is set in three days, with the requirement being that the scan must be conducted during the morning hours.
+
+This task represents a standard operational tasking that fits into our baseline pipeline tracking setup. The fixed parameters associated with this request are meant to serve as normal operational status updates or part of a routine monitoring process for the satellite constellation planner. The data we aim to collect will involve the use of microwave surface imaging capabilities to ensure cloud-penetrating capture, which is essential for obtaining high-quality imagery during cloudy or weather-affected conditions.
+
+The purpose of this mission is to gather information that will help in assessing ground geometry and possibly detect any thermal anomalies or heat emissions, utilizing the radar's capabilities to provide clear data regardless of atmospheric disturbances. The data collected will contribute to understanding the landscape and environmental conditions in Uribe, Colombia, enabling us to make informed decisions based on accurate and timely observations.
