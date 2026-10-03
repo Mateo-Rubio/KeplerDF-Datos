@@ -1,0 +1,11 @@
+Your Earth-observation mission operator has submitted a task request for an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single highly realistic and conversational English request, based on organic interpretation according to operational guidelines.
+
+GEOGRAPHIC CONTEXT: The request targets Colombia, specifically the city of Nóvita, with a landmark or detailed location description omitted since it is "N/A". The operational context is described using a realistic combination of available fields from 'location_details', resulting in an accurate depiction of the geographical setting.
+
+MISSION ALLOCATION PRIORITY: This task carries a priority level of 1, indicating low importance. The operator frames this request as a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". It is explicitly noted that this task can be "dropped or rescheduled at convenience".
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor specified is SAR (Synthetic Aperture Radar), which the operator interprets as an "active radar scan". The goal involves "microwave surface imaging" to capture ground geometry, emphasizing its capability to pierce through heavy weather conditions.
+
+DELIVERY DEADLINE: The deadline for this task has already been resolved by an upstream module and is set for "in four days around mid-day". This phrase will be inserted verbatim into the request, maintaining the specified upper limit for data availability without rephrasing, shortening, or altering its placement.
+
+In summary, the Earth-observation mission operator requests that an automated satellite constellation planner allocate resources to conduct a low-priority task involving an active SAR scan in Colombia's city of Nóvita. The deadline is established for four days from now, with the operation scheduled around mid-day. The request highlights the importance of capturing ground geometry through microwave surface imaging, acknowledging the flexible schedule and opportunistic nature of this background survey or testbed tracking task.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The goal is to maximize the naturalness and validation accuracy of the dataset by interpreting the provided operational guidelines.
+
+For the geographic context, I combine information from 'region_name', nested 'location_details', avoiding technical system tags or coordinate arrays. The location details are: Colombia, Cumaral. I describe it using realistic parameters such as country and city names, blending landmarks appropriately.
+
+Given the priority level of 1, which signifies low importance, this request is framed as a "flexible schedule" task with an emphasis on a "low priority importance". The language used is casual and highly flexible, treating this as a "non-essential background filler task". The operator explicitly notes that it can be "dropped or rescheduled at convenience", considering it a "background survey" or a "testbed tracking task".
+
+The primary sensor is 'VNIR', which translates to "multispectral vegetation analysis". This objective aims to assess the "chlorophyll absorption level" and calculate a vegetation "NDVI index" as well as surface reflectance.
+
+The delivery deadline for this task has already been resolved by an upstream module: "tomorrow during the afternoon". This phrase is inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, my request integrates the operational guidelines and translates the raw physical simulation metadata into a natural-sounding English sentence that communicates the task requirements clearly and concisely.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+Geographically, we are focusing on the region encompassing Colombia, with our specific interest centered in the city of Tocaima. This operational context requires an interpretation that combines the country, city, and landmark fields from 'location_details' in a natural manner. Since both 'country' and 'city' fields are provided, we can describe this location as a vital part of Colombia's rich landscape, with Tocaima serving as our focal point for detailed observation.
+
+The mission allocation priority is set at 'Priority 3', an indicator of high importance that demands an authoritative approach. This reflects the absolute institutional priority or binding contract requirement involving a critical payload capture and mandates an urgent operational execution that cannot be preempted, ensuring the integrity of the data collected for this mission.
+
+In terms of sensors and physical objectives, our primary focus is on the 'VNIR' sensor. This translates to our mission's goal being to conduct a detailed multispectral vegetation analysis, assessing chlorophyll absorption levels or calculating a vegetation NDVI index. Our aim is to capture the unique characteristics of Tocaima's flora under the twilight of today in the evening, contributing to a comprehensive understanding of its environmental conditions.
+
+The deadline for this task has been set, with data availability resolved by an upstream module as "today in the evening". This phrase must be inserted verbatim into our request to ensure that it serves as the stated upper limit for data availability, reflecting the urgency of the mission without any further clarification or rephrasing.
+
+In summary, my request is for a highly detailed and prioritized satellite mission focusing on Tocaima, Colombia, utilizing VNIR technology to capture critical vegetation data in the evening of today. This task emphasizes the operational importance and urgency of the data collection process while adhering to the established deadline.

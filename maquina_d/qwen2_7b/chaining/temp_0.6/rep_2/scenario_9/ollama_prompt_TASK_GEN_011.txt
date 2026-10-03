@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that I should interpret the JSON parameters in an organic manner.
+
+Our target geographic context is centered around Slovenia, with a focus on the city of Norte, as indicated by the 'location_details' field. The country, city, and landmark are all "N/A", so I'll describe this location using the remaining valid fields or simply the clean 'region_name'. The request involves capturing thermal mapping data using a 'TIR' sensor for thermal anomaly detection and mapping heat emissions, which aligns with the 'primary_sensor' key.
+
+The mission allocation priority is categorized as 'Priority 1', denoted by the 'priority_level' field. This signifies that this task is considered to have low importance, meaning it can be executed on a flexible schedule or as a "background survey" or "testbed tracking task", indicating a "non-essential background filler task".
+
+The deadline for this task has already been set by an upstream module, stipulating that the data should be available "in three days overnight". This phrase needs to be inserted verbatim into my request.
+
+In sum, I'm requesting thermal mapping data from the TIR sensor, focusing on the city of Norte in Slovenia. As this is a 'Priority 1' task, it's understood that it can be performed with a flexible schedule, treating it as a "background survey" or "testbed tracking task". The deadline for this task is set for three days from now, specifically overnight.
+
+Please proceed with the execution of this task accordingly.

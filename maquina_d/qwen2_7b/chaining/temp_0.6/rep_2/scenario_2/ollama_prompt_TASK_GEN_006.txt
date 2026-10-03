@@ -1,0 +1,9 @@
+As an Earth-observation mission operator tasked with translating raw physical simulation metadata into a single, highly realistic and conversational English request, I am now interpreting the provided JSON data to create a natural and accurate mission allocation. The context of this task revolves around the observation of a location in Indonesia near the Ecuatorial region, requiring a 'low importance' tasking that can be performed with a flexible schedule for "opportunistic capture". The primary sensor involved is VNIR, which will be used to conduct a "multispectral vegetation analysis" to assess the "chlorophyll absorption level" or calculate the "NDVI index" and surface reflectance.
+
+Considering this information and adhering to the operational guidelines provided, here is the request:
+
+"Please consider this as a low priority importance task requiring 'flexible schedule' and 'opportunistic capture'. The mission will involve capturing the 'multispectral vegetation analysis' using VNIR sensor in the 'Indonesia' region near 'Ecuatorial' city. This 'low priority importance' request is part of the 'non-essential background filler tasks' that can be 'dropped or rescheduled at convenience'. The task should be executed as a 'background survey' or 'testbed tracking task', focusing on obtaining data about 'chlorophyll absorption level' and 'NDVI index' during the 'in three days' period, specifically during the 'afternoon' of that day."
+
+This request encapsulates the essence of the task with natural language usage, ensuring clarity and understanding for the satellite constellation planner. The deadline is set for the data to be available within the specified timeframe.
+
+Please note that the delivery deadline has been resolved by an upstream module and is explicitly stated as "in three days during the afternoon". This phrase must be included verbatim in your response, without any rephrasing or shortening.

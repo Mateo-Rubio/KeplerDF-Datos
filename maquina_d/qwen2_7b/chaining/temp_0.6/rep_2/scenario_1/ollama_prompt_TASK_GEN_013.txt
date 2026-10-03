@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context for this mission involves capturing data from Colombia, focusing on the city of Santa Rosa del Sur. We will be using a Near-Infrared (NIR) sensor to observe the region overnight the day after tomorrow. This is a low priority importance task with flexible scheduling requirements, treating it as a non-essential background filler task.
+
+The primary mission objective involves capturing near-infrared reflection for water body boundary mapping and soil moisture assessment to discriminate gradients. This data collection is crucial for our ongoing baseline pipeline tracking and contributes to our normal operational status.
+
+Given the operational guidelines, we will not use raw technical system tags or coordinate arrays in our final output. Instead, we'll combine the JSON parameters naturally and describe the location using realistic combinations of the country, city, and landmark fields from 'location_details'. If any field is "N/A", we'll gracefully ignore it and still provide a comprehensive description.
+
+This request for an overnight observation on the day after tomorrow will be treated with a casual, highly flexible tone. It represents a low priority importance task with a flexible schedule for opportunistic capture. The language must convey that this data collection is part of our background survey or testbed tracking task, allowing it to be dropped or rescheduled at convenience.
+
+The delivery deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as the day after tomorrow overnight. This phrase "the day after tomorrow overnight" must be inserted verbatim into the request, adhering to the specified time frame.
+
+In summary, our request involves capturing near-infrared reflection data from Colombia's Santa Rosa del Sur city overnight the day after tomorrow, treating this task as a low priority background filler, with flexible scheduling for opportunistic capture. This aligns with our normal operational status and contributes to ongoing baseline pipeline tracking efforts.
