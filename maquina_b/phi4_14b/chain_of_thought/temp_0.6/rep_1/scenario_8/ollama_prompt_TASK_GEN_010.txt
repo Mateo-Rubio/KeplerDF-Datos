@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase indicates a specific point in time relative to the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the task needs to be completed.
+
+c) The single word contained in the string "overnight" that matches the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The deadline specified as "the day after tomorrow overnight" should not be shifted to any other part of the day. It is crucial to adhere strictly to this timeframe for the delivery of the data products.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a routine monitoring mission over Trujillo, Colombia. This commercial tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. The data collection should be completed by the day after tomorrow overnight, ensuring timely delivery as per our workflow update requirements.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This string indicates the specific timeframe by which the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite imagery or data capture should ideally occur.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word will be used literally in the final request to specify the time of capture.
+
+d) The deadline specified as "in three days" and "around mid-day" must not be shifted to any other part of the day. The task requires strict adherence to this timeframe for operational purposes, ensuring that the data is captured exactly at or around mid-day within the three-day window.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request for thermal mapping over Ecuatorial, Indonesia. This task involves capturing a heat signature and surface temperature profile using thermal infrared sensing capabilities. Given its non-essential nature, this background survey can be scheduled flexibly. Please aim to capture the data in three days, around mid-day, but feel free to drop or reschedule at your convenience if necessary. This serves as a testbed tracking task within our broader operational framework.
