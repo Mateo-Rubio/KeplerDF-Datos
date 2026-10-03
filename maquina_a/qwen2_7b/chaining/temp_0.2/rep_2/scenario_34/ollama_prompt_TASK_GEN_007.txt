@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Colombia, specifically the city of Montelíbano. The primary sensor required is TIR for thermal mapping purposes. This task aims to capture a heat signature or surface temperature profile, essential for thermal anomaly detection and mapping heat emissions.
+
+Given the priority level of 1, this request is framed as a low-priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module: "tomorrow overnight". This phrase is inserted verbatim into the request, serving as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are included.
+
+In summary, our mission allocation priority is set to reflect the operational guidelines provided. The task involves observing Montelíbano, Colombia, with a TIR sensor for thermal mapping purposes. This is a low-priority importance request with a flexible schedule and an absolute deadline of "tomorrow overnight".
