@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the provided JSON metadata, our Earth-observation mission operator requests a task focusing on the VNIR sensor. This mission aims to capture high-resolution optical snapshots for daylight photography, true-color visual documentation, and clear optical imagery. The geographical context involves an unspecified location in Norte, Brazil, although specific details like country and city are not provided.
+
+The priority level of this task is set to Low Importance, indicating that it falls under a flexible schedule for opportunistic capture. This mission is framed as a non-essential background filler task with no strict deadline constraints beyond the specified target day and diurnal period.
+
+The operator requests data collection during the afternoon on "tomorrow", emphasizing the importance of capturing the heat signature and surface temperature profile through thermal mapping capabilities provided by the VNIR sensor. The focus will be on assessing chlorophyll absorption levels, calculating the vegetation NDVI index, and conducting surface reflectance analysis to understand various environmental conditions.
+
+In summary, this Earth-observation mission operator seeks to utilize a VNIR sensor to gather high-resolution optical data during the afternoon of "tomorrow" for the purpose of capturing clear imagery, assessing vegetation health, and mapping surface temperatures in an unspecified location within Norte, Brazil. This task is classified as a low priority importance request with flexible scheduling considerations.

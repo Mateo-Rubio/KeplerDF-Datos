@@ -1,0 +1,10 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Given the operational guidelines and the provided JSON metadata, our Earth-observation mission request involves capturing thermal mapping data using a TIR sensor on 'tomorrow' during the afternoon. The target geographic context is Colombia, with a specific focus on the city of Paya. This task has been categorized as a low priority importance request, which means it can be accommodated within a flexible schedule and treated as a non-essential background filler task. The deadline to deliver the data products is strictly set for tomorrow afternoon, serving as an operational deadline rather than affecting the orbital capture window.

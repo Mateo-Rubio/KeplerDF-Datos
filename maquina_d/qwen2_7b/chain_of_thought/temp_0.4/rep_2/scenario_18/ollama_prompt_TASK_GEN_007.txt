@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string, which must appear literally in the final request, is "evening".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as provided.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context specified by the JSON metadata, our Earth-observation mission operator requests a standard operational tasking for tomorrow evening. This involves capturing high-resolution optical imagery over Planadas, Colombia, using a visible light sensor. The goal is to obtain clear daylight photography that will provide a true-color visual documentation of the region's landscape and urban areas, essential for routine monitoring and baseline pipeline tracking purposes. This request embodies normal operational status and represents fixed parameters within our standard workflow updates, aligning with the medium importance indicated by priority level 2. The deadline is strictly set for tomorrow evening as per the target diurnal period, ensuring timely delivery of the data products without altering or extending the timeframe.
