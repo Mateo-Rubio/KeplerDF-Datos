@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographical context involves capturing data for the region of Italy, with a specific focus on the city of Bossico. This location is described using a blend of the country and city details for clarity and realism, ensuring that the operational guidelines are followed by avoiding raw technical system tags or underscores.
+
+Priority level for this task is set at Low Importance (Priority 1), which means we're treating this request as a "flexible schedule" for "opportunistic capture". This is framed as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor involved in this mission is SAR, representing an "active radar scan" using "microwave surface imaging". This technique allows for "cloud-penetrating capture", making it ideal for scenarios with heavy weather conditions. The goal is to capture ground geometry and terrain features accurately.
+
+The deadline for this task has been set as "the day after tomorrow in the morning". This phrase is included verbatim as the upper limit for data availability, adhering to operational guidelines by not rephrasing or shortening it.
+
+In summary, our Earth-observation mission operator is requesting that the automated satellite constellation planner capture high-resolution SAR images of the city of Bossico in Italy during the morning hours of "the day after tomorrow". This task is tagged as a "background survey" with "flexible schedule" and "low priority importance", ensuring smooth integration into our baseline pipeline tracking setup with fixed parameters.

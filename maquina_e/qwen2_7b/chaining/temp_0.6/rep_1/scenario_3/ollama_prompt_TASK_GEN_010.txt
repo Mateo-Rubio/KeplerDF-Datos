@@ -1,0 +1,13 @@
+Prompt: 
+
+As an operator of an Earth-observation mission, I hereby request that our automated satellite constellation planner assigns a high-priority task for a detailed observation of the region encompassing Colombia's Monterrey city. This mission is of utmost importance due to its direct impact on commercial tasks and baseline pipeline tracking within our operational framework.
+
+We aim to capture a high-resolution optical snapshot of the area, providing clear daylight photography or true-color visual documentation essential for understanding environmental conditions and urban development. The primary sensor used will be the Near-Infrared (NIR), which will enable us to map water body boundaries and assess soil moisture levels with precision.
+
+The geographical context is specifically defined by the country and city provided in the 'location_details' section, ensuring our satellite constellation focuses on this particular area for the specified target day. The operational guidelines guide us in combining the metadata naturally, avoiding raw technical system tags or coordinate arrays in our request.
+
+Our mission allocation priority level is set at Medium Importance, indicating a standard operational tasking within our baseline pipeline tracking setup. This request includes fixed parameters that represent normal operational status and workflow updates, emphasizing its importance without implying urgency.
+
+The delivery deadline is set for the target day, which falls three days ahead into an overnight period. We have resolved this deadline through an upstream module, ensuring that our data availability meets the upper limit for data availability specified in the JSON format.
+
+To summarize, our request is for a detailed observation of the Monterrey region in Colombia using Near-Infrared sensors over the target day with an overnight timeframe, aiming to capture high-resolution optical imagery and near-infrared reflection data crucial for environmental monitoring and urban development insights. This task aligns with our standard operational procedures while adhering to the specified priority level and deadline requirements.

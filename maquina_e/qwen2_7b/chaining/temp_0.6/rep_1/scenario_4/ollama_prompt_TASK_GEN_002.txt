@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to maximize naturalness and validation accuracy by interpreting the metadata organically according to operational guidelines.
+
+The geographic context involves describing a location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are "N/A", we gracefully ignore them, relying on the remaining valid fields or the 'region_name'.
+
+For mission allocation priority, we must understand that 'priority_level' indicates institutional importance rather than urgency. A Priority 3 request is treated with an authoritative tone, framing it as an absolute institutional priority or a binding contract requirement involving a critical payload capture. A Priority 2 request gets a professional and standard operational tone, describing it as a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. A Priority 1 request receives a casual and opportunistic tone, treated as a low priority importance request with flexible scheduling.
+
+The sensors and physical objectives require natural weaving of operational objectives and descriptors into the request to explain the phenomena to be observed. VIS sensors are for high-resolution optical snapshots, SAR sensors use active radar scans for cloud-penetrating capture, TIR sensors are for thermal mapping capturing heat signatures, VNIR sensors assess chlorophyll absorption levels, and NIR sensors are for water body boundary mapping or soil moisture assessment.
+
+The delivery deadline is "in three days in the morning", which must be inserted verbatim into the request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+Given this context, here's a hypothetical request:
+
+"Please prioritize an urgent operational execution for an absolute institutional priority task involving a critical payload capture of a high-resolution optical snapshot using VNIR sensors on a region in Norte, Brazil. This standard operational tasking is part of a baseline pipeline tracking setup that requires fixed parameters and represents normal operational status or a workflow update. The request must be treated as having high importance with an un-preemptable mission lock. The deadline for this task is 'in three days in the morning', adhering to the upper limit for data availability without any rephrasing, shortening, or moving it to a different part of the day."
+
+The request integrates these guidelines by interpreting the metadata and translating it into a natural, conversational English sentence that respects operational hierarchy, priority levels, physical sensor objectives, and the delivery deadline."

@@ -1,0 +1,13 @@
+Please translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator addressing an automated satellite constellation planner. The objective is to interpret the provided JSON format, focusing on converting it into a single task request that maximizes naturalness and validation accuracy.
+
+GEOGRAPHIC CONTEXT: The region of interest is in Indonesia, specifically near the city of Suka Maju, with no further details provided about landmarks. The mission allocation priority is set at Level 1 (low importance), indicating this as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". 
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor deployed will be VIS, aiming to capture a high-resolution optical snapshot for "daylight photography", "clear optical imagery", or "true-color visual documentation". The task requires the mission to be executed "in three days in the morning", which should be inserted verbatim into your request.
+
+DELIVERY DEADLINE: The deadline is set for this task, with the data available for delivery being "in three days in the morning". The JSON does not provide raw UTC timestamps or countdown metrics; instead, it outlines a concrete window for data availability without the need for rephrasing or abbreviation.
+
+To summarize and present this request concisely:
+
+"Task Request: An Earth-observation mission operator seeks to capture high-resolution optical imagery through daylight photography or true-color visual documentation using a VIS sensor. The operational context is within the Indonesian region near Suka Maju, with no specific landmarks mentioned. This task is classified as low priority, with a flexible schedule for 'opportunistic capture'. The mission should be executed in three days during the morning hours as per the deadline requirement. This task aligns with baseline pipeline tracking under normal operational status or workflow updates."
+
+Please ensure to include all the provided details while translating this JSON into a request that reflects the specified operational guidelines."
