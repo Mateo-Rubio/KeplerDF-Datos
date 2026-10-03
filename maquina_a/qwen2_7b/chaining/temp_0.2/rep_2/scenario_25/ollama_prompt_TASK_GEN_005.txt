@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring maximum naturalness and validation accuracy.
+
+The geographic context involves capturing data for the region of Slovenia, with a specific focus on the city of Norte. This location will be described using a realistic combination of country, city, and landmark fields from 'location_details'. Although 'city' is provided as "Norte", it will be integrated naturally into the request without using raw technical system tags or coordinate arrays.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance), indicating that this request falls under a low priority importance category. It is explicitly framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This task is treated as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will be used to perform an active radar scan using microwave surface imaging. The goal is to capture data that will pierce heavy weather conditions, providing cloud-penetrating capture and capturing ground geometry with precision.
+
+The delivery deadline for this task has been resolved by an upstream module. It is set for "the day after tomorrow during the afternoon". This phrase must be inserted verbatim into the request as the stated upper limit for data availability, without rephrasing or altering it in any way.
+
+In conclusion, our request to the satellite constellation planner is to capture high-resolution SAR imagery of Slovenia's Norte region during the afternoon on the day after tomorrow. This task is part of a low priority importance category with a flexible schedule and is aimed at providing cloud-penetrating capture and ground geometry details for operational use.

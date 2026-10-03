@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the guidelines provided.
+
+The geographic context involves observing Indonesia, specifically Kapuas city. Our primary sensor requirement is TIR, which will be used for thermal mapping purposes. We aim to capture a heat signature or surface temperature profile, focusing on thermal anomaly detection and mapping heat emissions.
+
+This task carries a low priority level, indicating it's a flexible schedule request for opportunistic capture. It's classified as a non-essential background filler task, with the operator explicitly noting that it can be dropped or rescheduled at convenience. The task is framed as a background survey or testbed tracking task.
+
+The deadline for this task has been resolved by an upstream module, and it is set for today in the evening. This phrase is inserted verbatim into our request, serving as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request involves capturing thermal data from Indonesia's Kapuas city using a TIR sensor. The task carries low importance, with an operational deadline set for today in the evening. This request is part of our baseline pipeline tracking setup, representing normal operational status or a standard workflow update.

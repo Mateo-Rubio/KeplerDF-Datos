@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Calenzana, France, which is nestled in the beautiful region of Corsica. Combining the 'country' and 'city' fields naturally, we describe this location as a picturesque destination for our satellite's attention.
+
+The mission allocation priority is set at 'Priority 1', indicating low importance but with a flexible schedule for opportunistic capture. This request is framed as a "non-essential background filler task," where the operator explicitly notes to "drop or reschedule at convenience." It's treated as a "background survey" or "testbed tracking task," emphasizing its role as a supplementary observation rather than a critical mission.
+
+The primary sensor specified is 'VIS', which translates to capturing a "true-color visual documentation" of the region. This means our satellite will be tasked with taking a high-quality daylight photograph, providing clear optical imagery that showcases the beauty and details of Calenzana during the day.
+
+The delivery deadline is set for "the day after tomorrow in the evening." This phrase is inserted verbatim into the request as the stated upper limit for data availability. It's important to note that this deadline has already been resolved by an upstream module, and no raw UTC timestamps or countdown metrics are included.
+
+In summary, our request to the satellite constellation planner involves capturing a true-color visual documentation of Calenzana, France, with a low priority importance and a flexible schedule for data collection. The deadline for this task is set for "the day after tomorrow in the evening," ensuring that our observation aligns with operational guidelines and priorities.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Let's break down the provided JSON data:
+
+**Geographic Context**: We're focusing on the Indonesian region of Kepulauan Meranti, a location rich in natural beauty and biodiversity. This area requires detailed observation due to its unique ecological features.
+
+**Mission Allocation Priority**: The task is of medium importance, indicated by a priority level of 2. This means it's part of our standard operational tasks, contributing to the baseline pipeline tracking with fixed parameters that represent normal operational status.
+
+**Sensors and Physical Objectives**: Our primary sensor is VNIR (Visible Near-Infrared), which will be used for multispectral vegetation analysis. The goal is to assess chlorophyll absorption levels and calculate the NDVI index, providing insights into surface reflectance and vegetation health.
+
+**Delivery Deadline**: The deadline for this task is "in four days overnight". This phrase serves as the upper limit for data availability, ensuring that our satellite constellation captures the necessary data during the optimal time of day for observation.
+
+In summary, our request to the automated satellite constellation planner involves capturing high-resolution optical snapshots for daylight photography and clear optical imagery of Kepulauan Meranti using VNIR technology. This task is part of our standard operational tasks with medium importance, contributing to baseline pipeline tracking with fixed parameters. The deadline for this mission is "in four days overnight", ensuring optimal data collection during the overnight period.
+
+Let's proceed with translating this metadata into a natural and conversational request that aligns with our operational guidelines.

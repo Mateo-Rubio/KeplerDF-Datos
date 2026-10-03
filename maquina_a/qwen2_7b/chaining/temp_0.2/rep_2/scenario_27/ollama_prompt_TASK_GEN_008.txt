@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a low priority importance task with a flexible schedule for opportunistic capture, fitting into a background survey or testbed tracking task.
+
+The geographic context involves capturing data on "in three days" around mid-day, focusing on the region of Norte, Brazil. Although the country and city details are not available, the location description will be naturally combined using the remaining valid fields from 'location_details'. The operational guidelines dictate that we should avoid raw technical system tags, underscores, or coordinate arrays in our final output.
+
+The mission allocation priority is set at Level 1, indicating low importance. This request will be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". The language must explicitly note that this operator has the option to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is VNIR, which will be used for "multispectral vegetation analysis". This operation aims to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. The goal is to gather data that provides insights into the health and composition of vegetation in the region.
+
+In conclusion, this task request encapsulates the operational guidelines by interpreting the metadata organically, maintaining natural language flow, and adhering to the specified priority level and deadline. The automated satellite constellation planner will receive this request as a low-priority task with a flexible schedule for data capture, fitting seamlessly into our ongoing background monitoring activities.

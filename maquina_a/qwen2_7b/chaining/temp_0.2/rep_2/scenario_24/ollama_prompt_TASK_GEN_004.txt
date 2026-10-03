@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the day after tomorrow overnight period. The priority level is set to 'High Importance', which implies an "absolute institutional priority" or a "binding contract requirement". This involves capturing a critical payload, necessitating an "urgent operational execution" and an "un-preemptable mission lock".
+
+The geographical context is centered around Colombia, specifically the city of Santa Sofía. The mission allocation involves utilizing the 'NIR' sensor for near-infrared reflection observations. This task aims to map water body boundaries or assess soil moisture levels, providing valuable insights into surface conditions.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically by combining parameters naturally without using raw technical system tags, underscores, or coordinate arrays. We describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline is set for the day after tomorrow overnight. This phrase, "the day after tomorrow overnight", must be inserted verbatim into the request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, this task request encapsulates a high-priority mission involving the 'NIR' sensor to capture essential data on water body boundaries or soil moisture levels in Santa Sofía, Colombia, with an urgent operational execution requirement and a specific delivery deadline of the day after tomorrow overnight.
