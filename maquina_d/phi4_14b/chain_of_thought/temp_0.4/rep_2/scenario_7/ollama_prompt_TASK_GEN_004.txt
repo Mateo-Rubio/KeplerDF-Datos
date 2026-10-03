@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite should capture the required imagery or data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word will be used literally in the final request to specify the time frame for data capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The requirement is explicitly stated as "overnight," and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for a flexible schedule involving opportunistic capture over Huasanó, Colombia. This task is considered a non-essential background filler task, so please feel free to drop or reschedule at your convenience. The objective is to perform thermal mapping to capture a heat signature or surface temperature profile, which can be useful for thermal anomaly detection and mapping heat emissions. We are looking to deliver the data products in three days, specifically during the overnight period.

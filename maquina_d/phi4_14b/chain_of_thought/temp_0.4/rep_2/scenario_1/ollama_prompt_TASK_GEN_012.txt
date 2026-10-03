@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) The deadline specified by "in three days" and "in the morning" indicates a strict operational deadline. There is no indication or instruction to shift this deadline to any other part of the day. Therefore, we must adhere to capturing the data specifically "in the morning" on the designated day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task for thermal mapping over the region of Bengkalis, Indonesia. This involves capturing a heat signature or surface temperature profile using thermal infrared imaging. The schedule is flexible, allowing for opportunistic capture, and can be dropped or rescheduled at convenience if necessary. Please ensure this background survey is completed in three days, specifically in the morning.
