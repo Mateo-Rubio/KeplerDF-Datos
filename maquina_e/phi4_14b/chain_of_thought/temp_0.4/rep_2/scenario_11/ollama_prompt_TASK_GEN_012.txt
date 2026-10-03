@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' specified in the JSON is "tomorrow." This indicates that the task needs to be completed by the next day from the current date. The 'target_diurnal_period' is given as "overnight," which suggests that the data collection should occur during the nighttime hours. Within this string, the word "overnight" directly corresponds to the period from late evening through early morning when it is dark outside. This timeframe is critical for the task's execution because the sensor type, SAR, is particularly effective in capturing data during such periods due to its ability to penetrate clouds and capture ground geometry regardless of weather conditions. It is essential to confirm that the deadline is strictly adhered to as "overnight" on "tomorrow," without any shifts or adjustments to other parts of the day. This ensures the task aligns with the operational requirements and maintains the integrity of the data collection schedule.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking involving the city of Ecuatorial in Indonesia. The mission requires an active radar scan using microwave surface imaging to perform cloud-penetrating capture, focusing on ground geometry during the overnight period. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this data is captured and delivered by tomorrow overnight, as it is a routine monitoring component of our workflow update.
