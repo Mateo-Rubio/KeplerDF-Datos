@@ -1,0 +1,11 @@
+Prompt: Request for a Standard Operational Tasking - Thermal Mapping of Indonesia's Ketapang Area Overnight Tomorrow
+
+Given the operational guidelines, we aim to translate the provided raw physical simulation metadata into a conversational English request that captures the essence of the Earth-observation mission. The task at hand involves utilizing the near-infrared sensor (NIR) for thermal mapping of the city of Ketapang in Indonesia overnight tomorrow.
+
+The geographic context is clearly defined within the JSON, specifying Indonesia as the country and Ketapang as the city. This enables us to describe the location in a natural manner without delving into technical system tags or coordinate arrays. Combining this information with the 'primary_sensor' attribute, we are tasked with thermal mapping, which involves capturing a heat signature or surface temperature profile across the area.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating that this request is part of a standard operational tasking that requires attention but does not demand an urgent execution. The 'target_day' attribute specifies 'tomorrow', and the 'target_diurnal_period' indicates that the data collection will take place overnight, aligning with the deadline that has already been set.
+
+To ensure accuracy and naturalness in the dataset, we describe the task using operational phrases that reflect the structural hierarchy of priority levels. In this case, mentioning that this is part of a baseline pipeline tracking setup with fixed parameters that represent normal operational status or a workflow update provides context without overemphasizing urgency.
+
+In conclusion, this Earth-observation mission involves capturing thermal data overnight tomorrow in Indonesia's Ketapang region using the near-infrared sensor. The request emphasizes a standard operational tasking with no indication of an urgent deadline, as the date and time for data availability are already set by an upstream module. The goal is to support normal operational status or update workflows without disrupting other critical tasks.
