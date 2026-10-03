@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy.
+
+We are focusing on the region of Colombia, specifically targeting the city of San Vicente del Caguán. Our mission allocation priority is High Importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This task requires urgent operational execution and an un-preemptable mission lock due to its high importance.
+
+The primary sensor involved is an Active Synthetic Aperture Radar (SAR), which will perform an active radar scan using microwave surface imaging for cloud-penetrating capture. This is essential for capturing ground geometry, even under heavy weather conditions. The goal is to obtain high-resolution imagery that pierces through clouds and provides detailed information about the terrain below.
+
+The delivery deadline for this task has been resolved by an upstream module. We aim to have the data available in three days around mid-day. Our request does not include raw UTC timestamps, digits, or countdown metrics; instead, we've specified the upper limit for data availability as being "in three days around mid-day."
+
+This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. The language used reflects a professional and direct tone suitable for this level of importance.
+
+In conclusion, our task involves capturing high-resolution SAR imagery of San Vicente del Caguán in Colombia on the target day at around mid-day. We prioritize this mission due to its critical nature and require the data to be available by the specified deadline. Our automated satellite constellation planner should understand the operational guidelines provided and execute this task accordingly.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically.
+
+The geographic context involves observing Foraquira, Colombia. Although the city details are provided, they're "N/A", so we'll describe the location using the 'country' field only. The mission allocation priority is set at 'Priority 1 (Low Importance)', which means this request is treated as a flexible schedule task for opportunistic capture, acting as a low-priority background filler.
+
+We're focusing on the primary sensor "VNIR" for this observation, aiming to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This involves capturing the surface reflectance of the area with high resolution during daylight photography, providing true-color visual documentation that's essential for our baseline pipeline tracking setup.
+
+The delivery deadline is set for "in three days overnight". This phrase serves as the upper limit for data availability, indicating when the data should be ready. We'll ensure this request is processed accordingly without rephrasing or altering the time frame.
+
+In summary, our Earth-observation mission operator is requesting a VNIR observation of Foraquira, Colombia, with low-priority importance and a flexible schedule for "in three days overnight". This task aligns with our standard operational status and workflow update requirements, contributing to our background survey and testbed tracking tasks.

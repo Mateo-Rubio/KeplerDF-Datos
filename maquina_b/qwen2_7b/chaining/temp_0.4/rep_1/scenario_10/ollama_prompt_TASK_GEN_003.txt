@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, maximizing naturalness and validation accuracy of the dataset.
+
+The geographic context involves observing Indonesia, specifically in the equatorial region, which is characterized by lush landscapes and diverse ecosystems. The operational guidelines dictate that we should not use raw technical system tags or coordinate arrays, instead combining JSON parameters naturally. If country, city, or landmark details are "N/A", we describe the location using remaining valid fields or the 'region_name'.
+
+The mission allocation priority level is set to 1, which indicates a low importance request with flexible scheduling for opportunistic capture. This task is framed as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which involves an active radar scan using microwave surface imaging. This technique allows us to capture ground geometry and penetrate heavy weather, making it ideal for cloud-penetrating capture.
+
+The delivery deadline is set for tomorrow during the afternoon, with no rephrasing or shortening of this phrase. This upper limit for data availability dictates when the task must be completed.
+
+In summary, our request involves capturing high-resolution optical snapshots using a SAR sensor in Indonesia's equatorial region. This is part of an opportunistic background survey task with flexible scheduling, aiming to assess ground geometry and capture cloud-penetrating imagery during the afternoon tomorrow.

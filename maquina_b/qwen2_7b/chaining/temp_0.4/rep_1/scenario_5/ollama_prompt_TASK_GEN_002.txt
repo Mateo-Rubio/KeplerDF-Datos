@@ -1,0 +1,9 @@
+Your Earth-observation mission operator requests the automated satellite constellation planner to allocate a task with high importance for the day after tomorrow in the morning. The priority level is set at High Importance, indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+The geographical context of this mission involves capturing imagery over a specific location in Italia, specifically Poggi del Sasso. The primary sensor to be utilized for this task is an active radar scan using microwave surface imaging, designed to pierce through heavy weather conditions or to capture ground geometry with unparalleled precision.
+
+The mission aims to achieve cloud-penetrating capture, ensuring that no matter the atmospheric conditions, a comprehensive understanding of the landscape will be obtained. This task falls under standard operational tasking, contributing to baseline pipeline tracking with fixed parameters representing normal operational status.
+
+Given the nature of this request, it is explicitly noted as a low priority importance task with a flexible schedule for opportunistic capture. It is labeled as a non-essential background filler task, where the operator acknowledges that it can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module, set for the day after tomorrow in the morning. This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing, shortening, or movement to a different part of the day.
