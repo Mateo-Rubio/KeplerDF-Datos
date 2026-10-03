@@ -1,0 +1,18 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+The request should be framed as a high-priority task with a strict deadline, emphasizing the importance of capturing thermal mapping data to detect heat signatures and surface temperature profiles in the region of Italy, specifically in the city of Norte. The operator must ensure that the data products are ingested into the pipeline before the target day, which is three days from now, and by the evening at the latest.
+
+Here's a possible natural user request:
+
+"Capture high-resolution thermal mapping data using active TIR imaging to detect heat signatures and surface temperature profiles in the region of Italy, specifically in the city of Norte. This is an absolute institutional priority, and we require a critical payload capture with a strict delivery deadline set for three days from now, in the evening at the latest."
