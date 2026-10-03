@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data products are expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite should capture the imagery.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day." This word must be included literally in the final request to reflect the specified time for data capture.
+
+d) It's important to confirm that the deadline is not being shifted to an adjacent part of the day. The phrase "around mid-day" clearly indicates that the capture should occur during this specific time frame, without any alteration or extension to morning, afternoon, or any other part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for a flexible schedule aimed at opportunistic capture over Tesis, Italy. This is a non-essential background filler task where we can drop or reschedule at convenience. We're looking to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, which will help in capturing ground geometry. The goal is to complete this task the day after tomorrow, around mid-day.
