@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for our baseline pipeline tracking setup. The operational guidelines dictate that we interpret the raw physical simulation metadata provided in JSON format to create a highly realistic and conversational English request.
+
+The geographic context of this task involves capturing data from Indonesia, with the city of Ecuatorial serving as our primary location. This region's unique characteristics demand an active radar scan using microwave surface imaging technology, which is our primary sensor choice. The 'SAR' sensor will be pivotal for cloud-penetrating capture, ensuring that we can gather detailed ground geometry information even under heavy weather conditions.
+
+The mission allocation priority level is set to 'Priority 1', indicating a low importance request with a flexible schedule for opportunistic capture. This task is labeled as a "non-essential background filler task" where our operator explicitly notes that it can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set to "in four days overnight". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request is to capture detailed ground geometry information from Indonesia's Ecuatorial region using an active radar scan, with no specific urgency attached to this task. The deadline for data availability is set for four days overnight, aligning with our operational guidelines and ensuring that we adhere to the provided JSON metadata while maintaining natural language flow.

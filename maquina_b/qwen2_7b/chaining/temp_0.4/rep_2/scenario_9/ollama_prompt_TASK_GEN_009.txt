@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the guidelines provided.
+
+The geographic context involves observing Indonesia's equatorial region with a primary sensor of Thermal Infrared (TIR). The location details specify a city that, while not clearly identified, is described as being in an equatorial setting. Combining these parameters naturally yields a description focusing on the region's climatic and geographical characteristics rather than technical tags or coordinates.
+
+The mission allocation priority level is set to 1, indicating low importance with flexible scheduling for opportunistic capture. This task is framed as a "low priority importance" request with a "flexible schedule" for "opportunistic data collection". It is treated as a "background survey" or "testbed tracking task", emphasizing its non-essential nature within the operational pipeline.
+
+The sensor's physical objective is to perform thermal mapping, capturing a heat signature and surface temperature profile. This activity aims to detect thermal anomalies and map heat emissions, which are essential for various applications such as environmental monitoring, agricultural assessment, and disaster response.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for "in three days around mid-day". This phrase is inserted verbatim into our request, maintaining the upper limit for data availability without rephrasing or altering the time frame.
+
+In conclusion, our request to the satellite constellation planner is as follows:
+
+"Please prepare to capture thermal mapping data using a TIR sensor over Indonesia's equatorial region. The observation will be conducted in a flexible schedule, emphasizing opportunistic data collection. The objective is to detect thermal anomalies and map heat emissions for environmental monitoring purposes. The deadline for this task is set for 'in three days around mid-day', as determined by an upstream module."
+
+This request encapsulates the operational guidelines provided, translating technical metadata into a realistic and conversational English format suitable for automated satellite constellation planning.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a highly prioritized task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context for this mission involves capturing thermal mapping data over the region known as Italia Norte. Combining the JSON parameters naturally, we describe the location using the realistic combination of 'country' and 'city' fields, resulting in an observation over Italia Norte. If necessary, we would gracefully ignore any 'landmark' details that are "N/A" and proceed with the available information.
+
+The mission allocation priority is set to High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The language must heavily imply an urgent operational execution and an un-preemptable mission lock, reflecting this structural hierarchy.
+
+The primary sensor for this task is TIR, which we interpret as the goal of capturing thermal mapping data to identify heat signatures and surface temperature profiles. This process includes assessing heat emissions and conducting thermal anomaly detection.
+
+The delivery deadline for this task has been resolved by an upstream module: "in four days in the morning". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In conclusion, our request to the automated satellite constellation planner is to capture high-resolution thermal mapping data over Italia Norte, focusing on heat signatures and surface temperature profiles, with a priority of High Importance (Priority 3). The deadline for this task is "in four days in the morning", emphasizing an urgent operational execution and un-preemptable mission lock.

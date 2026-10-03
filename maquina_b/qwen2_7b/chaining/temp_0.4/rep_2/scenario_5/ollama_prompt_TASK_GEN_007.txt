@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+Given the context of observing a location in Colombia, our primary sensor will be VIS, aiming for a high-resolution optical snapshot to capture daylight photography, clear optical imagery, or true-color visual documentation. The geographic context is described using the country field only, as city details are unavailable. 
+
+The mission allocation priority is set at Low Importance, implying that this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly framed as a "non-essential background filler task" where the operator notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline for this task has already been resolved by an upstream module and is set for tomorrow in the evening. This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability without any rephrasing, shortening, or relocation to a different part of the day.
+
+In summary, our task request will focus on capturing high-resolution optical imagery using VIS technology over Colombia, with an operational priority that reflects its low importance status and a deadline set for tomorrow in the evening. This request is structured to maximize naturalness and validation accuracy while adhering to the guidelines provided.
