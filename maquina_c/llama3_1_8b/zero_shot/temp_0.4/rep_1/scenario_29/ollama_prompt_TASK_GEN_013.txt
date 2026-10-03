@@ -1,0 +1,18 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the following JSON parameters into a natural user request:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Aipe"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Using the provided operational guidelines, interpret the metadata organically and generate a natural user request that meets the specified requirements.
+
+The final output should be a single block of text that accurately reflects the mission operator's request in a conversational tone.
