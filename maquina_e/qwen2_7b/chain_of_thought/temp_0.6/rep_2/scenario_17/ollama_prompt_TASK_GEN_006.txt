@@ -1,0 +1,40 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "tomorrow"
+
+b) The exact string in 'target_diurnal_period' is: "around mid-day"
+
+c) The single word contained in that string is: "mid-day"
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+In response to our operational guidelines, we are tasked with capturing a detailed active radar scan using microwave surface imaging technology for the region of Indonesia, specifically focusing on Majangkan city. This mission allocation is of medium importance and adheres to a standard operational status. The data collection will commence on the day designated as "tomorrow", with the primary objective being to conduct an acquisition around mid-day.
+
+This request involves an active radar scan designed to pierce through heavy weather conditions, enabling us to capture ground geometry with precision. This is part of our baseline pipeline tracking setup with fixed parameters and represents a standard workflow update for our satellite constellation planner.
+
+The mission is allocated priority level 2, indicating it is a standard operational tasking that aligns with the normal operational status of our satellite assets. It's important to note that there are no immediate deadlines related to the delivery of data products; instead, the 'target_day' and 'target_diurnal_period' parameters serve as strict operational deadlines for delivering the data.
+
+The purpose of this task is to gather comprehensive data on various aspects of the region, with a particular focus on utilizing our SAR sensor capabilities. We aim to achieve high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation that can provide insights into the landscape and activities taking place during the mid-day period.
+
+For the thermal mapping aspect, we will employ our TIR sensor to capture heat signatures and surface temperature profiles, enabling us to detect thermal anomalies and map heat emissions accurately. This information is crucial for understanding various phenomena such as land use, urban heat islands, and environmental conditions.
+
+In addition, our VNIR sensor will be utilized to conduct multispectral vegetation analysis, which will help in assessing chlorophyll absorption levels and calculating the NDVI index to determine surface reflectance. This data will contribute to a comprehensive understanding of plant health and the overall ecosystem dynamics.
+
+Lastly, with our NIR sensor, we will perform near-infrared reflection mapping to delineate water body boundaries and assess soil moisture content, providing insights into water management and agricultural practices in the region.
+
+In summary, this mission aims to gather detailed data on various aspects of the Indonesian landscape through active radar scans, thermal mapping, vegetation analysis, and near-infrared reflection mapping. The operational request is structured around a deadline for mid-day acquisition tomorrow, with considerations for achieving high-quality imagery and comprehensive data capture that aligns with our satellite constellation planner's baseline pipeline tracking.
+
+```prompt
+As specified in our operational guidelines, we are tasked to conduct an active radar scan using microwave surface imaging technology for the region of Indonesia, focusing on Majangkan city. This mission is of medium importance and adheres to a standard operational status. The data collection will commence on tomorrow, with the primary objective being to acquire data around mid-day.
+
+Our SAR sensor capabilities will enable high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation that can provide insights into the landscape and activities taking place during the mid-day period. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Utilizing our TIR sensor for thermal mapping will allow us to capture heat signatures and surface temperature profiles, enabling us to detect thermal anomalies and map heat emissions accurately. This information is crucial for understanding various phenomena such as land use, urban heat islands, and environmental conditions.
+
+Our VNIR sensor will be employed for multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI index to determine surface reflectance. This data will contribute to a comprehensive understanding of plant health and the overall ecosystem dynamics.
+
+Lastly, with our NIR sensor, we will perform near-infrared reflection mapping to delineate water body boundaries and assess soil moisture content, providing insights into water management and agricultural practices in the region.
+
+This mission aims to gather detailed data on various aspects of the Indonesian landscape through active radar scans, thermal mapping, vegetation analysis, and near-infrared reflection mapping. The operational request is structured around a deadline for mid-day acquisition tomorrow, with considerations for achieving high-quality imagery and comprehensive data capture that aligns with our satellite constellation planner's baseline pipeline tracking.

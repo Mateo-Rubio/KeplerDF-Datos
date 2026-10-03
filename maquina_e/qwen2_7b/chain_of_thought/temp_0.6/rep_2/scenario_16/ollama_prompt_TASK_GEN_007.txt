@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) The deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+The Earth-observation mission operator requests a task to capture a high-resolution optical snapshot using visible spectrum sensors over the region of Colombia, specifically targeting the city of Páez. This task is given a low priority importance and is to be executed as a "non-essential background filler task". There is no strict deadline for delivery; however, the operational context stipulates that the data must be acquired within four days, with a preference for the morning time period when conditions are most likely to optimize image quality. The imagery will serve to document the region in daylight conditions, providing clear optical information and true-color visual documentation of the landscape.

@@ -1,0 +1,10 @@
+STAGE 1 - REASONING:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+b) The exact string contained in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, I am not shifting the deadline to an adjacent part of the day; instead, I am interpreting it as a strict operational deadline for delivering the data products.
+
+STAGE 2 - FINAL REQUEST:
+
+The Earth-observation mission operator requests a task with high operational priority for tomorrow afternoon. This request involves capturing thermal mapping data using a TIR sensor for Desa Muaro Sentajo, located in Indonesia. The operator emphasizes that this task requires a "standard operational tasking" status as part of their baseline pipeline tracking setup with fixed parameters representing normal operational status. This is an absolute institutional priority, involving a critical payload capture that must be completed during the afternoon hours of tomorrow to ensure comprehensive thermal mapping data collection for Desa Muaro Sentajo. The deadline is strictly set for this specific time, reflecting the need for accurate thermal anomaly detection and heat emission mapping without any adjustments to accommodate adjacent periods.

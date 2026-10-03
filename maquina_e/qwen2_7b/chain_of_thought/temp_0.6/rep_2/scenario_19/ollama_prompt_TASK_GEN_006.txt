@@ -1,0 +1,16 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in the string "overnight" is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as specified.
+
+STAGE 2
+
+Given the operational guidelines and the raw JSON metadata, our Earth-observation mission operator would formulate a request for capturing data on the day after tomorrow during the overnight period in the country of Indonesia with its capital city being Ecuatorial. The mission's priority level is set at 'low importance', indicating that this task is part of a flexible schedule for opportunistic capture and can be dropped or rescheduled as convenient.
+
+With the primary sensor designated as "NIR", the mission aims to conduct near-infrared reflection observations, focusing on mapping water body boundaries and assessing soil moisture levels. These observations are crucial for understanding water distribution and soil conditions within the region.
+
+The operator requests that this task be executed with a high degree of flexibility, emphasizing that it is a non-essential background filler task not critical for immediate operational requirements or contractual obligations. The data acquisition should adhere to normal operational status and workflow updates, while recognizing that there might be other tasks with higher priority levels that might preempt this mission if necessary.
+
+In summary, the operator seeks to capture nighttime imagery over Ecuatorial, Indonesia, using near-infrared sensors to map water bodies and assess soil moisture conditions, acknowledging that this task is part of a baseline pipeline tracking setup with fixed parameters representing standard operational status.
