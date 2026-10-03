@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The request explicitly states that the task should be executed on "tomorrow" and specifically during "in the morning", which is a strict operational deadline and not a flexible time frame.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a high-priority institutional mission for multispectral vegetation analysis in Colombia. Specifically, we need to capture a high-resolution optical snapshot of the San Martín region using a multispectral VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This is an absolute institutional priority, and it is essential that we deliver these data products tomorrow morning as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status...
