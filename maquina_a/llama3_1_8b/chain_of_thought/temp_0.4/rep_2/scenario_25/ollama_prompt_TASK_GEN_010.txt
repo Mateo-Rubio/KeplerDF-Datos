@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request remains as is, with the deadline specified as "in the morning" on the same day, four days from now.
+
+STAGE 2 - FINAL REQUEST
+
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+We require an absolute institutional priority for thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions using the thermal infrared sensor. The location is Colombia, specifically the city of Chima, where we need to execute this critical payload capture in the morning, in four days. This task represents a binding contract requirement involving mandatory directive and urgent operational execution, with an un-preemptable mission lock.
