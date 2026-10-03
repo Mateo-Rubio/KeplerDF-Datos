@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+Given the context of observing Tanjung Jabung Timur in Indonesia, utilizing an active radar scan for microwave surface imaging, our mission aims to capture cloud-penetrating imagery that pierces through heavy weather conditions. This task is categorized under a low priority importance, signifying a flexible schedule for opportunistic capture and treating it as a background survey or testbed tracking task.
+
+The primary sensor in play is SAR, which will enable us to gather data on the day's conditions, contributing to our understanding of ground geometry without being hindered by atmospheric obstructions. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for this task has been resolved by an upstream module, stating that the data should be available tomorrow in the morning. The language must not include raw technical system tags, underscores, or coordinate arrays, and should avoid mentioning raw priority numbers or technical priority levels. Instead, it should integrate specific operational phrases to reflect the structural hierarchy of priority levels.
+
+In summary, our request is to capture high-resolution SAR data of Tanjung Jabung Timur in Indonesia for cloud-penetrating imagery, aiming to fulfill a low priority importance task with a flexible schedule for tomorrow's morning availability. This mission aligns with our baseline pipeline tracking setup and represents a standard workflow update within our normal operational status.

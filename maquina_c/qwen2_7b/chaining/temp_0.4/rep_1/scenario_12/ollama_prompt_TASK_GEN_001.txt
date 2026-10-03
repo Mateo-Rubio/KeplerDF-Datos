@@ -1,0 +1,28 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The operational guidelines for translating the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", gracefully ignore them and describe the location using remaining valid fields or 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use authoritative, professional, or casual tones based on priority levels to frame requests as absolute institutional priorities, standard operational tasks, or low-priority background filler tasks.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Weave operational objectives and descriptors into the request, explaining goals as high-resolution optical snapshots for daylight photography, active radar scans using microwave surface imaging for cloud-penetrating capture, thermal mapping for heat signature detection, multispectral vegetation analysis to assess chlorophyll absorption levels, or near-infrared reflection for water body boundary mapping.
+
+4. DELIVERY DEADLINE: Insert the phrase "tomorrow overnight" verbatim as the stated upper limit for data availability.
+
+Given the target task context JSON:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "San José del Guaviare"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+My request is:
+
+"Please allocate an absolute institutional priority for a low-priority importance task. The mission involves capturing the heat signature of the area in Colombia, specifically San José del Guaviare, using near-infrared (NIR) sensors. This is part of a standard operational baseline pipeline tracking setup with fixed parameters representing normal operational status. The task requires thermal mapping to assess soil moisture levels for water body boundary mapping and to discriminate gradients. The deadline for this task is tomorrow overnight, ensuring that the data availability adheres to the stipulated upper limit."
+
+This request integrates the guidelines by interpreting keys 'region_name' and nested 'location_details', assigning a low priority importance with an authoritative tone, describing the mission allocation priority, incorporating physical objectives using operational descriptors for the sensor type, and including the delivery deadline verbatim as specified."

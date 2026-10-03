@@ -1,0 +1,15 @@
+Operating an Earth-observation mission, our task is to translate raw physical simulation metadata into a highly realistic request for a single satellite constellation planner. The objective involves converting the provided JSON format into a conversational English request that maximizes naturalness and validation accuracy.
+
+Geographically, we are focusing on Indonesia with a specific interest in its equatorial region, as described by the 'country' and 'city' fields from 'location_details'. The operational guidelines guide us to avoid technical system tags and coordinate arrays, instead combining parameters naturally. If country, city, or landmark details are not available, we describe the location using remaining valid fields or the 'region_name'.
+
+Our mission allocation priority is of medium importance, indicated by a 'priority_level' of 2. This means that this request is part of our standard operational tasking, commercial tasking, or routine monitoring within our baseline pipeline tracking setup. We emphasize fixed parameters representing normal operational status, and the language should reflect standard workflow updates.
+
+The primary sensor we are utilizing for this task is 'NIR', which aims to capture near-infrared reflection for water body boundary mapping or soil moisture assessment. This process allows us to discriminate gradients effectively.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow in the morning". We must include this phrase verbatim as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day. Our request does not output raw UTC timestamps, digits, or countdown metrics.
+
+In conclusion, our request to the satellite constellation planner is as follows:
+
+"Please prepare to capture high-resolution optical snapshots of Indonesia's equatorial region using near-infrared sensors for water body boundary mapping and soil moisture assessment. This task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. It holds a medium importance level, meaning it is a standard task that should be executed as part of our baseline workflow updates. The deadline for this data collection is set for 'the day after tomorrow in the morning', as per the upstream module's resolution. We appreciate your attention to this request."
+
+This request integrates the operational guidelines effectively, ensuring naturalness and validation accuracy while adhering to the provided JSON metadata.

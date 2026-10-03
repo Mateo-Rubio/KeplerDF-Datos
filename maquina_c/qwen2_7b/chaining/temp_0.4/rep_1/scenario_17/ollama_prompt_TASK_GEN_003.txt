@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy in the dataset.
+
+The geographic context involves capturing data on Indonesia's Berau region overnight tomorrow. Combining JSON parameters naturally, we can describe this location using realistic combinations of 'country' and 'city', gracefully ignoring "N/A" fields or describing the location using remaining valid fields or 'region_name'.
+
+The mission allocation priority for this task is Low Importance, implying a flexible schedule for opportunistic capture as a non-essential background filler task. This request is labeled as a low priority importance with a 'drop or reschedule at convenience' note, treating it as a background survey or testbed tracking task.
+
+The sensor and physical objectives involve capturing data using the Near-Infrared (NIR) sensor. The goal is to assess soil moisture assessment for water body boundary mapping or discriminate gradients through near-infrared reflection, focusing on the operational necessity rather than technical abbreviations.
+
+Given the deadline has already been resolved by an upstream module, it states "tomorrow overnight" as the upper limit for data availability. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request is to capture overnight NIR data on Indonesia's Berau region with a low priority importance, focusing on soil moisture assessment through near-infrared reflection. This request adheres to operational guidelines for natural language generation, ensuring clarity and accuracy in conveying mission objectives.

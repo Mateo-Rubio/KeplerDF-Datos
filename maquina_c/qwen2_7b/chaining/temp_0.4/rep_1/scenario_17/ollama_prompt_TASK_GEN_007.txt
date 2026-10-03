@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture highly realistic data using thermal mapping (TIR) for a critical payload capture in the region of Colombia, specifically focusing on the city of Paya during the afternoon tomorrow. This task is of low priority importance and involves a flexible schedule for opportunistic capture, labeled as a non-essential background filler task. The data will serve as a heat signature or surface temperature profile to aid in thermal anomaly detection and mapping heat emissions.
+
+The operational guidelines dictate that we do not use raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If 'country', 'city', or 'landmark' are "N/A", we gracefully ignore them by describing the location using the remaining valid fields or the clean 'region_name'.
+
+Our mission allocation priority is determined by the 'priority_level'. Priority 1 (low importance) requests are treated with a casual, highly flexible tone. This task falls under this category and will be executed as a low priority importance request with a flexible schedule for opportunistic capture.
+
+The sensors involved in this physical objective are TIR, which will be used to assess thermal mapping capabilities for capturing heat signatures or surface temperature profiles. This involves the detection of thermal anomalies and mapping heat emissions.
+
+The delivery deadline is already resolved by an upstream module. The upper limit for data availability is tomorrow during the afternoon. Our request does not include raw UTC timestamps, digits, or countdown metrics; instead, we have inserted this phrase verbatim into our request.
+
+In summary, our task request involves a TIR sensor to capture thermal mapping data in Colombia's Paya city during the afternoon of the following day. This is a low priority importance task with a flexible schedule for opportunistic capture. The data will serve as heat signatures or surface temperature profiles for thermal anomaly detection and mapping heat emissions.
