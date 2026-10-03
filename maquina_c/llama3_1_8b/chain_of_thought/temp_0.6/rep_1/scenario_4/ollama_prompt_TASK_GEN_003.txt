@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains on the day specified, which is the day after tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a thermal mapping task as part of our standard operational tasking with fixed parameters representing normal operational status. The location for this task is Indonesia, specifically in the city of Banyuasin. We need to capture a heat signature and surface temperature profile overnight on the day after tomorrow using our TIR sensor. This is a routine monitoring task that is part of our baseline pipeline tracking setup, and it is classified as a standard operational tasking with a commercial priority level.
