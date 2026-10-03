@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves observing Schweiz/Suisse/Svizzera/Svizra, with a focus on Rheinwald. This region requires a natural description that combines country, city, and landmark fields from 'location_details'. Since the specific country, city, or landmark details are not available, we will describe the location using the remaining valid fields or clean 'region_name', which in this case is Schweiz/Suisse/Svizzera/Svizra.
+
+The mission allocation priority level is medium importance. This implies a professional tone with standard operational language, referring to the task as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The request is framed as a standard operational tasking or routine monitoring, involving an absolute institutional priority or a binding contract requirement for critical payload capture.
+
+The primary sensor involved is Near-Infrared (NIR), which will be used for near-infrared reflection to map water body boundaries and assess soil moisture. This objective will provide valuable insights into water body delineation and soil conditions, crucial for environmental monitoring and agricultural assessments.
+
+The delivery deadline for this task has been resolved by an upstream module, stating that the data is required "in four days around mid-day". This phrase must be inserted verbatim into our request as the upper limit for data availability. We will not rephrase or shorten it, nor will we move it to a different part of the day.
+
+In summary, our task involves observing the region of Schweiz/Suisse/Svizzera/Svizra with a focus on Rheinwald using Near-Infrared (NIR) sensors for water body boundary mapping and soil moisture assessment. This medium-priority operational request is part of our standard baseline pipeline tracking setup, aiming to capture critical data within four days around mid-day for a standard workflow update.

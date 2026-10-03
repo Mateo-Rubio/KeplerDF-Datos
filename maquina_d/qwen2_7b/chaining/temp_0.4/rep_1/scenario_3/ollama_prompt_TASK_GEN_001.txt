@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. The objective is to capture a highly realistic, conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context for this mission involves Colombia, focusing on the city of Tame. Given the operational guidelines, I'll interpret the location details naturally without using raw technical system tags or coordinate arrays. Combining the country and city names, we're looking at a specific area within Colombia that Tame represents.
+
+Moving to the mission allocation priority, with a 'priority_level' set to 2, this request is framed as a standard operational tasking part of our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status or a routine monitoring activity involving a critical payload capture. We're emphasizing the importance of this task without implying an urgent deadline; instead, we're highlighting it as a standard workflow update with a clear operational context.
+
+Regarding the sensors and physical objectives, our primary sensor is set to VNIR (visual near-infrared), which will be used for multispectral vegetation analysis. This means we'll assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance. The goal is to gather data that provides insights into plant health and environmental conditions without the technical abbreviations.
+
+The delivery deadline has already been resolved, with the task due "tomorrow in the evening". This phrase is inserted verbatim into our request as the stated upper limit for data availability, ensuring clarity on when the data should be collected. No raw UTC timestamps or countdown metrics are included.
+
+In summary, this Earth-observation mission entails capturing a multispectral vegetation analysis using VNIR technology from a specific area in Colombia, focusing on Tame city. The operational priority is set as medium importance, with a standard workflow update status and a clear deadline for data collection scheduled "tomorrow in the evening". This request is designed to align with our automated satellite constellation planner's expectations, ensuring smooth mission allocation and execution.

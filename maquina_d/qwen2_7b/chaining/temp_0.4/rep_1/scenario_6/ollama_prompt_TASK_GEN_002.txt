@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to provide a single task that maximizes naturalness and validation accuracy by interpreting the operational guidelines provided.
+
+Given the JSON context:
+
+- The primary sensor is VNIR, which we interpret as "multispectral vegetation analysis" aimed at assessing the "chlorophyll absorption level" or calculating the vegetation "NDVI index" and surface reflectance.
+- The geographic context involves "Italia", a country rich in diverse landscapes, combined with the city of "Norte". We describe this location using realistic combinations of these fields, focusing on the essence rather than technical details or coordinate arrays. The region name provides context for the location, as the country and city fields are "N/A".
+- The mission allocation priority is set at Level 1 (Low Importance), which we frame as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". This task is labeled as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+- The delivery deadline is "today overnight", which we insert verbatim into our request, serving as the stated upper limit for data availability without rephrasing or shortening.
+
+In summary:
+
+"Please conduct a 'multispectral vegetation analysis' using VNIR technology to assess the 'chlorophyll absorption level' or calculate the 'NDVI index' and surface reflectance of the region in 'Italia', particularly focusing on the city of 'Norte'. This task is categorized as a 'low priority importance' request with a 'flexible schedule' for 'opportunistic capture'. It serves as a 'non-essential background filler task' that can be 'dropped or rescheduled at convenience'. The deadline for this task is set for 'today overnight', which signifies the upper limit for data availability without any rephrasing or shortening of the phrase."
+
+This request incorporates the operational guidelines by avoiding raw technical system tags, underscores, or coordinate arrays and by using realistic combinations of location details. It also adheres to the priority levels, deadlines, and sensor interpretation as specified in the JSON context.
