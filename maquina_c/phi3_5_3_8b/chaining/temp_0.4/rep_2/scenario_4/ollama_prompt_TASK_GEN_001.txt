@@ -1,0 +1,5 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the following raw physical simulation metadata into a realistic and conversational English request:
+
+The primary sensor for this operation will be VNIR, aiming for multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The location of interest is in Calamar, Colombia—a city known for its unique flora and agricultural significance. Given the nature of this task, it has been assigned a Low Importance priority level, which translates to an opportunistic capture with a flexible schedule. Specifically, we are looking to gather data "in three days in the evening," as per the delivery deadline set by our upstream module.
+
+The request is thus framed as follows:
