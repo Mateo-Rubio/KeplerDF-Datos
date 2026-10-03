@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The geographic context involves the 'region_name' and nested 'location_details', which include the country, city, and landmark fields. We combine these parameters naturally, describing the location using a realistic blend of the given details. If any of the country, city, or landmark are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is interpreted through the 'priority_level' key. For Priority 3 (High Importance), we use an authoritative tone, framing this as an "absolute institutional priority" or a "binding contract requirement". We emphasize "urgent operational execution" and an "un-preemptable mission lock". For Priority 2 (Medium Importance), we adopt a professional tone, describing the request as part of a "standard operational tasking" or "commercial tasking", with "fixed parameters" representing "normal operational status". Lastly, for Priority 1 (Low Importance), we use a casual tone, labeling it as a "low priority importance" request with a "flexible schedule".
+
+Sensors and physical objectives are interpreted through the 'primary_sensor' key. We avoid technical abbreviations and output natural language that explains the goal of each sensor type. For VIS sensors, we describe the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". SAR sensors are explained as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", capturing ground geometry through heavy weather. TIR sensors serve for "thermal mapping", capturing a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. VNIR sensors are used for "multispectral vegetation analysis", assessing "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance. Lastly, NIR sensors are used for "near-infrared reflection" to map "water body boundaries" or assess "soil moisture".
+
+The delivery deadline is already resolved by an upstream module, set as "in three days overnight". We must insert this phrase verbatim into our request, stating the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+For the specific task context provided in the JSON format:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Tre Fasci"
+  },
+  "priority_level": 2,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+The request is as follows:
+
+"Please allocate a satellite mission with priority level 2 for an overnight observation on the target day, in three days. The geographical context involves Italia, specifically Tre Fasci. The primary sensor to be utilized is VIS, aiming to capture high-resolution optical imagery for daylight photography and true-color visual documentation. This task is part of our standard operational tasking, representing normal operational status with fixed parameters. The deadline for data availability is strictly 'in three days overnight', adhering to the established upper limit for data release."
+
+This request seamlessly integrates the provided JSON metadata into a natural and conversational English format, emphasizing the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that adheres to the operational guidelines provided.
+
+The geographic context of our mission involves capturing a high-resolution optical snapshot of Valle Castellana, located in the picturesque country of Italia. This location, while not detailed with city or landmark specifics, is described using the available fields from 'location_details' to provide a realistic and natural context for our satellite's capture.
+
+Our mission allocation priority is set at medium importance, as indicated by the 'priority_level' key. This request represents a standard operational tasking that is part of our baseline pipeline tracking setup. With fixed parameters representing normal operational status, this mission is executed with the understanding that it is a routine monitoring activity, contributing to our ongoing surveillance and data collection efforts.
+
+The primary sensor for this mission is VIS, which we interpret as our satellite capturing a daylight photograph, providing clear optical imagery and true-color visual documentation of the target area. This captures the essence of the physical phenomenon to be observed under natural light conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for "in three days during the afternoon". We must include this phrase verbatim in our request, acknowledging the upper limit for data availability without rephrasing or shortening it.
+
+In conclusion, our request to the satellite constellation planner is as follows: Our mission involves capturing a high-resolution optical snapshot of Valle Castellana, Italia, utilizing our VIS sensor to provide clear daylight photography. This activity falls under our medium priority level, contributing to our standard operational tasking and baseline pipeline tracking setup with fixed parameters representing normal operational status. The deadline for this data capture is set for "in three days during the afternoon", as determined by an upstream module.
+
+We look forward to receiving confirmation of our request and await the satellite's successful execution of this mission, ensuring that our data collection efforts remain aligned with our operational guidelines and priorities.

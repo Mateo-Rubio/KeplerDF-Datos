@@ -1,0 +1,28 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic, conversational English request. The operational guidelines for this task are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally by describing the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use specific operational phrases to reflect the structural hierarchy of priority levels. Priority 3 indicates an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" with an "urgent operational execution". Priority 2 represents a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". Priority 1 is framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed. VIS is explained as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". SAR describes an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry. TIR explains the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. VNIR is for "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. NIR explains the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4. DELIVERY DEADLINE: Insert the phrase "in four days in the morning" verbatim into your request, as the stated upper limit for data availability. Do not rephrase, shorten, or move it to a different part of the day.
+
+The target task context JSON provided is:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Povici di sotto"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Based on these guidelines, my request is as follows:
+
+"An urgent operational execution is required for an absolute institutional priority involving a critical payload capture using thermal mapping (TIR) technology. The task is to capture a heat signature and surface temperature profile of a location in Povici di sotto, Italia, which is situated in the beautiful country of Italia. This high-resolution optical snapshot will be used for thermal anomaly detection and mapping heat emissions. The deadline for this task is 'in four days in the morning', adhering to the strict timeline specified by our upstream module."
+
+Please note that the request should be tailored based on the specific operational context, ensuring compliance with all guidelines provided.

@@ -1,0 +1,28 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: We'll combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we'll describe the location using remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: We won't mention raw priority numbers or technical priority levels. Instead, we'll integrate specific operational phrases to reflect this structural hierarchy based on priority level.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We won't output technical abbreviations or acronyms. We'll weave operational objectives and descriptors into our request to explain the physical phenomenon to be observed.
+
+4. DELIVERY DEADLINE: The task deadline is "in three days around mid-day", which must be inserted verbatim into our request, as the stated upper limit for data availability.
+
+The target task context JSON provided is:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Pavullo nel Frignano"
+  },
+  "priority_level": 2,
+  "target_day": "in three days",
+  "target_diurnal_period": "around mid-day"
+}
+
+Given this JSON, our request to the satellite constellation planner would be:
+
+"Please conduct a near-infrared reflection task over Pavullo nel Frignano, Italy. This standard operational tasking involves assessing soil moisture and water body boundaries using microwave surface imaging for cloud-penetrating capture. The deadline is set for three days from now, around mid-day, as part of our baseline pipeline tracking with fixed parameters representing normal operational status."
+
+This request encapsulates the guidelines by interpreting the metadata organically, maintaining a professional tone suitable for priority level 2 tasks, and emphasizing the physical objectives associated with near-infrared sensors. The deadline is clearly stated as per the provided JSON.

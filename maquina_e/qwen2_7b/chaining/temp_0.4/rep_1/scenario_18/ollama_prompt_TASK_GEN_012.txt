@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request for an operational task.
+
+The geographic context involves observing Tanjung Jabung Timur, Indonesia. Given the intricacies of this location, we will focus on its natural beauty without delving into technical system tags or coordinate arrays. The primary sensor to be used is SAR (Synthetic Aperture Radar), which will provide us with an active radar scan using microwave surface imaging capabilities. This method allows for cloud-penetrating capture, essential for capturing ground geometry even under heavy weather conditions.
+
+The mission allocation priority is set at Level 1, indicating low importance and a flexible schedule for opportunistic capture. This task is to be treated as a non-essential background filler task, with the understanding that it can be dropped or rescheduled at convenience. It serves as a background survey or testbed tracking task, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for this task has been resolved by an upstream module, requiring us to have the data available "tomorrow in the morning". This phrase is inserted verbatim into our request, setting the upper limit for data availability without any rephrasing, shortening, or movement to a different part of the day. 
+
+In conclusion, we are requesting that the automated satellite constellation planner allocate resources to capture high-resolution optical snapshots using the SAR sensor on Tanjung Jabung Timur, Indonesia, tomorrow in the morning. This task will be executed with low priority importance, serving as a non-essential background filler task with flexible scheduling options.

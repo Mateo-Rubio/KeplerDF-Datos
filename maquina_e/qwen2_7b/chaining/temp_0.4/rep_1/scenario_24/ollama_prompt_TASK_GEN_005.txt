@@ -1,0 +1,20 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The objective is to provide comprehensive context about the region, interpret mission allocation priority levels, and describe sensors and physical objectives in natural language.
+
+Given the provided JSON:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+I will now formulate the request:
+
+In anticipation of capturing a critical insight on soil moisture levels in Norte, an area of interest in the upcoming evening of our target day that is exactly three days away from now, I am requesting a near-infrared reflection survey. This task aims to map water body boundaries and assess soil moisture conditions for optimal agricultural planning. Considering this request's low importance, it carries a flexible schedule with a drop or rescheduling option at convenience. As a background survey, this mission will contribute to our understanding of environmental dynamics without imposing an urgent operational execution.
+
+The deadline for data availability is set for the evening of our target day, three days from now, ensuring that we capture the necessary information for our analysis without rushing into any un-preemptable mission locks.

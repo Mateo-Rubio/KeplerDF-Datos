@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+Given the context of our mission allocation priority, we're targeting a low importance request with flexible scheduling, which falls under "non-essential background filler tasks" or "background survey" activities. The operational guidelines require us to interpret the metadata organically without using raw technical system tags, underscores, or coordinate arrays.
+
+Our geographic context involves capturing data from a location in Italia, specifically the city of Oderzo. We'll describe this area using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is not provided, we'll focus on 'country' and 'city'.
+
+The primary sensor for our task will be VNIR (Vegetation Narrowband Reflectance), which aims to perform "multispectral vegetation analysis" to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. This is part of our baseline pipeline tracking setup with "fixed parameters", representing "normal operational status".
+
+The delivery deadline for this task is set for "the day after tomorrow in the morning", which is the upper limit for data availability as decided by an upstream module. We're not to rephrase or shorten this phrase and must place it exactly where it's stated.
+
+In summary, our request involves capturing detailed multispectral vegetation data from a location in Oderzo, Italia, using VNIR sensors. This task is part of our standard operational tasks with flexible scheduling, aiming to provide "background survey" information for our baseline pipeline tracking setup. The deadline for this data collection is set for the day after tomorrow in the morning, adhering to the guidelines provided.
+
+Let's proceed with translating this information into a conversational English request that reflects our mission's objectives and priorities.
