@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Given the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: We're focusing on Colombia's Restrepo city as our target location. Combining country, city, and landmark details naturally, we'll describe this area with realistic context.
+
+2. MISSION ALLOCATION PRIORITY: This task is of low importance, with a flexible schedule for opportunistic capture. It's framed as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We're utilizing the SAR (Synthetic Aperture Radar) sensor for an active radar scan to capture ground geometry, piercing heavy weather conditions and providing cloud-penetrating imagery.
+
+4. DELIVERY DEADLINE: The deadline for this task is tomorrow in the morning, which is the upper limit for data availability as set by an upstream module.
+
+Taking these guidelines into account, our request reads:
+
+"Please allocate a satellite mission to capture ground geometry using the SAR sensor over Restrepo, Colombia, tomorrow in the morning. This task serves as a low priority importance background filler, with flexible scheduling considerations for opportunistic capture. It's part of our baseline pipeline tracking with normal operational status."
+
+Let's proceed with this request to ensure we gather essential data while adhering to our operational priorities and deadlines."

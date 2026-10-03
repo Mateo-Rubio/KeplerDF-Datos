@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Geographically, we aim to capture a high-resolution optical snapshot of the region encompassing Colombia, specifically focusing on the city of Pajarito, which serves as our primary location of interest. This area will be observed using our primary sensor, which is configured for visual imagery acquisition during daylight hours.
+
+Given the priority level of 'High Importance', this mission allocation is an absolute institutional priority. We are dealing with a critical payload capture that involves mandatory directives and requires urgent operational execution. This task is not pre-emptable and holds a binding contract requirement, emphasizing its un-preemptable mission lock status.
+
+Our operational guidelines dictate the use of natural language to interpret the metadata organically. Therefore, we will avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we will describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we will gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+In terms of sensors and physical objectives, our primary sensor is set for visual imagery acquisition. This involves capturing clear optical imagery that serves as true-color visual documentation of the region. The goal is to provide detailed and high-quality images suitable for various applications such as land use monitoring, urban planning, and environmental studies.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for "in four days in the morning". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. This deadline does not require us to output raw UTC timestamps, digits, or countdown metrics.
+
+To summarize, our request is to capture high-resolution visual imagery of Colombia's Pajarito region using our primary sensor on the specified target day and diurnal period. This task is of high importance and requires urgent operational execution, aligning with our baseline pipeline tracking setup and standard workflow update procedures.
+
+Let us proceed with this task request to ensure timely and efficient data acquisition for our mission.

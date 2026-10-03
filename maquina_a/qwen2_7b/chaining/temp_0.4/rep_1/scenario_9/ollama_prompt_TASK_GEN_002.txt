@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this information into a natural-sounding and accurate dataset that maximizes validation accuracy.
+
+The geographic context involves a location described as Norte, which lacks specific country details but has been identified with a city name. Combining these parameters naturally, we describe the area using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since country and city details are unavailable, we focus on the clean 'region_name' for a clear geographic context.
+
+The mission allocation priority level is set at Priority 1 (Low Importance), which means this request should be treated as a low priority importance task with a flexible schedule for opportunistic capture. We label it as a "non-essential background filler task" that can be dropped or rescheduled at convenience, akin to a "background survey" or "testbed tracking task".
+
+The primary sensor specified is VIS (Visible Imaging Sensor), which we interpret as a goal for capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation. This sensor aims to provide detailed visual information about the landscape during the day.
+
+The delivery deadline is set for "in four days in the morning", which means the data must be available by that specific time frame. We incorporate this phrase verbatim into our request without rephrasing or altering it, maintaining the upper limit for data availability as stated.
+
+In summary, our task request involves capturing a high-resolution VIS image of Norte, a location identified with a city name but lacking country details. This mission is given low priority importance and should be treated as a background survey or testbed tracking task. The deadline for data delivery is set for "in four days in the morning", adhering to the provided timeframe without any alterations.

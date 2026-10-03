@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The primary sensor designated is "NIR", which will be used for near-infrared reflection observations to map water body boundaries and assess soil moisture levels.
+
+The geographic context involves Indonesia, specifically the equatorial region. Despite "Ecuatorial" being mentioned as a city, it's not clear or relevant; thus, we'll focus on the country level. The operational guidelines suggest describing the location using realistic combinations of fields from 'location_details'. Since 'country' and 'city' are provided, I'll combine them naturally to describe the target area.
+
+The mission allocation priority is set at 'Medium Importance', indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup. The fixed parameters represent normal operational status or a workflow update with no indication of urgency.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for "the day after tomorrow in the evening". This phrase must be included verbatim as the stated upper limit for data availability, without rephrasing or altering the time frame.
+
+In summary, our request involves conducting a near-infrared reflection observation in Indonesia's equatorial region, aiming to map water body boundaries and assess soil moisture levels. This task is part of our standard operational tasks with fixed parameters, reflecting normal operational status and workflow updates. The deadline for this task is "the day after tomorrow in the evening," ensuring that all data collection is completed by this time.
+
+Please proceed with scheduling the satellite constellation for this mission accordingly.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary objective is to capture a high-resolution active radar scan using microwave surface imaging technology for cloud-penetrating capture and ground geometry assessment over the Indonesian region, specifically focusing on the city of Muara Asa. This "standard operational tasking" or "commercial tasking" falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Given the importance level of Priority 1 (Low Importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture, labeling it as a non-essential background filler task. It serves as a background survey or testbed tracking task, where our operator explicitly notes to drop or reschedule at convenience.
+
+The delivery deadline for this task has already been resolved by an upstream module, which is "tomorrow around mid-day". This phrase is inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are included in this request.
+
+The execution of this mission is to capture a thermal mapping operation, aiming to detect heat signatures and surface temperature profiles. This task will help us identify thermal anomalies and map heat emissions accurately.
+
+In summary, our automated satellite constellation planner should prioritize the collection of high-resolution SAR imagery over Muara Asa, Indonesia, tomorrow around mid-day, focusing on thermal mapping for anomaly detection and heat emission mapping.

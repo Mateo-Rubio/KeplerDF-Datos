@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Geographically, we're focusing on the Indonesian region with a specific emphasis on the equatorial city of Ecuatorial. Combining these details naturally, we aim to capture the essence of this location using a blend of country, city, and landmark information. Since 'landmark' is "N/A", we'll describe the area based on the available 'country' and 'city'.
+
+Our mission allocation priority is set at medium importance, indicating that this request falls under a standard operational tasking or commercial tasking framework. It's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized for this mission is SAR (Synthetic Aperture Radar). We're planning an active radar scan using microwave surface imaging technology to capture cloud-penetrating imagery, ensuring that we can pierce through heavy weather conditions or capture ground geometry accurately.
+
+The target day for this task is tomorrow, during the afternoon. This deadline has already been resolved by an upstream module and must be included verbatim in our request as the upper limit for data availability. We're not outputting raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request involves capturing high-resolution optical snapshots of the equatorial city of Ecuatorial in Indonesia using SAR technology during the afternoon tomorrow. This task is part of our standard operational pipeline with medium priority and must be executed according to fixed parameters representing normal operational status.
