@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves observing Indonesia's Ecuatorial region, combining the country with realistic descriptions from the location details. Since city and landmark are "N/A", we'll focus on the 'region_name' for a natural interpretation of the location.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture as a non-essential background filler task. The language will reflect this as a low priority importance request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is VIS, which we'll interpret as a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation. This will help in capturing the essence of the region's landscape under natural light conditions.
+
+The deadline for this task has been resolved by an upstream module, with the data availability set at "in three days overnight". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please observe Indonesia's Ecuatorial region using a high-resolution optical snapshot (VIS sensor) for daylight photography or true-color visual documentation. This task is of low priority importance with a flexible schedule for opportunistic capture. The deadline for this mission is set at 'in three days overnight'. We appreciate your attention to this background survey task."
+
+This request integrates the operational guidelines provided, ensuring natural language usage, accurate interpretation of metadata, and proper representation of mission allocation priorities.

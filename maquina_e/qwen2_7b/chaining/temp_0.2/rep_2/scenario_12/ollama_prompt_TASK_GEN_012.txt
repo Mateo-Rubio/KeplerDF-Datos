@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby request a highly realistic and conversational English task to be executed by our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing data on Indonesia, specifically focusing on Muara Asa city. Our primary sensor requirement is an active radar scan using microwave surface imaging, aimed at cloud-penetrating capture for detailed ground geometry observation. This task carries a low priority importance, signifying it as a flexible schedule "opportunistic capture" request, which can be treated as a background survey or testbed tracking task.
+
+The mission allocation priority is set to Low Importance, indicating that this request should be handled with a casual, highly flexible tone. The language must reflect an understanding of the operational status being normal and part of a baseline pipeline tracking setup with fixed parameters representing standard workflow updates.
+
+The delivery deadline for this task has already been resolved by an upstream module, which is "tomorrow around mid-day". This phrase should be inserted verbatim into our request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request involves capturing detailed ground geometry using an active radar scan in Indonesia's Muara Asa city, with a low priority importance and a flexible schedule for execution. The deadline for this task is tomorrow around mid-day.

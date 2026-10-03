@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing the Indonesian city of Simabur using a VNIR sensor on the target day, which is in three days during the morning period.
+
+The mission allocation priority is medium importance, indicating that this task is part of a standard operational pipeline with fixed parameters representing normal operational status. We aim to capture a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. The goal is to provide valuable insights into the health and productivity of the local vegetation.
+
+Given the operational guidelines, we combine the JSON parameters naturally without using raw technical system tags or coordinate arrays. We describe the location using realistic combinations of country, city, and landmark fields from 'location_details', while gracefully ignoring "N/A" entries by focusing on the remaining valid fields or the clean 'region_name'.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically, integrating specific operational phrases that reflect the structural hierarchy of priority levels. This task is framed as a standard operational tasking with a focus on routine monitoring and baseline pipeline tracking.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being in three days during the morning period. We ensure to insert this phrase verbatim into our request, maintaining the exact time frame as stated without rephrasing or altering it.
+
+In conclusion, our request is structured to align with operational guidelines, emphasizing the importance of natural language integration and the organic interpretation of metadata. The goal is to provide a highly realistic and conversational English request that meets the requirements for mission allocation and data delivery deadlines.

@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, single, and conversational English request based on the raw physical simulation metadata provided in JSON format.
+
+The geographic context involves Colombia, specifically the city of Murindó. We aim to take a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of this location using our VIS sensor. The mission allocation priority is set at Low Importance, meaning this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator will drop or reschedule the task at convenience, considering it as a background survey or testbed tracking task.
+
+The delivery deadline is "in three days in the evening," which serves as the upper limit for data availability without any rephrasing, shortening, or moving to a different part of the day. This deadline ensures that our satellite constellation will capture the required data within this timeframe.
+
+In summary, our request involves capturing detailed imagery of Murindó, Colombia, using our VIS sensor for daylight photography purposes. The mission is considered low priority with a flexible schedule and will be executed in three days during the evening hours, adhering to the deadline set by an upstream module.
