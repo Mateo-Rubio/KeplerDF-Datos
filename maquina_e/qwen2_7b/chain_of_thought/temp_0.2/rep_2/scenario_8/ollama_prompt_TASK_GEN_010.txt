@@ -1,0 +1,15 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, we are tasked with a standard operational tasking involving the VNIR sensor on the day after tomorrow, focusing on an overnight period. This request is for a routine monitoring activity that involves capturing high-resolution optical snapshots as daylight photography or clear optical imagery across Colombia, specifically targeting the city of Trujillo. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index along with surface reflectance, which will be crucial for baseline pipeline tracking and normal operational status updates.
+
+The mission allocation priority is set at medium importance, implying that this task is part of our standard workflow update but does not require urgent operational execution. The deadline to deliver the data products is strictly adhered to as specified in the JSON metadata, with no intention of altering or extending it.
