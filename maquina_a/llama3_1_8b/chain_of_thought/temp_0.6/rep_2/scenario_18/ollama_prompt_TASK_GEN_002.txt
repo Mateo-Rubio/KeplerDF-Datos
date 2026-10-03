@@ -1,0 +1,14 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request still needs to be completed by "in three days", which implies a specific time frame, but I will not alter or reinterpret this deadline.
+
+Now, moving on to Stage 2:
+
+```prompt
+We are requesting a low priority importance task with a flexible schedule for opportunistic capture. We would like to conduct a near-infrared reflection survey for water body boundary mapping and soil moisture assessment over the region of Italia, specifically in the city of Calderara di Reno. This non-essential background filler task can be dropped or rescheduled at convenience and does not require an urgent operational execution. The data products are required to be delivered in three days, overnight.

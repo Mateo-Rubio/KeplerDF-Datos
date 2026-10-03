@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight". However, considering the context of diurnal periods, it seems more appropriate to identify the word as "night", but since the literal string is "overnight", I will use that in the final request.
+
+d) Upon reviewing the target task context JSON, I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, and I will maintain the original deadline without altering or extending it.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Please conduct a low priority importance task with a flexible schedule for opportunistic capture. This is a non-essential background filler task where we can drop or reschedule at convenience, treating this as a background survey. We need to capture a multispectral vegetation analysis using VNIR to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. The target day for this task is tomorrow, specifically overnight.
