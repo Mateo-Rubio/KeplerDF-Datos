@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days." This phrase indicates a specific deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the satellite capture should ideally occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally in the string 'target_diurnal_period' is "morning." This word will be used verbatim in the final request to describe the timing of the task.
+
+d) The deadline specified as "in four days" and "in the morning" must not be altered or shifted to a different time frame. It is crucial that the satellite capture occurs precisely within this window to meet the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for an opportunistic capture over Puerto Libertador, Colombia, with a flexible schedule. Please arrange for an active radar scan using microwave surface imaging for cloud-penetrating capture. This is a non-essential background filler task, and I note that it should be dropped or rescheduled at convenience if necessary. The data products are required by in four days, specifically in the morning.

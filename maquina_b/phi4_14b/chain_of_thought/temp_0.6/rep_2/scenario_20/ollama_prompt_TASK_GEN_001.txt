@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "in three days." This indicates that the data delivery deadline is set for three days from the current date.
+
+b) The exact string for 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should occur or be delivered.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight." This term must appear literally in the final request to describe the timing of the task.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline is strictly set for "in three days" during the "overnight" period, and this must be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking request for a satellite observation over San Carlos de Guaroa, Colombia. This task involves conducting a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The observation is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this data product is delivered in three days during the overnight period, as per our routine monitoring schedule.

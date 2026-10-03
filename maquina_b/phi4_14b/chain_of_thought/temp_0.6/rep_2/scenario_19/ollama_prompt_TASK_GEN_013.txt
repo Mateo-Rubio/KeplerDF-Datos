@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+**a)** The exact string in 'target_day' is "tomorrow".
+
+**b)** The exact string in 'target_diurnal_period' is "in the evening".
+
+**c)** The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word must appear literally in the final request.
+
+**d)** The deadline specified by the JSON is "tomorrow" and "in the evening". There is no indication or allowance to shift this deadline to another part of the day, such as morning, mid-day, afternoon, or overnight. The task must be completed strictly within these parameters, ensuring adherence to the specified timing.
+
+### STAGE 2 - FINAL REQUEST
+
+We are requesting a low-priority importance observation mission over Vista Hermosa, Colombia, with a flexible schedule for opportunistic capture. This task can be treated as a non-essential background filler task, and we would appreciate it if you could drop or reschedule at your convenience. We aim to conduct a multispectral vegetation analysis using the VNIR sensor, focusing on assessing chlorophyll absorption levels and calculating a vegetation NDVI index. The data should be collected tomorrow in the evening.
