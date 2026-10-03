@@ -1,0 +1,12 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the provided JSON format and guidelines to create a natural, organic translation that maximizes validation accuracy.
+
+GEOGRAPHIC CONTEXT: We're focusing on the region of Colombia, specifically in the vibrant city of Ráquira, a place known for its traditional pottery and picturesque landscapes. Combining 'country', 'city', and 'landmark' fields from 'location_details', we describe the area as a culturally rich and visually appealing location.
+
+MISSION ALLOCATION PRIORITY: Given that this task has a priority level of 1, it's framed as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted as a "non-essential background filler task" where the operator treats it as a "background survey" or "testbed tracking task", emphasizing its non-critical nature.
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is VIS (visual imagery), which translates to the goal of capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation. This request aligns with standard operational tasks involving fixed parameters representing normal operational status or workflow updates.
+
+DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, set as "in three days around mid-day". This phrasing is inserted verbatim into the request, indicating the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, translating the provided JSON format and guidelines results in this request:
+"Crafting a high-resolution optical snapshot of Ráquira, Colombia, focusing on capturing vivid daylight photography with clear visual imagery for a background survey. This task, aligned with standard operational procedures, is scheduled to be completed 'in three days around mid-day', reflecting its low priority importance and flexible schedule."

@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single request that maximizes naturalness and validation accuracy.
+
+Given the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   We aim to interpret 'region_name' and nested 'location_details', combining these naturally without using raw technical system tags, underscores, or coordinate arrays. Since the country and city are marked as "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'. In this case, we'll use a realistic combination of the available details.
+
+2. MISSION ALLOCATION PRIORITY:
+   The priority level indicates mission allocation authority and asset contractual value, not how close the deadline is. We'll integrate specific operational phrases to reflect this structural hierarchy based on the priority level provided.
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   We will naturally weave operational objectives and descriptors for each sensor type into our request to explain the physical phenomenon to be observed without using technical abbreviations or acronyms.
+
+4. DELIVERY DEADLINE:
+   The deadline for this task is "the day after tomorrow in the evening", which we'll insert verbatim into our request as the stated upper limit for data availability.
+
+Based on these guidelines, the request for a task with a 'primary_sensor' of SAR and a priority level of 2 (medium importance) can be phrased as:
+
+"Please allocate a satellite mission to conduct an active radar scan using microwave surface imaging technology. This will involve piercing heavy weather or capturing ground geometry in Norte, which is situated in the region of interest. The operational tasking involves standard operational status with fixed parameters, representing normal workflow updates. The goal is to capture cloud-penetrating imagery on the day after tomorrow, specifically in the evening, as a part of baseline pipeline tracking for our commercial tasking."
+
+This request encapsulates the natural language interpretation of the JSON metadata while adhering to the guidelines provided.

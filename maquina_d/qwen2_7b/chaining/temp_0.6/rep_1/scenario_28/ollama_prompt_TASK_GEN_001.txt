@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing a specific location in Colombia, namely Cimitarra, which is crucial for our ongoing monitoring efforts. We aim to capture the essence of this region without delving into technical system tags or coordinate arrays; instead, we'll describe it using realistic combinations from 'location_details', such as country, city, and landmark fields.
+
+The mission allocation priority indicates that our request falls under the category of "low importance," which means we're treating this task as a non-essential background filler. We have a flexible schedule for its execution, considering it as a "background survey" or "testbed tracking task."
+
+The primary sensor specified is "SAR," which necessitates an active radar scan using microwave surface imaging to capture ground geometry, even under heavy weather conditions or clouds. This is essential for our baseline pipeline tracking setup with fixed parameters that represent normal operational status.
+
+We have set the delivery deadline for this task as "the day after tomorrow in the evening." This phrase serves as the upper limit for data availability and must be included verbatim in our request, as per instructions.
+
+In conclusion, our request translates into capturing a high-resolution optical snapshot of Cimitarra using SAR technology. This will involve a cloud-penetrating capture to assess ground geometry, with the flexibility to schedule this task as a background survey or testbed tracking task, fitting into our operational pipeline with normal parameters set. The deadline is set for the day after tomorrow in the evening, ensuring that we adhere to the agreed-upon upper limit for data availability.
+
+Let's proceed with the submission of this request to our satellite constellation planner, aligning with these guidelines and ensuring a smooth integration into our operational workflows.
