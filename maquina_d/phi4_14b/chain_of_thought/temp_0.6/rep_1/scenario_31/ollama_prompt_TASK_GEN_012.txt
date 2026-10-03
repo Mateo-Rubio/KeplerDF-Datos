@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline by which the data must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the set {morning, mid-day, afternoon, evening, overnight} is "afternoon". This word will be used literally in the final request to specify the time of day for the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified "during the afternoon" timeframe as outlined in the metadata, ensuring compliance with the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a high-resolution optical snapshot of Kampung Pasir Hulu in Malaysia. This critical payload capture is part of a binding contract requirement and must be executed urgently. The satellite constellation planner is tasked to deliver this clear optical imagery within three days, specifically during the afternoon, without any possibility of rescheduling or preemption. This mission lock ensures that the necessary data products are available on time for our operational needs.

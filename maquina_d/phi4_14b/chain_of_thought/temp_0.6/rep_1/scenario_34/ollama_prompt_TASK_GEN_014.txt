@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating specific metadata into a conversational English request for satellite observation over Italy, specifically the city of Ramiseto. We begin by examining the relevant details provided in the JSON metadata.
+
+a) The 'target_day' specified is "the day after tomorrow." This precise string indicates the timing for when the satellite task should be executed relative to the current day. It's crucial that this deadline is adhered to without alteration, ensuring that the data collection aligns perfectly with the intended schedule.
+
+b) Next, we look at the 'target_diurnal_period,' which is "in the morning." This string gives us a clear indication of the time of day when the observation should occur. It specifies that the task should be completed during the morning hours, which are typically associated with specific lighting and environmental conditions ideal for certain types of data collection.
+
+c) From the list {morning, mid-day, afternoon, evening, overnight}, the single word contained in the 'target_diurnal_period' string is "morning." This term will be directly used in the final request to ensure clarity about when the task should be executed during the day.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The metadata specifies "in the morning" as the target diurnal period, and this must be respected. Any deviation from this specified time would alter the conditions under which the data is collected, potentially affecting its accuracy and relevance.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm requesting a low-priority importance satellite observation task over Ramiseto, Italy, with a flexible schedule for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to utilize near-infrared reflection capabilities for water body boundary mapping and soil moisture assessment. Please ensure this task is completed the day after tomorrow, in the morning.

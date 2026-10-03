@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's start by breaking down the task request using the provided JSON metadata.
+
+a) The exact string in 'target_day' is "in four days." This indicates that the data collection should occur within this timeframe, providing a specific deadline for the satellite constellation planner to consider.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the satellite should capture the required imagery or data, ensuring optimal conditions for the sensor's functionality.
+
+c) The single word contained in the string "in the morning" from the options {morning, mid-day, afternoon, evening, overnight} is "morning." This word will be used explicitly in the final request to indicate the time of day for the task.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The original metadata specifies "in the morning," which means our request must adhere strictly to this timing without any alterations, ensuring compliance with the operational guidelines.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm requesting a low-priority importance task for capturing data over Ecuatorial, Malaysia. This is a flexible schedule for opportunistic capture, and it can be considered a non-essential background filler task. I would like to utilize an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the ground geometry. The target timeframe for this task is "in four days," specifically "in the morning." Please note that this request can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.

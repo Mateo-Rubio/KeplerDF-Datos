@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves examining a JSON dataset to create an operational request for an Earth-observation mission. Let's analyze the relevant components:
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data collection should be completed, with no flexibility on timing.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day for the satellite observation, focusing on capturing data when the sun is at its peak.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "mid-day" is contained in the string "around mid-day". This will be directly used in the final request to specify the timing of the observation.
+
+d) It's crucial to confirm that the deadline is not shifted. The instruction clearly states that the temporal parameters represent a strict operational DEADLINE for delivering data products, not an orbital capture window. Therefore, the observation must occur "tomorrow" and specifically "around mid-day", without any changes to this schedule.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need you to schedule a low priority importance task for capturing near-infrared reflection data over Bukit Mabong in Malaysia. This should be done with a flexible schedule for opportunistic capture, allowing us to drop or reschedule at convenience as it's a non-essential background filler task. Please ensure this is completed tomorrow around mid-day.
