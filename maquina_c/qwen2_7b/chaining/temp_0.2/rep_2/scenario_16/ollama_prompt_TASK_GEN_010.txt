@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the operational guidelines provided.
+
+The geographic context involves capturing data for a location in Colombia, specifically Pantanillo city. This area requires a detailed and accurate representation of its surroundings, combining the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we will describe the location using the remaining valid fields or 'region_name'.
+
+The mission allocation priority is set at 'Priority 3', indicating high importance. This request must be framed as an "absolute institutional priority" or a "binding contract requirement". It involves a "critical payload capture" or "mandatory directive", with an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor to be utilized is 'NIR'. The goal is to conduct a task that assesses "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". This will help discriminate gradients in the area effectively.
+
+The delivery deadline for this task has been resolved by an upstream module, and it is set for "today in the evening". The phrase must be inserted verbatim into the request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request involves capturing detailed imagery of Pantanillo, Colombia, using a 'NIR' sensor to map water bodies and assess soil moisture. This task is of high importance and must be executed urgently, with the deadline set for "today in the evening". The request is submitted with utmost attention to operational guidelines, ensuring naturalness and validation accuracy.

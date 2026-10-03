@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically Paya city, using thermal mapping capabilities provided by the TIR sensor. This task falls under the category of low importance (Priority 1), which means it's treated as a flexible schedule "background survey" or "testbed tracking task". The deadline for this task is set for tomorrow during the afternoon.
+
+The operational guidelines require us to interpret the metadata organically, avoiding raw technical system tags, underscores, or coordinate arrays. We should combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If these fields are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+In this case, since Colombia and Paya are provided, we can use them directly without further elaboration. The TIR sensor's primary role is to capture thermal mapping data, which involves assessing heat signatures, surface temperature profiles, or detecting thermal anomalies and mapping heat emissions.
+
+To summarize, our request is as follows: "Please observe the region of Colombia, specifically Paya city, using the TIR sensor during tomorrow's afternoon. This task is classified as low importance with a flexible schedule for opportunistic capture. It serves as a background survey or testbed tracking task."
+
+This request integrates the operational guidelines and provides a clear, conversational description of the task to be executed by our satellite constellation planner.

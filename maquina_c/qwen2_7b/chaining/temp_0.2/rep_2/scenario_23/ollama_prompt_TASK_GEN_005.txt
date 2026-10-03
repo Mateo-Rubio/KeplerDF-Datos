@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of Sesta Godano, located in the beautiful country of Italia. This location requires a detailed description combining the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking that's part of our baseline pipeline tracking setup. This request involves fixed parameters representing normal operational status or a routine monitoring task with a binding contract requirement.
+
+The primary sensor to be used for this mission is VIS (visual imagery), which will provide daylight photography, clear optical imagery, and true-color visual documentation. The goal is to capture the essence of Sesta Godano during the overnight period in three days, when conditions are optimal for such high-resolution imaging.
+
+The delivery deadline is set for "in three days overnight", as determined by an upstream module. This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or shortening.
+
+In summary, our task request involves capturing a high-quality VIS image of Sesta Godano, Italia, during the overnight period in three days, with medium priority and standard operational parameters. The deadline is "in three days overnight", ensuring that we adhere to the established timeline for data availability.

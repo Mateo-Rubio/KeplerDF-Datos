@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The primary sensor is set to SAR, which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating data. The geographic context involves Indonesia, specifically Majangkan city, where we aim to gather detailed information about ground geometry.
+
+The mission allocation priority is medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is not subject to an urgent deadline; instead, it's part of our standard workflow update process.
+
+Given the operational guidelines, I will not use raw technical system tags, underscores, or coordinate arrays in my final output. Instead, I'll combine the JSON parameters naturally, describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", I will describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for tomorrow around mid-day, which means the upper limit for data availability is clearly defined and must be inserted into my request verbatim.
+
+In conclusion, our Earth-observation mission operator is requesting a SAR scan of Indonesia's Majangkan city to capture ground geometry details at mid-day tomorrow, aligning with our standard operational tasks and baseline pipeline tracking setup. This request reflects medium importance, with no urgency attached to the deadline, allowing for normal operational status or workflow update processes.

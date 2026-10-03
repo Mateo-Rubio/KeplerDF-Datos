@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's Kepulauan Meranti region using a VNIR sensor for multispectral vegetation analysis. This task aims to assess chlorophyll absorption levels and calculate the NDVI index, providing valuable insights into surface reflectance.
+
+Given the operational guidelines, this request is classified as medium importance (priority level 2), indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status. The baseline pipeline tracking setup ensures that this request has "normal priority" and does not require urgent execution or be un-preemptable.
+
+The delivery deadline for this task is resolved by an upstream module, with the data availability set as "in four days overnight". This phrase must be included in the request verbatim, as it represents the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our mission involves capturing high-resolution optical snapshots of Kepulauan Meranti's vegetation using a VNIR sensor to assess chlorophyll absorption levels and calculate NDVI indices. This task is part of our standard operational pipeline with normal priority, and we aim to deliver the data by the specified deadline of four days overnight.

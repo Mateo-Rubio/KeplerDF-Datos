@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Burzanella. The operational guidelines require interpreting the 'region_name' and nested 'location_details' without using raw technical system tags, underscores, or coordinate arrays. Instead, we combine the JSON parameters naturally, describing the location using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'Priority 1', indicating low importance. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are interpreted based on the 'primary_sensor' key. In this case, we're focusing on 'SAR', which is explained as an "active radar scan" using "microwave surface imaging". This is for "cloud-penetrating capture", allowing us to pierce heavy weather or capture ground geometry.
+
+The delivery deadline is set for "in three days during the afternoon". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not rephrase it, shorten it, or move it to a different part of the day.
+
+In summary, our request to the satellite constellation planner involves capturing high-resolution SAR data over the region of Italia, specifically focusing on Burzanella, during the afternoon three days from now. This task is considered low priority with flexible scheduling and is aimed at conducting a "background survey" or "testbed tracking task". The deadline for this task has already been resolved by an upstream module, ensuring that our request aligns with the established timeline.
