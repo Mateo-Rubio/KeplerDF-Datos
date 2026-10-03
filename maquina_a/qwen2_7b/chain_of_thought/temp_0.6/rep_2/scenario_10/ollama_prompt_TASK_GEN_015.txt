@@ -1,0 +1,18 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "tomorrow"
+b) The exact string in 'target_diurnal_period' is: "overnight"
+c) The single word contained in that string is: "overnight"
+d) No, the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2:
+
+In response to our mission allocation guidelines and considering the operational context provided by the JSON metadata, we are tasked with capturing a critical SAR (synthetic aperture radar) scan of the region surrounding Pesisir Selatan in Indonesia, with an emphasis on overnight imagery. This request is categorized as having medium importance due to its inclusion under priority level 2.
+
+The primary sensor will be utilized for an active radar scan that pierces through heavy weather conditions, enabling cloud-penetrating capture of ground geometry and surface features essential for our baseline pipeline tracking setup. The SAR imagery will serve as a standard operational tasking, where fixed parameters are in place to represent normal operational status and contribute to the ongoing workflow updates.
+
+Given the deadline set for "tomorrow" during the overnight period, we understand that this is a strict operational deadline for delivering the data products. The imagery captured under these conditions will provide us with invaluable insights into the region's night-time surface characteristics, which are crucial for various applications such as urban planning, disaster management, and environmental monitoring.
+
+As per our guidelines for relative timeframes, the deadline does not represent an orbital capture window but rather a target for data product delivery. We recognize that this request might be subject to scheduling constraints based on our operational priorities and will ensure that it is executed within the specified timeframe without compromising the integrity of the SAR imagery.
+
+This mission is part of a routine monitoring effort in our constellation pipeline, where the collected data will contribute to ongoing assessments and analyses critical for decision-making processes. We are committed to delivering the high-quality SAR imagery as per the outlined operational parameters and time constraints.
