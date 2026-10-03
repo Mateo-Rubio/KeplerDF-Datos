@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single, natural-sounding request that maximizes validation accuracy by interpreting it organically according to operational guidelines.
+
+The geographic context involves France, specifically the city of Petreto-Bicchisano, which will be the focus for our mission allocation priority level 1 tasking. This request is framed as a low priority importance "background survey" with a flexible schedule for opportunistic capture. The "non-essential background filler task" is to be treated as a "testbed tracking task".
+
+Our primary sensor is an active radar scan using microwave surface imaging, aiming to capture cloud-penetrating data that pierces heavy weather conditions or captures ground geometry. This task will serve as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has already been resolved by an upstream module, and it is set for "tomorrow overnight". We must include this phrase verbatim in our request, as the stated upper limit for data availability. The deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+In conclusion, our mission aims to gather thermal mapping data to capture heat signatures and surface temperature profiles, which will aid in thermal anomaly detection and mapping heat emissions. This task is part of our routine monitoring efforts, contributing to our comprehensive understanding of Earth's conditions under various weather conditions.

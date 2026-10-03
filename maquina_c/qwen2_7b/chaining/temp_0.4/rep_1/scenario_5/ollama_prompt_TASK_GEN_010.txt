@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The task involves capturing data using the Near-Infrared (NIR) sensor for a location in Colombia, specifically in the city of Buenaventura. This request falls under Priority Level 1, which is designated as "low priority importance". The language used should reflect this status, framing it as a "flexible schedule" task that can be "dropped or rescheduled at convenience", treating it as a "background survey" or a "testbed tracking task".
+
+Our geographic context involves the country and city provided in 'location_details'. Colombia, with its vibrant culture and diverse landscapes, offers a unique challenge for satellite imaging. The city of Buenaventura, known for its bustling port and maritime activities, provides an interesting case study for environmental monitoring.
+
+The primary sensor objective is to capture data using the Near-Infrared (NIR) sensor. This involves assessing "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment", which helps in discriminating gradients and understanding water and soil conditions in the region.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set as "today in the evening". This phrase is inserted verbatim into our request, emphasizing that we aim to capture data before the evening of today.
+
+In summary, our request involves capturing Near-Infrared (NIR) data over the city of Buenaventura, Colombia, with a focus on water body boundaries and soil moisture assessment. Given the low priority level and flexible schedule requirement, this task serves as a background survey or testbed tracking task, aligning with our operational guidelines for natural language generation.

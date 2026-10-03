@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves observing a location in "Italia", specifically within the city of "Norte". The primary sensor to be utilized is "NIR", which will capture near-infrared reflections for mapping water body boundaries or assessing soil moisture.
+
+The mission allocation priority is of medium importance, indicating that this request is part of a standard operational tasking with fixed parameters representing normal operational status. We are to gather data tomorrow in the morning, adhering to the deadline set by an upstream module.
+
+To maximize naturalness and validation accuracy, I will interpret the metadata organically, avoiding raw technical system tags, underscores, or coordinate arrays. The location description will be combined naturally using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If necessary, the 'region_name' will serve as a fallback.
+
+In summary, our task is to conduct a routine monitoring mission involving thermal mapping with "NIR" sensors over the city of Norte in Italia. This is part of our baseline pipeline tracking setup with normal operational status and fixed parameters. The data collection must occur tomorrow in the morning, fulfilling the deadline set by an upstream module.

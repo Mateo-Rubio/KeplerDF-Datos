@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Colombia, specifically the city of Sácama. This region is of low importance due to the assigned priority level being 1. Our mission allocation authority and asset contractual value are not as critical as they would be for higher-priority tasks. We're treating this as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The language must reflect that this is a "background survey" or "testbed tracking task".
+
+Our primary sensor is set to the Near-Infrared (NIR) band. This mission aims to capture "near-infrared reflection", which will be utilized for "water body boundary mapping" and "soil moisture assessment". The goal is to discriminate gradients in soil moisture content, which is crucial for agricultural monitoring and water management.
+
+The delivery deadline for this task has already been resolved by an upstream module. We're targeting the observation to occur "in three days overnight", adhering strictly to this phrase as the stated upper limit for data availability. No raw UTC timestamps or countdown metrics will be included in our request.
+
+In summary, our task is to capture high-resolution data using a Near-Infrared sensor over a specific location in Colombia, with the understanding that this is a low-priority mission with a flexible schedule and clear deadline. The data collected will serve as a "background survey" for water body boundaries and soil moisture assessment, contributing to broader environmental monitoring efforts.

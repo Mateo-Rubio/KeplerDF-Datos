@@ -1,0 +1,12 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing a thermal mapping of the region named "Italia Norte", which is in the country of Italia. The city details are "Norte", but since it's not specified, we'll describe this area using the clean 'region_name' field.
+
+The mission allocation priority is indicated by the 'priority_level' key set to 1, which means this request falls under low importance. I will frame this as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The language must be casual and highly flexible, treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is "NIR", which stands for near-infrared reflection. The goal here is to map water body boundaries or assess soil moisture levels to discriminate gradients.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set for "in three days in the evening". I will insert this phrase verbatim into my request, as the stated upper limit for data availability. No rephrasing, shortening, or moving it to a different part of the day will be performed.
+
+In summary:
+"Please capture thermal mapping of the region named 'Italia Norte', focusing on water body boundaries and soil moisture assessment using near-infrared reflection technology. This task is classified as a non-essential background filler with a flexible schedule for opportunistic capture. The deadline for this task is set for 'in three days in the evening'."

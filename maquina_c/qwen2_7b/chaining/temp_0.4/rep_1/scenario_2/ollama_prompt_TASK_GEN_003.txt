@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to the provided operational guidelines.
+
+The geographic context involves observing a specific region in Indonesia, with a focus on the city of Ecuatorial. The primary sensor designated for this mission is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging to capture cloud-penetrating data. This task aims to pierce through heavy weather conditions and capture ground geometry details.
+
+Given the priority level of 1, this request carries a low importance status with flexible scheduling, positioning it as a non-essential background filler task or opportunistic survey. The language must explicitly note that this is to be treated as a "background survey" or "testbed tracking task", allowing for potential rescheduling at convenience.
+
+The deadline for this task has been resolved by an upstream module, stating that the data availability upper limit is today in the evening. This phrase must be inserted verbatim into the request, indicating the stated time frame for data delivery without rephrasing or altering it.
+
+In conclusion, our mission allocation priority reflects the structural hierarchy of institutional priorities, with this being a standard operational tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The naturalness and validation accuracy of the dataset are maximized through an organic interpretation of the metadata, ensuring that no raw technical system tags, underscores, or coordinate arrays are used in the final output.

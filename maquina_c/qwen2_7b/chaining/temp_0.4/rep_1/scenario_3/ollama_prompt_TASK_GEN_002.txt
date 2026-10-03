@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: We'll combine the JSON parameters naturally without using raw technical system tags or coordinate arrays. If country, city, or landmark fields are "N/A", we'll describe the location using the remaining valid fields or 'region_name'. In this case, the location is in Italy, specifically in the city of Ghedi.
+
+2. MISSION ALLOCATION PRIORITY: We'll interpret the priority level to reflect its structural hierarchy and integrate specific operational phrases that align with each level. Priority 3 indicates an "absolute institutional priority" or a "binding contract requirement". For this task, it's a critical payload capture with an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: We'll weave the operational objectives and descriptors into our request to explain the physical phenomenon to be observed. The primary sensor is VNIR, which we'll describe as "multispectral vegetation analysis" aimed at assessing "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, stating that the data must be available "in three days overnight". We'll insert this phrase verbatim into our request as the stated upper limit for data availability.
+
+Taking all these guidelines into account, my request is:
+
+"High Importance Task Request: Immediate Attention Required. Urgent and Binding Contract Requirement - Critical Payload Capture. In three days overnight, we require a multispectral vegetation analysis to assess the chlorophyll absorption level or calculate the NDVI index and surface reflectance for an area in Italy, specifically the city of Ghedi. This task is part of our baseline pipeline tracking with fixed parameters representing normal operational status. The deadline for data availability is 'in three days overnight', a critical time window for this high-priority mission."
+
+This request integrates the operational guidelines to provide a clear and concise task for our satellite constellation planner, ensuring that all necessary details are conveyed in a manner that aligns with the provided JSON metadata.

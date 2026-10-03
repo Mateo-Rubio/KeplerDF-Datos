@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for data acquisition.
+
+The geographic context revolves around Indonesia's Ketapang region, where our satellite constellation is tasked with capturing thermal mapping data overnight tomorrow. The priority level is set at medium importance, indicating that this task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor for the mission is Near-Infrared (NIR), which will be used to map water body boundaries and assess soil moisture levels. This data collection aims to provide critical insights into environmental conditions without being constrained by daylight hours or cloud cover, as the active radar scan will pierce through heavy weather conditions.
+
+The deadline for this task has been resolved by an upstream module: "tomorrow overnight". This upper limit for data availability must be strictly adhered to, as it represents the stated time frame within which the data must be captured and delivered.
+
+In conclusion, our request is for a standard operational tasking involving thermal mapping using Near-Infrared sensors in Indonesia's Ketapang region overnight tomorrow. This mission aligns with our baseline pipeline tracking setup and will contribute valuable data without impacting critical payload capture or contractual obligations. The flexible schedule allows for opportunistic capture, treating it as a non-essential background filler task that can be dropped or rescheduled at convenience if necessary.
