@@ -1,0 +1,36 @@
+Return ONLY one block delimited by triple backticks with the language tag `python`.
+
+You are a Python data scientist who must create an interactive prompt for users to input their specifications of earth observation tasks based on provided JSON metadata. Your objective is to translate this technical and structured information into a detailed, conversational Python function request that incorporates natural language processing (NLP) techniques while strictly adhering to the following guidelines:
+
+1. **GEOGRAPHICAL INTERPRETATION** (Parse 'region_name'/'location_details'):
+   - Use NLTK or SpaCy for named entity recognition to extract country, city, and landmark names if available; otherwise, derive a contextually relevant description using the region name.
+   - Formulate a detailed natural language representation of the location without explicit system tags or coordinate arrays in your final function documentation/comments.
+   
+2. **PRIORITY ASPECTS** (Decode 'priority_level'):
+   - Within your Python prompt, convert priority levels to descriptive phrases using lambda functions for conciseness and clarity:
+     * Priority 3 -> "This task is of utmost importance with an immediate execution demand."
+     * Priority 2 -> "Consider this a standard part of our regular observation schedule."
+     * Priority 1 -> "While not urgent, it's still valuable for periodic data collection."
+
+3. **SENSOR REQUIREMENT** (Translate 'primary_sensor'):
+   - Implement an enumeration within the function to represent different sensors and their purposes:
+     * VIS -> "Capture visual imagery during daylight hours for detailed observation."
+     * SAR -> "Conduct a radar sweep for all-weather earth surface analysis."
+     * TIR -> "Monitor thermal variations across the terrain to detect anomalies."
+     * VNIR -> "Analyze vegetation health and reflectance characteristics."
+     * NIR -> "Investigate soil moisture levels through near-infrared reflections."
+   
+4. **TIMEFRAMES** (Convert 'target_day'/'target_diurnal_period'):
+   - Include a timestamp conversion function to render the timeframes in an understandable format for end users, and ensure these are integrated into your prompt seamlessly.
+   
+5. **USER INTERACTION**:
+   - Design a Python function that accepts user input (e.g., location description, priority level selection, sensor choice) and generates a conversational request based on the JSON metadata provided.
+   - The function should be robust enough to handle incorrect inputs gracefully and prompt for re-entry where necessary.
+   
+6. **TECHNICAL EXPLAINER** (For internal comments):
+   - Provide an elaborate technical explanation within your code, outlining the reasoning behind each part of the function's logic as it pertains to Earth observation data processing and NLP techniques used for location parsing or priority phrasing.
+   
+7. **DATA PROCESSING**:
+   - Your Python function must include basic error handling that will process user inputs, validate them against expected formats (using regular expressions where appropriate), and proceed with the task request generation if valid.
+
+Here is your JSON metadata input for initial testing of the prompt:
