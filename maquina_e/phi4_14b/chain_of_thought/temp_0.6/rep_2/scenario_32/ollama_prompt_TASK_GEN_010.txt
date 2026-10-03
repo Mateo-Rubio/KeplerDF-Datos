@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days". This indicates the specific timeframe by which the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the satellite should capture the imagery.
+
+c) The single word contained in that string is "overnight". This must appear literally in the final request to ensure clarity about the timing of the data capture.
+
+d) I am confirming that the deadline is not being shifted to an adjacent part of the day. The requirement is specifically for an "overnight" capture, and this must be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for an opportunistic capture in San Vicente del Caguán, Colombia. This task involves using the multispectral vegetation analysis capabilities of the VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index. The mission is flexible, with a schedule that allows for dropping or rescheduling at convenience, fitting it as a non-essential background filler task. The data needs to be delivered in four days, specifically capturing imagery overnight.

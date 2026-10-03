@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This specifies the timeframe by which the task should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates when during the day the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This term will be used literally in the final request to describe the timing of the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is strictly set for "in three days" during the "overnight" period, and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task with a flexible schedule for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to conduct an active radar scan using microwave surface imaging over the Tame region in Colombia, focusing on cloud-penetrating capabilities and capturing ground geometry. The data should be collected overnight, in three days.

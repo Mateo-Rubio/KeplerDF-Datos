@@ -1,0 +1,17 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+The Earth-observation mission operator requests a satellite tasking with priority level 1 for the location of Kubu Raya, Indonesia, which is scheduled to occur three days from now. The primary sensor to be utilized will be the Synthetic Aperture Radar (SAR) system, designed for an active radar scan that will capture the region using microwave surface imaging capabilities in the evening. This task aims to gather cloud-penetrating data essential for ground geometry assessment under any weather conditions.
+
+The deadline for delivering this data product is set precisely as "in three days" and at "in the evening". The operator emphasizes that this request is a non-essential background filler task, and it can be dropped or rescheduled according to convenience. The SAR imagery will serve a critical role in providing detailed information on the region's surface features and ground conditions without being impeded by atmospheric conditions.
+
+The Earth observation team aims to capture high-resolution optical snapshots during daylight hours but recognizes that the evening timing offers advantages for cloud-penetrating radar scans, making this request an opportune addition to their baseline pipeline tracking setup with fixed parameters representing normal operational status. The operator acknowledges the importance of adhering strictly to the deadline without altering or extending it and maintains a flexible schedule for the SAR data collection, ensuring that it aligns with the outlined operational guidelines.
