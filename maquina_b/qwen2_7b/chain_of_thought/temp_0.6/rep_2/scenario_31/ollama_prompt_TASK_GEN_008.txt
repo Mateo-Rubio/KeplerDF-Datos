@@ -1,0 +1,17 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string is "afternoon".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains set for tomorrow afternoon.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON data, my request goes as follows:
+
+"Please allocate mission resources for a low priority importance task, scheduled for tomorrow during the afternoon. The primary sensor involved will be the VNIR (visual near-infrared) camera. This task will capture high-resolution optical imagery of a region located in Hrvatska, with a focus on Primorsko-goranska županija city. The objective is to conduct a multispectral vegetation analysis in daylight conditions for gathering information about chlorophyll absorption levels and calculating the NDVI index, as well as surface reflectance data."
+
+This request adheres to the guidelines by avoiding raw technical system tags, using realistic context based on the provided JSON keys, and employing appropriate priority language that reflects a flexible schedule for an opportunistic capture task.
