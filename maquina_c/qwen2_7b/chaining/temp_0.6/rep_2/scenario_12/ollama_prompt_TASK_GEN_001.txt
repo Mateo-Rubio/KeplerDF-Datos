@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with capturing a low-priority importance, flexible schedule, opportunistic background filler task that involves taking near-infrared reflection measurements of water body boundaries and soil moisture assessments as part of a testbed tracking task. This request is to be executed tomorrow overnight within the constraints of an already resolved delivery deadline.
+
+The geographical context for this mission lies in Colombia, with our focus narrowed down to the city of San José del Guaviare. The primary sensor utilized will be the Near-Infrared (NIR) for its ability to map water body boundaries and assess soil moisture levels, providing critical data on surface reflectance essential for environmental monitoring and agricultural applications.
+
+Incorporating a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture", this mission is akin to conducting a background survey or utilizing the satellite as a testbed tracking task. The tone of our request is highly casual, flexible, or opportunistic, treating it as such a "background filler task" that the operator explicitly notes to "drop or reschedule at convenience".
+
+To ensure accuracy and naturalness in this dataset's validation, we interpret the metadata organically based on operational guidelines. This includes combining JSON parameters naturally, avoiding raw technical system tags, underscores, or coordinate arrays, and utilizing realistic language to describe locations using country, city, and landmark fields, or clean 'region_name' if applicable.
+
+Given our priority level of 1 (Low Importance), this request is framed as a "low priority importance" task with "normal operational status" or a "workflow update". The execution of this mission will adhere to fixed parameters representing the "standard pipeline tracking" setup for baseline operations, emphasizing the standard nature of this request.
+
+With our deadline set for tomorrow overnight, this upper limit for data availability is already resolved by an upstream module. Our request does not require rephrasing, shortening, or moving the phrase "tomorrow overnight", maintaining its verbatim presence in the dataset to reflect the exact time constraints for data collection and delivery.

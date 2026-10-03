@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Here's the interpretation based on the provided JSON format:
+
+The geographic context involves capturing imagery of Norte city, although specific country details are not available. We'll describe this region as part of a broader operational setup.
+
+The mission allocation priority for this task is medium importance, indicating it's part of our standard operational tasks with fixed parameters. I'll frame this request as a "routine monitoring" operation, which is part of the baseline pipeline tracking setup representing normal operational status or a standard workflow update.
+
+Our primary sensor is VNIR (Vegetation Normalized Infrared), which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This task aims to document the surface reflectance in detail, providing valuable insights into the health and conditions of the area.
+
+The delivery deadline stipulates that the data must be available within three days in the morning. Since this is already resolved by an upstream module, I'll include this phrase verbatim in my request to ensure proper scheduling.
+
+In summary, our request involves capturing high-resolution optical imagery with a focus on vegetation health using VNIR technology. This task is part of our standard operational procedures and must be completed within three days in the morning, as per the deadline requirements.

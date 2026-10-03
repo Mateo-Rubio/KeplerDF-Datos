@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided into a highly realistic and conversational English request. This task is tagged with priority level 3, indicating it holds high importance in our operational framework.
+
+The geographic context for this mission involves capturing a thermal mapping of an unspecified location within Norte, a region that does not specify a country or city but uses the nested 'location_details' field to provide a realistic description. We aim to capture a heat signature, surface temperature profile, or detect thermal anomalies, leveraging our TIR sensor for this purpose.
+
+The operational guidelines direct us to avoid raw technical system tags and coordinate arrays, favoring natural language that combines parameters in a meaningful way. This means describing the location using 'region_name' combined with 'country', 'city', and 'landmark' fields from 'location_details', gracefully handling "N/A" values by focusing on other available information.
+
+This mission allocation carries the authority of an "absolute institutional priority" or "binding contract requirement", implying that capturing this critical payload is an "urgent operational execution" and an "un-preemptable mission lock". The language reflects a sense of responsibility and importance, highlighting the need for this task to be executed with high attention to detail and operational standards.
+
+The deadline for this task is set for tomorrow in the evening. This phrase, "tomorrow in the evening", serves as our upper limit for data availability, providing a specific time frame that does not require rephrasing or adjustment.
+
+In conclusion, our request is to acquire thermal mapping data using the TIR sensor for an undisclosed location within Norte region, with priority level 3 indicating the task's high importance. This must be completed by tomorrow in the evening, adhering to our operational guidelines that emphasize natural language use while maintaining clarity and precision in conveying technical information.

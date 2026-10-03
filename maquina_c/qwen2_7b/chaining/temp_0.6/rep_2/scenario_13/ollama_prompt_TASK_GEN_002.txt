@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. In the spirit of maximizing naturalness and validation accuracy for our dataset, I'll interpret the provided JSON data in an organic manner.
+
+Our geographic context involves focusing on the 'region_name', 'country', 'city', and 'landmark' fields from 'location_details'. The country is 'Italia', specifically pinpointing the city of 'Moncalieri'. Given that no landmark is specified, we'll describe the location using these details for a realistic depiction.
+
+The mission allocation priority level is set to 1, which carries a low importance. This implies our task will be framed as a "low priority importance" request with a flexible schedule for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+Our primary sensor in play is the VNIR, enabling us to conduct "multispectral vegetation analysis". This is aimed at assessing "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance. We're focusing on capturing these details for a comprehensive understanding of the region's plant health.
+
+The delivery deadline is fixed: "in four days in the morning", which we'll insert verbatim into our request, as it represents the upper limit for data availability without rephrasing, shortening, or altering it.
+
+In summary, my request to the automated satellite constellation planner involves capturing a "multispectral vegetation analysis" snapshot of Moncalieri, 'Italia', with a clear focus on assessing chlorophyll absorption levels and calculating the NDVI index. This task is considered "low priority importance", allowing for flexible scheduling for "opportunistic capture". The deadline for this task is set at "in four days in the morning", ensuring timely data availability.

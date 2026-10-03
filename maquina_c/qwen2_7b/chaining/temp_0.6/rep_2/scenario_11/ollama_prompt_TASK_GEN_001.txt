@@ -1,0 +1,11 @@
+Translate the task request for an Earth-observation mission operator submitting a task to an automated satellite constellation planner. The objective is to convert raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request, ensuring naturalness and validation accuracy.
+
+Geographically, we're tasked with capturing high-resolution optical imagery of Puerto López, Colombia, as part of an opportunistic background survey. The visual documentation should include daylight photography and true-color visual details to support our baseline pipeline tracking setup with normal operational status parameters.
+
+The mission allocation priority is Low Importance (Priority 1), indicating that this request is treated as a non-essential background filler task with flexible scheduling options. The operator explicitly notes to drop or reschedule at convenience, making it a low priority importance task.
+
+For the physical objectives, we're focusing on the primary VIS sensor for high-resolution optical observation. The goal is to capture clear optical imagery and true-color visual documentation of the region under consideration, emphasizing its importance as a testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module: "tomorrow overnight". This phrase should be inserted verbatim into the request as the stated upper limit for data availability, without any rephrasing, shortening, or moving to a different part of the day.
+
+In summary, we're tasked with capturing high-resolution optical imagery of Puerto López, Colombia, using our VIS sensor, with this mission allocated at Low Importance level. The deadline for data availability is tomorrow overnight, reflecting the operational guidelines provided.
