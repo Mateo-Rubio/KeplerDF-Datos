@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the outlined operational guidelines.
+
+The geographic context for this task involves capturing a high-resolution optical snapshot of the city of Murindó, located in Colombia. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the urban landscape, essential for various applications such as urban planning and environmental monitoring.
+
+Given the priority level is 1 (low importance), this request is framed as a "flexible schedule" low priority importance task with a "non-essential background filler task". The operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor for this mission is VIS (visual imagery), which will be used to capture the high-resolution optical snapshot. This operation will be carried out in three days, specifically in the evening, adhering to the deadline set by an upstream module.
+
+In summary, this request involves capturing detailed visual data of Murindó, Colombia, using VIS technology, with a flexible schedule and low priority importance, scheduled for completion in the evening of the third day. The natural language request is tailored to reflect the operational guidelines provided, ensuring the dataset's quality and relevance.

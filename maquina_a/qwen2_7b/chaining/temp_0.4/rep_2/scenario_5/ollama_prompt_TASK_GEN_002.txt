@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves capturing imagery of Poggi del Sasso, located in the beautiful country of Italia. This location requires an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring we can gather ground geometry regardless of weather conditions.
+
+The mission allocation priority is set at Low Importance, indicating a flexible schedule for opportunistic capture. This task is labeled as a non-essential background filler task, with the operator explicitly noting to drop or reschedule at convenience. The language used reflects a casual, highly flexible tone, treating it as a background survey or testbed tracking task.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will enable us to capture detailed information about the landscape, providing insights into ground geometry and surface features.
+
+The delivery deadline for this task has been resolved by an upstream module. The data availability upper limit is set as "the day after tomorrow in the morning". This phrase must be inserted verbatim into our request, without rephrasing or altering it.
+
+In conclusion, our task request involves capturing high-resolution SAR imagery of Poggi del Sasso in Italia, with a focus on ground geometry and surface features. It's classified as a low priority importance task with a flexible schedule for capture, adhering to the deadline set for data availability.

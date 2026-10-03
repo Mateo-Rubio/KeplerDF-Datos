@@ -1,0 +1,19 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. The operational guidelines for translating the raw physical simulation metadata into a highly realistic and conversational English request are as follows:
+
+1. GEOGRAPHIC CONTEXT: We're focusing on capturing the essence of the location without using raw system tags or coordinates. The 'region_name' and 'location_details' keys will be combined naturally, describing the setting using a realistic blend of country, city, and landmark fields. If any of these are "N/A", we'll gracefully skip them and describe the location based on the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: The 'priority_level' will be interpreted to reflect the mission's authority and asset contractual value, not its proximity to deadlines. For Priority 1 (Low Importance), we'll use a casual tone and mention that this is a "low priority importance" request with a "flexible schedule" for "opportunistic capture". We'll explicitly state it as a "background survey" or a "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The 'primary_sensor' will be woven into the request to explain the physical phenomenon being observed in natural language. For instance, "VNIR" will be explained as "multispectral vegetation analysis", assessing "chlorophyll absorption levels" or calculating a vegetation "NDVI index" and surface reflectance.
+
+4. DELIVERY DEADLINE: The deadline for this task has been set by an upstream module, which is "in three days overnight". This phrase must be inserted verbatim into our request as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Given these guidelines, let's formulate the request:
+
+---
+
+On behalf of our Earth-observation mission, we're tasked with capturing a multispectral vegetation analysis using VNIR technology on the beautiful region of Gazzola, Italia. This is a low priority importance request, designed as a "background survey" that can be scheduled flexibly, treating it as an "opportunistic capture". Our objective is to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance, providing valuable insights into vegetation health.
+
+The deadline for this task has been set by an upstream module: "in three days overnight". We understand that data availability must be met by this specific timeframe without any adjustments.
+
+---

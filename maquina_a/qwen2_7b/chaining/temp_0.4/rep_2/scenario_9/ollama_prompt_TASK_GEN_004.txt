@@ -1,0 +1,23 @@
+As an Earth-observation mission operator, I'm submitting this task request to an automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The geographic context demands that we interpret the 'region_name' and nested 'location_details', avoiding raw technical system tags, underscores, or coordinate arrays in our final output.
+
+Combining the JSON parameters naturally, we describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority indicates operational guidelines for integrating specific phrases that reflect institutional hierarchy, standard operational status, or low priority importance. We interpret 'priority_level' as 'High Importance', 'Medium Importance', or 'Low Importance', respectively, utilizing authoritative tones for high priority tasks, professional language for medium priority tasks, and casual descriptions for low priority tasks.
+
+Sensors and physical objectives require a natural weave of operational objectives and descriptors into the request to explain the phenomena to be observed. We avoid technical abbreviations and instead use descriptive phrases like "high-resolution optical snapshot", "active radar scan", "thermal mapping", "multispectral vegetation analysis", and "near-infrared reflection".
+
+The delivery deadline for this task has already been resolved by an upstream module. It is specified as "the day after tomorrow during the afternoon" and must be inserted verbatim into our request, without rephrasing or shortening it.
+
+Considering all these guidelines, our request to the satellite constellation planner would look like:
+
+---
+
+In preparation for capturing critical data on thermal anomalies in Colombia's San Martín region, we hereby request an urgent operational execution of a high-resolution thermal mapping mission. This "absolute institutional priority" involves a "critical payload capture" using our TIR sensor during daylight hours.
+
+Operating under the authority of a binding contract requirement, this task is essential for understanding heat signatures and surface temperature profiles within the area. The satellite is tasked with providing piercing microwave surface imaging capabilities to ensure cloud-penetrating capture, enabling us to gather invaluable information about ground geometry in any weather conditions.
+
+Our request highlights the importance of this mission as an "urgent operational execution" with an "un-preemptable mission lock". This is part of our baseline pipeline tracking setup, where fixed parameters represent normal operational status and workflow updates. We emphasize that this task has a high level of priority and must be executed as soon as possible.
+
+---
+
+This request maintains the naturalness and validation accuracy by interpreting metadata organically according to the provided operational guidelines.

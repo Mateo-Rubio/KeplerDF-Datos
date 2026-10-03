@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing Andina, Colombia, with the primary sensor being VNIR for a daylight photography session during tomorrow's overnight period. This task carries high importance, as it is an absolute institutional priority that involves capturing critical payload data. The language must heavily imply urgent operational execution and an un-preemptable mission lock.
+
+Andina, Colombia, serves as our location, blending the country's name with the city details for a realistic description. The request is framed as a standard operational tasking with fixed parameters representing normal operational status or a routine monitoring setup part of a baseline pipeline tracking. It's explicitly noted that this is a low priority importance request with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task.
+
+The VNIR sensor aims to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance. This will help in understanding the health of the vegetation and its environmental conditions.
+
+The deadline for this task has already been resolved by an upstream module, "tomorrow overnight," which must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are to be outputted.
+
+In conclusion, our request is a blend of operational phrases, realistic location descriptions, and technical objectives tailored to the specific parameters provided in the JSON format.

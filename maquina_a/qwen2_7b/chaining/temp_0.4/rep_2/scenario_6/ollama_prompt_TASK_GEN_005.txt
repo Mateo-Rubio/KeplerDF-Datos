@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request for an automated satellite constellation planner. The request involves translating raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines include interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines.
+
+Geographically, we're focusing on the picturesque region of "Italia", specifically the vibrant city of "Sizzano". Our objective is to capture an active radar scan using microwave surface imaging for cloud-penetrating capture. This will provide us with detailed ground geometry data, essential for understanding the landscape under various weather conditions.
+
+The mission allocation priority is set at Level 1, indicating a low importance request with flexible scheduling. This task is framed as a "non-essential background filler task", implying that it can be dropped or rescheduled at convenience and treated as a "background survey" or "testbed tracking task". The primary sensor is designated as SAR, which will aid in our exploration of the region.
+
+The delivery deadline for this task has been resolved by an upstream module. The data must be available "in three days around mid-day", a precise phrase that should be included verbatim in our request. This upper limit for data availability sets the time frame within which we aim to receive the requested information.
+
+In summary, our request is to capture thermal mapping data using SAR technology on the picturesque region of Italia, specifically Sizzano, with a delivery deadline set for three days around mid-day. This task is considered low priority, allowing for flexible scheduling and execution based on operational convenience.

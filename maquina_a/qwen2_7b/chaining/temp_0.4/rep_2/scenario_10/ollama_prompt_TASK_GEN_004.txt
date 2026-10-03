@@ -1,0 +1,31 @@
+Please translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the given JSON format and guidelines:
+
+GEOGRAPHIC CONTEXT: Combine the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", use the 'region_name' field instead.
+
+MISSION ALLOCATION PRIORITY: Use specific operational phrases based on the priority level:
+- Priority 3 (High Importance): Absolute institutional priority, binding contract requirement, critical payload capture, urgent operational execution, un-preemptable mission lock.
+- Priority 2 (Medium Importance): Standard operational tasking, commercial tasking, routine monitoring, baseline pipeline tracking, fixed parameters, normal operational status, workflow update.
+- Priority 1 (Low Importance): Low priority importance, flexible schedule, opportunistic capture, background survey, testbed tracking task.
+
+SENSORS AND PHYSICAL OBJECTIVES: Use natural language to explain the physical phenomenon based on the 'primary_sensor' key:
+- VIS: High-resolution optical snapshot, daylight photography, clear optical imagery, true-color visual documentation.
+- SAR: Active radar scan, microwave surface imaging, cloud-penetrating capture, ground geometry.
+- TIR: Thermal mapping, heat signature, surface temperature profile, thermal anomaly detection, heat emissions mapping.
+- VNIR: Multispectral vegetation analysis, chlorophyll absorption level assessment, NDVI index calculation, surface reflectance.
+- NIR: Near-infrared reflection, water body boundary mapping, soil moisture assessment.
+
+DELIVERY DEADLINE: Insert the exact phrase "the day after tomorrow around mid-day" into your request.
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Colombia",
+    "city": "San Vicente del Caguán"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Your request should be presented as one flowing paragraph, without any greeting or signature.

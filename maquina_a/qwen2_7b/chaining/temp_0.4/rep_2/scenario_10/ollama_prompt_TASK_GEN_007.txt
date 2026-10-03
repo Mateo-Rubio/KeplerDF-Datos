@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context for this mission involves the country of Colombia and the city of Apartadó. Our primary sensor requirement is Thermal Infrared (TIR), which will be used to capture thermal mapping data. This involves observing a heat signature, capturing surface temperature profiles, or detecting thermal anomalies and mapping heat emissions during an overnight period on the day after tomorrow.
+
+The mission allocation priority is set at Level 1, indicating low importance with a flexible schedule for opportunistic capture. This task is labeled as a "low priority importance" request, with an explicit note to drop or reschedule at convenience, treating it as a "background survey" or "testbed tracking task". The deadline for this task has already been resolved by an upstream module; the upper limit for data availability is specified as "the day after tomorrow overnight".
+
+In conclusion, our mission aims to gather TIR data from Colombia's Apartadó city during the overnight period on the following day. This request is submitted with a low priority importance, allowing for flexible scheduling and opportunistic capture, while adhering to the deadline set by our upstream module.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+Given the geographic context, we're targeting a location in Norte, which doesn't provide specific country or city details but offers a realistic description through its 'region_name'. We'll interpret this as capturing thermal mapping data for a heat signature across the region, aiming to detect surface temperature profiles and thermal anomalies.
+
+The mission allocation priority is set at level 1 (low importance), indicating that this request is part of a flexible schedule with a "non-essential background filler task". The operator has explicitly noted to drop or reschedule this at convenience, treating it as a "background survey" or "testbed tracking task".
+
+Our primary sensor for this mission will be TIR (Thermal Infrared), which we'll interpret as capturing thermal mapping data for the purpose of assessing heat emissions and surface temperature variations. This is crucial for identifying hotspots or anomalies that might indicate issues like urban heat islands, industrial activity, or environmental concerns.
+
+The delivery deadline for this task has already been resolved by an upstream module: "the day after tomorrow during the afternoon". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability. This deadline is not to be rephrased, shortened, or moved to a different part of the day.
+
+In conclusion, our task request is now fully fleshed out, with a clear understanding of the geographic context, mission priority, sensor objectives, and delivery deadline. We're looking forward to receiving the satellite data that will provide insights into thermal mapping across Norte, contributing to our ongoing efforts in Earth observation.
