@@ -1,0 +1,17 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string which must appear literally in your final request is "evening".
+
+d) Confirm: I am not shifting the deadline to an adjacent part of the day. The deadline remains exactly as specified.
+
+STAGE 2 - FINAL REQUEST
+
+In response to the Earth-observation mission allocation request, we are tasked with capturing a critical SAR (Synthetic Aperture Radar) scan of the region in Colombia, specifically the city of Cimitarra. This high-priority mission is designated as an "absolute institutional priority" due to its importance and contractual obligations involved. The capture must occur on "the day after tomorrow," precisely at "in the evening." This deadline represents a strict operational requirement for delivering the data products, not an orbital window.
+
+The SAR scan aims to perform an active microwave surface imaging task, which will provide cloud-penetrating capture capabilities essential for understanding ground geometry and features under various weather conditions. This mission is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update.
+
+Given the nature of this request, it should be treated as a "non-essential background filler task" with a flexible schedule for "opportunistic capture." The operator explicitly notes to "drop or reschedule at convenience," considering it as a "background survey" or "testbed tracking task." This ensures that the mission is prioritized appropriately within our operational context, maintaining the balance between critical and non-critical tasks.
