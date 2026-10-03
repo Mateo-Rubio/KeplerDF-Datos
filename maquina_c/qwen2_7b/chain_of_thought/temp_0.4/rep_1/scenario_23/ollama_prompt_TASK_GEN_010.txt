@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the provided JSON metadata, we are tasked with capturing a thermal map of Maní, Colombia during the afternoon of today. This mission holds low priority importance, as indicated by the 'priority_level' being set at 1. The request is framed as a "flexible schedule" task that can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task". The primary sensor utilized will be the TIR (Thermal Infrared) system, which will enable us to capture heat signatures and surface temperature profiles across the region. This data collection aims to provide insights into thermal anomalies and heat emissions without altering the deadline, focusing instead on delivering high-quality thermal mapping data for analysis during the afternoon hours of today in Maní, Colombia.
