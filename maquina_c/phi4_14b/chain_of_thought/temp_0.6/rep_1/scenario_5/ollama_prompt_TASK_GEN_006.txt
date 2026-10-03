@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in four days". This clearly specifies the deadline for when the data needs to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "overnight". This indicates the specific time of day when the imagery should be captured.
+
+c) The single word contained in that string is "overnight". This word will be used literally in the final request to describe the timing of the capture.
+
+d) The deadline specified as "in four days" with a diurnal period of "overnight" must be adhered to without any alteration or shift. The data delivery and capture must occur exactly on that night, four days from now, and not at any other time.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request for a flexible schedule in capturing imagery over Pangkalan Bun, Indonesia. This is an opportunistic task, so please feel free to drop or reschedule it at your convenience if necessary. We are aiming for a high-resolution optical snapshot using daylight photography techniques, specifically during the overnight period. Please ensure that this task is completed and delivered by "in four days".
