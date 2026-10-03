@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed by the next day from when the request is made.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the data capture should occur, focusing on the afternoon period.
+
+c) The single word contained in the string "during the afternoon" that matches the options {morning, mid-day, afternoon, evening, overnight} is "afternoon". This word will be used verbatim in the final request to specify the time of day for the operation.
+
+d) It is important to confirm that the deadline is not being shifted. The task must be completed by tomorrow afternoon, as specified, without any alteration to this timeframe. The deadline remains strictly set for "tomorrow during the afternoon".
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance mission with a flexible schedule for opportunistic capture in the region of Norte. This is a non-essential background filler task, and I note that it can be dropped or rescheduled at convenience. The objective is to conduct a multispectral vegetation analysis using VNIR capabilities to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please ensure that this task is completed by tomorrow during the afternoon.
