@@ -1,0 +1,9 @@
+Here's the reasoning for STAGE 1:
+
+The target day is "tomorrow".
+
+The target diurnal period is "in the morning".
+
+The single word contained in that string is "morning".
+
+I am not shifting the deadline to an adjacent part of the day, as "tomorrow" implies the next day and "in the morning" specifies a time within that day.
