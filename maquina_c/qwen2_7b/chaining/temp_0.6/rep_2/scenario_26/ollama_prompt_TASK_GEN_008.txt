@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to provide a natural interpretation of the given JSON format while adhering to operational guidelines.
+
+The geographic context is set in the region of Italia, focusing on Pontagna. This location will be captured through high-resolution optical imagery using a visible sensor, akin to daylight photography or true-color visual documentation. The request holds a low priority importance with flexible scheduling and is treated as a non-essential background filler task.
+
+The task will be executed overnight in four days, emphasizing that this is an upper limit for data availability without rephrasing, shortening, or altering the specified time frame. The satellite constellation must capture thermal mapping to assess heat signatures or detect thermal anomalies during this period.
+
+To maximize the naturalness and validation accuracy of the dataset, interpret the metadata organically according to these operational guidelines:
+1. GEOGRAPHIC CONTEXT: Combine location parameters naturally using realistic combinations of country, city, and landmark fields or simply use 'region_name' if applicable.
+2. MISSION ALLOCATION PRIORITY: Use authoritative, professional, or casual tones based on priority levels, avoiding raw numbers or technical descriptions. Describe tasks as standard operational tasks or background survey activities.
+3. SENSORS AND PHYSICAL OBJECTIVES: Interpret sensor types in a way that explains the physical phenomena to be observed, avoiding technical abbreviations or acronyms.
+4. DELIVERY DEADLINE: Insert the specified deadline verbatim into the request, emphasizing it as the upper limit for data availability without altering its time frame.
+
+The Earth-observation mission operator is prepared to translate these guidelines into a cohesive and realistic request that aligns with the automated satellite constellation planner's expectations, ensuring accurate and timely data capture for operational use.
