@@ -1,0 +1,13 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word will be used literally in the final request.
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' keys provide specific constraints, and the task request must adhere to these deadlines without alteration.
+
+STAGE 2 - FINAL REQUEST:
+
+...the mission requires a high-priority, absolute institutional priority tasking for critical payload capture in the region of Tuscany, specifically targeting the city of Campagnatico, Italy, on the day after tomorrow for overnight NIR near-infrared reflection to assess soil moisture levels and water body boundaries. This is a mandatory directive with an un-preemptable mission lock, requiring an urgent operational execution to deliver the data products within the specified timeframe...
