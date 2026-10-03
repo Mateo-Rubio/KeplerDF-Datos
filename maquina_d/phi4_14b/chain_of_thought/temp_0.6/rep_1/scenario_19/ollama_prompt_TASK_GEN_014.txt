@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This phrase indicates the specific deadline for when the data products are expected to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "during the afternoon". This specifies the time of day during which the satellite capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "afternoon". This word must be included verbatim in the final request to ensure clarity regarding the timing of the task.
+
+d) It's important to confirm that there is no intention or allowance to shift the deadline to another part of the day. The specified diurnal period is strictly "during the afternoon", and this should not be altered to any other time, such as morning, evening, or overnight. The operational deadline remains fixed to these parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking in Italy, focusing on the region near the city of Norte. This mission involves conducting a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index in the area. The request is part of our baseline pipeline tracking, ensuring fixed parameters are maintained for normal operational status. We need this data delivered "in three days", specifically captured "during the afternoon" to align with our workflow update requirements. Please ensure this task follows through as scheduled without deviations from the set timeline.

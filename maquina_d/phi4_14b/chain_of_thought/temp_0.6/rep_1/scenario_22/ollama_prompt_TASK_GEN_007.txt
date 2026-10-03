@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the timeframe within which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the satellite capture should occur.
+
+c) The single word contained in 'target_diurnal_period' that matches from the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to specify the time of data capture.
+
+d) The deadline specified as "in three days" and "overnight" should not be altered. This means that the task must be executed exactly within these parameters, without shifting to any other part of the day or extending the timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low priority importance request for an opportunistic capture over Sesquilé, Colombia, with a flexible schedule to allow for rescheduling at convenience. This task is intended as a non-essential background filler task. The primary objective is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, focusing on ground geometry. Please ensure this is scheduled for in three days, specifically overnight, allowing for optimal data collection under these conditions.

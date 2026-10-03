@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This indicates that the task needs to be completed by this specific time frame without any alterations.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the data capture should occur, which is important for planning the mission.
+
+c) The word "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is contained in the 'target_diurnal_period' string. This word will be directly used in the final request to specify the timing of the task.
+
+d) It is crucial to confirm that the deadline, as specified by "the day after tomorrow" and the "overnight" period, is not shifted or altered to any other part of the day. The mission must adhere strictly to these parameters to meet operational requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task for your consideration involving a flexible schedule for opportunistic capture in Kapuas Hulu, Indonesia. This non-essential background filler task involves thermal mapping to capture a heat signature or surface temperature profile, which can be scheduled at your convenience. The data is needed by the day after tomorrow, specifically during the overnight period. Please feel free to drop or reschedule this as necessary, treating it as a background survey for our ongoing testbed tracking efforts.
