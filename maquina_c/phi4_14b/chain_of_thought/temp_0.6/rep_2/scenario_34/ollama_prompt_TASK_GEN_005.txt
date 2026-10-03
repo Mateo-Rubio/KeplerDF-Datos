@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) It's important to confirm that there is no shift in the deadline. The specified 'target_day' is "tomorrow," and the 'target_diurnal_period' is "in the morning." Therefore, the deadline remains strictly set for the morning of tomorrow without any adjustment or shift to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a task request for a standard operational tasking in the region of Lenzumo, Italy. This involves thermal mapping with the goal of capturing surface temperature profiles. The operation is part of our baseline pipeline tracking and should be conducted as a fixed parameter task within normal operational status. Please ensure that this mission is executed tomorrow, specifically in the morning, to meet our workflow update requirements.

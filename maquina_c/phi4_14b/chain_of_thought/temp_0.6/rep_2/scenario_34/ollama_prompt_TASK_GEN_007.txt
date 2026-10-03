@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves analyzing metadata for an Earth-observation mission to generate a realistic and conversational request. Let's break down the requirements:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data products are expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time frame during which the observation should occur.
+
+c) The single word contained in 'target_diurnal_period' that matches the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to describe when the observation takes place.
+
+d) It's important to confirm that the deadline is not being shifted. The deadline for delivering the data products is "tomorrow," and the observation period is "overnight." There is no indication or reason to adjust this timeframe, so the deadline remains as specified.
+
+### STAGE 2 - FINAL REQUEST
+
+I need a low-priority importance request for an Earth-observation mission over Montelíbano, Colombia. The task involves capturing thermal mapping data to detect heat signatures and map surface temperature profiles using thermal imaging. This is a flexible schedule task with a non-essential background filler role, so please feel free to drop or reschedule at your convenience. The target day for delivering the data products is tomorrow, and the observation should occur overnight.
