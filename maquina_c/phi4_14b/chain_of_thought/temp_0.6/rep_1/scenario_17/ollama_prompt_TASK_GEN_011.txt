@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific information to be interpreted into a conversational task request. Let's go through the details:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data collection should occur, not when it will be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day for the satellite observation within the target day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening." This word will be used to describe the timing of the task in the final request.
+
+d) It's important to confirm that the deadline is not being shifted. The original metadata specifies "in the evening" on "tomorrow," and this timing should remain unchanged. The task must be executed strictly within these parameters, emphasizing the importance of adhering to the specified diurnal period without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority task involving near-infrared reflection for water body boundary mapping or soil moisture assessment in Grumino, Italy. Given its low priority, this is a flexible schedule task with an opportunistic capture approach. The operator should feel free to drop or reschedule this at their convenience, treating it as a non-essential background filler task. We aim to gather data tomorrow in the evening, using the specified diurnal period without any shifts or changes.

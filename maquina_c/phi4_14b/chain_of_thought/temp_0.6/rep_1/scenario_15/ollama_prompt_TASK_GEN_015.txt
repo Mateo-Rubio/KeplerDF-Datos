@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating JSON metadata into a realistic English request for an Earth-observation mission. Let's examine the specific components of this task.
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This specifies when the data should be delivered, emphasizing that it is not an orbital capture window but rather the deadline for the data product.
+
+b) The string found in 'target_diurnal_period' is "overnight." This indicates the specific time frame during which the observation should take place or when the data should be captured.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "overnight." This term must appear literally in the final request to accurately convey the timing of the observation.
+
+d) It's important to confirm that the deadline is not being shifted to another part of the day. The original data specifies "the day after tomorrow" and "overnight," meaning the task must be executed during the nighttime period on that specified day, without any alterations or shifts to other parts of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request for an observation over Basa Ampek Balai Tapan in Indonesia. This task involves thermal mapping to capture a heat signature or surface temperature profile, using a flexible schedule for opportunistic capture. Please treat this as a non-essential background filler task and feel free to drop or reschedule at convenience. The data should be delivered the day after tomorrow during the overnight period.

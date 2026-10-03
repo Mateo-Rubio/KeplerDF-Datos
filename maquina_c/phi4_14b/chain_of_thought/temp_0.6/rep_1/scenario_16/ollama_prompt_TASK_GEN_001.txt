@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string, which must appear literally in the final request, is "evening."
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must be fulfilled exactly "in three days" and "in the evening," as specified by the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a multispectral vegetation analysis over Santander de Quilichao, Colombia. This request involves capturing a VNIR sensor snapshot to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The task is part of our baseline pipeline tracking and should be executed with fixed parameters representing normal operational status. We need this data delivered in three days, specifically in the evening, as per our workflow update schedule.
