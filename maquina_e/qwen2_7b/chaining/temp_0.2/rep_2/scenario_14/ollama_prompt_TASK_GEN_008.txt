@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for Norte, Brazil, which is described using realistic combinations of available fields from 'location_details'. Since specific country, city, or landmark details are not available, we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', indicating a flexible schedule for an opportunistic capture. This request is framed as a "low priority importance" task with a "flexible schedule", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is 'SAR', which will be used to conduct an active radar scan employing microwave surface imaging. The goal is to perform a cloud-penetrating capture, allowing us to pierce heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, set as "tomorrow overnight". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request is to capture high-resolution SAR imagery of Norte, Brazil, during the overnight period tomorrow. The task is considered low priority with a flexible schedule and is aimed at conducting an active radar scan for cloud-penetrating capture and ground geometry assessment. The deadline for data availability is set as "tomorrow overnight", ensuring that our request aligns with the operational guidelines and deadlines provided.

@@ -1,0 +1,11 @@
+In response to the operational guidelines provided, I hereby submit a task request for an automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the raw physical simulation metadata given in JSON format.
+
+The geographic context involves observing Colombia, specifically focusing on the city of Carmen del Darién (Curbaradó). This location will be documented through a natural combination of country, city, and landmark fields from 'location_details'. Given that the country and city are specified, there's no need to include the landmark field.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is framed as an essential but not urgent operational execution, emphasizing its standard workflow update nature.
+
+The primary sensor involved is VIS (visual imagery), which will be used to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation. This will serve as a critical component for understanding the landscape during the day.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon", which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into the request without any rephrasing, shortening, or moving to a different part of the day.
+
+In conclusion, this task request aims to gather detailed visual information about the specified location in Colombia using VIS technology during the afternoon on the day after tomorrow, adhering to medium priority guidelines and standard operational procedures.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing a location in Colombia, specifically Puerto Rico, which is described using realistic combinations of country, city, and landmark fields from 'location_details'. Since the details are not available, we'll use the 'region_name' instead. The mission allocation priority is medium importance, indicating it's part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be used is VNIR (Visible Near-Infrared), which will capture multispectral vegetation analysis for assessing chlorophyll absorption levels and calculating the vegetation NDVI index. This will help in understanding surface reflectance, providing valuable insights into the health and productivity of the vegetation.
+
+The delivery deadline is set for three days in the morning, which means we need to ensure that the data is available by this time frame without any rephrasing or shortening of the phrase.
+
+In summary, our request involves capturing high-resolution optical snapshots for daylight photography and clear optical imagery, focusing on the assessment of chlorophyll absorption levels and vegetation health. This task is part of a baseline pipeline tracking setup with normal operational status, and it will be executed as a standard operational tasking with fixed parameters. The deadline for data availability is set for three days in the morning, ensuring that we capture the necessary information for our analysis without any urgency related to the deadline itself.

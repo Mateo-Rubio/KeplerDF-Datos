@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically.
+
+The geographic context involves observing a location in Colombia, specifically in Guamal. We'll describe this region using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'High Importance', as indicated by the 'priority_level' being 3. This means that this request must be treated with an authoritative, explicit, and commanding tone. We'll frame it as an "absolute institutional priority" or a "binding contract requirement". The language will heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor is 'NIR', which we'll interpret as the goal of capturing "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". This involves discriminating gradients to provide valuable insights into water bodies and soil conditions.
+
+The delivery deadline for this task has already been resolved by an upstream module. The data must be available "tomorrow in the morning", which we'll insert verbatim into our request. We won't rephrase, shorten, or move this phrase to a different part of the day.
+
+In summary, our request is as follows:
+
+"Please prioritize the observation of Guamal, Colombia, with a high-resolution optical snapshot using near-infrared technology for water body boundary mapping and soil moisture assessment. This task is an absolute institutional priority requiring urgent operational execution and cannot be preempted. The deadline for data availability is tomorrow in the morning, as determined by an upstream module."
+
+This request encapsulates the essence of our mission allocation, geographic context, sensor objectives, and delivery deadline, ensuring a smooth integration into our automated satellite constellation planner's workflow.
