@@ -1,0 +1,30 @@
+As an Earth-observation mission operator, my task is to ensure a highly realistic and conversational English request based on the provided JSON metadata for an automated satellite constellation planner. The objective is to translate raw physical simulation data into a single request that maximizes naturalness and validation accuracy by interpreting geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.
+
+Given the JSON context:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "San José del Guaviare"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The request should be structured as follows:
+
+---
+
+Good day to our satellite constellation planners!
+
+We're requesting an urgent operational execution for a critical payload capture involving the near-infrared (NIR) sensor. Our mission is to assess soil moisture levels over San José del Guaviare, Colombia, with a strict delivery deadline set for tomorrow's overnight block at the latest.
+
+Our primary objective is to obtain near-infrared reflection data that will help us map water body boundaries and conduct a detailed soil moisture assessment. This task is of high importance and requires immediate attention due to its contractual value and operational significance.
+
+Please ensure that the products are ingested into our pipeline before tomorrow's overnight period, as this deadline marks our upper limit for data availability.
+
+Thank you for your prompt attention to this binding contract requirement involving a critical payload capture.
+
+---
