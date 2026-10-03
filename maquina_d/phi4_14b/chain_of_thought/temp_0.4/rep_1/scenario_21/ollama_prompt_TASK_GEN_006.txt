@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This indicates the specific deadline by which the task must be completed.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening." This specifies when during the day the data capture should occur.
+
+c) The word contained in the 'target_diurnal_period' string that matches one of the specified options is "evening." This will be used explicitly in the final request to describe when the task should be executed.
+
+d) It's important to confirm that the deadline is not being shifted or altered. The task must be completed on "the day after tomorrow" and specifically "in the evening," as these are the constraints provided by the metadata. Any deviation from this timeframe would not adhere to the operational guidelines.
+
+### STAGE 2 - FINAL REQUEST
+
+I have a low-priority importance request for an opportunistic capture with a flexible schedule. This is a non-essential background filler task that can be dropped or rescheduled at your convenience, serving as a background survey or testbed tracking task. We need thermal mapping to capture a heat signature, surface temperature profile, and map thermal anomalies in the area around Banting, Malaysia. The data should be collected using a thermal infrared sensor. Please aim to complete this task on the day after tomorrow, specifically in the evening.

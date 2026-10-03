@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word must appear literally in the final request.
+
+d) I will ensure not to shift the deadline to an adjacent part of the day. The task must be completed "in the morning" of "tomorrow," as specified in the JSON metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule, focusing on an opportunistic capture of thermal mapping data over the region of Norte. This non-essential background filler task involves capturing a heat signature or surface temperature profile, which can be adjusted or rescheduled at your convenience. The goal is to deliver this data product by tomorrow in the morning, and we appreciate any flexibility you can provide in accommodating this task within your workflow.
