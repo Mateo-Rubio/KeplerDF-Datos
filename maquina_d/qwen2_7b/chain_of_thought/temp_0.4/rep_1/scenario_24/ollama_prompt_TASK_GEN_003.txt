@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the provided JSON metadata, our objective is to request a specific task from the satellite constellation planner. We aim to capture thermal mapping data for Indonesia's equatorial region overnight today. This request carries low priority importance, as indicated by the 'priority_level' being set to 1.
+
+The primary sensor required for this mission will be the TIR (Thermal Infrared) sensor, which is essential for capturing thermal signatures and mapping heat emissions across the region during the overnight period when conditions might be optimal for certain types of observations. This task is framed as a "non-essential background filler task" with flexible scheduling considerations.
+
+The location details specify that we are focusing on Indonesia's equatorial region, where the climate and geographical features may present unique opportunities for thermal anomaly detection and mapping heat emissions. The 'target_day' being set to "today" and the 'target_diurnal_period' as "overnight" indicates a strict deadline for data collection, which is crucial for operational purposes.
+
+In summary, our request for the automated satellite constellation planner is to capture thermal mapping data using the TIR sensor over Indonesia's equatorial region overnight today. This task is given low priority importance and carries flexible scheduling considerations, aligning with the operational guidelines provided.

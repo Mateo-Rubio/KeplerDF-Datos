@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the raw JSON metadata provided, the Earth-observation mission operator is tasked with capturing a high-resolution optical snapshot of Frabosa Sottana, located in the beautiful country of Italia. This task is designated as a "low priority importance" request, with flexible scheduling requirements to accommodate opportunistic capture. The deadline for delivering this data product is set for tomorrow morning, providing an optimal window for daylight photography and clear optical imagery.
+
+The operator understands that this request does not alter or extend the deadline; it merely specifies when the data must be captured. The focus remains on capturing a high-resolution visual documentation of the region, ideally under favorable lighting conditions during the morning hours. This will allow for detailed analysis and documentation without compromising the quality of the imagery due to potential obstructions or changes in light conditions that might occur later in the day.
+
+To summarize, the Earth-observation mission operator is to capture a "high-resolution optical snapshot" of Frabosa Sottana, Italia, tomorrow morning, as part of a "non-essential background filler task" with flexible scheduling requirements. The deadline for delivering this data product is strictly adhered to, ensuring that the imagery captures the essence of the region under optimal lighting conditions for analysis and documentation purposes.
