@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string that must appear literally in the final request is "afternoon".
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the context provided by the JSON metadata, we are tasked with capturing high-resolution optical imagery of the Ecuatorial region in Indonesia during the afternoon on the day after tomorrow. This request is labeled as a low priority importance task with flexible scheduling requirements. The primary sensor deployed for this mission will be the VNIR (Visible Near Infrared) camera aimed at assessing chlorophyll absorption levels and calculating the NDVI index to evaluate vegetation health and surface reflectance. The deadline for delivering these data products, as specified by the 'target_day' and 'target_diurnal_period' metadata, is strictly adhered to without any adjustment or interpretation of the operational window.

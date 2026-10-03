@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context, we are tasked with capturing high-resolution near-infrared (NIR) data for a location in Colombia, specifically in the city of Ibagué. The priority level for this mission is low importance, meaning that it can be scheduled flexibly as a background survey or testbed tracking task without impacting critical operations or contractual deadlines.
+
+The target date for data collection is "tomorrow", and since the diurnal period specified is "overnight", we understand that the deadline for delivering the data products is set for the completion of our overnight imaging schedule. This timeframe does not require altering the deadline to an adjacent part of the day, ensuring compliance with operational guidelines.
+
+The request should be framed as follows:
+
+"Tomorrow, during the overnight period, we need to capture high-resolution near-infrared (NIR) imagery for a location in Ibagué, Colombia. This task is categorized under low priority importance, allowing for flexible scheduling without compromising critical operations or contractual obligations. The objective is to conduct an 'opportunistic capture' of the heat signature and surface temperature profile for this area. This will serve as a 'background survey' that can be 'dropped or rescheduled at convenience'."
+
+This request adheres to all guidelines provided and communicates the operational context accurately, including the exact deadline and priority level specified in the JSON data.
