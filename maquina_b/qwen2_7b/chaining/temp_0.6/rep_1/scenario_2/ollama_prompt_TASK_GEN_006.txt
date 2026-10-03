@@ -1,0 +1,12 @@
+```prompt
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. Our objective is to ensure the dataset maximizes naturalness and validation accuracy by interpreting the provided JSON parameters organically.
+
+The geographic context indicates that we're focusing on Indonesia's equatorial region, where the city details are not specified, so we'll combine the country with the remaining valid location details or directly use the 'region_name' if necessary. Our mission allocation priority is determined by the 'priority_level', which informs us of the institutional importance and operational status.
+
+For this task with a VNIR sensor, we aim to capture a high-resolution optical snapshot for daylight photography and true-color visual documentation of the area. With our target day set three days ahead during the afternoon, this request embodies a low priority importance, featuring a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+In summary, our request to the automated satellite constellation planner is:
+
+"Please prepare for an opportunistic capture of Indonesia's equatorial region using a VNIR sensor. The mission is scheduled for three days ahead during the afternoon. This task is considered a low priority background survey, flexible in timing and part of our baseline pipeline tracking."
+
+This request encapsulates the operational guidelines by avoiding technical jargon, interpreting priority levels naturally, and integrating physical objectives into a conversational format."

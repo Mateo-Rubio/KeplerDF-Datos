@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for today's afternoon timeframe. The geographical context involves Colombia, specifically the city of Cimitarra, which we'll describe as part of a larger landscape rather than mentioning specific country or city details.
+
+Our mission allocation priority is of Low Importance (Priority 1), indicating a flexible schedule for opportunistic capture as a non-essential background filler task. The primary sensor involved is Near-Infrared (NIR), aimed at mapping water body boundaries and assessing soil moisture, contributing to our background survey or testbed tracking task.
+
+To maximize the naturalness and validation accuracy of our dataset, we interpret the metadata organically according to operational guidelines. We avoid raw technical system tags, underscores, or coordinate arrays, focusing on combining JSON parameters naturally in a realistic context.
+
+For delivery, today during the afternoon is the upper limit for data availability, as determined by an upstream module. This phrase will be inserted verbatim into our request, reflecting the specified deadline without rephrasing, shortening, or altering it to fit within different parts of the day.
+
+In conclusion, this task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates. Our request aligns with standard operational tasks and contractual requirements that are not considered urgent operational executions or binding contract requirements involving critical payload capture.

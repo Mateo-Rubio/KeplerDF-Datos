@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context for this mission involves a location in Colombia, specifically the city of El Castillo. We're focusing on capturing high-resolution optical imagery during daylight hours using a VNIR sensor. Our primary goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index for environmental monitoring purposes.
+
+Our priority level is set at low importance, indicating that this task is part of a flexible schedule designed for opportunistic capture. We're treating it as a non-essential background filler task with a 'drop or reschedule at convenience' note, recognizing its status as a background survey or testbed tracking task.
+
+The delivery deadline for this task has already been resolved by an upstream module and is set for three days during the afternoon. This phrase must be included verbatim in our request, as the upper limit for data availability.
+
+In summary, our request to our automated satellite constellation planner involves capturing high-resolution optical imagery of the city of El Castillo in Colombia using a VNIR sensor on the target day during the afternoon hours, with a low priority level and no strict deadline constraints. We're looking forward to receiving the data as part of our baseline pipeline tracking setup.

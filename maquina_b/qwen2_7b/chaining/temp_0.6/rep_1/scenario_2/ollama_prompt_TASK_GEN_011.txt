@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request. Let's break down the details:
+
+The geographic context involves Italia, specifically Fobello, though there are no specific landmarks mentioned. We'll describe it as such while integrating the 'region_name' if necessary.
+
+The mission allocation priority is 'High Importance', indicated by a 'priority_level' of 3. This means the task must be handled with authority and urgency, as it's an 'absolute institutional priority' or a 'binding contract requirement'. An 'urgent operational execution' and an 'un-preemptable mission lock' are implied.
+
+The primary sensor is 'VNIR', which means the goal is to conduct a 'multispectral vegetation analysis'. This involves assessing the 'chlorophyll absorption level' for plant health monitoring or calculating the 'NDVI index' and surface reflectance to understand vegetation cover.
+
+The delivery deadline is 'in three days in the morning', which is our upper limit for data availability. We won't rephrase or shorten this phrase, adhering strictly to the provided time frame.
+
+Naturally weaving these details together, our request should read:
+
+"Please prioritize an absolute institutional priority task involving the capture of high-resolution multispectral vegetation analysis using VNIR sensors over in Italia, specifically Fobello, on the target day which is 'in three days in the morning'. This essential mission requires an authoritative approach as it's a binding contract requirement with critical payload capture implications. An urgent operational execution and un-preemptable mission lock are necessary to ensure compliance with the contractual obligations. The data from this task must be gathered during the morning hours on the specified day, reflecting our commitment to adhere strictly to the deadline provided."
+
+This request encapsulates the organic interpretation of the raw JSON metadata while adhering to the guidelines for creating a highly realistic and conversational English task request."

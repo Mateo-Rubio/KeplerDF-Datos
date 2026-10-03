@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request based on the operational guidelines provided.
+
+Given the JSON target task context:
+
+- **GEOGRAPHIC CONTEXT**: We're focusing on "Italia" with an emphasis on the "Norte" region, as the country and city details are "N/A". The location description will be crafted using these fields combined with the 'region_name' if available.
+  
+- **MISSION ALLOCATION PRIORITY**: The priority level is set at 1, indicating a low importance request. This task will be framed as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It's labeled as a "non-essential background filler task", to be treated as a "background survey" or "testbed tracking task".
+
+- **SENSORS AND PHYSICAL OBJECTIVES**: The primary sensor specified is "NIR", which will be translated to the goal of capturing "near-infrared reflection" for "water body boundary mapping". This involves assessing "water body boundaries" or "soil moisture assessment" to discriminate gradients.
+
+- **DELIVERY DEADLINE**: The deadline for this task has been resolved by an upstream module, stating it will be available "in three days in the evening".
+
+To summarize the request:
+
+"In three days in the evening, we request a 'background survey' focusing on the 'Norte' region of 'Italia'. The mission involves capturing high-resolution optical snapshots for 'water body boundary mapping', utilizing near-infrared reflection technology. This task is considered a 'non-essential background filler task' with a 'flexible schedule', to be treated as a 'testbed tracking task'. We're looking forward to receiving the data as per the specified deadline, ensuring it aligns with our operational requirements and priorities."
