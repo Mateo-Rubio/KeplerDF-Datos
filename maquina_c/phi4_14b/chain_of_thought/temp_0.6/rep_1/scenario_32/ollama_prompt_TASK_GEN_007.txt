@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To begin with, we need to analyze the provided metadata in order to craft a realistic and conversational request for the Earth-observation mission operator. 
+
+a) The exact string present in 'target_day' is "in three days". This indicates that the data products must be delivered within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the satellite should capture the required data.
+
+c) Within the 'target_diurnal_period' string, the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears is "overnight". This detail must be incorporated into the final request to accurately describe the timing of the mission.
+
+d) It is crucial to confirm that we are not altering the deadline specified by "in three days" and "overnight". The task must be executed strictly within this time frame without any shifts or adjustments to different parts of the day. This ensures adherence to the operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture over Tarazá, Colombia. Given its flexible schedule, we are looking to have a cloud-penetrating capture using active radar scan technology in three days, specifically during the overnight period. This task is intended as a non-essential background filler task and can be dropped or rescheduled at convenience. The aim is to gather data for potential analysis of ground geometry or heavy weather conditions, treating it as a background survey or testbed tracking task.
