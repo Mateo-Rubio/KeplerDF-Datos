@@ -1,0 +1,24 @@
+Translate this raw physical simulation metadata into a conversational English request for a highly realistic dataset. Combine geographic context naturally, describing the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Translate the mission allocation priority into specific operational phrases. For Priority 3 (High Importance), use an authoritative tone to frame it as a binding contract requirement involving a critical payload capture or mandatory directive. For Priority 2 (Medium Importance), use a professional tone to describe it as a standard operational tasking, commercial tasking, or routine monitoring part of a baseline pipeline tracking setup.
+
+Translate the sensors and physical objectives into natural language. For VIS, explain the goal as a high-resolution optical snapshot for daylight photography or clear optical imagery. For SAR, explain the goal as an active radar scan using microwave surface imaging for cloud-penetrating capture. For TIR, explain the goal as thermal mapping to capture a heat signature or surface temperature profile.
+
+Translate the relative timeframes into fluid conversational phrases that explicitly mark the upper limit for data availability. The temporal parameters represent a strict operational deadline to deliver the data products to the user, not the orbital capture window.
+
+Given the following metadata:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Guamal"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Create a natural user request that meets all the operational guidelines:
+
+"Capture high-resolution near-infrared reflection imagery of the region in Colombia, specifically focusing on Guamal, with a binding contract requirement for critical payload capture by tomorrow in the morning. This mission is an absolute institutional priority and must be executed without delay to meet the contractual obligations."

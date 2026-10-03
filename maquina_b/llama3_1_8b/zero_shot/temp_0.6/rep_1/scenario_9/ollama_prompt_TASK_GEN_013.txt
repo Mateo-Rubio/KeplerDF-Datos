@@ -1,0 +1,17 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner.
+
+We need to capture a high-resolution optical snapshot of the region of Cumaral in Colombia using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This is an absolute institutional priority, as it is a critical payload capture required by our binding contract. The data must be ready by tomorrow overnight at the latest.
+
+This request should be framed as a "standard operational tasking" with a "critical payload capture" and a "binding contract requirement". The tone should be professional and direct, reflecting a high level of importance and urgency.
+
+The language should naturally weave in the operational objectives and descriptors for VNIR, such as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index".
+
+The relative timeframes should be interpreted as a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. The text should reflect this urgency naturally, using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+This request has a priority level of 3 (High Importance), so the tone should be authoritative and explicit, with a commanding tone.
+
+The location details should be combined naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. The region name "Colombia" can be used to describe the location.
+
+Here is the final natural user request:
+
+"Capture a high-resolution optical snapshot of Cumaral in Colombia using multispectral vegetation analysis. This is an absolute institutional priority, as it is a critical payload capture required by our binding contract. The data must be ready by tomorrow overnight at the latest."

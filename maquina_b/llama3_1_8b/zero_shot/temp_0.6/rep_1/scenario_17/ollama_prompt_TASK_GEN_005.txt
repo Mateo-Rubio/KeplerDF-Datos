@@ -1,0 +1,32 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Translate the following JSON data into a natural, conversational request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The request should be written in a commanding tone, emphasizing the absolute institutional priority and critical payload capture.
+
+Do not mention raw priority numbers or technical priority levels. Instead, use phrases like "absolute institutional priority" or "binding contract requirement."
+
+Translate the primary sensor into a natural description of the physical phenomenon to be observed. For TIR, explain the goal as "thermal mapping" to capture a "heat signature," "surface temperature profile," or for "thermal anomaly detection" and mapping heat emissions.
+
+Do not output raw UTC timestamps, digits, or countdown metrics. Instead, weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest." or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+The location details should be described naturally, combining the 'country', 'city', and 'landmark' fields from 'location_details.' If country, city, or landmark are "N/A," ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name.'
+
+Translate the request into a natural, conversational English request, emphasizing the absolute institutional priority and critical payload capture.
+
+The final request should be written in a commanding tone, with phrases like "absolute institutional priority" or "binding contract requirement." The primary sensor should be translated into a natural description of the physical phenomenon to be observed. The location details should be described naturally, combining the 'country', 'city', and 'landmark' fields from 'location_details.' The deadline should be woven into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Here is the final natural user request:
+
+"Capture a high-priority thermal map of Norte, Brazil, utilizing our TIR sensor to detect heat signatures and surface temperature profiles by the day after tomorrow overnight at the latest. This is an absolute institutional priority, and failure to capture this critical payload will have severe contractual implications."

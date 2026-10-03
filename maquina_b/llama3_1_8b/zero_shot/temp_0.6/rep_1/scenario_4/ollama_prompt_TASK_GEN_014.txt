@@ -1,0 +1,13 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+Given the location details of "Italia" as the country and "Norte" as the city, describe the geographic context of the task. Combine these details naturally to form a realistic description of the location.
+
+The mission allocation priority is set to High Importance (Priority 3). Use an authoritative, explicit, and commanding tone to frame this request as an absolute institutional priority or a binding contract requirement involving a critical payload capture or mandatory directive.
+
+Specify the primary sensor used for the task as Thermal Infrared (TIR) imaging. Explain the goal as thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions.
+
+Finally, incorporate the relative timeframes specified in the target task context JSON into a fluid conversational phrase that explicitly marks the upper limit for data availability. Given the target day is "in three days" and the target diurnal period is "overnight", ensure the products are ingested into the pipeline before tomorrow's overnight block.
+
+The final natural user request should read:
+
+"Conduct an absolute institutional priority thermal mapping task using Thermal Infrared (TIR) imaging to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions over the region of Italia, specifically focusing on the city of Norte. Ensure the products are ingested into the pipeline before tomorrow's overnight block."
