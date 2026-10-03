@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "today." This indicates that the data capture needs to occur on the current day of the request.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the satellite should perform the task.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options provided is "evening." This word will be used verbatim in the final request to specify the timing of the operation.
+
+d) It is crucial to confirm that the deadline is not being shifted. The original request specifies "today" and "in the evening," which means the task must be completed within the evening hours of the current day. There is no indication or allowance to shift this deadline to any other part of the day, such as morning, mid-day, afternoon, or overnight. The operational execution must adhere strictly to these parameters.
+
+### Stage 2 - Final Request
+
+We have an absolute institutional priority task involving a critical payload capture over Tomačevica, Slovenia. This mission is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. We need an active radar scan using microwave surface imaging for cloud-penetrating capture to pierce heavy weather or capture ground geometry. The data must be delivered today, specifically in the evening, reflecting the strict operational deadline without any deviation.
