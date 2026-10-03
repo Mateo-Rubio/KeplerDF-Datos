@@ -1,0 +1,7 @@
+Given the operational guidelines and the specifics provided by the JSON metadata, our Earth-observation mission prioritizes a non-essential background filler task with a flexible schedule for opportunistic capture. This request involves using a VNIR sensor to conduct multispectral vegetation analysis in the form of a daylight snapshot, aiming to assess chlorophyll absorption levels and calculate the NDVI index.
+
+The target day is specified as "in three days", which adheres to our operational deadline without any shifts or extensions. The data collection will occur overnight, a period chosen for its reduced interference with sunlight and potential for clearer imaging conditions suitable for our VNIR sensor's capabilities.
+
+This task is to be executed as part of a standard workflow update within the baseline pipeline tracking setup, representing normal operational status with fixed parameters. As such, it carries a low priority level and will be treated as a background survey or testbed tracking task, allowing for potential rescheduling or dropping at the convenience of the operators without compromising mission priorities.
+
+The Colombian city of San Martín serves as our geographic context, providing the specific location details necessary for this Earth observation mission. The VNIR sensor will capture high-resolution optical imagery to document vegetation health and land use patterns, contributing to our understanding of environmental conditions in the region with minimal impact on operational timelines or resource allocation.
