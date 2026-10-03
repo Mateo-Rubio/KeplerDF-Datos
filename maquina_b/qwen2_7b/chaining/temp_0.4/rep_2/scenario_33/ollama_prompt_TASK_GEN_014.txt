@@ -1,0 +1,31 @@
+Translate the following task request into a highly realistic and conversational English statement:
+
+---
+
+Given the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: The mission targets an unspecified location in Norte, a region without a specific country or city designation. Therefore, we'll describe this area as part of the broader Norte region.
+
+2. MISSION ALLOCATION PRIORITY: This task carries a high level of importance, indicated by priority level 3. It's an "absolute institutional priority", with the request framed as a binding contract requirement involving a "critical payload capture". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is SAR (Synthetic Aperture Radar), which will be used for an active radar scan of the region. This involves microwave surface imaging to penetrate heavy weather conditions or capture ground geometry.
+
+4. DELIVERY DEADLINE: The task must be completed by tomorrow in the evening, as stipulated by an upstream module.
+
+---
+
+Based on these guidelines and the provided context, the Earth-observation mission operator's request can be stated as follows:
+
+---
+
+"Attention automated satellite constellation planner,
+
+This is a high-priority operational task requiring immediate attention. The mission involves capturing critical data using the Synthetic Aperture Radar (SAR) sensor to conduct an active radar scan over the Norte region. The objective is to penetrate heavy weather conditions and capture detailed ground geometry for a comprehensive understanding of the area's terrain.
+
+The task must be executed with urgency, as it's an absolute institutional priority and part of a binding contract requirement involving a 'critical payload capture'. This implies an 'urgent operational execution' and an 'un-preemptable mission lock', highlighting the importance of this request.
+
+The deadline for data availability is tomorrow in the evening. This upper limit for data availability must be strictly adhered to, as it's a stipulation from an upstream module.
+
+Please ensure that all necessary resources are allocated to complete this task promptly and efficiently. We appreciate your attention to this matter and look forward to receiving the requested SAR imagery by tomorrow evening."
+
+---
