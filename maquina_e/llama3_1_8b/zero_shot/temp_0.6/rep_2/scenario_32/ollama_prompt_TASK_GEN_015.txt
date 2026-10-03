@@ -1,0 +1,16 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Tanjung Jabung Timur"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Here is the final natural user request:
+
+"Translate this task as an absolute institutional priority, involving a critical payload capture of thermal mapping to capture a heat signature and surface temperature profile over Indonesia, specifically Tanjung Jabung Timur, using active microwave surface imaging for cloud-penetrating capture. The data must be ready by tomorrow morning at the latest."
