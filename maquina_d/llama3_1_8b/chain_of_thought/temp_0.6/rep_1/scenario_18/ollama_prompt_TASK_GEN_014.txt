@@ -1,0 +1,21 @@
+Translate this task into a single, highly realistic and conversational English request, considering the provided operational guidelines:
+- Translate the raw physical simulation metadata in JSON format below into a natural, conversational English request.
+- Combine the location details naturally, using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'.
+- Describe the location as "absolute institutional priority" due to the high importance level, framing it as a "critical payload capture" or "mandatory directive".
+- Explain the primary sensor's objective as "thermal mapping" for "heat signature" or "surface temperature profile" capture.
+- Integrate the target day and diurnal period into the request, using the verbatim strings.
+
+Target task context JSON:
+  {
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Povici di sotto"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Request:
+We require an absolute institutional priority for thermal mapping of the region, specifically the area around Povici di sotto in Italia, to capture a heat signature or surface temperature profile. This is a critical payload capture due to its high importance level, and it must be executed by in four days. The imaging should take place in the morning, as per the standard operational tasking parameters. This is a binding contract requirement, and any deviation from this schedule may compromise the overall mission objectives.
