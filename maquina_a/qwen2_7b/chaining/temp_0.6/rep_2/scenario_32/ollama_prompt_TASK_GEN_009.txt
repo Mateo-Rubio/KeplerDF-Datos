@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit this task request to the automated satellite constellation planner. The objective is to capture a highly realistic and detailed dataset using a near-infrared sensor over Malaysia's region, specifically the city of Tatau. This request is categorized as a low priority importance task with a flexible schedule for opportunistic capture. We aim to execute this mission during the target day, which is tomorrow around mid-day, to document our surroundings.
+
+The near-infrared sensor will provide us with essential information about water body boundaries and soil moisture assessment, allowing us to discriminate gradients efficiently. The imagery acquired during this time will serve as a valuable resource for environmental monitoring and agricultural applications.
+
+To maximize naturalness and validation accuracy of the dataset, we will interpret the raw physical simulation metadata provided in JSON format organically, combining parameters naturally without using raw technical system tags, underscores, or coordinate arrays. We will describe the location using realistic combinations of the 'country' and 'city' fields from 'location_details', gracefully ignoring any "N/A" values if they exist.
+
+The delivery deadline for this task is tomorrow around mid-day, which represents the upper limit for data availability. As per our guidelines, we will not output raw UTC timestamps, digits, or countdown metrics in this request.
+
+In conclusion, this low priority importance task involves capturing near-infrared imagery over Malaysia's Tatau city, focusing on water body boundaries and soil moisture assessment during the target day's mid-day period. We are looking forward to receiving the dataset that will contribute to our ongoing environmental research and agricultural monitoring efforts.

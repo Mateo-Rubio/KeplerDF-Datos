@@ -1,0 +1,11 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English description based on the provided JSON metadata. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy.
+
+The geographical context involves observing "Monte Romano", a significant landmark situated in the country of "Italia". The operational guidelines dictate that if country, city, or landmark fields are "N/A", we should describe the location using remaining valid fields or the 'region_name'. In this case, "Monte Romano" in "Italia" sufficiently describes the target area.
+
+The mission allocation priority is set at "Priority 1 (Low Importance)". This means that our request will be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", labeling it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is "NIR", which will be employed for near-infrared reflection. The goal here is to assess "water body boundary mapping" or conduct a "soil moisture assessment" to discriminate gradients.
+
+The delivery deadline has been resolved by an upstream module and is set for "in four days overnight". This phrase must be inserted VERBATIM into the request, as it represents the upper limit for data availability.
+
+In conclusion, our task request aims to capture "water body boundaries" or assess "soil moisture" gradients using a "NIR sensor" at Monte Romano in Italia. The operation will take place during the "overnight" period within the "four-day window", aligning with the low-priority status and flexible schedule of this task.
