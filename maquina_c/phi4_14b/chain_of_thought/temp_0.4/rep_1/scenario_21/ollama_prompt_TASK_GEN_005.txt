@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products are expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite should capture the data.
+
+c) The single word contained in that string is "morning". This word must appear literally in the final request to specify the time of data capture.
+
+d) It is important to confirm that we are not shifting the deadline to an adjacent part of the day. The instructions clearly state that the temporal parameters represent a strict operational DEADLINE, and any alteration would be against the guidelines. Therefore, the deadline remains "in three days" and "in the morning".
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a critical payload capture over the region of Norte. This mission is a binding contract requirement involving a near-infrared reflection task to assess soil moisture levels and discriminate gradients. The operation must be executed with urgent operational execution, ensuring an un-preemptable mission lock. The data capture should occur in three days, specifically in the morning, adhering strictly to these parameters without any deviation.

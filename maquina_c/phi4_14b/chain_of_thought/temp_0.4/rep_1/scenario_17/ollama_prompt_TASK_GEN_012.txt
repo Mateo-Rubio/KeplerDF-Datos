@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified time frame is strictly "in four days" and "in the morning," which indicates a precise operational deadline without any adjustments to other parts of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite mission over Indonesia, specifically focusing on the city of Ecuatorial. The request involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture and ground geometry mapping. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need this data delivered in four days, specifically in the morning, to ensure it fits within our workflow update schedule.
