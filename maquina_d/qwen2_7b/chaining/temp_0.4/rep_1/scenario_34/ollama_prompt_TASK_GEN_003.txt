@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided JSON metadata. The objective is to translate raw physical simulation data into a single, detailed request that maximizes naturalness and validation accuracy by interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+Geographically, we're focusing on Indonesia, specifically in an area known as Ecuatorial, combining the country and city details from 'location_details'. The task involves utilizing a Thermal Infrared (TIR) sensor for thermal mapping purposes. This operation aims to capture a heat signature or surface temperature profile, essential for thermal anomaly detection and mapping heat emissions in this region.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating it's part of the standard operational tasking with fixed parameters representing normal operational status. We emphasize this as a baseline pipeline tracking setup that requires attention without being an urgent operational execution or a binding contract requirement.
+
+The delivery deadline for this task is tomorrow in the evening, as stipulated by an upstream module. This phrase should be included verbatim in our request, highlighting the upper limit for data availability without any rephrasing or adjustments to the time of day.
+
+In summary, our request will weave together these details into a cohesive paragraph that captures the essence of the mission's purpose, its operational importance, and the specific parameters involved. We'll ensure to avoid technical jargon and raw JSON keys, focusing instead on natural language that reflects the mission's objectives and priorities while adhering to the deadline.

@@ -1,0 +1,11 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English description based on the provided raw physical simulation metadata in JSON format. Our objective is to translate this data into a single request that maximizes naturalness and validation accuracy while adhering to operational guidelines.
+
+Given the context of the task, we are focusing on Malaysia, a country known for its rich biodiversity and unique landscapes, which is our geographic context. The target location details indicate an "Ecuatorial" city, suggesting a specific area within Malaysia with unique environmental characteristics that warrant satellite observation.
+
+The primary sensor specified for this mission is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging techniques. This powerful tool enables us to capture cloud-penetrating imagery and ground geometry details, essential for understanding the physical landscape of the region under various weather conditions.
+
+The priority level for this task is set at 1, indicating a low importance request with a flexible schedule for opportunistic capture. We frame this as a "non-essential background filler task" that can be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has already been resolved by an upstream module. The target day is scheduled for four days in the morning, emphasizing the importance of capturing data during optimal lighting conditions for clear imagery.
+
+In conclusion, our request to the automated satellite constellation planner is as follows: "We are seeking a detailed SAR scan of Malaysia's Ecuatorial region on the specified target day and time. This mission aims to capture cloud-penetrating imagery and ground geometry details using microwave surface imaging techniques. Given its low priority level, this task can be considered a flexible background survey or testbed tracking task with no strict deadlines beyond the four-day window in the morning. We appreciate your attention to this request and look forward to receiving the data that will contribute to our understanding of the region's environmental dynamics."

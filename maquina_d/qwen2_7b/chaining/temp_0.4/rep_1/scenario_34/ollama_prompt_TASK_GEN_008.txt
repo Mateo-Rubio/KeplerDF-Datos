@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the most accurate dataset possible.
+
+The geographic context revolves around Norte, a city in an unspecified country which is part of our region's focus. We're tasked with capturing a thermal mapping perspective on this area using a TIR sensor during the overnight hours three days from now. This is an absolute institutional priority, implying a binding contract requirement involving a critical payload capture that must be executed urgently and cannot be preempted.
+
+The operational guidelines guide us to avoid technical tags and coordinate arrays, so we'll describe the location using a realistic combination of fields from 'location_details'. Since 'country' and 'city' are "N/A", we'll use the 'region_name' if available or describe it using other valid fields. In this case, we don't have enough details to provide a specific country or city name, so we'll simply refer to Norte as our geographic focus.
+
+The mission allocation priority is set at High Importance (Priority 3). This means that this request carries significant authority and contractual value in our operational hierarchy. We're framing this task as an urgent operation with an un-preemptable mission lock, emphasizing the critical nature of capturing thermal anomalies and mapping heat emissions.
+
+To ensure naturalness and validation accuracy, we'll interpret the sensor objectives organically. The primary sensor is TIR, which will be used for thermal mapping to capture a heat signature or surface temperature profile. This could involve assessing heat emissions or conducting thermal anomaly detection.
+
+The deadline for this task has been resolved by an upstream module: "in three days overnight". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. We're not rephrasing it, shortening it, or moving it to a different part of the day; we're sticking to the exact wording provided.
+
+In summary, our task request is for an urgent thermal mapping operation using TIR sensors on Norte, which is part of our region's focus. This request carries high importance and must be executed during the overnight hours three days from now. We're aiming for the most accurate dataset possible through this natural interpretation of the metadata provided.

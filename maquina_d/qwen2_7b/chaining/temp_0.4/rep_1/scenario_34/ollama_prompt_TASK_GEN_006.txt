@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. The task context involves capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation from Indonesia, specifically the region of Ecuatorial, as per the operational guidelines.
+
+Given that this request is of low importance, it should be framed with a casual, highly flexible, or opportunistic tone. The operator explicitly notes that this task is a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The deadline for this task has already been resolved by an upstream module, being "in four days overnight".
+
+The primary sensor involved in this mission is VIS (visual imagery), which will be utilized to capture the desired optical snapshot. This sensor aims to provide detailed visual information suitable for daylight photography and true-color documentation of the region.
+
+In conclusion, my request to the automated satellite constellation planner is as follows:
+
+"Please schedule an opportunistic capture task for a high-resolution optical snapshot from Indonesia, specifically the Ecuatorial region, using the VIS primary sensor. This task is of low priority importance and should be treated as a background survey or testbed tracking task with a flexible schedule. The deadline for this task is 'in four days overnight', ensuring that the data availability aligns with our operational requirements."
+
+Thank you for your attention to this matter.
