@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "overnight." This word must be included verbatim in the final request.
+
+d) The deadline specified for delivering the data products is "today" during the "overnight" period. I am not shifting this deadline to any other part of the day; it remains as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for today, focusing on Setiris in Indonesia. This involves a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate a vegetation NDVI index. It is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data collection should occur overnight, adhering strictly to this timeline as part of our routine monitoring efforts.
