@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, single, and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Colombia, specifically focusing on San Pablo, which is a region of interest for our mission. We aim to gather data using the primary sensor VIS, which will provide us with a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation of the area.
+
+Given the priority level of 1, this task is framed as a low priority importance request with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task that can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The deadline for this task has been resolved by an upstream module and is set for "in four days around mid-day". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our mission allocation priority is set at low importance, with the primary sensor VIS capturing high-resolution optical imagery of San Pablo, Colombia. The deadline is "in four days around mid-day", and this task is treated as an opportunistic background survey or testbed tracking task.

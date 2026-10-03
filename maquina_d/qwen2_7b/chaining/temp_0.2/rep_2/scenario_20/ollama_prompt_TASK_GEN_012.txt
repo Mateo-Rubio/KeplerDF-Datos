@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves a 'primary_sensor' set to VNIR, which we interpret as a "multispectral vegetation analysis" aimed at assessing the "chlorophyll absorption level" or calculating the "NDVI index" for surface reflectance.
+
+The geographic context is centered around Malaysia, with a specific target location in Tatau. Although the 'city' field is provided, it's not feasible to include due to its "N/A" status; thus, we'll describe the region using the 'country' field, focusing on Malaysia as our primary reference point.
+
+The mission allocation priority is set at Level 1, indicating a "low priority importance". This request is framed as a "flexible schedule" task, treating it as a "background survey" or "testbed tracking task", with an explicit note to "drop or reschedule at convenience".
+
+The delivery deadline for this task has been resolved by an upstream module, and the upper limit for data availability is set as "tomorrow overnight". This phrase must be inserted verbatim into our request, serving as the stated time frame without any rephrasing, shortening, or relocation to a different part of the day.
+
+In summary, our request is to capture a "multispectral vegetation analysis" in Malaysia, with a focus on Tatau, utilizing VNIR sensors for an assessment of chlorophyll absorption levels or calculating NDVI indices. This task is considered a "background survey" with a flexible schedule and a deadline set for "tomorrow overnight". We're looking forward to receiving the data within this timeframe to support our ongoing monitoring efforts.

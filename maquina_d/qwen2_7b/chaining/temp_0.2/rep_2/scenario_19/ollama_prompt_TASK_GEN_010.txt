@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'TIR' primary sensor with a delivery deadline of "tomorrow in the evening". 
+
+Our geographic context involves Colombia, specifically the city of Puerto Wilches. This location requires capturing thermal mapping data for heat signature detection and surface temperature profiling. The mission allocation priority is set to 'Low Importance', indicating that this task is part of a flexible schedule for opportunistic capture as a "background survey" or "testbed tracking task". 
+
+To maximize naturalness and validation accuracy, we're interpreting the metadata organically by combining parameters naturally. We're not using raw technical system tags, underscores, or coordinate arrays in our final output. If country, city, or landmark are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'. 
+
+In summary, our request is to capture thermal data for heat signature detection and surface temperature profiling in Puerto Wilches, Colombia, with a deadline of "tomorrow in the evening". This task is part of a low priority importance request, which is treated as a "background survey" or "testbed tracking task", allowing for flexible scheduling. Our goal is to provide valuable insights into heat emissions without compromising operational efficiency.

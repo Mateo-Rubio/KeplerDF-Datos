@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing a high-resolution optical snapshot of daylight photography in Puerto Libertador, Colombia. This location combines the country field with the city name for a natural description. If any fields like 'landmark' are "N/A", we would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to Low Importance (Priority 1). This means that this request is treated as a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, which can be dropped or rescheduled at convenience and is considered a background survey or testbed tracking task.
+
+The primary sensor to be used is VIS (Visible Imaging Sensor). The operational objective here is to assess the goal as a true-color visual documentation of the scene. This involves capturing clear optical imagery that can provide detailed information about the landscape, urban areas, or natural features during daylight hours.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set for "in three days around mid-day". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request is to capture a high-resolution optical snapshot of daylight photography in Puerto Libertador, Colombia, with a VIS sensor, due in three days around mid-day. This task is treated as a low priority importance request with a flexible schedule for opportunistic capture.

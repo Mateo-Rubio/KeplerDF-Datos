@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy in the dataset.
+
+The geographic context involves Malaysia, specifically Bukit Mabong city, with the primary sensor being SAR (active radar scan) for an overnight mission allocation priority level 3 task. This indicates an absolute institutional priority or a binding contract requirement involving a critical payload capture, implying urgent operational execution and an un-preemptable mission lock.
+
+The target day is today, with the delivery deadline set for "today overnight". The location details include Malaysia and Bukit Mabong city, providing a realistic combination of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", they would be gracefully ignored, describing the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority level is interpreted as follows: Priority 3 (High Importance) uses an authoritative tone, framing this request as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+Sensors and physical objectives involve the primary sensor being SAR, which is interpreted as an active radar scan using microwave surface imaging for cloud-penetrating capture. This allows piercing heavy weather or capturing ground geometry.
+
+The delivery deadline is set for "today overnight", which is the upper limit for data availability, as resolved by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, this task request aims to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy in the dataset while adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.

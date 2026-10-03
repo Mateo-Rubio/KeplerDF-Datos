@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary objective is to capture high-resolution optical imagery of a specific location in the region named "Italia Norte". This area requires a detailed assessment of its vegetation health and potential water body boundaries due to recent environmental changes.
+
+Given the nature of this request, it falls under Priority Level 1, which means it's considered a low priority importance task with a flexible schedule for opportunistic capture. The operator explicitly notes that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor to be used for this mission is the VNIR (Visible Near-Infrared) sensor, which will provide valuable data on chlorophyll absorption levels and surface reflectance. This information is crucial for understanding the health of vegetation in the area and assessing gradients that might indicate changes in soil moisture or water body boundaries.
+
+The delivery deadline for this task has been set as "the day after tomorrow during the afternoon". This upper limit for data availability must be strictly adhered to, as it represents the final window for capturing the required data. The operator ensures that no raw UTC timestamps, digits, or countdown metrics are included in this request.
+
+In summary, our mission aims to gather VNIR imagery of a specific location in "Italia Norte" with a focus on vegetation health and water body boundaries. This task is considered a low priority importance request, with the deadline set for "the day after tomorrow during the afternoon". The operator emphasizes adherence to the deadline and flexibility in scheduling this background survey or testbed tracking task.

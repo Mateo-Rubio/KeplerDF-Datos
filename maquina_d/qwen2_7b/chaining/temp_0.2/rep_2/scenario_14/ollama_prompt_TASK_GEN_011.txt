@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing a "multispectral vegetation analysis" of the region named "Montaquila", located in the country of "Italia". This task aims to assess the "chlorophyll absorption level" and calculate the vegetation "NDVI index" for the area. The operational priority is set at "low importance", indicating that this request is a "flexible schedule" task, suitable for "opportunistic capture" as part of a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized is "VNIR", which will provide "multispectral data" for the region. This data will help in understanding the surface reflectance and vegetation health without the interference of cloud cover.
+
+The deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being "tomorrow overnight". This phrase should be inserted verbatim into the request, as it represents the stated time frame for data delivery.
+
+In conclusion, our mission aims to gather valuable insights on the vegetation health of Montaquila using VNIR technology, ensuring that the information is captured during the overnight period to avoid any potential cloud cover. This task is part of our baseline pipeline tracking setup with "fixed parameters", representing a standard "workflow update" in our operational status.

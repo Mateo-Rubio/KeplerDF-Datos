@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Indonesia's Kapuas region in the evening today. Our mission allocation priority is set at low importance, indicating a flexible schedule for opportunistic capture. The primary sensor we're focusing on is TIR, aiming to capture thermal mapping data for heat signature detection and surface temperature profiling.
+
+Given the operational guidelines, I'll interpret the metadata naturally without using raw technical system tags or coordinate arrays. I'll combine the JSON parameters into a realistic description of the location by mentioning Indonesia and Kapuas city. Since 'landmark' is not provided, I'll describe the region based on the available details.
+
+The request will be framed as a low priority importance task with a flexible schedule for opportunistic capture. The language must emphasize that this is a non-essential background filler task, which can be dropped or rescheduled at convenience. It's treated as a background survey or testbed tracking task, not requiring urgent attention.
+
+To maximize the naturalness and validation accuracy of the dataset, I'll interpret the metadata organically according to these operational guidelines. The final request will seamlessly integrate the operational objectives and descriptors for the physical phenomenon to be observed using TIR sensor, explaining it as thermal mapping to capture heat signatures and surface temperature profiles.
+
+The deadline for this task has already been resolved by an upstream module: "today in the evening". This phrase must be inserted verbatim into the request as the stated upper limit for data availability. The request will not include raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our Earth-observation mission operator is submitting a low priority importance task with a flexible schedule for opportunistic capture of thermal mapping data using the TIR sensor in Indonesia's Kapuas region during the evening today. The request will be framed to reflect the operational guidelines and priorities outlined above.

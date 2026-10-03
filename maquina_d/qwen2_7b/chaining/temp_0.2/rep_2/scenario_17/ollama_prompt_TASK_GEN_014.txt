@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate the interpretation of keys such as 'region_name', 'location_details', 'priority_level', 'primary_sensor', and 'target_day' and 'target_diurnal_period'. 
+
+The geographic context involves describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'. The mission allocation priority will be interpreted as follows: Priority 3 (High Importance) uses an authoritative tone, framing it as an "absolute institutional priority" or a "binding contract requirement". Priority 2 (Medium Importance) employs a professional tone, describing this request as part of a "standard operational tasking" or "commercial tasking". Priority 1 (Low Importance) adopts a casual tone, treating it as a "low priority importance" request with a "flexible schedule".
+
+Sensors and physical objectives will be woven into the request to explain the physical phenomenon to be observed. For instance, VIS sensors aim for "high-resolution optical snapshots", SAR sensors use "active radar scans" for "cloud-penetrating capture", TIR sensors capture "thermal mapping" for "heat signature detection", VNIR sensors assess "multispectral vegetation analysis", and NIR sensors map "water body boundaries" or "soil moisture assessment".
+
+The delivery deadline is set for "today overnight". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+Given the target task context JSON provided:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Marola"
+  },
+  "priority_level": 1,
+  "target_day": "today",
+  "target_diurnal_period": "overnight"
+}
+
+The request for today's overnight task involves capturing the "near-infrared reflection" of Marola, Italy, as part of a "background survey". This low priority importance task allows for a flexible schedule and can be treated as a "testbed tracking task", acknowledging that it can be "dropped or rescheduled at convenience".

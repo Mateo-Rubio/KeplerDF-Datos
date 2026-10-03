@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing imagery of the city of Vigonza in Italia. Combining the JSON parameters naturally, we describe this location using the realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, as indicated by the JSON key 'priority_level'. We interpret this as a standard operational tasking that involves normal operational status or a routine monitoring part of a baseline pipeline tracking setup. The language must reflect fixed parameters representing normal operational status.
+
+The primary sensor to be used is NIR (near-infrared), which we explain as an objective for near-infrared reflection to map water body boundaries and assess soil moisture. This task aims to capture data that can help discriminate gradients in the environment.
+
+The delivery deadline for this task has already been resolved by an upstream module, set for "the day after tomorrow in the evening". We insert this phrase verbatim into our request as the stated upper limit for data availability, without rephrasing or shortening it and ensuring it's placed at the specified time of day.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution optical snapshots of Vigonza in Italia using the NIR sensor on the day after tomorrow in the evening. This task is part of a standard operational pipeline tracking setup with fixed parameters representing normal operational status.
