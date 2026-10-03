@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies that data capture should occur "in the evening" on "the day after tomorrow," and this timeframe will be adhered to without any changes.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for our satellite constellation planner, focusing on capturing thermal mapping over Banting, Malaysia. This request is flexible in scheduling, allowing for opportunistic capture, and can be dropped or rescheduled at convenience if needed. Our goal is to obtain a heat signature or surface temperature profile through thermal anomaly detection over this area. We are looking to deliver these thermal data products by the evening of the day after tomorrow, treating this as a background survey task within our broader mission objectives.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves analyzing the JSON metadata provided for an Earth-observation mission. The key elements to focus on are the temporal and priority details, as well as how they translate into a natural language request.
+
+a) The exact string found in 'target_day' is "in three days". This indicates the deadline by which the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the satellite should capture the necessary imagery or data.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "overnight". This will be explicitly included in the final request to describe the timing of the operation.
+
+d) It is crucial to confirm that the deadline specified by 'target_day' and 'target_diurnal_period' is not altered. The mission must be executed strictly within the timeframe of "in three days" during the "overnight" period, without any shifts to another part of the day. This ensures adherence to the operational guidelines and maintains the integrity of the mission's deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority task requiring urgent operational execution with an un-preemptable mission lock. The objective is to conduct thermal mapping for capturing a heat signature in Indonesia, specifically near Ecuatorial. This involves a critical payload capture using thermal imaging to detect surface temperature profiles and thermal anomalies. The data must be delivered within three days, focusing on the overnight period. This task is of high importance and must be prioritized accordingly in the satellite constellation's planning schedule.

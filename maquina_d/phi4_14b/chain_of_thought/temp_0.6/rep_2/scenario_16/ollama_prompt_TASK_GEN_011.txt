@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days." This indicates the deadline for delivering the data products.
+
+b) The exact string found in 'target_diurnal_period' is "around mid-day." This specifies when during the day the data should be captured.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options provided is "mid-day." This word will appear literally in the final request.
+
+d) It's important to confirm that the deadline specified by the temporal parameters, "in three days" and "around mid-day," is not shifted to any other part of the day. The operational requirement is strict: data must be delivered on the specified day and time without any adjustments or reinterpretations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an absolute institutional priority task involving a critical payload capture over the region near Norte. This mission is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. We need a high-resolution optical snapshot for clear optical imagery, ensuring true-color visual documentation of the area. The data products are required in three days around mid-day. This task is of high importance and must be executed as specified without preemption.

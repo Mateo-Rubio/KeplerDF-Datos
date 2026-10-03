@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days." This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "morning." This word will be used verbatim in the final request to specify the time of day for the task.
+
+d) It is important to adhere strictly to the provided deadline parameters without any adjustments. The task must occur "in three days" and specifically "in the morning." There should be no shifts or reinterpretations to an adjacent part of the day, ensuring that the operational deadline remains as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are tasked with executing a standard operational tasking over Indonesia, specifically targeting the city of Ecuatorial. This involves capturing high-resolution optical snapshots for clear daylight photography and true-color visual documentation using VIS sensors. The mission is a routine monitoring component of our baseline pipeline tracking setup, with fixed parameters reflecting normal operational status. We must ensure that this data product is delivered "in three days," specifically "in the morning."
