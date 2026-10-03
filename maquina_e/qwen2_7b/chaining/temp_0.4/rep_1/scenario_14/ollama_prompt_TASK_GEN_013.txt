@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+Given the context of observing Suratá, Colombia, with a primary SAR sensor, we aim for a low priority importance task. This request involves capturing an active radar scan using microwave surface imaging to provide cloud-penetrating capture, essential for understanding ground geometry amidst heavy weather conditions. The goal is to ensure that this "standard operational tasking" is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task. This task is not considered an urgent operational execution but rather a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The delivery deadline for this task has already been resolved by an upstream module and is set for "in three days around mid-day". We must insert this phrase verbatim into our request as the stated upper limit for data availability, without rephrasing or altering the time of day.
+
+In conclusion, our task request focuses on capturing detailed information about Suratá, Colombia, using a SAR sensor to provide insights into ground geometry and weather conditions through microwave surface imaging. This request is part of our standard operational tasks with fixed parameters, aligning with our baseline pipeline tracking setup for normal operational status.
