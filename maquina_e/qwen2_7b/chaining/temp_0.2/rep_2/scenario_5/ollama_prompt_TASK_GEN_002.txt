@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves capturing imagery of Poggi del Sasso, located in the beautiful country of Italia. This location is described with a sense of realism by combining the 'country' and 'city' fields from 'location_details'. If necessary, the 'region_name' field would be used to describe the area when 'country', 'city', or 'landmark' are unavailable.
+
+The mission allocation priority is set at Level 1 (Low Importance), which requires a casual tone with a flexible schedule for opportunistic capture. This task is labeled as a "low priority importance" request, with a "flexible schedule" for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique is crucial for capturing ground geometry, even through heavy weather conditions, making it ideal for "cloud-penetrating capture". The goal is to obtain detailed information about the area's surface features and structure.
+
+The delivery deadline is set for "the day after tomorrow in the morning", which is the upper limit for data availability. This phrase must be inserted verbatim into the request, without any rephrasing or alterations.
+
+In summary, this Earth-observation mission aims to capture high-resolution SAR imagery of Poggi del Sasso in Italia during the morning hours on the day after tomorrow. The task is considered a low priority background survey with flexible scheduling requirements and an urgent operational execution due to its importance level. The SAR sensor will provide critical information about the area's surface features, making this request essential for our baseline pipeline tracking setup.

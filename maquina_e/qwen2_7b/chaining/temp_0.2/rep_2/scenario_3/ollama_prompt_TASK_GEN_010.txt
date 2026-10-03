@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines provided for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves observing an area in Colombia, specifically the city of Monterrey. We'll describe this location using realistic combinations of country, city, and landmark fields from 'location_details', gracefully handling any "N/A" entries by describing the region using remaining valid fields or 'region_name'.
+
+The mission allocation priority is medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We'll frame this request as a routine monitoring activity that involves capturing data under fixed parameters.
+
+The primary sensor is NIR (near-infrared), which we'll explain as the goal for near-infrared reflection to map water body boundaries and assess soil moisture, distinguishing gradients in the landscape.
+
+The delivery deadline is set for three days overnight. We've inserted this phrase verbatim into our request, adhering to the upper limit for data availability without rephrasing or altering it.
+
+In summary, our task request involves capturing near-infrared reflection data of water bodies and soil moisture assessment over an area in Colombia's Monterrey city, with a medium priority level and a deadline set for three days overnight. This request is part of our standard operational tasks, contributing to our baseline pipeline tracking setup with normal operational status.
