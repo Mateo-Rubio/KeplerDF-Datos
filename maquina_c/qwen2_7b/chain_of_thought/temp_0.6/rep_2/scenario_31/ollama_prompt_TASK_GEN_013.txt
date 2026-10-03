@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the JSON metadata provided, the Earth-observation mission operator would formulate a task request as follows:
+
+The task at hand involves capturing high-resolution near-infrared (NIR) imagery overnight today over Tuluá, Colombia. This request is classified as medium importance, aligning with standard operational tasking or commercial monitoring activities. The deadline set for this mission is at midnight tonight, which represents the strict operational deadline to deliver the data products without altering, extending, or shifting the timeframe.
+
+The NIR sensor will be used to map water body boundaries and assess soil moisture levels, providing critical insights into the local environmental conditions that are essential for agricultural planning and water management. The imagery will capture thermal anomalies, offering a detailed view of heat emissions and surface temperatures across the region.
+
+This mission is part of our baseline pipeline tracking setup, featuring fixed parameters and standard operational status. It is imperative to execute this task as specified to ensure accurate data collection without compromising the integrity or timeliness of the information provided by the satellite constellation planner.
