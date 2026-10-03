@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for delivering the data products, emphasizing that the task must be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when the observation should ideally occur, aligning with the operational requirements for capturing the necessary data.
+
+c) The single word contained in the string "in the evening" is "evening." This word must be included verbatim in the final request to accurately reflect the specified time of day for the task.
+
+d) It is crucial to confirm that the deadline is not being shifted to another part of the day. The instruction specifies "in the evening," and this must remain unchanged to ensure compliance with the operational requirements. The deadline is strictly tied to this diurnal period, and any alteration would misrepresent the original task parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a thermal mapping mission over Kutai Timur, Indonesia. This involves capturing a heat signature or surface temperature profile using thermal infrared sensors. The task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need the data delivered in three days, specifically in the evening. This routine monitoring aligns with our workflow update requirements and ensures consistent data acquisition for ongoing analysis.
