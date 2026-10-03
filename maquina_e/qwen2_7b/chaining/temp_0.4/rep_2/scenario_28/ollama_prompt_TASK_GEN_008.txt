@@ -1,0 +1,22 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, conversational English request based on the raw physical simulation metadata provided in JSON format below:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Diano Borello"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The request involves a VIS sensor to obtain a daylight optical snapshot of the region in Diano Borello, Italia. This task is of low priority importance and is treated as a flexible schedule background survey. The goal is to document clear optical imagery or true-color visual documentation of the area for potential future use.
+
+As per operational guidelines:
+1. GEOGRAPHIC CONTEXT: The location details include "Italia" and "Diano Borello", which will be described naturally without raw technical system tags or coordinate arrays.
+2. MISSION ALLOCATION PRIORITY: Since this task has a priority level of 1, it is framed as a low priority importance request with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, to be dropped or rescheduled at convenience.
+3. SENSORS AND PHYSICAL OBJECTIVES: The VIS sensor is used for high-resolution optical photography in daylight conditions.
+4. DELIVERY DEADLINE: The deadline for this task is specified as "the day after tomorrow overnight".
+
+In conclusion, our request is to capture a VIS sensor image of Diano Borello, Italia, on the day after tomorrow during the overnight period. This low-priority task aims to provide clear daylight photography or true-color visual documentation of the area for background survey purposes.

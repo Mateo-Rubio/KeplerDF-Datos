@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request, maximizing the naturalness and validation accuracy of the dataset.
+
+The geographic context involves capturing data from Colombia, specifically focusing on the city of Ibagué. The operational guidelines require interpreting JSON parameters organically without using raw technical system tags, underscores, or coordinate arrays. Instead, we should combine the 'country', 'city', and 'landmark' fields naturally and describe the location using realistic combinations.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture as part of a non-essential background filler task. The language must explicitly frame this request as a "low priority importance" with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor used for the physical observation is Near-Infrared (NIR). The goal of this task involves capturing "near-infrared reflection" to map water body boundaries and assess soil moisture, which will help discriminate gradients effectively.
+
+The delivery deadline for this task has already been resolved by an upstream module. The stated upper limit for data availability is "tomorrow overnight", meaning the data must be delivered by the end of tomorrow's night period.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please capture near-infrared reflection data from Colombia, focusing on the city of Ibagué, with a flexible schedule for opportunistic capture. This task is part of a low priority importance background survey or testbed tracking task, aiming to map water body boundaries and assess soil moisture by tomorrow night."
+
+This request adheres to operational guidelines, interpreting metadata organically, using realistic language, and integrating specific operational phrases to reflect the structural hierarchy of mission allocation priorities while ensuring clarity on sensor objectives, geographic context, and delivery deadlines."

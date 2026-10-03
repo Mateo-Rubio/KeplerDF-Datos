@@ -1,0 +1,12 @@
+To the automated satellite constellation planner,
+
+Requesting a task for an Earth observation mission with a low priority importance. This operational tasking involves capturing a "low-resolution multispectral vegetation analysis" using VNIR sensors to assess the "chlorophyll absorption level" and calculate the "NDVI index" of vegetation health in the region of interest, located in Indonesia, specifically near the equator. The city mentioned is "Ecuatorial", but since it's not clearly defined, we'll describe this location as being within Indonesia's geographical context.
+
+The mission allocation priority for this task is labeled as Priority 1 (Low Importance), which means it's a "non-essential background filler task" with a flexible schedule. The operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task". This request is part of our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".
+
+The delivery deadline for this task has been set by an upstream module: "in three days around mid-day". The operator must ensure that the data will be available within this timeframe, as stated verbatim. No raw UTC timestamps, digits, or countdown metrics should be included in this request.
+
+Please proceed with capturing the necessary multispectral imagery to fulfill this task requirement.
+
+Best regards,
+[Your Name]

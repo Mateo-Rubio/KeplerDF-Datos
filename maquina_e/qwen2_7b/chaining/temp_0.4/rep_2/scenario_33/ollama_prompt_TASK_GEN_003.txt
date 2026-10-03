@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context of our mission involves capturing high-resolution optical imagery from Indonesia, specifically from the city of Ecuatorial. This location provides us with an opportunity to document daylight photography, clear optical imagery, and true-color visual documentation of the region's landscape.
+
+Given the priority level of this task being 1 (low importance), I'm framing it as a low priority importance request with a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience. This is a background survey or testbed tracking task that doesn't require immediate attention.
+
+The primary sensor we're utilizing for this mission is VNIR (Vegetation Indices Reflectance), which will enable us to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This will help us understand surface reflectance patterns and provide valuable insights into the health of the vegetation in the area.
+
+The deadline for this task has already been resolved by an upstream module, and it's set for "the day after tomorrow during the afternoon". We must insert this phrase verbatim into our request as the stated upper limit for data availability. This ensures that our satellite constellation is aware of the specific time frame within which we need to capture the data.
+
+In conclusion, our mission aims to capture high-resolution optical imagery from Indonesia's Ecuatorial region using VNIR sensors during the afternoon of "the day after tomorrow". This task is categorized as a low priority importance request with flexible scheduling requirements. We're looking forward to receiving the data by the specified deadline to support our ongoing research and monitoring activities.

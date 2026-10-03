@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. 
+
+The geographic context involves observing Indonesia's equatorial region, with a focus on capturing daylight photography through high-resolution optical imagery in the evening. The primary sensor used for this mission is VNIR, designed for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index.
+
+This task is categorized under medium importance (Priority Level 2), representing a standard operational tasking within our baseline pipeline tracking setup. We're dealing with fixed parameters that ensure normal operational status and workflow updates without any urgent deadlines.
+
+The delivery deadline for this task has been resolved by an upstream module, specifying that the data should be available tomorrow in the evening. This phrase is included verbatim in our request to respect the upper limit for data availability, ensuring no raw UTC timestamps or rephrasing are used.
+
+In conclusion, this mission aims to capture essential data on Indonesia's equatorial region, focusing on vegetation health and environmental conditions through VNIR sensor observations. We're treating it as a routine task with fixed parameters that align with our standard operational status and workflow updates.

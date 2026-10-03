@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that maximizes naturalness and validation accuracy.
+
+Our geographic context involves the Indonesian region, with a specific focus on the Ecuatorial city. This location requires us to capture a high-resolution optical snapshot for daylight photography, true-color visual documentation, and clear optical imagery, essential for understanding the landscape under bright sunlight conditions.
+
+The mission allocation priority is of low importance, indicating that this request can be treated as a flexible schedule task with an opportunistic capture approach. We are explicitly noting it as a non-essential background filler task that can be dropped or rescheduled at convenience, fitting into our baseline pipeline tracking setup with normal operational status.
+
+The primary sensor involved in this task is VNIR, which will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index. This process will help us understand the health of the vegetation and surface reflectance patterns.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data available on "the day after tomorrow around mid-day". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. There is no need to rephrase or shorten it, nor move it to a different part of the day.
+
+In summary, we are requesting a low priority importance task that involves capturing high-resolution optical imagery using VNIR sensors over the Indonesian Ecuatorial region on the specified date and time. This task will contribute to our baseline pipeline tracking setup with normal operational status, fitting into our opportunistic capture approach for background survey or testbed tracking tasks.
