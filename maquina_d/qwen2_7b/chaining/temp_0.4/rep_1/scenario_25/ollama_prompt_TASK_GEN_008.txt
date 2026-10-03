@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, following organic interpretation guidelines.
+
+The geographic context involves capturing data on a location in Italy, specifically Prati di Tivo. This area requires a detailed and realistic description that combines country, city, and landmark fields from 'location_details'. Since 'landmark' is not provided, we'll focus on 'country' and 'city', describing the region as a part of Italy.
+
+The mission allocation priority level is set at medium importance (Priority 2), which involves professional, direct, and standard operational language. This task is considered a standard operational tasking or commercial tasking, part of a baseline pipeline tracking setup with fixed parameters that represent normal operational status. The language must imply an urgent operational execution and an un-preemptable mission lock.
+
+The primary sensor for this mission is the VNIR (Visible Near-Infrared), which will be used to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. This involves assessing the health of vegetation, plant density, and soil moisture content.
+
+The deadline for this task has already been resolved by an upstream module and is set as "in four days in the morning". The request must include this phrase verbatim as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, the Earth-observation mission operator requests the automated satellite constellation planner to capture VNIR data on Prati di Tivo, Italy, in the morning four days from now. This task is considered a standard operational tasking with medium importance and will be executed as part of a baseline pipeline tracking setup with fixed parameters.

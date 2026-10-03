@@ -1,0 +1,9 @@
+Please allocate an Earth-observation mission with high priority for the day after tomorrow overnight. The task involves capturing a low-priority importance, flexible schedule background survey using the VNIR sensor to assess chlorophyll absorption levels and calculate the vegetation NDVI index in Ecuatorial, Indonesia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The purpose of this request is to gather data on surface reflectance for environmental monitoring purposes without strict deadlines or operational urgency.
+
+The operational guidelines dictate that we should not use raw technical system tags, underscores, or coordinate arrays in our final output. We must describe the location using realistic combinations of the country, city, and landmark fields from 'location_details'. If the country, city, or landmark are "N/A", we will describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is as follows: Priority 1 (Low Importance) indicates a casual, highly flexible or opportunistic tone with a flexible schedule for opportunistic capture. This request is explicitly framed as a low priority importance task with a flexible schedule for background survey purposes.
+
+The primary sensor involved in this observation is VNIR, which is interpreted as "multispectral vegetation analysis" to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance.
+
+The deadline for this task has already been resolved by an upstream module. It is specified as "the day after tomorrow overnight", which must be inserted verbatim into our request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.

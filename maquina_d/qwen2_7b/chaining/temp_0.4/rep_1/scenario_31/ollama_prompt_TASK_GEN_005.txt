@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Let's delve into the specifics:
+
+The geographic context involves capturing thermal mapping data of a location in Italy, specifically in the city of Roasio. Without relying on raw technical system tags or coordinate arrays, we describe this as an effort to capture the heat signature of the region, aiming for a surface temperature profile and thermal anomaly detection. This process involves mapping heat emissions across the area.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is akin to a low-priority importance task with a flexible schedule for opportunistic capture. We frame it as a "non-essential background filler task," emphasizing that it's treated as a background survey or testbed tracking task, with the operator noting that it can be dropped or rescheduled at convenience.
+
+The primary sensor in play is the TIR (Thermal Infrared), which serves to assess the heat signature of the region. This tool allows for capturing the thermal profile and mapping heat emissions, providing valuable insights into the temperature distribution across the area.
+
+The delivery deadline for this task has been resolved by an upstream module. The upper limit for data availability is set as "the day after tomorrow overnight." This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability without rephrasing, shortening, or altering its placement in the day.
+
+In conclusion, this task request aims to capture thermal mapping data of a location in Italy's Roasio city using the TIR sensor. It is categorized as a low-priority importance task with a flexible schedule and a deadline set for the day after tomorrow overnight. The data will help us understand the heat signature and surface temperature profile of the area, contributing to our ongoing efforts in Earth observation.

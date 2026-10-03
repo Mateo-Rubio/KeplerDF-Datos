@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format will be translated into a single request that maximizes naturalness and validation accuracy of the dataset.
+
+The geographic context involves Indonesia's Ketapang city, which is an important location for our mission. We aim to capture a thermal mapping of the region using the TIR sensor during the afternoon of the day after tomorrow. The 'priority_level' indicates this as a medium importance task with standard operational status and fixed parameters representing normal pipeline tracking.
+
+The request will be framed in professional, direct language that reflects the operational nature of this task. We will focus on capturing a heat signature or surface temperature profile for the region using TIR technology. This is part of our baseline pipeline tracking setup, which includes normal operational status with 'priority_level' 2.
+
+To ensure accuracy and naturalness, we will avoid raw technical system tags, underscores, coordinate arrays, and other technical terms in the final output. Instead, we will describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we will describe the location using the remaining valid fields or clean 'region_name'.
+
+The delivery deadline is set for the day after tomorrow during the afternoon. This phrase will be inserted verbatim into our request, as the stated upper limit for data availability. We will not rephrase it, shorten it, or move it to a different part of the day.
+
+In conclusion, this task request aims to capture thermal mapping data of Indonesia's Ketapang city using TIR technology during the afternoon of the day after tomorrow with medium importance and standard operational status.
