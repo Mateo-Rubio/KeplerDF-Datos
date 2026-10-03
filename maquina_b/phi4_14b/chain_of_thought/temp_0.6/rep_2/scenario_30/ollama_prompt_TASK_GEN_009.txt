@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific time frame by which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the satellite capture should occur during the day-night cycle.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This word must appear literally in the final request to accurately reflect the timing of the task.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task specifies that the capture should occur "overnight" and be completed "in three days", which aligns with the operational guidelines without altering the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a binding contract fulfillment involving a critical payload capture in Indonesia, specifically near Gilirang. This mission is of high importance, necessitating urgent operational execution with an un-preemptable mission lock. The objective is to perform an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring we acquire detailed ground geometry data despite weather conditions. The satellite constellation must execute this task overnight and deliver the results in three days. This critical directive underscores the essential nature of the operation, demanding immediate attention and execution with no possibility of delay or rescheduling.

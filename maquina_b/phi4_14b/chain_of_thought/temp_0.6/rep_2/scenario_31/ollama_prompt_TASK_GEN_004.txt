@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For this task, I will begin by examining the JSON metadata to extract and interpret the necessary information.
+
+a) The exact string in 'target_day' is "in three days." This indicates when the data collection needs to be completed and delivered, providing a clear timeline for the operation without ambiguity.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day during which the satellite should capture the necessary imagery, emphasizing the need for precise timing in the operational plan.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon." This term will be used verbatim in the final request to ensure clarity regarding the time of data capture.
+
+d) It is important to confirm that I am not shifting the deadline to an adjacent part of the day. The provided metadata specifies "during the afternoon," and I must adhere strictly to this timeframe without alteration. This ensures that the mission aligns with the operational requirements and deadlines as outlined, maintaining the integrity of the task parameters.
+
+With these considerations in mind, I can now proceed to craft a final request that accurately reflects the mission's priorities, objectives, and temporal constraints.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for opportunistic capture over La Chapa, Colombia. The task involves using near-infrared reflection to assess soil moisture and discriminate gradients, with a flexible schedule allowing for adjustments as needed. We aim to complete this background survey within three days, specifically during the afternoon. Please feel free to drop or reschedule at your convenience, treating it as a non-essential background filler task.
