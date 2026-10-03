@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' specifies the time of day when the task must be executed, but it does not change the deadline itself, which remains at "in four days" as specified in 'target_day'.
+
+STAGE 2 - FINAL REQUEST
+
+This is a standard operational tasking for multispectral vegetation analysis using near-infrared reflection. We require a high-resolution optical snapshot of the region in Colombia, specifically around San Carlos de Guaroa, to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. This task has been designated as an absolute institutional priority due to its importance in baseline pipeline tracking with fixed parameters representing normal operational status. The data products must be delivered in four days, overnight.
