@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task at hand involves translating a set of JSON metadata into a natural language request for an Earth-observation mission. Let's break down the necessary components:
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific timeframe by which the data products must be delivered, emphasizing the urgency and non-negotiable nature of the deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the observation should occur, aligning with the operational requirements for capturing the necessary data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening". This word will be directly incorporated into the final request to ensure clarity regarding the timing of the observation.
+
+d) It is crucial to confirm that the deadline is not being shifted to an adjacent part of the day. The metadata specifies "in the evening" as the diurnal period, and this must be adhered to without alteration. The deadline remains strictly "in three days" for the evening observation, ensuring compliance with the operational guidelines.
+
+### Stage 2 - Final Request
+
+This is an absolute institutional priority mission involving a critical payload capture of near-infrared reflection data over Silea, Italy. The objective is to conduct water body boundary mapping and soil moisture assessment, providing essential insights into environmental conditions. This task is a binding contract requirement with an urgent operational execution mandate. The observation must be completed in three days, specifically in the evening, ensuring no deviation from this strict deadline.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed the day after today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should occur.
+
+c) The single word contained in the string "in the morning" that matches the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will be used verbatim in the final request to describe the timing of the task.
+
+d) The deadline specified is "tomorrow in the morning," and there is no indication or allowance for shifting this deadline to another part of the day. Therefore, the task must be executed precisely within this timeframe without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a region in Colombia, specifically around the city of Mapiripán. The mission involves capturing high-resolution optical snapshots using daylight photography to obtain clear optical imagery and true-color visual documentation. This request is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. Please ensure that this data collection occurs tomorrow in the morning, adhering strictly to the specified deadline for delivery.
