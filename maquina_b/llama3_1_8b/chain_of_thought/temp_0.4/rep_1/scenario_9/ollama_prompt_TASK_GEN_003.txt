@@ -1,0 +1,9 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the request is to deliver data products on the day specified, which is the day after tomorrow, and the diurnal period is only used to specify the time of day for the observation.

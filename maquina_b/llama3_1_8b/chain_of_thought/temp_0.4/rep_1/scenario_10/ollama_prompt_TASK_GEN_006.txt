@@ -1,0 +1,14 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original deadline remains unchanged, and I will incorporate it into the final request verbatim.
+
+Now, I'll proceed to Stage 2, where I'll craft the operational request as a flowing paragraph.
+
+```prompt
+We require a standard operational tasking for a commercial tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This routine monitoring involves a multispectral vegetation analysis using VNIR to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. The location is in Indonesia, specifically in the city of Simabur. We need this task completed in three days, during the morning hours. This request has medium importance, and we expect timely delivery of the data products within the specified deadline.
