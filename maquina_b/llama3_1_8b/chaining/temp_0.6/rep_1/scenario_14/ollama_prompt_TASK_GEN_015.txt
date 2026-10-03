@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. 
+
+Combine the geographic context by interpreting the keys 'region_name' and nested 'location_details'. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details', but do not use raw technical system tags, underscores, or coordinate arrays in your final output. Since the country is Indonesia and the city is Kutai Timur, describe the location as "in the Indonesian province of East Kalimantan".
+
+In terms of mission allocation priority, the task indicates an absolute institutional priority as a binding contract requirement involving a critical payload capture. This implies an urgent operational execution and un-preemptable mission lock.
+
+The primary sensor is VIS, which means we need to capture a high-resolution optical snapshot for daylight photography or true-color visual documentation. We want to observe the location in the Indonesian province of East Kalimantan with this high-resolution optical snapshot.
+
+Please complete this task within four days in the morning.
