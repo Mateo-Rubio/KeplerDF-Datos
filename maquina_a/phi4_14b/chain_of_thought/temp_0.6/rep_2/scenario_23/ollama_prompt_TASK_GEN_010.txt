@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) I need to ensure that the deadline for this task remains strictly as "today during the afternoon" and is not shifted to any other part of the day. The operational guidelines specify that the temporal parameters represent a strict deadline for delivering the data products, so adherence to this timeframe is critical.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for an opportunistic capture over Maní, Colombia. This task involves thermal mapping to capture a surface temperature profile and detect any thermal anomalies. We're aiming for a flexible schedule with the ability to drop or reschedule at convenience, treating it as a non-essential background filler task. The data should be delivered today during the afternoon.
