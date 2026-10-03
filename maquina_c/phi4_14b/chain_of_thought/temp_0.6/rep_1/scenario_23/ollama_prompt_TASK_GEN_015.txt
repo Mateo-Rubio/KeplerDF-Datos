@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This indicates the deadline by which the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the satellite should capture the data, during the night.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight". This word must be included in the final request to specify the diurnal period accurately.
+
+d) It is crucial to ensure that the deadline is not shifted to a different time of day. The task must be completed "in four days" during the "overnight" period, as specified. There should be no alteration or reinterpretation of this timing, maintaining the strict operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis in Kepulauan Meranti, Indonesia. The objective is to assess chlorophyll absorption levels and calculate the NDVI index over this region. This request is part of our baseline pipeline tracking with fixed parameters representing normal operational status, ensuring routine monitoring continuity. We need this data delivered "in four days," specifically captured during the "overnight" period. Please proceed with the usual workflow update to ensure compliance with our standard operational processes.

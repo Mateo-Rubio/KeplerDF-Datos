@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data acquisition should occur on the day following today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the task should be executed.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning."
+
+d) The deadline specified by the metadata is strictly "tomorrow in the morning." There is no indication or permission to shift this deadline to any other part of the day, such as mid-day, afternoon, evening, or overnight.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for commercial monitoring involving Kabupaten Padang Lawas Utara in Indonesia. This routine monitoring is part of our baseline pipeline tracking setup and involves fixed parameters representing normal operational status. The mission requires near-infrared reflection to map water body boundaries or assess soil moisture levels. Please ensure the data is captured tomorrow, specifically in the morning, as per our operational schedule.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options is "mid-day." This word must appear literally in the final request.
+
+d) The temporal parameters provided specify a strict operational deadline for delivering the data products. The request specifies "in three days" and "around mid-day," indicating these are fixed and cannot be shifted to any other part of the day. Therefore, I am not altering or extending the deadline, ensuring it remains strictly "in three days" around "mid-day."
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking over Ketapang, Indonesia, to conduct thermal mapping using our satellite's capabilities. The objective is to capture a detailed surface temperature profile and identify any thermal anomalies in the region. This task is part of our baseline pipeline tracking setup with fixed parameters, ensuring normal operational status and routine monitoring. We need this data delivered "in three days" around "mid-day."

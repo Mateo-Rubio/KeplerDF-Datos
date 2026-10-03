@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates that the deadline for delivering the data products is set for three days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should be captured.
+
+c) The single word contained in that string is "morning". This word will appear literally in the final request to specify the time of day for the observation.
+
+d) The deadline specified as "in three days" and "in the morning" must be adhered to strictly. There is no indication or allowance to shift this deadline to another part of the day, such as mid-day, afternoon, evening, or overnight. The task must be completed precisely within these parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a commercial monitoring project in Venaco, France. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The task involves capturing high-resolution multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The data products are required in three days, specifically in the morning. Please ensure this workflow update is integrated into the standard operational schedule.

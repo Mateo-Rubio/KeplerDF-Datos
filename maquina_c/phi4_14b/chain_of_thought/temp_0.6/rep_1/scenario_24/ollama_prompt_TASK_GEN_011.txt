@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating JSON metadata into a conversational English request for an Earth-observation mission. Let's break down the components:
+
+a) The exact string in 'target_day' is "in four days." This indicates when the data should be delivered, not when it will be captured.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word will be used verbatim in the final request to specify the time of day for the observation.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The metadata specifies "in the morning," and we must adhere strictly to this timing without any alterations or shifts.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low-priority request for an Earth-observation task focusing on the Campli area in Italy. This is a flexible schedule task, so feel free to drop or reschedule at your convenience. We are looking for near-infrared reflection data to help with soil moisture assessment and water body boundary mapping. The ideal capture should occur "in four days" "in the morning." This serves as a non-essential background filler task, part of our routine monitoring efforts.

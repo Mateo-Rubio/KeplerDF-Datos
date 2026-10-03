@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in three days."
+
+b) The exact string found in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the given options is "mid-day." This word must be included literally in the final request.
+
+d) The deadline for this task has been explicitly set to a specific timeframe: "in three days" and "around mid-day." It is crucial not to shift this deadline to any other part of the day, such as morning, afternoon, evening, or overnight. The operational guidelines emphasize that these temporal parameters represent a strict delivery deadline for the data products.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for our satellite constellation involving Banyuasin in Indonesia. This involves a baseline pipeline tracking setup with fixed parameters to capture multispectral vegetation analysis. Our goal is to assess chlorophyll absorption levels and calculate an NDVI index, providing valuable insights into the region's vegetation health. This routine monitoring is part of our normal operational status workflow update. We need this data delivered in three days, specifically around mid-day. Please ensure this task aligns with our standard operational procedures.

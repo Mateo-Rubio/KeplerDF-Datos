@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening". This specifies the time of day that the satellite capture should ideally occur.
+
+c) The word contained in the string "in the evening" from the options {morning, mid-day, afternoon, evening, overnight} is "evening". This word will be used verbatim in the final request to specify the timing requirement.
+
+d) I am not shifting the deadline to another part of the day. The task must be completed "in three days" and specifically "in the evening", as per the given metadata. This ensures that both the deadline and the time of capture are adhered to without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance satellite task with a flexible schedule for opportunistic capture over the region encompassing Ecuatorial in Indonesia. This non-essential background filler task can be dropped or rescheduled at convenience, so please treat it as a background survey or testbed tracking task. The mission involves an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture of the ground geometry. I am looking for this data to be delivered in three days, specifically in the evening. Thank you for accommodating this flexible request.
