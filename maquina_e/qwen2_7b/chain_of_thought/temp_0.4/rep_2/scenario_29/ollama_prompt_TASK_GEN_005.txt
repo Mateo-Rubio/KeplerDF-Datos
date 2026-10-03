@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+b) The exact string in 'target_diurnal_period' is: "in the evening"
+c) The word contained in that string that must appear literally in the final request is: "evening"
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline specified is for delivery "in the evening" on the day after tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+To ensure a highly realistic and conversational English request based on the provided JSON metadata, we will translate this information into a natural-sounding operational directive:
+
+"Please allocate an absolute institutional priority to capture a critical SAR payload on the day after tomorrow, specifically in the evening. This task involves an active radar scan using microwave surface imaging technology for cloud-penetrating capture of ground geometry. The objective is to gather detailed data that will serve as an essential background survey, providing insights into the terrain's characteristics under low-light conditions."
+
+This request incorporates the operational guidelines by avoiding technical jargon, integrating the geographical context and temporal parameters naturally, and specifying the mission allocation priority according to the provided JSON keys.
