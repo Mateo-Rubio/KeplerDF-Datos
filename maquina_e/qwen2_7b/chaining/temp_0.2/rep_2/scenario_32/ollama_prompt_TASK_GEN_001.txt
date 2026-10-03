@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the specified parameters.
+
+The geographic context involves observing a location in Colombia, specifically the city of Tame. The mission allocation priority is set at Low Importance, which means this request is treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's labeled as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", considering it as a "background survey" or "testbed tracking task".
+
+The primary sensor is an SAR (Synthetic Aperture Radar), which will be used for an active radar scan utilizing microwave surface imaging. This scan aims to capture cloud-penetrating imagery, allowing us to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline for this task has been resolved by an upstream module, stating that the data should be available "in three days overnight". This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability without any rephrasing or alteration.
+
+In summary, our request involves observing a location in Tame, Colombia, using an SAR sensor for an active radar scan during the overnight period, with the data to be available "in three days overnight". This task is considered a low priority importance background survey that can be conveniently scheduled or dropped as per operational needs.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy of the dataset.
+
+The geographic context involves observing Indonesia, specifically in Pangalaseang city. The mission allocation priority is set at low importance, which means this task is treated as a non-essential background filler task with a flexible schedule for opportunistic capture. It's labeled as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", and it's explicitly noted to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are centered around the primary sensor TIR, which aims to capture thermal mapping data. The goal is to assess heat signatures, surface temperature profiles, or perform thermal anomaly detection and mapping of heat emissions.
+
+The deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being "today in the evening". This phrase must be inserted verbatim into the request, as it represents the stated time frame for data availability.
+
+In summary, our request is to observe Indonesia's Pangalaseang city using TIR sensors during the evening hours today. The mission is considered low priority with a flexible schedule and is aimed at capturing thermal mapping data for background surveys or testbed tracking tasks.
