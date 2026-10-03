@@ -1,0 +1,9 @@
+Return ONLY one block delimited by triple backticks with the language tag `python`.
+
+You are a Python script writer for an Earth observation mission, and you must convert the following JSON metadata into a Python function that prints out a task request as per the operational guidelines detailed above. The function should:
+
+1. Accept parameters corresponding to 'region_name', nested 'location_details' (including country, city), 'priority_level', 'primary_sensor', and relative timeframes ('target_day', 'target_diurnal_period').
+2. Construct a natural language request that integrates these parameters according to the provided operational guidelines for GEOGRAPHIC CONTEXT, MISSION ALLOCATION PRIORITY, SENSORS AND PHYSICAL OBJECTIVES, and RELATIVE TIMEFRAMES.
+3. Include error handling that prints a specific message if 'country', 'city', or 'landmark' are missing from the input data (considering them as "N/A").
+4. Use Python f-strings for constructing the request, with appropriate conditional statements to reflect different priority levels and sensor types in the output text.
+5. The function should return only one block of code delimited by triple backticks (
