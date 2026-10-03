@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing the region of Italia, specifically the city of Gazzola, incorporating landmarks and other details naturally. The location description combines the information provided in 'location_details', ensuring no technical system tags or coordinate arrays are used in the final output. If 'country', 'city', or 'landmark' fields are "N/A", I gracefully describe the location using remaining valid fields or the clean 'region_name'. 
+
+The mission allocation priority is set at Priority 1 (Low Importance), indicating that this request has a flexible schedule for opportunistic capture, treated as a low priority background filler task. The language reflects a casual, highly flexible tone, with explicit notes to drop or reschedule at convenience.
+
+The sensors and physical objectives for this task involve the VNIR sensor, which aims for multispectral vegetation analysis by assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance. 
+
+The delivery deadline is "in three days overnight", indicating that the upper limit for data availability has already been resolved by an upstream module. This phrase is inserted verbatim into the request, without any rephrasing, shortening, or moving to a different part of the day.
+
+In summary, this task request encapsulates the essence of the operational guidelines provided, translating the JSON metadata into a coherent and natural English text for the satellite constellation planner.

@@ -1,0 +1,9 @@
+Given the current operational context, our Earth-observation mission operator is tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to capture detailed information about a specific geographic location using a satellite equipped with an active radar scan (SAR) sensor.
+
+The target region we are focusing on is Colombia, specifically the city of Génova. This area requires our attention due to its unique geographical characteristics, which necessitate a precise and comprehensive mapping service. The mission's allocation priority is set at Level 1, indicating that this task should be treated as a low-priority background filler request, allowing for flexible scheduling.
+
+The primary goal here is to conduct an active radar scan of the region in the evening, capturing data for our purposes by today's deadline, which has been resolved by an upstream module. We aim to obtain data collected "in the evening", ensuring that we capture the most relevant information available at that time.
+
+Our operational objectives are to gather data that will help us understand the terrain and surface characteristics of the area. The SAR sensor will provide valuable insights through microwave surface imaging, enabling us to penetrate cloud cover and capture ground geometry with high precision. This information is crucial for various applications, including urban planning, disaster management, and environmental monitoring.
+
+In summary, our Earth-observation mission operator will embark on this task to collect detailed radar data of Génova, Colombia, in the evening today. The request is structured to ensure that the data collection process aligns with our operational guidelines, emphasizing the importance of natural language integration, mission priority classification, and sensor-specific objectives while adhering to the specified deadline for data availability.

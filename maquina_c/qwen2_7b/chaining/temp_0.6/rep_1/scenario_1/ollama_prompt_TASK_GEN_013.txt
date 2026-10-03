@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. My objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request. The context involves observing the region of Colombia, specifically Santa Rosa del Sur, with a primary focus on capturing near-infrared reflection data for water body boundary mapping and soil moisture assessment as part of a background survey task.
+
+This request carries a low priority importance, indicating that it's treated as a non-essential background filler task with a flexible schedule for opportunistic capture. The mission allocation authority acknowledges the "low priority importance" while noting that this task is part of a "normal operational status" or a "workflow update". 
+
+The deadline for this task has already been resolved by an upstream module, and it's set as "the day after tomorrow overnight", serving as the stated upper limit for data availability without rephrasing or altering its time frame.
+
+In summary, our request is to capture thermal mapping to assess soil moisture and delineate water body boundaries using near-infrared reflection data from a satellite sensor. This observation will contribute to our baseline pipeline tracking setup with fixed parameters representing normal operational status, aligning with the low priority importance of the task.
