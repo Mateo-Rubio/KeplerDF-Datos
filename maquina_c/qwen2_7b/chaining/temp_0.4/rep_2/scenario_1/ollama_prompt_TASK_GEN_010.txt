@@ -1,0 +1,9 @@
+Translate this request into a highly realistic English task for an Earth-observation mission:
+
+In three days during the afternoon, we aim to capture a low priority importance "opportunistic survey" of Colombia's El Castillo region using a flexible schedule. Our objective is to gather data through a "multispectral vegetation analysis", focusing on assessing the chlorophyll absorption level and calculating the vegetation NDVI index for background survey purposes. This task involves a "non-essential background filler task" that can be dropped or rescheduled at convenience, treating it as a "testbed tracking task". The mission does not involve any urgent operational execution or un-preemptable mission lock, as it represents normal operational status within the baseline pipeline tracking setup with fixed parameters. We will utilize standard technical capabilities without specifying raw priority numbers or mentioning technical priority levels.
+
+The target geographic context is Colombia's El Castillo region, which combines country and city details for a realistic description. No landmark is provided, so we rely on the clean 'region_name' to describe the location. The mission allocation priority indicates that this request is of low importance, aligning with the operational guidelines for handling such tasks.
+
+The primary sensor used for this task is VNIR, which aims to provide "multispectral vegetation analysis" to assess chlorophyll absorption levels and calculate the NDVI index. This process involves capturing surface reflectance data essential for understanding vegetation health and distribution in the region.
+
+In conclusion, the task request is now framed in a conversational English format that integrates operational guidelines and translates the raw physical simulation metadata into a coherent mission allocation document suitable for an automated satellite constellation planner.

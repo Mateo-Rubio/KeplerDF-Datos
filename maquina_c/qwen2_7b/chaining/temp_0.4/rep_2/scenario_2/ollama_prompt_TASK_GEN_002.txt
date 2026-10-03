@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request based on the provided JSON format.
+
+The geographic context involves capturing imagery of a specific location in "Italia", more precisely in "Norte". The operational guidelines dictate that we avoid technical tags, underscores, or coordinate arrays, instead opting for a natural description. Given the absence of landmarks, we'll combine the 'country' and 'city' fields to describe the region.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a "flexible schedule" for "opportunistic capture". This task is labeled as a "low priority importance" request with a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is "NIR", which will be used for capturing "near-infrared reflection" to map water body boundaries or assess soil moisture. This sensor is crucial for discriminating gradients in the landscape.
+
+The deadline for this task has been resolved by an upstream module, with a resolution set for "in three days in the evening". This phrase must be inserted verbatim into our request as the upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request is to capture near-infrared imagery of the location in "Norte", "Italia", on the evening of the third day following an upstream module's resolution. The mission is prioritized at Level 1 (Low Importance), allowing for flexibility in scheduling and execution. This task serves as a background survey or testbed tracking task, with no strict deadlines beyond the specified evening timeframe.

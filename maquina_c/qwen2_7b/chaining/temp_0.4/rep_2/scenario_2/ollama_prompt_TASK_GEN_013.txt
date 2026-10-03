@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring maximum naturalness and validation accuracy.
+
+The geographic context for this mission involves Colombia, specifically the city of Mesetas. Our operational guidelines guide us to avoid technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine JSON parameters naturally, describing the location using a realistic blend of country, city, and landmark fields from 'location_details'. Since 'country', 'city', and 'landmark' are provided as "N/A", we will describe the location using the remaining valid fields or the clean 'region_name'.
+
+Our mission allocation priority is set at Level 1, indicating low importance. This request should be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted that this operator will treat it as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor involved in this mission is VIS, which we interpret as aiming for a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". This captures the essence of observing and documenting the environment under natural light conditions.
+
+Our delivery deadline is set for "the day after tomorrow around mid-day", with this phrase inserted verbatim into our request. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task request to the automated satellite constellation planner should be structured as follows:
+
+"Please schedule a 'background survey' or 'testbed tracking task' for capturing a 'high-resolution optical snapshot' using VIS technology in Colombia, specifically targeting the city of Mesetas. The mission is set with a 'low priority importance', allowing for flexible scheduling to 'drop or reschedule at convenience'. The deadline for data availability is 'the day after tomorrow around mid-day', as per our operational guidelines."
+
+This request encapsulates the essence of translating raw physical simulation metadata into a conversational English format, adhering to the provided operational guidelines and ensuring clarity and accuracy in communication.

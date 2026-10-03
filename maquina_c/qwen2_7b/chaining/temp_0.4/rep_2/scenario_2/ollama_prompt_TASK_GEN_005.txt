@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context for this mission involves capturing a high-resolution optical snapshot of the city of Sotta, which is located in France. We're focusing on daylight photography to document clear optical imagery and true-color visual details that can provide valuable insights into the urban landscape and surrounding environment.
+
+Given the priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator has the freedom to drop or reschedule the mission at their convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor involved in this mission is VIS (visual imagery), which aims to capture high-quality daylight photography. This will involve assessing the chlorophyll absorption level and calculating the vegetation NDVI index along with surface reflectance data.
+
+The deadline for this task has already been resolved by an upstream module, stating that the data must be available "in four days overnight." This phrase is inserted verbatim into our request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics in our communication.
+
+In summary, our mission involves capturing high-resolution optical imagery of Sotta, France, using VIS sensors, with a deadline set for four days overnight. This task is considered a low priority importance request with flexible scheduling options and is treated as a background survey or testbed tracking task.
