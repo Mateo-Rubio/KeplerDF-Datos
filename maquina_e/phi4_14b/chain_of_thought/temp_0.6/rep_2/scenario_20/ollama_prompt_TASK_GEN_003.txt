@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates when the data capture needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the satellite should perform its task.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) It's important to confirm that the deadline should not be shifted to any other part of the day. The task must occur specifically overnight on "the day after tomorrow," as specified in the metadata. This ensures compliance with the operational guidelines and maintains the integrity of the mission schedule.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority involving a critical payload capture over Indonesia, specifically targeting Lumpatan II. We require a near-infrared reflection mission to facilitate water body boundary mapping and soil moisture assessment. The task must be completed by the day after tomorrow, with observations conducted overnight. This operation is a binding contract requirement, necessitating urgent operational execution and an un-preemptable mission lock.

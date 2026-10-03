@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the string "in the evening" is "evening." This word must appear literally in the final request.
+
+d) The deadline specified is strictly for "today" and "in the evening," which means it does not encompass any other part of the day. There is no indication to shift this deadline to an adjacent part of the day, such as late afternoon or early night. Therefore, the operational execution must adhere to these temporal parameters without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority for a high-resolution active radar scan using microwave surface imaging over Tomačevica, Slovenia. This mission is part of a binding contract requirement involving a critical payload capture with a mandatory directive for an urgent operational execution, ensuring an un-preemptable mission lock. The task must be completed today, specifically in the evening, to capture cloud-penetrating imagery and ground geometry effectively.

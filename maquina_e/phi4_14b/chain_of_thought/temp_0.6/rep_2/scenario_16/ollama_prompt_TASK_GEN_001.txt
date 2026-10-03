@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This specifies the timeframe within which the task needs to be executed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the specific time of day when the data collection should occur.
+
+c) The single word contained in that string is "evening". This word must appear literally in the final request to accurately describe the timing of the task.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The task must be completed "in three days" and specifically "in the evening," as stated in the metadata. Any alteration or reinterpretation of this timeframe would not align with the operational guidelines provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to schedule a standard operational tasking for a multispectral vegetation analysis over Santander de Quilichao, Colombia. This routine monitoring is part of our baseline pipeline tracking and involves capturing chlorophyll absorption levels and calculating a vegetation NDVI index. The task should be executed with fixed parameters representing normal operational status, as it is a workflow update for our ongoing satellite constellation operations. Please ensure this task is prioritized to deliver the data products "in three days" and specifically "in the evening."
