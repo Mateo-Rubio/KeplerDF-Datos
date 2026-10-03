@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates the specific deadline by which the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning." This word will be used directly in the final request to specify the timing of the operation.
+
+d) The deadline is clearly defined as "in four days" and "in the morning," without any indication or allowance for shifting this deadline to another part of the day. Therefore, it is crucial to adhere strictly to these parameters when planning the mission.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request for a satellite overpass to capture active radar scans using microwave surface imaging in Indonesia, specifically near Ecuatorial. This mission involves cloud-penetrating capture of ground geometry and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data products are required in four days, with the capture scheduled for the morning.

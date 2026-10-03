@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for when the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite capture should occur.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request to specify the time of capture.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The deadline is strictly set for "in three days" and the diurnal period is "around mid-day," which means the data capture should occur at that specific time without any adjustment or shift.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low priority importance request for an opportunistic capture over Suratá, Colombia. This task involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, capturing ground geometry. The flexible schedule allows for this to be a non-essential background filler task, where we can drop or reschedule at convenience. We aim to have the data products delivered in three days, specifically around mid-day, treating it as a background survey or testbed tracking task.

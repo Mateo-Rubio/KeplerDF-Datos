@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string that must appear literally in the final request is "morning".
+
+d) The deadline provided specifies "in the morning" of "in three days." There is no indication or need to shift this deadline to an adjacent part of the day, such as mid-day or afternoon. The precise timing is crucial for the task's execution and must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking involving a multispectral vegetation analysis over Puerto Rico, Colombia. This task aims to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The capture must occur in three days, specifically in the morning, as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure this workflow update aligns with our commercial tasking requirements.

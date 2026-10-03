@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific timeline for the task execution without any ambiguity.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the data capture should occur, aligning with the diurnal cycle to ensure optimal conditions for the sensor's operation.
+
+c) The single word contained in that string is "morning." It is essential to include this word literally in the final request to accurately reflect the timing of the satellite operation as specified in the metadata.
+
+d) There is no indication or allowance to shift the deadline to an adjacent part of the day. The metadata explicitly states "in the morning," which must be adhered to without alteration. This ensures that the data capture aligns with the optimal conditions for the sensor's functionality and the mission's objectives.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for an opportunistic capture focusing on multispectral vegetation analysis over Sintang, Indonesia. This task is aimed at assessing chlorophyll absorption levels and calculating the NDVI index using VNIR imaging. Given its non-essential background filler nature, this task can be flexibly scheduled or even dropped at convenience. Please ensure that data collection occurs the day after tomorrow, in the morning, allowing for a seamless integration into our baseline pipeline tracking setup.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase indicates a specific deadline for the mission.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the data capture should occur.
+
+c) The single word contained in 'target_diurnal_period' that matches the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to specify the time of data capture.
+
+d) It is crucial to adhere strictly to the specified deadline without shifting it to another part of the day. The mission must be executed "the day after tomorrow" during the "overnight" period, as stated. There should be no alteration or reinterpretation of this deadline in the request.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority task request for a critical payload capture over the region named Norte. This mission involves thermal mapping to capture a heat signature and surface temperature profile, utilizing our thermal infrared capabilities. Given the high importance of this task, it is a binding contract requirement that the data be delivered no later than the day after tomorrow, specifically during the overnight period. This is an un-preemptable mission lock, and urgent operational execution is imperative to meet these stringent requirements.
