@@ -1,0 +1,17 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "in four days"
+
+b) The exact string in 'target_diurnal_period' is: "in the morning"
+
+c) The single word contained in that string is: "morning"
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline is strictly as stated.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the provided metadata, the request for the Earth-observation mission operator can be formulated as follows:
+
+"Please allocate a priority level 1 task with the following specifications: Utilizing an active Synthetic Aperture Radar (SAR) sensor, capture high-resolution microwave surface imagery in the morning on the day that is exactly four days ahead of our current schedule. The region of interest is Indonesia, specifically focusing on Kuala Enok. This task falls under a low priority importance category and should be treated as a flexible, opportunistic capture with minimal impact on our baseline pipeline tracking or critical payload acquisitions. If this task cannot be accommodated due to scheduling constraints, it can be dropped or rescheduled at convenience."
+
+The deadline is strictly adhered to without any shift to an adjacent part of the day, and the priority level reflects the operational status as a low importance request with a flexible schedule for opportunistic capture.

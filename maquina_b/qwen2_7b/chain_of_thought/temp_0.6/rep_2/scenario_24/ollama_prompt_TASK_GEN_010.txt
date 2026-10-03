@@ -1,0 +1,17 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) The deadline is not being shifted to an adjacent part of the day, as specified by the 'target_diurnal_period'.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and the provided metadata, the Earth-observation mission operator should submit the following request:
+
+"Please capture a near-infrared (NIR) reflective snapshot of AMCO, Area Metropolitana Centro Occidente, Colombia, on the day after tomorrow, focusing our efforts around mid-day. This low priority importance task is to assess soil moisture levels and water body boundaries, serving as a background survey for opportunistic capture within our baseline pipeline tracking setup."
+
+This request adheres to the guidelines by avoiding technical jargon, integrating natural language that describes the geographical context, incorporating the specific operational details from the JSON metadata, and maintaining clarity on the temporal requirement without altering or extending the deadline.

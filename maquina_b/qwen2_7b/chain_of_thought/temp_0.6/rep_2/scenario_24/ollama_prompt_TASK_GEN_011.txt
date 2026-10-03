@@ -1,0 +1,14 @@
+STAGE 1 REASONING:
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string which must appear literally in your final request is "morning".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day, as the instruction specifies "in the morning" without any reference to the start of a new day.
+
+STAGE 2 FINAL REQUEST:
+
+Given the operational guidelines provided and the target task context JSON data, our request for this mission is structured as follows:
+
+On the precise day four days from now, at the specific time of 'in the morning', we are tasked with capturing high-resolution optical imagery using near-infrared (NIR) sensors. The geographical focus will be on Campli, within the picturesque country of Italia. This request carries a low priority importance and is designated as a "non-essential background filler task". The aim is to perform an "opportunistic capture" that requires no urgency but should be prioritized based on the flexible schedule noted in the operational guidelines. The imagery collected is intended for water body boundary mapping or soil moisture assessment, aiming to discriminate gradients with high accuracy.
+
+The mission will adhere strictly to the deadline specified in the target day and diurnal period without extending or altering it. This ensures the delivery of accurate data products within the required timeframe, contributing to our ongoing background survey and testbed tracking task for the given region.
