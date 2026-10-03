@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context provided involves a primary sensor of Thermal Infrared (TIR), which aims to capture thermal mapping data for Indonesia's Bengkalis region. This request is categorized under Priority 1, indicating low importance with flexible scheduling requirements.
+
+The operational guidelines guide us to interpret the metadata in a natural and organic manner, avoiding raw technical system tags or coordinate arrays. We will describe the geographical context by combining the 'country', 'city', and 'landmark' fields from 'location_details' into a realistic location description. If any of these fields are "N/A", we will gracefully ignore them.
+
+The mission allocation priority is to be interpreted as operational guidelines rather than technical priority levels. Priority 1 tasks are labeled as low priority importance with flexible schedules, often treated as background survey or testbed tracking tasks. This means the request can be dropped or rescheduled at convenience.
+
+The sensors and physical objectives require translating technical terms into understandable operational objectives. For TIR, the goal is to capture thermal mapping data for heat signature, surface temperature profile, or thermal anomaly detection and mapping heat emissions. 
+
+The deadline for this task has been resolved by an upstream module. The task requires the data availability in three days in the morning, which must be inserted verbatim into the request.
+
+In summary, my request is to capture thermal mapping data of Indonesia's Bengkalis region using a TIR sensor. This task falls under low priority importance with flexible scheduling requirements. The deadline for this task is set for three days in the morning, as specified by the upstream module.
