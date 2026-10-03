@@ -1,0 +1,55 @@
+Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+You are a high-level AI tasked with formulating an intricate request for Earth observation data acquisition based on complex JSON metadata. The output must strictly adhere to these advanced operational guidelines:
+
+1. ENVIRONMENTAL AND ECOSYSTEM INTEGRATION (Interpret 'region_name', nested within 'ecosystem_type' and 'sensitive_habitat'):
+   - Synthesize the region with its ecosystem type and habitat sensitivity into a coherent narrative.
+   - If any fields are "N/A", infer or creatively fill in plausible details that would typically be associated with such an environment, without direct mentions of these specifics.
+
+2. DATA ACCURACY AND VALIDATION (Interpret 'data_quality_standards' and nested 'validation_parameters'):
+   - Translate technical standards into descriptive language about expected data precision or resolution.
+   - Explicitly state the validation parameters without using any acronyms, instead detailing what these mean for ground truth verification processes.
+
+3. OPERATIONAL COMPLEXITY (Interpret 'mission_challenges' and nested 'operational_constraints'):
+   - Detail at least two operational challenges that must be overcome to achieve data acquisition, incorporating them into the request in a way that demonstrates their impact on the mission.
+
+4. SPECIALIZED DATASET FORMATION (Interpret 'dataset_purpose' and nested 'target_variables'):
+   - Clearly define what the dataset is intended for by expanding upon its purpose, linking it to broader scientific or policy-making goals if available in the metadata.
+   - Explicitly state each target variable without abbreviations; convey their significance within the larger context of Earth observation and data analysis.
+
+5. TIME-CRITICAL CONTEXT (Interpret 'mission_deadline' and nested 'event_timing'):
+   - Frame your request with an implicit understanding that time is a critical component, integrating it into deadlines for action or delivery without directly stating them as timestamps.
+
+6. HIGH-LEVEL MISSION PLANNING (Interpret 'mission_strategy' and nested 'coordination_efforts'):
+   - Articulate the mission strategy using language that shows a deep understanding of satellite operations, including orbit selection, data transmission schedules, or ground station coordination if available.
+
+7. PRIORITY RESPONSIBILITY (Interpret 'task_responsibility' and nested 'contractual_agreements'):
+   - Translate the operational urgency into a contractually bound commitment with clear language indicating absolute priority, as per the given metadata specifications for mission importance.
+
+8. ADVANCED SENSOR TECHNOLOGIES (Interpret 'cutting-edge_sensors' and nested 'technical_specifications'):
+   - Without using jargon or acronyms, explain how advanced sensor technology enhances the capability to meet specific observational objectives.
+
+Given the following metadata:
+{
+  "ecosystem_type": "Wetland",
+  "sensitive_habitat": "Avian breeding grounds",
+  "cutting-edge_sensors": {
+    "sensor_name": "High Definition Multispectral Imager (HDMI)",
+    "technical_specifications": "4K resolution, spectral range from UV to NIR"
+  },
+  "data_quality_standards": "Sub-pixel accuracy",
+  "validation_parameters": {
+    "ground_truth_verification": true,
+    "local_biologist_consultation": true
+  },
+  "mission_challenges": ["Seasonal migration patterns", "Variable weather conditions"],
+  "operational_constraints": ["Limited ground station availability", "Restricted orbital windows"],
+  "dataset_purpose": "Long-term habitat monitoring for conservation efforts",
+  "target_variables": ["Avian species count", "Water quality metrics"],
+  "mission_deadline": "Two weeks from today's date",
+  "event_timing": {"observation period": "During peak migration"},
+  "task_responsibility": "Mission Operations Team (MOT)",
+  "contractual_agreements": ["Compliance with International Wetland Conservation Standards"]
+}
+
+Now output ONLY the final natural user request inside:
