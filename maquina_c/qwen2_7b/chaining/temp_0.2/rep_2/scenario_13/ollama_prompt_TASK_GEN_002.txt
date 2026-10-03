@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to specific operational guidelines.
+
+The geographic context for this mission involves capturing imagery over Moncalieri, Italy. Combining the JSON parameters naturally, we describe the location using a realistic combination of the 'country' and 'city' fields from 'location_details'. Since there's no landmark specified, we'll focus on the country and city provided.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. We frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This is treated as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor involved is VNIR, which we interpret as "multispectral vegetation analysis". The goal is to assess the "chlorophyll absorption level" and calculate a vegetation "NDVI index" and surface reflectance. This mission aims to provide valuable insights into plant health and environmental conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set as "in four days in the morning". We've inserted this phrase verbatim into our request, maintaining the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request is to capture multispectral vegetation analysis over Moncalieri, Italy, using a flexible schedule for "opportunistic capture", with the deadline set as "in four days in the morning". This task aligns with our operational guidelines and aims to provide high-quality data for environmental monitoring and research purposes.
