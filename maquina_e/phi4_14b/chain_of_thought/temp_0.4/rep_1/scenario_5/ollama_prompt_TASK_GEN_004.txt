@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) I need to ensure that the deadline is not shifted to an adjacent part of the day. The specified diurnal period is "during the afternoon," which must be adhered to without alteration. Thus, the data collection should occur specifically during this time frame on the specified day, "tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for an opportunistic capture of multispectral vegetation analysis using VNIR sensors over Cumaral, Colombia. This task involves assessing chlorophyll absorption levels and calculating the NDVI index to evaluate vegetation health. Please note that this is a non-essential background filler task, and it should be treated with flexibility in scheduling. We are looking for data collection tomorrow during the afternoon, but feel free to drop or reschedule at your convenience if necessary.
