@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the most natural and accurate dataset possible.
+
+The geographic context of our task involves Colombia, specifically focusing on the city of San Carlos de Guaroa. We're not using raw technical system tags or coordinate arrays in this request; instead, we're combining JSON parameters naturally. The 'country' field is "Colombia", and the 'city' field is "San Carlos de Guaroa". If necessary, we'll describe the location using realistic combinations of these fields along with any valid 'landmark' details from 'location_details', ensuring that "N/A" fields are gracefully ignored.
+
+The mission allocation priority for this task is medium importance. We're framing this request as a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup. The 'priority_level' field indicates that this request involves fixed parameters representing normal operational status or a standard workflow update, with no emphasis on how close the deadline is.
+
+The primary sensor for this mission is VNIR (Visible Near-Infrared). We're explaining the goal as a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This observation aims to provide insights into the health of plants and vegetation in the region.
+
+Considering the delivery deadline, our task must be completed "in three days overnight". The 'target_day' field specifies that the required data will be available by this time, with the 'target_diurnal_period' indicating that the satellite should capture images during the overnight period. We're not outputting raw UTC timestamps, digits, or countdown metrics; instead, we've inserted the phrase "in three days overnight" verbatim as the upper limit for data availability.
+
+In summary, our request to the automated satellite constellation planner is as follows:
+
+"Please allocate resources to capture multispectral vegetation analysis imagery using VNIR sensors over San Carlos de Guaroa, Colombia. This task is of medium importance and should be executed during the overnight period three days from now, providing insights into chlorophyll absorption levels and NDVI indices for the region's vegetation health."
+
+This request incorporates operational guidelines that interpret metadata organically according to geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines. We're ensuring a natural flow of language while maintaining accuracy and relevance to our Earth-observation mission."

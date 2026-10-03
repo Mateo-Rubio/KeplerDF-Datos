@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, prioritizing naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's Malinau region overnight on the day after tomorrow. Combining the JSON parameters naturally, we describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. Despite "N/A" tags for some details, the operational guidelines allow us to focus on the valid information provided.
+
+The mission allocation priority is set at level 1, indicating low importance. This request frames this as a "non-essential background filler task", with a flexible schedule that allows for "drop or rescheduling at convenience". It's treated as a "background survey" or "testbed tracking task", representing standard operational status with normal workflow updates.
+
+The primary sensor is SAR (Synthetic Aperture Radar), which is interpreted to perform an "active radar scan" using microwave surface imaging. This technique enables "cloud-penetrating capture", providing critical data for ground geometry even under heavy weather conditions. The goal is to ensure that the scan captures essential information without interference from atmospheric conditions.
+
+The deadline for this task has been resolved by an upstream module, with the upper limit for data availability set as "the day after tomorrow overnight". This phrase must be inserted verbatim into the request, maintaining its original meaning and timing.
+
+In conclusion, our request to the automated satellite constellation planner is to observe Indonesia's Malinau region using SAR technology overnight on the day after tomorrow. We prioritize natural language and operational context, ensuring that the request reflects low priority importance with flexible scheduling options. The goal is to gather critical data without urgency, focusing on background surveys or testbed tracking tasks as part of our standard operational status.

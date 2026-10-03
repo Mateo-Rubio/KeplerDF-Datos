@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+For geographic context, we aim to describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Given that 'city' is "Ecuatorial", which is not a standard geographical term, we'll interpret this as a unique identifier for a specific region. The country mentioned is "Indonesia", so our request will capture imagery of Indonesia.
+
+Regarding mission allocation priority, the task has been assigned a priority level of 1, indicating low importance. This request should be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We'll label it as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is "NIR", which stands for near-infrared. The goal here is to conduct "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". This will help us discriminate gradients and understand environmental conditions.
+
+The delivery deadline is set for "the day after tomorrow during the afternoon". We must insert this phrase verbatim into our request, as it represents the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In conclusion, our request to the automated satellite constellation planner will involve capturing near-infrared imagery of Indonesia during the afternoon of the day after tomorrow. This task is a "low priority importance" background survey aimed at "water body boundary mapping" and "soil moisture assessment". We're looking forward to receiving the data as per the specified deadline for further analysis.

@@ -1,0 +1,9 @@
+As part of our ongoing Earth observation mission, we aim to capture a low-priority importance task that involves the VNIR sensor during today's afternoon. Specifically targeting the region in Colombia where the city of Oiba resides, this request is framed as a flexible schedule background filler task with no strict deadlines or contractual obligations attached.
+
+Our primary objective is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for this area, which will help us understand the surface reflectance. This multispectral vegetation analysis is crucial for monitoring environmental health and biodiversity in Oiba.
+
+Given that we are working within the parameters of a baseline pipeline tracking setup with fixed VNIR sensor specifications, our request is explicitly noted as having a "non-essential background filler task" status. We can drop or reschedule this at convenience without compromising the operational integrity of our mission.
+
+Please note that the deadline for this task has already been resolved by an upstream module: "today during the afternoon". This phrase serves as the stated upper limit for data availability, and we do not require any raw UTC timestamps, digits, or countdown metrics for this request. Our focus is on ensuring that the data captured meets our operational standards without any urgency in terms of delivery time.
+
+Thank you for your attention to this low-priority importance task. We appreciate your cooperation in fulfilling this background survey and testbed tracking task for Oiba, Colombia.

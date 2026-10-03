@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context demands a natural description of our target location. Given that the country field is "N/A", we will focus on using the city name, "Norte", combined with the region name from 'location_details'. This location is to be captured through an "opportunistic background survey" as part of a flexible schedule for "testbed tracking tasks".
+
+The mission allocation priority indicates that this task falls under a "low priority importance". We will frame this request as a "non-essential background filler task", with a "flexible schedule" for "opportunistic capture". The language must reflect an understanding that while it's not an "urgent operational execution", it still requires attention within our "normal operational status".
+
+The primary sensor is set to "TIR", which we will interpret as aiming for "thermal mapping". Our goal is to capture a "heat signature" or conduct a "surface temperature profile" to detect thermal anomalies and map heat emissions. This physical objective is crucial for understanding ground conditions under various environmental conditions.
+
+The deadline for this task has been resolved by an upstream module, specifying that the data must be available "tomorrow in the morning". This phrase must be inserted verbatim into our request, signifying the upper limit for data availability without rephrasing or altering the time frame.
+
+In conclusion, our request to the automated satellite constellation planner is as follows: Capture thermal mapping data of Norte using a TIR sensor tomorrow in the morning. The task is a "low priority importance" background survey with flexible scheduling requirements. This ensures that our mission allocation respects operational guidelines while addressing the physical objectives and deadlines accurately.

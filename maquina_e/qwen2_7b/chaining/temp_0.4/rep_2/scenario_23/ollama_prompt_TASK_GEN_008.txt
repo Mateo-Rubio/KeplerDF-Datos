@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of Burzanella, a city located in the country of Italia. This location is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority indicates the operational authority and asset contractual value. Given that this task has a priority level of 1, it's framed as a low priority importance request with a flexible schedule for opportunistic capture. This is explicitly noted to be a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives describe the primary sensor as SAR, which is interpreted as an active radar scan using microwave surface imaging. This is explained as piercing heavy weather for cloud-penetrating capture or capturing ground geometry. The goal here is to gather data for "cloud-penetrating capture" that can provide critical insights into the environment under varying weather conditions.
+
+The delivery deadline is specified as being resolved by an upstream module and set at "in three days during the afternoon". This phrase must be included verbatim in the request, serving as the upper limit for data availability without rephrasing or shortening it. The deadline represents a specific time window within which the data must be captured.
+
+In summary, our task request aims to capture detailed imagery of Burzanella using SAR technology during the afternoon on the specified day. This request adheres to operational guidelines focusing on natural language interpretation of metadata, mission priority levels, sensor objectives, and delivery deadlines to ensure accurate and realistic communication with the satellite constellation planner.

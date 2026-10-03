@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+Our geographical context involves capturing thermal mapping data for a location in Norte, Brazil, which doesn't have a detailed country or city description but is within the region named Norte. This task requires a "low priority importance" as indicated by the 'priority_level' being set to 1, meaning it's a "flexible schedule" request that can be treated as a "background survey" or "testbed tracking task".
+
+The primary sensor designated for this mission is "TIR", which will be used to capture a "heat signature" through "thermal mapping". The goal here is to assess surface temperature profiles and detect thermal anomalies, mapping heat emissions across the region.
+
+The delivery deadline for this task has been resolved by an upstream module. We aim to have the data available "in three days in the evening", which means we're targeting a specific upper limit for data availability without any rephrasing or adjustment of the time frame.
+
+In summary, our request is to capture thermal mapping data for Norte, Brazil, using a flexible schedule that can be accommodated within the constraints of "in three days in the evening". This task aligns with our operational guidelines for natural language interpretation and prioritization, ensuring the data collected meets our specific requirements for thermal anomaly detection and heat emission mapping.

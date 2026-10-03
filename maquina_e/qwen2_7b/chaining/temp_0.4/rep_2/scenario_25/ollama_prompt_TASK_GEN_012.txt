@@ -1,0 +1,28 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. The operational guidelines for interpretation are as follows:
+
+1. GEOGRAPHIC CONTEXT - Combining the JSON parameters naturally, we describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY - We interpret the priority level to integrate specific operational phrases reflecting the structural hierarchy of authority, contractual value, and urgency.
+
+3. SENSORS AND PHYSICAL OBJECTIVES - We naturally weave operational objectives and descriptors into our request to explain the physical phenomenon to be observed.
+
+4. DELIVERY DEADLINE - The deadline for this task is "the day after tomorrow overnight", which will serve as the stated upper limit for data availability.
+
+The target task context JSON provided is:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Given these parameters, the request for the satellite constellation planner is:
+
+"Please capture an assessment of vegetation health using a near-infrared sensor, focusing on Indonesia's Ecuatorial region. This task is designated as a low priority importance request, with flexible scheduling and a 'drop or reschedule at convenience' instruction. The objective is to evaluate chlorophyll absorption levels and calculate the NDVI index for surface reflectance. Please ensure that this non-essential background filler task is captured during the overnight period of the day after tomorrow, adhering to the deadline set as 'the day after tomorrow overnight'."
+
+This request integrates the operational guidelines, translating the raw JSON metadata into a clear, concise, and realistic communication suitable for an automated satellite constellation planner.

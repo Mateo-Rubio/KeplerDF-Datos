@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to our operational guidelines.
+
+The geographic context involves capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation from Indonesia, specifically the city of Pura Sajau. The mission allocation priority is classified as low importance, which means this request is treated as a flexible schedule task, a non-essential background filler, and an opportunistic capture. It's explicitly noted to be dropped or rescheduled at convenience, acting as a background survey or testbed tracking task.
+
+The primary sensor involved in this operation is VIS (visual imaging). The physical objective of the observation aims to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or standard workflow updates.
+
+The delivery deadline is set for "the day after tomorrow overnight," which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into the request, without any rephrasing, shortening, or movement to a different part of the day.
+
+In summary, our task request involves capturing high-resolution optical imagery from Indonesia's Pura Sajau city using VIS sensors, with low priority importance and a flexible schedule for data collection, ensuring it aligns with our operational guidelines for natural language interpretation.
