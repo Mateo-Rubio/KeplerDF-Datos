@@ -1,0 +1,35 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The task requires translating the provided JSON metadata into a natural request. The objective is to ensure the request reflects the operational guidelines for maximizing naturalness and validation accuracy of the dataset.
+
+The JSON metadata includes:
+
+- Primary_sensor: NIR
+- Location_details:
+  - Country: Indonesia
+  - City: Malinau
+- Priority_level: 3
+- Target_day: the day after tomorrow
+- Target_diurnal_period: in the evening
+
+Following the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   The location should be described using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since country and city are provided, use them to describe the location.
+
+2. MISSION ALLOCATION PRIORITY:
+   Priority 3 (High Importance):
+     Use an authoritative tone and frame this as an "absolute institutional priority" involving a "critical payload capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   Primary_sensor: NIR
+   Explain the goal as a "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment".
+
+4. RELATIVE TIMEFRAMES:
+   Target_day: the day after tomorrow
+   Target_diurnal_period: in the evening
+   Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+The final natural user request is:
+
+Capture a high-resolution near-infrared reflection image of water bodies in Malinau, Indonesia, by performing a near-infrared reflection for water body boundary mapping by the evening of the day after tomorrow, as this is an absolute institutional priority involving a critical payload capture.

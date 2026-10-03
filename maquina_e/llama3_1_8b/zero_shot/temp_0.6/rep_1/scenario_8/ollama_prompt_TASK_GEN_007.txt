@@ -1,0 +1,17 @@
+```prompt
+Translate the following JSON metadata into a single, highly realistic and conversational English request for the satellite constellation planner:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Tuluá"
+  },
+  "priority_level": 2,
+  "target_day": "today",
+  "target_diurnal_period": "in the evening"
+}
+
+Here's the natural user request:
+
+"Tasking Request: Conduct a thermal mapping survey to capture a heat signature and surface temperature profile over Tuluá, Colombia. This is a standard operational tasking with fixed parameters representing normal operational status as part of our baseline pipeline tracking setup. The resulting data products must be ingested into the pipeline before today in the evening at the latest."
