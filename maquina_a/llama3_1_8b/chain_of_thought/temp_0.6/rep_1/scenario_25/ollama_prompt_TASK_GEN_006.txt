@@ -1,0 +1,14 @@
+Let's break down the task context JSON.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that we are not shifting the deadline to an adjacent part of the day. We are simply stating the target day as a fixed point, without altering or extending the deadline.
+
+Now, let's move on to STAGE 2 - FINAL REQUEST:
+
+```prompt
+Task Request: We require a low priority importance request with a flexible schedule for opportunistic capture, specifically a non-essential background filler task where we can drop or reschedule at convenience. This task involves a baseline pipeline tracking setup with fixed parameters representing normal operational status, and we need to perform a multispectral vegetation analysis using VNIR to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. We need this data product in four days, preferably captured in the morning.

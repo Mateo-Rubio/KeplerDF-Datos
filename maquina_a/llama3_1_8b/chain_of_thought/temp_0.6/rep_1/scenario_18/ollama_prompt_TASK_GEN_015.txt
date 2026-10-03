@@ -1,0 +1,14 @@
+Here's Stage 1 of the reasoning:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) I am not shifting the deadline to an adjacent part of the day, as I will leave the 'target_day' and 'target_diurnal_period' strings unchanged in the final request. The deadline is still set for the day after tomorrow, during the afternoon.
+
+Now, moving on to Stage 2:
+
+```prompt
+We require a low-priority importance request with a flexible schedule for opportunistic capture, labeled as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task. The goal is to conduct near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. We are targeting the region of Indonesia, specifically the city of Ecuatorial, on the day after tomorrow during the afternoon.

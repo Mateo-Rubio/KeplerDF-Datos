@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word that appears in the string is "mid-day". This will be included in the final request.
+
+d) The deadline is explicitly stated as "tomorrow" for "around mid-day", which means we are not shifting the deadline to an adjacent part of the day, but rather specifying a specific time within the next day. The deadline remains unchanged, and the temporal parameters represent a strict operational deadline to deliver the data products.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a low-priority importance task with a flexible schedule for opportunistic capture, specifically a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We need to conduct a near-infrared reflection for water body boundary mapping around mid-day tomorrow...
