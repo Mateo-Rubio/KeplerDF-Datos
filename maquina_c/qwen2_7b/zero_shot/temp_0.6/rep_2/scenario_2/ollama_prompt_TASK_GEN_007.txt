@@ -1,0 +1,7 @@
+We're tasked with capturing a near-infrared reflection snapshot of the San Joaquín area in Colombia, which involves assessing water body boundaries and soil moisture levels. This operational request is part of our standard monitoring pipeline, focusing on normal operational status and baseline tracking tasks. The priority level indicates that while this is not an 'absolute institutional priority', we must ensure it meets our contractual obligations with clients by providing accurate near-infrared imagery.
+
+The deadline for this task is set for tomorrow's overnight period - ensuring that the data products are ingested into our pipeline before then. We aim to provide a comprehensive view of the area, allowing us to perform essential background surveys and testbed tracking tasks without compromising the quality or timeliness of our service.
+
+As part of our operational guidelines, we will not use raw technical system tags, underscores, or coordinate arrays in this request. Instead, we'll combine the JSON parameters naturally, describing San Joaquín using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we will describe the location using the remaining valid fields or the clean 'region_name'.
+
+Let's proceed with capturing the near-infrared reflection snapshot of San Joaquín in Colombia by tomorrow's overnight period, ensuring our clients receive accurate near-infrared imagery as part of their contractual obligations.
