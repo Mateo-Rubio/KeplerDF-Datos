@@ -1,0 +1,9 @@
+Here is Stage 1 of the reasoning:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening". This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day, as the original deadline is already specified as "tomorrow", which implies a direct continuation of the current day, without any alteration or extension.

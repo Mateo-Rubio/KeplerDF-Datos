@@ -1,0 +1,14 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The target day and diurnal period are specific and must be met, without any alterations or reinterpretations.
+
+Now, moving on to Stage 2:
+
+```prompt
+We require a low priority importance request for a thermal mapping task using a "thermal mapping" satellite to capture a "heat signature" in the region of Serravalle di Chienti, Italy. This is an opportunistic capture with a flexible schedule, and we would like to conduct this as a non-essential background filler task where we can drop or reschedule at convenience. The data products should be delivered on the day after tomorrow in the morning.
