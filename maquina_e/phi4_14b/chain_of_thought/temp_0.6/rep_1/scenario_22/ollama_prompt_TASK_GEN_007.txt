@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this request, we need to carefully interpret the metadata provided in JSON format and translate it into a natural language task request for an Earth-observation mission operator.
+
+a) The exact string in 'target_day' is "in three days". This indicates that the data delivery deadline is set for three days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the satellite should capture the data, which is during the night.
+
+c) The single word contained in the 'target_diurnal_period' that we need to use verbatim is "overnight". This term will be included in the final request to describe the timing of the data capture.
+
+d) It's crucial to confirm that we are not shifting the deadline to another part of the day. The metadata specifies "overnight" as the target diurnal period, and this must be adhered to without alteration. The deadline for delivering the data products is strictly set for "in three days", and we must ensure that the capture occurs during the overnight period on that specific day.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request with a flexible schedule for an opportunistic capture over Sesquilé, Colombia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to conduct an active radar scan using microwave surface imaging, ideally achieving cloud-penetrating capture during the overnight period. Please ensure this data is delivered in three days, treating it as a background survey or testbed tracking task.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". 
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word must appear literally in the final request.
+
+d) The deadline specified as "in four days" and "in the morning" indicates a specific time frame for data delivery. I will not shift this deadline to any other part of the day; it remains strictly set for the morning of that specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule, involving an opportunistic capture around Norte. This is considered a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. We aim to obtain a high-resolution optical snapshot utilizing a visual sensor to capture daylight photography, clear optical imagery, or true-color visual documentation. The data delivery should be completed in four days, specifically in the morning.

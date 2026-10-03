@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "in four days." This indicates the specific deadline for delivering the data products, not an orbital capture window.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time frame during which the data collection should occur.
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request to accurately reflect the diurnal period for data capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters are strictly adhered to as provided: "in four days" and "overnight."
+
+### Stage 2 - Final Request
+
+I am requesting a standard operational tasking for a baseline pipeline tracking setup with fixed parameters, focusing on multispectral vegetation analysis over Kepulauan Meranti, Indonesia. This involves assessing chlorophyll absorption levels and calculating the NDVI index to evaluate surface reflectance. The data collection should occur overnight in four days, ensuring the mission aligns with our routine monitoring protocols.

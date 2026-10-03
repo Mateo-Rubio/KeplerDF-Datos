@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed by the following day from the current date.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the data capture should ideally occur, focusing on the middle part of the day.
+
+c) The single word contained in the string "around mid-day" is "mid-day". This word will be used verbatim in the final request to specify the time of day for the operation.
+
+d) It is crucial to confirm that the deadline is not being shifted to an adjacent part of the day. The instruction clearly states that the deadline is set for "tomorrow around mid-day," and this timeframe must be adhered to without any alterations. The task must be executed strictly within this specified period to meet the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a high-priority task request for an automated satellite constellation planner. We have an absolute institutional priority to conduct an active radar scan over Indonesia, specifically targeting the city of Ecuatorial. This mission is a critical payload capture and involves a binding contract requirement for cloud-penetrating microwave surface imaging. The goal is to capture detailed ground geometry using SAR technology. This task must be completed by tomorrow around mid-day, reflecting its urgent operational execution and un-preemptable mission lock. Please ensure that this high-importance mission is prioritized accordingly.
