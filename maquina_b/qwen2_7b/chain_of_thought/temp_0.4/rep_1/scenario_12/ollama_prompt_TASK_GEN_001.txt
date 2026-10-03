@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I confirm that the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided, the Earth-observation mission operator should request a task as follows:
+
+"Please capture a near-infrared (NIR) thermal mapping of the region named 'San José del Guaviare', located in Colombia. The high-resolution optical snapshot will serve to assess soil moisture levels and delineate water body boundaries overnight, specifically at the time of 'overnight' tomorrow. This task is designated as a low priority importance request with flexible scheduling considerations, implying that it can be dropped or rescheduled at convenience without compromising critical operational workflows. The imagery collected during this period will contribute to background survey efforts or serve as a testbed tracking task, providing valuable insights into environmental conditions without imposing stringent deadlines on the delivery of data products."
