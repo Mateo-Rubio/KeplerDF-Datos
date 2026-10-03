@@ -1,0 +1,9 @@
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'targetdictory_period' is "in the morning".
+c) The single word contained in that string which must appear literally in the final request is "morning".
+d) I am confirming that there is no shift or reinterpretation of the deadline to an adjacent part of the day; it remains as specified, "the day after tomorrow morning".
+
+```prompt
+As an Earth-observation mission operator, you are tasked with issuing a directive for an automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a conversational English request that reflects naturalness and validation accuracy. Given the data: primary sensor TIR (thermal mapping), location details including Colombia's city of Cubarral, priority level 3 (High Importance), target day "the day after tomorrow", and target diurnal period "in the morning", your request must convey an urgent operational execution with a mandatory directive. The task involves capturing thermal signatures for heat mapping purposes at specific times of day to monitor surface temperature profiles or detect thermal anomalies. This is not merely routine but critical, requiring immediate attention as part of our institution's high-priority commitment to environmental monitoring and response planning. Therefore, the final operational request should read:
+
+"Direct the satellite constellation for an absolute institutional priority task. Implement a binding contract requirement to capture thermal imagery using microwave surface imaging in Cubarral, Colombia, with high-resolution optical snapshot capabilities aimed at detecting heat anomalies or mapping temperature profiles immediately tomorrow morning."
