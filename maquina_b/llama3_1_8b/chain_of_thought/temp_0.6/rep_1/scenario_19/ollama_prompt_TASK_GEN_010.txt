@@ -1,0 +1,17 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains for tomorrow, as specified in the JSON metadata.
+
+Now, let's move on to STAGE 2 - FINAL REQUEST.
+
+...your text here...
+
+Here is the operational request:
+
+We require a thermal mapping task using TIR to capture a heat signature and surface temperature profile over Colombia, specifically in the region of Puerto Wilches. This is a low priority importance request with a flexible schedule for opportunistic capture. Please execute this as a non-essential background filler task, where we can drop or reschedule at convenience, treating it as a background survey. The data products are due tomorrow evening.

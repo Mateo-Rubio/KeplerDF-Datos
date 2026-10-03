@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight". 
+
+d) I am not shifting the deadline to an adjacent part of the day, as the target day is specified exactly and the diurnal period is "overnight", which implies a continuous period from one night into the next, rather than a specific time slot within a day.
