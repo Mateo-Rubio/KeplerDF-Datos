@@ -1,0 +1,11 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner:
+
+The objective is to capture a high-resolution optical snapshot of the beautiful region of Pradis di Sopra, nestled in the picturesque landscape of Italia. This task is categorized as a low priority importance request with flexible scheduling, fitting into the operator's "non-essential background filler task" category. It serves as an opportunistic survey or testbed tracking task for the satellite constellation.
+
+The primary sensor to be utilized for this mission is the VIS sensor, aiming to achieve daylight photography, clear optical imagery, and true-color visual documentation of the region. The imagery will provide valuable insights into the landscape's features during the overnight period of the day after tomorrow.
+
+Given the operational guidelines, the request does not include any mention of raw technical system tags, underscores, coordinate arrays, or priority numbers. Instead, it focuses on describing the geographic context using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. The mission allocation priority is interpreted in terms of the structural hierarchy provided: 'Priority 1 (Low Importance)'.
+
+The delivery deadline for this task has been resolved by an upstream module, specifying "the day after tomorrow overnight" as the upper limit for data availability. This phrase is inserted verbatim into the request without rephrasing or altering its meaning.
+
+In conclusion, the Earth-observation mission operator seeks to capture a VIS sensor image of Pradis di Sopra in Italia during the overnight period of the day after tomorrow, adhering to the guidelines provided and respecting the deadline set.

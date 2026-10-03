@@ -1,0 +1,34 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The objective is to deliver a natural and accurate dataset that maximizes validation accuracy.
+
+The geographic context involves the 'region_name', nested 'location_details' with country, city, and landmark parameters. We combine these naturally, describing the location using a realistic combination of fields. If any are "N/A", we gracefully ignore them and describe the location using remaining valid fields or 'region_name'.
+
+Mission allocation priority is indicated by the 'priority_level'. Priority 3 requests are addressed with an authoritative tone, framing it as an "absolute institutional priority" or a "binding contract requirement". This involves a "critical payload capture" or "mandatory directive", emphasizing "urgent operational execution" and an "un-preemptable mission lock". For Priority 2 tasks, we use a professional, direct tone, describing this as a "standard operational tasking" or "commercial tasking" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". Priority 1 tasks are addressed in a casual tone, framed as a "low priority importance" request with a "flexible schedule", treating it as a "background survey" or "testbed tracking task".
+
+Sensors and physical objectives are interpreted from the 'primary_sensor' key. VIS sensors are explained as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation". SAR sensors are described as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", capturing ground geometry through heavy weather. TIR sensors are explained for capturing a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. VNIR sensors are used for "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. NIR sensors are utilized for "near-infrared reflection" tasks such as "water body boundary mapping" or "soil moisture assessment".
+
+The delivery deadline is set for "today overnight". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+For our current task context:
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 2,
+  "target_day": "today",
+  "target_diurnal_period": "overnight"
+}
+
+Our request to the satellite constellation planner would be:
+
+"Attention Satellite Constellation Planner,
+
+I hereby request the allocation of a SAR sensor mission for an operational task in the region of Italia, specifically in Norte. This is designated as a standard operational tasking with fixed parameters, representing normal operational status and baseline pipeline tracking. The task entails an active radar scan using microwave surface imaging for cloud-penetrating capture, aiming to capture ground geometry during today's overnight period.
+
+Please ensure that this mission is executed with the highest priority, maintaining the integrity of our operational workflow without any preemption or delay. The deadline for data availability is set for 'today overnight', as per our upstream module's resolution.
+
+Thank you for your attention and prompt action."
+
+End of request.

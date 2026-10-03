@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The raw physical simulation metadata provided in JSON format is for a highly realistic and conversational English request, focusing on translating the context into natural language.
+
+The geographic context involves capturing imagery of a specific location in Italia, specifically Calderara di Reno, which is a significant industrial area with notable landmarks contributing to its unique characteristics. This operational tasking is categorized under Priority 1 (Low Importance), implying it's a flexible schedule request that can be treated as a low priority background filler task or an opportunistic capture.
+
+The primary sensor used for this mission is the Near-Infrared (NIR), which will be employed for mapping water body boundaries and assessing soil moisture. The goal of this observation is to conduct a near-infrared reflection analysis to delineate water bodies and evaluate soil moisture levels, essential for environmental monitoring and agricultural applications.
+
+This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. It's explicitly framed as a "non-essential background filler task" where the operator notes to drop or reschedule at convenience. The mission allocation authority and asset contractual value are not considered in this context, as the priority level does not relate to how close the deadline is but rather to the structural hierarchy of operational tasks.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability upper limit being "in three days overnight". This phrase must be inserted verbatim into our request, emphasizing that the data will be available within the specified timeframe without any rephrasing or adjustment.
+
+In summary, our task request is for a low priority background survey using Near-Infrared sensors to map water bodies and assess soil moisture levels in Calderara di Reno, with a deadline of availability set for three days overnight. This request aligns with the operational guidelines for interpreting metadata organically and translating it into natural language, ensuring maximum naturalness and validation accuracy.

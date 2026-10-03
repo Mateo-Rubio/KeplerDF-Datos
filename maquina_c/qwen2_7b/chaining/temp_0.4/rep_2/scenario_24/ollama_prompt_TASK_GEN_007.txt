@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Geographically, we're focusing on Colombia, specifically the city of El Playón. This location demands a natural combination of country, city, and landmark fields from 'location_details'. Since not all information is available, we'll describe this area using the valid fields provided or directly state it as 'El Playón, Colombia'.
+
+Regarding mission allocation priority, our task falls under 'Priority 2', indicating medium importance. This request is part of a standard operational tasking, representing normal operational status or a routine monitoring activity in our baseline pipeline tracking setup. We're dealing with fixed parameters that represent normal operational status.
+
+The primary sensor in play here is the 'NIR', which aims to capture near-infrared reflection for water body boundary mapping and soil moisture assessment. Our goal is to discriminate gradients accurately, providing essential data for agricultural monitoring and environmental studies.
+
+The target day for this task is today, with the specific diurnal period being 'in the evening'. This deadline has already been resolved by an upstream module, and we're adhering to this upper limit for data availability without rephrasing or altering it.
+
+In summary, our request involves capturing near-infrared reflection data in El Playón, Colombia, during the evening of today. We're looking for detailed information on water body boundaries and soil moisture levels using standard operational procedures and fixed parameters, ensuring that our task is part of our normal workflow update without any urgency or contractual binding.

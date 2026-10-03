@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby request a highly realistic and conversational English task for our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, well-defined task request that maximizes naturalness and validation accuracy of the dataset.
+
+The geographic context involves capturing a high-resolution optical snapshot of the beautiful region of Colombia, specifically the city of Sabana de Torres. This location will serve as our focal point for detailed daylight photography, true-color visual documentation, and clear optical imagery that captures the essence of this vibrant area. If necessary, we'll describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details', gracefully ignoring any 'N/A' entries.
+
+Our mission allocation priority is set to 'Priority 1 (Low Importance)', which means this request is treated as a low-priority importance task with a flexible schedule for opportunistic capture. We explicitly note that it's a non-essential background filler task that can be dropped or rescheduled at convenience, acting as a background survey or testbed tracking task.
+
+The primary sensor for this mission is 'VIS', which will be used to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance. This will help us understand the health of the local vegetation, providing valuable insights into environmental conditions.
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for "in three days overnight". This phrase must be included verbatim in our request as the stated upper limit for data availability, without any rephrasing, shortening, or altering the time of day mentioned.
+
+In summary, this task is a low-priority importance request that involves capturing detailed daylight photography and true-color visual documentation using a VIS sensor on the beautiful region of Colombia's Sabana de Torres. The deadline is set for "in three days overnight", ensuring that our automated satellite constellation planner has the necessary information to schedule this task appropriately within the given timeframe.

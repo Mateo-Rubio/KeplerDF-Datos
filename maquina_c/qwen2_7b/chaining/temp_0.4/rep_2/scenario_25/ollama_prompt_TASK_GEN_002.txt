@@ -1,0 +1,13 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, I aim to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The operational guidelines guide us in interpreting the JSON parameters naturally.
+
+Given the context of the 'region_name' being "Norte" and both 'country' and 'city' fields as "N/A", our description of the location will focus on this single, relevant detail. The primary sensor specified is "TIR", which we interpret as requiring thermal mapping to capture a heat signature or surface temperature profile for our observation needs.
+
+The priority level is set at 1, indicating low importance and flexibility in scheduling. This request can be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It should be considered a "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The target day is specified as "in three days", and the target diurnal period is "in the evening". We must include this phrase verbatim in our request, as it represents the upper limit for data availability. The deadline for this task has already been resolved by an upstream module, and we do not need to rephrase or shorten it.
+
+In conclusion, my request to the automated satellite constellation planner will be:
+
+"Please conduct thermal mapping of Norte, focusing on capturing heat signatures or surface temperature profiles using a TIR sensor. This task is of low priority importance with a flexible schedule for opportunistic capture. The deadline for data availability is in three days, specifically in the evening. Please proceed with this standard background survey or testbed tracking task as per our operational guidelines."
+
+This request incorporates the interpretation of geographical context, mission allocation priority, sensors and physical objectives, and delivery deadline according to the provided JSON metadata.

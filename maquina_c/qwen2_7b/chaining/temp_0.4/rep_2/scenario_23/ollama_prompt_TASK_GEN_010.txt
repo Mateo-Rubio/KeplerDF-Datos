@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves capturing data from the region of Colombia, specifically the city of Maní. The primary sensor to be utilized is Thermal Infrared (TIR), aiming to capture thermal mapping for heat signature detection and surface temperature profiling. This task is labeled as a low priority importance request with a flexible schedule for opportunistic capture, designated as a non-essential background filler task.
+
+The operational guidelines dictate that the location should be described using realistic combinations of country, city, and landmark fields from 'location_details', while avoiding raw technical system tags, underscores, or coordinate arrays. Since the 'landmark' field is "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'. In this case, Colombia and Maní are sufficient for the description.
+
+The mission allocation priority level is set to 1, which implies a low priority importance request with a flexible schedule for opportunistic capture. This means the operator explicitly notes to drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for today during the afternoon. This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request involves capturing thermal mapping data from Colombia's Maní city using a TIR sensor during today's afternoon period. This task is classified as a low priority background filler, with a flexible schedule and no strict deadlines beyond today's afternoon timeframe.

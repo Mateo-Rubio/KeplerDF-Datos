@@ -1,0 +1,18 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target context involves using the primary sensor "NIR" (near-infrared reflection) for water body boundary mapping and soil moisture assessment. This task is related to capturing gradients in Indonesia, specifically within an ecuatorial city, aiming to discriminate soil moisture levels.
+
+The mission allocation priority level is set at 1 (low importance), indicating that this request is a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience," treating it as a "background survey" or "testbed tracking task." The deadline for this task has already been resolved by an upstream module, and it is specified that the data will be available "in three days in the evening."
+
+The request should be executed with a casual, highly flexible tone to reflect the low priority nature of the task. This involves framing the operational objectives naturally without using raw technical system tags, underscores, or coordinate arrays. The geographic context combines the country and city details from 'location_details' to describe the location using realistic combinations of fields. If any of the provided country, city, or landmark details are "N/A," they should be gracefully ignored and described using the remaining valid fields or the clean 'region_name.'
+
+The mission allocation priority is interpreted according to operational guidelines:
+- Priority 3 (High Importance): Absolute institutional priority, binding contract requirement, critical payload capture, urgent operational execution, un-preemptable mission lock.
+- Priority 2 (Medium Importance): Professional, standard operational tasking, commercial tasking, routine monitoring, baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.
+- Priority 1 (Low Importance): Casual, highly flexible tone, low priority importance request with flexible schedule for opportunistic capture.
+
+In this case, since the priority level is 1, the language should reflect a casual and flexible tone. The physical objectives are interpreted as follows:
+- VIS: High-resolution optical snapshot for daylight photography, clear optical imagery, true-color visual documentation.
+- SAR: Active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry.
+- TIR: Thermal mapping to capture heat signature, surface temperature profile, thermal anomaly detection, and mapping heat emissions.
+- VNIR: Multispectral vegetation analysis to assess chlorophyll absorption level, calculate the NDVI index (Normalized Difference Vegetation Index) and surface reflectance.
+
+The final request should be a seamless paragraph that integrates these guidelines and operational objectives into a natural, conversational format, ensuring that the target task context JSON is accurately reflected in the request.

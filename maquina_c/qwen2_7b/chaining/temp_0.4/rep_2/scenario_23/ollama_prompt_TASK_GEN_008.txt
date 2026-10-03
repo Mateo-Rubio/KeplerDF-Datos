@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves the 'region_name' and nested 'location_details'. For this task, we're focusing on the 'country' and 'city', which are 'Italia' and 'Burzanella', respectively. We'll describe the location using realistic combinations of these fields along with any other valid parameters or the clean 'region_name' if necessary.
+
+The mission allocation priority is determined by the 'priority_level'. In this case, it's set to 1, indicating a low importance request with a flexible schedule for opportunistic capture. This can be framed as a "non-essential background filler task" that can be "dropped or rescheduled at convenience", treated as a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives are interpreted from the 'primary_sensor' key, which is set to "SAR". This sensor type will be used for an "active radar scan" employing "microwave surface imaging" to capture ground geometry, suitable for cloud-penetrating observations.
+
+The delivery deadline is already resolved by an upstream module, specified as "in three days during the afternoon". This phrase must be inserted verbatim into the request, indicating the upper limit for data availability without rephrasing or altering the time of day.
+
+In summary, we're requesting a satellite mission to capture high-resolution active radar scans of Burzanella, Italia, using microwave surface imaging for cloud-penetrating observations during the afternoon three days from now. This task is classified as a low priority importance request with flexible scheduling requirements, fitting into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
