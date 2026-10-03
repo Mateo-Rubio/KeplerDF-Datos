@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating a JSON metadata object into a conversational English request for an Earth-observation mission. Let's break down the components:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data capture should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time during which the observation should occur.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained in the 'target_diurnal_period' string. This word will be used verbatim in the final request to describe when the observation should take place.
+
+d) The deadline specified by 'target_day' and 'target_diurnal_period' must be adhered to without alteration. Therefore, the observation must occur "overnight tomorrow," and we are not shifting this deadline to any other part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task with a flexible schedule for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience, serving as a background survey. The focus is on near-infrared reflection to assess water body boundary mapping and soil moisture assessment. The target location is Ibagué, Colombia. Please ensure this observation occurs overnight tomorrow.
