@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day for the satellite capture.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "evening". This word must be included in the final request to ensure clarity about the timing of the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified time for the observation is strictly "in the evening", and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority task request for a high-resolution optical snapshot over Silvania, Colombia. This mission is a critical payload capture under a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock. The satellite must deliver this clear optical imagery in three days, specifically in the evening, to ensure compliance with our strict operational deadline.

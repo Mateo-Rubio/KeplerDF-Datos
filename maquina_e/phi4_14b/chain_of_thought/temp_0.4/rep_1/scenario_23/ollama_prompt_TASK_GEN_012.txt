@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data products need to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning." This word must be used literally in the final request to accurately convey the timing of the task.
+
+d) There is no indication or instruction to shift the deadline to a different part of the day. The deadline is strictly set for "the day after tomorrow, in the morning," and it is critical not to alter this timeframe for operational accuracy.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a routine monitoring mission over Malinau, Indonesia. This involves using the near-infrared reflection capabilities of our satellite constellation to perform water body boundary mapping and soil moisture assessment. The aim is to gather data that will help in discriminating gradients effectively. This request forms part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that this task is executed on the day after tomorrow, specifically in the morning, as per our scheduling requirements.
