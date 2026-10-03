@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, the Earth-observation mission operator would request a task as follows:
+
+On the day after tomorrow, around mid-day, the satellite constellation planner is tasked with capturing high-resolution optical imagery of Nunchía, Colombia. This daylight photography aims to provide clear visual documentation of the region's landscape and features. The primary sensor for this mission will be the VNIR (visual near-infrared) camera, which will conduct multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index, as well as surface reflectance data.
+
+This task is designated as a low priority importance request with flexible scheduling considerations. It is framed as a non-essential background filler task that can be dropped or rescheduled at convenience, treating it as an opportunistic survey or testbed tracking task. The deadline to deliver the data products is strictly adhered to as specified in the metadata, without any alteration, extension, or reinterpretation of the deadline.
