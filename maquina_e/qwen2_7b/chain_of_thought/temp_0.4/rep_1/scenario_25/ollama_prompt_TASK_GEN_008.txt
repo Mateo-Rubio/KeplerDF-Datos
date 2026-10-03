@@ -1,0 +1,18 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Given the operational context provided by the JSON metadata, our Earth-observation mission requires a standard operational tasking involving a routine monitoring activity. Specifically, we aim to capture high-resolution optical imagery of the region in Prati di Tivo, Italy, using a VNIR sensor. This daylight photography will serve as crucial visual documentation for the area.
+
+The mission is scheduled to commence on the day that arrives four days from now, with the primary requirement being an active radar scan conducted during the morning hours. This microwave surface imaging will provide cloud-penetrating capture capabilities, essential for obtaining ground geometry details even under adverse weather conditions.
+
+This tasking aligns with our baseline pipeline tracking setup and represents a fixed parameter operation within our normal workflow. The priority level assigned to this mission is medium importance, indicating that while it is not an urgent operational execution or a binding contract requirement, it carries the weight of a standard operational task that contributes to our routine monitoring efforts.
+
+As such, we will ensure the delivery of thermal mapping data, capturing heat signatures and surface temperature profiles, as well as vegetation analysis through multispectral imaging. We aim to assess chlorophyll absorption levels and calculate the NDVI index for this region, providing insights into the health and composition of the vegetation cover.
+
+The deadline for delivering these data products is set for the morning on the day four days from now, which aligns with our operational parameters and does not require any adjustment. We will adhere to this strict deadline to meet our mission objectives without compromising the integrity or quality of the data collected.
