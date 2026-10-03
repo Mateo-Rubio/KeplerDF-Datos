@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request for immediate action. Here's the structured information:
+
+The primary sensor required for this observation is NIR, aiming at multispectral vegetation analysis to assess chlorophyll absorption levels or calculate the Normalized Difference Vegetation Index (NDVI) alongside surface reflectance measurements. The targeted location is Rokan Hilir in Indonesia, with a focus on water body boundary mapping and soil moisture assessment for gradient discrimination.
+
+Given these operational guidelines:
+
+1. **GEOGRAPHIC CONTEXT**: We need to describe the specified region without using technical tags or coordinates. Instead, we'll refer to it as a part of Indonesia known for its significant water bodies and soil moisture characteristics, which is Rokan Hilir city.
+
+2. **MISSION ALLOCATION PRIORITY**: The priority level assigned here indicates that this request should be treated with low importance. Therefore, the tone will reflect a casual approach to scheduling while still conveying the necessity of completing this task as part of our routine monitoring efforts. It's essentially an opportunistic capture aiming for flexibility in timing and execution.
+
+3. **SENSORS AND PHYSICAL OBJECTIVES**: The NIR sensor is crucial for understanding near-infrared reflection, which will be used to map water boundaries effectively or assess soil moisture gradients—a key aspect of environmental monitoring and resource management in the region.
+
+4. **DELIVERY DEADLINE**: It's imperative that this data is collected "the day after tomorrow overnight," as stated by an upstream module, ensuring timely delivery within a specified period without using explicit time references or countdown metrics.
+
+Here’s the request framed accordingly:
+
+"I am initiating a low-priority importance task for Rokan Hilir in Indonesia to conduct multispectral vegetation analysis with our NIR sensor, focusing on water body boundary mapping and soil moisture assessment. This background survey is scheduled flexibly 'the day after tomorrow overnight.' The data obtained will contribute significantly to our routine monitoring of the region's environmental parameters."
