@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string which matches one of the options {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) The deadline specified is for data delivery and not for the time of satellite capture. Therefore, the deadline must remain strictly as "tomorrow morning," without any shift to another part of the day. The task must be completed by this specific timeframe to meet operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a high-resolution optical snapshot over Mapiripán, Colombia. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need clear optical imagery captured tomorrow in the morning to ensure accurate and timely data delivery for ongoing monitoring activities.
