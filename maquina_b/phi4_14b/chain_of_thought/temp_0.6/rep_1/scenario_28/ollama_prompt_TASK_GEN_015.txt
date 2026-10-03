@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days". This indicates the specific deadline for the task to be completed.
+
+b) The exact string within 'target_diurnal_period' is "overnight". This specifies the time frame during which the data should be captured.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight". This term must appear literally in the final request to accurately describe when the task should occur.
+
+d) It's important to confirm that we are not altering the deadline. The term "overnight" clearly defines the period during which the data capture should take place, and it aligns with the specified "in four days" deadline without shifting it to any other part of the day. Therefore, the deadline remains strictly as described.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule on an opportunistic capture in Malaysia, specifically around Rumah Budak. This task is a non-essential background filler task that can be dropped or rescheduled at convenience. It involves a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data should be captured overnight, in four days.

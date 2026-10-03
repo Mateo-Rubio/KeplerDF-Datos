@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves a satellite mission over Colombia, specifically the city of Cimitarra. We need to translate the provided metadata into a conversational request while adhering to specific guidelines.
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the deadline for delivering the data products, emphasizing that we must capture the required imagery by this time without any alterations or extensions.
+
+b) The exact string for 'target_diurnal_period' is "in the evening." This specifies the time of day when the satellite should perform its task, ensuring the mission aligns with the desired diurnal conditions.
+
+c) The single word contained in the 'target_diurnal_period' string that matches our options is "evening." This must be included verbatim in the final request to accurately reflect the operational timeframe.
+
+d) It is crucial to confirm that we are not shifting the deadline to an adjacent part of the day. The requirement is strictly for "the day after tomorrow, in the evening," and any deviation from this would not comply with the given parameters. Therefore, the deadline remains fixed at the specified time.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a satellite mission over Cimitarra, Colombia. This is an opportunistic capture with a flexible schedule, allowing us to treat it as a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to conduct an active radar scan using microwave surface imaging, which will provide cloud-penetrating capture and help map ground geometry. We are looking for data on the day after tomorrow, in the evening, so please ensure this task fits within the flexible schedule without disrupting higher priority missions.

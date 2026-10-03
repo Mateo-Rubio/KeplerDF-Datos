@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data is needed.
+
+b) The exact string for 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should ideally occur, aligning with the operational requirements.
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request to accurately reflect the specified diurnal period.
+
+d) I need to confirm that I am not shifting the deadline to an adjacent part of the day. The requirement explicitly states "in the evening," and there is no indication or allowance for adjustment to morning, mid-day, afternoon, or overnight. Therefore, the deadline remains strictly "the day after tomorrow in the evening."
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for opportunistic capture. This task can be treated as a non-essential background filler task, where we might drop or reschedule at convenience. The focus is on Radicondoli, Italy, and involves thermal mapping to capture a heat signature or surface temperature profile. We aim for this data the day after tomorrow in the evening.
