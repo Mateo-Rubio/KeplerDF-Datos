@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This is the word I will use in my final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' parameter specifies a strict operational deadline, which corresponds to the overnight period, and I will maintain this temporal constraint in my final request.
+
+STAGE 2 - FINAL REQUEST
+
+...We require an absolute institutional priority for a high-resolution optical snapshot for daylight photography over France, specifically targeting the city of Ponte-Novo. The mission allocation authority has deemed this tasking critical for a mandatory directive involving a binding contract requirement for a critical payload capture. We need to execute this task as soon as possible tomorrow overnight...

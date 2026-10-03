@@ -1,0 +1,14 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, and I will ensure that the final request reflects this.
+
+Now, I'm ready to move on to Stage 2. Here's the final request:
+
+```prompt
+Please task the satellite to capture a near-infrared reflection for water body boundary mapping and soil moisture assessment over Indonesia, specifically in Sintang, with a flexible schedule for opportunistic capture as part of a non-essential background filler task. The data products are required overnight in three days.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) Upon reviewing the provided context, it appears that the deadline is being specified as a specific day ("tomorrow") and a diurnal period ("overnight"), rather than an adjacent part of the day. This suggests that the deadline is not being shifted to an adjacent part of the day, but rather is a strict operational deadline for delivering the data products.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The task involves a low-resolution near-infrared reflection capture using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. This is a commercial tasking with a flexible schedule for opportunistic capture, and we note that it can be dropped or rescheduled at convenience if necessary. The task should be executed tomorrow overnight...
