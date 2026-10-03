@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing data on Malaysia, specifically in the area of Rumah Budak. Combining the JSON parameters naturally, we describe this location using Malaysia as the country and Rumah Budak as the city, since 'landmark' is "N/A". The mission allocation priority level is set to 1, indicating a low importance request with a flexible schedule for opportunistic capture.
+
+The primary sensor specified is VNIR (Visible Near-Infrared), which will be used to assess the chlorophyll absorption level and calculate the vegetation NDVI index. This task involves capturing high-resolution optical snapshots for daylight photography, clear optical imagery, or true-color visual documentation of the area.
+
+The delivery deadline is "in four days overnight", which is the upper limit for data availability as determined by an upstream module. The request is framed as a low priority importance task with a flexible schedule for opportunistic capture, treating it as a background survey or testbed tracking task.
+
+In conclusion, our mission is to gather VNIR data on Malaysia's Rumah Budak area during the overnight period, four days from now, without altering the deadline phrase verbatim. The request is submitted to ensure smooth integration into the baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize naturalness and validation accuracy by interpreting the provided data organically.
+
+The geographic context involves capturing a high-resolution optical snapshot of the city of Brenna, located in the country of Italia. This imagery will serve as daylight photography, providing clear visual documentation for our baseline pipeline tracking setup. The mission allocation priority is set at low importance, indicating that this request is part of our standard operational tasks with flexible scheduling.
+
+Our primary sensor will be a VIS (visual) sensor, which will capture true-color visual documentation of the urban landscape in Brenna. This will enable us to assess the city's features and infrastructure without interference from cloud cover or heavy weather conditions. As we are focusing on low priority importance, there is no strict deadline for this task. We can drop or reschedule it at our convenience, treating it as a background survey.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the upper limit for data availability being "tomorrow in the morning". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We do not need to rephrase or shorten it and will not include raw UTC timestamps or countdown metrics.
+
+In summary, our task involves capturing high-resolution optical imagery of Brenna, Italia, using a VIS sensor. This is part of our standard operational tasks with flexible scheduling and a low priority importance level. The deadline for data availability is "tomorrow in the morning". We are looking forward to receiving this data to support our baseline pipeline tracking setup.

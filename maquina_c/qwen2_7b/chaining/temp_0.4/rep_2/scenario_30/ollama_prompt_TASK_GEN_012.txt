@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing data on the Indonesian region of Kotawaringin Timur. This location is described using realistic combinations of country, city, and landmark fields from 'location_details'. The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging. This technique will allow us to capture cloud-penetrating data, providing unique insights into ground geometry that are not available through optical sensors alone. The task aims to gather this information during the overnight period on the target day, which is tomorrow.
+
+The request is structured to reflect specific operational phrases that emphasize this as a standard operational task with priority level 2, implying normal operational status or a workflow update. The language heavily implies an urgent operational execution and an un-preemptable mission lock due to the nature of the data being captured by the SAR sensor.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set for tomorrow overnight, which is the stated upper limit for data availability. This phrase must be inserted verbatim into our request, as the final data availability date. 
+
+In conclusion, this task involves capturing high-resolution SAR imagery of Kotawaringin Timur during the overnight period on tomorrow, with a medium priority level indicating standard operational status and a fixed deadline set for the completion of the mission by tomorrow night.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic dataset by translating raw physical simulation metadata into a conversational English request.
+
+The geographic context involves observing Indonesia's Malinau region overnight tomorrow, using a Near-Infrared sensor for near-infrared reflection observations. This task aims to map water body boundaries and assess soil moisture levels, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Given the location details, we're focusing on Indonesia as a whole since specific city or landmark information is unavailable. The priority level indicates this request is of low importance, allowing for flexible scheduling and treating it as a non-essential background filler task. We can drop or reschedule this at convenience, considering it a background survey or testbed tracking task.
+
+The deadline for this task has already been set by an upstream module: "tomorrow overnight". This phrase must be included in the request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day. We're not outputting raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task involves capturing near-infrared reflections from water bodies and soil moisture assessments in Indonesia overnight tomorrow, with no strict deadline implications beyond the provided timeframe. The operation is conducted under low priority importance guidelines, ensuring a casual tone and flexible schedule for opportunistic capture.
