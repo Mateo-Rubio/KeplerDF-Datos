@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English task request. My focus is on combining the JSON parameters organically, interpreting the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+Considering the given JSON target task context:
+
+- **GEOGRAPHIC CONTEXT**: We are looking at a location in Colombia, specifically Andina city. The region name serves as a clear geographic reference.
+- **MISSION ALLOCATION PRIORITY**: The 'priority_level' is set to 3, indicating High Importance. This translates into an "absolute institutional priority" or a "binding contract requirement", requiring "urgent operational execution" and an "un-preemptable mission lock".
+- **SENSORS AND PHYSICAL OBJECTIVES**: The primary sensor specified is VIS (Visible Imaging System). This means we aim for a "high-resolution optical snapshot" for "daylight photography", providing "clear optical imagery" or "true-color visual documentation" of the region.
+- **DELIVERY DEADLINE**: The deadline is set for "tomorrow during the afternoon". This is the upper limit for data availability and must be included in the request.
+
+To summarize, my request is as follows:
+
+"Given the absolute institutional priority for High Importance tasking, we are seeking an 'urgent operational execution' involving a 'high-resolution optical snapshot' using a VIS sensor for 'daylight photography', providing 'clear optical imagery' or 'true-color visual documentation' of the region in Colombia, specifically Andina city. This request is part of an 'un-preemptable mission lock' and must be executed during the afternoon on tomorrow's date to adhere to the deadline set."
+
+This encapsulates the essence of translating raw JSON metadata into a natural, conversational English task request that adheres to operational guidelines.
