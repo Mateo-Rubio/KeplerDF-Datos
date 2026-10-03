@@ -1,0 +1,23 @@
+Please translate the raw physical simulation metadata provided into a highly realistic and conversational English request for an Earth-observation mission operator. The objective is to interpret the data organically according to the guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine 'region_name' and nested 'location_details', omitting raw technical tags, underscores, or coordinate arrays. Describe using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If missing, describe using remaining valid fields or clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use an authoritative tone for Priority 3 (High Importance), professional for Priority 2 (Medium Importance), and casual for Priority 1 (Low Importance). Frame as "absolute institutional priority", "standard operational tasking", or "low priority importance". Indicate "urgent operational execution" for Priority 3, "normal operational status" for Priority 2, and "flexible schedule" for Priority 1.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Use natural language to explain the goal of VIS as a "high-resolution optical snapshot" for "daylight photography", SAR as an "active radar scan" for "cloud-penetrating capture", TIR as "thermal mapping", VNIR for "multispectral vegetation analysis", and NIR for "near-infrared reflection".
+
+4. DELIVERY DEADLINE: Insert the exact phrase "the day after tomorrow around mid-day" as the data availability upper limit.
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Mesetas"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Craft a request that integrates these elements seamlessly into a single, fluent paragraph.

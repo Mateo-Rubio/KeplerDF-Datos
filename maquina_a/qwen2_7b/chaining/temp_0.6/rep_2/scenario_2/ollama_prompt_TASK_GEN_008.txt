@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a conversational English request to our automated satellite constellation planner. The primary sensor specified is TIR, which, in our operational context, translates to thermal mapping for capturing heat signatures or surface temperature profiles. This task involves observing Correggioli, Italy, a location described as part of the "Italia" country landscape, without additional city details.
+
+The priority level for this mission allocation is Low Importance, denoted by Priority 1. This implies that the request is treated as a non-essential background filler task with a flexible schedule for opportunistic capture, akin to a "background survey" or "testbed tracking task". Due to the nature of our operational guidelines, we do not emphasize the urgency or deadline, but rather focus on the context and objectives.
+
+The delivery deadline set by an upstream module is "the day after tomorrow in the evening". This phrase must be inserted into our request verbatim as the upper limit for data availability without any rephrasing, shortening, or changing its time of occurrence.
+
+In conclusion, our mission aims to capture thermal data from Correggioli, Italy, using a TIR sensor at night on the specified day. The task is considered low priority with a flexible schedule for data acquisition, ensuring that this "background survey" remains part of our ongoing operational pipeline without disrupting higher-priority tasks.

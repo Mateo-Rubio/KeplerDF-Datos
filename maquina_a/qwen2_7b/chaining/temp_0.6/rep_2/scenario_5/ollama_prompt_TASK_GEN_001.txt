@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy. The operational guidelines guide us through interpreting geographic context, mission allocation priority, sensors and physical objectives, as well as delivery deadlines.
+
+The target context for our task involves Colombia's picturesque city of Curití. Our primary sensor is set to VNIR, aiming for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This involves capturing surface reflectance data that will provide insights into the health and productivity of the local flora.
+
+Considering the 'priority_level' at medium importance (2), our request is framed as a standard operational tasking part of the baseline pipeline tracking setup. The mission's parameters are set with fixed values, representing normal operational status. We emphasize the critical nature of this task in maintaining baseline surveillance, with the understanding that it is a routine monitoring activity.
+
+The delivery deadline for this task has been resolved by an upstream module: "the day after tomorrow in the evening". Our request incorporates this phrase verbatim as the upper limit for data availability, ensuring that we adhere to the established timeline without rephrasing or altering its timing.
+
+In summary, our request is as follows:
+
+"As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, I seek to capture high-resolution multispectral vegetation analysis over Colombia's charming city of Curití using VNIR sensors. This task, prioritized at medium importance (2), aims to provide critical baseline surveillance data, essential for routine monitoring activities. The deadline for this data availability is set as 'the day after tomorrow in the evening', adhering strictly to the established timeline without any rephrasing or adjustments."
+
+The request is crafted to reflect operational nuances while maintaining a clear and concise communication style that aligns with our mission's guidelines."
