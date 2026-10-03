@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string for 'target_diurnal_period' is "overnight". This word will be used literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day, as the 'target_diurnal_period' specifically states "overnight", which implies a nighttime window. The deadline remains unchanged, and the task must be completed within the specified timeframe.
+
+STAGE 2 - FINAL REQUEST
+
+...The Colombian region of Samacá is designated as an absolute institutional priority for thermal mapping using active thermal imaging. We require a high-resolution thermal snapshot to capture a heat signature and surface temperature profile overnight in three days. This critical payload capture is a binding contract requirement, and it is essential that we execute this mission with utmost urgency and un-preemptable mission lock to ensure timely delivery of the data products...

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This is the word that must appear literally in the final request.
+
+d) Upon reviewing the task context JSON, it's clear that the deadline is explicitly stated as "tomorrow" and "overnight", which implies that the task should be completed by the next day during the nighttime hours. I am not shifting the deadline to an adjacent part of the day; rather, I'm interpreting the deadline as it's written.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low-priority importance request for opportunistic capture with a flexible schedule. The task involves an active radar scan using microwave surface imaging for cloud-penetrating capture overnight tomorrow. This will allow us to pierce heavy weather and capture ground geometry during the nighttime hours. We consider this a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
