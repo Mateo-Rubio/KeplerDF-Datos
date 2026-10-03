@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. The primary sensor required for this mission is Thermal Infrared (TIR), which will be used for thermal mapping purposes. We aim to capture a heat signature and conduct surface temperature profiling, seeking out thermal anomalies and mapping heat emissions.
+
+The geographic context involves Claut, a city in the country of Italia. Our target day for this task is "the day after tomorrow", with the specific diurnal period set for "in the morning". This request falls under medium importance due to its operational status, representing a standard baseline pipeline tracking setup with fixed parameters that reflect normal operational status.
+
+To maximize the naturalness and validation accuracy of our dataset, we interpret the metadata organically according to the provided guidelines. We combine the JSON parameters naturally, describing the location using realistic combinations of 'country' and 'city'. Since 'landmark' is not provided, we focus on the clean 'region_name', which in this case is Italia.
+
+The deadline for this task has been resolved by an upstream module, set as "the day after tomorrow in the morning", serving as the upper limit for data availability. We do not rephrase or shorten this phrase and ensure it stays verbatim in our request.
+
+In summary, our mission aims to capture critical thermal information using TIR sensors, focusing on a high-resolution thermal map of Claut, Italia, within the specified deadline. This task is part of our standard operational pipeline with medium priority, contributing to normal workflow updates and baseline tracking activities.

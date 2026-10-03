@@ -1,0 +1,17 @@
+```prompt
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. The goal is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. 
+
+The geographic context of our mission involves observing Puerto Libertador, a location within the captivating country of Colombia. This region boasts a rich landscape that encompasses various terrains and ecosystems, offering a unique opportunity for comprehensive observation.
+
+Our primary sensor to be utilized is VIS (Visible Imaging Sensor), aimed at obtaining a detailed daylight photograph or clear optical imagery of the area around mid-day in three days. The objective is to gather true-color visual documentation that captures the essence of this region under natural sunlight, providing insights into its natural beauty and potential environmental conditions.
+
+Given our priority level of 1, this request falls under the category of low importance within our mission allocation hierarchy. It is explicitly noted as a non-essential background filler task with a flexible schedule for opportunistic capture. We treat it as a background survey or testbed tracking task that can be easily rescheduled or dropped at convenience.
+
+To summarize the operational objectives and descriptors:
+- VIS: High-resolution optical snapshot, daylight photography, clear optical imagery, true-color visual documentation.
+- Target Day: Three days in the future, around mid-day.
+- Target Diurnal Period: Around mid-day ensures optimal conditions for visual observation without cloud interference or shadows obscuring the landscape.
+
+This request aligns with our baseline pipeline tracking setup, representing standard operational tasks with fixed parameters that reflect normal operational status. It does not imply an urgent deadline but rather a standard workflow update within our routine monitoring activities.
+
+In conclusion, this Earth-observation mission involves capturing a high-resolution optical snapshot of Puerto Libertador in Colombia using our VIS sensor around mid-day in three days. This task is categorized under low importance with flexible scheduling considerations, fitting seamlessly into our background survey or testbed tracking tasks.

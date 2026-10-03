@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. Let's interpret the given data:
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will capture an active radar scan using microwave surface imaging for cloud-penetrating capture. This will allow us to pierce through heavy weather conditions, enabling the observation of ground geometry.
+
+We're focusing on a location in Slovenia, specifically in the city of Norte. This area requires our attention due to its unique geographical context and potential environmental significance.
+
+The priority level for this task is set at Priority 1 (low importance). This means it's a low priority importance request with a flexible schedule for opportunistic capture, treated as a non-essential background filler task. The operator explicitly notes that this task can be dropped or rescheduled at convenience, considering it as a background survey or testbed tracking task.
+
+The deadline for this task is "the day after tomorrow during the afternoon", which serves as the upper limit for data availability. This phrase must be inserted verbatim into our request, as it indicates when we expect to receive the requested data.
+
+To sum up, my request to the satellite constellation planner is as follows:
+
+"Upon your receipt of this request, please capture a high-resolution optical snapshot using SAR technology with the primary objective of cloud-penetrating capture. Focus on the area in Slovenia near Norte city during the afternoon on the day after tomorrow. This task holds a low priority importance and can be scheduled with flexibility. We're looking for a clear understanding that this request will be addressed by then, as it's part of our ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status."
+
+This request integrates the provided data naturally, interpreting the metadata according to the outlined guidelines, ensuring a smooth and efficient task allocation process for our satellite constellation planner.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided JSON metadata. Here's our target context:
+
+In France, particularly in the picturesque town of Calenzana, we seek to document a high-resolution optical snapshot for daylight photography and true-color visual documentation. This mission aligns with a low priority importance and is framed as a flexible schedule, allowing for opportunistic capture as a non-essential background survey or testbed tracking task.
+
+Our primary sensor will be a VIS (visual imaging) instrument, tasked with delivering a clear optical imagery of the region. The operational guidelines dictate that we interpret this metadata organically, avoiding raw technical system tags and coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'.
+
+Given the priority level marked as 1, which is designated for low importance requests, our language must reflect a casual, highly flexible tone with an explicit note to drop or reschedule at convenience. This encapsulates our request within the context of normal operational status or a background survey task.
+
+The delivery deadline is set for "the day after tomorrow in the evening", which serves as the upper limit for data availability without any rephrasing or alteration. We aim to capture this moment with an active radar scan that utilizes microwave surface imaging capabilities, piercing through heavy weather conditions to provide a cloud-penetrating capture of ground geometry.
+
+In summary, our request is to undertake a VIS (optical) photography mission in Calenzana, France, for daylight imagery. The priority level denotes a low importance task with a flexible schedule for opportunistic capture. We anticipate the delivery deadline on "the day after tomorrow in the evening" and are prepared to incorporate an active radar scan that can penetrate clouds, offering a detailed view of the region's ground geometry. This task will serve as a background survey or testbed tracking task as needed.
