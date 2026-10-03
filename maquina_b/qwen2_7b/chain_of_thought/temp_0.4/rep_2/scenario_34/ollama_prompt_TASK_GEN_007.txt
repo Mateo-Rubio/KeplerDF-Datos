@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context provided, we are tasked with capturing a thermal mapping dataset for the region of Montelíbano, Colombia. This request carries a low priority importance, as indicated by the 'priority_level' being set at 1. The mission allocation authority and asset contractual value do not necessitate an urgent operational execution or imply a critical payload capture; instead, this task is framed as a flexible schedule "background survey" that can be "dropped or rescheduled at convenience".
+
+The primary sensor to be utilized for this mission is the TIR (Thermal Infrared) sensor, which will enable us to capture thermal mapping data. The goal of this observation is to assess heat signatures and surface temperature profiles across the region, aiming to identify thermal anomalies that may indicate various phenomena such as urban heat islands or industrial activities.
+
+The deadline for delivering these data products is set for "tomorrow overnight", meaning we are targeting an observation window during the night when conditions are most conducive for capturing clear thermal imagery without interference from sunlight. This temporal parameter represents a strict operational deadline, not an orbital capture window; hence, we must adhere to this exact timeframe.
+
+In summary, our task request involves capturing thermal mapping data for Montelíbano, Colombia, using a TIR sensor during the overnight period tomorrow. This mission is classified as a low priority importance background survey, with no implications of urgent operational execution or critical payload capture.
