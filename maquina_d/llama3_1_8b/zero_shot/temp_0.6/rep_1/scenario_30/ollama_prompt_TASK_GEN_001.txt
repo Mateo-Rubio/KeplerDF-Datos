@@ -1,0 +1,35 @@
+Translate this raw physical simulation metadata into a highly realistic and conversational English request for Earth observation mission allocation:
+
+1. Geographic context:
+   - Combine 'country', 'city', and 'landmark' fields from 'location_details' naturally to describe the location.
+   - If any of these fields are "N/A", ignore them and use the clean 'region_name' or remaining valid fields.
+
+2. Mission allocation priority:
+   - Priority 3 (High Importance): Use an authoritative tone, framing it as an "absolute institutional priority" involving a "critical payload capture".
+   - Priority 2 (Medium Importance): Describe it as a "standard operational tasking" with "fixed parameters" representing "normal operational status".
+   - Priority 1 (Low Importance): Frame it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. Sensors and physical objectives:
+   - VIS: Explain as a "high-resolution optical snapshot" for "daylight photography" or "true-color visual documentation".
+   - SAR: Describe as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture".
+   - TIR: Explain as "thermal mapping" to capture a "heat signature" or "thermal anomaly detection".
+   - VNIR: Explain as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index".
+   - NIR: Describe as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment".
+
+4. Relative timeframes:
+   - Interpret 'target_day' and 'target_diurnal_period' as a strict operational deadline to deliver data products, NOT the orbital capture window.
+   - Use phrases like "...needed by [target_day] [target_diurnal_period] at the latest" or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Translate the target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Sabana de Torres"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Final request: "Tasking for Colombia's Sabana de Torres to capture high-resolution optical snapshot imagery using multispectral vegetation analysis, prioritized as an absolute institutional priority with critical payload capture. Needed by in four days in the morning at the latest."
