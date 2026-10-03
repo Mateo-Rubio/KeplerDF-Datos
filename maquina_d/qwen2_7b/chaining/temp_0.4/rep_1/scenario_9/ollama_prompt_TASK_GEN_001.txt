@@ -1,0 +1,24 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The request is based on raw physical simulation metadata provided in JSON format below:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "San José del Guaviare"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The geographic context of our mission involves a critical payload capture in Colombia, specifically within the city of San José del Guaviare. This request is categorized as an absolute institutional priority due to its high importance and contractual obligations.
+
+Our primary sensor, the Near-Infrared (NIR), aims to conduct a near-infrared reflection analysis for water body boundary mapping and soil moisture assessment. This task is essential for discriminating gradients in the area, providing valuable insights into environmental conditions.
+
+The operational guidelines dictate that we should not use raw technical system tags or coordinate arrays. Instead, we must describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", we should describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 3, signifying that this request represents a critical payload capture with an urgent operational execution. This means that our assets must be allocated in an un-preemptable manner, ensuring that this task is executed without delay.
+
+The delivery deadline for this task has already been resolved by an upstream module and is set for "tomorrow overnight". This phrase should be inserted verbatim into the request as the stated upper limit for data availability. We should not rephrase it, shorten it, or move it to a different part of the day.
+
+In conclusion, our request for a highly realistic and conversational English task submission is now complete. The automated satellite constellation planner will receive this information and proceed with the necessary satellite allocation and mission planning, ensuring that our critical payload capture mission in San José del Guaviare is executed with the highest priority and urgency.

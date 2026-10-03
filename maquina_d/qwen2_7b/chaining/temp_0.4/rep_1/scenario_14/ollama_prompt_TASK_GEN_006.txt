@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. Let's interpret the JSON data according to operational guidelines:
+
+The geographic context involves observing Indonesia, specifically Sintang city, using a high-resolution optical snapshot for daylight photography or clear optical imagery. Since the priority level is set at 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator has the freedom to drop or reschedule the mission at their convenience, treating it as a background survey or testbed tracking task.
+
+For the sensors and physical objectives, we're focusing on the primary VIS sensor. This translates to capturing a high-quality visual document of the Indonesian landscape during daylight hours, ensuring clarity and detail suitable for various applications such as environmental monitoring or urban planning.
+
+The delivery deadline is "the day after tomorrow during the afternoon," a clear upper limit for data availability without any rephrasing or adjustments. This deadline signifies when the data must be ready for analysis or dissemination, adhering to the operational timeline set by an upstream module.
+
+In summary, this Earth-observation mission involves capturing a high-resolution optical snapshot of Indonesia's Sintang city using the VIS sensor, with a low priority importance and flexible scheduling. The data must be ready on "the day after tomorrow during the afternoon" as per the deadline set by an upstream module. This request encapsulates the operational guidelines for maximizing naturalness and validation accuracy in the dataset.
