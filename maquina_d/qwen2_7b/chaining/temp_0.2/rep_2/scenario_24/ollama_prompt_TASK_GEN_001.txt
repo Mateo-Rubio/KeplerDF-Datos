@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'region_name', nested 'location_details', 'priority_level', 'primary_sensor', 'target_day', and 'target_diurnal_period' keys.
+
+Our geographic context involves Colombia, specifically the city of Sabana de Torres. The mission allocation priority is medium importance, which means this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. The deadline for this task is in three days overnight, as per the upstream module's resolution.
+
+The primary sensor is VNIR, which we interpret as a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. We aim to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation of the region.
+
+In summary, our request involves a standard operational tasking for a low-priority importance background filler task with a flexible schedule for opportunistic capture. This is labeled as a non-essential background survey or testbed tracking task, where we explicitly note to drop or reschedule at convenience. The language used reflects an authoritative tone, emphasizing the importance of this request without implying urgency based on the deadline.
+
+This request encapsulates our operational guidelines, translating technical metadata into a natural and conversational English format suitable for our automated satellite constellation planner.

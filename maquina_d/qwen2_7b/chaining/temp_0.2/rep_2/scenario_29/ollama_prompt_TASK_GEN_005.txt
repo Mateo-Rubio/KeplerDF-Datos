@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata. The objective is to translate this JSON format into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographical context of our mission involves capturing imagery over an unspecified location within Norte, a region without a specific country or city designation but with a notable landmark. We aim to gather data using the primary sensor SAR (active radar scan) for microwave surface imaging, which will enable cloud-penetrating capture, providing invaluable insights into ground geometry regardless of weather conditions.
+
+Given the priority level of 1 (low importance), this request is framed as a "flexible schedule" low priority importance task with a "non-essential background filler task". The operator explicitly notes that this mission can be "dropped or rescheduled at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has been resolved by an upstream module, and the upper limit for data availability is set for "the day after tomorrow in the evening". This phrase must be inserted verbatim into our request, as the stated time frame for data delivery.
+
+In conclusion, our mission aims to capture detailed radar imagery over Norte during the evening of the day after tomorrow. We are looking forward to receiving this data to further our understanding of the region's ground geometry without any urgency or contractual binding, treating it as a standard operational tasking within our baseline pipeline tracking setup with fixed parameters representing normal operational status.

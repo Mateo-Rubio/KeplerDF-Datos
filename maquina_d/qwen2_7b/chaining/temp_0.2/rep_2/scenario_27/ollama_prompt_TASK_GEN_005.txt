@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing a high-resolution optical snapshot of a location in "Norte", the city within "Italia". This request carries a low priority importance, implying it's a flexible schedule task for opportunistic capture, fitting as a non-essential background filler task.
+
+The primary sensor to be utilized is VIS, aiming to achieve daylight photography, clear optical imagery, and true-color visual documentation. The operational guidelines suggest avoiding raw technical system tags or coordinate arrays; instead, we should describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are unavailable, we should describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline is set for "tomorrow in the evening". This phrase serves as the upper limit for data availability, indicating when the data must be delivered. The request does not include raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task involves capturing a high-resolution VIS image of a location in "Norte", "Italia", with a low priority importance and a deadline set for "tomorrow in the evening". This request aligns with our operational guidelines for natural language interpretation and prioritization.

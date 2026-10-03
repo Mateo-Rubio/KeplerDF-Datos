@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves capturing data for the region named "Norte", which lacks specific country and city details but provides a clear location description.
+
+The mission allocation priority is set at Level 1, indicating low importance with flexible scheduling. This task is framed as a "low priority importance" request, with an explicit note to "drop or reschedule at convenience". The operator treats it as a "background survey" or "testbed tracking task", emphasizing its non-essential nature.
+
+The primary sensor for this mission is VNIR, which aims to achieve "multispectral vegetation analysis". This involves assessing the "chlorophyll absorption level" and calculating the "NDVI index" along with surface reflectance. The goal is to gather comprehensive data on vegetation health and environmental conditions.
+
+The delivery deadline is set for "in three days", around mid-day, as determined by an upstream module. This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or adjustments.
+
+In summary, our task request involves capturing VNIR data for the region named "Norte", with a low priority importance level and a flexible schedule. The deadline is set for three days around mid-day, ensuring that we adhere to the established timeline without altering its specific time frame.

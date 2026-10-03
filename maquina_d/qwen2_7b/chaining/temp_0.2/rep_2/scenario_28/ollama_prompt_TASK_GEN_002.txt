@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary sensor for this mission is VNIR, which will be used for multispectral vegetation analysis. Our objective is to assess the chlorophyll absorption level and calculate the NDVI index for the region we're focusing on.
+
+Given that the country details are not available, we'll describe the location using the city name "Norte" from the 'location_details' field. This request falls under the category of a low priority importance task, with a flexible schedule for opportunistic capture. It's explicitly noted as a non-essential background filler task, which can be dropped or rescheduled at convenience.
+
+The target day for this task is tomorrow, during the afternoon. The deadline for data availability has already been resolved by an upstream module and is set to "tomorrow during the afternoon". This phrase must be inserted verbatim into our request as the stated upper limit for data availability.
+
+Our goal is to gather information that will contribute to background survey or testbed tracking tasks, ensuring that we capture essential data without disrupting more critical operational activities. We're looking forward to receiving the results that will help us better understand the vegetation health and surface reflectance in the region of Norte.

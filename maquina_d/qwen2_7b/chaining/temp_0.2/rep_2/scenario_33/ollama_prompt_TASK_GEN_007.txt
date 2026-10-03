@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines guide us in interpreting the data naturally while ensuring accuracy.
+
+The geographic context involves the 'region_name' and nested 'location_details'. We combine parameters like country, city, and landmark fields to describe the location realistically. If these are unavailable, we use 'region_name' for a clean description. For instance, our target area is Colombia's Ibagué city.
+
+The mission allocation priority is determined by the 'priority_level' key. Priority 3 indicates an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" with an "urgent operational execution". Priority 2 is described as a "standard operational tasking", part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". Priority 1 is framed as a "low priority importance" request, allowing for a "flexible schedule" and treating it as a "background survey".
+
+Sensors and physical objectives are interpreted based on 'primary_sensor'. For VIS, we aim for a "high-resolution optical snapshot", a "daylight photography" or "true-color visual documentation". SAR involves an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture". TIR is used for "thermal mapping", capturing a "heat signature" or "surface temperature profile". VNIR is for "multispectral vegetation analysis", assessing "chlorophyll absorption level" or calculating a "NDVI index". Lastly, NIR is for "near-infrared reflection", mapping "water body boundaries" or assessing "soil moisture".
+
+The delivery deadline is set for "tomorrow overnight", the upper limit for data availability. We insert this phrase verbatim into our request without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request involves translating raw physical simulation metadata into a natural and accurate English description, considering geographic context, mission priority, sensor objectives, and delivery deadline.

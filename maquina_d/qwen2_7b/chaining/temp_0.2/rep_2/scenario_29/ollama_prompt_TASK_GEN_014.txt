@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing a location in "Norte", a city in the country of "Italia". The operational guidelines guide us to interpret the 'region_name' and nested 'location_details' without using raw technical system tags or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of the provided fields.
+
+The mission allocation priority is set at 'Priority 3', indicating an "absolute institutional priority" or a "binding contract requirement". This involves a "critical payload capture" or a "mandatory directive", with an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor to be used is "SAR", which will perform an "active radar scan" using "microwave surface imaging". The goal is to capture the scene "in the morning", providing "cloud-penetrating capture" that pierces heavy weather or captures ground geometry.
+
+The deadline for this task has already been resolved by an upstream module, stating that the data must be available "tomorrow in the morning". This phrase is inserted verbatim into our request as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request involves observing a location in "Norte", Italia, using an "SAR" sensor for an "active radar scan" in the morning. This is a high-priority mission with an urgent operational execution, aiming to capture ground geometry through cloud-penetrating imagery by tomorrow's morning deadline.

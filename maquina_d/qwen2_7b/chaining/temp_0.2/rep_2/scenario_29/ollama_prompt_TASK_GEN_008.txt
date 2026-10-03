@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that we interpret the provided JSON format in an organic manner.
+
+The geographic context involves capturing data from the region of "Italia", specifically focusing on the city of "Monte Romano". We're utilizing the primary sensor "NIR" for this task, which aims to map water body boundaries and assess soil moisture levels. This is a low priority importance request, characterized by a flexible schedule for opportunistic capture, acting as a non-essential background filler task.
+
+The mission allocation priority is set at level 1, indicating that it's a "low priority importance" request with "fixed parameters" representing "normal operational status". The language must be casual and highly flexible, treating this as a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has been resolved by an upstream module. It is set for "in four days overnight", which means the upper limit for data availability is during the night period of the fourth day from now.
+
+In summary, our request to the automated satellite constellation planner is as follows: "Please capture water body boundaries and assess soil moisture levels using near-infrared reflection in Monte Romano, Italia. This task is a low priority importance background survey with fixed parameters for normal operational status. The deadline for this task is set for four days overnight, meaning the data should be available by the end of the night on the fourth day from now."
