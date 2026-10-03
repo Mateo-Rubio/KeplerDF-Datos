@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy.
+
+GEOGRAPHIC CONTEXT: We're focusing on the region of interest in Slovenia, specifically near the city of Norte. Combining the information from 'location_details', we describe this area as a critical location within Slovenia's picturesque landscape.
+
+MISSION ALLOCATION PRIORITY: Given the priority level of 1, this request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We treat it as a "background survey" or "testbed tracking task", emphasizing its non-essential nature yet part of our operational pipeline.
+
+SENSORS AND PHYSICAL OBJECTIVES: With the primary sensor being 'TIR', we aim to capture thermal mapping data. The goal is to assess the heat signature and surface temperature profile, focusing on thermal anomaly detection and mapping heat emissions across the region.
+
+DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module, stating "in three days overnight". This phrase must be verbatim in our request as the stated upper limit for data availability.
+
+In conclusion, our Earth-observation mission operator is requesting to acquire thermal mapping data of a specific area near the city of Norte in Slovenia. The priority level indicates that this task is part of a flexible schedule with opportunistic capture capabilities. The deadline has been set by an upstream module and must be adhered to exactly as stated: "in three days overnight". This request aligns with our operational guidelines for natural language processing, ensuring accurate interpretation and translation of technical data into clear, conversational English.

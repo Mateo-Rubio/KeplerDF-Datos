@@ -1,0 +1,11 @@
+In alignment with our operational guidelines for maximizing naturalness and validation accuracy in Earth observation missions, we hereby submit a task request to the automated satellite constellation planner. Our objective is to capture highly realistic, conversational English requests based on raw physical simulation metadata provided in JSON format.
+
+The geographic context of our mission involves Indonesia's Rokan Hulu region. This location combines elements from our 'location_details', including the country and city to provide a vivid, realistic context for our satellite observation task.
+
+We are utilizing a primary sensor of Near-Infrared (NIR) technology for this mission. The operational objective here involves capturing near-infrared reflection data for mapping water body boundaries or assessing soil moisture levels, essential tasks in understanding environmental conditions and changes.
+
+The mission allocation priority has been set at medium importance, aligning with the 'priority_level' parameter. This indicates that while not an urgent operational execution, it's part of a standard baseline pipeline tracking setup, with fixed parameters representing normal operational status.
+
+Given the priority level and context, our request is framed as a 'standard operational tasking'. The delivery deadline for this data availability has been resolved by an upstream module, indicating that we aim to capture this imagery "tomorrow around mid-day".
+
+In summary, our task request involves capturing near-infrared reflection data over Rokan Hulu region in Indonesia during the mid-day period using a satellite equipped with a Near-Infrared sensor. This task is part of our standard operational pipeline and will contribute to understanding environmental conditions and water body boundaries or soil moisture assessments in the area.

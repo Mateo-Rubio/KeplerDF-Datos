@@ -1,0 +1,15 @@
+As an Earth-observation mission operator tasked with the automated satellite constellation planning, my objective is to convert raw physical simulation metadata into a highly realistic and conversational English request. The context for this task revolves around the operational guidelines provided:
+
+1. GEOGRAPHIC CONTEXT: We are focusing on Colombia, specifically the city of Curití. I will combine these natural elements to describe the location in an organic manner, omitting any raw technical system tags, underscores, or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: The request is of medium importance, as indicated by the priority level of 2. The operational language reflects this with a professional and standard tone, describing it as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is VNIR (Multispectral Vegetation Analysis), aimed at assessing chlorophyll absorption levels or calculating the NDVI index to evaluate surface reflectance and vegetation health.
+
+4. DELIVERY DEADLINE: The data must be delivered by "the day after tomorrow in the evening," which is the specified upper limit for availability, as set by an upstream module.
+
+Taking these elements into account, my request would sound like this:
+
+"Please allocate satellite resources to capture a multispectral vegetation analysis using VNIR technology on the day after tomorrow at the specified diurnal period of evening. Our focus lies in the verdant landscapes of Colombia, specifically the city of Curití. This task is part of our standard operational pipeline tracking, with fixed parameters representing normal status. We aim to assess chlorophyll absorption levels or calculate NDVI indices for vegetation health evaluation. The deadline for this data delivery is set as 'the day after tomorrow in the evening,' as determined by our upstream modules."
+
+This request encapsulates the essence of the task with natural language, aligning with the operational guidelines provided."

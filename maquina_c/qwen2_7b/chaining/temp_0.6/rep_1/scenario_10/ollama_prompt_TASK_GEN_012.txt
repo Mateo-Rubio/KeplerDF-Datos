@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request, with a focus on maximizing naturalness and validation accuracy.
+
+The geographical context of our request is based in Indonesia, specifically within the city of Sekadau. Despite the 'region_name' being the primary descriptor here, we can enrich the location by mentioning its proximity to major landmarks or its characteristics as part of Indonesia's diverse landscape.
+
+Given that the primary sensor involved is near-infrared (NIR), our mission allocation priority is set at low importance (Priority 1). This task serves as a flexible schedule background survey, where the operator explicitly notes to "drop or reschedule at convenience" and treats it as a "background survey" or "testbed tracking task". The language used reflects this operational phrase with a casual, highly flexible tone.
+
+For delivery, the deadline is set for tomorrow in the morning. The phrase "tomorrow in the morning" must be inserted verbatim into the request to denote the upper limit for data availability, as dictated by the upstream module's resolution.
+
+The objective of this task is to capture near-infrared reflection for water body boundary mapping or soil moisture assessment. This process allows us to discriminate gradients effectively, providing valuable insights into environmental conditions and changes.
+
+In summary, our task request combines operational guidelines to address geographical context, mission allocation priority, sensors and physical objectives, and the delivery deadline in a single, coherent paragraph that adheres to the provided JSON format.

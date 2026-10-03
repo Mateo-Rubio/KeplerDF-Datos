@@ -1,0 +1,9 @@
+In four days overnight, the automated satellite constellation planner is tasked with capturing a high-resolution optical snapshot of Toledo, Colombia. This daylight photography mission aims to provide clear optical imagery for day-to-day operational use or true-color visual documentation that can inform various sectors requiring up-to-date geographical insights.
+
+Given its low priority importance and flexible schedule, this task serves as a non-essential background filler. The operator explicitly notes the request as "drop or reschedule at convenience," positioning it within the context of opportunistic surveying or testbed tracking tasks.
+
+The primary sensor involved in this mission utilizes visible light wavelengths to achieve its objectives, ensuring that the data collected can be utilized for various applications requiring high-resolution imagery. No technical system tags or coordinate arrays are used here; instead, the location is described using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If necessary, the description would be gracefully adapted to use only the remaining valid fields or the clean 'region_name'.
+
+As this task falls under priority level 1, it is labeled as "low priority importance" with "flexible parameters" representing "normal operational status". It's framed as a background survey that can be adjusted in the operational schedule without affecting critical payload capture or contractual requirements.
+
+Upon completion of this mission, the data will be available for use within the timeframe specified: four days overnight. This deadline has already been resolved by an upstream module and must be included verbatim in the request, with no rephrasing, shortening, or movement to a different part of the day.
