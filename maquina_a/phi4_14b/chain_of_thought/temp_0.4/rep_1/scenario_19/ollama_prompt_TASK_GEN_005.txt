@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day during which the observation should occur.
+
+c) The single word contained in the string "in the evening" that matches the options provided is "evening." This word must appear literally in the final request to accurately reflect the timing of the operation.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The original specification clearly states "in the evening," and there is no indication or instruction to alter this timeframe. Therefore, the deadline remains strictly set for the evening on "the day after tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite constellation to perform an active radar scan using microwave surface imaging over the region of Norte. This mission involves cloud-penetrating capture and is part of our baseline pipeline tracking setup with fixed parameters. The data collection should occur in the evening on the day after tomorrow, aligning with our normal operational status and workflow update requirements.
