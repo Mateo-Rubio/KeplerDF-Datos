@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string, which must appear literally in the final request, is "overnight".
+d) Yes, I confirm that the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the raw JSON metadata, our request focuses on a medium-importance task with a primary sensor set to "NIR". The geographical context involves the country of Indonesia and the city of Murung Raya. 
+
+The mission is allocated with a "standard operational tasking" status, emphasizing normal operational status or routine monitoring within a baseline pipeline setup. This task features fixed parameters that represent standard workflow updates.
+
+In four days, at an "overnight" period, we aim to capture critical data. This timeframe necessitates an "active radar scan" for "cloud-penetrating capture", using microwave surface imaging technology provided by the "NIR" sensor. The goal is to assess "water body boundary mapping" or conduct a "soil moisture assessment" to discriminate gradients in soil conditions.
+
+The objective is to ensure that this task is executed as part of our baseline pipeline tracking, with data products delivered by the stipulated deadline without any alteration to the operational workflow or shift in temporal parameters. This request underscores the importance of adhering to predefined operational schedules while managing priorities effectively within our constellation's planning framework.
