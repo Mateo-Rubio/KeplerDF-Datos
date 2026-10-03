@@ -1,0 +1,106 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The task requires translating the provided JSON metadata into a natural language request. The goal is to create a clear and concise request that accurately reflects the mission objectives and requirements.
+
+Based on the provided guidelines, we will interpret the metadata as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location.
+   - If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance).
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of each primary sensor using natural language descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Based on the provided target task context JSON, we will create a natural user request as follows:
+
+**Request:**
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The task requires translating the provided JSON metadata into a natural language request. The goal is to create a clear and concise request that accurately reflects the mission objectives and requirements.
+
+Based on the provided guidelines, we will interpret the metadata as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location.
+   - If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance).
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of each primary sensor using natural language descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Based on the provided target task context JSON, we will create a natural user request as follows:
+
+**Request:**
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The task requires translating the provided JSON metadata into a natural language request. The goal is to create a clear and concise request that accurately reflects the mission objectives and requirements.
+
+Based on the provided guidelines, we will interpret the metadata as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location.
+   - If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance).
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of each primary sensor using natural language descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Based on the provided target task context JSON, we will create a natural user request as follows:
+
+**Request:**
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The task requires translating the provided JSON metadata into a natural language request. The goal is to create a clear and concise request that accurately reflects the mission objectives and requirements.
+
+Based on the provided guidelines, we will interpret the metadata as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location.
+   - If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance).
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance).
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of each primary sensor using natural language descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Based on the provided target task context JSON, we will create a natural user request as follows:
+
+**Request:**
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The task requires translating the provided JSON metadata into a natural language request. The goal is to create a clear and concise request that accurately reflects the mission objectives and requirements.
+
+Based on the provided guidelines
