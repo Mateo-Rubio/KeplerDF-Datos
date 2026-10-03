@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for the task delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the data capture should occur.
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "morning". This word must be included in the final request to specify the time of day accurately.
+
+d) The temporal parameters provided are strict operational deadlines. The deadline for delivering the data products is set for "in four days" and specifically during "the morning". There is no indication or allowance to shift this deadline to any other part of the day, ensuring that the capture must occur in the specified timeframe without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for high-resolution optical snapshot imagery over Bangka Selatan, Indonesia. This routine monitoring task is part of our baseline pipeline tracking and involves capturing clear optical imagery during daylight photography. The mission should be executed in four days, specifically in the morning, to ensure we obtain true-color visual documentation as per our fixed parameters and normal operational status.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This phrase indicates when the data product is expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite observation should occur.
+
+c) The single word contained in that string is "overnight." This word must appear literally in the final request.
+
+d) The deadline is specified as "in three days" for delivery, and the observation is to occur "overnight." There is no indication or instruction to shift this deadline to a different part of the day. Therefore, the deadline remains strictly as stated, with the task to be executed overnight on that day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low priority importance observation over San Martín, Colombia, using the VNIR sensor. This task is for a flexible schedule and opportunistic capture, ideally to be conducted overnight in three days. It's a non-essential background filler task, so please feel free to drop or reschedule at convenience. The goal is to conduct multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI index for this region.

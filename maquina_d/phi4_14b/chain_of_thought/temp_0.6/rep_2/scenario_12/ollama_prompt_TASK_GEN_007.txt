@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating the metadata from the JSON into a conversational English request following specific guidelines.
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data products are expected to be delivered, not when the satellite will capture the imagery.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day for the data delivery deadline.
+
+c) The single word contained in the 'target_diurnal_period' string that must appear in the final request is "evening".
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The deadline is explicitly stated as "in three days, in the evening," and this timing must be adhered to strictly without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task involving a critical payload capture over Otanche, Colombia. This mission, which requires urgent operational execution with an un-preemptable mission lock, is centered around thermal mapping to detect surface temperature profiles and thermal anomalies. The data must be delivered in three days, specifically in the evening, ensuring compliance with our binding contract requirements.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for delivering the data products is set precisely four days from now.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the satellite observation should occur, which is during the night.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "overnight". This word will be used literally in the final request to describe the timing of the task.
+
+d) The deadline for delivering the data products is set for "in four days" and specifically during the "overnight" period. There is no indication or requirement to shift this deadline to any other part of the day, such as morning, mid-day, afternoon, or evening. The task must be completed by the specified time frame without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a VNIR sensor task over Cumaral, Colombia. This mission is a binding contract requirement involving a critical payload capture that must be executed with urgent operational execution and an un-preemptable mission lock. The goal is to conduct a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index for the area. The data products are required in four days, specifically during the overnight period. This task is of high importance and must be prioritized accordingly.
