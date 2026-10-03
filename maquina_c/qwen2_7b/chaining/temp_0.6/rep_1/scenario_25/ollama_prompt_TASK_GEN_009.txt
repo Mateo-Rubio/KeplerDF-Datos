@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. Our objective is to capture a highly realistic, conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+Our geographic context involves a location within Indonesia, specifically the city of Malinau. The operational guidelines direct us to interpret 'region_name' and 'location_details', combining them naturally without using raw technical tags or coordinate arrays. If fields such as country, city, or landmark are "N/A", we should describe the location using remaining valid fields or clean 'region_name'. The sensors involved are specified by the primary sensor field, which is SAR.
+
+Interpreting the operational priority level, we find it to be set at Priority 1 (Low Importance). This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's explicitly noted as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The primary sensor, SAR, dictates the physical objectives. Our goal here is to perform an "active radar scan" using "microwave surface imaging", aiming to capture "cloud-penetrating" imagery that can pierce heavy weather conditions for capturing ground geometry.
+
+The delivery deadline is set for "the day after tomorrow overnight", with no rephrasing or change of format. This phrase serves as the upper limit for data availability, indicating our urgency to collect the data within this specific timeframe.
+
+In summary, our task request is to capture a detailed SAR scan of Malinau, Indonesia, for an opportunistic background survey, to be executed at night on the day after tomorrow. This task falls under a low priority importance category with flexible scheduling options.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The request pertains to a low priority importance task involving the primary sensor VNIR, scheduled for acquisition in three days around mid-day.
+
+Given the context, we aim to capture a high-resolution optical snapshot of Norte, focusing on daylight photography and clear optical imagery with a true-color visual documentation goal. This is part of a flexible schedule for opportunistic capture, categorized as a low priority importance request with a 'drop or reschedule at convenience' note for non-essential background filler tasks.
+
+The operational guidelines guide us towards interpreting the raw physical simulation metadata naturally. Considering the 'location_details' field, since 'country' and 'city' are marked as 'N/A', we describe Norte based on its clean 'region_name'. 
+
+With the 'target_day' set for three days hence and the 'target_diurnal_period' specified as around mid-day, our request emphasizes the importance of executing this task under standard operational status or a routine monitoring setup within our baseline pipeline tracking. The inclusion of VNIR sensor denotes a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index for surface reflectance.
+
+In conclusion, this low priority task is positioned as a background survey or testbed tracking task with fixed parameters representing normal operational status or a standard workflow update. Our request adheres to the outlined operational guidelines, ensuring naturalness and validation accuracy of the dataset while maximizing its quality and relevance.

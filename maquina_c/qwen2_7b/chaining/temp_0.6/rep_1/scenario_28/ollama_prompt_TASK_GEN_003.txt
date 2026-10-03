@@ -1,0 +1,28 @@
+```prompt
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I aim to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally by describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these are "N/A", gracefully ignore them and describe using remaining valid fields or 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Integrate specific operational phrases to reflect priority levels, emphasizing authority, contractual value, and operational execution urgency for high importance tasks, standard status for medium importance tasks, and flexible schedules for low importance tasks.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Weave operational objectives and descriptors into the request to explain the physical phenomenon to be observed, avoiding technical abbreviations or acronyms.
+
+4. DELIVERY DEADLINE: Insert the exact phrase "tomorrow overnight" as the upper limit for data availability without rephrasing, shortening, or relocating it.
+
+Target task context JSON:
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Rokan Hilir"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Given this context, my request is as follows:
+
+"Please allocate our satellite constellation for an absolute institutional priority task involving the capture of a critical payload, which is essential for Indonesia's Rokan Hilir region. This mission requires an active radar scan using microwave surface imaging, focusing on cloud-penetrating capture capabilities that will provide invaluable insights into ground geometry and terrain features overnight tomorrow. As this is a low priority importance request, it can be handled with a flexible schedule, acting as a non-essential background filler task or an opportunistic survey that can be dropped or rescheduled at convenience."
+
+This request adheres to the guidelines by interpreting the JSON data in a natural and conversational manner while incorporating all necessary elements for successful mission allocation."

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to the automated satellite constellation planner for a highly realistic and conversational English command. The operational guidelines aim to maximize naturalness and validation accuracy. Our objective is to translate raw physical simulation metadata into a single, comprehensive request.
+
+The geographic context involves capturing images over Indonesia's Ecuatorial region, combining information from 'country' and 'city', while gracefully handling 'landmark' absence. We'll describe this area using realistic combinations of the available fields or directly referencing 'region_name'. Our mission allocation priority is set at Level 1, indicating a "low priority importance" request with a "flexible schedule" for "opportunistic capture". The language will treat it as a "background survey" or "testbed tracking task", focusing on "non-essential background filler tasks".
+
+The primary sensor is VNIR, which we interpret as "multispectral vegetation analysis". This task aims to assess the "chlorophyll absorption level" or calculate the "NDVI index", evaluating surface reflectance and plant health. The deadline for this task has already been resolved by an upstream module: "in three days around mid-day". The request must encapsulate this phrase verbatim, specifying the upper limit for data availability without rephrasing, shortening, or altering the time of day.
+
+In summary, our task request is as follows:
+
+"Please schedule a low priority importance task for a multispectral vegetation analysis using VNIR sensors over Indonesia's Ecuatorial region. The capture will occur on the target day, 'in three days', around mid-day. This background survey aims to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance, supporting non-essential background filler tasks with a flexible schedule."
+
+The request is designed to be clear, concise, and aligned with operational guidelines, ensuring smooth integration into the automated satellite constellation planner's system.
