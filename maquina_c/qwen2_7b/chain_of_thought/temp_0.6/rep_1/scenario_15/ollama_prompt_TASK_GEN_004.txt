@@ -1,0 +1,16 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string which must appear literally in the final request is "evening".
+d) No, the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and interpreting the metadata provided, our Earth-observation mission task request aims for a low-priority importance with a flexible schedule. The primary sensor involved will be conducting thermal mapping using its TIR capabilities, focusing on capturing a heat signature from the land within Colombia's region, specifically targeting the city of Bugalagrande.
+
+The mission allocation priority is set at 'priority level 1', indicating it's a low-priority task that can be accommodated with a flexible schedule. The temporal parameters indicate we are looking to achieve this observation "in the evening" on the day designated as "tomorrow". This deadline serves as an operational deadline for delivering data products, not altering the timing of the satellite's orbit.
+
+The request emphasizes utilizing the TIR sensor's capabilities for thermal mapping purposes, to gather detailed information about the heat signature and surface temperature profile of the region. This is crucial for our baseline pipeline tracking setup with fixed parameters that represent normal operational status. The imagery collected will aid in assessing surface conditions without the interference of clouds or other atmospheric obstructions.
+
+In conclusion, our Earth-observation mission task request involves capturing thermal mapping data using a TIR sensor from Bugalagrande, Colombia, specifically targeting the evening on the day designated as "tomorrow". This operation is to be conducted within the framework of a low-priority task with a flexible schedule, fitting into our opportunistic capture strategy or background survey activities.

@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening".
+d) The deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given our operational guidelines, we are tasked with capturing high-resolution imagery using Near-Infrared (NIR) sensors for a standard operational tasking on a critical basis. The location of interest is Norte City, which will be observed in the evening on "tomorrow". As this mission falls under Priority Level 2, it represents an essential part of our baseline pipeline tracking setup with fixed parameters, ensuring normal operational status. The imagery captured will serve as a non-essential background filler task, allowing for flexible scheduling and opportunistic capture as needed.
+
+We aim to achieve a comprehensive thermal mapping of the area using the NIR sensor capabilities, focusing on capturing heat signatures and thermal anomalies. This task is executed in the evening to minimize interference with other activities and ensure optimal data collection under the conditions prevalent during that time. The deadline set for this task is strictly "tomorrow" in the evening, reflecting the urgency and importance of delivering the data products as per our operational guidelines.
+
+```prompt
+To capture high-resolution imagery using Near-Infrared (NIR) sensors for a standard operational tasking on a critical basis, observe Norte City in the evening on "tomorrow". This mission under Priority Level 2 is part of our baseline pipeline tracking setup with fixed parameters, ensuring normal operational status. The task serves as a non-essential background filler task, allowing for flexible scheduling and opportunistic capture. We aim to achieve comprehensive thermal mapping using the NIR sensor capabilities, focusing on capturing heat signatures and thermal anomalies in the evening conditions. The deadline for delivering data products is strictly "tomorrow" in the evening, reflecting the urgency and importance of this task.

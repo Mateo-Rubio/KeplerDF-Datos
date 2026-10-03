@@ -1,0 +1,18 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+To fulfill our operational obligations, we are tasked with executing a standard monitoring mission using a high-powered SAR sensor. Our objective is to capture a detailed active radar scan around mid-day on the day after tomorrow. This will involve penetrating cloud cover and accurately mapping ground geometry in real time. The region of interest, which lacks definitive country, city or landmark details, will be located somewhere within our geographically defined area of focus.
+
+The mission has been allocated a 'priority_level' of 2, indicating it's part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This tasking is assigned without any immediate urgency for data delivery, as the deadline is strictly tied to the target day and diurnal period provided.
+
+Our approach will ensure we capture the necessary microwave surface imaging, cloud-penetrating capabilities, and ground geometry details without altering or extending the deadline. The precise coordinates will be determined based on the region's geographical coordinates, which are available internally for our satellite constellation planner system.
+
+This mission is not to be preempted by other tasks and does not have a contractual requirement for immediate capture, but it is still considered important enough to maintain our baseline pipeline tracking efficiency. We will proceed with this task as scheduled without shifting the deadline to an earlier or later part of the day.
+
+In summary, our operational request translates the provided JSON metadata into an actionable plan that leverages our SAR capabilities to meet the outlined requirements while adhering to the specified temporal constraints.
