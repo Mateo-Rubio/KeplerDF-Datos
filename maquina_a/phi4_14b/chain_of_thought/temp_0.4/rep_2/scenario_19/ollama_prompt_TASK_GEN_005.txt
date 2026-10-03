@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the task needs to be completed two days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when during the day the data should be captured, focusing on the later part of the day.
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request to accurately reflect the specified time for data capture.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task must be completed "in the evening" on "the day after tomorrow," adhering strictly to these temporal parameters without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking involving a routine monitoring setup as part of our baseline pipeline tracking. We need an active radar scan using microwave surface imaging to achieve cloud-penetrating capture over the region near Norte. This mission is scheduled for the day after tomorrow, specifically in the evening, and should adhere to fixed parameters representing normal operational status. Please ensure this task is integrated into our standard workflow update without deviation from the specified timeline.
