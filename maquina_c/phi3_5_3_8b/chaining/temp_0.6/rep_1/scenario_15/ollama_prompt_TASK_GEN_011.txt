@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a formal request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a realistic and conversational English request for immediate action. Here's the detailed requirement:
+
+We need to conduct an active radar scan using microwave surface imaging over Corteno Golgi, located within Italy. This operation must be integrated as part of our standard operational tasking aimed at enhancing cloud-penetrating capabilities and capturing precise ground geometry. The city'ness of Corteno Golgi in the picturesque region of Lombardy will allow us to gather crucial data that complements our multispectral vegetation analysis, focusing on assessing chlorophyll absorption levels or calculating a NDVI index and surface reflectance within this Italian locale.
+
+Given the operational guidelines provided:
+- The location should be described naturally without using raw system tags, underscores, or coordinate arrays; hence Corteno Golgi in Lombardy is our focus area for today's tasking.
+- Since it falls under a medium importance priority, we are handling this as a standard operational task within the baseline pipeline tracking framework with fixed parameters that represent normal operational status. This translates into an authoritative yet professional tone demanding immediate attention and execution but not at the expense of our regular workflow's integrity.
+- The primary sensor for this endeavor is SAR, which aligns perfectly with our objective to perform a comprehensive microwave surface imaging scan that can pierce through clouds or heavy weather conditions, enabling us to capture ground geometry effectively and reliably under various environmental challenges.
+- Although the delivery deadline has been resolved by an upstream module as "tomorrow in the evening," we must explicitly incorporate this phrase verbatim into our request without alteration, indicating a clear timeframe for data availability that aligns with our project timeline and ensures prompt follow-through.
+
+Here is how I would articulate the entire task:
