@@ -1,0 +1,34 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+The task involves translating the given JSON metadata into a natural user request. The key points to consider are:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the 'region_name', 'country', 'city', and 'landmark' fields from 'location_details' to describe the location naturally.
+   - Ignore "N/A" values and use the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative tone for Priority 3, describing it as an "absolute institutional priority" or a "binding contract requirement".
+   - Use a professional tone for Priority 2, describing it as a "standard operational tasking" or "routine monitoring".
+   - Use a casual tone for Priority 1, describing it as a "low priority importance" request with a "flexible schedule".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Interpret the primary sensor type and naturally weave in the corresponding operational objectives and descriptors.
+
+4. RELATIVE TIMEFRAMES:
+   - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+   - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window.
+
+The target task context JSON is:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Translate this metadata into a natural user request for an Earth-observation mission.

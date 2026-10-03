@@ -1,0 +1,16 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Chivatá"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution optical snapshot of the lush vegetation in Chivatá, Colombia, utilizing multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is an absolute institutional priority, as we have a binding contract requirement for critical payload capture by tomorrow afternoon at the latest."

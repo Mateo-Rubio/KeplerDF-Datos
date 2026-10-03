@@ -1,0 +1,83 @@
+```prompt
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON format metadata into a natural language request. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the operational guidelines.
+
+The guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance), framing it as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive".
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance), describing it as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance), explicitly framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of the primary sensor naturally, using operational objectives and descriptors to explain the physical phenomenon to be observed.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability, using phrases like "...needed by [target_day] [target_diurnal_period] at the latest." or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Given the target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Here's the final natural user request:
+
+"Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON format metadata into a natural language request. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the operational guidelines.
+
+The guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance), framing it as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive".
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance), describing it as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+   - Use a casual, highly flexible, or opportunistic tone for Priority 1 (Low Importance), explicitly framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Explain the goal of the primary sensor naturally, using operational objectives and descriptors to explain the physical phenomenon to be observed.
+
+4. RELATIVE TIMEFRAMES:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability, using phrases like "...needed by [target_day] [target_diurnal_period] at the latest." or "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+
+Given the target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Here's the final natural user request:
+
+"Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator.
+
+The task involves translating the provided JSON format metadata into a natural language request. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the operational guidelines.
+
+The guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High
