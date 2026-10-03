@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in four days". This indicates the precise timeframe within which the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the data capture should occur.
+
+c) The single word contained in that string is "overnight". This will be used literally in the final request to ensure clarity about the timing of the task.
+
+d) The requirement is to maintain the deadline exactly as specified without any alterations. Therefore, the task must be executed overnight and completed by "in four days" without shifting it to any other part of the day or extending the timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request an opportunistic capture in northern Italy focusing on water body boundary mapping and soil moisture assessment using near-infrared reflection. This task is a low priority importance request with a flexible schedule, suitable for a non-essential background filler task that can be dropped or rescheduled at convenience. The data should be delivered by "in four days" during the overnight period.

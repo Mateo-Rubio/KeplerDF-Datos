@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by examining the details of the task context provided in the JSON format.
+
+a) The exact string present in 'target_day' is "in three days." This phrase indicates the deadline for when the data products are required, emphasizing that it's a strict operational deadline.
+
+b) The exact string found in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite capture should occur, aligning with the mission's objectives to ensure optimal data collection.
+
+c) The single word contained in 'target_diurnal_period' that fits within the set options {morning, mid-day, afternoon, evening, overnight} is "mid-day." This term must be included verbatim in the final request as it denotes the precise time for data capture.
+
+d) It's important to confirm that the deadline specified by "in three days" and "around mid-day" is not being shifted to another part of the day. The phrase "around mid-day" clearly indicates that the task should be executed during this specific period, without any adjustments or reinterpretations. Therefore, we are adhering strictly to the given parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority request for an opportunistic capture of multispectral vegetation analysis over Norte. This task involves assessing the chlorophyll absorption level and calculating the NDVI index and surface reflectance. Given its nature as a non-essential background filler task, please feel free to drop or reschedule at convenience. The data collection should be completed in three days, specifically around mid-day, to ensure optimal conditions for capturing the necessary information. This flexible schedule aligns with our current operational workflow, allowing us to integrate this task as needed without disrupting higher-priority missions.
