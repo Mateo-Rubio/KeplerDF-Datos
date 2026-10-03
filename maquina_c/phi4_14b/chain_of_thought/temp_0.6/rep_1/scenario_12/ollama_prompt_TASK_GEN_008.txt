@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task should be completed by the day after today.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the task should be carried out, focusing on nighttime operations.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string "overnight" is "overnight". This word must be included literally in the final request to describe the time of operation.
+
+d) I am confirming that I will not shift the deadline to an adjacent part of the day. The task must be completed by tomorrow during the overnight period, as specified in the metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low priority importance task with a flexible schedule for opportunistic capture over Norte, focusing on near-infrared reflection to assess water body boundary mapping or soil moisture assessment. This non-essential background filler task can be adjusted or rescheduled at your convenience and is intended as a background survey or testbed tracking task. The deadline for this task is tomorrow during the overnight period.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in the string "overnight" is "overnight". This word must appear literally in the final request.
+
+d) The task specifies that the deadline for data delivery is strictly set to "today" and during the "overnight" period. There is no indication or allowance within the provided metadata to shift this deadline to any other part of the day. Thus, it must be adhered to as stated without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are conducting a standard operational tasking for a routine monitoring mission in Indonesia, specifically focusing on the area around Setiris. This involves utilizing the VNIR sensor to perform multispectral vegetation analysis, aimed at assessing chlorophyll absorption levels and calculating an NDVI index. As part of our baseline pipeline tracking setup with fixed parameters, we require this data as a normal operational status update. The mission must be completed today, specifically during the overnight period, in accordance with the established timeline for workflow updates.

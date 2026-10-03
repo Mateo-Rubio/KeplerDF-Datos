@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the precise time frame within which the data collection must be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the part of the day when the satellite should capture the imagery, ensuring optimal conditions for the desired sensor type.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This will be explicitly mentioned in the final request to align with the specified diurnal period.
+
+d) It is important to confirm that the deadline is not shifted to another part of the day. The instruction clearly states "in the morning," and this must be adhered to without alteration, ensuring the mission's success within the defined parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a high-resolution thermal mapping operation over the region of Norte in Italia. This task involves capturing a heat signature with a critical payload capture requirement, emphasizing urgent operational execution and an un-preemptable mission lock. The imaging must be completed using thermal infrared sensors to detect surface temperature profiles and potential thermal anomalies. This is a binding contract requirement that necessitates delivery of data products precisely "in four days" during the "morning" period.

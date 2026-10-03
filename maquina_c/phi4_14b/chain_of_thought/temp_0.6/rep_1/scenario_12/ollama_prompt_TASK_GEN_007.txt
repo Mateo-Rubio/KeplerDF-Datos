@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The task involves a detailed examination of the JSON metadata provided for an Earth-observation mission. To begin with, let's address the first question concerning the 'target_day' value. The exact string present in this key is "in three days." This indicates that the mission must be completed within this specific timeframe, with no flexibility to alter or extend the deadline.
+
+Next, we examine the 'target_diurnal_period' key, which contains the exact string "in the evening." This specifies the time of day when the observation should occur. It is important to note the specific part of the day mentioned here, as it will be crucial in framing the final request.
+
+The third step involves identifying a single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally in the string for 'target_diurnal_period.' In this case, the word "evening" is explicitly mentioned. This word must be included verbatim in the final request to accurately reflect the timing of the mission.
+
+Finally, we need to confirm that there is no intention or possibility of shifting the deadline to an adjacent part of the day. The metadata clearly specifies "in the evening," and this period must be adhered to without any adjustments. This ensures that the mission's temporal parameters are strictly followed as per the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to execute a critical payload capture over Otanche, Colombia, using thermal mapping technology. This task is essential for capturing a heat signature and conducting thermal anomaly detection in the region. The mission must be completed with urgent operational execution, ensuring an un-preemptable mission lock. The data products are required no later than in three days, specifically in the evening, to meet the strict operational deadline.

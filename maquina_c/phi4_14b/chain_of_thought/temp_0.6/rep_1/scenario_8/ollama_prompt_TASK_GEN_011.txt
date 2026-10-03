@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The deadline specified as "in four days" and "in the morning" does not allow for shifting to an adjacent part of the day. It indicates a specific operational deadline that must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over Arsiero, Italy. This involves capturing data on chlorophyll absorption levels and calculating the NDVI index using VNIR capabilities. The request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that the high-resolution optical snapshot is scheduled for in four days, specifically in the morning. This task forms an essential component of our ongoing routine monitoring efforts.
