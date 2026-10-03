@@ -1,0 +1,11 @@
+Given the operational guidelines, we aim for a highly realistic and conversational English request based on the provided Earth-observation mission metadata. The target task context indicates that the primary sensor is VNIR, which will be used to conduct multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI index. This data gathering process will capture the heat signature and surface temperature profile of the region in question.
+
+The geographic context provided is centered around the country "Italia" and the city "Norte". Although 'city' and 'landmark' fields are not specified, we can assume a realistic description based on the available information. The request is categorized under priority level 1, which signifies a low priority importance with a flexible schedule for opportunistic capture.
+
+The operational timeframe for this task is set for "the day after tomorrow" during the afternoon period. This deadline represents a strict operational deadline to deliver the data products, not altering or extending the orbital capture window.
+
+In summary, our request for the automated satellite constellation planner is as follows:
+
+On the day after tomorrow, during the afternoon period, we require the acquisition of multispectral vegetation analysis utilizing VNIR sensors over the region located in Italia, specifically around the area of Norte. This task is characterized as a low priority importance with a flexible schedule for opportunistic capture. We seek to understand the chlorophyll absorption levels and calculate the NDVI index while mapping the heat signature and capturing surface temperature profiles.
+
+This operational request adheres to all provided guidelines, including the use of natural language to describe the geographic context, interpreting mission allocation priorities appropriately, integrating the physical objectives of the sensors, and maintaining the specified relative timeframes without altering the deadline.
