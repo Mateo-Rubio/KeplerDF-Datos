@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a conversational English request that adheres to operational guidels for realism and validation accuracy.
+
+The target location specified within the metadata requires interpretation: 'country' as Malaysia, 'city' as Ecuatorial, with 'region_name' being absent from our data. Given these details, we must describe this locale by combining what is available—Malaysia and its unique city of Ecuatorial—to convey a realistic setting for the satellite tasking.
+
+The priority level assigned to this request stands at Priority 1 (Low Importance), which dictates that our language should be casual, flexible, and opportunistic in nature. Therefore, I am seeking an "opportunistic capture" with a "flexible schedule." The satellite tasking here is not urgent but rather serves as a supplementary data source for broader research or monitoring purposes.
+
+The primary sensor designated for this mission is SAR (Synthetic Aperture Radar), which necessitates an explanation of the objective: to conduct an "active radar scan" using microwave surface imaging capable of penetrating through clouds and capturing detailed ground geometry, even under adverse weather conditions.
+
+Finally, with a deadline already set by upstream modules at "in four days in the morning," this task must be framed within that specific timeframe without alteration or abbreviation, ensuring immediate action but not urgency due to its low priority status.
+
+Here is the synthesized request:
