@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+Geographically, we're focusing on Indonesia's Sintang region, capturing a high-resolution optical snapshot for daylight photography using the primary VIS sensor. This imagery will serve as clear optical documentation of the area, providing valuable visual data that reflects its landscape and features.
+
+Our mission allocation has been prioritized at level 1, which is a low priority importance request with a flexible schedule for opportunistic capture. We're treating this as a non-essential background filler task, acknowledging that it can be dropped or rescheduled at convenience, fitting into our background survey or testbed tracking tasks.
+
+The deadline for this task has been resolved by an upstream module: "the day after tomorrow during the afternoon". This is the upper limit for data availability, and we're inserting this phrase verbatim into our request.
+
+In conclusion, our task request integrates operational guidelines to interpret metadata naturally, avoiding raw technical system tags or coordinate arrays. We've combined location details using realistic combinations of country, city, and landmark fields, and we've woven operational objectives and descriptors into the physical phenomena to be observed, focusing on the VIS sensor's capabilities for daylight photography.
+
+This request aligns with our institutional priorities, emphasizing a casual, highly flexible tone that reflects low importance while maintaining professional standards. We're looking forward to receiving the data within the specified deadline, contributing to our baseline pipeline tracking setup with fixed parameters representing normal operational status.

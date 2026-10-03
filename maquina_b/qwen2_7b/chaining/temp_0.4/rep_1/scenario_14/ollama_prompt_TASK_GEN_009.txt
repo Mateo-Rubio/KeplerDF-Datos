@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+For the geographic context, we're looking at Indonesia, with a specific emphasis on the equatorial region known as "Ecuatorial". This location combines the country's name and the city details from 'location_details' to create a natural description of the area we're targeting for observation. Since 'landmark' isn't available, we'll use the 'region_name' if necessary.
+
+The mission allocation priority level is set at 1, which means this request has low importance but still requires attention. We'll frame it as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The language will be casual and highly flexible, acknowledging that this is a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience".
+
+The primary sensor involved in this mission is SAR (Synthetic Aperture Radar), which we'll describe as an "active radar scan" using "microwave surface imaging" for capturing ground geometry, especially useful when piercing heavy weather or ensuring cloud-penetrating capture. This sensor is essential for gathering data that helps us understand the physical features and conditions of the area under observation.
+
+The delivery deadline for this task has been resolved by an upstream module. It's set for "the day after tomorrow during the afternoon", which means we're aiming to collect the necessary data within these parameters, without altering or shortening the phrase provided.
+
+In summary, our request is as follows:
+
+"Please observe the equatorial region of Indonesia using a Synthetic Aperture Radar (SAR) system. This task has low priority importance and requires flexible scheduling to be completed during the afternoon on the day after tomorrow. The goal is to capture ground geometry with microwave surface imaging, which will help us understand the physical features under various weather conditions."
+
+This request incorporates the operational guidelines provided, ensuring naturalness, validation accuracy, and a clear understanding of the mission's objectives.

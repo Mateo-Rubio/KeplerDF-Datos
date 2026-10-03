@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves capturing data in Colombia, specifically in the city of Aguadas. This location is described using realistic combinations of country, city, and landmarks, while gracefully handling any "N/A" fields by focusing on valid parameters or the 'region_name'.
+
+The mission allocation priority is 'High Importance', indicating an absolute institutional priority that needs to be addressed with an authoritative tone. This request is framed as a "critical payload capture", emphasizing the necessity of an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor in use is VNIR, which will be employed for "multispectral vegetation analysis". The goal is to assess "chlorophyll absorption levels" or calculate the "NDVI index" to understand surface reflectance. This sensor choice is crucial for monitoring plant health and environmental conditions.
+
+The delivery deadline is set for "tomorrow overnight", as determined by an upstream module. This phrase is inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In summary, this task involves capturing detailed multispectral vegetation data in Aguadas, Colombia, with a high priority level that requires immediate attention. The VNIR sensor will be used to assess plant health and environmental conditions, ensuring that this critical information is available by tomorrow's overnight period.

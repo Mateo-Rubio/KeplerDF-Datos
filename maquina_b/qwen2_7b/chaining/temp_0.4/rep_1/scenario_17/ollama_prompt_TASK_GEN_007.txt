@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context for this task involves Colombia, specifically the city of Paya. We aim to capture a thermal mapping of the region using our primary sensor, which has been identified as TIR in the raw data. This operation is tagged with a priority level of 1, indicating a low importance request with a flexible schedule for opportunistic capture. The task is framed as a "non-essential background filler task" that can be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+The deadline for this task has already been resolved by an upstream module. The upper limit for data availability is set for tomorrow during the afternoon. This phrase should be inserted verbatim into the request.
+
+To summarize the operational objectives and descriptors:
+- The VIS sensor aims to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation.
+- The SAR sensor uses active radar scan with microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry.
+- The TIR sensor is tasked with thermal mapping to capture heat signatures, surface temperature profiles, or perform thermal anomaly detection and mapping heat emissions.
+- The VNIR sensor assesses chlorophyll absorption levels, calculates the vegetation NDVI index, or evaluates surface reflectance.
+- Lastly, the NIR sensor focuses on near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients.
+
+This request is submitted with the understanding that our automated satellite constellation planner will interpret these guidelines and translate them into an actionable task for our satellite fleet. The aim is to ensure that each mission allocation respects the operational priorities, geographic context, sensor objectives, and delivery deadlines while maintaining a natural conversational tone in the request.
