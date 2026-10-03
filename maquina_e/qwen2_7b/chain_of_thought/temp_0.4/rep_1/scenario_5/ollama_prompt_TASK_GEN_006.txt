@@ -1,0 +1,18 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "in four days"
+b) The exact string in 'target_diurnal_period' is: "overnight"
+c) The word contained in that string which must appear literally in the final request is: "overnight"
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the JSON metadata provided:
+
+We are tasked with capturing a high-resolution optical snapshot of the city of Pangkalan Bun, located in Indonesia. The primary sensor to be utilized for this mission is VIS (visual imagery), which will enable us to obtain clear daylight photography and true-color visual documentation of the region.
+
+The deadline for delivering the data products is set exactly four days from now, with the capture to occur overnight. This means that the satellite constellation must be allocated to this task immediately as it falls under Priority 1 (Low Importance) — a flexible schedule request where the operator explicitly notes to "drop or reschedule at convenience" but acknowledges the need for a "background survey" or "testbed tracking task".
+
+In summary, the operational request is as follows:
+
+"Please allocate the satellite constellation to capture high-resolution optical imagery of Pangkalan Bun, Indonesia, using VIS sensors. This task must be executed overnight exactly four days from now, which aligns with our 'background survey' scheduling guidelines for low-priority tasks."
