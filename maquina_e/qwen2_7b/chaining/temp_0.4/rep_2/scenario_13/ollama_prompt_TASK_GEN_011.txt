@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic, conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing data in the region of Italia, specifically within the city of Quaregna Cerreto. We're utilizing a Near-Infrared (NIR) sensor for our mission allocation priority level 1 task, which carries the label of "low importance" with a flexible schedule for "opportunistic capture". This request is framed as a "non-essential background filler task", fitting into our "background survey" or "testbed tracking task" workflow.
+
+The mission's primary sensor, NIR, aims to map water body boundaries and assess soil moisture. This task involves capturing data during the target day of today, specifically during the afternoon period. The deadline for this task has been resolved by an upstream module, ensuring that our data availability is set as "today during the afternoon", without any rephrasing or alteration.
+
+In summary, our request to the satellite constellation planner is to capture high-resolution optical snapshots and near-infrared reflection data of the Quaregna Cerreto area using a Near-Infrared sensor. This task carries the importance level of being a "non-essential background filler task", with a flexible schedule for "opportunistic capture" during today's afternoon period, as per our predefined deadline.

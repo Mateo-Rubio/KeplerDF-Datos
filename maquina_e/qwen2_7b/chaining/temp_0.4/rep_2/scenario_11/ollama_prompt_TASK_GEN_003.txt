@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context for this mission involves Indonesia's Murung Raya region. The operational guidelines guide us in interpreting the 'region_name' and nested 'location_details'. We're not using raw technical system tags, underscores, or coordinate arrays; instead, we're describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'Priority 3', indicating high importance. This means our request must be framed with an authoritative, explicit, and commanding tone. We're addressing it as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of capturing this payload.
+
+The primary sensor for this mission is 'NIR', which we interpret as "near-infrared reflection". Our goal is to map water body boundaries or assess soil moisture, distinguishing gradients through this sensor's unique capabilities. This request aligns with normal operational status or a routine tasking part of our baseline pipeline tracking setup.
+
+The delivery deadline is set for the target day, which is "in three days overnight". We've included this phrase verbatim in our request as the stated upper limit for data availability, adhering to the guidelines without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request is to capture high-resolution optical snapshots using a near-infrared sensor from Murung Raya region in Indonesia, with an urgent operational execution and an un-preemptable mission lock. This task is part of our standard operational pipeline tracking setup, aiming for normal parameters and representing normal operational status or a workflow update.
+
+Let's proceed with this request to ensure that our satellite constellation planner understands the importance and urgency of this mission.

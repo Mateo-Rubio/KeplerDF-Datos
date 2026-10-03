@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format is intended to be translated into a single, detailed request that maximizes naturalness and validation accuracy.
+
+Given the geographic context with a focus on 'region_name' and nested 'location_details', I'll describe the location using a realistic combination of fields. Since 'country' and 'city' are "N/A", I will use the 'region_name' to provide an accurate geographical reference.
+
+The mission allocation priority is indicated by the 'priority_level'. With a value of 2, this request is framed as a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language used will reflect this structural hierarchy without mentioning raw priority numbers or technical priority levels.
+
+The primary sensor is 'SAR', which requires an active radar scan utilizing microwave surface imaging for cloud-penetrating capture, allowing us to pierce through heavy weather conditions and capture ground geometry with precision.
+
+The delivery deadline for this task has been resolved by an upstream module, set for "the day after tomorrow around mid-day". This phrase is inserted verbatim into the request as the stated upper limit for data availability, ensuring no rephrasing, shortening, or moving to a different part of the day occurs.
+
+In summary, my request is to capture high-resolution SAR imagery of an unspecified location within a region, focusing on active radar scans for cloud-penetrating capture and ground geometry assessment. The task is part of standard operational procedures with normal parameters and will be executed around mid-day on the specified date. This request aligns with our operational guidelines and integrates specific phrases to reflect the priority level and deadline requirements.

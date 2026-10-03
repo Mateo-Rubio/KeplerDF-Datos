@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to capture a detailed and accurate representation of the operational guidelines provided.
+
+The geographic context for this mission involves Colombia, specifically the city of Suárez. Combining the 'country' and 'city' fields naturally, we aim to describe the location using realistic language that avoids technical tags or coordinate arrays. If necessary, we will fall back on the 'region_name' field for a more general description.
+
+The mission allocation priority is medium importance, indicated by a 'priority_level' of 2. This request should be framed as a standard operational tasking or commercial tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must not imply urgency based on the priority number but should reflect an expectation of execution within the established framework.
+
+The primary sensor for this mission is 'VIS', which translates to capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation. This objective aims to provide detailed visual information about the landscape under natural light conditions.
+
+The deadline for this task has been resolved by an upstream module, with the data availability set for "in three days around mid-day". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, my request is to capture a high-resolution optical snapshot of Suárez, Colombia, using a VIS sensor, with medium priority and an expectation of execution three days from now around mid-day. This task aligns with standard operational procedures and will contribute to the baseline pipeline tracking setup with fixed parameters.

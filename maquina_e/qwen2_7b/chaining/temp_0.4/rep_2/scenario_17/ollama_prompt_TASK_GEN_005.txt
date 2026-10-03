@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The operational guidelines dictate that we interpret the raw physical simulation metadata provided in JSON format with a focus on natural language and realism.
+
+Given our objective is to translate this metadata into a single, highly realistic and conversational English request, let's start by addressing the geographic context. The 'region_name' field indicates our target location is in Norte, a region without specified country or city details. Therefore, we'll describe it using the remaining valid fields and the clean 'region_name'. 
+
+Next, we must interpret the mission allocation priority level, which is set at 'priority_level': 3 (High Importance). This priority level implies an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor specified is 'TIR', which translates to 'thermal mapping'. Our goal here is to capture a "heat signature", "surface temperature profile", or conduct "thermal anomaly detection" and map heat emissions. This task requires precision and attention to detail, as it involves understanding the thermal dynamics of the region.
+
+Considering the delivery deadline, our target day for data availability is "the day after tomorrow overnight". This phrase serves as the upper limit for data availability, without any need for rephrasing or shortening.
+
+In summary, our request to the automated satellite constellation planner is as follows:
+
+"Please prioritize a thermal mapping mission for the region named Norte. Given its high priority level, this task is an 'absolute institutional priority' or a 'binding contract requirement'. The objective is to capture a heat signature or conduct thermal anomaly detection during the overnight period of the day after tomorrow. Ensure that your satellite constellation captures the necessary data for thermal mapping with a high degree of accuracy and detail, as this mission requires precision and urgency."
+
+This request adheres to our operational guidelines by avoiding raw technical system tags, underscores, coordinate arrays, and other technical jargon, while maintaining a natural flow and emphasizing the importance of the task in a realistic manner."

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target context provided in JSON format includes a primary sensor of Near-Infrared (NIR), which will be used for water body boundary mapping and soil moisture assessment. We're focusing on a specific location within Colombia, specifically the city of San Alberto. This task is classified as having low priority importance, indicating that it's part of a flexible schedule for opportunistic capture or a background survey.
+
+The operational guidelines guide us to interpret the metadata organically without using raw technical system tags, underscores, or coordinate arrays. We will combine the JSON parameters naturally and describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. Since the country and city are specified but there's no landmark provided, we'll describe the location using these details directly.
+
+The delivery deadline for this task is set for "the day after tomorrow in the morning". This phrase will be inserted verbatim into our request as the upper limit for data availability. The request is framed considering the low priority importance of this task, with a flexible schedule and no pre-emptable mission lock. 
+
+Given these parameters, my request to the automated satellite constellation planner would be:
+
+"Please capture water body boundaries and assess soil moisture levels using Near-Infrared (NIR) sensors for the city of San Alberto, Colombia. This task carries low priority importance and can be scheduled as a background survey or testbed tracking task. The data should be available by 'the day after tomorrow in the morning', reflecting our flexible schedule and non-essential nature within the baseline pipeline tracking setup."
+
+This request integrates the operational guidelines to provide a clear, conversational, and natural language description of the mission allocation priority, geographic context, sensors and physical objectives, and delivery deadline."

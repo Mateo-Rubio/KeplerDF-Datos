@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner for a highly realistic and conversational English task based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting the metadata organically according to the outlined guidelines.
+
+Given the context of our mission allocation priority, we are dealing with a request of medium importance (Priority 2). This task involves utilizing an active radar scan (SAR) for an "essential monitoring" purpose, which is part of our baseline pipeline tracking setup. The operation requires fixed parameters and represents normal operational status. We aim to capture the essence of the region in question, which is located in Indonesia, specifically near an area known as "Ecuatorial".
+
+The target day for this task is set for four days ahead, with the mission to be executed in the morning. This deadline serves as the upper limit for data availability and cannot be rephrased or shortened.
+
+In summary, our request to the satellite constellation planner is as follows: "Please conduct an active radar scan using microwave surface imaging technology to capture cloud-penetrating imagery of a specific area located in Indonesia near Ecuatorial. The operation must adhere to fixed parameters and represent normal operational status. This task is part of our baseline pipeline tracking setup and requires execution on the target day, four days ahead, in the morning."
+
+This request encapsulates the essence of the mission allocation priority, sensor objectives, geographic context, and delivery deadline as outlined by the guidelines provided.

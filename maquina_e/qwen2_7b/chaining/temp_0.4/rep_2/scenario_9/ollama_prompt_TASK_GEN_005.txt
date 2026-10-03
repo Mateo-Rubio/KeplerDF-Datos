@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. My objective is to ensure the naturalness and validation accuracy of the dataset by interpreting the provided JSON format organically.
+
+The target geographic context involves capturing thermal mapping data using a TIR sensor over a region in "Italia", specifically in the city of "Norte". This mission allocation has been prioritized at level 3, indicating an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" that must be executed with "urgent operational execution" and is "un-preemptable".
+
+The operational guidelines for this task are as follows:
+
+1. GEOGRAPHIC CONTEXT: I will combine the location details naturally without using raw technical system tags, underscores, or coordinate arrays. The description of the location will include realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", I will describe the location using remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Priority level 3 implies an authoritative, explicit, and commanding tone. This task is framed as an "absolute institutional priority" or a "binding contract requirement". The language heavily implies "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor specified is TIR, which will be used for capturing thermal mapping data to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection". This task aims to map heat emissions effectively.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module and is set for "in four days in the morning". This phrase must be inserted verbatim into the request as the stated upper limit for data availability.
+
+In summary, my request involves capturing thermal mapping data using a TIR sensor over a region in "Italia", specifically in the city of "Norte". The task has been prioritized at level 3, indicating an urgent operational execution and is un-preemptable. The deadline for this task is set for "in four days in the morning". This request adheres to the guidelines provided for maximizing the naturalness and validation accuracy of the dataset while interpreting the metadata organically.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the given JSON data.
+
+The geographic context involves capturing an image of Norte city in an upcoming afternoon session tomorrow. Although specific country details are not provided, we're focusing on Norte city's location for the imagery requirements. Our mission allocation priority level is medium, indicating this task is part of our standard operational pipeline with fixed parameters representing normal status.
+
+Our primary sensor for this mission will be the near-infrared (NIR) sensor, aiming to map water body boundaries and assess soil moisture. This task is not under immediate urgency; instead, it's a routine monitoring activity that fits into our baseline pipeline tracking setup.
+
+To summarize, we're requesting an image capture using the NIR sensor over Norte city during tomorrow's afternoon session as part of our standard operational tasks. The deadline for this data availability has been set by an upstream module and is strictly "tomorrow during the afternoon," which must be included in our request verbatim.
+
+Let's proceed with executing this task efficiently, ensuring it aligns with our operational guidelines for naturalness, validation accuracy, and priority level integration.

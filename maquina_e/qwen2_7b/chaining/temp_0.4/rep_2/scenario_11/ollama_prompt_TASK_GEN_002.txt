@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic English request:
+
+On the day after tomorrow in the morning, an Earth-observation mission operator requests the automated satellite constellation planner to capture a thermal mapping of the region named Italia, focusing specifically on the city of Serravalle di Chienti. The primary sensor required for this task is TIR, which will be used to gather critical data on surface temperature profiles and thermal anomalies, essential for heat emission mapping.
+
+This request carries low priority importance, as indicated by the priority level of 1. It is framed as a flexible schedule task, allowing for opportunistic capture without urgent operational execution constraints. The operator explicitly notes that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
+
+The geographical context combines the country and city names to provide a realistic location description, avoiding raw technical system tags, underscores, or coordinate arrays. The mission allocation priority is interpreted according to operational guidelines, emphasizing its low importance while maintaining clear communication of its nature within the baseline pipeline tracking setup.
+
+In conclusion, this low-priority task aims to gather thermal mapping data using the TIR sensor on the day after tomorrow in the morning, focusing on Serravalle di Chienti, Italia. The request is structured with a casual tone and flexible schedule considerations, aligning with the operator's note for opportunistic capture.

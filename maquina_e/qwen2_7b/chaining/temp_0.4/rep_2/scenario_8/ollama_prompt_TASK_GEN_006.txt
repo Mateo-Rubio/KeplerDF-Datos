@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Geographically speaking, we're focusing on Indonesia with a city described as "Ecuatorial." Combining this information naturally, we'll describe the location using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these are "N/A," we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at level 2, which means this request is part of our standard operational tasking. We're dealing with commercial tasking or routine monitoring as part of our baseline pipeline tracking setup. The parameters are fixed, representing normal operational status or a standard workflow update.
+
+In terms of sensors and physical objectives, we're utilizing the primary sensor 'TIR' for thermal mapping purposes. This involves capturing a heat signature, surface temperature profile, or conducting thermal anomaly detection and mapping heat emissions.
+
+The deadline for this task has already been resolved by an upstream module. It's set for "the day after tomorrow around mid-day," which means we must include this phrase verbatim as the stated upper limit for data availability. We're not to output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request is as follows:
+
+"Please allocate satellite resources to capture thermal anomalies in Indonesia, specifically focusing on Ecuatorial city, utilizing TIR sensors for thermal mapping purposes. This task is part of our standard operational tasking and represents normal status within our baseline pipeline tracking setup. The deadline for data availability is set for 'the day after tomorrow around mid-day.' Please ensure that the capture process adheres to the priority level 2 guidelines."
+
+This request aligns with our operational guidelines, interpreting metadata organically while maintaining naturalness and validation accuracy."
