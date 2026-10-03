@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner.
+
+The task involves translating the provided JSON metadata into a natural language request that meets the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.
+
+The key parameters to consider are:
+
+* Geographic context: The location details include the country "Italia" and city "Napoli". Since the country and city are both valid, we can combine them to describe the location. However, since the landmark is not provided, we will use the clean 'region_name' as a backup.
+* Mission allocation priority: The priority level is 3, indicating an absolute institutional priority or a binding contract requirement. This requires an authoritative, explicit, and commanding tone, implying an urgent operational execution and an un-preemptable mission lock.
+* Sensors and physical objectives: The primary sensor is TIR, which involves thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions.
+* Relative timeframes: The target day is "the day after tomorrow", and the target diurnal period is "in the evening". This sets a strict operational deadline for delivering the data products to the user.
+
+Considering these parameters, the natural user request would be:
+
+"Capture a high-resolution thermal map of the Napoli region in Italy using active thermal imaging, with a focus on detecting heat signatures and surface temperature profiles. This is an absolute institutional priority, and we require a critical payload capture by the day after tomorrow in the evening at the latest."
+
+This request meets all the operational guidelines, including the geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.

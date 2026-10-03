@@ -1,0 +1,16 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission operator:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Andina"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Here is the final natural user request:
+
+"Capture a high-resolution multispectral vegetation analysis over Andina, Colombia, using VNIR technology, as an absolute institutional priority. Ensure the data products are ingested into the pipeline before tomorrow's overnight block, considering this critical payload capture a binding contract requirement."

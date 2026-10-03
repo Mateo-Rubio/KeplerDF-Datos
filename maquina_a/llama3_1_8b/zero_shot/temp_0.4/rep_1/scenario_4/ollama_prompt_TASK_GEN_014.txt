@@ -1,0 +1,18 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission.
+
+The task involves translating the following JSON data:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+Here's the translated request:
+
+"Capture a high-resolution thermal map of the region in Italia, focusing on the Norte city area, by conducting an active thermal imaging scan using microwave surface imaging to detect heat signatures and surface temperature profiles. This is an absolute institutional priority, as it involves a critical payload capture and mandatory directive for a binding contract requirement. The data must be ready by tomorrow's overnight block at the latest."
