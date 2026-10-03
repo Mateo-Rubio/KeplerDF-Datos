@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby submit the following task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+Given the context of the 'region_name' as Indonesia and nested 'location_details', we will describe the location as a place in Ecuatorial Indonesia, combining country and clean 'region_name' fields since city details are unavailable. The operational guidelines require us to interpret the metadata organically without using raw technical system tags or coordinate arrays.
+
+The mission allocation priority level is set at medium importance, indicating a standard operational tasking that aligns with our baseline pipeline tracking setup. We must frame this request as a 'standard operational task', ensuring 'fixed parameters' representing 'normal operational status', and it's part of our contractual obligations without implying any urgency or a pre-emptable mission lock.
+
+Our primary sensor requirement is 'TIR', which we will interpret as the goal to conduct thermal mapping to capture a heat signature, surface temperature profile, or perform thermal anomaly detection for mapping heat emissions. This task involves assessing surface temperatures and identifying heat patterns in the region of interest.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring data availability on 'the day after tomorrow around mid-day'. We must include this phrase verbatim in our request, as the stated upper limit for data availability, without rephrasing or altering it.
+
+In summary, our request is to perform thermal mapping using TIR technology over Ecuatorial Indonesia, aiming for a 'standard operational tasking' that aligns with our baseline pipeline tracking setup. The deadline for this task is 'the day after tomorrow around mid-day', ensuring that the data provided meets all specified operational requirements without any ambiguity or technical jargon.
+
+Executing this request will contribute to our ongoing efforts in providing comprehensive Earth observation data that supports various applications from environmental monitoring to agricultural assessments, ensuring the reliability and accuracy of our satellite constellation's data output.

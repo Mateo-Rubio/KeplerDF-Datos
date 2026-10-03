@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to capture a highly realistic and detailed image of the region in Italy, specifically focusing on the city of Quincinetto. Using our primary sensor, we aim for a high-resolution optical snapshot that will provide clear daylight photography and true-color visual documentation of this beautiful location.
+
+Given the priority level of 1, this task is classified as a low-priority importance request with a flexible schedule. We have designated it as a non-essential background filler task, which can be dropped or rescheduled at convenience. This image acquisition will serve as a background survey and testbed tracking task for our ongoing baseline pipeline tracking setup.
+
+In three days in the evening, we require this data for immediate availability. The deadline is set to ensure that we capture the best conditions for clear visibility and optimal light levels. We're using our VIS sensor for this purpose, aiming to provide detailed imagery of the cityscape under daylight conditions.
+
+As per the operational guidelines, we avoid raw technical system tags and coordinate arrays. Instead, we describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+With this request, we're confident that our automated satellite constellation planner will handle our task efficiently, providing us with the necessary data to continue our research and monitoring activities. Thank you for your attention and assistance in fulfilling this mission.

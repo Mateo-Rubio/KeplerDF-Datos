@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy through organic interpretation of the provided data.
+
+The geographic context involves capturing high-resolution optical imagery over a location in Indonesia, specifically near an equatorial city. The 'region_name' includes a combination of the country and city details, offering a realistic description that integrates the 'location_details'. If any of these fields are "N/A", we would describe the location using the 'region_name' alone.
+
+The mission allocation priority for this task is low importance, indicated by a 'priority_level' of 1. The language used reflects a casual and flexible tone, with an explicit note that this request can be treated as a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". It's labeled as a "background survey" or "testbed tracking task", acknowledging its role in a broader operational framework.
+
+The primary sensor utilized for this task is 'SAR', which is employed to perform an active radar scan using microwave surface imaging. This method is particularly suited for capturing detailed ground geometry, even through heavy weather conditions, offering unparalleled visibility and detail that cannot be achieved with optical sensors alone.
+
+The delivery deadline for this task has been set for "the day after tomorrow during the afternoon". It's crucial to incorporate this phrase verbatim into our request, indicating the upper limit for data availability. This deadline represents the final point of data collection before the task concludes, ensuring synchronization with subsequent operational workflows.
+
+In summary, our task request combines the described geographic location, mission priority level, sensor characteristics, and delivery deadline into a cohesive and natural English paragraph. This process ensures that the automated satellite constellation planner understands the specific requirements for this Earth-observation mission while maintaining operational clarity and efficiency.
