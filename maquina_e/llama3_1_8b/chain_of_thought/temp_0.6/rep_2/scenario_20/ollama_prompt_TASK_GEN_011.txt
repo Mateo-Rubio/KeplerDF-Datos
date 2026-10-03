@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in "overnight" is "overnight". However, since the context requires a choice from the list {morning, mid-day, afternoon, evening, overnight}, I will choose "evening" as it is not present but "overnight" implies an extension of the night into early morning. Therefore, the single word that must appear literally in the final request is actually "tomorrow" for the day part and since it's asking for a specific time of day we can infer that the word is not really contained within the given choices.
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' already specifies "overnight", which is a specific time frame and not a part of the adjacent day.
