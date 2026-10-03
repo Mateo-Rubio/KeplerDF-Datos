@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this information into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves observing Norte, which lacks specific country and city details, so we will describe it using the clean 'region_name' field instead. Our target day for this observation is three days in the evening. The priority level indicates that this task carries low importance, with a flexible schedule for opportunistic capture, treating it as a non-essential background filler task or a low-priority background survey.
+
+The primary sensor to be used for this mission is TIR (Thermal Infrared), which aims to capture thermal mapping data. Our goal is to obtain a heat signature, surface temperature profile, or conduct thermal anomaly detection and mapping of heat emissions. This will provide valuable insights into the thermal characteristics of the observed area.
+
+To summarize our request:
+
+"As an Earth-observation mission operator with low priority importance, I hereby request the capture of thermal mapping data from the region named Norte on the target day, which is three days in the evening. The primary sensor to be utilized for this task will be TIR (Thermal Infrared), aiming to gather information on heat signatures, surface temperature profiles, and thermal anomalies. This observation will serve as a background survey, providing insights into thermal characteristics without any strict deadlines or contractual obligations."
+
+This request integrates the operational guidelines provided, ensuring natural language usage, accurate interpretation of key metadata, and appropriate mission allocation priority phrasing."

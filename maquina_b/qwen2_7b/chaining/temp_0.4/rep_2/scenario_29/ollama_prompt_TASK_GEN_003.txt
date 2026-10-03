@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The geographic context is centered around Indonesia's Ketapang region, combining elements from 'country' and 'city' fields with a realistic description of the location using landmarks or clean 'region_name' if necessary.
+
+The mission allocation priority level is set to medium importance (Priority 2), which implies a professional, direct, and standard operational tone. This request is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or a routine monitoring task that does not require urgent execution. The language heavily emphasizes the standard nature of this task without implying any un-preemptable mission lock.
+
+The primary sensor specified in the JSON is 'TIR', which will be utilized for thermal mapping to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and mapping heat emissions. This objective is crucial for understanding heat patterns and emission sources.
+
+The deadline for this task has been resolved by an upstream module, indicating that the data needs to be available in three days around mid-day. The exact phrase "in three days around mid-day" must be included verbatim in the request without any rephrasing or adjustments.
+
+In summary, our request is for a thermal mapping task using 'TIR' sensors in Indonesia's Ketapang region, with medium importance and a deadline of availability in three days around mid-day. The language used reflects professional operational standards without emphasizing urgency or contractual obligations beyond the standard pipeline tracking setup.

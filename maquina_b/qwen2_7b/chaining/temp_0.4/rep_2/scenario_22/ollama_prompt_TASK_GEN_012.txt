@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting a task request for an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographical context involves capturing a high-resolution optical snapshot of the city "Ecuatorial" in Indonesia using a visible sensor (VIS) during daylight hours. The mission allocation priority is medium importance, as it's part of a standard operational tasking that requires a routine monitoring or baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for tomorrow around mid-day. This upper limit for data availability must be included verbatim in the request, as it's the stated time frame for data delivery.
+
+To maximize naturalness and validation accuracy, I'll interpret the metadata organically according to operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combining the JSON parameters naturally, I describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any are "N/A", I gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: I integrate specific operational phrases to reflect this structural hierarchy, using a professional tone for standard operational tasks. This request is framed as part of a routine monitoring setup with fixed parameters representing normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: I weave operational objectives and descriptors into the request to explain the physical phenomenon to be observed. For VIS, I explain the goal as a high-resolution optical snapshot for daylight photography or clear optical imagery. 
+
+4. DELIVERY DEADLINE: The deadline is already resolved by an upstream module and set for tomorrow around mid-day. This phrase must be included verbatim in the request.
+
+In summary, this Earth-observation mission involves capturing daylight imagery of Ecuatorial, Indonesia, using a VIS sensor as part of a standard operational tasking with a delivery deadline of tomorrow around mid-day. The request is submitted to ensure optimal use of satellite assets and timely data availability for decision-making processes.
