@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To create a natural and conversational request for the satellite constellation planner, we need to interpret the given JSON metadata carefully.
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite should capture the data.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must be completed "in four days" and specifically "in the morning", as these are the parameters provided.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance task for the satellite constellation planner. We are looking to conduct an opportunistic capture over Puerto Libertador, Colombia. This is a flexible schedule request where the team can drop or reschedule at their convenience. The goal is to perform an active radar scan using microwave surface imaging, which will enable cloud-penetrating capture and provide insights into ground geometry. The data collection should be completed in four days, specifically in the morning. This task serves as a background survey or testbed tracking task, allowing for flexible execution without impacting more critical missions.
