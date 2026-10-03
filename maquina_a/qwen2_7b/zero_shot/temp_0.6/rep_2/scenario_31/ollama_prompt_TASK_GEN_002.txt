@@ -1,0 +1,17 @@
+As a satellite constellation planner, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for our Earth-observation mission. Let's delve into the specifics of this task:
+
+The primary sensor to be utilized is an active radar scanner (SAR), which will perform microwave surface imaging to capture ground geometry, penetrating through heavy weather conditions or clouds. This is a standard operational tasking within our baseline pipeline tracking setup.
+
+Our geographic context revolves around France, specifically the city of Norte. We're capturing this location using the realistic combination of country and city names, as 'landmark' details are not available.
+
+The priority level assigned to this mission allocation is medium importance (Priority 2). This means we're handling it professionally, keeping the operational tone direct and standard. The request involves 'fixed parameters' representing our normal operational status or a routine monitoring task that's part of our workflow update.
+
+Regarding the relative timeframes, we have a strict deadline for delivering the data products to the user. The target day is set for "the day after tomorrow", with the target diurnal period being overnight. This indicates that all products must be ingested into the pipeline before the specified timeframe ends.
+
+In summary, our request is as follows:
+
+"Utilizing an active radar scanner (SAR), we aim to capture ground geometry through microwave surface imaging. Our geographic location focuses on France's Norte city, providing a high-resolution snapshot for cloud-penetrating capture. This task falls under standard operational status and represents our baseline pipeline tracking setup with fixed parameters.
+
+Our priority is medium importance (Priority 2), which means this request is part of our normal operational workflow update with no deviation from the established procedures. We adhere to the deadline set for the day after tomorrow, with the target diurnal period being overnight, ensuring that all products are ready by this strict timeframe."
+
+This request integrates natural language interpretation of the raw physical simulation metadata, emphasizing the operational guidelines provided and delivering a highly realistic conversational English output.
