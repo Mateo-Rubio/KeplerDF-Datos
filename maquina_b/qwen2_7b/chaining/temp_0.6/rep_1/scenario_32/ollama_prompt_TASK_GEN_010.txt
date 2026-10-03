@@ -1,0 +1,11 @@
+Translating raw physical simulation metadata for an Earth-observation mission task request:
+
+The context is set in Colombia, specifically around San Vicente del Caguán, where we aim to conduct a low-priority importance task focusing on the primary VNIR sensor. This observation is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status or a standard workflow update.
+
+Our objective is to gather data for multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI index and surface reflectance. We seek a high-resolution optical snapshot for daylight photography, clear optical imagery, and true-color visual documentation to capture the essence of this region.
+
+The deadline for this task has already been resolved by an upstream module: "in four days overnight." This means that by the next four-day period when darkness falls, we require the data. The VNIR sensor will play a pivotal role in our mission, allowing us to monitor the health of vegetation and gather essential information about the area's flora.
+
+This task is labeled as a low priority importance request with a flexible schedule for opportunistic capture. We consider it a background survey or testbed tracking task that can be dropped or rescheduled at convenience, treating it as a non-essential background filler task in our operational planning.
+
+Let's proceed with this mission, ensuring that the VNIR sensor captures the necessary data during the specified diurnal period to provide us with valuable insights into the region's vegetation health and environmental conditions.
