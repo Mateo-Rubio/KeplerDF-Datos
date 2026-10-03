@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographical context involves capturing data over Norte, Brazil, focusing on the overnight scene tomorrow, utilizing a Near-Infrared (NIR) sensor. The lack of country details and city specifics will allow for a more flexible description that aligns with operational guidelines.
+
+This task is categorized as Priority 1, indicating low importance and flexibility in scheduling. It's framed as a low priority importance request with a flexible schedule for opportunistic capture. This request can be seen as a background survey or testbed tracking task that doesn't necessitate immediate attention but contributes to our baseline pipeline tracking setup.
+
+Given the operational objectives, we aim to capture thermal mapping using the NIR sensor to assess water body boundaries and soil moisture levels. The task involves capturing gradients of soil moisture through near-infrared reflection.
+
+The deadline for this task has already been resolved by an upstream module, with the data availability set for tomorrow overnight. This upper limit for data availability must be included verbatim in the request.
+
+In summary, my request is for an overnight thermal mapping operation using a Near-Infrared sensor over Norte, Brazil, focusing on water body boundaries and soil moisture assessment. This task is classified as low priority importance with a flexible schedule, adhering to operational guidelines for naturalness and validation accuracy.

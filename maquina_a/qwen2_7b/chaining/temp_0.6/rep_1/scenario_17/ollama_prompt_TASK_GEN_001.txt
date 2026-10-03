@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for operational execution.
+
+Geographically, we're focusing on Colombia with the city of San Martín as our target location. Combining the JSON parameters naturally, we aim to capture detailed information about this specific area using a VNIR sensor for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index, providing valuable insights into surface reflectance.
+
+With a priority level of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this "background survey" or "testbed tracking task" can be dropped or rescheduled at convenience, representing a non-essential background filler task in our operational pipeline.
+
+The deadline for this task has been resolved by an upstream module and is set as "in four days overnight". This phrase must be inserted verbatim into the request, setting the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. We're committed to delivering accurate and timely information under these structural guidelines.
+
+In conclusion, the task request for the satellite constellation planner is as follows: We aim to capture detailed multispectral vegetation analysis imagery of San Martín, Colombia using a VNIR sensor. This low priority importance task can be executed with flexibility within the specified deadline of "in four days overnight". Let us proceed with the operational execution while adhering to the outlined guidelines for naturalness and validation accuracy.
