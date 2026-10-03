@@ -1,0 +1,10 @@
+As an Earth-observation mission operator, I'm submitting a task request for a highly realistic and conversational English description based on the provided JSON metadata. The primary sensor is set to TIR for thermal mapping purposes, aiming to capture a heat signature or surface temperature profile in Murung Raya, Indonesia. Given its low priority level, this request is framed as a flexible schedule "background survey" with a "non-essential background filler task". We're targeting the day after tomorrow in the evening for data availability, adhering to the established deadline.
+
+To maximize naturalness and validation accuracy, we will interpret the geographic context by combining the location details. Since Murung Raya, Indonesia, is specified, we'll describe this location using realistic combinations of country, city, and landmark fields from 'location_details'. However, as these fields are not provided in the metadata, we're focusing on the clean 'region_name', which in this case is "Indonesia".
+
+For mission allocation priority, since it's set to level 1 (low importance), our language will reflect a casual, highly flexible, or opportunistic tone. We'll explicitly note that this request can be "dropped or rescheduled at convenience" and treat it as a "background survey" or "testbed tracking task". The operational objectives for the sensors are as follows:
+
+- TIR: The goal is to perform thermal mapping, capturing heat emissions from the region.
+- VIS: Although not specified in the metadata, we can infer that this sensor might be used for daylight photography or clear optical imagery to complement the thermal data.
+
+In conclusion, our task request is structured to align with operational guidelines, emphasizing natural language integration, priority level interpretation, and specific sensor objectives. The deadline for data availability is set as "the day after tomorrow in the evening", which will be included verbatim in the final request.

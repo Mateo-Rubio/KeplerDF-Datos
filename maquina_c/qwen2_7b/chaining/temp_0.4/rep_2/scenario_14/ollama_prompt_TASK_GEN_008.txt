@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The provided JSON outlines a specific mission allocation priority and sensor objective for the automated satellite constellation planner.
+
+Our target region is Norte, with no specified country or city details, which means we'll describe this location using the available 'region_name'. The primary sensor involved in this mission is SAR (Synthetic Aperture Radar), aimed at conducting an active radar scan for cloud-penetrating capture and surface geometry imaging. This task is of low importance, requiring a flexible schedule for opportunistic data collection, akin to a background survey or testbed tracking task.
+
+The operational guidelines guide us through interpreting the metadata contextually. The geographic context combines location details naturally, focusing on describing the region without technical system tags or coordinate arrays. The mission allocation priority is set at Level 1, indicating a low importance request with a 'flexible schedule' for 'opportunistic capture', emphasizing it as a 'non-essential background filler task'. 
+
+The delivery deadline is "tomorrow overnight", which is the stated upper limit for data availability without rephrasing or altering the time frame. This deadline reflects the urgency and importance of the mission, aligning with the operational context provided.
+
+In conclusion, our request to the satellite constellation planner will be a concise yet detailed description of this low-priority task, ensuring that the SAR sensor captures essential cloud-penetrating data for surface geometry imaging during the overnight period tomorrow. The request will incorporate the guidelines for natural language interpretation and operational tone appropriate for each priority level.

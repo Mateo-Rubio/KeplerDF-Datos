@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for the upcoming day's mission allocation.
+
+The target geographic context is Colombia, with a specific focus on the city of Bugalagrande. Our mission involves capturing thermal mapping data using a TIR sensor, aiming to capture heat signatures and surface temperature profiles for this region. This task carries a low priority importance, indicating that it is a flexible schedule "background survey" or "testbed tracking task", with no strict deadlines or operational urgency.
+
+The delivery deadline for this task has already been set for tomorrow in the evening, serving as the upper limit for data availability. The request does not include raw technical system tags, underscores, or coordinate arrays; instead, it combines the JSON parameters naturally, describing the location using a realistic combination of country and city names.
+
+In summary, our mission involves a passive thermal imaging scan of Bugalagrande, Colombia, scheduled for tomorrow evening. This task is to be executed as part of a low-priority background filler task, with no specific deadlines or operational urgency attached. The language used reflects the naturalness and validation accuracy of the dataset, interpreting the operational guidelines provided.

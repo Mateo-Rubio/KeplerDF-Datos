@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing detailed imagery of Ecuatorial City in Indonesia. Although the specific country details are mentioned, city and landmark specifics are unavailable; thus, we'll describe the location using the 'country' field directly.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This request is framed as a low-priority importance task with a "flexible schedule" for "opportunistic data collection". It's explicitly noted that this operator has the authority to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will be used to conduct an active radar scan for cloud-penetrating capture. This involves using microwave surface imaging technology to pierce heavy weather conditions and capture ground geometry, providing invaluable data on the terrain under various atmospheric conditions.
+
+The delivery deadline has already been resolved by an upstream module, with the task requiring data availability "in three days in the morning". This phrase is inserted verbatim into the request, ensuring that the upper limit for data availability is clearly communicated without rephrasing or altering the time specification.
+
+In summary, this task involves capturing detailed SAR imagery of Ecuatorial City in Indonesia on a flexible schedule, with an operational deadline set for "in three days in the morning". The request is framed to align with low-priority importance guidelines while ensuring accurate and realistic communication of the mission's objectives.
