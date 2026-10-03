@@ -1,0 +1,9 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission. The task involves interpreting the provided JSON parameters organically according to the operational guidelines below.
+
+Geographically, the target location is situated in Italia, specifically in the town of Licciana Nardi. This location details are used to describe the site accurately, combining the country, city, and landmark fields from location_details. The region_name is also considered for a natural description.
+
+From a mission allocation priority perspective, this task is classified as an absolute institutional priority, a binding contract requirement involving a critical payload capture. It represents an urgent operational execution with an un-preemptable mission lock, adhering to the highest importance level. The task is a high-importance request with a fixed deadline of capturing data the day after tomorrow in the evening.
+
+From a sensor and physical objectives standpoint, the primary objective is to capture a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation using the VIS sensor. This will enable the observation of the target location's geographical features and environmental conditions accurately.
+
+The delivery deadline for this task has already been resolved by an upstream module and is stated as the day after tomorrow in the evening. This deadline must be met to ensure timely data availability.
