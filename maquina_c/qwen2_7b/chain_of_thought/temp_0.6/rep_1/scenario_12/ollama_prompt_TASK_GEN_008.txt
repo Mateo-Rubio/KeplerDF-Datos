@@ -1,0 +1,10 @@
+STAGE 1 REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight", which must appear literally in the final request.
+d) Confirming that I am not shifting the deadline to an adjacent part of the day, as 'target_day' is clearly set for "tomorrow" and 'target_diurnal_period' specifies a specific time of "overnight", no shift is being made.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the parameters provided by Earth-observation mission guidelines, we are tasked to capture high-resolution imagery overnight tomorrow. The region of interest does not specify a country or city but identifies Norte as a landmark. This task has been assigned a priority level of Low Importance, suggesting flexibility in scheduling with a "non-essential background filler task" that can be accommodated as an "opportunistic survey". The primary sensor to be utilized for this mission is the Near-Infrared (NIR) sensor, which will help map water body boundaries and assess soil moisture levels, crucial for environmental monitoring and agricultural applications. As we adhere strictly to the deadline set for "overnight tomorrow", capturing thermal anomalies or detecting ground geometry with a high degree of accuracy during this time will ensure that our data products meet the requirements without altering the operational timeframe.

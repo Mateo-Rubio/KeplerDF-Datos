@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string which must appear literally in the final request is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the metadata provided, we are tasked with capturing high-resolution active radar imagery for the region surrounding Norte, focusing on a critical area in the morning of the day following today. This request is framed within the context of standard operational tasking, highlighting its importance as a baseline pipeline tracking activity with fixed parameters representing normal operational status. As part of our routine monitoring practices, this SAR imagery will enable us to penetrate any cloud cover and capture ground geometry details, ensuring comprehensive coverage of the region's topography.
+
+Our priority level for this mission allocation is set at medium importance, indicating that while it is not an urgent operational execution, it remains a standard workflow update within our baseline pipeline tracking setup. This request does not involve any un-preemptable mission locks or binding contract requirements; instead, it aligns with our ongoing efforts to maintain regular surveillance and data collection for the area. The imagery will serve as essential input for various applications requiring surface mapping and analysis, including urban planning, environmental monitoring, and disaster response planning.
+
+To achieve this mission, we are targeting the morning of tomorrow to capture the data products, adhering strictly to the deadline specified without altering or extending the timeframe. This ensures that the data is collected at a time when atmospheric conditions are most favorable for radar imaging, maximizing the quality and utility of the resulting images.
+
+In conclusion, our request to the automated satellite constellation planner involves acquiring SAR imagery of the Norte region in the morning of the day following today, leveraging our standard operational procedures and focusing on capturing ground geometry details while adhering to medium priority guidelines. This task contributes to our ongoing surveillance activities without requiring urgent operational execution or impacting critical payload capture requirements.
