@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Slovenia, specifically the city of Norte. This region will be captured using thermal mapping capabilities provided by our TIR sensor. The mission allocation priority for this task is set at low importance, indicating that it's a flexible schedule request with a "non-essential background filler task" status.
+
+The operational guidelines guide us to interpret the metadata organically. We'll avoid raw technical system tags and coordinate arrays, focusing instead on natural language descriptions. The 'country' field provides Slovenia as our geographic location, while the 'city' field specifies Norte. Since 'landmark' is not provided, we'll omit it gracefully.
+
+The sensors and physical objectives are centered around thermal mapping capabilities of our TIR sensor. This will allow us to capture a "heat signature" or "surface temperature profile", which can be crucial for thermal anomaly detection and mapping heat emissions in the region.
+
+The delivery deadline for this task is set as "in three days overnight". This phrase serves as the upper limit for data availability, emphasizing that we are working within a predefined timeframe without rephrasing or altering the time of day specified.
+
+In conclusion, our request to the satellite constellation planner is to capture thermal mapping data from Slovenia, specifically the city of Norte, using our TIR sensor. This task carries a low priority importance and adheres to the deadline set for "in three days overnight". We're looking forward to receiving the data that will provide valuable insights into the thermal characteristics of the region.

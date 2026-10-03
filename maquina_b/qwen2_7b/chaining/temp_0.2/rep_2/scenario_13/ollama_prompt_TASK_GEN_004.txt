@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves observing San Martín, Colombia, which is a location of interest for our mission. We'll combine the JSON parameters naturally, avoiding raw technical system tags or coordinate arrays. The 'primary_sensor' is set to VNIR, which we'll interpret as "multispectral vegetation analysis" aimed at assessing chlorophyll absorption levels and calculating the vegetation NDVI index.
+
+The mission allocation priority is Low Importance, indicating a flexible schedule for opportunistic capture. This request can be treated as a "non-essential background filler task", with an explicit note to drop or reschedule at convenience. The delivery deadline is resolved by an upstream module, requiring data availability in three days overnight.
+
+In summary, our task involves capturing multispectral vegetation analysis of San Martín, Colombia, using VNIR sensors for chlorophyll absorption assessment and NDVI index calculation. This request aligns with a low priority importance, featuring a flexible schedule for opportunistic capture, and adheres to the deadline requirement of data availability in three days overnight.

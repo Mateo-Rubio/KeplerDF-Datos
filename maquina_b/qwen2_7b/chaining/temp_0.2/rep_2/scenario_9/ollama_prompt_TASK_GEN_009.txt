@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring maximum naturalness and validation accuracy.
+
+The geographic context involves observing Indonesia's equatorial region, with a focus on capturing a thermal mapping of the area around mid-day in three days. This mission is classified as a low priority importance request, with flexible scheduling for opportunistic capture. It's explicitly noted as a "non-essential background filler task" that can be dropped or rescheduled at convenience.
+
+The primary sensor to be utilized is TIR (Thermal Infrared), which will enable us to capture thermal anomalies and map heat emissions across the region. This sensor will provide invaluable data for surface temperature profiling, essential for various applications such as detecting hotspots in industrial areas or monitoring environmental conditions.
+
+The operational guidelines dictate that we avoid raw technical system tags, underscores, or coordinate arrays, opting instead for a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since the city is "Ecuatorial", we'll describe the location using this term to convey the essence of the region without introducing technical jargon.
+
+In summary, our request involves capturing thermal mapping data of Indonesia's equatorial region around mid-day in three days using a TIR sensor. This task is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. It's classified as a low priority importance request, allowing for flexible scheduling to accommodate opportunistic capture.
+
+Please ensure that the data is available by the specified deadline: "in three days around mid-day". We appreciate your attention to this matter and look forward to receiving the requested data in due course.

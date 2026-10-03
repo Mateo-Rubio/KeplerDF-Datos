@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format is as follows:
+
+The primary sensor required is VNIR, which will be used for multispectral vegetation analysis. This involves assessing the chlorophyll absorption level or calculating the vegetation NDVI index and surface reflectance. The geographic context is centered around the region of Italia, specifically the city of Tagliole, combining these parameters naturally.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is to be treated as a routine monitoring activity that involves capturing the desired data within the specified parameters without any urgency implications.
+
+The delivery deadline for this task has already been resolved by an upstream module, and it's set for "in three days overnight". This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our request is to capture high-resolution optical snapshots using VNIR technology for daylight photography, clear optical imagery, or true-color visual documentation. We aim to assess the chlorophyll absorption level or calculate the vegetation NDVI index and surface reflectance in the region of Italia, specifically Tagliole, with a medium priority level and a deadline set for "in three days overnight". This task is part of our standard operational status and will be executed accordingly.
