@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) The task requires delivering data products precisely within the specified timeframe. The 'target_day' indicates a strict deadline of "in four days," and the 'target_diurnal_period' specifies "around mid-day" for the observation. This means that there is no flexibility to shift the deadline to any other part of the day, such as morning or afternoon. The data capture must occur specifically at mid-day within the four-day window.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a standard operational tasking for a routine monitoring mission over Rheinwald, Switzerland. The request involves a flexible schedule for near-infrared reflection to map water body boundaries or assess soil moisture levels. This is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status and a standard workflow update. Please ensure the data capture occurs in four days around mid-day.

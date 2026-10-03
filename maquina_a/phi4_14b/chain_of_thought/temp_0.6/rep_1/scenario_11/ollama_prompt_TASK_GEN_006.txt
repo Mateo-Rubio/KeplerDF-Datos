@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "today."
+
+b) The exact string present in 'target_diurnal_period' is "overnight."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "overnight." This word must appear literally in the final request.
+
+d) The deadline indicated by the 'target_day' and 'target_diurnal_period' is for today and specifically during the overnight hours. There is no indication or permission to shift this deadline to any other part of the day, such as morning, mid-day, afternoon, or evening. Therefore, it is crucial to adhere strictly to the specified timeframe, ensuring that the task is completed within the overnight period of today.
+
+**STAGE 2 - FINAL REQUEST**
+
+Please proceed with a standard operational tasking for today in Indonesia, specifically targeting the city of Setiris. The mission involves conducting a multispectral vegetation analysis using near-infrared reflection techniques to assess chlorophyll absorption levels and calculate the NDVI index. This request is part of our routine monitoring activities and should be integrated into our baseline pipeline tracking setup with fixed parameters representing normal operational status. Ensure that this task is completed during the overnight period today as per the specified deadline.

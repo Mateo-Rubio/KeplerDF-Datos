@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific point in time relative to the current date when the task needs to be executed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the observation should take place.
+
+c) The single word contained in that string which matches our set is "afternoon." This word will be used directly in the final request to describe the timing of the task.
+
+d) It's important to confirm that the deadline is not being shifted to another part of the day. The task must occur specifically "during the afternoon" on "the day after tomorrow," and this timing should remain unchanged to meet the strict operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an urgent operational execution for a mission with absolute institutional priority involving a critical payload capture over the region of San Martín, Colombia. This task is a binding contract requirement that mandates a thermal mapping mission using TIR sensors to capture a heat signature or surface temperature profile. The data must be delivered on the day after tomorrow during the afternoon, reflecting an un-preemptable mission lock due to its high importance and contractual value.

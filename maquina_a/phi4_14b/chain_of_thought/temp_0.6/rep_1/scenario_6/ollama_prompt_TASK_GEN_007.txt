@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string which must appear literally in the final request is "morning."
+
+d) Based on the given metadata, the temporal parameters indicate a strict operational deadline and do not allow for any adjustments or shifts to an adjacent part of the day. The task must be completed specifically "in four days" and "in the morning," adhering precisely to these specified conditions without alteration.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a high-resolution optical snapshot in Zipaquirá, Colombia. This request is part of our baseline pipeline tracking setup, with fixed parameters ensuring normal operational status and workflow updates. The task should be executed "in four days," specifically "in the morning." This commercial tasking will provide clear optical imagery and true-color visual documentation for the specified region.
