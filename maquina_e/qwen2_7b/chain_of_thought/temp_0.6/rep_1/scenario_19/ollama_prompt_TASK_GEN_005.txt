@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the information provided, we are tasked with capturing a critical SAR (Synthetic Aperture Radar) scan on "the day after tomorrow" in the evening. This mission holds medium importance according to our priority level, indicating that it's part of our standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status.
+
+The geographical context of this request involves Norte, though country details are not provided since they are "N/A". The region is thus unspecified but will be targeted during the specified evening timeframe to ensure optimal conditions for radar imaging. The SAR scan aims to provide an active microwave surface imaging capture, enabling cloud-penetrating data collection and ground geometry mapping with high precision.
+
+To summarize, our automated satellite constellation planner is tasked with executing this mission on "the day after tomorrow" in the evening over an unspecified region encompassing Norte. This is a standard operational task requiring the SAR sensor to capture essential data for our baseline pipeline tracking setup, ensuring fixed parameters and normal operational status are maintained throughout the process.

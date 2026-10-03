@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string which must appear literally in your final request is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+To address the operational guidelines and incorporate the details from the JSON metadata, we'll craft a natural-sounding request:
+
+"Three days from now, during the morning hours, it's imperative that our satellite constellation captures a high-resolution active radar scan across the equatorial region in Indonesia. This mission is classified as low priority importance with flexible scheduling, serving as a non-essential background filler task within our operational pipeline. The primary goal is to gather cloud-penetrating data for this area using our SAR technology, enabling us to conduct detailed surface imaging without the interference of atmospheric conditions. This 'in the morning' capture will contribute to our baseline pipeline tracking efforts with standard parameters, allowing us to maintain our operational status and update our workflow accordingly."
+
+This request adheres to the guidelines by avoiding raw technical tags or coordinates, using a conversational tone that reflects priority levels and timeframes, and integrating natural language for sensor objectives and temporal context.
