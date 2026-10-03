@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the deadline for the task is the day after today.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data should be captured or delivered.
+
+c) The single word contained in the string "in the evening" that matches the options provided is "evening." This word will be used literally in the final request to specify the time of day.
+
+d) I need to ensure that the deadline is not shifted to an adjacent part of the day. The original metadata specifies "in the evening," so it is crucial to maintain this timeframe without altering it to morning, mid-day, afternoon, or overnight.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request an urgent operational execution for a binding contract requirement involving a critical payload capture over Norte with an active radar scan using microwave surface imaging. This task is of absolute institutional priority and must be completed tomorrow in the evening. The mission lock is un-preemptable, ensuring that this high-importance task is prioritized above all others.

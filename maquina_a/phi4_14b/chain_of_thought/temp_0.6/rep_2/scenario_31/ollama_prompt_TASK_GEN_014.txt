@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+The task at hand involves a careful analysis of the provided JSON metadata to ensure an accurate translation into a conversational request. Let's examine each component step by step.
+
+a) The 'target_day' value in the JSON is specified as "in three days." This string indicates the exact timing for when the data products are expected to be delivered, establishing a clear deadline for the mission.
+
+b) The 'target_diurnal_period' value is given as "in the evening." This specifies the time of day during which the satellite observation should ideally occur, aligning with the operational requirements for capturing the desired data.
+
+c) Within the string "in the evening," the specific word that matches our predefined options is "evening." This term will be directly included in the final request to maintain consistency with the temporal parameters provided.
+
+d) It is crucial to confirm that there is no alteration or shift of the deadline. The phrase "in three days" and "in the evening" must remain intact as they are, ensuring that the operational deadline is strictly adhered to without any adjustments to the specified time frame.
+
+By following these steps, we ensure that the translation from metadata to a conversational request accurately reflects the operational guidelines and maintains the integrity of the original parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority mission involving a critical payload capture over Italy, specifically in the region of Norte. This binding contract requirement demands an urgent operational execution with an un-preemptable mission lock. Our goal is to conduct thermal mapping to capture a surface temperature profile or identify thermal anomalies and map heat emissions. The data products must be delivered in three days, specifically in the evening, ensuring that this high-importance task is executed without delay.

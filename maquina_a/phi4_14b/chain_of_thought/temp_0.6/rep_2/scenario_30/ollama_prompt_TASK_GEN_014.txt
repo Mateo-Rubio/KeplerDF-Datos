@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves translating metadata into a natural language request for an Earth-observation mission. Let's break down the JSON metadata to understand how to craft this request.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates when the data collection needs to be completed, specifying a strict deadline for the task.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time frame during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "overnight." This word will be used verbatim in the final request to describe when the observation should take place.
+
+d) It is crucial to confirm that we are not altering the deadline. The metadata specifies "the day after tomorrow" as the deadline, and "overnight" as the time frame for data collection. We must adhere strictly to these parameters without shifting the deadline to any other part of the day or time frame.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting an absolute institutional priority task request involving a critical payload capture for a region in Italia, specifically around Argenta. This mission is a binding contract requirement and mandates an urgent operational execution with an un-preemptable mission lock. The objective is to conduct thermal mapping to capture a heat signature and surface temperature profile overnight on the day after tomorrow. This task is crucial for thermal anomaly detection and mapping heat emissions in the specified area.
