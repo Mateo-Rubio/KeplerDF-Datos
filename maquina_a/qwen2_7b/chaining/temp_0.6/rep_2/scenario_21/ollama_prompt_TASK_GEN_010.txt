@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context involves capturing a high-resolution optical snapshot of El Retorno, Colombia, for daylight photography purposes. Combining the operational guidelines, we describe the location using a realistic combination of 'country' and 'city' fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is indicated by the 'priority_level'. For this task, with a priority level set to 1, our request is framed as a low priority importance task. We explicitly note that this is a "non-essential background filler task", allowing for flexible scheduling and treating it as an "opportunistic background survey" or "testbed tracking task". The language must be casual and highly flexible.
+
+The sensors involved are primarily VIS (visual light), which serves to capture clear optical imagery, true-color visual documentation of the area. This sensor's goal is explained in natural terms that emphasize the physical phenomenon to be observed. We do not output technical abbreviations or acronyms like VIS, SAR, TIR, VNIR, and NIR; instead, we weave operational objectives and descriptors into our request.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set as "the day after tomorrow in the morning". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not rephrase, shorten, or move it to a different part of the day.
+
+In summary, this task request combines natural language with technical specifications to ensure maximum naturalness and validation accuracy, adhering to operational guidelines and efficiently communicating the mission's objectives and constraints.

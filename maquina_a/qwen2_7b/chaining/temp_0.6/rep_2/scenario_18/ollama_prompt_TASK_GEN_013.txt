@@ -1,0 +1,9 @@
+As an operator of Earth-observation missions, I hereby request a task from your automated satellite constellation planner. The operational guidelines for this task are as follows: interpret the raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request.
+
+The geographic context involves observing the region of Colombia, specifically focusing on the city of Puerto López. No landmark details are provided, so we will describe the location using the 'country' and 'city' fields from 'location_details'. We aim to capture the heat signature of this area with a 'TIR' sensor, which is our primary tool for thermal mapping.
+
+The mission allocation priority level is set to 'Priority 1', indicating low importance. This request should be treated as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It can be considered a "non-essential background filler task" that the operator notes to "drop or reschedule at convenience", but it serves as a "background survey" or "testbed tracking task".
+
+The delivery deadline is set for 'the day after tomorrow in the morning', which means that we need to have the data available by that time, no earlier and not later than specified. This deadline acts as an upper limit for data availability.
+
+In conclusion, our request involves capturing thermal mapping data of Puerto López, Colombia, using a 'TIR' sensor on the day after tomorrow in the morning. We aim to observe surface temperature profiles and detect thermal anomalies, adhering to the guidelines provided for naturalness and validation accuracy.
