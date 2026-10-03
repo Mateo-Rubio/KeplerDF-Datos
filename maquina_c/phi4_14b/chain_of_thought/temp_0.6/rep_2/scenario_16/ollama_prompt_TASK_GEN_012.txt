@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The exact string in 'target_day' is "today," which indicates that the task needs to be completed within the current day.
+
+The exact string in 'target_diurnal_period' is "overnight." This specifies that the data collection should occur during the night hours. The word "overnight" is contained within this string and must appear literally in the final request.
+
+The single word from the set {morning, mid-day, afternoon, evening, overnight} that is part of 'target_diurnal_period' is "overnight." This confirms that the task should occur during nighttime hours.
+
+I confirm that I am not shifting the deadline to an adjacent part of the day. The specified timeframe remains as "today" and "overnight," meaning data capture must be executed during the night hours of this current day, without any adjustments or shifts in timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task involving a critical payload capture over Bukit Mabong, Malaysia. This mission is a binding contract requirement that necessitates urgent operational execution with an un-preemptable mission lock. The goal is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture during the nighttime. This operation must be completed today, specifically overnight, ensuring no delay in delivering the data products as per the strict deadline.

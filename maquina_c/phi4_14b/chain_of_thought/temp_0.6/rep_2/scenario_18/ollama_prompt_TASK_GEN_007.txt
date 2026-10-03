@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This word must appear literally in the final request.
+
+d) The operational deadline specified as "in the evening tomorrow" must be strictly adhered to. There is no indication or allowance to shift this deadline to any other part of the day, such as morning, afternoon, or overnight. It is critical to maintain the integrity of this timeframe for the task execution.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a high-resolution optical snapshot over Planadas, Colombia. This request is part of our baseline pipeline tracking setup, with fixed parameters representing a normal operational status. We need clear optical imagery captured in the evening tomorrow. Please ensure that this task aligns with our routine monitoring and workflow update processes.

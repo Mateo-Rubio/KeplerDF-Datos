@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the specific deadline for when the data product should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the observation is intended to occur.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight".
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The task explicitly requires data capture during the overnight period, aligning with the specified diurnal period.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low priority importance task focused on capturing a high-resolution optical snapshot of Bolívar, Colombia, using VIS capabilities. This request is for opportunistic capture with a flexible schedule, and it can be dropped or rescheduled at convenience as a non-essential background filler task. The goal is to obtain clear optical imagery during the overnight period in four days.
