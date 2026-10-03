@@ -1,0 +1,21 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is: "tomorrow"
+
+b) The exact string in 'target_diurnal_period' is: "in the evening"
+
+c) The single word contained in that string is: "evening"
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines, the request for tomorrow's evening satellite observation involves capturing thermal data over Colombia, specifically focusing on Puerto Wilches. This task holds low priority importance and is designated as a flexible, opportunistic capture that can be dropped or rescheduled at convenience. The primary sensor to be utilized is the TIR (Thermal Infrared) instrument to gather critical thermal mapping information, aiming to identify heat signatures and surface temperature profiles. This data collection will serve as part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status.
+
+As the deadline for delivering this dataset is tomorrow evening, we are prepared to adhere to this strict operational deadline without altering or extending it. This task, though not an institutional priority or a binding contract requirement, remains integral to our ongoing monitoring efforts and will contribute to our understanding of thermal phenomena in the region. The data gathered during this evening observation will help us assess heat emissions and thermal anomalies, providing valuable insights that can inform our decision-making processes.
+
+The satellite constellation planner should ensure that all necessary resources are allocated for this task, recognizing its importance within our operational framework despite its low priority level. The final dataset will encompass high-resolution optical snapshots as well, capturing daylight photography and true-color visual documentation to complement the thermal data, offering a comprehensive view of the region's conditions at that specific time.
+
+The satellite will commence its capture of the thermal mapping using the TIR sensor while simultaneously collecting daylight imagery with the VIS (Visible Imaging) sensor, providing a dual perspective on the scene. This dual observation approach ensures that we have both thermal and optical data for analysis, enhancing our ability to interpret ground conditions accurately and efficiently.
+
+In conclusion, the low priority importance of this task does not detract from its value in our operational workflow; rather, it serves as a background survey or testbed tracking task that can be prioritized based on the current state of our mission allocations. The satellite constellation planner should take note of the deadline for delivering the data products and prepare accordingly to ensure timely and accurate delivery.

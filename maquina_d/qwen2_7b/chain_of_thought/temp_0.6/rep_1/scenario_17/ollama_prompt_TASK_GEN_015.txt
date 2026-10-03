@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+To address our operational needs, we are looking at a tasking requirement for four days hence, specifically in the morning hours. This involves capturing high-resolution near-infrared imagery over Indonesia's Kepulauan Meranti region. The primary objective is to assess soil moisture conditions and delineate water body boundaries using near-infrared reflection data, essential for environmental monitoring and agricultural applications. This standard operational tasking is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. Our focus is on delivering accurate data products by the specified deadline without altering the time window.
