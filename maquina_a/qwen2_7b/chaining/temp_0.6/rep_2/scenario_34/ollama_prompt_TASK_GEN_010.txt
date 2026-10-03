@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata into a highly realistic request for our automated satellite constellation planner. The operational guidelines require interpreting the provided JSON format in a conversational English request that maximizes naturalness and validation accuracy.
+
+The geographic context revolves around Venezuela, specifically Santa Ana del Táchira, where we aim to capture high-resolution optical imagery for daylight photography, clear optical imagery, and true-color visual documentation using our primary VIS sensor. This request carries a high level of importance due to its 'priority_level' being set to 3, which means it is an absolute institutional priority or a binding contract requirement involving a critical payload capture. We are mandated to execute this task with urgency as it pertains to an un-preemptable mission lock.
+
+The delivery deadline for this task has been resolved by an upstream module and is "in three days around mid-day". The deadline must be inserted verbatim into the request, serving as the stated upper limit for data availability.
+
+With these parameters in mind, our request to the satellite constellation planner is as follows:
+
+"In three days around mid-day, we seek to capture high-resolution optical imagery over Venezuela, focusing specifically on Santa Ana del Táchira. This mission is of utmost importance due to its priority level set at 3, indicating it's an absolute institutional priority or a binding contract requirement involving critical payload capture. The goal is to take daylight photographs, clear optical images, and true-color visual documentation, leveraging our VIS sensor for this purpose. We are committed to adhering to the deadline provided, 'in three days around mid-day', ensuring that this task is executed with the utmost urgency and importance."
+
+This request encapsulates the essence of the operational guidelines while delivering a clear and impactful message to our satellite constellation planner."

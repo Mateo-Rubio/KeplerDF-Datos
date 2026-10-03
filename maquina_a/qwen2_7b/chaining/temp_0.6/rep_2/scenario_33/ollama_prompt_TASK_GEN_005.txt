@@ -1,0 +1,22 @@
+```prompt
+As an Earth-observation mission operator, my task is to translate the provided raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines are as follows:
+
+1. GEOGRAPHIC CONTEXT: I'll combine 'region_name' with 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", I will use the remaining valid fields or just 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: I'll interpret 'priority_level' and use an appropriate tone. Priority 3 indicates "absolute institutional priority" with an "urgent operational execution". Priority 2 represents a "standard operational tasking", while Priority 1 is framed as a "low priority importance" request.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: I'll explain 'primary_sensor' goals naturally using "active radar scan", "high-resolution optical snapshot", "thermal mapping", "multispectral vegetation analysis", or "near-infrared reflection".
+
+4. DELIVERY DEADLINE: The request includes a specific deadline of "in three days in the morning", which should be inserted verbatim.
+
+For this task:
+- **GEOGRAPHIC CONTEXT**: The target region is Italia, specifically Arezzo, a beautiful city in Tuscany.
+- **MISSION ALLOCATION PRIORITY**: Since the priority level is 1, I'll treat this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+- **SENSORS AND PHYSICAL OBJECTIVES**: The primary sensor is SAR (Synthetic Aperture Radar), which will be used for an "active radar scan" to capture the area's ground geometry, useful for cloud-penetrating operations and maintaining baseline pipeline tracking with fixed parameters representing normal operational status.
+- **DELIVERY DEADLINE**: The deadline is set as "in three days in the morning".
+
+Taking these guidelines into account, my request is:
+
+"Prepare an active radar scan using a SAR sensor to capture ground geometry in Arezzo, Italia. This task is categorized as a low priority importance request with a flexible schedule for opportunistic capture. The capture will adhere to normal operational status and should be completed by three days in the morning."
+
+This request aligns with the provided JSON data and adheres to all guidelines, ensuring naturalness and validation accuracy of the dataset."
