@@ -1,0 +1,23 @@
+Please prepare a highly realistic, conversational English request for an Earth-observation mission operator submitting a task to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single request that maximizes naturalness and validation accuracy of the dataset based on operational guidelines.
+
+1. GEOGRAPHIC CONTEXT: Describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If these fields are "N/A", use the 'region_name' field instead. Avoid technical system tags, underscores, or coordinate arrays in your final output.
+
+2. MISSION ALLOCATION PRIORITY: Use authoritative, professional, or casual tones based on the priority level to frame the request appropriately. Indicate whether it's an "absolute institutional priority", a "standard operational tasking", or a "low priority importance" with flexible scheduling.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Interpret sensor types and objectives without using technical abbreviations. Describe goals as "high-resolution optical snapshots", "active radar scans", "thermal mapping", "multispectral vegetation analysis", or "near-infrared reflection".
+
+4. DELIVERY DEADLINE: Insert the exact phrase "tomorrow in the morning" into your request, as the stated upper limit for data availability.
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Brenna"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Your request should seamlessly integrate these guidelines to craft a compelling, contextually rich mission request.

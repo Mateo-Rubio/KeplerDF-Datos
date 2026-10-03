@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. The operational guidelines dictate that we interpret the data naturally, emphasizing the geographic context, mission allocation priority, sensors and physical objectives, and the delivery deadline without resorting to technical tags or coordinates.
+
+Our geographical context involves observing "Primorsko-goranska županija," a region in "Hrvatska," which translates to Croatia. The specific city details are not available, but given the robust country description, we can imagine capturing a detailed snapshot of this coastal area's landscape and urban infrastructure during the target day.
+
+The mission allocation priority is set at Level 1 (Low Importance). This implies that our request for satellite capture is framed as a "flexible schedule" task, indicating that it falls under the category of "non-essential background filler tasks." The operator acknowledges this by explicitly noting to "drop or reschedule" the task based on convenience, treating it as an "opportunistic background survey" or "testbed tracking task."
+
+The primary sensor designated for this mission is a VNIR (Visible and Near-Infrared) sensor. This choice of sensor is crucial for multispectral vegetation analysis, allowing us to assess chlorophyll absorption levels in the region and calculate a Vegetation Index (NDVI), as well as surface reflectance data. The goal here is to provide detailed information about the vegetation health and land cover characteristics.
+
+The deadline for this task has been set by an upstream module: "tomorrow during the afternoon." This phrase must be included verbatim in our request, serving as the upper limit for data availability without any rephrasing or adjustment of time.
+
+In summary, our request to the automated satellite constellation planner is as follows:
+
+"Primorsko-goranska županija, Croatia — A low priority importance task requires a flexible schedule for an opportunistic background survey. The mission employs a VNIR sensor for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate NDVI index and surface reflectance data. This task is due tomorrow during the afternoon as per the upstream module's deadline."
+
+This request encapsulates all necessary information in a natural, conversational manner, adhering to the provided guidelines.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+GEOGRAPHIC CONTEXT: We are focusing on Colombia, specifically the city of Uribe, which is situated in a region characterized by rich biodiversity and complex terrain. The operational guidelines suggest describing the location using realistic combinations of country, city, and landmark fields or clean 'region_name' when necessary.
+
+MISSION ALLOCATION PRIORITY: Given that our priority level is set to 1 (low importance), we will frame this request as a "flexible schedule" low priority importance task with a "drop or reschedule at convenience" approach. This will be treated as a "background survey" or "testbed tracking task", allowing for opportunistic capture.
+
+SENSORS AND PHYSICAL OBJECTIVES: We have been allocated a primary sensor of SAR (Synthetic Aperture Radar). This implies an active radar scan using microwave surface imaging, which will pierce through heavy weather conditions to capture ground geometry. The goal is to obtain detailed information about the terrain and infrastructure, essential for understanding environmental changes and urban development.
+
+DELIVERY DEADLINE: Our deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days in the morning". This phrase must be inserted verbatim into our request, serving as the stated upper limit for data availability without any rephrasing or adjustment.
+
+In conclusion, we are requesting a detailed and accurate SAR scan of Uribe, Colombia, scheduled for "in three days in the morning". This task is to be treated as a low priority importance background survey or testbed tracking task, allowing for flexible scheduling until then. The data gathered will contribute to our understanding of the region's physical characteristics and support decision-making processes without compromising operational efficiency.

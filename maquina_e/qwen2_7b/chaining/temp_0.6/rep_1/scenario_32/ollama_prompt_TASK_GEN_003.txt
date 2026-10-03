@@ -1,0 +1,11 @@
+As an operator of Earth-observation missions, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English description based on the provided raw physical simulation metadata. The goal is to translate this information into a single request that maximizes naturalness and validation accuracy by interpreting each key element organically.
+
+The mission's geographic context revolves around Indonesia, specifically the city of Ketapang. The operational guidelines suggest describing the location with realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. In this instance, we have the country and city details available, so we will describe the location as Indonesia's Ketapang city.
+
+The mission allocation priority is classified as medium importance (Priority 2), implying a standard operational tasking or commercial tasking within our baseline pipeline tracking setup. The language must reflect normal operational status or a workflow update with fixed parameters representing typical operations and processes.
+
+The primary sensor used is Thermal Infrared (TIR), aimed at capturing thermal mapping for heat signature detection and surface temperature profiling. This objective involves assessing heat emissions from various surfaces, identifying thermal anomalies, or mapping heat distribution patterns.
+
+The deadline for this task is "the day after tomorrow during the afternoon", a precise upper limit for data availability that must be included verbatim in the request. No rephrasing or shortening of the phrase is allowed.
+
+In summary, our request to the satellite constellation planner involves capturing thermal mapping data over Indonesia's Ketapang city using a TIR sensor, with medium operational priority, during the afternoon of the day after tomorrow. This task aims to provide critical insights into heat signatures and surface temperatures for further analysis and decision-making processes.
