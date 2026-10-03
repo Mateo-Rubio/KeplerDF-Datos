@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time during which the satellite should capture the data.
+
+c) The single word contained in the string "overnight" that matches the options provided is "overnight." This word will be used verbatim in the final request to describe when the data capture should occur.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as "in three days" and during the "overnight" period, as specified in the metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request for a flexible schedule involving opportunistic capture over Gazzola, Italy. This task is a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to conduct a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate an NDVI index. Please ensure this data is captured overnight, in three days. Thank you for accommodating this background survey as part of our testbed tracking tasks.

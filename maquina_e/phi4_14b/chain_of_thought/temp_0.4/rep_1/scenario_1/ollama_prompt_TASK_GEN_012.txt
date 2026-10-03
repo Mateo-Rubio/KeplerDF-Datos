@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The deadline specified as "in three days" and "in the morning" should not be shifted to any other part of the day. The request explicitly states that the data capture should occur in the morning of that day, ensuring adherence to the given timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance task for monitoring the thermal mapping over the region of Bengkalis, Indonesia. This is a flexible schedule task with an opportunistic capture focus, allowing for a non-essential background filler role where we can drop or reschedule at convenience. The goal is to capture a heat signature and surface temperature profile using thermal imaging. We aim to deliver this data product in three days, specifically in the morning.
