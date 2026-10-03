@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The objective involves interpreting JSON data for GEOGRAPHIC CONTEXT, MISSION ALLOCATION PRIORITY, SENSORS AND PHYSICAL OBJECTIVES, and DELIVERY DEADLINE.
+
+The target context presents us with a 'TIR' sensor for thermal mapping of an unspecified location within the region named 'Ecuatorial', which lacks details on country, city, or landmark information. The priority level is set at 'Medium Importance', indicating a standard operational tasking that's part of the baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The sensors and physical objectives are to observe thermal phenomena for capturing heat signatures, surface temperature profiles, or performing thermal anomaly detection and mapping heat emissions. The deadline for this task is 'the day after tomorrow during the afternoon', serving as the upper limit for data availability without any rephrasing, shortening, or relocation of this phrase.
+
+With these guidelines, my request to the automated satellite constellation planner is succinctly phrased to ensure maximum naturalness and validation accuracy:
+
+"Please arrange for a routine thermal mapping mission employing a 'TIR' sensor to capture heat signatures within the region named 'Ecuatorial', specifically during the afternoon on the day after tomorrow. This task falls under our standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The priority is set at medium importance, reflecting an essential but not urgent mission that complements our regular workflow updates."
+
+This request integrates the operational guidelines to deliver a seamless and contextually rich communication between the mission operator and the automated satellite constellation planner."

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context of this task is based in Indonesia, specifically at the equator, where we aim to capture essential data.
+
+Given that the country mentioned is "Indonesia", a region of great ecological and agricultural significance, our primary sensor requirement is for Thermal Infrared (TIR) imaging, aimed at capturing thermal mapping data. The goal is to assess surface temperature profiles or detect thermal anomalies related to heat emissions, which could provide insights into local environmental conditions, such as urban heat islands or agricultural health.
+
+The 'priority_level' specified is '1', indicating this request is of low importance and should be handled with a casual, highly flexible or opportunistic tone. We explicitly note that this task carries a "flexible schedule for opportunistic capture", treating it as a "background survey" or "testbed tracking task". 
+
+The deadline for this task is "in three days around mid-day". This phrase is inserted verbatim into the request, as the upper limit for data availability. The request is framed without raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request involves capturing detailed TIR images over Indonesia's equatorial region on the designated day at mid-day, following a low-priority importance level, and with a clear understanding of the deadline for the task's completion. We're looking forward to receiving high-quality thermal mapping data that could potentially contribute to our understanding of local environmental conditions or agricultural health.
