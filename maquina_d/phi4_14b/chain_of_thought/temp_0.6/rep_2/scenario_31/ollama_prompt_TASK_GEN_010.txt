@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the deadline for delivering the data products is set for this specific time frame.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when the data capture should occur within the designated day.
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning." This word will be used literally in the final request to specify the time of day for the operation.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The original specification clearly states "in the morning," and this timing must be adhered to without alteration, ensuring that the capture occurs strictly within the morning hours on "the day after tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a task request for an absolute institutional priority mission involving a critical payload capture using SAR technology. The objective is to perform an active radar scan utilizing microwave surface imaging to achieve a cloud-penetrating capture of Tierralta, Colombia. This mission is a binding contract requirement with an urgent operational execution and an un-preemptable mission lock. The data must be delivered by the day after tomorrow, specifically in the morning.

@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+The `target_day` string provided in the JSON metadata is "tomorrow." This indicates that the task needs to be completed by the day after the current date. The `target_diurnal_period` string is "in the morning," specifying that the data capture should occur during the early part of the specified day.
+
+From the phrase "in the morning," the single word that aligns with the given set {morning, mid-day, afternoon, evening, overnight} is "morning." This term must be included in the final request to accurately reflect the specified time frame for data capture.
+
+It's important to confirm that there is no alteration or shifting of the deadline. The task is explicitly scheduled for "tomorrow" and "in the morning," which means the data must be captured during this specific period without any adjustment to an adjacent part of the day. This strict adherence ensures the operational deadline is met as planned.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking to perform thermal mapping over Cali, Colombia, with a focus on capturing a heat signature or surface temperature profile using TIR sensors. This is part of our baseline pipeline tracking setup, ensuring normal operational status and workflow updates. The data capture should be completed tomorrow in the morning, adhering to the fixed parameters of this routine monitoring mission.
