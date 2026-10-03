@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am submitting a task request for an automated satellite constellation planner. The objective is to process raw physical simulation metadata provided in JSON format into a conversational English request with the following details:
+
+We aim to conduct multispectral vegetation analysis using near-infrared reflection capabilities of our satellsatellite systems, focusing on assessing chlorophyll absorption levels and calculating surface reflectance indices. The target area is located in Rheinwald, Switzerland—a region known for its lush landscapes where we expect significant agricultural activity that could benefit from this analysis.
+
+This task falls under a standard operational category with medium importance (Priority 2), implying it as part of our baseline pipeline tracking setup with fixed parameters representing the normal operational status or workflow update. It's essential for maintaining up-to-date environmental and agricultural data, thereby supporting sustainable land management practices in Rheinwald.
+
+The delivery deadline is specified to be "in four days around mid-day," which has been resolved by an upstream module as the upper limit for data availability. The request must consider this timeframe without any alterations or abbreviations, ensuring timely processing and dispatch of findings back to the ground stations in Rheinwald.
+
+In summary, we are seeking a standard operational tasking that will facilitate routine monitoring with multispectral vegetation analysis using near-infrared reflection capabilities focused on Rheinwald, Switzerland, within an established deadline for data collection and processing.
