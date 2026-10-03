@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting metadata for an Earth-observation mission request. Let's break down the relevant components step by step.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates when the data capture should be completed, not when it will occur.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time frame during which the satellite should perform its observation.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "overnight." This word must be included in the final request to accurately describe the timing of the observation.
+
+d) It's crucial to confirm that the deadline is not being shifted to a different part of the day. The instructions specify that the temporal parameters represent a strict operational deadline for delivering data products, not the orbital capture window. Therefore, the observation must occur during the "overnight" period on "the day after tomorrow," without any alteration or extension.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority mission involving a critical payload capture over Kapuas Hulu in Indonesia. As per our binding contract requirement, we mandate an urgent operational execution with an un-preemptable mission lock for an active radar scan using microwave surface imaging. This cloud-penetrating capture is essential for assessing ground geometry during the overnight period on the day after tomorrow. The task must be completed as a critical component of our baseline pipeline tracking setup, ensuring no deviation from the fixed parameters representing this normal operational status.
