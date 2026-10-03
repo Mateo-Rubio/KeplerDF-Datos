@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the task should ideally occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "morning." This word will be used verbatim in the final request to specify the time of day.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified timeframe of "in three days" and "in the morning," as these parameters are critical for the operational deadline and do not pertain to the satellite's capture window.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task with a flexible schedule for opportunistic capture in Bengkalis, Indonesia. It is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking for thermal mapping to capture a heat signature or surface temperature profile, focusing on thermal anomaly detection and mapping heat emissions. The request is for data delivery in three days, in the morning.
