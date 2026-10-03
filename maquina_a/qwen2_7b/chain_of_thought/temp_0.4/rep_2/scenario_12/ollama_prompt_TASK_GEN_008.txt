@@ -1,0 +1,16 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational context provided by the JSON metadata, we are tasked with capturing a high-resolution near-infrared (NIR) reflection dataset overnight tomorrow. This request is designated as a low priority importance task, implying that it is part of a flexible schedule for opportunistic capture and can be dropped or rescheduled at convenience without compromising the overall operational flow.
+
+Specifically, our attention will be on Norte City in this task. Although the country information is not provided, we are aware of its location within a region that necessitates the use of near-infrared sensors to map water body boundaries and assess soil moisture levels overnight. This nighttime capture ensures minimal interference from natural sunlight, allowing for more accurate mapping and assessment under conditions that are conducive to our objectives.
+
+The deadline for delivering this data product is strictly set for "overnight tomorrow", which means we must ensure that the satellite constellation plans align with this requirement without any adjustments to the time frame provided. This task serves as a background survey or testbed tracking activity, contributing to the broader operational pipeline tracking setup while maintaining normal operational status or standard workflow updates.
+
+In summary, our request involves capturing a near-infrared dataset overnight tomorrow for Norte City, with the understanding that this is a low priority importance task that can be adjusted according to operational needs without impacting the overall mission's critical path.

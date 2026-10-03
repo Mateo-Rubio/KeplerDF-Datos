@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The word contained in that string is "afternoon".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the JSON metadata, our request for the Earth-observation mission should focus on capturing a high-resolution optical snapshot from the VNIR sensor over Caparrapí, Colombia, during the afternoon of "the day after tomorrow". This task is categorized as a low priority importance request with flexible scheduling requirements, serving as a non-essential background filler task. The imagery will provide a clear optical photograph to document the landscape and assess surface reflectance, which is crucial for monitoring ecological health and land use changes in this region. We aim to capture this data without altering the deadline, ensuring that it aligns with our operational parameters for delivering thermal mapping and vegetation analysis products by the specified target day and diurnal period.
