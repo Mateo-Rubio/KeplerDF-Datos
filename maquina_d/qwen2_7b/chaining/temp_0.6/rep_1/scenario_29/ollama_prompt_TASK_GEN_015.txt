@@ -1,0 +1,17 @@
+Translate the raw physical simulation metadata provided into a single, highly realistic English request for an Earth-observation mission operator to submit to an automated satellite constellation planner.
+
+GEOGRAPHIC CONTEXT: Malaysia's Sebauh city awaits your attention. We're looking at capturing a thermal anomaly from its surface temperatures during the afternoon of the day after tomorrow. This is part of a non-essential background filler task, treating it as a background survey or testbed tracking task due to its low priority importance. There's a flexible schedule for this mission lock, allowing for opportunistic capture when convenient.
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor in focus is the NIR (near-infrared). This will help us map water body boundaries or assess soil moisture levels during the afternoon of the day after tomorrow.
+
+DELIVERY DEADLINE: The deadline for this task is the day after tomorrow during the afternoon. Please ensure data availability adheres to this specific time frame, as it's the final upper limit for data availability.
+
+Your request should be phrased in a casual, highly flexible tone, reflecting the low priority importance of this mission. Avoid mentioning raw technical system tags, underscores, or coordinate arrays in your final output.
+
+Incorporate these operational guidelines into your request:
+1. Do NOT use raw technical system tags, underscores, or coordinate arrays in your final output.
+2. Combine the JSON parameters naturally, describing Sebauh city using realistic combinations of country and city fields from 'location_details', ignoring "N/A" gracefully.
+3. Avoid mentioning raw priority numbers or technical priority levels; instead, integrate specific operational phrases to reflect the structural hierarchy of mission allocation priorities.
+4. Do NOT output technical abbreviations like VIS, SAR, TIR, VNIR, NIR; instead, weave in the following operational objectives and descriptors when explaining physical phenomena to be observed.
+
+Your request must adhere to these guidelines for maximum naturalness and validation accuracy of the dataset.

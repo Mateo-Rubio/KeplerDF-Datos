@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+**Geographic Context**: We're focusing on Malaysia, specifically Kabong, which is a region rich in biodiversity and unique environmental challenges. The mission involves capturing high-resolution optical imagery of this area using the VNIR sensor type. Given the 'country', 'city', and 'landmark' fields are "N/A", we'll describe the location using the remaining valid fields or 'region_name'. Our goal is to assess chlorophyll absorption levels and calculate vegetation NDVI index, as well as surface reflectance.
+
+**Mission Allocation Priority**: This request carries a high importance level (Priority 3). We're framing this as an "absolute institutional priority" with an "un-preemptable mission lock". The language heavily implies an "urgent operational execution" to ensure the capture of critical data for our "critical payload". This involves a "binding contract requirement" that must be met without exception.
+
+**Sensors and Physical Objectives**: The primary sensor is VNIR, which we're using for multispectral vegetation analysis. We aim to assess the health of the vegetation by analyzing chlorophyll absorption levels, which will provide crucial information about the ecosystem's vitality and potential stressors.
+
+**Delivery Deadline**: The deadline for this task has been resolved as "in four days overnight". This means that the data must be available during the night time period, ensuring minimal interference with natural phenomena that could affect the quality of our observations. 
+
+To summarize, we're requesting a highly detailed nighttime multispectral vegetation analysis using VNIR technology in Malaysia's Kabong region, focusing on assessing chlorophyll absorption levels for an "absolute institutional priority" mission with a strict deadline of availability "in four days overnight". This request is essential for updating our baseline pipeline tracking and must be executed with utmost care to ensure the integrity of the data gathered.

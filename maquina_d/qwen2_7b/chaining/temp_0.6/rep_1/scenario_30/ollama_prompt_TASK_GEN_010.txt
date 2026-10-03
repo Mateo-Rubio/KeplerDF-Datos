@@ -1,0 +1,9 @@
+Prompting an Earth-observation mission operator task request for a single block delimited by triple backticks with the language tag `prompt`.
+
+In light of our operational guidelines, we're tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The context is set in Colombia, focusing on the city of Tuluá, where our primary sensor is "TIR". This task carries a "low importance" priority level, indicating a flexible schedule for a "non-essential background filler task", which we'll frame as an "opportunistically scheduled background survey".
+
+The mission's geographic context is defined by Colombia and the city of Tuluá. The primary objective involves capturing thermal mapping data overnight, in three days' time, using our "TIR" sensor. This action aims to capture a "heat signature", "surface temperature profile", or conduct "thermal anomaly detection". This request will serve as a "background survey", with explicit instructions to "drop or reschedule at convenience".
+
+The deadline for this task is set as "in three days overnight", a phrase that must be inserted verbatim into the request. We're not dealing with raw UTC timestamps, digits, or countdown metrics here.
+
+This task, when executed, will contribute to baseline pipeline tracking or standard workflow updates, maintaining normal operational status within our Earth-observation constellation planning framework.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request for tomorrow's afternoon, focusing on the location within Hrvatska, specifically Primorsko-goranska županija.
+
+Our mission allocation priority is of low importance. This request serves as a flexible schedule "non-essential background filler task" that can be treated as a "background survey" or "testbed tracking task". The primary sensor involved is VNIR, which will be utilized for our specific operational objectives. The goal here is "multispectral vegetation analysis", aiming to assess the "chlorophyll absorption level" and calculate the "NDVI index" along with surface reflectance.
+
+Given the structured guidelines, I will not include raw technical system tags, underscores, or coordinate arrays in my final output. Instead, I'll combine the JSON parameters naturally by describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If country, city, or landmark are "N/A", I will describe the location using remaining valid fields or the clean 'region_name'.
+
+This task request is framed in a casual, highly flexible tone, with explicit notes to "drop or reschedule at convenience" as it's considered a "low priority importance" request. The language used heavily implies this as a "background survey" or "testbed tracking task", emphasizing its role within our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status".
+
+Our deadline for this task has already been resolved by an upstream module, and we are targeting delivery tomorrow during the afternoon, a phrase that must be inserted verbatim into our request as the stated upper limit for data availability. This deadline encapsulates the urgency of our mission allocation authority and asset contractual value, as defined by our priority level hierarchy.
+
+With these operational guidelines in mind, I submit this request to ensure we capture the essence of our Earth-observation mission's needs in a conversational format that aligns with our dataset maximization goals.

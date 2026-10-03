@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing a location in "Italia", specifically within the region named "Norte". The operational guidelines ensure that we avoid using raw technical system tags, underscores, or coordinate arrays; instead, we combine JSON parameters naturally.
+
+Given the 'primary_sensor' set to 'SAR', our mission aims to perform an active radar scan utilizing microwave surface imaging. This is for cloud-penetrating capture of ground geometry, essential for a detailed understanding of the area's terrain under various weather conditions.
+
+The 'priority_level' is set at 1, indicating that this request falls under low priority importance with flexible scheduling for opportunistic capture. We're treating it as a non-essential background filler task, a low-priority background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module and is "tomorrow in the evening". Our request must include this phrase verbatim, specifying that data availability should be capped at this time.
+
+To summarize, our Earth-observation mission involves observing a region in "Italia", specifically "Norte", using a SAR sensor to capture ground geometry through cloud-penetrating radar scans. This is a low-priority task with flexible scheduling and an operational deadline set for "tomorrow in the evening". Our submission adheres to the guidelines provided and follows the instructions outlined for translating raw physical simulation metadata into an organic, conversational English request.
