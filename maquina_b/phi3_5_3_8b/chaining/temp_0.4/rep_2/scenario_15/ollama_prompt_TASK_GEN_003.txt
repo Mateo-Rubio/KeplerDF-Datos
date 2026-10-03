@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with submitting a detailed operational directive for our automated satellite constellation planner. The objective is to translate the provided raw physical simulation metadata into a realistic and conversational English request that adheres strictly to the following guidels:
+
+1. GEOGRAPHIC CONTEXT: We are focusing on an area within Ecuatorial, where standard city or country naming conventions may not be applicable due to its unique location. The region is of interest for our SAR (Synthetic Aperture Radar) imaging requirements which necessitates a clear understanding of the locale without default technical system tags or coordinate arrays in use here.
+
+2. MISSION ALLOCATION PRIORITY: Given that this task holds a priority level of 2, it is classified as 'Medium Importance'. Consequently, our language should reflect standard operational procedures with an appropriate tone and phrasing such as "standard operational tasking". The request here involves routine monitoring or baseline pipeline tracking setup with fixed parameters indicative of normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor for this operation is Synthetic Aperture Radar (SAR), which will be deployed to perform an "active radar scan" using microwave surface imaging technology, essential for capturing cloud-penetrating images and detailed ground geometry.
+
+4. DELIVERY DEADLINE: The task must be completed by the day after tomorrow around mid-day as per upstream module resolutions. This precise timing is critical to ensure timely data acquisition without resorting to raw UTC time specifications or countdown metrics in our request narrative.
+
+Here's how I would frame this comprehensive directive:

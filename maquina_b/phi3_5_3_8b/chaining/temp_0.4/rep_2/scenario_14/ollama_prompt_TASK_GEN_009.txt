@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the following raw physical simulation metadata into a realistic and conversational English request:
+
+The primary sensor required for this observation is SAR (Synthetic Aperture Radar), aiming to perform an active radar scan using microwave surface imaging. This mission targets Ecuatorial, Indonesia, which will be conducted the day after tomorrow during the afternoon hours. Given that our priority level here stands at 1, indicating low importance, this request is framed as a flexible schedule opportunity for opportunistic capture.
+
+To align with operational guidelines:
+
+- The geographic context of Indonesia's Ecuatorial region will be described without technical system tags or coordinate arrays. Instead, the location details naturally integrate into our narrative by referencing "Ecuatorial" as a significant landmark within Indonesia known for its distinctive climate and terrain.
+  
+- Since this is a low priority mission (Priority 1), we adopt an opportunistic tone that conveys flexibility in scheduling without urgency, suggesting the task can be adjusted or dropped at convenience. The request emphasizes it as a "non-essential background filler task," allowing for its deferral if necessary while maintaining readiness to proceed when opportune.
+  
+- For the primary sensor objective involving SAR technology, we aim for an active radar scan that can penetrate heavy weather conditions and provide detailed ground geometry imagery. This goal is communicated as capturing a "high-resolution optical snapshot" using microwave surface imaging to ensure comprehensive data collection despite potential environmental challenges.
+  
+- The delivery deadline, already resolved by an upstream module, specifies that the task must be completed "the day after tomorrow during the afternoon." This constraint is verbatim inserted into our request, respecting the upper limit for data availability and ensuring timely execution within the given timeframe.
+
+Here's the synthesized mission request:
