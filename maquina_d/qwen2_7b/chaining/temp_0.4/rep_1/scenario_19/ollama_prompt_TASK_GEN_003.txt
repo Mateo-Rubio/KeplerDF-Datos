@@ -1,0 +1,15 @@
+As an Earth-observation mission operator tasked with translating raw physical simulation metadata into a highly realistic and conversational English request, I hereby submit this task for the automated satellite constellation planner. The operational guidelines provided will ensure naturalness and validation accuracy in our dataset.
+
+The geographic context requires us to interpret 'region_name' and nested 'location_details'. Given that 'country', 'city', or 'landmark' are "N/A", we'll describe the location using 'region_name' and remaining valid fields. In this case, our target region is Indonesia with a specific emphasis on Ecuatorial.
+
+The mission allocation priority dictates the tone and structure of our request. With a 'priority_level' set to 3 (High Importance), we must frame this as an "absolute institutional priority" or a "binding contract requirement". The language should heavily imply an "urgent operational execution" and an "un-preemptable mission lock", reflecting the "critical payload capture" or "mandatory directive".
+
+Our sensors and physical objectives are guided by 'primary_sensor'. As it stands, we're tasked with utilizing the TIR sensor for thermal mapping. This involves capturing a "heat signature", "surface temperature profile", or conducting "thermal anomaly detection" and mapping heat emissions.
+
+The deadline for this task has been resolved by an upstream module: "in three days overnight". This phrase must be inserted verbatim into our request, signifying the upper limit for data availability without rephrasing, shortening, or relocating it to a different part of the day.
+
+In summary, our request is as follows:
+
+"Given the high priority level and the need for thermal mapping using the TIR sensor in Indonesia's Ecuatorial region, we are requesting an urgent mission allocation. This task is an absolute institutional priority, involving a critical payload capture that requires immediate attention. The deadline for data availability is 'in three days overnight'. We aim to capture heat signatures, surface temperature profiles, or detect thermal anomalies and map heat emissions with high accuracy. We emphasize the importance of this task in our baseline pipeline tracking setup, which represents standard operational status with fixed parameters. This task is part of our normal workflow update, focusing on delivering critical data within the specified timeframe."
+
+This request encapsulates the guidelines provided while maintaining a natural and conversational tone suitable for Earth-observation mission operators interacting with automated satellite constellation planners.

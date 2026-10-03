@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. Given the provided JSON format, I'll interpret it according to operational guidelines:
+
+The primary sensor specified is "NIR", which aims for near-infrared reflection to map water body boundaries or assess soil moisture levels. The geographical context is centered around Norte city, though country details are not available, so I'll focus on the city name.
+
+The priority level is set to 1, indicating a low importance request with flexible scheduling. This task can be treated as a 'non-essential background filler task' that can be dropped or rescheduled at convenience, fitting into the role of a 'background survey' or 'testbed tracking task'.
+
+The delivery deadline is "in three days in the evening", which is the upper limit for data availability and must be included verbatim. This deadline does not involve raw UTC timestamps or countdown metrics.
+
+To summarize the request:
+
+"Please capture a near-infrared reflection snapshot of Norte city to map water body boundaries or assess soil moisture levels. This task serves as a background survey, fitting into our 'non-essential background filler tasks' category. It's part of our 'testbed tracking task' setup with flexible scheduling requirements. The deadline for this data availability is set for 'in three days in the evening'. Please proceed with capturing this information without any urgency or preemption considerations."
+
+This request encapsulates the operational nuances and guidelines provided, ensuring that the translation respects the naturalness and validation accuracy of the dataset while adhering to the given metadata interpretation rules.

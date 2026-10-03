@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner for today's evening mission allocation. The objective is to capture detailed imagery of El Playón, Colombia, utilizing the Near-Infrared sensor. Our mission is categorized as medium importance, making it part of our standard operational pipeline tracking with fixed parameters representing normal operational status.
+
+The primary sensor, Near-Infrared (NIR), will provide us with critical information about water body boundaries and soil moisture assessment for this area. The imagery captured during today's evening hours will serve as a valuable resource for environmental monitoring and agricultural management.
+
+Given the operational guidelines, we do not mention raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine the JSON parameters naturally by describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If 'country', 'city', or 'landmark' are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Our mission allocation priority is clearly communicated through specific operational phrases that reflect this structural hierarchy. This request is a standard operational tasking, involving commercial tasking or routine monitoring with baseline pipeline tracking setup and fixed parameters representing normal operational status.
+
+The deadline for this task has been resolved by an upstream module, and it is "today in the evening". We must insert this phrase verbatim as the stated upper limit for data availability, without rephrasing, shortening, or moving it to a different part of the day. There are no raw UTC timestamps, digits, or countdown metrics outputted.
+
+This request encapsulates our commitment to delivering high-quality Earth observations that support various applications, from environmental conservation to agricultural productivity enhancement. We look forward to receiving the data by "today in the evening" to ensure its timely integration into our operational workflows.

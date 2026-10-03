@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+The geographic context for this mission involves Malaysia, specifically Banting, where we aim to capture thermal mapping data using our primary sensor - the TIR (Thermal Infrared). This region is of low importance based on our priority level, implying that it's a flexible schedule task that can be dropped or rescheduled at convenience. The request is framed as a non-essential background filler task, fitting into an opportunistic capture scenario.
+
+The operational guidelines dictate that we should avoid technical system tags and coordinate arrays, focusing instead on creating a natural narrative around the location. Therefore, Malaysia's Banting is described with realistic context, combining country and city names to provide a vivid image of where our satellite will be capturing thermal data.
+
+The deadline for this task has already been set by an upstream module as "the day after tomorrow in the evening." This phrase is inserted verbatim into our request, as it represents the upper limit for data availability. We are not rephrasing or shortening it and ensure that it remains intact within the context of our request.
+
+In summary, our mission allocation priority is low importance, indicating a standard operational tasking or routine monitoring part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The physical objectives involve capturing a heat signature or surface temperature profile using thermal mapping capabilities provided by our TIR sensor. This data will be collected in Malaysia's Banting on the day after tomorrow evening, as per our deadline.
+
+The naturalness and validation accuracy of the dataset are maximized by interpreting the metadata organically according to these operational guidelines, ensuring that our request is both realistic and conversational.

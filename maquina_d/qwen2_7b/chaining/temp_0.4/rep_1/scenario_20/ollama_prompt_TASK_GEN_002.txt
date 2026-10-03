@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for an automated satellite constellation planner. The context revolves around capturing essential data using the primary sensor designated as "NIR" for tomorrow's evening delivery deadline.
+
+The geographic context is centered on Norte, a location that, due to its unspecified country details, relies on the region name for description. Norte, nestled in this region, is our target area for this mission. The operational guidelines dictate a natural interpretation of this JSON data without resorting to raw technical tags or coordinate arrays.
+
+The mission allocation priority is set at Medium Importance (Priority Level 2), indicating a standard operational tasking with fixed parameters that form part of the baseline pipeline tracking setup. This request is not subject to an urgent deadline but rather represents normal operational status.
+
+The physical objectives are tailored using the sensor's capabilities to provide a clear picture. The "NIR" sensor will capture near-infrared reflection for water body boundary mapping and soil moisture assessment, essential for distinguishing gradients in environmental conditions.
+
+In conclusion, our request to the satellite constellation planner is as follows: "Please undertake a task to capture high-resolution optical snapshots of the area surrounding Norte, focusing on the evening of tomorrow. The primary sensor will be utilized to map water bodies and assess soil moisture levels through near-infrared reflection. This standard operational tasking aligns with our baseline pipeline tracking setup, ensuring normal parameters are met as part of our standard workflow." This request encapsulates the essence of the JSON data while adhering to the guidelines provided.

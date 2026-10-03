@@ -1,0 +1,28 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a highly realistic and conversational English request for our automated satellite constellation planner. The objective is to gather detailed information about the operational guidelines for interpreting the provided JSON format effectively.
+
+The geographical context involves understanding keys 'region_name', nested 'location_details', and prioritizing natural language over raw technical tags or coordinate arrays. We're focusing on describing locations using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If these are unavailable, we'll use the 'region_name' to provide context.
+
+The mission allocation priority dictates the tone and importance level of our request. Priority 3 (High Importance) requires an authoritative and explicit command, emphasizing 'absolute institutional priority', 'binding contract requirement', 'critical payload capture', and 'urgent operational execution'. Priority 2 (Medium Importance) involves a professional and standard operational tone, describing tasks as 'standard operational tasks', 'commercial tasking', or 'routine monitoring' with 'fixed parameters' and 'normal operational status'. Priority 1 (Low Importance) is framed as 'low priority importance', 'flexible schedule', 'opportunistic capture', and 'background survey' tasks.
+
+Sensors and physical objectives need to be translated into natural language, avoiding technical abbreviations. VIS sensors are for 'high-resolution optical snapshots' or 'true-color visual documentation'. SAR sensors use 'active radar scans' with 'microwave surface imaging' capabilities, ideal for 'cloud-penetrating capture' or capturing ground geometry. TIR sensors provide 'thermal mapping', capturing 'heat signatures' and 'surface temperature profiles', useful for detecting thermal anomalies and heat emissions. VNIR sensors are for 'multispectral vegetation analysis', assessing 'chlorophyll absorption levels' or calculating the 'NDVI index' and surface reflectance. Lastly, NIR sensors are used for 'near-infrared reflection', mapping 'water body boundaries' or assessing 'soil moisture' to discriminate gradients.
+
+The deadline is set as "in four days overnight", indicating the upper limit for data availability without any rephrasing or adjustment of the time frame.
+
+Given these guidelines and the target task context JSON provided:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Santa Croce sull'Arno"
+  },
+  "priority_level": 1,
+  "target_day": "in four days",
+  "target_diurnal_period": "overnight"
+}
+
+The request can be formulated as follows:
+
+"Please capture a thermal mapping of Santa Croce sull'Arno, Italy, using a TIR sensor. This task holds low priority importance and can be scheduled with a flexible timeline. Capture the heat signature of the region in four days overnight, providing insights into surface temperatures and potential thermal anomalies. This background survey task is aimed at supporting our baseline pipeline tracking without compromising the standard workflow updates."
+
+This request integrates the operational guidelines, ensuring natural language usage, context-based descriptions, appropriate priority tone, sensor objectives, and adherence to the deadline.

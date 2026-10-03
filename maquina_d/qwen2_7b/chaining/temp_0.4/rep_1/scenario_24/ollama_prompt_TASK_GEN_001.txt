@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+The geographic context involves Colombia, specifically the city of Sabana de Torres. We're focusing on the country and city details provided in the 'location_details' section of the JSON format. Combining these naturally, we describe the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. Since 'landmark' is "N/A", we gracefully ignore it and describe the location using the remaining valid fields or 'region_name'.
+
+The mission allocation priority is medium importance (Priority 2). This request should be framed as a standard operational tasking, part of our commercial tasking or routine monitoring. The language must reflect normal operational status or a workflow update with fixed parameters representing the baseline pipeline tracking setup.
+
+The primary sensor is VNIR, which we interpret as "multispectral vegetation analysis". Our goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance for this area.
+
+The delivery deadline is "in three days overnight", which is a resolved upper limit for data availability. We've inserted this phrase verbatim into our request, without rephrasing or shortening it, as per the guidelines.
+
+In conclusion, our task request is to capture high-resolution optical snapshots using VNIR technology in Sabana de Torres, Colombia, for daylight photography, clear optical imagery, and true-color visual documentation. This mission aligns with our standard operational status and will be executed within the defined deadline of "in three days overnight".
