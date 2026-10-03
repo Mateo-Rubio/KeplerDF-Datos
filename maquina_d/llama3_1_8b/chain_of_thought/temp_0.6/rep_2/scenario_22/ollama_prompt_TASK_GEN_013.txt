@@ -1,0 +1,16 @@
+Let's go through the four questions in order.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in 'target_diurnal_period' is "mid-day".
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The request explicitly mentions "around mid-day", which means the task should be performed around the middle of the day, without specifying a specific time slot within that period.
+
+STAGE 1 complete. Let's move on to STAGE 2.
+
+```prompt
+We require a high-resolution optical snapshot for daylight photography in Ráquira, Colombia, as part of a non-essential background filler task with a flexible schedule for opportunistic capture. The task is of low priority importance and can be dropped or rescheduled at convenience. We need the data products to be delivered in three days, around mid-day.

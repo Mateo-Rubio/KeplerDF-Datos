@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request still aims to capture data around "mid-day" tomorrow, which maintains the same relative timeframe as specified in the JSON metadata.
+
+STAGE 2 - FINAL REQUEST
+
+...The mission operator requests a highly realistic and conversational English request for the task, which translates the raw physical simulation metadata into a single, operational request. The request is as follows:
+
+Obtain a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index around mid-day tomorrow. This task is an absolute institutional priority involving a critical payload capture and mandatory directive representing an urgent operational execution and un-preemptable mission lock.
