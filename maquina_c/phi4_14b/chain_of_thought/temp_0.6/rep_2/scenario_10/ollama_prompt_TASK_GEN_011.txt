@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This specifies when the data collection needs to occur, setting a clear deadline for the task.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This indicates the specific time of day during which the satellite should capture the imagery or data.
+
+c) The single word contained in that string is "mid-day." This term will be used directly in the final request to specify when the observation should take place.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified timeframe of "tomorrow around mid-day" as outlined in the metadata, ensuring the task is completed within this exact period without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule involving an opportunistic capture over Sotto il Monte Giovanni XXIII, Italy. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to perform a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index for this area. Please ensure this task is completed tomorrow around mid-day, treating it as a background survey or testbed tracking task.

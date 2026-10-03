@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifies that the data capture should occur tomorrow during the overnight period, and this temporal parameter is strictly adhered to as a delivery deadline for the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a tasking request for a satellite observation of the region in Indonesia, specifically around the city of Ecuatorial. This mission involves utilizing active radar scanning technology to conduct microwave surface imaging, which is crucial for capturing cloud-penetrating imagery and assessing ground geometry. The task falls under a standard operational tasking category as part of our baseline pipeline tracking setup, with fixed parameters representing our normal operational status. We require this data to be delivered by tomorrow during the overnight period, ensuring it aligns with our workflow update schedule.

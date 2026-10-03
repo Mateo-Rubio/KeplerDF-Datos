@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides several key pieces of information that need to be interpreted according to the guidelines.
+
+a) The exact string in 'target_day' is "in three days." This indicates when the data product needs to be delivered, setting a clear deadline for the operation.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should ideally occur.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) It's important to confirm that there is no intention or possibility of shifting the deadline to an adjacent part of the day. The instructions are clear that the temporal parameters represent a strict operational deadline, and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a multispectral vegetation analysis over the region known as Norte. This involves assessing chlorophyll absorption levels or calculating a vegetation NDVI index. The mission is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. Please ensure that this task is completed and delivered in three days, specifically in the morning.

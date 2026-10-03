@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data capture should be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning." This word must appear literally in the final request to indicate the time of day for the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified diurnal period is strictly "in the morning," and this timing will be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a multispectral vegetation analysis over Simabur, Indonesia. This task involves capturing data using a VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index. The mission is part of our baseline pipeline tracking, with fixed parameters representing normal operational status. The data capture is scheduled for in three days, specifically in the morning.

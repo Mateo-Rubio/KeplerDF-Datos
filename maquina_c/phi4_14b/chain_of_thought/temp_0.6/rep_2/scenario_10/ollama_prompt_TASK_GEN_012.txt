@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting a set of metadata parameters provided in JSON format to generate a realistic and conversational English request for an Earth-observation mission. To achieve this, I will analyze the metadata according to the specified guidelines.
+
+a) The exact string found in 'target_day' is "tomorrow." This indicates that the data capture or observation task is scheduled for the day following today, without specifying an exact date.
+
+b) In the 'target_diurnal_period', the string provided is "in the morning." This specifies the time of day during which the observation should occur, indicating early hours after sunrise but before midday.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning." This word will be used verbatim in the final request to specify the time of day for the observation task.
+
+d) It's important to confirm that there is no intention to shift the deadline to an adjacent part of the day. The provided metadata specifies "in the morning" as the diurnal period for the target day, which is "tomorrow." Therefore, the deadline remains strictly in the morning hours of the next day, without any indication or allowance for shifting this timeframe to another part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request with a flexible schedule for an opportunistic capture over Sekadau, Indonesia. This non-essential background filler task involves using near-infrared reflection technology to map out water body boundaries and assess soil moisture levels. Given its low priority status, this operation is noted as a flexible endeavor that can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. The data capture for this mission is scheduled for tomorrow, specifically in the morning hours. This timing ensures that we leverage optimal conditions for near-infrared reflection without conflicting with higher priority missions, adhering to our commitment to maintaining a versatile and responsive operational schedule.
