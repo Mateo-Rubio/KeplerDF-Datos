@@ -1,0 +1,15 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner for a highly realistic, conversational English request based on the provided metadata. The mission aims to capture a detailed SAR scan using microwave surface imaging technology over the historical city of Arezzo in Italy. This active radar scan will serve to pierce through any heavy weather conditions and provide valuable ground geometry data.
+
+The operation is scheduled for the target day "in three days", specifically in the morning, which aligns with our priority level of 1 indicating a low importance request with flexible scheduling requirements. This task is to be treated as a non-essential background filler task that can be dropped or rescheduled at convenience, fitting into our "background survey" or "testbed tracking task" setup.
+
+To ensure the quality and validity of this dataset, we will interpret the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline. The city of Arezzo, known for its rich history and cultural landmarks, will provide a unique perspective on our satellite imagery collection.
+
+Let's proceed with crafting the request:
+
+"In three days, at the break of dawn, our satellite constellation is tasked to perform an active radar scan over the picturesque city of Arezzo, nestled in the heart of Italy. This operation, designated as a low priority importance mission, aims to capture ground geometry data that will contribute to our baseline pipeline tracking setup.
+
+The scan will employ the capabilities of our SAR sensor, utilizing microwave surface imaging technology to penetrate through any cloud cover or adverse weather conditions. The goal is to provide us with detailed information on the landscape and urban structure, essential for our ongoing monitoring efforts in this region.
+
+This request aligns with our priority level of 1, indicating that it serves as a background survey task that can be flexibly scheduled according to operational needs. Our team will closely monitor the satellite's progress, ensuring that we capture the essence of Arezzo's beauty and contribute valuable data to our ongoing Earth observation projects."
+
+The request is now articulated in a natural, conversational tone, incorporating specific operational phrases that reflect the structural hierarchy of mission allocation priority and sensor objectives. The geographic context is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. Lastly, the delivery deadline is seamlessly integrated into our request as specified by the upstream module.
