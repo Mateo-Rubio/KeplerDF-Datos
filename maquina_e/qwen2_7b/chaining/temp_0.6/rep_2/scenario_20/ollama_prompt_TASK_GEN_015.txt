@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request.
+
+The geographic context of our target location is Malaysia, specifically the city of Belaga. The operational guidelines dictate that we should interpret the JSON parameters naturally without using raw technical system tags, underscores, or coordinate arrays in our final output. We're focusing on the 'country' and 'city' fields from 'location_details', combining them realistically to describe the location.
+
+The mission allocation priority is set at medium importance, indicated by a priority level of 2. This suggests the request should be framed as a standard operational tasking that fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status or a routine monitoring update.
+
+Our primary sensor for this mission is SAR (Synthetic Aperture Radar), which allows for active radar scanning using microwave surface imaging, enabling cloud-penetrating capture and the ability to see ground geometry through heavy weather conditions.
+
+The target day has been set for 'the day after tomorrow', specifically overnight. This phrase should be inserted verbatim into our request as the stated upper limit for data availability, without any rephrasing, shortening, or movement to a different part of the day.
+
+With these details in mind, my request is:
+
+"As part of our standard operational tasking on Malaysia's Belaga city on 'the day after tomorrow' overnight using the SAR sensor for active radar scanning, we aim to capture high-resolution optical snapshots as daylight photography, clear optical imagery, and true-color visual documentation. This mission serves as a critical component of our baseline pipeline tracking setup with fixed parameters representing normal operational status."
+
+Our request is now ready for submission to the automated satellite constellation planner, adhering to the guidelines and interpreting the metadata organically according to the provided operational context."

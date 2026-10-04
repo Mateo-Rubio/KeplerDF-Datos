@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. The geographical context involves observing the location in Colombia, specifically in the city of Puerto Lleras. This request will be framed as a "low priority importance" tasking with a "flexible schedule", which treats it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified for this mission is "NIR", which translates into an aim to capture "near-infrared reflection" for mapping the boundaries of water bodies and assessing soil moisture levels. This involves capturing gradients that discriminate these environmental factors efficiently.
+
+Given the operational guidelines, I will not use raw technical system tags, underscores, or coordinate arrays in my final output. Nor will I mention raw priority numbers or technical priority levels directly. Instead, I will interpret the 'priority_level' field to frame this request as a "low priority importance" tasking with "flexible schedule" for "opportunistic capture". This means that the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The delivery deadline is set for "tomorrow in the morning", which has already been resolved by an upstream module. This phrase will be inserted verbatim into my request, as the stated upper limit for data availability.
+
+In conclusion, this Earth-observation mission involves capturing near-infrared reflection using satellite imagery for water body boundaries mapping and soil moisture assessment in Puerto Lleras, Colombia. The tasking is scheduled for "tomorrow in the morning", and it's treated as a background survey or testbed tracking task with low priority importance and flexible scheduling.

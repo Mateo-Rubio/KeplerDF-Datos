@@ -1,0 +1,27 @@
+Please provide a highly realistic, conversational English request based on the following Earth-observation mission metadata:
+
+Target task context JSON:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Geographic Context:
+Given that we're focusing on a region named Norte with no specific country or city details provided, our request will include a high-resolution near-infrared (NIR) sensor to capture essential data. The goal is to assess soil moisture levels and delineate water body boundaries using this sensor for an opportunistic survey task.
+
+Mission Allocation Priority:
+As this task has been classified as Priority 1 (Low Importance), it should be framed as a flexible, background filler task that can be dropped or rescheduled at convenience. This will be treated as a low priority importance request with a "non-essential background filler task" status, where the operator explicitly notes to prioritize other tasks with higher importance.
+
+Sensors and Physical Objectives:
+The primary sensor will be utilized for near-infrared (NIR) reflection analysis to discriminate soil moisture gradients. The request should emphasize the importance of capturing these details as part of a "background survey" or "testbed tracking task," ensuring that this data contributes to a broader understanding without disrupting more critical operational activities.
+
+Delivery Deadline:
+The deadline for this task has already been resolved by an upstream module, with the data availability set as "in four days in the morning." This phrase must be included verbatim in your request, indicating the upper limit for data availability without rephrasing or altering its context.
+
+In conclusion, we require a highly realistic and conversational English request that incorporates these operational guidelines while adhering to the structured JSON input provided. The request should clearly outline the purpose of using a near-infrared sensor for soil moisture assessment and water boundary mapping, while acknowledging its low priority status with a flexible schedule. Lastly, ensure that the deadline is explicitly mentioned in the sentence structure as specified.
