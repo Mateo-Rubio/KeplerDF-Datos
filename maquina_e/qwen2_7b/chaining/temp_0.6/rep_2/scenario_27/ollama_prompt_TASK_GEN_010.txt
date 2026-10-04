@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. My objective is to ensure the naturalness and validation accuracy of the dataset by interpreting the provided JSON parameters organically.
+
+My geographic context involves observing in Colombia, specifically in the city of Florida, as indicated by the 'location_details' nested within the JSON. I will not use raw technical system tags, underscores, or coordinate arrays in my final output but instead combine the JSON parameters naturally. Since the country and city are specified, I'll describe the location using realistic terms such as "Florida", a significant city in Colombia.
+
+Concerning mission allocation priority, this task is assigned a low importance level (Priority 1). This implies a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task" that can be dropped or rescheduled at convenience.
+
+The primary sensor involved in this mission is "NIR", which aims to map water body boundaries and assess soil moisture. This goal will be explained as a "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients, focusing on the unique capability of NIR sensors to distinguish water from other materials.
+
+The task's delivery deadline has been resolved by an upstream module, specifying that we need the data by "the day after tomorrow overnight". This phrase should be inserted verbatim into my request as the stated upper limit for data availability. 
+
+In summary, my request is a low priority operational task designed to capture water body boundaries and soil moisture assessment using a near-infrared sensor on "the day after tomorrow" during the overnight period. This encapsulates the essence of the Earth-observation mission while adhering to the guidelines provided.

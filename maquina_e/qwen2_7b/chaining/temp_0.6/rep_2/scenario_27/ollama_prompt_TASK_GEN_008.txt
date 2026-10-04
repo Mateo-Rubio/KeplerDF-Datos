@@ -1,0 +1,11 @@
+Translating the operational guidelines into a single task request for our automated satellite constellation planner:
+
+As an Earth-observation mission operator, we require a low-priority importance task to be allocated. This request is framed as a "flexible schedule" background survey or a "non-essential background filler task" that can be "dropped or rescheduled at convenience". Our objective involves capturing data for "opportunistic capture" purposes.
+
+The target geographic context focuses on Norte, a location within an unspecified country where we aim to perform a "low priority importance" survey using the VNIR sensor. This sensor will be used for "multispectral vegetation analysis", assessing the "chlorophyll absorption level" and calculating the "NDVI index" to understand surface reflectance.
+
+The mission allocation priority indicates that this task is part of a "standard operational tasking" or "commercial tasking" with "fixed parameters" representing "normal operational status". It's not tied to an urgent deadline but is rather set within our baseline pipeline tracking setup, with clear instructions on the operational status being "routine monitoring".
+
+The delivery deadline for this task has been resolved by an upstream module. The data availability is set for "in three days", specifically around mid-day, as per the upper limit for data availability.
+
+In conclusion, our request to the satellite constellation planner involves capturing data using the VNIR sensor at Norte, with a low-priority importance level and a clear delivery deadline of "in three days around mid-day". This task is designed to be a part of our standard workflow update with normal operational status.

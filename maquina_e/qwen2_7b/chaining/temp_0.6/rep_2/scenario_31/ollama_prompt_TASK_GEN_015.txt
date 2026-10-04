@@ -1,0 +1,13 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided into a single, highly realistic, and conversational English request.
+
+The geographic context of our target area is located in Indonesia, specifically within the city of Tanjung Jabung Timur. While the country and city details are mentioned, there's no specific landmark provided, so I'll describe this location using these fields as they are.
+
+The mission allocation priority for this task is at Level 1 (Low Importance), which means it falls under a low priority importance request with a flexible schedule for opportunistic capture. I will frame this as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor we're focusing on here is VNIR, which translates to "multispectral vegetation analysis". This is aimed at assessing the "chlorophyll absorption level" and calculating the surface reflectance of the area. The goal here is to capture the "vegetation health" status through this analysis.
+
+The deadline for this task has already been resolved by an upstream module, and it's set for "today overnight". I must insert this phrase verbatim into the request as the stated upper limit for data availability.
+
+To sum up this request in one flowing paragraph:
+
+As part of our routine monitoring setup with fixed parameters representing normal operational status, we're conducting a low priority importance task with a flexible schedule for opportunistic capture. The focus is on assessing vegetation health through a "multispectral vegetation analysis" using VNIR sensors. This background survey aims to capture the "vegetation NDVI index" and surface reflectance of an area in Indonesia's Tanjung Jabung Timur city, which falls under our baseline pipeline tracking setup with standard operational tasks. The deadline for this task is "today overnight", as determined by an upstream module, ensuring that we align with the set upper limit for data availability without rephrasing or altering the phrase.

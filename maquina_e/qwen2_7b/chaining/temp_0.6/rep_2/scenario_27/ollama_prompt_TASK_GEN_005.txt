@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for a highly realistic and conversational English request. The metadata provided in JSON format outlines the specifics of this task:
+
+We're focusing on capturing a high-resolution optical snapshot of a region encompassing "Italia Norte" using our primary sensor, which will provide clear daylight photography, true-color visual documentation, and essential details about cloud-free surfaces.
+
+With a priority level of 1, this request is marked as a 'low priority importance' task with a flexible schedule for opportunistic capture. It's explicitly noted as a 'background survey' or 'testbed tracking task', allowing it to be dropped or rescheduled at our convenience.
+
+The deadline for data availability has been set for "tomorrow in the evening," meaning that we aim to have the necessary information by that time without any rephrasing or adjustment of the time of day.
+
+Our goal is to gather these observations, ensuring they contribute to our baseline pipeline tracking setup with fixed parameters representing normal operational status. This task is part of our routine monitoring activities, and while not urgent or binding, it's still essential for maintaining comprehensive coverage of our target regions.
+
+As we proceed with this request, we'll interpret the physical simulation metadata organically, avoiding raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we will describe the location using realistic combinations of country, city, and landmark fields from 'location_details' or simply use the clean 'region_name' if necessary.
+
+Our mission is to translate this data into a natural and accurate request that maximizes the naturalness and validation accuracy of the dataset while adhering to our operational guidelines.
