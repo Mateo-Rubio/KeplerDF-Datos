@@ -1,0 +1,11 @@
+Given the operational guidelines, our Earth-observation mission operator is tasked with providing a single, highly realistic, and conversational English request based on the raw physical simulation metadata provided in JSON format. The objective is to translate this data into a request that maximizes naturalness and validation accuracy for dataset creation.
+
+The mission involves using an active radar scan with microwave surface imaging capabilities from an SAR sensor. This task aims to capture the essence of our location, Norte, a city in the region. Since specific country information isn't provided, we're focusing on the city name, Norte, as our geographic context.
+
+Given the priority level is 1 (low importance), this request is framed with a casual, highly flexible tone and treated as a "low priority importance" task. The operator notes that this is a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". It's explicitly stated to be considered a "background survey" or "testbed tracking task".
+
+The delivery deadline for this task has already been resolved by an upstream module, and it's set for "tomorrow in the morning", as the upper limit for data availability. This phrase is included verbatim in the request.
+
+In summary, our mission operator is tasked with capturing a detailed radar scan of Norte, a city within an unspecified country, to assess surface geometry and ground features using microwave surface imaging. The task is considered low priority but will be executed opportunistically, aligning with a flexible schedule that allows for scheduling adjustments at convenience. The data acquisition window is set for tomorrow morning.
+
+The Earth-observation mission operator will proceed with this task as part of their baseline pipeline tracking setup, incorporating fixed parameters representing normal operational status or standard workflow updates.
