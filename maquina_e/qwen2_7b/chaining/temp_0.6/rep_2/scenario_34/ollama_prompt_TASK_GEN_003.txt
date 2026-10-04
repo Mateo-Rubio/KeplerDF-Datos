@@ -1,0 +1,16 @@
+As an Earth-observation mission operator, I am submitting a task request for a highly realistic and conversational English inquiry to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, detailed request that maximizes naturalness and validation accuracy.
+
+Given the operational guidelines, we'll interpret the provided metadata to craft a tailored request:
+
+Geographic Context: We're targeting a location within Indonesia's equatorial region. Although the city details are not specified or "N/A", we'll describe this area as a critical equatorial region for our mission.
+
+Mission Allocation Priority: The priority level is set at medium importance, indicating it is part of a standard operational tasking under normal conditions with fixed parameters and represents normal operational status. We emphasize this as an essential task that requires diligent attention but does not demand urgent operational execution.
+
+Sensors and Physical Objectives: The primary sensor for this mission is a TIR (Thermal Infrared), which will be used to capture thermal mapping data. This involves observing the heat signature and surface temperature profile, aiming for thermal anomaly detection and mapping heat emissions.
+
+Delivery Deadline: The deadline for this task is tomorrow in the evening.
+
+To sum up our request:
+"Please prepare to conduct a TIR (Thermal Infrared) scan of the equatorial region within Indonesia, focusing on capturing detailed thermal mapping data that includes heat signatures and surface temperature profiles. This mission carries medium importance and requires attention as part of our standard operational tasks with fixed parameters. Please ensure this task is completed by tomorrow evening, fulfilling our institutional priorities under normal operational status."
+
+This request combines natural language with the operational guidelines provided to convey the essence of the task effectively.
