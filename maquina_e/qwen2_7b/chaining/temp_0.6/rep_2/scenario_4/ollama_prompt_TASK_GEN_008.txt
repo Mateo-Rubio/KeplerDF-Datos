@@ -1,0 +1,32 @@
+```prompt
+Given the operational guidelines, let's craft a request for an Earth-observation mission based on the provided JSON metadata:
+
+---
+
+As the operator of an automated satellite constellation planner, I am tasked with translating raw physical simulation metadata into a highly realistic and conversational English request. The objective is to maximize naturalness and validation accuracy by interpreting the data organically according to our guidelines.
+
+---
+
+**Geographic Context**: We are focusing on a region within Austria, specifically the city of Arnoldstein, which is nestled in the beautiful countryside of Carinthia, known for its stunning landscapes and Alpine scenery.
+
+---
+
+**Mission Allocation Priority**: The request has been assigned a priority level of 1, indicating low importance. This task is presented as a non-essential background filler task with a flexible schedule for opportunistic capture. It represents a "low priority importance" request that can be dropped or rescheduled at convenience, fitting into our "background survey" or "testbed tracking task" setup.
+
+---
+
+**Sensors and Physical Objectives**: Our primary sensor is set to operate in the Near-Infrared (NIR) spectrum. The goal is to capture "near-infrared reflection" for water body boundary mapping and soil moisture assessment, providing valuable insights into the environmental conditions of Arnoldstein's terrain.
+
+---
+
+**Delivery Deadline**: The deadline for this task has been resolved by an upstream module, with the data availability scheduled for "in three days overnight". This phrase should be inserted verbatim in our request, setting the upper limit for data availability without rephrasing or altering it.
+
+---
+
+**Final Request**:
+
+Given the serene beauty of Arnoldstein, Austria, and the gentle whispers of its natural landscapes, our Earth-observation mission aims to conduct a "non-essential background survey" through the lens of our Near-Infrared (NIR) sensor. This task, designated as a low priority importance request, seeks to capture "water body boundaries" and assess "soil moisture gradients" for environmental monitoring purposes. The observation will occur under the starlight of an Austrian night, with data collection scheduled for "in three days overnight". This mission, while not critical in urgency, is crucial for our ongoing efforts in understanding and preserving the natural world.
+
+---
+
+**End of Request**
