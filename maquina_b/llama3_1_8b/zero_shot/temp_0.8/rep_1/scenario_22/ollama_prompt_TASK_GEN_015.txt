@@ -1,0 +1,12 @@
+Translate the following JSON request into a natural and conversational English request for an Earth-observation mission task:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Lalap"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
