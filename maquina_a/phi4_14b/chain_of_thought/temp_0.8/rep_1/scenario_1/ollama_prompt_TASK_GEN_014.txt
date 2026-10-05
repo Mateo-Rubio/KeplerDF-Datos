@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To develop a realistic and conversational request for this Earth-observation mission, we need to carefully interpret the JSON metadata provided.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data capture must be completed by the next day from the current planning moment, ensuring that the mission planners understand the urgency of the task while still allowing for a natural deadline within operational timelines.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time frame during which the satellite should capture the necessary data. It suggests that the task should be executed near the middle of the day, aligning with standard operational practices for such tasks.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in "around mid-day" is "mid-day." This term will be used verbatim in the final request to clearly communicate the desired timing for data acquisition.
+
+d) It is important to confirm that we are not shifting the deadline. The deadline remains strictly set to "tomorrow" and "around mid-day," ensuring that there is no alteration to the specified operational timeframe. This adherence to the given deadline is crucial for maintaining the integrity and reliability of the mission planning process.
+
+### STAGE 2 - FINAL REQUEST
+
+We require a standard operational tasking for a commercial tasking involving the city of Norte, with a focus on capturing detailed surface geometry. This involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture capabilities. The task should be executed by tomorrow around mid-day, aligning with our baseline pipeline tracking setup and ensuring adherence to fixed parameters representing normal operational status.

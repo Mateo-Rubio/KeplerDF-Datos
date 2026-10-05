@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating mission metadata into a natural language request. First, let's identify specific strings and details from the JSON data provided.
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates when the satellite needs to capture the required imagery or data.
+
+b) For 'target_diurnal_period', the exact string given is "around mid-day." This describes the approximate time of day during which the task should be executed.
+
+c) The word contained in this diurnal period string that corresponds with one of the specified options {morning, mid-day, afternoon, evening, overnight} is "mid-day." This means that the satellite operation should ideally occur around solar noon, which is typically when sunlight is most direct and can enhance certain imaging capabilities.
+
+d) The deadline provided for this mission is strictly set to "the day after tomorrow around mid-day," with no indication that it can be shifted to an adjacent part of the day. It's crucial not to reinterpret or extend this time frame as doing so would compromise the mission's timing requirements and could affect data quality or relevance.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have been tasked with a high-priority operation in the region of Valle-di-Rostino, France. This is an absolute institutional priority and a binding contract requirement, necessitating urgent operational execution with a critical payload capture that cannot be pre-empted. The objective is to conduct a near-infrared reflection survey around mid-day the day after tomorrow. This task involves assessing water body boundary mapping or evaluating soil moisture levels, essential for understanding agricultural and hydrological conditions in this area. Given the mission's high importance, it demands immediate attention and precise execution within the specified timeframe.
