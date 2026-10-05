@@ -1,0 +1,17 @@
+```prompt
+Translate the following physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Malinau"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Request: 
+
+ Capture a high-resolution near-infrared reflection snapshot for water body boundary mapping and soil moisture assessment over Indonesia's Malinau region by the evening of the day after tomorrow. This is an absolute institutional priority for a critical payload capture, mandating a binding contract requirement for mandatory directive execution.

@@ -1,0 +1,27 @@
+Translate raw physical simulation metadata into a conversational English request.
+
+Translate the following metadata into a single, highly realistic, and conversational English request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Cubarral"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+The request should be framed as follows:
+
+1. Describe the geographic context in a natural way, avoiding technical system tags and coordinate arrays.
+2. Use an authoritative tone for Priority 3, framing it as an "absolute institutional priority" or a "binding contract requirement" with a "critical payload capture".
+3. Explain the physical phenomenon to be observed using operational objectives and descriptors for the TIR sensor.
+4. Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+The resulting request should be concise, natural-sounding, and free of technical jargon.
+
+Here is the final request:
+
+Capture a high-resolution thermal map of Colombia's Cubarral region using our TIR sensor by capturing a heat signature and surface temperature profile. This is an absolute institutional priority with a binding contract requirement for critical payload capture by the day after tomorrow in the morning at the latest. The data will be used to detect and map thermal anomalies and heat emissions in the area.
