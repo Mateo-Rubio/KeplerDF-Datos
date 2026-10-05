@@ -1,0 +1,16 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string which must appear literally in the final request is "overnight".
+d) Confirming that no shifting of the deadline to an adjacent part of the day has been done, the task is set for the specific time period mentioned.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational context outlined by the JSON metadata provided, our Earth observation mission aims to capture a critical snapshot using Near-Infrared (NIR) sensors on "tomorrow" during the "overnight" period. This captures a unique time for the tasking as it's conducted in conditions of minimal interference from sunlight, ensuring optimal conditions for detailed analysis.
+
+The specific geographic context involves Indonesia and the city of Ketapang. While we don't have details like landmarks that could further specify the location, the region name provides sufficient information to tailor the request towards capturing essential data reflective of this particular area's environmental characteristics under the specified time frame.
+
+The priority level is designated as 'medium importance', signifying a professional and direct operational tasking. As part of our baseline pipeline tracking setup with fixed parameters, this 'overnight' capture serves a standard aspect of our routine monitoring activities. However, with this being a "standard operational tasking", there's flexibility within the workflow update to manage resources efficiently without imposing an urgent operational execution.
+
+In conclusion, our satellite constellation planning system is tasked with executing an active radar scan via microwave surface imaging under the conditions of 'tomorrow overnight'. This cloud-penetrating capture ensures detailed analysis, particularly suited for tasks requiring discerning features invisible in daylight. Indonesia's Ketapang region is the geographical focal point, selected based on operational needs rather than prioritization levels. The mission, while adhering to strict operational deadlines represented by 'target_day' and 'target_diurnal_period', is part of our routine operations with considerations made for efficient resource management.

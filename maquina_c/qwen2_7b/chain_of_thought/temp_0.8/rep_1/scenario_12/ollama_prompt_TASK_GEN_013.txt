@@ -1,0 +1,15 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The word contained in that string is "mid-day".
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+The Earth-observation mission operator submits a task request based on the provided raw physical simulation metadata. To address the guidelines, the operator combines the JSON parameters naturally while ensuring the final request maintains a realistic conversational tone suitable for satellite constellation planners.
+
+The target task context is aimed at capturing a detailed "high-resolution optical snapshot" with true-color visual documentation over an area in Colombia specifically focused on the city of Cantagallo. The deadline stipulates the imagery needs to be acquired "in three days", focusing on observations "around mid-day". This operational request aligns with a "low priority importance" as indicated by the 'priority_level', implying that while the request is part of a "baseline pipeline tracking", it carries "flexible schedule characteristics", allowing for "opportunistic capture" without immediate urgency, treating it as a "background survey" that can be "rescheduled at convenience".
