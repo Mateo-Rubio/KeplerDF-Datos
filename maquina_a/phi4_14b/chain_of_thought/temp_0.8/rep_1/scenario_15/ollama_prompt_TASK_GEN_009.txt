@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific time frame for when the task needs to be completed, ensuring the operator understands the urgency and scheduling requirements.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the satellite imagery or data capture should occur, aligning with the natural lighting conditions necessary for the mission objectives.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This term must appear literally in the final request to maintain clarity and precision regarding the timing of the data capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified time frame is strictly adhered to as "the day after tomorrow" during the "evening," ensuring compliance with the operational guidelines and avoiding any alterations that could impact the mission's success or contractual obligations.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a satellite data capture over Indonesia, specifically focusing on the city of Ecuatorial. This routine monitoring task is part of our baseline pipeline tracking setup, reflecting normal operational status with fixed parameters. The primary objective is to conduct near-infrared reflection for water body boundary mapping and soil moisture assessment. Please schedule this mission for the day after tomorrow in the evening, ensuring the data products are delivered by that deadline.

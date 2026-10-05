@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the time frame within which the data collection must be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the particular time of day when the observation should occur.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word will be included verbatim in the final request to specify the time of observation.
+
+d) There is no indication or instruction to shift the deadline to an adjacent part of the day. The deadline is strictly set for "tomorrow" and specifically "in the evening," so this timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a high-resolution optical snapshot over Planadas, Colombia. This mission involves capturing clear optical imagery and true-color visual documentation using daylight photography techniques. It is part of our baseline pipeline tracking and falls under routine monitoring with fixed parameters, representing normal operational status in our workflow update. We request that this task be executed tomorrow, specifically in the evening, to ensure timely delivery of data products as part of our commercial tasking operations.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves interpreting a JSON object to formulate a natural language request for satellite data acquisition.
+
+a) The exact string found in the 'target_day' field is "in three days." This indicates that the data must be delivered three days from now, marking it as a strict operational deadline without any flexibility to adjust or shift this date.
+
+b) The string present in the 'target_diurnal_period' field is "around mid-day." This specifies the desired time of day for capturing the satellite imagery, highlighting an optimal window during which the data should be collected.
+
+c) Within the 'target_diurnal_period' string, the single word from the options provided that appears literally is "mid-day." This directly corresponds to the specified time frame and will be incorporated into the final request verbatim.
+
+d) It's essential to confirm that there is no alteration or shift in the deadline. The 'target_day' and 'target_diurnal_period' are fixed, meaning that any operational planning must adhere strictly to these parameters. There is no indication or allowance for capturing data during a different part of the day; hence, "around mid-day" remains non-negotiable.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for Colombia, focusing on Suárez, to be executed in three days around mid-day. This entails acquiring high-resolution optical snapshots that provide clear daylight photography and true-color visual documentation using the primary sensor designated for this mission. This routine monitoring forms part of our baseline pipeline tracking setup, with fixed parameters ensuring normal operational status.

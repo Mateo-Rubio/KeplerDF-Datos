@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves capturing data over the region known as "Norte," focusing on a location without specified country details. The mission is to conduct a multispectral vegetation analysis using the VNIR sensor, which is pertinent for assessing chlorophyll absorption levels and computing a vegetation NDVI index.
+
+a) The exact string in 'target_day' from the JSON metadata is "in three days." This indicates a clear deadline within a defined timeframe, ensuring the data capture aligns with operational expectations.
+
+b) The exact string in 'target_diurnal_period' from the JSON metadata is "during the afternoon." This specifies the time of day when the data acquisition should occur, emphasizing the importance of capturing images under optimal lighting conditions for vegetation analysis.
+
+c) The single word contained within the 'target_diurnal_period' string that appears literally in the final request is "afternoon." This word defines the specific period during which the satellite should capture the required imagery, aligning with the mission's operational needs.
+
+d) It is crucial to adhere strictly to the specified deadline without any shifts or reinterpretations. The data must be captured "in three days" and "during the afternoon," ensuring that these parameters are met precisely as stated in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task involving an opportunistic capture of multispectral vegetation analysis over the region known as Norte, with a flexible schedule. The goal is to use the VNIR sensor for assessing chlorophyll absorption levels and computing a vegetation NDVI index. This request should be treated as a non-essential background filler task, where operators can drop or reschedule at their convenience. Please ensure that this observation is conducted in three days, specifically during the afternoon.

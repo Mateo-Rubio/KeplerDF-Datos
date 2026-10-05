@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provided outlines a task request for an Earth-observation mission. Let's break down the required elements to create a realistic and conversational request.
+
+a) The exact string found in 'target_day' is "in four days." This indicates the specific time frame within which the data products must be delivered, emphasizing the urgency of the deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the satellite should capture the required imagery or data.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning." This term must be included literally in the final request to accurately reflect the timing of the data capture.
+
+d) It is important to confirm that the deadline is not being shifted to any other part of the day. The original request specifies "in the morning," and this timing must remain unchanged to meet the operational requirements precisely.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority mission requiring an urgent operational execution with an un-preemptable mission lock. We have a binding contract requirement for a critical payload capture of thermal mapping over Povici di Sotto, Italy. The objective is to capture a detailed surface temperature profile and detect any thermal anomalies in the area. This high-priority task must be completed using a TIR sensor to ensure precise heat signature documentation. The data delivery deadline is set for "in four days," specifically "in the morning." Please prioritize this task as it involves essential thermal anomaly detection for ongoing environmental monitoring initiatives.

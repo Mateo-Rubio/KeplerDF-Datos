@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This specifies when the task needs to be completed by.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the specific time during the target day when the data should be captured.
+
+c) The single word contained in "in the evening" that must appear literally in the final request is "evening".
+
+d) To confirm, I am not shifting the deadline to an adjacent part of the day. The request specifies that the task should be completed tomorrow, in the evening, without any changes to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for capturing thermal mapping data over Bugalagrande, Colombia. This task involves obtaining a heat signature or surface temperature profile of the area. Given its nature as a non-essential background filler task, we suggest a flexible schedule for opportunistic capture. The operator may drop or reschedule this task at their convenience. Please ensure delivery of the data products by tomorrow, in the evening.
