@@ -1,0 +1,11 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request. To maximize the naturalness and validation accuracy of the dataset, interpret the metadata organically according to these operational guidelines:
+
+For the location, combine the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+In this case, the region name is not provided, so we will use the country and city. The location is in Indonesia, specifically in Bontang. 
+
+The mission priority level is 1, which means it's a low-importance request. We should frame this as a "low-priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is TIR, which stands for thermal imaging. Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+Finally, ensure the products are ingested into the pipeline before in three days in the evening. This means we need the data to be ready by tomorrow's evening, so we can have it processed and delivered within the set timeframe.

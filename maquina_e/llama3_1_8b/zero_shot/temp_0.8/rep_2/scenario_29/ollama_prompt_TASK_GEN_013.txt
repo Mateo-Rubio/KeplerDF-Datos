@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+Combine the metadata organically to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Use an authoritative, explicit, and commanding tone, as this is an absolute institutional priority. Frame this as a critical payload capture involving a mandatory directive for an urgent operational execution and un-preemptable mission lock.
+
+This task is a high-priority, baseline pipeline tracking request with fixed parameters representing normal operational status or a standard workflow update. Describe the goal as a "multispectral vegetation analysis" to assess chlorophyll absorption level or calculate a vegetation "NDVI index" and surface reflectance.
+
+The data must be ready by the day after tomorrow overnight at the latest.
