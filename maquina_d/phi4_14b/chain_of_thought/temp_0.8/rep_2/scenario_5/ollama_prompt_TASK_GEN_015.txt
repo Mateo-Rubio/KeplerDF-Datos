@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves capturing data over Ecuatorial, Indonesia using a near-infrared sensor. The metadata provides specific details that need to be interpreted and translated into a conversational request.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time during which the data capture should occur.
+
+c) The single word contained in "overnight" that must appear literally in the final request is "overnight". This word describes the specific time frame for the data collection.
+
+d) It is crucial to confirm that the deadline is not shifted to an adjacent part of the day. The instructions clearly state that the temporal parameters represent a strict operational deadline, and there should be no alteration or extension of this timeframe. Therefore, the request must adhere to capturing data "overnight" on "tomorrow".
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority mission requiring urgent operational execution for an un-preemptable mission lock. We mandate a critical payload capture using near-infrared reflection technology to assess soil moisture levels and discriminate gradients over Ecuatorial, Indonesia. This task involves capturing data overnight tomorrow and is of high importance, ensuring no deviation from the specified deadline.

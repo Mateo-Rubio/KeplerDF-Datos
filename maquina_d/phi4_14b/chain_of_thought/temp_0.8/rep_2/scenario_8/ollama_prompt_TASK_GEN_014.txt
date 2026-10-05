@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) The deadline for capturing the data product is specified as "tomorrow during the afternoon." There is no indication or permission to shift this deadline to any adjacent part of the day, such as morning or evening. The request must adhere strictly to this timeline.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a satellite task to capture near-infrared reflection data for soil moisture assessment over the region of Norte. This is a standard operational tasking as part of our baseline pipeline tracking setup, with fixed parameters indicating a normal operational status. The deadline for data delivery is set for tomorrow during the afternoon.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specifies when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates when during the day the task should focus on capturing the necessary data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "overnight." This word must be used literally in the final request to describe when the imaging will occur.
+
+d) The deadline specified is for data delivery on "the day after tomorrow" during the "overnight" period. There is no indication or permission to shift this deadline to any other part of the day, such as morning, mid-day, afternoon, or evening. The task must be completed within these strict temporal constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture over Borgo San Lorenzo in Italy. This is a non-essential background filler task with a flexible schedule, so please feel free to drop or reschedule at convenience if necessary. We are looking to conduct a multispectral vegetation analysis using a VNIR sensor to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance. The data should be captured overnight on the day after tomorrow. This is part of our background survey, and we appreciate your assistance in ensuring this task is completed by the specified deadline.

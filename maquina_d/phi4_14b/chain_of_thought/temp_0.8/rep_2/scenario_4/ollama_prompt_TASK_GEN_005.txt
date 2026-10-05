@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To translate the task request into a natural language format, I begin by closely examining the metadata provided in the JSON structure.
+
+a) The 'target_day' field contains the string "the day after tomorrow." This indicates the specific temporal deadline for the mission execution and must be included verbatim in the final request to maintain accuracy.
+
+b) The 'target_diurnal_period' field provides the string "during the afternoon." This is crucial as it specifies the exact time of day when the observation should occur, highlighting its importance in the context of data collection.
+
+c) From the given options—morning, mid-day, afternoon, evening, overnight—the word "afternoon" is explicitly present in the 'target_diurnal_period' string. This word will be used directly in the final request to ensure clarity regarding the timing of the operation.
+
+d) It's essential to confirm that the deadline, as indicated by "the day after tomorrow during the afternoon," is strictly adhered to without any shifts or reinterpretation to another part of the day. Maintaining this schedule is critical to fulfilling the operational requirements and ensuring that the data products are delivered on time.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority involving a mandatory directive for a critical payload capture over Italy, specifically targeting the area around Santa Giustina. We require an active radar scan using microwave surface imaging to achieve cloud-penetrating capture during the afternoon the day after tomorrow. The mission's un-preemptable lock necessitates urgent operational execution to ensure that this high-value asset contractual task is completed as specified.
