@@ -1,0 +1,14 @@
+Let's go through the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is: "in three days".
+
+b) The exact string in 'target_diurnal_period' is: "overnight".
+
+c) The single word contained in that string is: overnight.
+
+d) I am not shifting the deadline to an adjacent part of the day, as I will include the exact strings from 'target_day' and 'target_diurnal_period' in my final request. 
+
+Now, let's move on to STAGE 2:
+
+```prompt
+We require a low-priority importance task with a flexible schedule for opportunistic capture, specifically an overnight active radar scan using microwave surface imaging for cloud-penetrating capture of the region in Colombia, near Uribe. We need this task completed within three days, capturing the geographical area during the overnight period, without any adjustments to the deadline.
