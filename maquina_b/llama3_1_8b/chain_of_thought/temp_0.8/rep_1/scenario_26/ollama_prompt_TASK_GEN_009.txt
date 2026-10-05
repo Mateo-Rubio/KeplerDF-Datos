@@ -1,0 +1,23 @@
+Translate this task into a standard operational request for the satellite constellation planner: Translate the raw physical simulation metadata provided in JSON format below into a single, highly realistic, and conversational English request. To maximize the naturalness and validation accuracy of the dataset, interpret the metadata organically according to these operational guidelines.
+
+Geographic context: Do NOT use raw technical system tags, underscores, or coordinate arrays in your final output. Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Mission allocation priority: Do NOT mention raw priority numbers or technical priority levels. Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. You must integrate specific operational phrases to reflect this structural hierarchy.
+
+Sensor and physical objectives: Do NOT output technical abbreviations or acronyms (e.g., do NOT write VIS, SAR, TIR, VNIR, NIR). Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+Relative timeframes: Do NOT output raw UTC timestamps, digits, or countdown metrics. The temporal parameters represent a strict operational DEADLINE to deliver the data products, NOT the orbital capture window.
+
+Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+The request is for a standard operational tasking to capture thermal mapping using the TIR sensor over Indonesia, specifically in the region of Ecuatorial. This is an absolute institutional priority, requiring a mandatory directive for critical payload capture. The data must be delivered in four days, and it should be captured in the morning.

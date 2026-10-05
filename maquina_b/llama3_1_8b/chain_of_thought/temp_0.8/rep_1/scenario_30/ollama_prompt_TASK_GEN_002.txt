@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+The exact string in 'target_day' is "tomorrow".
+
+The exact string in 'target_diurnal_period' is "in the morning".
+
+Among the options {morning, mid-day, afternoon, evening, overnight}, the single word contained in that string is "morning".
+
+Upon reviewing the task context JSON again, I confirm that the deadline is not being shifted to an adjacent part of the day. The 'target_diurnal_period' indicates a specific time of day for the mission, but it does not imply a change from the specified 'target_day'. Therefore, the deadline remains fixed on the next day, and the word "morning" will be used to describe the target diurnal period.
+
+STAGE 2 - FINAL REQUEST
+
+...tomorrow...in the morning. We require a low priority importance request for opportunistic capture with a flexible schedule. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task using a multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance.

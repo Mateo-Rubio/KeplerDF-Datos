@@ -1,0 +1,13 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline is explicitly set for "tomorrow", which means I will provide a request that captures the data on the next day, exactly as specified.
+
+Now, let's move on to STAGE 2, where I'll output the operational request as one flowing paragraph:
+
+...the task requires a low-priority importance capture using near-infrared reflection for opportunistic water body boundary mapping, specifically in Zetaquira, Colombia, tomorrow in the morning.
