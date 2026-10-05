@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provided outlines a task for an Earth-observation mission centered around the use of an active radar scan sensor in the region of Kapuas Hulu, Indonesia. I need to translate this technical data into a coherent and conversational request that aligns with specific operational guidelines.
+
+a) The exact string contained within the 'target_day' field is "the day after tomorrow." This indicates the deadline by which the mission data must be delivered, emphasizing the urgency of the task without providing a specific date.
+
+b) The 'target_diurnal_period' field contains the string "overnight." This period specifies when the satellite should capture data, suggesting that the optimal conditions for this mission occur during nighttime or early morning hours.
+
+c) The word "overnight" from the 'target_diurnal_period' corresponds to the option "overnight" out of the set {morning, mid-day, afternoon, evening, overnight}. This indicates that the data collection is intended to occur during nighttime hours when the active radar scan can penetrate clouds and capture ground geometry effectively.
+
+d) It's crucial to acknowledge that this task must be executed strictly within the specified time frame. The requirement is for data capture and delivery by "the day after tomorrow" during the "overnight" period. There should be no alterations or shifts in the deadline to another part of the day, ensuring compliance with the operational timeline.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission involves a high-priority task centered on Kapuas Hulu, Indonesia, where an active radar scan is crucial for capturing detailed ground geometry through microwave surface imaging. The operation must be conducted under the umbrella of an absolute institutional priority, as it represents a binding contract requirement. The satellite constellation is mandated to conduct this critical payload capture during the nighttime hours, with the data delivery deadline set for the day after tomorrow, overnight. This urgent operational execution is non-negotiable and ensures no other mission will preempt this essential task.

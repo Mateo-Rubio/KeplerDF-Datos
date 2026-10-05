@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates that the data products are needed three days from now.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies that the observation should occur during nighttime hours.
+
+c) The single word contained in that string is "overnight". This will be used to describe the timing of the task in the final request.
+
+d) It is important to adhere strictly to the given deadline, which is set for "in three days" and specifically during the "overnight" period. There is no indication or allowance to shift this deadline to any other part of the day, such as morning, mid-day, afternoon, or evening. The task must be executed precisely within these constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an opportunistic thermal mapping task in Huasanó, Colombia. This non-essential background filler task involves capturing a heat signature or surface temperature profile to map heat emissions, with a flexible schedule allowing us to drop or reschedule at convenience. The data collection should occur using a thermal infrared sensor and is needed in three days, specifically during the overnight period.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, we need to identify the exact string present in the 'target_day' key from the JSON data. The value provided is "the day after tomorrow." This indicates a specific deadline for when the task needs to be completed, emphasizing that it should occur two days from today.
+
+Next, we examine the 'target_diurnal_period' key, which has the value "around mid-day." This specifies the time of day when the satellite observation should ideally take place. It is important to note this timing as it will influence how we frame our request.
+
+The task requires us to find a single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string. In this case, the word "mid-day" is directly mentioned, making it an essential part of our final request.
+
+Finally, we must confirm that we are not shifting the deadline to another part of the day. The operational guidelines clearly state that the temporal parameters represent a strict deadline, and we must adhere to the specified "around mid-day" timeframe without any alterations. This ensures that the task is completed within the given constraints and at the correct time.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for a flexible schedule involving an opportunistic capture over Mesetas in Colombia. This is a non-essential background filler task, so feel free to drop or reschedule it at your convenience. We are seeking a high-resolution optical snapshot to achieve clear optical imagery and true-color visual documentation. The goal is to capture the area on the day after tomorrow, around mid-day, as part of our background survey or testbed tracking task.

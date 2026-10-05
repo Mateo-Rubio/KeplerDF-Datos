@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This specifies the deadline for delivering the data products relative to the current date.
+
+b) The exact string present in 'target_diurnal_period' is "in the morning." This indicates the specific time of day when the task should be executed, providing a precise temporal context within the operational schedule.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word is crucial as it will appear literally in the final request to maintain clarity and alignment with the specified time frame.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is strictly defined as "in the morning" on "the day after tomorrow," and I must adhere to these parameters without alteration to ensure compliance with the operational guidelines provided.
+
+### STAGE 2 - FINAL REQUEST
+
+Please initiate a low-priority importance task involving thermal mapping over Ecuatorial, Malaysia. This request seeks a flexible schedule for an opportunistic capture focused on generating surface temperature profiles. Given its nature as a non-essential background filler task, feel free to drop or reschedule at your convenience, treating it as a background survey. The deadline is set for the day after tomorrow, specifically in the morning, to allow for effective data delivery within normal operational status parameters.

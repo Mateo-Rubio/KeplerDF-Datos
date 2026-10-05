@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the specific day when the data capture needs to be completed.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string "in the morning" is "morning." This word will be used verbatim in the final request to specify the time of day for the task.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified diurnal period, which is "in the morning," on "the day after tomorrow." Any deviation from this timeframe would not comply with the operational guidelines provided.
+
+### STAGE 2 - FINAL REQUEST
+
+We are requesting a standard operational tasking for a commercial satellite mission to capture high-resolution optical snapshots over Prado, Colombia. This task involves daylight photography aimed at obtaining clear optical imagery of the specified area. The mission is part of our baseline pipeline tracking setup with fixed parameters and represents a routine monitoring activity under normal operational status. We require this data product to be delivered by the day after tomorrow, specifically in the morning.
