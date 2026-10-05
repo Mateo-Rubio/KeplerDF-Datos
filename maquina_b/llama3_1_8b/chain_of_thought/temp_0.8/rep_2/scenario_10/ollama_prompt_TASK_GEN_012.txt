@@ -1,0 +1,9 @@
+Let's work through the four questions in order for STAGE 1.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Upon reviewing the task request, I confirm that I am not shifting the deadline to an adjacent part of the day. The target_diurnal_period only specifies a time slot within a specific day, but it does not change the fact that the deadline is still set for "tomorrow".

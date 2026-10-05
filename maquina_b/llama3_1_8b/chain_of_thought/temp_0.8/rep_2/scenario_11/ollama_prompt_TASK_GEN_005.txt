@@ -1,0 +1,15 @@
+I will break down the task context provided in JSON format according to the operational guidelines.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word that is contained in the string "in the evening" is "evening". This word must appear literally in my final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' keys indicate a strict operational deadline, which means that the task must be completed on the following day, specifically in the evening.
+
+STAGE 2 - FINAL REQUEST
+
+...We require an absolute institutional priority for thermal mapping to capture a heat signature using active radar scan. This is a critical payload capture, binding contract requirement involving mandatory directive for immediate operational execution. The target location is Italia, in the vicinity of Latina, and we need to conduct this task tomorrow in the evening with a high-resolution optical snapshot to document thermal emissions and surface temperature profile with un-preemptable mission lock...
