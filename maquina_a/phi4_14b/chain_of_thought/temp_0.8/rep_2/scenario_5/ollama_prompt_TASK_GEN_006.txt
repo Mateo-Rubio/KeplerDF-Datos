@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand requires translating specific metadata into a natural and conversational request for satellite imagery over Pangkalan Bun in Indonesia. Let's analyze the key components.
+
+a) The exact string found in 'target_day' is "in four days". This indicates the deadline by which the data must be delivered, emphasizing that there is no flexibility or extension possible on this date.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the satellite should capture the imagery. It's important to adhere to this timeframe to ensure the data meets the intended observational goals.
+
+c) From the list provided {morning, mid-day, afternoon, evening, overnight}, the word contained in 'target_diurnal_period' is "overnight". This is the specific time of day mentioned and must be included in the final request.
+
+d) It's crucial to confirm that the deadline is not shifted to any other part of the day. The metadata specifies "overnight" as the diurnal period, meaning the imagery should be captured during nighttime hours. There is no indication or allowance for changing this timeframe, so the request must strictly adhere to capturing the imagery overnight in four days.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm looking for a low-priority importance request with a flexible schedule for opportunistic capture. Please consider this as a non-essential background filler task where you can drop or reschedule at your convenience. We're interested in a high-resolution optical snapshot using daylight photography techniques to capture clear optical imagery and true-color visual documentation of Pangkalan Bun in Indonesia. This is more of a background survey or testbed tracking task, so feel free to adjust the timing as needed. The data should be delivered "in four days," specifically captured during the "overnight" period.

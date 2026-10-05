@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task request involves analyzing specific metadata parameters to form a comprehensive and natural language satellite observation mission request.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data collection should be completed by the day following today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the satellite capture should occur, focusing on nighttime imaging.
+
+c) The single word contained in 'target_diurnal_period' from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term will be used directly in the final request to describe the timing of the data collection.
+
+d) It is important to confirm that the deadline for the task remains unaltered. The deadline is strictly defined as "tomorrow," with the data capture occurring "overnight." There is no indication or allowance to shift this deadline to any other part of the day, such as morning or afternoon. This ensures compliance with the specified temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority task aimed at Petreto-Bicchisano in France, where we seek to conduct an active radar scan using microwave surface imaging capabilities. The goal is to achieve a cloud-penetrating capture of the ground geometry during the night. This request is classified as a non-essential background filler task with a flexible schedule, allowing for opportunistic data acquisition. Please note that this mission can be rescheduled or dropped at your convenience, fitting into the broader context of background survey operations. The data collection is expected to be completed by tomorrow, specifically during the overnight period.

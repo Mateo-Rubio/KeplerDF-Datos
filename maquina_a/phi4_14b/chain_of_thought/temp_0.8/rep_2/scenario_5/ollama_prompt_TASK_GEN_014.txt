@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data products are expected to be delivered, not the time of satellite capture.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the part of the day by which the data should be ready for delivery.
+
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This must be explicitly included in the final request to align with the specified timeframe.
+
+d) The deadline set as "tomorrow in the evening" does not imply any flexibility or shift to an adjacent part of the day. It is a strict operational deadline for delivering the data products, and this must be adhered to without modification.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request an absolute institutional priority mission to capture thermal mapping over the region of Norte tomorrow in the evening. This mission involves acquiring a surface temperature profile using thermal sensors to detect any potential thermal anomalies. The task is a critical payload capture and must be executed with urgency, adhering to the binding contract requirements that mandate this high-importance operation.
