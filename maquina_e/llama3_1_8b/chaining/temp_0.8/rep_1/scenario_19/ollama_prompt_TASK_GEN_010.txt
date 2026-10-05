@@ -1,0 +1,7 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic English request for the Earth-observation mission task. 
+Given the provided JSON parameters, the location to be observed is in Colombia, specifically in the city of Puerto Wilches, with no mentioned landmarks or country and city names being "N/A". 
+The task's mission allocation priority indicates low importance, framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". 
+Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task". 
+The objective of this task is thermal mapping, aiming to capture a "heat signature" or "surface temperature profile" and map heat emissions using an "active thermal scan" for "thermal anomaly detection". 
+This request must be completed by tomorrow in the evening.
