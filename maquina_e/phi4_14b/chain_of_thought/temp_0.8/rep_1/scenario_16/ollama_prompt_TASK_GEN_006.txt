@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's analyze the provided JSON metadata to formulate a realistic and conversational request for the Earth-observation mission operator.
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data product must be delivered, not the time of satellite capture.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the part of the day when the observation should ideally occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "overnight". This word must be included in the final request to specify the timing of the observation.
+
+d) It is crucial to confirm that we are not altering the deadline. The phrase "in three days" clearly sets a strict deadline for delivering the data product, and "overnight" specifies the time window for the observation. We must adhere to these parameters without shifting the deadline to any other part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking for a high-resolution optical snapshot using near-infrared reflection over Mulya Bakti, Indonesia. The goal is to map water body boundaries and assess soil moisture levels. This routine monitoring task is part of our baseline pipeline tracking and should be completed with fixed parameters in three days, specifically during the overnight period. Please ensure this falls within our normal operational status workflow update.

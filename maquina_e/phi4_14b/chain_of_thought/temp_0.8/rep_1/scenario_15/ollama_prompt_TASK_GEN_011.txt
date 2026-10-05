@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string, which must appear literally in the final request, is "evening."
+
+d) The provided target day and diurnal period indicate a specific deadline for data delivery. The task specifies that data should be captured and delivered by "tomorrow evening," without any indication to shift this time frame to another part of the day or extend it beyond its specified boundary.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking to monitor the Corteno Golgi region in Italy. This involves a commercial tasking as part of our baseline pipeline tracking, with fixed parameters for normal operational status. We need an active radar scan using microwave surface imaging to capture cloud-penetrating imagery over this area, ensuring we gather comprehensive ground geometry data. Please schedule this task for tomorrow evening, adhering strictly to this deadline to maintain the workflow update.

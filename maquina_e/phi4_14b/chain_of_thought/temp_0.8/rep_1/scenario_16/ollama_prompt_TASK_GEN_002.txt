@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in three days". This indicates the deadline by which the data should be delivered.
+
+b) The exact string for 'target_diurnal_period' is "in the evening". This specifies when the data capture should occur relative to the day.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening". This will be used verbatim in the final request to describe the timing of the operation.
+
+d) The deadline is explicitly stated as "in three days, in the evening." There is no indication or requirement to shift this deadline to another part of the day. The operational timeframe is strictly defined by these parameters and must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority task request involving a critical payload capture for an un-preemptable mission lock over the region in Italy, specifically targeting the area around Silea. This task requires a near-infrared reflection scan aimed at water body boundary mapping and soil moisture assessment. The data collection is of high contractual value and must be executed with urgent operational execution by "in three days, in the evening."

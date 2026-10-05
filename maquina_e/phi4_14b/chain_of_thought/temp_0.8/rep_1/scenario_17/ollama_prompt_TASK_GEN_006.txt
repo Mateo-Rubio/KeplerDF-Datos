@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) The deadline is strictly set for "around mid-day" on "tomorrow," so there should be no shift to an adjacent part of the day. The data capture must occur around this specified time to meet the operational requirements, ensuring that the mission aligns with the given temporal parameters without any alterations or extensions.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a satellite constellation planner focused on the region near Majangkan, Indonesia. This involves a commercial tasking as part of our baseline pipeline tracking, using fixed parameters to maintain normal operational status and workflow updates. The mission requires an active radar scan using microwave surface imaging to capture cloud-penetrating imagery. It is essential that this activity takes place around mid-day tomorrow, aligning with the strict deadline for delivering the necessary data products without any deviation.

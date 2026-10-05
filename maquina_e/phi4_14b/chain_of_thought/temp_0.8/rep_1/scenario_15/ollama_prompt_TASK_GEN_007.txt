@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This phrase indicates the specific time frame by which the data must be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the satellite should capture the required imagery.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening". This word will be included verbatim in the final request to specify the time of capture.
+
+d) I need to confirm that the deadline is strictly set for "in three days" and "in the evening". There is no indication or allowance for shifting this deadline to another part of the day. The operational guidelines emphasize adhering to the specified deadline without alteration, ensuring that the data products are delivered precisely as required.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting an absolute institutional priority request for a critical payload capture over Bolívar, Colombia. This mission is a binding contract requirement involving thermal mapping to capture a heat signature or surface temperature profile, which is essential for thermal anomaly detection. The satellite must perform this task in three days, specifically in the evening, reflecting an urgent operational execution and an un-preemptable mission lock.

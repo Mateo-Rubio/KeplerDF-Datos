@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for when the task needs to be completed. It's crucial to adhere to this timeframe and not adjust it in any way, as it represents a strict operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should ideally occur, aligning with the diurnal cycle for optimal data collection.
+
+c) The single word contained in the string from 'target_diurnal_period' that we need to use literally in the final request is "morning". This word will be included to specify the timing of the observation within the day.
+
+d) It is important to confirm that there is no intention to shift the deadline to an adjacent part of the day. The operational guidelines clearly state that the temporal parameters represent a strict operational deadline for delivering the data products, and this must be respected as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule on a non-essential background filler task. We are looking to conduct a multispectral vegetation analysis in Singkep, Indonesia, using VNIR to assess chlorophyll absorption levels and calculate an NDVI index. This is a routine monitoring part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please aim to complete this task in four days, specifically in the morning, but feel free to drop or reschedule at convenience.
