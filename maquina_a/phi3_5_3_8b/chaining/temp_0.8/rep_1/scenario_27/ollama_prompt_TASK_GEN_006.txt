@@ -1,0 +1,10 @@
+As an Earth-observation mission operator, I am directing a specific task for our automated satellite constellation planner. We have been provided with raw physical simulation metadata in JSON format which needs to be translated into a conversational request. The objective is to maximize the naturalness and validation accuracy of the dataset using this information.
+
+The details from the JSON are as follows:
+
+- Primary Sensor Type: Near-Infrared (NIR) reflection capability, aiming for water body boundary mapping or soil moisture assessment.
+- Geographic Context: The targeted region is in Indonesia, with Murung Raya being the specific city of interest. Since there are no details on a particular landmark within this context, we will focus solesly on these available geographical elements for clarity and understanding in our request.
+- Mission Allocation Priority: This task has been assigned a Low Importance priority level. Therefore, framing the request using an opportunityistic tone is appropriate, with instructions to make scheduling flexible as needed.
+- Delivery Deadline: The requirement is set so that results are expected within three days overnight from today's date.
+
+Here is how I would construct a single block of the task request following these guidelines:
