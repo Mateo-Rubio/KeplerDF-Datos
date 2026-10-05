@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I am tasked with translating the raw physical simulation metadata provided into a single, highly realistic, and conversational English request for an automated satellite constellation planner. Our objective is to maximize the naturalness and validation accuracy of our dataset by interpreting the metadata organically according to these operational guidelines.
+
+To provide context, our geographical focus is on Norte, although precise country information is not available, as indicated by "N/A" in the location_details. Our operational priority level is set at 'Priority 1', indicating a low importance request with flexible scheduling and a non-essential background filler task. The mission's allocation should be treated as a 'flexible schedule' for 'opportunistic capture', making it a 'background survey' or 'testbed tracking task'. 
+
+For this task, our primary sensor is 'SAR', which will carry out an 'active radar scan' using 'microwave surface imaging' to 'pierce heavy weather' and capture ground geometry. This request necessitates a 'cloud-penetrating capture', essential for monitoring natural phenomena unaffected by atmospheric conditions.
+
+The target day specified in our task context is 'tomorrow', with the specific timing set during 'the morning'. We are not constrained by any raw deadline, as it has already been resolved by an upstream module. The phrase "tomorrow in the morning" must be inserted verbatim into our request as the stated upper limit for data availability.
+
+In summary, this is a low priority operational task requiring the automated satellite constellation planner to capture ground geometry with 'SAR' imaging technology on a day set during 'the morning of tomorrow'. The mission's priority, flexible scheduling, and specific timing are critical to ensure that this 'background survey' or 'testbed tracking task' aligns with our overall operational objectives.

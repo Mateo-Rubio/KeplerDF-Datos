@@ -1,0 +1,11 @@
+Translation: An Earth observation task submission for an automated satellite constellation planner. The mission's geographic context involves capturing a thermal mapping of heat emissions from a specific region in the day after tomorrow morning. The location is identified within the picturesque town of Serravalle di Chienti, nestled in the historical grounds of Italia. This task requires a low priority importance and is labeled as a flexible schedule background survey for opportunistic capture.
+
+Considering the operational guidelines:
+1) The region described includes the country "Italia" with the city "Serravalle di Chienti". However, since there's no valid landmark provided, we use the town's name instead.
+2) Priority level is set to 1. We interpret this as a non-essential background filler task that the operator intends to drop or reschedule at their convenience and view it as a low priority background survey task.
+3) The primary sensor designated is "TIR". Based on the guidelines, this will be explained as capturing a thermal mapping to determine surface temperature profiles and detect thermal anomalies.
+
+The request encapsulates all aforementioned details into one paragraph:
+"Plan for our satellite constellation to capture thermal mapping of heat emissions from the region around Serravalle di Chienti, Italia, in the day after tomorrow morning. As part of a low priority background survey task, this mission aims to capture essential data on surface temperature profiles and thermal anomalies without the urgency associated with high or medium priority requests."
+
+This request meets all operational guidelines while maintaining a smooth flow that integrates the provided JSON keys naturally.

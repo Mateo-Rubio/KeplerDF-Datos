@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The operational guidelines will help us create a highly realistic and conversational English request based on the raw physical simulation metadata provided in JSON format.
+
+Given the geographic context, we are focusing on Indonesia's beautiful island of Pesisir Selatan. The region's rich diversity, including its unique landscapes and intricate coastlines, demands a highly detailed observation to capture its full splendor, especially under overnight conditions when satellite visibility is highest.
+
+With the primary sensor set to SAR (Synthetic Aperture Radar), we're tasked with performing an active radar scan for cloud-penetrating capture. This involves using microwave surface imaging capabilities to pierce through heavy weather, revealing ground geometry and topography that might be obscured by atmospheric conditions during daylight hours.
+
+The 'priority_level' is set to medium importance, suggesting this request falls into the standard operational tasking category, part of our baseline pipeline tracking setup with fixed parameters. The 'target_day' is set for 'tomorrow', with the specific deadline being "overnight", a phrase that's already resolved by an upstream module.
+
+This task doesn't come with a strict time constraint; instead, it's treated as a standard operational mission, representing normal operational status or a routine monitoring activity within our organization. The language reflects this by not emphasizing urgency over closeness to the deadline but rather highlights the importance of adhering to fixed parameters and ensuring the satellite mission is scheduled according to operational priorities.
+
+In summary, we're requesting a detailed SAR observation of Pesisir Selatan, Indonesia, with an emphasis on capturing ground geometry and topography overnight. This mission aligns with our standard operational tasking, maintaining normal parameters without imposing any un-preemptable constraints or requiring an expedited execution beyond the predefined deadline.
