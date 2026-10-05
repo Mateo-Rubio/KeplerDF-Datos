@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) The deadline is not being shifted to an adjacent part of the day. The task requires capturing data in the evening, which is a specific time period within the same day.
+
+The deadline is a strict operational deadline to deliver the data products, not the orbital capture window.

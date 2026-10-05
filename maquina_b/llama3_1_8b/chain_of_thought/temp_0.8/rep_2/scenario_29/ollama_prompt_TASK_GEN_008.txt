@@ -1,0 +1,9 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in my final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The target day is specified as "in four days", which means the deadline is exactly four days from now, without any adjustment to a different time of day.

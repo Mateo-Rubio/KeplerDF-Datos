@@ -1,0 +1,13 @@
+To proceed with translating the raw physical simulation metadata into a conversational English request, I will first address the four questions related to the target task context JSON.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Upon reviewing the metadata, I confirm that no deadline adjustment or reinterpretation has been made. The relative timeframes 'target_day' and 'target_diurnal_period' represent a strict operational DEADLINE to deliver the data products.
+
+I will now proceed to STAGE 2 - FINAL REQUEST, which will be presented inside the code block as requested.

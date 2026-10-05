@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight". This word must appear literally in the final request.
+
+d) Confirming that we are not shifting the deadline to an adjacent part of the day, we will use the target_day and target_diurnal_period strings verbatim in the final request, with no adjustments or reinterpretations of the deadline.
+
+STAGE 2 - FINAL REQUEST
+
+Please task the satellite constellation with a standard operational tasking of multispectral vegetation analysis for near-infrared reflection to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. The mission is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This task is due in four days, and the satellite should capture the data overnight.

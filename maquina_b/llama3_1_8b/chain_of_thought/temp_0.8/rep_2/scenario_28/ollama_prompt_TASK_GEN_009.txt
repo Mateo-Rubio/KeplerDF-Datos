@@ -1,0 +1,14 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline still remains as today, and specifically in the evening, which is within the same temporal scope.
+
+STAGE 2 - FINAL REQUEST:
+
+```prompt
+Capture a near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients in a low priority importance request with a flexible schedule for opportunistic capture, specifically targeting the area around Bangka Tengah in Indonesia today in the evening. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
