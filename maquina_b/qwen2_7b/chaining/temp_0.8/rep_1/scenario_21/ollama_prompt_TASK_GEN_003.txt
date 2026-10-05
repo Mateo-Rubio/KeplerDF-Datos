@@ -1,0 +1,27 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+To maximize the naturalness and validation accuracy of our dataset, we interpret the metadata organically according to these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: For 'Indonesia', a tropical country rich in biodiversity and natural resources, the mission requires capturing data on its unique landscape. Given that 'Ecuatorial' city is not available, we describe the location using Indonesia's country name for geographic context.
+
+2. MISSION ALLOCATION PRIORITY: With a 'priority_level' of 3 (High Importance), our task's execution is framed as an "absolute institutional priority" or a "binding contract requirement", involving a "critical payload capture" or a "mandatory directive". The language heavily implies an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is specified as SAR (Synthetic Aperture Radar). For this mission, we interpret it as an "active radar scan" using "microwave surface imaging", capable of piercing heavy weather for "cloud-penetrating capture", providing essential data on ground geometry.
+
+4. DELIVERY DEADLINE: The task deadline has been resolved by an upstream module, scheduled for "tomorrow around mid-day". This phrase serves as the upper limit for data availability, directly inserted into our request without rephrasing or alteration.
+
+Taking all these guidelines into account, here is the request:
+
+---
+
+**Request**
+
+Given the operational context outlined in the JSON metadata, this request is issued with the utmost urgency and importance, framed as an "absolute institutional priority". Our target is located within Indonesia, an area of strategic interest for comprehensive observation and data collection due to its diverse environmental conditions.
+
+Utilizing a SAR sensor with its capabilities in "microwave surface imaging", we aim to conduct an "active radar scan" that will provide essential data on ground geometry, offering insights into critical infrastructure, natural resources, and environmental features that are obscured by dense cloud cover or weather conditions. This mission is prioritized as a "binding contract requirement," indicating its absolute necessity and the un-preemptable nature of the task.
+
+Given the delivery deadline scheduled for "tomorrow around mid-day", we emphasize the need for timely execution to ensure that the data captured meets the high standards required for operational decision-making and policy formulation. The specifics of this mission have been designed to be executed under baseline parameters and standard procedures, reflecting its "normal operational status" within the ongoing pipeline tracking setup.
+
+---
+
+This request encapsulates the essence of our mission allocation process, tailored to reflect the priority level, sensor objectives, geographic context, and deadline in a manner consistent with the provided guidelines.

@@ -1,0 +1,11 @@
+Given the operational guidelines and the target task context JSON provided, we are tasked with capturing a highly realistic, naturalistic English request for an Earth-observation mission allocation. Our focus is on translating raw physical simulation metadata into a single, comprehensive request.
+
+Our geographic context involves a location in Colombia, specifically Vista Hermosa, offering a unique landscape for our observation needs. We shall not include technical tags, underscores, or coordinate arrays, opting instead to describe the area through realistic combinations of the provided details from 'location_details'. The 'country', 'city', and 'landmark' fields have been combined naturally to provide a vivid picture of the setting we aim to observe.
+
+In terms of mission allocation priority, our current task is categorized as Priority 1 (Low Importance). This means that it should be framed in a casual tone with a flexible schedule for opportunistic capture. We are to treat this as a 'low priority importance' request with a 'flexible schedule', considering it a 'background survey' or 'testbed tracking task'. It is important to note that we will not mention raw priority numbers or technical priority levels, instead emphasizing the 'non-essential background filler task' nature of our request.
+
+Our sensors and physical objectives specify that the primary sensor used will be VNIR, focusing on Multispectral Vegetation Analysis. This will allow us to assess Chlorophyll Absorption Levels and calculate the Vegetation NDVI Index and Surface Reflectance, providing valuable insights into plant health and environmental conditions in Vista Hermosa.
+
+The delivery deadline for this task is set as 'tomorrow in the evening'. This phrase must be included verbatim in our request, serving as the upper limit for data availability without rephrasing, shortening, or altering its timing to a different part of the day.
+
+In summary, our Earth-observation mission aims to collect multispectral vegetation analysis data for Vista Hermosa, Colombia, with a flexible schedule for opportunistic capture during the evening tomorrow. The imagery will help assess plant health and environmental conditions, contributing to background surveys and testbed tracking tasks with no urgent operational execution or un-preemptable mission lock required.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner with a single, highly realistic and conversational English request that maximizes the naturalness and validation accuracy of the dataset. We are focusing on a task of medium importance (Priority 2) that involves capturing Indonesia's beautiful yet complex landscape. Specifically, our target area is Malinau, a city within the country's lush tropical region.
+
+The mission allocation priority level reflects our standard operational status or baseline pipeline tracking setup. The request is framed as a "standard operational tasking" part of our regular workflow updates with "fixed parameters", representing our normal operational status.
+
+Our primary sensor for this task is an Active Synthetic Aperture Radar (SAR), which allows us to perform an active radar scan of the region using microwave surface imaging. This technology provides invaluable insights by piercing through heavy weather conditions, enabling us to capture ground geometry and terrain features with unprecedented accuracy. 
+
+The geographical context of our mission is clearly defined as Indonesia, a country known for its diverse topography. Despite Malinau being our main focus, we consider the broader Indonesian landscape when interpreting location details within our request.
+
+Our deadline is set for "the day after tomorrow overnight", as determined by an upstream module, and this phrase must be included verbatim in our request to denote the upper limit for data availability. We are not concerned with raw UTC timestamps or digits; instead, we prioritize clear communication of our mission objectives.
+
+In summary, our task request is a standard operational mission involving the acquisition of high-resolution SAR imagery from Indonesia's Malinau region overnight. The task is categorized as medium importance, aligning with our baseline pipeline tracking setup and reflecting normal operational status. Our primary sensor, Active Synthetic Aperture Radar (SAR), will enable us to perform cloud-penetrating captures and provide detailed ground geometry information essential for various applications such as infrastructure development and environmental monitoring.
