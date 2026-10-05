@@ -1,0 +1,9 @@
+In accordance with our operational guidelines for translating raw physical simulation metadata into conversational English requests, let's now contextualize and present this task:
+
+We are to observe a location identified as Betulia, situated in the country of Colombia. This observation will be conducted using the VNIR sensor, aiming for multispectral vegetation analysis. This mission is classified as low importance ("Priority 1"), with the request explicitly noting a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+As we move forward with this task allocation, we will adhere to our established operational practices. Specifically, Betulia's geographical context requires minimal description beyond its country identification due to the lack of city and landmark details provided in the JSON metadata. The mission's primary objective is to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance, employing multispectral analysis techniques.
+
+The deadline for this task has been resolved by an upstream module, stipulating data availability within "in four days overnight". This phrase is to be included verbatim in the request without rephrasing or modification. As with all tasks classified under "Priority 1", it holds a flexible schedule for opportunistically capturing essential information.
+
+This concludes our translation and interpretation of the JSON metadata into a comprehensible, conversational English request for the satellite constellation planner's mission allocation system. The request is now ready to be executed according to the guidelines set forth in our operational protocol.

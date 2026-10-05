@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm here to translate the raw physical simulation metadata into a highly realistic and conversational English request. Here's the context:
+
+Our objective is to capture detailed information about "Primorsko-goranska županija", a region in Hrvatska, focusing on vegetation health with the VNIR sensor during the specified mission allocation priority.
+
+Given the 'priority_level' set at 1, this task holds low importance and requires a flexible schedule for opportunistic capture. It's classified as a "non-essential background filler task" within our operational setup, treating it as a "background survey" where we can conveniently drop or reschedule at our convenience.
+
+The primary sensor specified is the VNIR, which will be used for "multispectral vegetation analysis". This involves assessing the chlorophyll absorption level across the region and calculating the vegetation NDVI index along with surface reflectance data. The goal here is to understand the health and distribution of plants without being tied to any specific deadline or countdown metrics.
+
+The target day is set as 'tomorrow', during the afternoon period, which translates directly into our request without any alterations. This deadline serves as a clear upper limit for data availability, ensuring that we complete this task by the time specified.
+
+Let's formulate the request accordingly:
+
+"Primorsko-goranska županija in Hrvatska requires a low-priority task focused on vegetation health assessment using the VNIR sensor during the afternoon of tomorrow. This task, classified as a 'background survey', will help us understand plant distribution and health without any specific deadline constraints. We aim to capture data related to chlorophyll absorption levels, calculate NDVI indices and observe surface reflectance patterns for better plant management strategies."
+
+That's our task context translated into a natural conversation, ready for execution with the automated satellite constellation planner.
