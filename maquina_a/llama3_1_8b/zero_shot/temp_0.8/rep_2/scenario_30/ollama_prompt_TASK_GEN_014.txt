@@ -1,0 +1,18 @@
+Translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Translate this JSON:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Argenta"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+into a natural user request using the provided operational guidelines. 
+
+Output only one block delimited by triple backticks with the language tag `prompt` containing your response.

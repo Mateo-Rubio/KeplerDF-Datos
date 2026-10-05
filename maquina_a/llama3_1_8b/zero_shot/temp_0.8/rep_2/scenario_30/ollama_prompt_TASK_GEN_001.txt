@@ -1,0 +1,15 @@
+Translate the following raw metadata into a conversational English request for the automated satellite constellation planner: 
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Sabana de Torres"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+The request is to perform a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the Colombian region, specifically the city of Sabana de Torres. This is an absolute institutional priority, requiring a critical payload capture and mandatory directive with an urgent operational execution and un-preemptable mission lock.
+
+The data products must be delivered by in four days in the morning at the latest to meet the baseline pipeline tracking requirements with fixed parameters representing normal operational status or a standard workflow update.
