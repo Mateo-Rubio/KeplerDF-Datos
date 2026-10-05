@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To effectively translate the provided metadata into a natural English request, I'll work through the guidelines and details given.
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for when the data must be delivered and specifies that this is not just an orbital capture window but the absolute time by which the mission must be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This denotes the specific time of day when the task should be performed, aligning with natural daylight conditions for optimal sensor performance.
+
+c) The single word contained in that string from the provided options is "morning." This detail needs to be directly included in the final request to indicate when the task should occur during the day.
+
+d) I confirm that the deadline remains fixed at this specified time—three days from now, in the morning. There is no intention or allowance for shifting this deadline to any adjacent part of the day, as doing so would alter the mission's strict operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking to conduct a multispectral vegetation analysis over the region of Norte using VNIR sensors. This task involves assessing the chlorophyll absorption level and calculating a vegetation NDVI index. The task is part of our baseline pipeline tracking setup and has fixed parameters representing normal operational status. Please ensure that data delivery is completed in three days, specifically in the morning, to maintain alignment with our established workflow update protocols.

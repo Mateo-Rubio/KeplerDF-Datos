@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today". This means the task must be completed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This indicates that the satellite should capture data during nighttime.
+
+c) The single word contained in "overnight" that must appear literally in the final request is "overnight". This specifies the time frame for capturing the imagery.
+
+d) The deadline specified by the 'target_day' and 'target_diurnal_period' is indeed set for "today" and "overnight". Therefore, there is no shifting of the deadline to an adjacent part of the day. The task must be completed within these specified parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a flexible schedule for an opportunistic capture in Northern Italy using multispectral vegetation analysis. This low-priority importance task should focus on assessing chlorophyll absorption levels and calculating a vegetation NDVI index. The imagery should be captured today, specifically during the overnight period, allowing for flexibility in scheduling or rescheduling as needed.

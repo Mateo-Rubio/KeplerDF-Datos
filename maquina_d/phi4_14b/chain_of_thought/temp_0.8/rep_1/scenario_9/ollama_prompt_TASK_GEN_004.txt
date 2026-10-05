@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a clear and specific deadline for when the data products are expected.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the observations should be captured.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon." This word must appear literally in the final request to ensure clarity about the timing of the data capture.
+
+d) It's important to confirm that the deadline is not being shifted. The specified diurnal period is "during the afternoon," and there is no indication or reason to adjust this timeframe to another part of the day. The task must adhere strictly to the given deadline without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority for a mission over Colombia, specifically targeting the city of San Martín. This task involves a critical payload capture using thermal mapping capabilities to generate a heat signature or surface temperature profile. It is imperative that this data be collected on the day after tomorrow during the afternoon. This request carries a binding contract requirement and is an un-preemptable mission lock, necessitating urgent operational execution.
