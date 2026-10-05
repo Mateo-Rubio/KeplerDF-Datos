@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves analyzing metadata from a JSON input to generate a conversational English request for an Earth-observation mission. 
+
+**a)** The exact string found in the 'target_day' key is "tomorrow." This indicates when the observation data should be delivered.
+
+**b)** For the 'target_diurnal_period', the exact string provided is "overnight." This specifies when during the day the observation should occur, focusing on the time frame rather than a specific moment.
+
+**c)** The word contained in the 'target_diurnal_period' that matches one of the given options is "overnight." This particular period is crucial for our understanding as it signifies when the satellite will capture the data, which is during the night hours.
+
+**d)** It's essential to confirm that we are not shifting the deadline to an adjacent part of the day. The deadline is strictly set to "tomorrow overnight," which means the data collection should happen during the nighttime hours of the next day without any alterations or adjustments to this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority request for an opportunistic capture over San José del Guaviare, Colombia. We are interested in utilizing near-infrared reflection capabilities to map water body boundaries and assess soil moisture levels, offering insights into the region's hydrological conditions. Given its status as a non-essential background filler task, we kindly ask that this observation be scheduled flexibly, allowing for dropping or rescheduling at your convenience. The deadline for this request is set for "tomorrow overnight," aligning with the operational requirement to capture data during the night hours without any adjustments to this timeline. This mission aims to enhance our understanding of environmental dynamics in a non-urgent manner, contributing valuable data as part of our broader ecological survey efforts.

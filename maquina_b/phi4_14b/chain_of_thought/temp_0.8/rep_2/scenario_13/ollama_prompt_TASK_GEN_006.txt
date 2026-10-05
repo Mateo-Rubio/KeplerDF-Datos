@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in the 'target_diurnal_period' string is "mid-day". This word must appear literally in the final request.
+
+d) The instruction specifies that the temporal parameters represent a strict operational deadline to deliver data products. There is no indication or permission to shift this deadline to an adjacent part of the day. Therefore, we must adhere strictly to capturing the data around mid-day as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to perform a routine monitoring task over Sarolangun, Indonesia, focusing on near-infrared reflection for water body boundary mapping and soil moisture assessment. This is a standard operational tasking in our baseline pipeline tracking setup with fixed parameters. The operation should be completed in three days around mid-day, aligning with our normal workflow update requirements.

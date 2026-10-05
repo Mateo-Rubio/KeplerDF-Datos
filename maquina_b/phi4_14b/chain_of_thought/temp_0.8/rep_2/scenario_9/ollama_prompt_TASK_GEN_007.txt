@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specifies the timeline for when the task needs to be executed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This indicates the specific time of day during which the data collection should occur.
+
+c) The single word contained in that string is "afternoon." This term will be used directly in the final request to specify the timing for the task.
+
+d) The deadline, as specified, must occur on "the day after tomorrow" and specifically "during the afternoon." There is no indication or allowance within the provided metadata to shift this deadline to any other part of the day. Therefore, I must adhere strictly to these temporal parameters without any modifications.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for our satellite constellation planner involving a mission over San Gil, Colombia. This request is part of our baseline pipeline tracking and falls under routine monitoring with fixed parameters representing a normal operational status. We require a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index over this region. The collection should occur the day after tomorrow during the afternoon, adhering strictly to this deadline for data delivery.

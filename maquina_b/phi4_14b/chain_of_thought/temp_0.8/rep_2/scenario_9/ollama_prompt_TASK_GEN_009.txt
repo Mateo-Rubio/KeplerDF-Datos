@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This string should be used verbatim in the final request.
+
+b) The exact string present in 'target_diurnal_period' is "around mid-day". This, too, should be used verbatim in the final request.
+
+c) Within the phrase "around mid-day", the single word that needs to appear literally in the final request is "mid-day".
+
+d) Given the requirement to not shift the deadline, we need to confirm that "mid-day" is the specified part of the day. The instruction explicitly states "around mid-day," which means the observation should occur at that time without adjustment.
+
+With these confirmations, we proceed to STAGE 2 with the understanding that the observation is required precisely in three days at mid-day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule for an opportunistic capture of thermal mapping in Indonesia, specifically around the area of Ecuatorial. This request is considered a low priority importance task where we aim to obtain a heat signature or surface temperature profile using thermal imaging. The deadline for this data collection is in three days, around mid-day, and operators can drop or reschedule at their convenience, treating it as a non-essential background filler task.
