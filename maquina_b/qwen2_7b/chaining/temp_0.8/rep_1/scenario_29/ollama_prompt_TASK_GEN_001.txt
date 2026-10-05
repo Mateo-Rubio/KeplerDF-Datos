@@ -1,0 +1,13 @@
+As an operator for our Earth-observation mission, I hereby submit a task request to the automated satellite constellation planner. Our objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographical context of this mission involves Colombia, a country known for its vibrant culture and stunning landscapes. Specifically, our attention will be directed towards Uribe city, a location that promises rich ecological and geological features to be explored through satellite imagery.
+
+Given the nested 'location_details' in the JSON, we can describe Uribe as a part of Colombia with an emphasis on providing a detailed context rather than relying on technical system tags or coordinate arrays. Combining elements like country, city, and landmark helps us achieve this level of naturalness.
+
+The mission allocation priority is set at Level 1, which categorizes it as a low importance request. We will frame this task as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The operator explicitly notes that this task can be dropped or rescheduled at convenience, treating it as a "background survey" or "testbed tracking task".
+
+Our primary sensor choice is SAR (Synthetic Aperture Radar), which has been selected due to its operational capabilities. In this context, the goal is to conduct an "active radar scan" utilizing "microwave surface imaging". The purpose is to capture ground geometry, especially in conditions where clouds or heavy weather might interfere with optical observations.
+
+The timing details provided are crucial for this mission. We are targeting a delivery deadline in three days in the morning, which serves as the upper limit for data availability. No raw UTC timestamps or countdown metrics will be used; instead, we emphasize the specific time frame to ensure our satellite constellation plans are synchronized accordingly.
+
+In summary, our task request for the automated satellite constellation planner translates to capturing a detailed SAR scan over Uribe, Colombia, scheduled for three days in the morning. This operational execution is characterized by an authoritative tone, reflecting the low priority importance level while adhering to standard operational status and workflow updates.
