@@ -1,0 +1,19 @@
+Return ONLY one block delimited by triple backticks with the language tag `python`.
+
+You are a data scientist instructing an AI model on how to process textual descriptions of observational tasks from Earth observation satellites. Your goal is to extract structured information and convert it into Python dictionary format for further analysis. The provided raw input includes multiple fields: 'sensor_type', 'location' (comprising both country and specific site), 'priority', 'deadline' (with actual date and time specified in the 24-hour clock format, and a clear indication of whether it is day or night), and 'objective'.
+
+Interpret these inputs with high precision to construct a Python dictionary containing keys for each required piece of information. The dictionary should follow this schema:
+
+1. SENSOR_TYPE: (Convert sensor types from their full form into acronyms but avoid commonly used scientific shorthand, such as VIS or IR)
+2. LOCATION: {Country: [], Specific Site: []} -- Here '[]' must be replaced with actual data extracted without using the input field names. If a specific site is not provided within the location details, use "Not Specified".
+3. TASK_PRIORITY: Convert into an ordinal (1st, 2nd, or 3rd) that reflects operational importance; also include a descriptor from 'High', 'Medium', or 'Low'.
+4. DEADLINE: {Time: [], Timeframe: []}, ensuring the time is in standard military format and the deadline context (e.g., "within 24 hours", "by end of day") reflects urgency without explicit timestamps.
+5. OBJECTIVE_DESCRIPTION: Use technical jargon specific to each sensor type, excluding direct acronym forms.
+
+In your final Python dictionary construction:
+- Ensure the 'Location' captures all relevant geographical data when available; else indicate absence with "Not Specified".
+- Interpret and convert task priority into an ordinal number reflecting operational importance, coupled with a plain descriptor of urgency.
+- Convert deadline information into standardized military time format as per the constraint, also embedding context about the timeliness without using exact clock times or day markers.
+- Translate sensor objectives into technical vernacular corresponding to each acronym form provided in your instructions.
+
+Here is an example input and its expected output:
