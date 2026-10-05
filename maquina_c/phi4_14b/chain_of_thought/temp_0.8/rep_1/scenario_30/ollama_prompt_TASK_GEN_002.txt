@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To translate the task context JSON into a conversational request, let's break down the components:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the deadline for capturing and delivering the data is set for the next day.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time frame within which the task should be completed on the target day.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the single word contained in "in the morning" is "morning." This word must appear literally in the final request to specify the time of day for the task execution.
+
+d) The requirement is clear that we are not allowed to shift the deadline to an adjacent part of the day. Therefore, the task must be completed specifically "in the morning" on "tomorrow," without any alteration to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for a flexible schedule, aiming for an opportunistic capture in Peroj, Croatia. This is a non-essential background filler task that can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. We seek a multispectral vegetation analysis using a VNIR sensor to assess the chlorophyll absorption level and calculate the NDVI index. Please ensure this task is executed in the morning of tomorrow, with no alterations to this deadline.
