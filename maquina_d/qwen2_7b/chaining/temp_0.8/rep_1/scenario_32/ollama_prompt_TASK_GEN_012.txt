@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+In light of this task, we aim to capture thermal anomalies using an advanced Near-Infrared (NIR) sensor. Specifically, our operational goals are to assess soil moisture and delineate water body boundaries with precision in the region of Indonesia's Murung Raya city—a location known for its unique ecological landscapes and diverse environmental challenges.
+
+Given the mission's priority level, it is classified as medium importance, indicating that this request is part of a standard operational tasking or commercial tasking. It represents our baseline pipeline tracking setup, featuring fixed parameters to ensure normal operational status without disruptions.
+
+The deadline for this task is already resolved by an upstream module, stipulating that the requested data should be available "in four days overnight." This phrase must be inserted verbatim into your request, serving as the stated upper limit for data availability. The goal is not to rephrase or shorten it and avoid adding any countdown metrics related to time.
+
+In conclusion, our request necessitates the acquisition of highly accurate thermal mapping data using a Near-Infrared sensor over the Murung Raya region in Indonesia, focusing on soil moisture assessment and water body boundary mapping. This data collection is essential for maintaining baseline pipelines and operational status while adhering to the predefined priority level and deadline.

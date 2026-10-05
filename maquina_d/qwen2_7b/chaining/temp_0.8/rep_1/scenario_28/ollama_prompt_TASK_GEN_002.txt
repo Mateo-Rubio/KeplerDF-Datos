@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata into a highly realistic, conversational English request. The primary sensor specified is VNIR, which will be used for multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the vegetation NDVI index.
+
+Given that we are focusing on the 'Norte' region, which lacks specific details on country, city, or landmark, our interpretation naturally combines the information available, leading us to describe the target location by simply mentioning 'Norte', a common name for many geographical areas.
+
+With the priority level set at 1 (low importance), this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. The language adopts a casual tone, treating it as a background survey or testbed tracking task.
+
+The delivery deadline has been resolved by an upstream module and is set for "tomorrow during the afternoon". This phrase will be inserted verbatim into the request to denote the upper limit for data availability.
+
+In conclusion, our task request translates the provided metadata into a human-readable format that communicates the objectives of the VNIR sensor mission, location details, priority level, and deadline in an easy-to-understand manner. The translation adheres to the guidelines for geographic context interpretation, mission allocation priority integration, sensors and physical objectives explanation, and deadline mention.
