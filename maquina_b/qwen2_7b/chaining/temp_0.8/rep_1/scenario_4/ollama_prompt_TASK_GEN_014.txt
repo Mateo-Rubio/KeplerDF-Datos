@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic request for our automated satellite constellation planner. The given JSON data points are:
+
+### GEOGRAPHIC CONTEXT
+We are tasked with capturing imagery of a location within the "Italia" region, specifically focusing on the northern part known as "Norte". To create a natural description, we combine information from "location_details", which includes country, city, and landmark fields. However, if any of these are unavailable or marked as "N/A", we proceed using the 'region_name' field.
+
+### MISSION ALLOCATION PRIORITY
+The priority level set for this mission is 3, indicating an "absolute institutional priority". This translates to an "urgent operational execution" with "un-preemptable mission lock". We must convey this importance in a commanding tone, framing it as a "critical payload capture", where specific operational phrases reflect the structure's hierarchy.
+
+### SENSORS AND PHYSICAL OBJECTIVES
+The primary sensor used is identified as TIR, which aims to gather data for "thermal mapping". This process enables us to capture a "heat signature" or assess "surface temperature profiles", crucial for "thermal anomaly detection". We emphasize the significance of this task in observing heat emissions and identifying potential hotspots.
+
+### DELIVERY DEADLINE
+The deadline stipulated for this task is "in three days overnight", which sets a clear boundary for the upper limit of data availability, without rephrasing or altering it.
+
+Putting it all together:
+
+To maximize naturalness and validation accuracy, we must interpret these metadata organically based on operational guidelines. Combining the geographic context with a sense of urgency as indicated by priority level 3, alongside translating sensors into relevant physical phenomena like "thermal mapping" for TIR, we aim to deliver a request that meets all necessary criteria without using raw technical system tags or coordinate arrays.
+
+The final request is thus:
+
+---
+
+As an absolute institutional priority (Priority Level 3), our mission focuses on capturing the heat signature of a location within the Italia region, specifically in the northern part known as Norte. This critical payload capture demands un-preemptable execution and is of paramount importance in observing thermal anomalies through thermal mapping. Utilizing TIR technology, we aim to gather data for assessing surface temperature profiles and identifying potential hotspots. This task must be executed "in three days overnight" to ensure timely availability of the data. 
+
+---
+
+This paragraph encapsulates our request for the satellite constellation planner, maintaining clarity and natural language while adhering to operational guidelines and technical requirements.

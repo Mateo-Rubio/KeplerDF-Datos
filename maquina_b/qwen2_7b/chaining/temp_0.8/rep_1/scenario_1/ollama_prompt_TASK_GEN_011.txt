@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata from JSON format into a highly realistic and conversational English request. 
+
+We're focusing on capturing data for the region named "Italia", with a specific city target being "Grottaferrata". The operational guidelines guide us in crafting this request:
+
+1. GEOGRAPHIC CONTEXT: Combining the location details naturally, we describe Grottaferrata as part of Italia's vibrant landscape, mentioning its significance without using raw technical tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: Since our priority level is set to 1 (low importance), this task is framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The operator explicitly notes that the mission can be "dropped or rescheduled at convenience", treating it as a "background survey".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Given the primary sensor to be "SAR", our request explains the goal of capturing an "active radar scan" using "microwave surface imaging". We emphasize its importance for "cloud-penetrating capture" and providing "piercing visibility through heavy weather" as well as capturing ground geometry.
+
+4. DELIVERY DEADLINE: The specific deadline is set for "tomorrow during the afternoon", which represents the upper limit for data availability, ensuring we adhere to this fixed metric without rephrasing or altering it.
+
+Taking all of these factors into account, our task request to the automated satellite constellation planner should be formulated as follows:
+
+"Translate and optimize the raw physical simulation metadata provided into a highly realistic and conversational English request. The geographic context is Italia with a focus on Grottaferrata. The mission allocation priority reflects low importance, allowing for a flexible schedule with opportunistic capture considerations. The primary sensor is SAR for active radar scans using microwave surface imaging to ensure cloud-penetrating capture and ground geometry observation. The deadline is set for tomorrow during the afternoon, adhering strictly to this fixed metric without any rephrasing or alteration."
+
+Let's proceed with translating this request into action.
