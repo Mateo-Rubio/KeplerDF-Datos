@@ -1,0 +1,30 @@
+We need a highly realistic and conversational English request to translate the given raw physical simulation metadata into a single, high-quality request.
+
+To interpret the metadata, consider the following guidelines:
+
+1. Geographic Context: 
+   - Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. Mission Allocation Priority:
+   - Use specific operational phrases to reflect the priority level:
+     * Priority 3: "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive".
+     * Priority 2: "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+     * Priority 1: a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3. Sensors and Physical Objectives:
+   - Naturally weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed:
+     * VNIR: Explain the goal as a "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+     * VIS: Explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+     * SAR: Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+     * TIR: Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+     * NIR: Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4. Relative Timeframes:
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
+     * "...needed by [target_day] [target_diurnal_period] at the latest."
+     * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+     * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+Here's an example of a natural user request:
+
+"Please arrange for a multispectral vegetation analysis using VNIR over the region of Oderzo, Italy. This is a low-priority importance request with a flexible schedule for opportunistic capture. We need the data by the day after tomorrow in the morning at the latest."
