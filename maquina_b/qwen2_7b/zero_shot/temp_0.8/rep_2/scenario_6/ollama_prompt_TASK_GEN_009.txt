@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a single, highly realistic and conversational English request. Our objective is to achieve a dataset with maximum naturalness and validation accuracy, adhering to operational guidelines.
+
+Given the context:
+Region: Indonesian Ecuatorial City (with "N/A" for specific country details)
+Sensor Objective: VNIR for Multispectral Vegetation Analysis to Assess Chlorophyll Absorption Level
+Mission Allocation Priority: Low Importance, as indicated by Priority 1
+Temporal Parameters: Needed by Tomorrow's Evening at the Latest
+
+The natural user request is formulated accordingly:
+
+---
+
+Good day! I'm tasked with delivering low priority importance data that involves a multispectral vegetation analysis using VNIR technology. This study aims to assess the chlorophyll absorption levels for plant health monitoring and NDVI index calculations.
+
+Our target region focuses on the Indonesian Ecuatorial City, where we're seeking daylight photography quality images to provide clear optical imagery for the analysis. The mission is categorized under a flexible schedule for opportunistic capture, which aligns with our background survey task.
+
+The deadline for this data product is set for tomorrow's evening, marking an upper limit to ensure the products are ingested into our pipeline before the specified time. I will prioritize delivering this dataset efficiently and on time without altering or extending the deadline.
+
+---
+
+This request encapsulates the operational context, blending technical insights with natural language tailored to fit the guidelines provided.
