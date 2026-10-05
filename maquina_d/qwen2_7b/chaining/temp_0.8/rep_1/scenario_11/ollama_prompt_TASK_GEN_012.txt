@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I hereby request the automated satellite constellation planner to allocate resources for a standard operational tasking involving an active radar scan using microwave surface imaging. Our objective is to capture cloud-penetrating imagery of the region named "Indonesia" and the city described as "Ecuatorial". This mission allocation carries medium importance due to its role in our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Given that the deadline for this task has been set for tomorrow overnight, we emphasize the need to ensure that thermal mapping is conducted efficiently to capture heat signatures and surface temperature profiles. This is crucial for thermal anomaly detection and understanding heat emissions from various sources within the targeted area.
+
+The use of active radar allows us to pierce through heavy weather conditions, providing us with essential ground geometry data even when optical visibility is compromised by cloud cover or precipitation. Our primary focus on this task involves navigating the complexities of weather patterns while securing comprehensive data for future analysis and decision-making processes.
+
+To align with our operational guidelines, we will not mention raw technical system tags, underscores, or coordinate arrays in our final request. Instead, we will describe the location using a realistic combination of country, city, and landmark fields from 'location_details'. If country, city, or landmark are "N/A", we will describe the location using the remaining valid fields or the clean 'region_name'.
+
+This request is part of a standard workflow update, contributing to our routine monitoring efforts without compromising the flexibility of our schedule. We acknowledge that this task may be treated as a low priority importance request, allowing for a flexible schedule and "drop or reschedule at convenience" option for non-essential background filler tasks.
+
+As per the operational guidelines provided, we have integrated specific phrases to reflect the structural hierarchy of mission allocation priorities, emphasizing that priority 2 indicates standard operational tasks involving normal operational status. We are confident in our planning process and trust that this request meets all requirements set forth by our upstream module, allowing for timely data availability by tomorrow overnight.
+
+Thank you for your attention to this matter.
