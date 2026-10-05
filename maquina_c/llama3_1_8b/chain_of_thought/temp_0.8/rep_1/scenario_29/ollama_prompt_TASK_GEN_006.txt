@@ -1,0 +1,14 @@
+Here's the reasoning stage:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. The original temporal parameters specify a strict operational deadline to deliver the data products, and I am including the exact strings as provided without altering or reinterpreting them.
+
+Now, moving on to STAGE 2:
+
+```prompt
+Please task the satellite with conducting a thermal mapping operation to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions using the thermal infrared sensor. The location of interest is Indonesia, specifically the city of Bontang. This operation has low priority importance and should be treated as a non-essential background filler task with a flexible schedule for opportunistic capture. The deadline for delivering the data products is in three days, and it's essential that the operation takes place in the evening.

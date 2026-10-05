@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day". This word will be used verbatim in the final request.
+
+d) No, the deadline is not being shifted to an adjacent part of the day. The target diurnal period is specified as "around mid-day", which implies a window of time rather than a fixed hour, and the target day is already specified as four days from now, without any indication of adjusting the timing of the request.
+
+STAGE 2 - FINAL REQUEST
+
+Tasking for SAR active radar scan mission: We require an absolute institutional priority to capture a high-resolution microwave surface imaging snapshot around mid-day in four days, with a focus on cloud-penetrating capture and ground geometry mapping. This tasking is part of our standard operational tasking and commercial tasking, representing a binding contract requirement for mandatory directive execution.

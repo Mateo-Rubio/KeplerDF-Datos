@@ -1,0 +1,15 @@
+I'll break down the task context JSON according to the guidelines.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening".
+
+d) Upon reviewing the JSON, I confirm that there is no indication to shift the deadline to an adjacent part of the day. The deadline remains strictly tied to tomorrow.
+
+STAGE 2 - FINAL REQUEST
+
+We require a high-resolution optical snapshot for daylight photography at a critical location. The task involves observing the Norte region in Italia and capturing a clear optical imagery using our primary sensor, VIS, with an absolute institutional priority as it is a binding contract requirement involving a critical payload capture. The data products are due tomorrow in the evening.

@@ -1,0 +1,14 @@
+Let's go through Stage 1.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word that appears literally in the final request is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline, and the word "morning" is already specified in the 'target_diurnal_period' key.
+
+Let's proceed to Stage 2.
+
+```prompt
+We require a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The commercial tasking will be focused on high-resolution optical snapshot day photography over Indonesia, specifically in the Solok area. We are expecting the task to be executed within the next four days, preferably in the morning. This is a standard operational tasking and should be treated as such with no special priority or urgency attached to it.

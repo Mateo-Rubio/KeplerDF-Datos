@@ -1,0 +1,12 @@
+Let's break down the JSON metadata according to the provided guidelines.
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning". This word will be used verbatim in the final request.
+
+d) According to the guidelines, we must not shift the deadline to an adjacent part of the day. Since the original target day is "the day after tomorrow", it already refers to a specific day, and we will preserve this temporal context in our final request.
+
+STAGE 2 - FINAL REQUEST
+We require a flexible schedule for opportunistic capture of near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. This low priority importance request should be treated as a background survey or testbed tracking task, where we can drop or reschedule at convenience. The target dataset should be captured in the morning of the day after tomorrow.
