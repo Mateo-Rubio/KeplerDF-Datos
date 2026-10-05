@@ -1,0 +1,17 @@
+STAGE 1 - REASONING:
+
+a) The exact string present in 'target_day' is: "tomorrow".
+
+b) The exact string present in 'target_diurnal_period' is: "in the morning".
+
+c) The single word contained within that string, which must appear literally in the final request, is: "morning".
+
+d) As stated in step (d), there is no shifting of the deadline to an adjacent part of the day. The deadline is precisely defined as 'tomorrow in the morning', thus not being moved or adjusted.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and interpreting the metadata provided, we are tasked with capturing a high-resolution optical snapshot tomorrow morning over Restrepo, Colombia using SAR technology. The primary objective involves an active radar scan to perform cloud-penetrating capture for detailed ground geometry mapping, essential for baseline pipeline tracking in our standard workflow setup with fixed parameters representing normal operational status.
+
+This request carries a low priority importance and is treated as a non-essential background filler task, where the operator notes to drop or reschedule at convenience as it represents a flexible schedule for opportunistic capture. The goal is to map surface temperatures through thermal mapping, searching for heat signatures and anomalies within the context of thermal anomaly detection and mapping heat emissions.
+
+The deadline is strict and represents the operational deliverable date and time for this data product — precisely tomorrow morning over Restrepo, Colombia — adhering strictly to this deadline without altering it.

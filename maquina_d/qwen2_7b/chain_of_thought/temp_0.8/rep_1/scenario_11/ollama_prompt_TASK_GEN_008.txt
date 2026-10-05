@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string that must appear literally in your final request is "evening".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as "tomorrow evening" as given in the JSON metadata.
+
+STAGE 2 - FINAL REQUEST
+
+To ensure the timely delivery of critical radar data products, our Earth-observation mission operator requires an active microwave surface scan tailored to capture the unique geometry of the region in the heart of Rome, Italy. This operational tasking is prioritized at level 2, indicating a standard operational tasking with fixed parameters and normal operational status within our baseline pipeline tracking setup.
+
+As part of this request, we aim to acquire "cloud-penetrating" radar imagery of the "Roma landscape", emphasizing the need for an evening capture when atmospheric conditions are most favorable for surface detail extraction. This deadline is not negotiable as we are bound by a contractual obligation requiring us to deliver the data products by tomorrow evening.
+
+The SAR mission will be executed using high-performance satellite assets, focusing on intricate radar patterns that unveil hidden ground structures and urban features, illuminating aspects of Rome's topography that may not be visible in daylight. This request underscores a routine monitoring requirement within our operational framework, with the goal of maintaining continuous surveillance over specific areas deemed important for strategic planning and operational considerations.
+
+In summary, our Earth-observation mission operator requests an evening SAR scan over the "Italia-Roma" region to capture essential details for an absolute institutional priority without altering or extending the deadline beyond "tomorrow evening", ensuring the acquisition of high-resolution imagery that will contribute to ongoing monitoring activities and strategic decision-making processes.
