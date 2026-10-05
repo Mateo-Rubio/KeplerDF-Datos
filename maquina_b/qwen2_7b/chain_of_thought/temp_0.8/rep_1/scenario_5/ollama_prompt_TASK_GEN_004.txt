@@ -1,0 +1,12 @@
+STAGE 1 - REASONING:
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string that corresponds to a part of the day is "afternoon".
+d) The deadline is specified as "tomorrow during the afternoon", which means no shifting or altering of the operational time frame; thus, no change is made to the deadline.
+
+STAGE 2 - FINAL REQUEST:
+In the operational context for tomorrow afternoon, our priority task involves using the VNIR sensor for a crucial low-importance monitoring activity in Colombia. Specifically, we will capture essential data at the city of Cumaral, aiming to assess vegetation conditions by analyzing the chlorophyll absorption levels and calculate the NDVI index while mapping surface reflectance in this high-resolution optical snapshot.
+
+We are executing this task as a non-essential background filler task with flexible scheduling, treating it as an opportunistic survey or testbed tracking task. Given that our main priority does not necessitate urgent operational execution or an un-preemptable mission lock, there is no expectation for an immediate turnaround; instead, the data collection will proceed as part of a normal operational status or baseline pipeline tracking setup, characterized by fixed parameters that represent standard workflow updates.
+
+It is imperative to note that although the context indicates a specific deadline ("tomorrow during the afternoon"), this refers strictly to the time at which the data products must be delivered. No adjustments are made to this deadline; the satellite constellation planner should ensure that the satellite captures the desired imagery within these hours to meet our operational requirements.
