@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the mission's deadline for delivering the data products, and it specifies when this task should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This informs us about the specific time of day the satellite capture should occur, ensuring the data aligns with the desired temporal conditions.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "morning" is contained in the 'target_diurnal_period' string. This word must appear literally in the final request, indicating when the capture should take place within that timeframe.
+
+d) There's no indication in the metadata to suggest shifting the deadline to another part of the day. The task requires the satellite to capture data "in the morning" and by "in three days", adhering strictly to these specified temporal parameters without modification or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task that offers a flexible schedule for an opportunistic capture, specifically regarding the city of Arezzo in Italy. This request is treated as a non-essential background filler task, and it should be noted that it can be dropped or rescheduled at convenience. The objective is to conduct an active radar scan using microwave surface imaging, which is ideal for cloud-penetrating capture. This involves capturing ground geometry, even under challenging weather conditions. The deadline for this data product delivery is set "in three days" and should occur "in the morning."

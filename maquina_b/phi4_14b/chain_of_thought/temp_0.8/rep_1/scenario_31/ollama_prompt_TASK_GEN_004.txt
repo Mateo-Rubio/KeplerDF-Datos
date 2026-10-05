@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON provided contains several important parameters that we need to interpret and translate into a natural language request.
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "afternoon" is contained in the 'target_diurnal_period' string. This will be used literally in the final request.
+
+d) It's essential to maintain the deadline as specified without shifting it to a different part of the day. The instruction is to deliver the data by "in three days, during the afternoon," and this timeframe is critical for operational purposes. Therefore, I must adhere strictly to this deadline and not adjust or reinterpret it.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request an opportunistic satellite capture over La Chapa, Colombia, focusing on water body boundary mapping or soil moisture assessment using near-infrared reflection. This task is of low priority importance, with a flexible schedule for opportunistic capture. Please consider this a non-essential background filler task and feel free to drop or reschedule it at your convenience. The deadline for data delivery is in three days, during the afternoon.
