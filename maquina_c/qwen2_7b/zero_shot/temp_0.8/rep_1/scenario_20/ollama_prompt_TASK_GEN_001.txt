@@ -1,0 +1,7 @@
+We are submitting a mission allocation request with medium importance for the Colombian region, focusing on the city of San Carlos de Guaroa. The primary sensor required is the VNIR system, which will be used to conduct multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index for environmental monitoring purposes.
+
+The objective is to capture a high-resolution optical snapshot, akin to daylight photography and true-color visual documentation, providing clear optical imagery that aids in the assessment of agricultural conditions and land use across the region. This task serves as an integral part of our baseline pipeline tracking setup, featuring standard parameters representing normal operational status.
+
+Given the deadline set for this task, we need to ensure that all data products are ingested into the pipeline by the latest by [target_day] [target_diurnal_period], where the target_day is defined as being three days from now and the target_diurnal_period corresponds to the overnight timeframe. This means our data must be ready by tomorrow's nightfall, adhering strictly to the deadline constraints imposed.
+
+This task is a standard operational tasking with fixed parameters that encompass routine monitoring activities, essential for maintaining a comprehensive view of environmental conditions in San Carlos de Guaroa and supporting ongoing research efforts in the region.
