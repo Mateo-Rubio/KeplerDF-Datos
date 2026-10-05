@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "in four days".
+b) The exact string in 'target_diurnal_period' is: "overnight".
+c) The word contained in that string which must appear literally in the final request is: "overnight".
+d) I confirm that this deadline is not being shifted to an adjacent part of the day; it is specified as an overnight period starting four days from now.
+
+STAGE 2:
+
+Given these operational guidelines and the provided JSON metadata, the Earth-observation mission operator's request can be formulated as follows:
+
+"An urgent institutional priority has been identified for a tasking within our automated satellite constellation planner system. The primary sensor requirement involves using the VNIR for high-resolution optical photography overnight in four days. This is a critical payload capture that involves an active and detailed night-time scan of 'Greve in Chianti', Italy, utilizing daylight photography capabilities that are essential to our baseline pipeline tracking setup. The execution should be performed with absolute authority and prioritization as this request pertains to normal operational status and contractual obligations."
+
+This request encapsulates the specific details provided within the JSON metadata while adhering to the outlined guidelines for geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.

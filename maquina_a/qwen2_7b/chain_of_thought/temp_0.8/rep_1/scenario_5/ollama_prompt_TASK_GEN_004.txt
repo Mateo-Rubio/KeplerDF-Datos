@@ -1,0 +1,12 @@
+STAGE 1 - REASONING:
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+As per our institutional guidelines, this request for data capture is marked as low priority importance ("priority level 1"). It entails a low-impact tasking that involves a flexible schedule, with no need for urgent operational execution. This task utilizes a VNIR sensor during an afternoon session ("target_diurnal_period") on the day following today ("target_day"). The mission's objective is to conduct a routine monitoring exercise aimed at gathering a high-resolution optical snapshot, which will provide clear visual documentation capturing the essence of daylight photography.
+
+The geographical context for this data acquisition is set in Colombia, specifically focusing on the city of Cumaral. This is a standard operational tasking, part of our baseline pipeline tracking setup. Our goal here is to assess chlorophyll absorption levels and calculate a vegetation NDVI index through multispectral analysis using the VNIR sensor, with attention given to both the surface reflectance and any potential vegetation health indicators.
+
+This dataset will not require immediate processing or dissemination following capture; hence it may be scheduled for opportunistic data collection. The operator has been instructed to drop or reschedule this task at their convenience without compromising the overall workflow update status. The deadline for delivering the data products is strictly defined as tomorrow afternoon, and we must adhere to this timeframe without altering or extending it.
