@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the data capture needs to occur on the day following today, without specifying an exact date.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time frame during which the satellite should capture data, suggesting the operation occurs during nighttime hours.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight".
+
+d) The deadline specified as "overnight tomorrow" should not be shifted to any other part of the day. This means the data collection must occur during the night on the day after today, and it should not be adjusted to morning or any other time.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance task targeting Paimadó, Colombia. The goal is to capture thermal mapping for surface temperature profiling and thermal anomaly detection using thermal infrared imaging. This is a non-essential background filler task with a flexible schedule, allowing for opportunistic capture. Please note that this can be dropped or rescheduled at convenience. The data collection should occur overnight tomorrow, adhering strictly to this deadline without any shifts in timing.

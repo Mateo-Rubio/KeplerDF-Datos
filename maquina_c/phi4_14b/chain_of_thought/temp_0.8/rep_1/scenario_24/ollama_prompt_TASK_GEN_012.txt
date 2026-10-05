@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides several key pieces of information that we need to interpret according to the operational guidelines.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data collection must be completed by the day following today.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the observation should ideally occur.
+
+c) The single word contained in 'target_diurnal_period' from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word will be used verbatim in the final request to indicate the specific time of day for the observation.
+
+d) The deadline specified as "around mid-day tomorrow" should not be shifted. It is crucial to adhere strictly to this timeframe without altering or extending it to any other part of the day, ensuring that the data is captured within the exact operational window provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task for a high-resolution optical snapshot in Indonesia, specifically around the Ecuatorial region. This mission involves a critical payload capture using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Given its high importance, this is a binding contract requirement with an urgent operational execution necessary by tomorrow around mid-day. The mission lock is un-preemptable, ensuring that this task receives immediate attention and resources for timely completion.
