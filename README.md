@@ -67,6 +67,7 @@ La carpeta `analysis/` contiene los scripts de análisis. Todos importan primero
 | `verificar_pull.py` | Comprobación de commits pendientes antes de cualquier análisis. |
 | `comparar_textos.py` | Porcentaje de textos idénticos entre repeticiones y entre máquinas. |
 | `hist_maquinas.py` | Histograma de la precisión por escenario para cada máquina. Guarda la figura en `analysis/output/maquinas/`. |
+| `varianza_maquinas.py` | Compara la variabilidad entre máquinas con la variabilidad entre repeticiones de una misma máquina, por temperatura (excepto 0.0). Calcula el cociente `2 · varianza entre máquinas / varianza dentro de máquina` con un intervalo de confianza del 95 % por bootstrap; un valor cercano a 1 indica que la máquina no agrega variabilidad. Guarda la figura en `analysis/output/maquinas/varianza_maquinas.png`. |
 
 Las respuestas de `chain_of_thought` que filtran su razonamiento en la salida se cuentan como fallo en todas las categorías.
 
