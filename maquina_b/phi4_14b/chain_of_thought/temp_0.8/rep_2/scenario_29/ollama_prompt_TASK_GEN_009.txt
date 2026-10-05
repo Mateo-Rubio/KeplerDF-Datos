@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task request involves capturing specific data from Indonesia, specifically from the city of Ecuatorial. The metadata provides several details which I will consider in crafting a conversational and operational English request.
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates that the data collection must be executed on the day following today, ensuring adherence to a strict deadline for data delivery.
+
+b) For 'target_diurnal_period', the exact string provided is "in the evening". This specifies the time of day when the satellite constellation should capture the required imagery or data. 
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally in the string for 'target_diurnal_period' is "evening". Thus, this word must be used directly in the final request.
+
+d) It's crucial to confirm that I am not shifting or altering the deadline. The given timeframe indicates a strict operational deadline, meaning the task must occur exactly on "tomorrow evening", without any modification or reinterpretation to adjacent parts of the day like afternoon or overnight. This ensures compliance with the required timing for the data capture.
+
+### STAGE 2 - FINAL REQUEST
+
+I need to schedule a satellite observation over Ecuatorial, Indonesia, focusing on multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index using the VNIR sensor. As this is a standard operational tasking within our baseline pipeline tracking setup with fixed parameters reflecting normal operational status, the mission should be executed on tomorrow evening. Please ensure this task is incorporated as a regular workflow update without any deviations from the planned timeline.

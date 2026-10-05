@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, from the set {morning, mid-day, afternoon, evening, overnight}, is "morning." This word must appear literally in the final request.
+
+d) The requirement specifies that the temporal parameters represent a strict operational deadline to deliver data products and not the orbital capture window. Therefore, there is no indication or allowance for shifting the deadline to an adjacent part of the day, confirming we must adhere strictly to "in the morning" on "the day after tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+I require an urgent operational execution involving a critical payload capture over Tierralta, Colombia. This mission is an absolute institutional priority and a binding contract requirement, necessitating an active radar scan using microwave surface imaging for cloud-penetrating capture in the morning on the day after tomorrow. This task must be executed with an un-preemptable mission lock, ensuring the delivery of data products without delay.

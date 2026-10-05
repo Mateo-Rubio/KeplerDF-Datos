@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the time frame within which the mission must be completed.
+
+b) The exact string from 'target_diurnal_period' is "in the evening". This specifies the part of the day when the satellite capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in this string is "evening". This must be included verbatim in the final request to maintain the specific operational timing.
+
+d) I will ensure not to shift the deadline to any other part of the day. The task is strictly scheduled for "in three days" and specifically during "the evening", aligning with the given temporal parameters without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking involving an active radar scan using microwave surface imaging over El Piñal, Colombia. This task involves capturing cloud-penetrating imagery of the ground geometry and is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data products must be delivered by in three days, specifically during the evening. This mission is crucial for maintaining our routine monitoring activities in the region.

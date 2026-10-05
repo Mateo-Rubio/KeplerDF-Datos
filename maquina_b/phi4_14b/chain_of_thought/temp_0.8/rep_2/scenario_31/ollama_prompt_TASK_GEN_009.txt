@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' in the JSON is "in four days."
+
+b) The exact string for 'target_diurnal_period' is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "overnight." This must be included literally in the final request.
+
+d) The requirement is clear that the temporal parameters represent a strict operational deadline. Thus, there is no shifting of the deadline to any other part of the day; it must be adhered to as specified, which is "overnight" within "in four days."
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority mission involving critical vegetation analysis over the region near Kabong, Malaysia. Utilizing the multispectral capabilities of our VNIR sensor, we aim for a detailed assessment of chlorophyll absorption levels and NDVI index calculations for this area. This is a binding contract requirement that mandates high-priority allocation and captures crucial agricultural data. The operation must be executed urgently within four days, specifically targeting data capture overnight. This mission lock ensures no preemption and underscores its critical nature for operational success.

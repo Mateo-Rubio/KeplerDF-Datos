@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in three days."
+
+b) The exact string for 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string which is part of the set {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word will appear literally in the final request.
+
+d) The deadline specified as "around mid-day" is strict and should not be shifted to any other part of the day. It's crucial to adhere to this timeframe for accurate data collection, ensuring that the satellite passes and captures the imagery during the specified window.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request to capture SAR data over Puerto López, Colombia. This task involves an active radar scan using microwave surface imaging, aimed at obtaining cloud-penetrating capture around mid-day in three days. Given the flexible schedule, please consider this a non-essential background filler task that can be dropped or rescheduled at convenience, as it serves as a testbed tracking task within our broader survey efforts.
