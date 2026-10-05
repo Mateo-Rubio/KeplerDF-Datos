@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed on the day following today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the task should be executed, focusing on the early hours.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning". This word will be used to describe the specific time of day for the task execution.
+
+d) I am confirming that the deadline is not being shifted to an adjacent part of the day. The original instructions specify "in the morning," and this timing will be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+Please prioritize a standard operational tasking for a routine monitoring mission over Campo Capote, Colombia. This involves executing a multispectral vegetation analysis using the primary sensor VNIR. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index, capturing the surface reflectance of the area. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data collection should be completed tomorrow in the morning.

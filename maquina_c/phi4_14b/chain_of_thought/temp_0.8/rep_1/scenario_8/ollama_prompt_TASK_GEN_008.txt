@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "overnight." This word must appear literally in the final request.
+
+d) The deadline specified by the metadata is strictly set to "in four days" during the "overnight" period. There is no indication or allowance for shifting the deadline to any other part of the day, ensuring that the data capture and delivery are bound to these precise conditions.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority mission that involves a critical payload capture over Greve in Chianti, Italy. This mission requires high-importance attention as it aligns with a binding contract requirement. The primary objective is a multispectral vegetation analysis utilizing near-infrared capabilities to assess chlorophyll absorption levels and calculate the NDVI index. This task must be completed "in four days," specifically during the "overnight" period, ensuring no deviation or delay from this specified timeline.

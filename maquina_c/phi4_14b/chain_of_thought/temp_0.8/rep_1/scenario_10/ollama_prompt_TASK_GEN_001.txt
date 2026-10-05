@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for the data delivery, specifying that the imagery needs to be captured within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the imagery should be captured, which is crucial for achieving the desired lighting conditions and clarity for the VIS sensor.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will appear literally in the final request to indicate the specific time of day for the capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The instructions clearly state that the temporal parameters represent a strict operational deadline, and any alteration would misinterpret the requirement. Therefore, the request must adhere to capturing the imagery "in four days" and specifically "in the morning".
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority for a mission over Pajarito, Colombia, which involves a critical payload capture using a high-resolution optical snapshot. This task is a binding contract requirement that necessitates urgent operational execution with an un-preemptable mission lock. The imagery must be captured in four days and specifically in the morning to ensure clear optical imagery and true-color visual documentation.

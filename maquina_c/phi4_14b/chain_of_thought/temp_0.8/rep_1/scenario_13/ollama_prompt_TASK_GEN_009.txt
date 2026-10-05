@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The first step is to determine the exact string found in 'target_day'. The JSON indicates that the string is "tomorrow". This implies a strict operational deadline for the data delivery set for the next calendar day after the current date.
+
+Next, we look at 'target_diurnal_period', which contains the string "in the evening." This provides specific temporal guidance within the day and suggests a timeframe when the data collection should be prioritized or completed. 
+
+From the provided options, we must identify which single word from {morning, mid-day, afternoon, evening, overnight} appears in 'target_diurnal_period'. The word "evening" is explicitly included in the string. This will be incorporated directly into our final request to maintain temporal accuracy.
+
+Finally, it's crucial to ensure that the deadline is not being altered or shifted. The phrase "in the evening" must be adhered to as specified. This means that we are confirming the data capture should occur in the latter part of the day without extending or moving it to a different time segment. The deadline remains fixed for "tomorrow evening," ensuring compliance with the operational timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to request thermal mapping over Pulang Pisau, Indonesia, as part of a standard operational tasking in the baseline pipeline tracking. This involves capturing surface temperature profiles, which is a normal operational status routine monitoring task requiring fixed parameters. We require this data to be delivered by tomorrow evening, maintaining adherence to our strict operational deadline.

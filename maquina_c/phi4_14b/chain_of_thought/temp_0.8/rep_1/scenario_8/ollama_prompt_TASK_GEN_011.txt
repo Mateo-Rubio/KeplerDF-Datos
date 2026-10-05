@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This indicates the specific timeframe within which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the observation should occur.
+
+c) The single word contained in that string which must appear literally in the final request is "morning". 
+
+d) There is no indication or instruction that allows for shifting the deadline to any other part of the day. The operation must be conducted specifically in the morning within the specified four-day timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking over Arsiero, Italy, utilizing multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is part of our baseline pipeline tracking with fixed parameters, ensuring normal operational status and a standard workflow update. Please ensure this task is executed in four days, specifically in the morning.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the specific day by which the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time frame within that day when the observation should ideally take place or when the task is targeted to be completed.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in "overnight" is "overnight". This word must appear literally in the final request to accurately describe the timing of the task.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains set for "tomorrow" during the "overnight" period, as specified in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for opportunistic capture near San José del Guaviare, Colombia. This is a non-essential background filler task that can be adjusted or rescheduled at convenience. The aim is to use near-infrared reflection to map water body boundaries or assess soil moisture levels. Please ensure this is completed by tomorrow overnight, understanding the low urgency and flexible nature of this task.
