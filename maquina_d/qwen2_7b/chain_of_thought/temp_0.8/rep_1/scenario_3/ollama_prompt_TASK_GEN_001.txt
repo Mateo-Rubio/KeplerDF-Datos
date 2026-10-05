@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and based on the target day being specified as "tomorrow" with the target diurnal period set for "in the evening", we can infer that there's a specific need to capture high-resolution optical imagery using the VNIR sensor in the late afternoon or early evening timeframe. This captures daylight conditions while avoiding solar glare.
+
+As part of our standard operational tasking, we are tasked with collecting critical information on land use and vegetation health for an area in Colombia, specifically in the city of Tame. The priority for this mission is medium importance, implying that this is a standard baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+With this "in the evening" deadline set for data capture, we aim to provide high-resolution optical snapshots that will serve as true-color visual documentation and help assess chlorophyll absorption levels and surface reflectance. This information is essential for monitoring environmental changes, land management practices, and potentially agricultural health across the region.
+
+To fulfill this request effectively, our automated satellite constellation planner must ensure that the satellite's operational trajectory aligns with the specified target day and diurnal period, capturing the data necessary to meet the medium importance standards set forth in this mission allocation.

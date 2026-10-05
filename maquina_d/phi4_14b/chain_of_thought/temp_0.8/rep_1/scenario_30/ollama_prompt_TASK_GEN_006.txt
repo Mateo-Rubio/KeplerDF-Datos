@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task should be executed on the next day from the current point of reference.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the data capture should occur.
+
+c) The single word contained in that string is "mid-day". This must appear literally in the final request to ensure clarity about the timing of the task.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified time frame is strictly "around mid-day" on "tomorrow", and this will be adhered to in the final request.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task for Bukit Mabong, Malaysia. This is a flexible schedule request with a focus on opportunistic capture. The mission involves obtaining near-infrared reflection data for water body boundary mapping and soil moisture assessment. We ask that this task be treated as a non-essential background filler task, to be dropped or rescheduled at convenience. Please aim to execute this around mid-day tomorrow.

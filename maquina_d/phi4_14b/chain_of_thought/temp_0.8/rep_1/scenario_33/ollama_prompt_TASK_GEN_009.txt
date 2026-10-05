@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This represents the specific deadline for when the data products are expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This indicates the time frame during which the satellite data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight". This term must be included in the final request to specify the time of data capture.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly "the day after tomorrow" during the "overnight" period, as specified in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a request for a low-priority importance task with a flexible schedule for opportunistic capture. This is a non-essential background filler task where we can drop or reschedule at convenience, treating it as a background survey. The focus is on capturing near-infrared reflection to assess water body boundary mapping and soil moisture assessment over Rokan Hilir in Indonesia. We aim to discriminate gradients effectively during the "overnight" period on "the day after tomorrow".
