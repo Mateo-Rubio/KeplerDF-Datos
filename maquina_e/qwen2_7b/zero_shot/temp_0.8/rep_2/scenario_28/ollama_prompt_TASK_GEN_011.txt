@@ -1,0 +1,15 @@
+We are requesting a low priority importance task involving VNIR sensor data for an opportunistic capture. Our goal is to conduct multispectral vegetation analysis by assessing the chlorophyll absorption level and calculating the NDVI index and surface reflectance. This observational mission aims to provide valuable insights into the health of the vegetation in Norte, which is crucial for environmental monitoring and management purposes.
+
+Given the nature of this task being of low priority importance, we understand that there might be flexibility in scheduling, allowing us to drop or reschedule the capture at your convenience. We are treating this as a non-essential background filler task, focusing on gathering background data for our comprehensive dataset.
+
+To align with the operational guidelines and ensure the naturalness and validation accuracy of the dataset, please note that we require the raw physical simulation metadata to be translated into a highly realistic request. This involves describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details', as well as interpreting the priority level and sensor objectives naturally.
+
+We are aiming for this data collection to be completed by the day after tomorrow in the morning, ensuring that the products are ingested into our pipeline before this time frame. This deadline represents a strict operational limit for delivering the data products to us, not an orbital capture window.
+
+Your request is as follows:
+
+"In order to gather critical information about the health of the vegetation in Norte, we are requesting a low priority task involving VNIR sensor data with the goal of conducting multispectral analysis. The process will involve assessing chlorophyll absorption levels and calculating NDVI index and surface reflectance. This is essential for our environmental monitoring activities.
+
+We understand that there may be flexibility in scheduling due to this being classified as a low priority task. We appreciate your attention to ensure that this capture occurs on the day after tomorrow in the morning, which represents our deadline for receiving these data products."
+
+Thank you for your attention and cooperation."
