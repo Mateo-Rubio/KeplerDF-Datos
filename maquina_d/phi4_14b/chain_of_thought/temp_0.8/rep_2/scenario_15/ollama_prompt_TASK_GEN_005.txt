@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This specifies when the data collection needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This indicates the specific time during which the data should be captured.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight". This will be used verbatim in the final request to specify when the observation should occur.
+
+d) It is crucial to adhere to the specified deadline without any alterations. The task must be completed "the day after tomorrow" and during the "overnight" period, ensuring that the timing is strictly followed as an operational requirement.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for a flexible schedule capturing in Olmo al Brembo, Italy. This is intended to be an opportunistic capture with the possibility of being dropped or rescheduled at convenience. The task involves acquiring a high-resolution optical snapshot using visible light sensors to document clear optical imagery during the overnight period. The data collection should be completed by the day after tomorrow.

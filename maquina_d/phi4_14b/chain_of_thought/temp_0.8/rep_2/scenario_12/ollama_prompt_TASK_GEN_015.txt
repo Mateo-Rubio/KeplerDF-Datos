@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This word will appear literally in the final request.
+
+d) The deadline is explicitly set to "tomorrow in the morning," which means there is no adjustment or shift to a different part of the day. It is imperative to adhere strictly to this specified timeframe for operational execution.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking to conduct near-infrared reflection mapping over the Kutai Kartanegara region in Indonesia, focusing on water body boundary mapping and soil moisture assessment. This request is part of our routine monitoring efforts, aligned with fixed parameters in the baseline pipeline tracking setup. We need to ensure this mission is executed tomorrow in the morning, maintaining our regular workflow update schedule without deviations.

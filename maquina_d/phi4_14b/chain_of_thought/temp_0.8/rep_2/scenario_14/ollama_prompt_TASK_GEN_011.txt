@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates that the deadline for data delivery is set for the day after today.
+
+b) The exact string present in 'target_diurnal_period' is "overnight". This specifies when during the day the satellite should capture the required data, implying a nighttime observation period.
+
+c) Within the string "overnight", the single word that appears from the given options {morning, mid-day, afternoon, evening, overnight} is "overnight". Therefore, this term must be included in the final request to accurately describe when the task should occur.
+
+d) It is crucial to confirm that there is no adjustment of the deadline time frame to any other part of the day. The instruction specifies the observation and data delivery timeline as "tomorrow overnight", which should remain unchanged. Therefore, the task must be performed strictly during the nighttime of the specified day, ensuring that it remains an overnight operation without shifting to another time period like morning or mid-day.
+
+**STAGE 2 - FINAL REQUEST**
+
+Please process a low-priority importance request to capture multispectral vegetation analysis over Montaquila, Italy. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index using near-infrared reflection techniques. The task should be scheduled flexibly for an opportunistic capture tomorrow overnight. It is noted as a non-essential background filler task, and operators are advised to drop or reschedule at convenience if needed.

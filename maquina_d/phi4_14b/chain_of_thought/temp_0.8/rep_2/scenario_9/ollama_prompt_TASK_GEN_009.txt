@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves interpreting metadata from a JSON object related to an Earth-observation mission targeting the Ecuatorial region in Indonesia. To begin with, we examine the 'target_day' key. The exact string within this key is "in three days." This provides us with a precise timeframe for when the data products are expected to be delivered, emphasizing that it's an operational deadline and not the time of capture.
+
+Next, we turn our attention to the 'target_diurnal_period' key. Here, the string specified is "around mid-day." This indicates the specific time of day when the satellite constellation should focus its efforts on capturing data. It's essential to recognize that this timeframe pertains to the period during which the data products are due.
+
+We then identify the relevant word from the set {morning, mid-day, afternoon, evening, overnight} that is contained within the 'target_diurnal_period' string. The word "mid-day" appears verbatim in the specified diurnal period, meaning that the satellite operations should concentrate their activities around this time for optimal data capture.
+
+Lastly, it's crucial to confirm that there is no intention or need to shift this deadline to an adjacent part of the day. The provided information specifies "around mid-day," which suggests that slight variations around this time are acceptable, but it does not imply any flexibility in altering the timing to morning, afternoon, or any other period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task focusing on thermal mapping to capture a heat signature over the Ecuatorial region in Indonesia. The satellite constellation should conduct this as an opportunistic capture with a flexible schedule, allowing for the possibility of dropping or rescheduling at convenience. This background survey is aimed at delivering data products in three days, specifically around mid-day, leveraging its thermal capabilities to map surface temperature profiles and detect any thermal anomalies in the area.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin, we need to extract specific information from the JSON data provided for the task request. First, we look at the 'target_day' field. The exact string present in this field is "in four days." This phrase indicates when the task should be completed and is crucial for setting a precise deadline for the operation.
+
+Next, we focus on the 'target_diurnal_period' field. The exact string here is "in the morning." This specifies the time of day when the data capture should occur. Understanding this detail helps us align the mission with the desired observational conditions.
+
+Now, we need to identify which part of the day this corresponds to. The word "morning" from the set {morning, mid-day, afternoon, evening, overnight} appears in the string "in the morning." This will be used literally in our final request to ensure clarity about the timing of the data capture.
+
+Finally, we confirm that there is no intention to shift the deadline to a different part of the day. The 'target_diurnal_period' explicitly states "in the morning," and we must adhere to this specific timing without any alteration. This ensures that the mission's execution aligns perfectly with the specified conditions, maintaining the integrity of the operational plan.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a low-priority importance task scheduled for a flexible timeline, specifically targeting water body boundary mapping or soil moisture assessment in Norte using near-infrared reflection. The data capture should occur in four days in the morning, but please note this can be dropped or rescheduled at convenience as it's considered a non-essential background filler task.

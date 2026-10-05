@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating metadata from a JSON format into a natural English request for an Earth-observation mission. Let's break down the necessary steps:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This phrase indicates when the data should be captured, setting a specific deadline for the operation.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation needs to occur, aligning with the operational deadline.
+
+c) The single word contained in 'target_diurnal_period' that matches one of the specified options is "afternoon". This word must be included in the final request to accurately reflect the timing of the operation.
+
+d) It's important to confirm that we are not altering the deadline. The metadata specifies "the day after tomorrow during the afternoon" as the exact timeframe for data capture. There is no indication to shift this to any other part of the day, so the deadline remains strictly as provided.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for a thermal mapping mission over the region known as Ecuatorial. The objective is to capture a heat signature and surface temperature profile using thermal infrared imaging. This request is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. The data delivery is scheduled for the day after tomorrow during the afternoon. Please ensure that this task is processed within the specified timeframe as part of our routine monitoring operations.

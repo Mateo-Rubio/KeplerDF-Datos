@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the request is for data to be delivered on the day following today.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies when during the day the data should ideally be captured or delivered.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon." This specific time frame will be included literally in the final request.
+
+d) The deadline specified as "tomorrow during the afternoon" must not be shifted to an adjacent part of the day. It is critical that the data delivery aligns precisely with this timeframe, without any alterations or extensions beyond what is specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low-priority importance task that we can accommodate at our convenience. We are looking for an opportunistic capture over Indonesia, specifically around the city of Ecuatorial. We'd like to use an active radar scan to obtain microwave surface imaging, which is great for cloud-penetrating capture and capturing ground geometry. Given its flexible schedule, feel free to drop or reschedule this task at your convenience. The deadline for delivery is set for tomorrow during the afternoon.

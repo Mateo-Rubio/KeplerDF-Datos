@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, I will examine the 'target_day' key from the JSON data. The exact string present in 'target_day' is "the day after tomorrow." This specific phrasing indicates when the data collection should be completed, serving as a strict deadline for delivering the required data products.
+
+Next, I will look at the 'target_diurnal_period' key. The exact string provided here is "during the afternoon." This phrase specifies the time of day during which the satellite's sensors should capture the necessary data.
+
+To determine the specific part of the day that must be included in my final request, I need to identify which word from the set {morning, mid-day, afternoon, evening, overnight} is contained within the string "during the afternoon." The word that appears literally is "afternoon."
+
+Lastly, I must ensure that the deadline is not shifted. The instructions are clear that the temporal parameters represent a strict operational deadline for delivering data products and should not be altered or extended to any other part of the day. Therefore, the deadline remains firmly set for "the day after tomorrow" during the afternoon.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for a flexible schedule on an opportunistic capture in the region of Italy, specifically around the city of Norte. This task is a non-essential background filler activity where we would appreciate it if you could drop or reschedule at convenience. The primary sensor to be used for this mission is the VNIR, aimed at conducting multispectral vegetation analysis to assess chlorophyll absorption levels. We aim to calculate a vegetation NDVI index and gather surface reflectance data. Please ensure that the data collection occurs the day after tomorrow during the afternoon, adhering strictly to these specified conditions.

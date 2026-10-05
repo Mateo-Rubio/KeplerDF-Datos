@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in four days."
+
+b) The exact string found in 'target_diurnal_period' is "in the morning."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word must appear literally in the final request.
+
+d) The temporal parameters are crucial as they represent a strict operational deadline. The specified diurnal period is "in the morning," which must not be shifted to any other part of the day such as mid-day or afternoon. This ensures compliance with the precise timing required for capturing the data within the designated timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority task requiring a high-resolution optical snapshot over Pajarito, Colombia. This mission is of critical importance, embodying a binding contract requirement for a mandatory directive involving clear optical imagery. The request must be executed with urgent operational execution, ensuring an un-preemptable mission lock. The data capture should occur "in four days" and specifically "in the morning," adhering strictly to these temporal parameters without deviation.

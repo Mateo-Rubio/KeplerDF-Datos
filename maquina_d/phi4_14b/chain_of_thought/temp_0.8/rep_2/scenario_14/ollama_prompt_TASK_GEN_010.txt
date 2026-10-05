@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow".
+
+b) The exact string found in 'target_diurnal_period' is "overnight".
+
+c) Within the string "overnight", the single word that matches the options {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be directly used in the final request.
+
+d) The operational guidelines specify that the temporal parameters provided represent a strict operational deadline for delivering the data products. The given deadline is set to occur "tomorrow" during the "overnight" period. It is important not to shift or reinterpret this deadline, meaning the task must be completed during this specified time frame without adjusting it to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority mission to execute a high-resolution optical snapshot using multispectral vegetation analysis over Andina, Colombia. This task is critical as it involves capturing data essential for calculating a vegetation NDVI index and assessing surface reflectance. Given the priority level, this task represents a binding contract requirement that mandates an urgent operational execution with an un-preemptable mission lock. The satellite constellation must deliver these crucial data products precisely tomorrow during the overnight period, ensuring timely adherence to our strict operational deadline.
