@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word must appear literally in the final request.
+
+d) The deadline for delivering the data products is explicitly set to "in four days" and "in the morning." There is no indication to shift this deadline to another part of the day. It is critical to adhere strictly to these temporal parameters without any alteration or reinterpretation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for our satellite constellation planner to focus on Solok, Indonesia. The mission involves conducting a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that the data products are delivered in four days, specifically in the morning. Thank you for prioritizing this within our standard workflow update.

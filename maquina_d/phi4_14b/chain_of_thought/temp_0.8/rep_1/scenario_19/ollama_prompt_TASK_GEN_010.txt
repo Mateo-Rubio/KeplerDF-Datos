@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides several key pieces of information needed to construct the task request. Let's break down each aspect:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day during which the observation should ideally occur, although it is not necessarily tied to capturing data at that specific time.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "evening" appears in the 'target_diurnal_period' string. This word will be used verbatim in the final request to indicate the preferred time for observation.
+
+d) It is crucial to confirm that we are not altering the deadline. The deadline specified is "tomorrow," and the observation period is "in the evening." Therefore, the request must adhere to these parameters without shifting the deadline to another part of the day. The data products must be delivered by tomorrow evening, which aligns with the operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task for thermal mapping over Puerto Wilches, Colombia. This is a flexible schedule, opportunistic capture that can be dropped or rescheduled at convenience. The goal is to obtain a heat signature or surface temperature profile of the area. Please ensure that the data is delivered by tomorrow evening.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+To begin with, I will analyze the provided metadata to construct an appropriate request. The `target_day` field contains the string "the day after tomorrow," which I need to include verbatim in my final request. This means that the data collection is due two days from now, and it is critical not to alter this deadline.
+
+Next, I examine the `target_diurnal_period`, which holds the string "overnight." From this, I can deduce that the observation should occur during nighttime hours. The word contained within this string that matches our predefined list is "overnight," and it will be included in my request as specified.
+
+I need to ensure that there is no adjustment or shifting of the deadline to a different part of the day. Therefore, I must adhere strictly to the instruction that the observation takes place "overnight" on "the day after tomorrow." This ensures that the mission's timing is precise and meets the operational requirements set by the parameters.
+
+In summary, the deadline for this task is fixed for the overnight period on the day after tomorrow, and I will maintain these specifics in my final request without any modifications.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task with a flexible schedule aiming to opportunistically capture near-infrared reflections for soil moisture assessment over the land area around Ecuatorial, Indonesia. Please consider this as a non-essential background filler task that can be dropped or rescheduled at convenience, treating it as a background survey. The goal is to discriminate gradients and understand the moisture content in the soil. We request this data be collected during the overnight period on the day after tomorrow.
