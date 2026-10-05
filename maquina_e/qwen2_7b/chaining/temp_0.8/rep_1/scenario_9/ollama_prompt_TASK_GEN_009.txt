@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I aim to translate the raw physical simulation metadata provided into a single, highly realistic and conversational English request. The objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to specified guidelines.
+
+Given the target context JSON, the mission allocation priority is defined by the 'priority_level' key. With a value of 1, this indicates a low importance task that requires a casual tone with flexible scheduling for opportunistic capture, as it's classified as a "non-essential background filler task". The geographical context is described using the 'country' and 'city' fields from 'location_details', with 'Indonesia' as the country and 'Ecuatorial' as the city, providing a realistic location. The 'primary_sensor' is 'TIR', which translates to the mission goal being to conduct "thermal mapping" to capture a "heat signature" or assess the "surface temperature profile", essential for detecting thermal anomalies and mapping heat emissions.
+
+The delivery deadline has already been resolved by an upstream module, set as "in three days around mid-day", which needs to be included verbatim in the request without rephrasing or altering the time frame.
+
+In summary, our request is as follows:
+
+"Please schedule a low priority task for thermal mapping of Ecuatorial, Indonesia, to capture the heat signature and surface temperature profile. The mission aims to perform 'thermal mapping' as a 'background survey' or 'testbed tracking task'. The data should be available within three days around mid-day. This task is non-essential with flexible scheduling requirements."
+
+This request integrates the operational guidelines by avoiding raw technical system tags, underscores, and coordinate arrays, while combining parameters naturally and interpreting priority levels, sensors, and deadlines as per specified guidelines."

@@ -1,0 +1,27 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. This includes interpreting the geographic context, mission allocation priority, sensors and physical objectives, along with the delivery deadline in a natural manner.
+
+For the given target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Firstly, in terms of geographic context, I describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'city' is "Ecuatorial", I can naturally interpret this as capturing imagery of the equatorial region in Indonesia. Given that 'landmark' is not provided, I will use the remaining valid fields to describe the location.
+
+The 'primary_sensor' key indicates that we're focusing on a VIS sensor request, which translates to collecting a high-resolution optical snapshot for daylight photography purposes. In this instance, it represents clear optical imagery suitable for capturing natural landscapes and urban scenes under direct sunlight.
+
+As per the mission allocation priority level 2, I would frame this as a standard operational tasking that is part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This involves routine monitoring activities that are integral to maintaining an institutional baseline but does not require urgent operational execution.
+
+The delivery deadline specifies that we need the data by "the day after tomorrow in the morning". I will incorporate this phrase verbatim into my request, adhering to the instruction provided.
+
+In summary, our request is as follows:
+
+Please capture high-resolution optical imagery for daylight photography of the equatorial region in Indonesia, using a VIS sensor. This standard operational task aligns with normal workflow updates and is part of our baseline pipeline tracking activities. We need the data available by "the day after tomorrow in the morning" as specified.
+
+Thank you for your attention to these details.

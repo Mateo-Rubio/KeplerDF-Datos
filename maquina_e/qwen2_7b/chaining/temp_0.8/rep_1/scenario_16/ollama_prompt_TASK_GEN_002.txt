@@ -1,0 +1,23 @@
+As an Earth-observation mission operator, I am tasked with submitting a highly realistic and conversational English request for data from our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided in JSON format into one comprehensive request that adheres to specific operational guidelines:
+
+GEOGRAPHIC CONTEXT: The region we're focusing on is the beautiful country of Italia, with a specific emphasis on the city of Silea, where a significant landmark has been noted for observation.
+
+MISSION ALLOCATION PRIORITY: This task carries a 'priority_level' designation of 3, which translates to our mission being an absolute institutional priority. We're dealing with a "critical payload capture" that involves a binding contract requirement and represents an urgent operational execution, emphasizing the importance of this task over others.
+
+SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor is set to capture data through the "near-infrared" band, which will allow us to assess water body boundaries and soil moisture. This spectral band will offer invaluable insights for mapping water bodies and understanding soil health conditions.
+
+DELIVERY DEADLINE: The deadline for this task is in three days, with a specific request to have the data available in the evening period.
+
+In light of these guidelines, our request to the automated satellite constellation planner is as follows:
+
+"Attention Satellite Constellation Planner,
+
+I hereby submit an urgent operational mission, which we consider a high-priority task requiring immediate attention due to its critical payload capture nature and contractual obligations. Our objective is to utilize our primary sensor, set in the near-infrared band, for capturing essential data on water body boundaries and soil moisture assessment for the region of Italia, specifically focusing on the city of Silea.
+
+We are scheduled to retrieve this highly detailed and vital information by evening on the third day from now. Given the importance of this task, it is designated as a 'priority_level' 3 mission, signifying its un-preemptable status in our operational pipeline.
+
+Please ensure that your constellation prioritizes this data collection process accordingly, focusing on the specified location during the targeted diurnal period of the evening to capture the most accurate and detailed information possible.
+
+Thank you for your attention and cooperation in this matter."
+
+End of Request

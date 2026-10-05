@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines for this task include interpreting geographic context, mission allocation priority, sensors and physical objectives, as well as the delivery deadline.
+
+**Geographic Context**: The 'region_name' field provides context since the JSON lacks information for a country, city, or landmark. Therefore, I will describe the location using the 'country' and 'city' fields from 'location_details'. We're targeting an area in San Pablo, Colombia.
+
+**Mission Allocation Priority**: With a priority level of 2, this request is described as a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters. This implies a normal operational status or a routine monitoring task within our organization.
+
+**Sensors and Physical Objectives**: The primary sensor is set to 'NIR'. This means we're aiming to assess near-infrared reflection for water body boundary mapping and soil moisture assessment, which helps in distinguishing gradients effectively.
+
+**Delivery Deadline**: The deadline for this task is "tomorrow in the evening". This is the upper limit for data availability as determined by an upstream module, so it must be included verbatim in our request without rephrasing or alteration.
+
+To summarize this task request:
+
+"Targeting San Pablo, Colombia, for a standard operational task with an absolute institutional priority, we're planning a routine monitoring mission involving the assessment of near-infrared reflection for water body boundary mapping and soil moisture assessment. This is to be executed using our satellite constellation tomorrow in the evening, adhering strictly to the deadline as defined by the upstream module without any rephrasing or alteration."
+
+This request combines the operational guidelines to provide a clear and natural way of translating the raw physical simulation metadata into a realistic task request.

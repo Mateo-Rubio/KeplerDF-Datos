@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context provided in JSON format outlines the operational guidelines for interpreting the data.
+
+GEOGRAPHIC CONTEXT: We're tasked with capturing imagery of Montaquila, a notable landmark in the beautiful country of Italia. Although the city name might offer additional detail, we understand that the 'region_name' suffices and thus our description revolves around 'Italia'.
+
+MISSION ALLOCATION PRIORITY: The priority for this task is 'Low Importance'. As such, we're framing this as a flexible schedule "background survey" or "testbed tracking task", noting to "drop or reschedule at convenience". This reflects the "non-essential background filler task" with "normal operational status".
+
+SENSORS AND PHYSICAL OBJECTIVES: With the primary sensor being 'VNIR', our mission is twofold. We aim to assess the "chlorophyll absorption level" and calculate the "vegetation NDVI index", essentially conducting a multispectral vegetation analysis.
+
+DELIVERY DEADLINE: The deadline for this task has already been set as "tomorrow overnight". This underscores that we're dealing with a "standard operational tasking", adhering to the established "baseline pipeline tracking" setup with "fixed parameters".
+
+In conclusion, our request is to capture high-resolution VNIR imagery of Montaquila in Italia during tomorrow's overnight period, as part of a routine monitoring or background survey. This ensures an optimal blend of natural language and operational precision in fulfilling our task requirements.
