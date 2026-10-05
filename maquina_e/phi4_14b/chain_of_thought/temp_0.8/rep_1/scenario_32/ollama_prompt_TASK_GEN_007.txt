@@ -1,0 +1,7 @@
+### STAGE 1 - REASONING
+
+The 'target_day' key in the JSON metadata specifies "in three days." This string indicates the exact time frame within which the data products must be delivered. The 'target_diurnal_period' is defined as "overnight," which directly suggests the specific time of capture during the night hours. The word contained in this period that we need to include verbatim in the final request is "overnight." It is important to confirm that we are maintaining the deadline exactly as specified, without attempting to shift it to any other part of the day such as morning or afternoon. The operational deadline for delivering the data products is strictly tied to "in three days" during the "overnight" period, and it must be adhered to without modification.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request with a flexible schedule for opportunistic capture. We are interested in conducting an active radar scan using microwave surface imaging over Tarazá, Colombia. This mission is meant for cloud-penetrating capture and aims to gather valuable data on ground geometry during the "overnight" period. Given its nature, this task can be treated as a non-essential background filler task and may be dropped or rescheduled at your convenience. Please note that we are looking to have these observations delivered by "in three days."

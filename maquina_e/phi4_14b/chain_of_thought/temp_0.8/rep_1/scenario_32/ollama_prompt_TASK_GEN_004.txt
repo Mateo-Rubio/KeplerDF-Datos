@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To craft a well-informed request based on the provided JSON metadata, I will systematically address each component of the task.
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline by which the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the observation should occur.
+
+c) The single word contained in the string "in the evening" that must appear literally in the final request is "evening".
+
+d) To ensure accuracy, I confirm that I am not shifting the deadline to a different part of the day. The specified time frame "in three days, in the evening" remains unchanged, adhering strictly to the provided parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking requiring a commercial tasking for our satellite constellation planner. The mission involves capturing an active radar scan using microwave surface imaging over El Piñal, Colombia. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to achieve cloud-penetrating capture, ensuring we can pierce heavy weather and accurately map ground geometry. Please ensure that the data is delivered in three days, specifically in the evening, adhering to this workflow update's standard requirements.

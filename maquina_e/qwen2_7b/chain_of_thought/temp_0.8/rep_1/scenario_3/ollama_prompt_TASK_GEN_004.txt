@@ -1,0 +1,14 @@
+STAGE 1
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+b) The exact string in 'target_diurnal_period' is: "in the morning"
+c) The single word contained in that string is: morning
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Based on the metadata provided, our Earth-observation mission request involves capturing thermal data for a location in Colombia, specifically within its capital city of Bogota. Given the context and operational details:
+
+On "the day after tomorrow", in the morning period, we are tasked with acquiring "thermal mapping" (TIR) imagery to capture heat signatures and surface temperature profiles over the city of Bogota. This mission has a medium importance level, framed as a standard operational tasking that aligns with our baseline pipeline tracking setup.
+
+The critical deadline for this data collection is set for the morning hours of the day specified in the metadata, ensuring we secure accurate thermal data in optimal conditions for analysis. The "non-preemptable" nature of this mission reflects its importance within our operational framework, emphasizing its role as a standard but essential component of our overall monitoring and assessment activities in Colombia.

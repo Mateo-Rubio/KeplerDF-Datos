@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+**a)** The exact string in 'target_day' is "in three days". This indicates a specific timeframe within which the data delivery must occur, emphasizing its importance as a deadline rather than a flexible timeline.
+
+**b)** The exact string in 'target_diurnal_period' is "in the evening". This specifies the particular time of day when the satellite should capture the imagery or data, providing a clear operational window for the task.
+
+**c)** The single word contained in the string 'in the evening' is "evening". This term will be directly used in the final request to ensure clarity about the timing of the data capture.
+
+**d)** It is crucial not to shift the deadline to an adjacent part of the day. The requirement explicitly states "in the evening", and adhering strictly to this ensures compliance with the operational guidelines. Any deviation from this specified time could affect the mission's objectives and the quality of the data captured.
+
+### Stage 2 - Final Request
+
+I would like to request a flexible schedule for an opportunistic capture over Kuantan Singingi in Indonesia using near-infrared reflection, focusing on soil moisture assessment and water body boundary mapping. This is a low priority importance task, so please feel free to drop or reschedule at your convenience, treating it as a background survey. The data delivery should be completed in three days, specifically in the evening.
