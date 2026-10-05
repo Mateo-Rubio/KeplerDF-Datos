@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This specifies when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates the time of day during which the observation should occur.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This must appear literally in the final request.
+
+d) The deadline is specified as "tomorrow overnight," and there is no indication that it should be shifted to any other part of the day. The task must be completed during this specific period without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request an opportunistic capture focusing on Norte, with flexible scheduling for a non-essential background filler task. The mission involves an active radar scan using microwave surface imaging for cloud-penetrating capture of the ground geometry. This low priority importance request allows for dropping or rescheduling at convenience, as it serves as a background survey. Please ensure the data is delivered by tomorrow overnight, aligning with the specified deadline.

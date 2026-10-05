@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating metadata into a natural language request for an Earth-observation mission. Let's break down the components:
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "evening". This word must be included verbatim in the final request.
+
+d) The deadline specified is "tomorrow in the evening", and there is no indication or need to shift this deadline to another part of the day. It is critical to adhere strictly to this timeframe for data delivery.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority task focused on thermal mapping over Bugalagrande, Colombia. The request is for an opportunistic capture using TIR sensors, aiming to collect data on surface temperature profiles and potential thermal anomalies. This task should be scheduled flexibly, allowing for it to be dropped or rescheduled at convenience, as it serves as a non-essential background filler. The deadline for this task is tomorrow in the evening, ensuring that the thermal data is captured during this specific timeframe without altering or extending the schedule.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the specific day for which the data capture is scheduled.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the satellite should perform its observation.
+
+c) The single word contained in the string 'target_diurnal_period' that matches the options {morning, mid-day, afternoon, evening, overnight} is "morning." This word will be used directly in the final request to specify the timing of the observation.
+
+d) The instructions emphasize that the temporal parameters represent a strict operational deadline for delivering data products. There is no indication or permission to shift this deadline to any other part of the day. Therefore, the observation must occur tomorrow morning as specified, without any adjustment to the timing.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking in place for routine monitoring as part of our baseline pipeline tracking setup. The mission involves acquiring near-infrared reflection data over Kutai Kartanegara, Indonesia, tomorrow, specifically in the morning. This task is crucial for water body boundary mapping and soil moisture assessment, helping us maintain our workflow update with fixed parameters. Please ensure that this request aligns with normal operational status and proceed accordingly.

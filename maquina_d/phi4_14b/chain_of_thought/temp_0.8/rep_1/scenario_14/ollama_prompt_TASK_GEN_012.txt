@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates that the task needs to be completed on a specific future date, allowing us to set a clear deadline for the data delivery.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the satellite observation should occur, aligning with the operational requirements for the mission.
+
+c) The single word contained in the string "during the afternoon" that must appear literally in the final request is "afternoon". This ensures that the timing of the task is clearly communicated and adhered to.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The requirement explicitly states "during the afternoon", so the observation must occur within this timeframe, ensuring compliance with the operational guidelines.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking request for a thermal mapping mission over the Ecuatorial region. This involves capturing a surface temperature profile using a high-resolution TIR sensor, which is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data collection is scheduled for "the day after tomorrow" and should occur "during the afternoon". This aligns with our routine monitoring processes and ensures that we maintain our standard workflow update without deviation from the planned schedule.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task should be completed by the day after today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the data capture should occur.
+
+c) The single word contained in the string from 'target_diurnal_period' that matches one of the options is "morning." This term must be included verbatim in the final request to accurately reflect the timing of the operation.
+
+d) It is important to confirm that there is no alteration or shift of the deadline. The deadline is strictly set for "tomorrow in the morning," and this timing must be adhered to without any adjustments to either the day or the time of day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking in Colombia, specifically focusing on Campo Capote, where we need to perform a multispectral vegetation analysis. The goal is to assess the chlorophyll absorption level and calculate the NDVI index for this region. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need to ensure that this task is completed by tomorrow in the morning, adhering strictly to the set deadline for accurate data delivery and analysis.

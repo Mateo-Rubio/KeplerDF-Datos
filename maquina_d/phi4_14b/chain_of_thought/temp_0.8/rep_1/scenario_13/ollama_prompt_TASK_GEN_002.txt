@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning". This word must appear literally in the final request.
+
+d) The temporal parameters specify a strict operational deadline to deliver the data products. There is no indication or requirement to shift this deadline to an adjacent part of the day, such as mid-day or afternoon. Thus, we will keep the deadline strictly as "in four days" and within the morning time frame for data capture.
+
+### STAGE 2 - FINAL REQUEST
+
+We are looking to conduct a routine survey in Moncalieri, Italy, focusing on vegetation analysis using multispectral imaging to assess chlorophyll absorption levels. This is a low-priority importance task with a flexible schedule, designed as an opportunistic capture that can be dropped or rescheduled at convenience. Please ensure the data is captured and delivered "in four days" specifically "in the morning". This task serves as a background survey, providing valuable but non-essential insights into vegetation health.

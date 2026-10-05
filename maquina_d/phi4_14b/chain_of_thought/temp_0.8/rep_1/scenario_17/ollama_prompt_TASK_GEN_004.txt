@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+For this task, I will first examine the specific strings provided in the JSON metadata related to the timing of the request and interpret how they fit into a conversational English request.
+
+a) The exact string for 'target_day' is "in three days". This indicates that the task should be completed by that time frame without any shifts or extensions. It's crucial to adhere strictly to this deadline in the operational request.
+
+b) The exact string for 'target_diurnal_period' is "in the evening". This specifies the particular part of the day when the observation should occur, emphasizing the need to capture data during this specified timeframe.
+
+c) The word contained within the 'target_diurnal_period' string is "evening". This word must appear literally in the final request as it defines the specific time of day for the task.
+
+d) I confirm that there is no intention to shift the deadline to another part of the day. The temporal parameters are strict, and the request should adhere to the provided "in three days" and "in the evening" schedule. This ensures the data products meet the specified delivery timeline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a low-priority importance task for monitoring vegetation health in Caramanta, Colombia. Using multispectral analysis, assess the chlorophyll absorption level and calculate an NDVI index. The capture should be flexible, so please feel free to drop or reschedule at your convenience if needed. This background survey is non-essential but would benefit from a data snapshot taken in three days, specifically in the evening. Thank you for considering this opportunistic capture as part of your routine monitoring.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "tomorrow."
+
+b) The exact string for 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in 'target_diurnal_period' that matches one of the provided options is "afternoon." This word must appear literally in the final request.
+
+d) The specified 'target_day' and 'target_diurnal_period' indicate a clear deadline: data should be delivered for "tomorrow during the afternoon." There is no indication to shift this deadline to an adjacent part of the day, such as morning or evening. It's essential to respect these parameters exactly as they are stated.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking scheduled for Indonesia, specifically focusing on the Ecuatorial region. This task involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture and map ground geometry effectively. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need to ensure that this data is delivered for tomorrow during the afternoon, aligning with our workflow update commitments.
