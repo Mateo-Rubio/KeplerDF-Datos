@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The raw physical simulation metadata provided in JSON format aims to translate into this request:
+
+Target geographic context involves capturing imagery of Giugliano in Campania, situated in Italia. The operational guidelines suggest describing the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Given that 'country', 'city', and 'landmark' have been provided, they are used directly to create a context for the satellite observation.
+
+Mission allocation priority is set at medium importance, indicating standard operational tasking or commercial tasking with fixed parameters representing normal operational status. The language must reflect the structural hierarchy of 'priority_level', interpreting it as part of a baseline pipeline tracking setup with an "urgent operational execution" implication and an "un-preemptable mission lock".
+
+Sensors and physical objectives dictate the use of SAR technology for this observation. The primary goal is an active radar scan utilizing microwave surface imaging to capture cloud-penetrating imagery or ground geometry, which is essential for a detailed understanding of the area under heavy weather conditions.
+
+The delivery deadline is specified as "in three days around mid-day", which must be included verbatim in the request without rephrasing, shortening, or altering the time and date specifics. The upper limit for data availability is clearly set without any inclusion of raw UTC timestamps, digits, or countdown metrics.
+
+In summary, the task request to the satellite constellation planner is:
+
+"Operational guidelines direct us to capture an active radar scan using SAR technology to monitor the area around Giugliano in Campania, Italia. This observation aims to provide detailed cloud-penetrating imagery or ground geometry for an urgent operational execution with the satellite tracking set as a baseline pipeline tasking. The deadline for this data collection is in three days around mid-day as per predefined parameters. Kindly ensure that these instructions are followed meticulously to provide accurate and timely information for our operational requirements."
+
+Please execute this task request accordingly, adhering strictly to the guidelines provided for a seamless and efficient satellite observation process.

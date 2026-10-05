@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that adheres to operational guidelines for naturalness and validation accuracy.
+
+The geographic context of this task involves a location in Indonesia, specifically the city of Mulya Bakti. Given the nested 'location_details' field includes country and city information but not landmark details, we'll describe this region using these parameters alone. To interpret the metadata organically, I will combine the 'country', 'city', and 'landmark' fields from 'location_details' naturally while avoiding raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is indicated by a value of 2, meaning this request falls under medium importance in our operational hierarchy. It should be framed as part of a "standard operational tasking" that is included in our "baseline pipeline tracking" setup with "fixed parameters", emphasizing "normal operational status" or a standard "workflow update".
+
+The primary sensor specified for this task is 'NIR', which translates to near-infrared reflection. The goal here is to map water body boundaries while assessing soil moisture levels, as this sensor helps discriminate gradients effectively.
+
+Our target day and diurnal period for capturing data is set for three days into the future, during an "overnight" period. This phrase is included verbatim as the upper limit for data availability, as resolved by an upstream module. No raw UTC timestamps or countdown metrics are to be used in this request.
+
+In summary, the task is to capture essential data using the near-infrared sensor during an overnight period three days ahead, focusing on mapping water body boundaries and assessing soil moisture levels in the city of Mulya Bakti, Indonesia. This request reflects our medium-importance priority level, aligning with our standard operational tasks while ensuring critical data collection for our baseline pipeline tracking.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request for your system. Here's the interpretation:
+
+We're tasked with capturing a high-resolution optical snapshot of Rassa, located in Italia, using the primary sensor VIS on the target day which is three days from now in the morning. This "true-color visual documentation" serves to provide a clear optical imagery for our operational use case.
+
+Given that this request is classified under priority level 1, I note it as a "low priority importance" task with a flexible schedule for "opportunistic capture". It's framed as a "background survey" or a "testbed tracking task", where the operator explicitly acknowledges that "drop or reschedule at convenience" will be considered when fitting this task into our workflow.
+
+The deadline for this task is already resolved by an upstream module, set for "in three days in the morning". No need to rephrase or shorten this phrase; it represents the upper limit for data availability. We understand the importance of adhering to this time frame but also acknowledge the flexibility for scheduling this non-essential background filler task.
+
+This natural and contextually rich request is intended to ensure that our satellite constellation planner efficiently allocates resources according to operational guidelines, while maximizing the quality and relevance of our dataset through organic interpretation of raw JSON parameters.

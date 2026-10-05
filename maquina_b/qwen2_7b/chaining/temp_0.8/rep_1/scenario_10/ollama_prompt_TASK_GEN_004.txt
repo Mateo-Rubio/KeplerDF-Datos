@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. The context of the mission involves capturing detailed imagery of San Vicente del Caguán, a city located in the country of Colombia, using the VIS sensor for a daylight optical snapshot.
+
+Given that this request falls under priority level 1, it can be framed as a low priority importance task with a flexible schedule for opportunistic capture. Explicitly noted by the operator is that this request is a non-essential background filler task, treated as a background survey or testbed tracking task, which allows for it to be dropped or rescheduled at convenience.
+
+The primary mission objective involves capturing clear optical imagery of the region to document day-to-day conditions and activities on-site. This serves to provide useful visual data without being an urgent operational execution that would require an un-preemptable mission lock, characteristic of a high priority level.
+
+The delivery deadline for this task is set as "the day after tomorrow around mid-day". This phrase serves as the upper limit for data availability, ensuring that all parties are aware of the precise time frame within which they should expect to receive the captured imagery.
+
+In conclusion, the request is to schedule the satellite to capture high-resolution optical snapshots of San Vicente del Caguán in Colombia using the VIS sensor for a daylight period around mid-day on the day after tomorrow as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
