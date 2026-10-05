@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's begin by examining the key details from the task context JSON to craft a request that meets the specified guidelines.
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates that the data collection should occur not tomorrow, but the day following that.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the data should be captured.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning". This is the specific part of the day mentioned for the task, and it will appear literally in the final request.
+
+d) It is important to confirm that we are not shifting the deadline to any other time. The specified deadline is clearly set for "the day after tomorrow, in the morning", and there is no indication or requirement to adjust this timeframe. Therefore, we will adhere strictly to this temporal parameter without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a task request for an Earth-observation mission focusing on Serravalle di Chienti in Italia. This is a low priority importance request with a flexible schedule intended for opportunistic capture. We are seeking thermal mapping of the area to detect heat signatures or map surface temperature profiles, using a thermal infrared sensor. Please consider this as a non-essential background filler task, and feel free to drop or reschedule at convenience. The mission is planned for the day after tomorrow, in the morning, aligning with our specified operational deadline.

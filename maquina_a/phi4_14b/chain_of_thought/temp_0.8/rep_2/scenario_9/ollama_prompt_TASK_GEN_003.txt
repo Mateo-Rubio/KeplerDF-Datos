@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific details for constructing a task request. Let's break down each part according to the given instructions:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates when the data capture should occur, with a strict deadline for delivering the resulting data products.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the task should be completed, aligning with the natural light conditions optimal for the sensor type being used.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning". This term will be included verbatim in the final task request to ensure clarity regarding the timing of the operation.
+
+d) It is crucial to confirm that the deadline is not being shifted to another part of the day. The instruction specifies using "in the morning" as the time frame, and this must remain unchanged. Therefore, I will adhere strictly to this timeframe without any alteration, ensuring compliance with the operational requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+I request a low-priority importance task with a flexible schedule for opportunistic capture over Bangka, Indonesia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to use near-infrared reflection to map water body boundaries and assess soil moisture, contributing to our broader environmental studies. Please ensure this task is completed on the day after tomorrow, in the morning.

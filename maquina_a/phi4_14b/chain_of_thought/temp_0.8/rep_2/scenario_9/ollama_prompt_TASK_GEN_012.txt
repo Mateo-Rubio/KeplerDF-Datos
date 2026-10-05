@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The `target_day` field in the JSON metadata is set to "tomorrow," which directly specifies the day when the data collection is expected. This clearly indicates that the data products need to be delivered by the end of the next day from when the request was made.
+
+The `target_diurnal_period` is specified as "overnight." This term suggests that the ideal time for satellite capture is during nighttime hours, which aligns with the operational characteristics of Near-Infrared (NIR) sensors. These sensors are adept at capturing data during low-light conditions, making overnight the optimal period for gathering information on features such as soil moisture levels or water body boundaries.
+
+The single word from the list {morning, mid-day, afternoon, evening, overnight} that is contained in "overnight" is "overnight." This term must be included verbatim in the final request to accurately convey the intended time for data capture.
+
+To ensure compliance with the operational guidelines, it is important to confirm that there is no intention to shift the deadline. The deadline remains strictly on "tomorrow" and during the "overnight" period. Adjusting this timeframe would violate the operational requirements and potentially impact the mission's objectives and deliverables.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for a flexible schedule aimed at opportunistic capture. The task involves capturing Near-Infrared (NIR) data over Malinau, Indonesia. This should focus on assessing water body boundaries or soil moisture levels. Given the priority level and the nature of the sensor, please treat this as a non-essential background filler task. Operators are advised to drop or reschedule at convenience if necessary. The deadline for this mission is tomorrow during the overnight period, which offers optimal conditions for NIR imaging.

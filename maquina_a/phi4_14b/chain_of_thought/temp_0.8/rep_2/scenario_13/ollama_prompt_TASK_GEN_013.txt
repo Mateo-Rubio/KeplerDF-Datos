@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) The request specifies that the capture should occur "in the morning" of "tomorrow." There is no indication or permission to shift this deadline to an adjacent part of the day. The temporal parameters are strict and must be adhered to as an operational deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking involving Campo Capote, Colombia, where we require multispectral vegetation analysis using VNIR sensors. This request is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update. We need to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The data must be captured tomorrow in the morning.

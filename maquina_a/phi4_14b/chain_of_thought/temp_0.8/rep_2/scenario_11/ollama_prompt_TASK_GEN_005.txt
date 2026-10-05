@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in 'target_diurnal_period' that matches one of the specified options is "evening". This word must be included in the final request.
+
+d) I need to ensure that the deadline is not shifted to an adjacent part of the day. The given parameters specify "tomorrow" as the target day and "in the evening" as the diurnal period. There is no indication or need to adjust these to another time, so the deadline remains strictly set for tomorrow evening.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority task requiring a critical thermal mapping of Latina, Italia, to capture a detailed heat signature, surface temperature profile, and potential thermal anomalies. This mission allocation is a binding contract requirement with a mandatory directive for urgent operational execution. The satellite constellation must lock this mission as un-preemptable, ensuring high-value asset engagement. It is crucial that the thermal imaging be completed by tomorrow evening, capturing the necessary data with precision and timeliness.
