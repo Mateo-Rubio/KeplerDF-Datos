@@ -1,0 +1,20 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline specified is for tomorrow in the morning.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON data, our request must adhere to a conversational English format that accurately represents the mission's objectives and priority while maintaining adherence to the guidelines specified.
+
+---
+
+Considering the geographic context of Colombia and Puerto Lleras, we are tasked with conducting a routine monitoring operation for water body boundaries and soil moisture assessment using near-infrared (NIR) technology. This task falls under Priority 1, which implies that it is part of the baseline pipeline tracking setup with normal operational status but acknowledges the flexibility in scheduling for opportunistic capture.
+
+Tomorrow morning, we aim to capture high-resolution optical snapshots of the area using this technology. We seek an active radar scan through the use of microwave surface imaging, penetrating any heavy weather or capturing ground geometry. The primary goal is to conduct thermal mapping to identify heat signatures and create a surface temperature profile, allowing for detection of thermal anomalies and mapping of heat emissions.
+
+This task represents a critical payload capture under an institutional priority level, emphasizing our commitment to providing essential background survey information and data on water body boundaries and soil moisture content. We recognize the importance of this request but also note its flexibility in scheduling, treating it as a non-essential background filler task that can be conveniently dropped or rescheduled according to operational needs.
+
+The deadline for delivering the data products is strictly tomorrow morning, adhering to the original target time without altering, extending, shifting, or interpreting the deadline in any way.
