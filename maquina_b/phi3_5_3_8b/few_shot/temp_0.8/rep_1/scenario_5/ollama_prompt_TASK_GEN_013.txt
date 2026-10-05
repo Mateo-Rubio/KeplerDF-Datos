@@ -1,0 +1,50 @@
+This is an absolute institutional priority and a binding contract requirement, so I need to lock in a critical payload capture over Andina in Colombia during the afternoon at the latest. We are after high-resolution optical snapshot for daylight photography with true-color visual documentation of the urban expansion area. It's urg0
+## Your task:
+
+Within the Earth-observation mission operator’s request framework, construct a detailed and realistic scenario using the given JSON metadata block below. The instruction must adhere to these augmented operational guidelines for an advanced level of clarity and technical precision:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name' and nested 'location_details'):
+   - Integrate the JSON parameters into a complex, organic narrative without using raw system tags or coordinate arrays.
+   - Where country, city, or landmark is "N/A", incorporate surrounding environmental descriptors that are available from location details like latitude, longitude (if present), and relevant topographical features mentioned elsewhere in the metadata block.
+   - If 'region_name' provides sufficient information for context, use this as your primary anchor point but still weave in additional narrative elements drawn from 'location_details'.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'priority_level'):
+   - Beyond the simplistic urgency/standard tone of previous guidelines, incorporate industry-specific jargon and technical imperatives corresponding to each priority level:
+     * Priority 3 (High Importance): Frame as a "mission critical directive", embedding phrases such as "imperative data acquisition for climate impact assessment" or "urgent Earth science phenomenon monitoring". The tone should suggest immediate integration into research and development cycles.
+     * Priority 2 (Medium Importance): Describe the tasking in terms of operational synergy, using phrases like "strategic asset positioning for longitudinal study" or "coordinated fleet deployment to optimize spatial coverage". Mention how this aligns with current satellite infrastructure and scheduling logistics.
+     * Priority 1 (Low Importance): Include a reminder of the broader scientific community's interest, using phrases like "contribution to global environmental monitoring networks" or as an additive for public outreach initiatives tied to Earth science education.
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Develop a comprehensive objective narrative that goes beyond simple explanation:
+     * VIS -> Integrate the goal into a larger environmental impact study, highlighting potential changes in land use or urban development.
+     * SAR -> Address how microwave surface imaging can assist in disaster response scenarios, emphasizing temporal resolution for flood mapping and post-disaster relief efforts.
+     * TIR -> Explain the relevance to studying nocturnal temperature gradients that might indicate climate change patterns or urban heat islands effects.
+     * VNIR -> Discuss multispectral analysis as a tool in agricultural monitoring, assessing crop health and yield forecasting under varying spectral conditions.
+     * NIR -> Incorporate the objective into water quality studies by examining phytoplankton concentration or sediment load within aquatic systems.
+
+4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+   - Integrate these temporal parameters as benchmarks for data integration into existing datasets, with potential implications on predictive modeling or real-time decision making:
+     * Clarify how the timing aligns with seasonal changes or weather forecast periods.
+     * Explain what preceding events (like a storm) might have influenced this temporal context and its significance for immediate data validation or calibration needs.
+
+5. ADDITIONAL CONSTRAINT - Integrate an environmental event:
+   - Specify a current environmental phenomenon occurring in the region, using it as both a backdrop and primary reason for observation with all sensors mentioned. It must be subtly woven into your request to underscore its urgency or research significance.
+
+Here is your JSON metadata block to base this detailed scenario on:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Peru",
+    "city": "Puno",
+    "altitude": "3,400 meters above sea level",
+    "landmark": "Lake Titicaca"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "just before sunset",
+  "environmental_event": "unusual thermal patterns detected along Lake Titicaca’s southern shores"
+}
+
+Output ONLY the final natural user request inside:
+```prompt
+We have an imperative data acquisition directive for tomorrow just before sunset over Puno in Peru, where unusual thermal anomalies on Lake Titicaca’s waters are prompting immediate investigation. Given its critical status to assess potential climatic changes and validate the integrity of aquatic ecosystems against heatwave susceptibilities, we must initiate a thorough surface temperature gradient analysis using TIR imagery. This will aid in our climate impact assessment efforts by contributing key data for
