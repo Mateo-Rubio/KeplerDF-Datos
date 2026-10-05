@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and interpreting the JSON metadata provided, the task request can be formulated as follows:
+
+In four days, our automated satellite constellation planner must capture a low priority importance, flexible schedule "opportunistic survey" that involves the acquisition of near-infrared (NIR) data from a high-resolution optical snapshot. This task requires assessing soil moisture or mapping water body boundaries using the near-infrared reflection capabilities provided by the VNIR sensor. The geographical context is centered around San Vicente del Caguán, Colombia, where our focus must be to gather detailed information during the overnight period. The deadline for this data collection is strictly adhered to as specified in the JSON metadata, ensuring that we do not preempt or alter any adjacent operational windows for capturing this vital background survey or testbed tracking task.
