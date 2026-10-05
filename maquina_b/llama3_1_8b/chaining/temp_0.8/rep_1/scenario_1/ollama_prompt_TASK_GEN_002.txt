@@ -1,0 +1,15 @@
+Translate the provided physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission. 
+
+The task involves translating the raw metadata into an operational request that can be submitted to the automated satellite constellation planner. The goal is to create a natural and conversational request that can be easily understood by the system.
+
+According to the provided guidelines, we need to interpret the metadata organically and combine the parameters naturally. We should describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we can ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The priority level indicates mission allocation authority and asset contractual value, NOT how close the deadline is. We need to integrate specific operational phrases to reflect this structural hierarchy. For a priority 3 (High Importance) request, we should use an authoritative, explicit, and commanding tone. This involves framing the request as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+For this task, we have a priority 3 (High Importance) request. We need to translate the provided metadata into an operational request that meets the above criteria.
+
+The primary sensor is TIR, which involves "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. 
+
+The location is in France, specifically in Calvi. This can be described as a high-priority task involving thermal mapping over the region of Calvi in France.
+
+This task must be treated as an absolute institutional priority and a binding contract requirement involving a critical payload capture. The task should be executed with urgent operational execution and an un-preemptable mission lock. The data should be delivered by tomorrow in the evening.
