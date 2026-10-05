@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) Upon reviewing the context, it's clear that the temporal parameters represent a strict operational deadline to deliver data products, and the task should be executed on the specified day and time. There is no indication of shifting the deadline to an adjacent part of the day, so the task should be executed as planned: tomorrow in the evening.
+
+STAGE 2 - FINAL REQUEST
+
+This task represents a low-priority importance request with a flexible schedule for opportunistic capture. We are interested in conducting a "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions, using the Thermal Infrared (TIR) sensor. The location of interest is in Indonesia, specifically in the city of Ecuatorial. This task is not essential and can be dropped or rescheduled at convenience if needed, but we would like to capture a high-resolution thermal image tomorrow in the evening as part of a non-essential background filler task.

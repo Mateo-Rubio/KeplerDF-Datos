@@ -1,0 +1,9 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) I am not shifting the deadline to an adjacent part of the day, as "around mid-day" implies a flexible time frame within the middle of the day, but still confines the data delivery to within that general period.
