@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. This translation must adhere to specific operational guidelines that ensure maximum naturalness and validation accuracy.
+
+Firstly, interpreting the GEOGRAPHIC CONTEXT involves understanding the 'region_name' and nested 'location_details'. Given that 'country', 'city', and 'landmark' fields from 'location_details' are 'Colombia' and 'Medio San Juan', I can combine these naturally. As 'landmark' is "N/A", I'll describe the location using 'country' and 'city'. Thus, we're focusing on a satellite request for Colombia's Medio San Juan region.
+
+Regarding MISSION ALLOCATION PRIORITY, recognizing 'priority_level' as 3 signifies High Importance. This implies an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture". The language must heavily imply "urgent operational execution" and an "un-preemptable mission lock", emphasizing the necessity of a "standard operational tasking".
+
+Next, SENSORS AND PHYSICAL OBJECTIVES interpret 'primary_sensor' as 'SAR'. I'll explain the goal for an "active radar scan" using "microwave surface imaging" to capture "cloud-penetrating data". The objective is to pierce heavy weather conditions or capture ground geometry accurately.
+
+The DELIVERY DEADLINE, set for "tomorrow in the morning", must be inserted verbatim into the request. The upper limit for data availability dictates this precise timeframe, as it aligns with the deadline already resolved by an upstream module.
+
+Combining all these guidelines and interpreting the JSON metadata naturally, my request to our satellite constellation planner is:
+
+"Please urgently prioritize a mission allocation for tomorrow in the morning over Colombia's Medio San Juan region using active radar scanning. This task is of absolute institutional importance due to its binding contract requirement involving a critical payload capture. The objective is to obtain cloud-penetrating data and ground geometry with microwave surface imaging to ensure high precision and reliability. This standard operational tasking necessitates urgent attention and execution to meet the un-preemptable mission lock timeframe."
+
+This request seamlessly integrates natural language that adheres to our operational guidelines while effectively conveying the specific technical parameters of the task in an understandable manner."

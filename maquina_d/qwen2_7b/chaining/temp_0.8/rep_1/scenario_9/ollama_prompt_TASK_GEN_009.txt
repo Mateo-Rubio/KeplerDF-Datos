@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request for a highly realistic translation of raw physical simulation metadata provided in JSON format. The objective is to translate this into a single request that maximizes the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to specific guidelines.
+
+The geographic context involves identifying the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. For the given metadata, the 'country' field identifies the region as Indonesia, while the 'city' field mentions 'Ecuatorial'. However, since 'city' is marked as 'N/A', we'll focus on the country for our description.
+
+The mission allocation priority is determined by the 'priority_level'. In this case, it's set to level 1, which aligns with a "low priority importance" request. I will use a casual, highly flexible tone for this request, labeling it as a "flexible schedule non-essential background filler task", indicating that this operator explicitly notes the option to "drop or reschedule at convenience". It's described as a "background survey" or "testbed tracking task".
+
+Sensors and physical objectives include using 'primary_sensor' to interpret observational goals. Here, TIR is selected as the primary sensor, aimed at capturing thermal mapping for Indonesia. The goal focuses on capturing a "heat signature", "surface temperature profile", or conducting "thermal anomaly detection", emphasizing the importance of observing heat emissions.
+
+The delivery deadline has already been resolved by an upstream module and is set to "in three days around mid-day". This phrase will be inserted verbatim into the request, maintaining the upper limit for data availability without altering its form or moving it to a different part of the day.
+
+In summary, this task request is for thermal mapping using TIR sensors in Indonesia on the country level. It's tagged as a "low priority importance" background survey with flexible scheduling options due to the deadline timeframe set for "in three days around mid-day". The request will be executed considering these operational guidelines for a natural and accurate translation of the metadata.
