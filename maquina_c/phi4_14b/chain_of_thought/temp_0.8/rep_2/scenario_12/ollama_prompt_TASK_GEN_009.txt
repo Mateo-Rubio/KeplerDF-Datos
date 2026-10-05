@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves examining specific metadata elements to formulate a realistic and operational request for an Earth-observation mission. First, I will focus on identifying and understanding the strings provided for 'target_day' and 'target_diurnal_period'. 
+
+a) The exact string in 'target_day' is "today". This indicates that the requested data needs to be delivered within the current day, emphasizing a sense of immediacy.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time during which observations are desired. 
+
+c) Within the phrase "in the evening", the word "evening" is explicitly mentioned and aligns with the specified diurnal period. This term must appear in the final request to maintain alignment with the provided metadata.
+
+d) It is crucial not to shift the deadline or adjust the timeframe. The deadline set for "today in the evening" remains fixed, reflecting a strict operational requirement for data delivery within this exact window.
+
+### STAGE 2 - FINAL REQUEST
+
+For this mission, we need to carry out a standard operational tasking focusing on the Kapit region in Malaysia. This task involves deploying near-infrared reflection sensors to capture detailed information about water body boundaries and assess soil moisture levels. As part of our baseline pipeline tracking setup, this request is treated with medium importance, following fixed parameters for regular workflow updates. The data products should be delivered by today in the evening, ensuring timely integration into our ongoing environmental monitoring operations.
