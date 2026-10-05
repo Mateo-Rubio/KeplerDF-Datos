@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon." This word must appear literally in the final request.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The metadata specifies the task should be completed "tomorrow during the afternoon," and this specific timeframe must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking involving routine monitoring as part of our baseline pipeline tracking. The assignment involves an active radar scan using microwave surface imaging for cloud-penetrating capture over the northern region of Italy, focusing on capturing ground geometry and any significant features. This operation is scheduled with fixed parameters and represents normal operational status. Please ensure that this mission is executed tomorrow during the afternoon, aligning strictly with the given deadline to deliver the data products as planned.

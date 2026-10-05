@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates when the data delivery is expected, without implying any flexibility or rescheduling.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day for the observation to be captured.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day." This must appear literally in the final request as it describes the specific time period for data capture.
+
+d) The instructions clearly state that the temporal parameters represent a strict operational deadline. Therefore, the deadline should not be shifted to an adjacent part of the day. It is crucial to adhere to the specified "around mid-day" timeframe on "in three days."
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a request for an observation mission over Indonesia, focusing on the area near Ecuatorial. This task is considered a low priority importance with a flexible schedule for opportunistic capture. Please treat it as a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to use near-infrared reflection for assessing water body boundaries or soil moisture levels. The data should be captured around mid-day in three days, and it will serve as a useful component of our background survey activities.
