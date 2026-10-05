@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "in three days."
+
+b) The exact string present in 'target_diurnal_period' is "in the evening."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in 'target_diurnal_period' is "evening." This word must be included verbatim in the final request.
+
+d) The deadline is strictly stated as "in three days" and "in the evening," which specifies a specific diurnal period for data capture. It's crucial not to shift this deadline to any other part of the day, such as morning, mid-day, or overnight. The request must adhere to these specified temporal parameters without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+We are looking for an opportunistic schedule for a low-priority importance task involving the capture of near-infrared reflection imagery over the Ecuatorial region in Indonesia. This is intended for water body boundary mapping or soil moisture assessment. Please note that this is a non-essential background filler task, and we can drop or reschedule it at your convenience. We aim to have the data delivered in three days in the evening, adhering strictly to our outlined timeline.

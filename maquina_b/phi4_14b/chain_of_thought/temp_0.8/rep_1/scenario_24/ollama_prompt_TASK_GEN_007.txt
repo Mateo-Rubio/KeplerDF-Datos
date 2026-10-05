@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This word must appear literally in the final request.
+
+d) There is no indication or reason to shift the deadline to an adjacent part of the day. The requirement specifies "in the evening" for today, and it should be respected as such.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for monitoring the city of El Playón in Colombia, using near-infrared reflection. The objective is to map water body boundaries and assess soil moisture levels in this region. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that the data is captured today in the evening as per the scheduled workflow update.

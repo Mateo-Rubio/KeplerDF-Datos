@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request.
+
+d) The task explicitly specifies "the day after tomorrow, in the evening" as the deadline. There's no indication to shift this to an adjacent part of the day, and adhering strictly to these temporal parameters ensures compliance with operational requirements.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance request for an active radar scan over Norte, utilizing microwave surface imaging to achieve cloud-penetrating capture. This task is flexible in terms of scheduling and can be treated as a non-essential background filler task; operators should feel free to drop or reschedule it at their convenience. The data should be captured on the day after tomorrow, in the evening.

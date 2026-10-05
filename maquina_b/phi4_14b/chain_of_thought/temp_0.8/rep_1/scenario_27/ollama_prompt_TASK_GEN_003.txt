@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase explicitly defines when the observation should take place, indicating that the mission should be planned for two days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the satellite imagery needs to be captured, focusing on early daylight hours.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning." This word must appear literally in the final request as it defines a specific part of the day when the observation should occur.
+
+d) The temporal parameters provided are explicit and do not allow for flexibility or shifting to another part of the day. It is essential to adhere strictly to the specified deadline, which is "the day after tomorrow, in the morning," without altering or extending it.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low-priority request for an Earth-observation task that should be conducted at your convenience. The objective is to capture a high-resolution optical snapshot over Hiang Karya, Indonesia. Given the flexible nature of this task, please feel free to drop or reschedule it if needed. We are looking for clear optical imagery during daylight photography and true-color visual documentation. The data is desired for the day after tomorrow, in the morning.

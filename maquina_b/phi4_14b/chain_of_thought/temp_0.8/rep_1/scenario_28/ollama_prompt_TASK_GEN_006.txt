@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specifies the timeline for when the data capture should be completed, reflecting a specific deadline rather than an orbital scheduling window.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This indicates the desired time of day for capturing imagery or data, focusing on a specific period within the day.
+
+c) The single word contained in that string is "mid-day." This must be explicitly included in the final request to specify when during the day the operation should occur.
+
+d) It's crucial to confirm that we are not shifting the deadline to an adjacent part of the day. The request specifies capturing data "around mid-day" on "the day after tomorrow," which means the timing is fixed as per the mission requirements. This ensures adherence to the strict operational deadline without altering the intended diurnal period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for opportunistic capture over Ecuatorial, Indonesia. We're looking for a flexible schedule that allows us to include this task at convenience. The goal is to perform a multispectral vegetation analysis using near-infrared reflection. This will help assess the chlorophyll absorption level and calculate a vegetation NDVI index. Please aim to complete this around mid-day on the day after tomorrow. As it's a non-essential background filler task, feel free to drop or reschedule at your discretion if necessary.
