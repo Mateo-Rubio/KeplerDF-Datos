@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the specific time by which the data products need to be delivered, reflecting the urgency and operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the period during which the satellite observation should occur, aligning with the operational requirements.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight." This word will be used to describe the time frame for the data capture.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The specified period is strictly "overnight," and this timeframe will be adhered to without alteration. The delivery of data products is required by "tomorrow," maintaining the integrity of the operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture over Indonesia, specifically in Ecuatorial. This task involves a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate the NDVI index. The goal is to gather valuable insights into vegetation health and surface reflectance. Given its flexible schedule, this can be treated as a non-essential background filler task, allowing for adjustments or rescheduling at convenience. We aim to complete this task by tomorrow, with data capture occurring overnight.

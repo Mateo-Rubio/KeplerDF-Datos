@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string from the list {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The operational requirement specifies that data must be delivered by "around mid-day tomorrow," and this timing will remain as specified without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a thermal mapping mission over La Paz, Colombia. This routine monitoring activity involves capturing heat signatures using thermal imaging technology to assess surface temperature profiles. The task is part of our baseline pipeline tracking setup with fixed parameters and is scheduled as a workflow update. Please ensure the data products are delivered by around mid-day tomorrow.

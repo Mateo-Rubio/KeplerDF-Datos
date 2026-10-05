@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, let's examine the 'target_day' key within the provided JSON metadata. The exact string present there is "tomorrow." This indicates that the task must be completed by the day following the current one, without any further specification.
+
+Next, we look at the 'target_diurnal_period' key. The value here is "in the morning." This specifies the time of day when the observation should ideally occur, focusing on the early hours of the day.
+
+From this phrase, the single word that appears explicitly and must be included in the final request is "morning." This term pinpoints the exact time frame within the day when the observation is intended to happen.
+
+Lastly, it's important to confirm that there is no intention to alter or shift the deadline. The task must be executed precisely on "tomorrow" during the "morning," adhering strictly to these temporal parameters without any deviation into adjacent times of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture focusing on Sekadau, Indonesia. This task involves near-infrared reflection to aid in mapping water body boundaries and assessing soil moisture levels, contributing to our understanding of local environmental conditions. The request has a flexible schedule, allowing for the possibility to drop or reschedule at convenience. We are targeting this observation for tomorrow in the morning, fitting it into our background survey activities without demanding immediate attention.

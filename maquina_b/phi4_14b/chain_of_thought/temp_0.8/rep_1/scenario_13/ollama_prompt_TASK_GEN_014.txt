@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+The 'target_day' field in the JSON metadata specifies an exact string "in three days," which indicates the deadline for the task completion. This string will be used verbatim in our final request to clearly communicate when the data products are expected.
+
+Similarly, the 'target_diurnal_period' is defined as "overnight." This phrase suggests that the desired observation or data capture should occur during nighttime hours. Among the options provided — morning, mid-day, afternoon, evening, overnight — the word "overnight" is explicitly present in this string and will be included in the final request to ensure clarity on the timing of the task.
+
+It's important to note that the 'target_diurnal_period' clearly outlines the timeframe as being during nighttime, indicating that the data capture should occur between dusk and dawn. As such, there is no need to shift or reinterpret this time frame to an adjacent part of the day. This ensures that we adhere strictly to the temporal parameters provided, respecting the operational deadline without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low priority importance task for the region known as Norte, where the city is specified but no country or landmark is available. This should involve a flexible schedule for opportunistic capture and can be treated as a non-essential background filler task. Please note that this task can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. We are aiming for a high-resolution optical snapshot, focusing on daylight photography, clear optical imagery, or true-color visual documentation using the VIS sensor. The data collection should occur overnight and is required in three days.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This string indicates the day on which the data delivery deadline is set.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the satellite task should be completed, within the context of "tomorrow."
+
+c) The single word contained in this string from the list {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request to accurately reflect the time of day specified.
+
+d) It's important to confirm that we are not shifting the deadline. The operational deadline specified is "tomorrow, in the morning." This means the task must be completed by the end of the morning period on the following day. Any adjustments to the time frame would alter the original requirement and are not permissible. Therefore, we will adhere strictly to the given deadline without any shifts.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an opportunistic thermal mapping task over the region known as Norte. With a flexible schedule in mind, we ask for a thermal signature capture that can deliver a surface temperature profile, focusing on detecting any potential thermal anomalies. This task should be completed by tomorrow, in the morning, as part of our routine monitoring efforts. Please note that this is a non-essential background filler task, so you may drop or reschedule it at your convenience if necessary.
