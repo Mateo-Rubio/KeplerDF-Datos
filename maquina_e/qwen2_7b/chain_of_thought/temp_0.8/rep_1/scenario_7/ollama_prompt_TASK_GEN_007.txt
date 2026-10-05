@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The word contained in that string which must appear literally in your final request is "mid-day".
+
+d) You are not shifting the deadline to an adjacent part of the day, as it remains strictly at "mid-day" on the specified day.
+
+STAGE 2:
+
+Given our target task context, the operational request can be framed as follows:
+
+As of "the day after tomorrow", around mid-day, we aim to capture high-resolution active radar scans using microwave surface imaging technology. Specifically for the region encompassing Valdivia, Colombia, this mission involves cloud-penetrating radar imagery to capture ground geometry details that are essential under varied atmospheric conditions.
+
+This "standard operational tasking" is part of our baseline pipeline tracking system and represents normal operational status. As such, this is a binding contract requirement involving fixed parameters and it's considered a routine monitoring activity. The data collection will commence mid-day on the specified day without any adjustment to earlier or later times, adhering strictly to the deadline.
+
+While the technical priority level indicates low importance, we view this as an "absolute institutional priority" due to its crucial role in our workflow update process. It signifies a non-essential background filler task that will be executed with flexibility and may be dropped or rescheduled at convenience, treating it as a background survey activity.
+
+In summary, the SAR capture aims to provide critical data on ground geometry specifics through an active radar scan around mid-day on "the day after tomorrow", for the region of Valdivia in Colombia. This task aligns with our standard operational parameters and is vital for our baseline pipeline tracking system, albeit at a low priority level, allowing for convenient scheduling adjustments as required.
