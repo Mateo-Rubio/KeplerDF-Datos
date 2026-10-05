@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed on the day following today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the data collection should occur.
+
+c) The single word contained in the string "in the morning" from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will be used verbatim in the final request to specify the timing.
+
+d) The deadline specified as "tomorrow in the morning" should not be altered or shifted. It is critical to adhere strictly to this timeframe, ensuring that the data collection occurs on that specific day and time without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a standard operational tasking for a satellite observation over Northern Italy, focusing specifically on the city region of "Norte". This mission involves capturing near-infrared reflection imagery to assess water body boundaries and soil moisture levels. The priority of this task is set at medium importance, reflecting its role as part of our baseline pipeline tracking with fixed parameters in our normal operational status. Please ensure that data collection is completed tomorrow in the morning. Thank you for prioritizing this within your workflow update schedule.

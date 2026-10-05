@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data delivery deadline is set for the day following the current one.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite data capture should occur, spanning from evening through to early morning.
+
+c) The single word contained in "overnight" that matches from the given set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term directly informs us about the specified time window for data acquisition and will be used verbatim in the final request.
+
+d) There is no indication to shift or alter the deadline beyond what has been specified. The deadline for delivering the data products remains strictly set for "tomorrow" during the "overnight" period, ensuring that the timing is precisely adhered to as per the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for a medium-priority mission over Otanche in Colombia. This involves an active radar scan using microwave surface imaging capabilities to capture cloud-penetrating imagery and ground geometry during the overnight period. The data delivery deadline is set for tomorrow, aligning with our routine monitoring requirements and ensuring this forms part of our baseline pipeline tracking setup with fixed parameters.

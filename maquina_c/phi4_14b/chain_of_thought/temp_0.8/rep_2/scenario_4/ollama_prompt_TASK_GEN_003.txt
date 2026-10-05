@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides several key details that need to be interpreted for crafting a natural and realistic task request. 
+
+a) The 'target_day' string is "the day after tomorrow". This specifies the exact deadline for when the data products are needed, without any room for shifting or reinterpreting.
+
+b) The 'target_diurnal_period' string is "overnight". This indicates the specific time frame during which the data capture should occur. It is essential to maintain this period as specified to meet the operational requirements.
+
+c) From the given options {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "overnight". This word must be used literally in the final request to accurately reflect the timing of the task.
+
+d) It is crucial to confirm that the deadline is not being shifted to any other part of the day. The metadata specifies "overnight" as the period for data capture, and this must be adhered to strictly. There is no indication or allowance for altering this timeframe, so the task must be planned around capturing data specifically during the overnight hours on "the day after tomorrow".
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a thermal mapping task over Banyuasin, Indonesia, focusing on capturing surface temperature profiles and detecting any thermal anomalies. This is a standard operational tasking, part of our routine monitoring efforts, with fixed parameters indicating normal operational status. The data should be collected using a TIR sensor for a detailed heat signature analysis. Please ensure that the capture occurs overnight, the day after tomorrow.

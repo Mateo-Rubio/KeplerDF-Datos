@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating specific metadata into a natural and conversational request format. Let's begin by examining the relevant details.
+
+a) The exact string in 'target_day' is "in three days". This specifies when the data capture should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the time of day for the task execution.
+
+c) From the list {morning, mid-day, afternoon, evening, overnight}, the word "evening" is contained in the 'target_diurnal_period' string. This will be directly included in the final request to specify the timing.
+
+d) It's important to confirm that there is no intention to shift the deadline to a different part of the day. The instructions clearly state that the deadline represents a strict operational deadline for delivering the data products. Therefore, the task must be completed "in three days" during the "evening," without any adjustment to the timing.
+
+### STAGE 2 - FINAL REQUEST
+
+I need you to set up an observation task focused on Quincinetto, Italy. This is a low-priority importance request with a flexible schedule for opportunistic capture. It would be great if this could be handled as a non-essential background filler task where we can drop or reschedule at convenience. The goal is to obtain a high-resolution optical snapshot for clear optical imagery during the evening in three days.

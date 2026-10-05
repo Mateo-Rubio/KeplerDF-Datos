@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "the day after tomorrow". This specifies the deadline for when the data products must be delivered.
+
+b) The exact string present in 'target_diurnal_period' is "overnight". This indicates when during the specified day the observation should occur.
+
+c) The single word contained in the string 'target_diurnal_period' that matches with the provided list {morning, mid-day, afternoon, evening, overnight} is "overnight". This must be included verbatim in the final request to specify the time frame for capturing the data.
+
+d) It is important to confirm that there is no intention of shifting the deadline to another part of the day. The deadline remains strictly defined as "the day after tomorrow" during the "overnight" period, ensuring adherence to the specified timeline without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority and a binding contract requirement for a mission involving Campagnatico, Italy. We mandate a critical payload capture using near-infrared reflection technology, specifically aimed at soil moisture assessment. This task must be conducted overnight on the day after tomorrow, as it forms part of our non-preemptable mission lock strategy. The request reflects an urgent operational execution and necessitates strict adherence to this timeline.

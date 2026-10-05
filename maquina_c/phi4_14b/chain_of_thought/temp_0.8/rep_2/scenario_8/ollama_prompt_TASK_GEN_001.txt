@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves observing a location in Colombia, specifically the city of Murindó, using a visible light (VIS) sensor. Let's analyze the metadata:
+
+a) The exact string present in 'target_day' is "in three days". This indicates the timeframe by which the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in this string is "evening". This will be a key part of describing the timing for the task in the final request.
+
+d) It's crucial to confirm that the deadline is not being shifted. The deadline is set strictly as "in three days" during the "evening". There is no indication or requirement to adjust this timeframe, so it should remain as specified.
+
+### STAGE 2 - FINAL REQUEST
+
+I'd like to request a low-priority importance observation of Murindó in Colombia, with a flexible schedule for opportunistic capture. This non-essential background filler task involves taking a high-resolution optical snapshot in the evening, in three days. Please feel free to drop or reschedule this at your convenience, treating it as a background survey or testbed tracking task.
