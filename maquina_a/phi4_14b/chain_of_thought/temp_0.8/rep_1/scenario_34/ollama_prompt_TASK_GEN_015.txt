@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+In examining the provided JSON metadata for the task request, we start by identifying the specific strings for 'target_day' and 'target_diurnal_period'. The exact string found in 'target_day' is "today". This indicates that the mission's data delivery deadline is set for the current day. The string for 'target_diurnal_period' is "during the afternoon", which specifies when within the day the satellite should capture the required imagery or data.
+
+The next step is to pinpoint a specific word from the set {morning, mid-day, afternoon, evening, overnight} that is included in the 'target_diurnal_period' string. The word "afternoon" appears literally within this context. This temporal detail is crucial as it narrows down the satellite's operation window to the afternoon hours of today.
+
+It is important to confirm that we are not altering the specified deadline. The instructions emphasize that the provided temporal parameters represent a strict operational deadline, not just a capture window, and must be adhered to without any adjustments. Thus, the deadline remains firmly set for "today during the afternoon", and we must ensure the task aligns with this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority mission with a binding contract requirement involving a critical payload capture. We urgently request a thermal mapping task over Indonesia, specifically targeting Mak Teduh, to capture a surface temperature profile today during the afternoon. This high-priority directive must be executed with an un-preemptable mission lock, ensuring that the necessary thermal anomaly detection data is delivered without delay, as it is critical for our operational objectives.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "today".
+
+b) The exact string present in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight".
+
+d) The parameters specify a strict operational deadline, meaning the data products must be delivered for the specified time without altering the timeframe. The requirement states that the observation should occur overnight on today, ensuring that there is no shift to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a low-priority importance request for a flexible schedule capturing vegetation characteristics in Tanjung Jabung Timur, Indonesia. The task involves using the multispectral capabilities of our sensors to conduct a vegetation analysis focusing on chlorophyll absorption levels or calculating an NDVI index. This is an opportunistic capture and can be dropped or rescheduled at convenience. Please plan for the data delivery today, specifically during the overnight period.

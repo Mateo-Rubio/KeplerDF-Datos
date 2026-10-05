@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This directly indicates when the data products need to be delivered, adhering strictly to this deadline without any modification.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time frame during which the observation should occur, focusing on the nighttime period.
+
+c) The single word contained in the string "overnight" from the options {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be used literally in the final request to specify the timing of the task.
+
+d) I am confirming that there is no intention to shift the deadline to an adjacent part of the day. The operational deadline is explicitly set for "in three days" during the "overnight" period, and this timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need to schedule a high-priority mission for an NIR sensor to perform near-infrared reflection analysis aimed at soil moisture assessment in the region of Ecuatorial. This task is a critical payload capture with absolute institutional priority, reflecting a binding contract requirement. It involves a cloud-penetrating capture using microwave surface imaging to assess water body boundary mapping and discriminate gradients. The observation must be conducted overnight, and the data products delivered in three days. This mission lock is un-preemptable, ensuring urgent operational execution as mandated by our directive.

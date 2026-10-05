@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+The 'target_day' key in the JSON metadata is specified as "tomorrow." This indicates that the data capture and delivery are expected to occur on the day following today, without any alteration or shifting of this deadline. It represents a clear deadline rather than an orbital window.
+
+The 'target_diurnal_period' key specifies "overnight." This means that the optimal time for capturing the data is during the night hours when visibility conditions are as described in the metadata. The term "overnight" directly informs us about the timing constraints for data capture, emphasizing that the mission should occur during nighttime.
+
+From the available options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is explicitly present in 'target_diurnal_period.' This literal presence indicates that the data capture must occur during nighttime hours, reinforcing that there is no flexibility or shift to any other part of the day, such as morning or afternoon. Therefore, we confirm that the deadline remains strictly for the overnight period on the next day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a mission allocation in Kotawaringin Timur, Indonesia, which involves a standard operational tasking focused on commercial tasking and routine monitoring. This task forms part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update. Our objective is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, ensuring we pierce through heavy weather conditions to accurately capture ground geometry. This data is crucial for assessing the area's current conditions and must be delivered by tomorrow overnight. Please ensure that this mission is scheduled accordingly without any delays or rescheduling, as it forms a core part of our standard operational tasks.
