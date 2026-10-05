@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string from the list {morning, mid-day, afternoon, evening, overnight} is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given that our target day for data acquisition is tomorrow and we're focusing on the morning period, our operational request will be for an early-morning active radar scan using microwave surface imaging. This task aims to capture detailed ground geometry as we penetrate through any heavy weather conditions, ensuring our imagery meets the necessary quality standards for our baseline pipeline tracking setup.
+
+We're prioritizing this mission allocation with a low importance level, acknowledging that it's part of our standard operational tasks with fixed parameters representing normal operational status. While this is not an urgent requirement, we do expect to receive the data products before the target day has progressed beyond morning hours. As such, please treat this request as a non-essential background filler task, where you may drop or reschedule at your convenience if needed.
+
+As we look towards fulfilling this "low priority importance" request, our primary sensor of choice is SAR (Synthetic Aperture Radar). This will allow us to obtain high-resolution images and data relevant to our study area in Indonesia's Tanjung Jabung Timur city, capturing a heat signature for thermal anomaly detection and mapping heat emissions.
+
+We are mindful of the deadline set for the 'target_day' string "tomorrow," which is crucial as it serves as our operational delivery deadline for the data products. We emphasize that this does not refer to altering or extending the orbital capture window but rather the strict time frame by which we must receive the information.
+
+In summary, please proceed with the early-morning radar scan over Tanjung Jabung Timur, Indonesia, adhering to the guidelines provided and respecting the deadline as specified for tomorrow morning.
