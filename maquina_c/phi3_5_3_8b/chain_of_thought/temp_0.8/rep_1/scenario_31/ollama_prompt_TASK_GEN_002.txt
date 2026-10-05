@@ -1,0 +1,14 @@
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'targetdictor-terminal.py
+import sys
+sys.path.append('../scripts')
+from scripts.data_loading import load_data
+from scipy.stats import zscore
+
+# Load the dataset (this is a placeholder; actual data loading would depend on your specific use case)
+X, y = load_data('your_dataset.csv')
+
+# Standardize the features using Z-Score normalization
+X_normalized = zscore(X, axis=0)
+
+print("Data has been standardized.")
