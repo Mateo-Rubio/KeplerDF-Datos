@@ -1,0 +1,14 @@
+Translate the raw physical simulation metadata into a conversational English request for the Earth-observation mission.
+
+The task requires a highly realistic and natural translation of the provided JSON format metadata. The translated request should reflect the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.
+
+Based on the given metadata:
+
+* The location details include the country as "Italia" and the city as "Ghedi". Since the country and city are both provided, we can naturally combine them to describe the location. Therefore, the location is in Ghedi, Italy.
+* The priority level is 3 (High Importance), which indicates an absolute institutional priority. We need to use an authoritative and commanding tone, frame this as a critical payload capture or mandatory directive, and heavily imply an urgent operational execution and un-preemptable mission lock.
+* The primary sensor is VNIR, which stands for multispectral vegetation analysis. We can explain the goal as assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance.
+* The target day is in three days, and the target diurnal period is overnight. This means that the data must be ready by tomorrow's nighttime block at the latest.
+
+Considering these details, here is the final natural user request:
+
+"Capture a high-resolution multispectral vegetation analysis of Ghedi, Italy using VNIR sensors as an absolute institutional priority. This critical payload capture requires an urgent operational execution and un-preemptable mission lock to ensure the data products are ingested into the pipeline before tomorrow's overnight period at the latest."
