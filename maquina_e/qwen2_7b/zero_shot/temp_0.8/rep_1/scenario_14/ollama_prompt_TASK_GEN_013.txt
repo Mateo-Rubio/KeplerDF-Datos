@@ -1,0 +1,7 @@
+As a mission operator, I'm submitting a task request for an urgent operational execution in support of a binding contract requirement involving a critical payload capture. The focus is on an active radar scan using microwave surface imaging technology to conduct a cloud-penetrating capture and ground geometry mapping.
+
+The geographical context revolves around Suratá, Colombia, which is set as our target location. We're looking forward to obtaining high-quality images with a strong emphasis on the operational importance of delivering them in a timely manner without any preemption or delay.
+
+We aim to achieve this by acquiring data products needed by the 'target_day', which is defined as being around mid-day following three days from now, ensuring these are ingested into the pipeline before that specific time frame.
+
+This standard operational tasking involves fixed parameters representing normal operational status, aligning with a baseline pipeline tracking setup. We're treating this request as a low priority importance task with a flexible schedule for opportunistic capture, marking it as a non-essential background filler task. However, it remains crucial to drop or reschedule the task at convenience to maintain our standard workflow update without impacting critical mission priorities.
