@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context of our operation involves Colombia, specifically the city of Riofrío. To maximize naturalness and validation accuracy, we will interpret this request based on the operational guidelines:
+
+1. Combining geographical parameters naturally without using raw technical system tags, underscores, or coordinate arrays.
+2. Addressing mission allocation priority with an appropriate tone depending on whether it's high, medium, or low importance.
+3. Describing sensors and physical objectives in terms of real-world phenomena instead of technical abbreviations.
+
+Our primary sensor is the Near-Infrared (NIR) device, aiming for a "near-infrared reflection" to map water body boundaries and assess soil moisture levels, which are crucial for distinguishing gradient patterns on the surface.
+
+The deadline for delivering this data product is within three days, specifically around mid-day. This ensures that the products are ingested into our pipeline before the set deadline, adhering to strict operational constraints.
+
+To summarize, we're seeking a low-priority task that's non-essential but requires flexible scheduling for opportunistic capture. We will use this as a background survey or testbed tracking task, integrating all these elements into our request with conversational language that aligns with our operational guidelines.
+
+Let's create the final natural user request based on these insights.
