@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string contained in 'target_day' is: "in four days"
+
+b) The exact string contained in 'target_diurnal_period' is: "in the morning"
+
+c) The word contained in the diurnal period string that must appear literally in your final request is: "morning"
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context outlined by the JSON metadata, our Earth-observation mission requires a high-resolution optical snapshot of the Ecuatorial region in Indonesia scheduled for acquisition in four days during the morning hours. This task is a low priority importance request with flexible scheduling requirements, treating it as an opportunistic background survey or testbed tracking task. It's not bound by a strict urgency deadline but rather fits into our baseline pipeline tracking with standard operational status under normal workflow update conditions. The primary sensor to be deployed for this mission is VIS, aimed at capturing a daylight photographic image, true-color visual documentation, or clear optical imagery of the region as it stands during morning hours on the scheduled target day.
