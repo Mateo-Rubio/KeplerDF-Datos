@@ -1,0 +1,23 @@
+Given the operational guidelines and the provided JSON metadata, we're tasked with translating the raw physical simulation into a highly realistic, conversational English request for an Earth-observation mission operator. The objective is to observe the "heat signature" of a location in the country of Italia, particularly in the city of Norte, utilizing thermal mapping capabilities through the primary sensor TIR. The geographical context encompasses an area that combines a realistic blend of country, city, and landmark details where necessary; for this instance, we have the "country" as Italia and the "city" as Norte.
+
+The mission allocation priority is marked at Level 3, which indicates "High Importance". We need to capture a critical payload, acting as a "binding contract requirement". The urgency of the situation is heavily implied through authoritative language, underlining an "urgent operational execution" that demands "un-preemptable mission lock". This ensures our request is treated with utmost importance.
+
+The temporal parameters dictate that this task must be completed in three days during the evening period. The deadline for delivering data products to the user is tightly constrained, emphasizing the necessity of providing these results by the target day and diurnal period without any room for delay.
+
+To summarize our natural user request:
+
+---
+
+Ladies and gentlemen,
+
+We are currently engaged in an essential task that requires the utmost attention and precision. Our objective is to conduct thermal mapping of a specific area located in the picturesque country of Italia, particularly in the vibrant city of Norte. The goal is to identify the heat signature for this region through the utilization of the TIR sensor, as part of our operational pipeline.
+
+Given the high priority level, this task demands an authoritative approach and explicit communication. We must emphasize its critical nature and that it involves a "binding contract requirement", indicating a "mandatory directive" with a "urgent operational execution". It is imperative to treat this request as an "absolute institutional priority," ensuring there are no pre-emptable tasks that could interfere with the timely completion of this mission.
+
+The deadline for delivering data products for this specific location, observed during thermal mapping, is set for three days from now, ideally in the evening period. The urgency to meet this deadline cannot be overstated; we must ensure that our products are ingested into the pipeline before the target day and diurnal period arrives, adhering strictly to the operational guidelines.
+
+Thank you for your full attention and cooperation on this matter.
+
+---
+
+This request naturally integrates the operational guidelines while preserving the essence of the task as provided in the JSON format. It adheres to the rules around geographic context interpretation, mission allocation priority, sensors and physical objectives, as well as relative timeframes, providing a clear and concise request that aligns with the operational context.
