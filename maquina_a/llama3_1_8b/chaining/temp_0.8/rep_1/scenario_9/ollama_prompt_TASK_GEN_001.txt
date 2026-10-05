@@ -1,0 +1,19 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the mission allocation task. 
+
+To maximize naturalness and validation accuracy, interpret the metadata organically according to these operational guidelines: 
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For this task, the region_name is Colombia and the location is San José del Guaviare. This location can be described as being in Colombia, specifically in the city of San José del Guaviare.
+
+2. MISSION ALLOCATION PRIORITY: Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. Use an authoritative tone for priority 3 (High Importance) requests, a professional tone for priority 2 (Medium Importance) requests, and a casual tone for priority 1 (Low Importance) requests.
+
+For this task, the priority level is 3, which indicates that this is an absolute institutional priority, a binding contract requirement involving a critical payload capture or mandatory directive. This requires urgent operational execution and an un-preemptable mission lock.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+For this task, the primary_sensor is NIR (near-infrared reflection). The goal is to capture a near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients.
+
+4. DELIVERY DEADLINE: Insert the deadline VERBATIM into your request, as the stated upper limit for data availability.
+
+The delivery deadline for this task is tomorrow overnight.
