@@ -1,0 +1,17 @@
+```prompt
+Ladies and Gentlemen,
+
+As an Earth-observation mission operator, I hereby submit a task request to your automated satellite constellation planner for a highly realistic and conversational English request. Our objective is to translate the raw physical simulation metadata provided into a single request that maximizes naturalness and validation accuracy.
+
+Our focus is on a geographical location situated in Indonesia with the city of Ecuatorial. Using the primary sensor 'SAR', we aim to capture an active radar scan with microwave surface imaging capabilities, which will allow us to pierce through heavy weather conditions and provide us with cloud-penetrating capture for ground geometry observation.
+
+Given the priority level set at Low Importance (Priority 1), this request fits into our 'low priority importance' category. It's a flexible task with a 'non-essential background filler task' characteristic, treated as an 'opportunistic capture'. We're considering 'dropping or rescheduling at convenience', treating it as a 'background survey' or 'testbed tracking task'.
+
+We require these observations by 'in three days in the evening', which marks our deadline for this task. Our mission does not involve raw technical system tags, underscores, or coordinate arrays. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+The request's structure adheres to our operational guidelines on interpreting keys such as 'region_name', 'location_details', 'priority_level', 'target_day', and 'target_diurnal_period'. We avoid raw priority numbers, technical priority levels, and refrain from using technical sensor abbreviations.
+
+Thank you for your attention and cooperation.
+
+Best regards,
+Your Earth-observation mission operator

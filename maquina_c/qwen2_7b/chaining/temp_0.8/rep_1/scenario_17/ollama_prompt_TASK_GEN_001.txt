@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request. Let's start interpreting the given parameters:
+
+The primary sensor is 'VNIR', which is to be used for 'multispectral vegetation analysis'. This entails assessing the 'chlorophyll absorption level' and calculating a 'vegetation NDVI index', along with surface reflectance. We're focused on Colombia, specifically San Martín city.
+
+For location context, we combine country and city descriptions naturally, avoiding raw technical system tags or coordinate arrays. The request aims to capture high-resolution optical imagery for daylight photography and clear optical documentation. This is part of our 'baseline pipeline tracking', with fixed parameters representing normal operational status.
+
+The priority level is '1', indicating a low importance request with a flexible schedule for opportunistic capture. We treat it as a 'background survey' or 'testbed tracking task', considering it as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The deadline for this task has already been resolved by an upstream module, 'in four days overnight'. This phrase needs to be inserted verbatim into the request, as the stated upper limit for data availability. The deadline does not require rephrasing, shortening, or being moved to a different part of the day.
+
+To summarize: Our Earth observation mission operator is requesting a VNIR sensor to capture high-resolution optical imagery for daylight photography and clear optical documentation in Colombia, specifically San Martín city. We aim to track vegetation changes, assess chlorophyll absorption, calculate NDVI indexes, and determine surface reflectance. This task carries low priority importance and can be accommodated with a flexible schedule 'in four days overnight'. Our approach ensures the naturalness and validation accuracy of the dataset by interpreting metadata organically according to operational guidelines.

@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I aim to translate the raw physical simulation metadata provided in JSON format into a conversational English request that maximizes naturalness and validation accuracy. The objective is to achieve a highly realistic representation of the task.
+
+The geographic context for our request involves Colombia as the country and San Pablo as the city. We will describe this location using these identifiers instead of technical system tags or coordinate arrays.
+
+With a priority level of 'low importance', this request must be framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture", fitting well into our "background survey" or "testbed tracking task" pipeline.
+
+The primary sensor specified in the metadata is 'VIS'. We will interpret this as a need to obtain a high-resolution optical snapshot for "daylight photography", "clear optical imagery", or "true-color visual documentation". This objective requires capturing details under optimal lighting conditions, emphasizing the importance of daylight for clear and precise observations.
+
+Given that the deadline for this task is "in four days around mid-day", we must adhere to this phrase verbatim in our request. It serves as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our operator request is as follows:
+
+"In preparation for our Earth-observation mission, I hereby submit a low-priority background filler task focused on obtaining high-resolution daylight photography from the San Pablo region in Colombia. The primary sensor requirement is 'VIS', aiming to capture clear optical imagery under optimal lighting conditions. Given the deadline of 'in four days around mid-day', this task is to be executed as part of our standard operational tasks, ensuring it fits into our flexible schedule for opportunistic capture."
+
+This request encapsulates the essence of our task in a conversational and descriptive manner, adhering to the guidelines provided while integrating natural language for the operational context."

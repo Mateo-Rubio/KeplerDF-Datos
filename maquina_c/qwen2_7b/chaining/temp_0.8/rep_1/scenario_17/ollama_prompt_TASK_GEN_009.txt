@@ -1,0 +1,10 @@
+Good morning! As an Earth-observation mission operator tasked with efficiently allocating resources to the automated satellite constellation planner, I'm here to translate raw physical simulation metadata into a high-quality English request for execution. The given JSON format outlines essential details that we'll weave seamlessly into our request:
+
+Our primary focus is on utilizing an active radar scan using microwave surface imaging capabilities of the SAR sensor. This is aimed at capturing a cloud-penetrating view of a region in Indonesia, specifically near the equator, in this case labeled as "Ecuatorial". The context is set within the geographical framework provided by the 'country' field, with 'city' being "N/A" and hence, we'll describe it using the 'region_name'.
+
+The task allocated has a low importance level, meaning it's a flexible schedule for an opportunistic capture. This task falls under the category of a 'non-essential background filler task' that can be dropped or rescheduled at convenience as part of a 'background survey' or 'testbed tracking task'. 
+
+To summarize our request:
+"Given your active radar capabilities, please perform an acquisition scheduled for three days in the morning over a region located near Ecuatorial, Indonesia. The objective is to capture ground geometry and cloud-penetrating data using microwave surface imaging for this background survey task."
+
+This request encapsulates the operational guidelines perfectly, utilizing natural language constructs to maximize the dataset's naturalness and validation accuracy while respecting the given operational priorities and sensor objectives.

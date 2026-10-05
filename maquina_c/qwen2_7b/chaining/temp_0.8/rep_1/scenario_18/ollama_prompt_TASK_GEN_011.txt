@@ -1,0 +1,12 @@
+```prompt
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes the naturalness and validation accuracy of our dataset. Based on the provided JSON format, we are tasked with capturing an optical snapshot using our primary sensor VIS.
+
+Navigating through the geographic context, we note that this mission lacks specifics on country, city, or landmarks due to 'N/A' entries in the location_details section. However, this does not deter us from describing the target area by combining remaining valid fields and 'region_name'. Thus, we'll refer to our destination as Norte, a region that conveys a realistic yet unspecified geographical setting.
+
+The mission allocation priority is marked at Level 1, which implies a low priority importance with a flexible schedule for opportunistic capture. We will treat this request as a 'low priority importance' task, framing it as a 'background survey' or 'testbed tracking task', offering the operator the option to 'drop or reschedule at convenience'.
+
+Our physical objectives are clearly defined by our primary sensor being VIS. The goal here is to capture daylight photography or clear optical imagery to document the scene accurately. The aim is to obtain true-color visual data, enabling detailed observation and interpretation of the target area.
+
+Considering the delivery deadline, it's resolved as "in four days in the morning". We'll seamlessly integrate this phrase into our request, adhering strictly to the upper limit for data availability without any rephrasing or adjustment.
+
+In conclusion, this mission aims to gather a VIS image of an unspecified location in Norte, with a low priority importance level, utilizing daylight photography techniques. The deadline is set for four days ahead in the morning. Let's proceed with executing this 'background survey' with the required flexibility and convenience.
