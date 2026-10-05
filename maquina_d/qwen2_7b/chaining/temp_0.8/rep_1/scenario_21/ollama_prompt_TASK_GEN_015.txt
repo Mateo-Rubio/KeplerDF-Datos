@@ -1,0 +1,9 @@
+As an operator of an Earth-observation mission, I'm tasked with creating a highly realistic and conversational English request based on the provided metadata in JSON format. The objective is to translate the raw physical simulation data into a clear, natural request that maximizes dataset accuracy.
+
+Given our location details specify "Indonesia" as the country and "Solok" as the city, we aim to capture detailed information about this region using the VNIR sensor type. The VIS sensor type will provide a high-resolution optical snapshot of the area for daylight photography, clear optical imagery, and true-color visual documentation.
+
+The 'priority_level' attribute is set to 2, indicating a medium level of importance within our operational framework. We interpret this as a standard operational tasking that aligns with our baseline pipeline tracking setup. The "in four days in the morning" deadline is an absolute, notional limit for data availability, reflecting an agreed-upon timeline that represents normal operational status.
+
+Our mission is to gather comprehensive data on vegetation health through multispectral analysis provided by the VNIR sensor. This will involve assessing chlorophyll absorption levels and calculating the vegetation NDVI index along with surface reflectance measurements. We are tasked with capturing this information without disrupting our standard workflow or prioritizing it over critical operations.
+
+In summary, my request is to conduct a routine monitoring task that involves VNIR data collection from Solok, Indonesia, on the designated day and time, respecting the medium priority guidelines and operational context. This includes capturing high-resolution imagery of vegetation health and gathering thermal mapping data without compromising our baseline pipeline tracking responsibilities.

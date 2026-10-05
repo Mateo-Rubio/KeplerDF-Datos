@@ -1,0 +1,11 @@
+This is an Earth observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The target geographic context involves observing an area within Colombia, specifically the region of San Pablo de Borbur. Given that country and city details are "N/A", this observation takes place within a defined area of interest in San Pablo de Borbur, without explicit mention to landmark features.
+
+Given the priority level is 1, this request can be framed as a low priority importance task with flexible scheduling. The operator acknowledges it as a "non-essential background filler task" that can be dropped or rescheduled at convenience, considering it a "background survey" or "testbed tracking task".
+
+The primary sensor to be utilized for this observation is the Near-Infrared (NIR) sensor. The goal involves capturing data that will map water bodies and assess soil moisture levels by analyzing near-infrared reflection characteristics.
+
+This task is to be completed during today's overnight period. The deadline is explicitly stated as "today overnight," which means the operator does not need to rephrase or alter this phrase; it should be included verbatim in the request.
+
+The naturalness and validation accuracy of the dataset are maximized by interpreting the metadata organically according to operational guidelines, translating technical information into clear, realistic language without the use of raw system tags or coordinate arrays.
