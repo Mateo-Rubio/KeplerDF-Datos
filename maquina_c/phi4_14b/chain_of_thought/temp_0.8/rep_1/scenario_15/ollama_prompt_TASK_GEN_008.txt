@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word should appear literally in the final request.
+
+d) It's crucial to confirm that the deadline is not being shifted. The requirement specifies "in three days" for the target day and "in the morning" for the diurnal period. These temporal parameters are strict operational deadlines, meaning they represent the exact time by which data products must be delivered. There is no indication or allowance to alter these specified times, so the deadline remains firmly set for "in three days, in the morning."
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for a near-infrared reflection mission over Piacenza, Italy. This task involves water body boundary mapping and soil moisture assessment, using fixed parameters typical of our baseline pipeline tracking. The satellite constellation should capture this data exactly in three days, in the morning, to maintain normal operational status within our workflow update schedule.

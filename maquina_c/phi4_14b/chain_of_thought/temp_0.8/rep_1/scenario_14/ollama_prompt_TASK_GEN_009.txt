@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To construct a conversational request based on the provided JSON metadata for the Earth-observation task, we start by analyzing the specific details given:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the data collection needs to be completed at this time frame without any shifts or extensions.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the satellite should capture the required data, which is crucial for planning sensor activity that is sensitive to time of day, like sunlight availability.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "afternoon." This particular period will be directly referenced in the final request to align with the temporal requirements given.
+
+d) It is essential to confirm that we are adhering strictly to the specified timeframe without making any adjustments. The phrase "during the afternoon" clearly designates a specific part of the day, and our task must align precisely with this window. Therefore, there is no room for shifting the deadline to another part of the day; it must be captured exactly during the afternoon.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a task request for an Earth-observation mission focusing on Indonesia, specifically near Ecuatorial. The objective is to conduct an opportunistic active radar scan using microwave surface imaging, which is ideal for cloud-penetrating capture of the ground geometry in this region. This request is of low priority importance, with a flexible schedule allowing for a non-essential background filler task where it can be dropped or rescheduled at convenience. I need this data captured on the day after tomorrow during the afternoon.

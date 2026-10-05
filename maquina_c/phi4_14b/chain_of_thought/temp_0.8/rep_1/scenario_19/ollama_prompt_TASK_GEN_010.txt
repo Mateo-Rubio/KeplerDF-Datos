@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the task should be completed and delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day for the data capture relative to the target day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This word will be explicitly mentioned in the final request to maintain clarity about the timing.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task must be executed and completed with data delivered by "tomorrow evening," as specified. This ensures adherence to the strict operational deadline provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low priority importance task for thermal mapping over Puerto Wilches, Colombia, targeting heat signatures and surface temperature profiles. This is a non-essential background filler task, so please feel free to drop or reschedule at your convenience. I'm looking for an opportunistic capture with a flexible schedule, ideally completed by tomorrow evening.

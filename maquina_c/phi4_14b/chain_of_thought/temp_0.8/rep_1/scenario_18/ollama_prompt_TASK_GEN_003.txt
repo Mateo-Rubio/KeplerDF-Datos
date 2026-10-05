@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days." This directly indicates the timing of when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day for the observation within the specified target day.
+
+c) The single word contained in that string, which fits into the required set {morning, mid-day, afternoon, evening, overnight}, is "morning." This is the specific time of day when the observation should occur and must appear literally in the final request.
+
+d) The task does not involve shifting the deadline to any other part of the day. It explicitly states the observation should be completed in the morning of the specified target day, aligning with both 'target_day' and 'target_diurnal_period' strings without adjustment.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are requesting a low priority importance task for a flexible schedule in Singkep, Indonesia. This is an opportunistic capture request, where we would like to perform a multispectral vegetation analysis using near-infrared reflection capabilities to assess chlorophyll absorption levels and calculate the NDVI index. As this is a non-essential background filler task, please feel free to drop or reschedule at your convenience. We expect the data to be delivered in four days, specifically in the morning.
