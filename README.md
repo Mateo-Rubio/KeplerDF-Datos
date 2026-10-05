@@ -24,6 +24,16 @@ Cada máquina corre 2 repeticiones por temperatura. Cada combinación de máquin
 
 La temperatura 0.0 tiene menos repeticiones porque las repeticiones adicionales son prácticamente redundantes. Al comparar el texto generado tarea por tarea a temperatura 0.0, entre el 99,80 % y el 99,95 % de los textos fueron idénticos entre repeticiones de una misma máquina, y entre el 99,83 % y el 99,95 % entre máquinas distintas (`analysis/comparar_textos.py`). Es decir, la máquina no aporta variabilidad adicional a la propia de Ollama.
 
+Para las temperaturas mayores a 0.0, donde los textos varían siempre por el muestreo, se compara la varianza de la precisión entre máquinas con la varianza entre las dos repeticiones de cada máquina, manteniendo fijos el modelo, la estrategia y el escenario (`analysis/varianza_maquinas.py`). Si la máquina no influye, el cociente `2 · varianza entre / varianza dentro` es cercano a 1:
+
+| Temperatura | Cociente | IC 95 % |
+|---|---|---|
+| 0.2 | 1,00 | 0,86 – 1,17 |
+| 0.4 | 0,85 | 0,76 – 0,96 |
+| 0.6 | 1,08 | 0,94 – 1,22 |
+
+En ninguna temperatura el cociente supera significativamente a 1. En el peor caso, la máquina aportaría como máximo cerca del 11 % de la varianza entre repeticiones, equivalente a un desvío de unos 1,5 puntos de precisión.
+
 ## Estructura
 
 ```
