@@ -1,0 +1,6 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request. 
+Mission Objectives: Translate metadata from an Earth-observation mission to create a realistic user request. 
+Geographic Context: Use natural descriptions, ignoring technical tags, and combining valid fields for a clean location description. 
+Mission Allocation Priority: Use operational phrases to reflect the priority level - High Importance (Priority 3), Medium Importance (Priority 2), or Low Importance (Priority 1). 
+Sensor and Physical Objectives: Interpret sensor types as operational objectives - VIS (high-resolution optical snapshot), SAR (active radar scan), TIR (thermal mapping), VNIR (multispectral vegetation analysis), or NIR (near-infrared reflection). 
+Relative Timeframes: Interpret target_day and target_diurnal_period as a strict deadline for data delivery, avoiding raw timestamps and incorporating urgency naturally.
