@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This will be used literally in the final request.
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' simply specifies the time of day for the capture, but the deadline specified in 'target_day' remains unchanged at three days from now.
+
+STAGE 2 - FINAL REQUEST
+...A low priority importance request for a high-resolution optical snapshot is required for daylight photography in three days. The area of interest is Sabana de Torres, Colombia, and the overnight period would be ideal for capture.
