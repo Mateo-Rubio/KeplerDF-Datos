@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. My objective is to maximize naturalness and validation accuracy by interpreting the data organically, based on established operational guidelines:
+
+The context of this request involves Colombia, specifically the city of El Marmol, as designated by the 'location_details' parameter. Although 'landmark' could not be determined, combining 'country' and 'city' provides us with a realistic location description.
+
+This task holds a priority level of 1, indicating that it is considered a low priority importance request. The language should adopt a casual, highly flexible tone, framing this as a "low priority importance" request where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified for this mission is VNIR (short for VNIR), which implies conducting multispectral vegetation analysis. The goal here is to assess the chlorophyll absorption level and calculate the vegetation NDVI index, as well as surface reflectance.
+
+The target day for this request is "the day after tomorrow", with the specific timing being during the afternoon. It's crucial to note that this phrase should be inserted verbatim into our request.
+
+In conclusion, my request is to capture multispectral vegetation data using VNIR technology on Colombia's El Marmol during the afternoon of the day after tomorrow. This task aims to assess chlorophyll absorption levels, calculate NDVI indices and surface reflectance for this background survey or testbed tracking task, with flexibility for scheduling adjustments as needed.
