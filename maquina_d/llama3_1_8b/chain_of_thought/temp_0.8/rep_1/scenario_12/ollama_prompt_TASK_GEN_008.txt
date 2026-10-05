@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string for 'target_diurnal_period' is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified, with no changes or alterations to the target day or diurnal period.
+
+The priority level is 1, indicating a low importance request, and the primary sensor is NIR, which will be used for "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". The location details are for a city called "Norte", but since the country is "N/A", we will describe the location using the clean 'region_name' and the city. However, since there is no 'region_name' provided in the metadata, we will use the city as is. 
+
+The deadline is to capture the data overnight tomorrow. 
+
+The language for priority 1 is casual, highly flexible, or opportunistic, explicitly framing this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
