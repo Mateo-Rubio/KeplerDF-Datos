@@ -1,0 +1,12 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day, as it remains at "overnight".
+
+STAGE 2 - FINAL REQUEST:
+Given today's deadline and the requirement for overnight observation, our Earth-observation mission operator seeks to capture a nighttime snapshot using VNIR sensors. Targeting Indonesia's picturesque city of Tanjung Jabung Timur, this task aims to document the urban landscape under low-light conditions with a high-resolution optical view, providing detailed imagery without the interference of daytime sunlight. This "non-essential background filler task" fits into our "flexible schedule" for "opportunistic capture", allowing us to treat it as a "background survey" or "testbed tracking task" without compromising our core operational priorities.

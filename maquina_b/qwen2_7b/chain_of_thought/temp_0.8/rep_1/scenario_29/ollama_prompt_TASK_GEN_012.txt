@@ -1,0 +1,14 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string which appears literally is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+Given the operational guidelines and interpreting the metadata, we have a request for an Earth observation task set to be conducted on the day following tomorrow, specifically during the afternoon. This task involves capturing data using near-infrared (NIR) sensors. The location specified for this operation is Bata, Indonesia, which is situated in the country of Indonesia.
+
+As per priority level 1, this request is of low importance and can be accommodated in a flexible schedule to be carried out as an opportunistic background task. The primary objective here is to map water body boundaries and assess soil moisture levels through near-infrared reflection data. This operational task will contribute to our baseline pipeline tracking efforts without impacting the standard workflow or requiring any critical payload capture.
+
+Our Earth-observation mission operator understands that this task's deadline for delivering the data products aligns with the operational requirement of capturing the data during the afternoon on the day following tomorrow, without altering or extending the specified temporal parameters. The operator will proceed with conducting this survey as an auxiliary task in their routine monitoring activities, recognizing its role as a "non-essential background filler task" within their institutional workflow.

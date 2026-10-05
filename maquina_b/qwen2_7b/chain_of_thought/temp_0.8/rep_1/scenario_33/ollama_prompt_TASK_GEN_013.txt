@@ -1,0 +1,22 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "in three days"
+b) The exact string in 'target_diurnal_period' is: "around mid-day"
+c) The single word contained in that string is: "mid-day"
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As per the operational guidelines and the raw physical simulation metadata provided in JSON format, we are tasked with capturing a highly detailed snapshot of the region surrounding Puerto López, Colombia. This captures the essence of our mission allocation priority level being set at Priority 1 (low importance), with flexible scheduling for opportunistic capture. It is imperative to note that this tasking request is framed as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey". 
+
+The primary sensor designated for this mission is a SAR (Synthetic Aperture Radar) instrument, which will perform an active radar scan using microwave surface imaging techniques. This scan aims to penetrate through any cloud cover or heavy weather conditions to gather accurate and detailed ground geometry data.
+
+Our target day falls in the next three days, with a specific operational deadline set "around mid-day". This means our strict deadline for delivering the data products is at mid-day on the designated day without altering, extending, shifting, or interpreting the deadline in any way.
+
+The geographical context is described using a realistic combination of the provided fields. Puerto López, within Colombia, serves as our specific location of interest with a "country" designation. We have intentionally ignored the "city" and "landmark" tags since they are marked as "N/A" and instead focused on providing a comprehensive understanding by mentioning just the country to ensure clarity.
+
+To summarize the physical objectives:
+The VIS sensor will aim for a high-resolution optical snapshot, akin to "daylight photography", to document the region visually. This is part of our standard workflow update that fits into the baseline pipeline tracking setup with "fixed parameters" representing normal operational status.
+The SAR sensor's primary focus will be on cloud-penetrating capture of ground geometry using microwave surface imaging techniques for "cloud-penetrating" and detailed mapping capabilities that allow us to capture landscapes beyond visible light barriers.
+
+This task request is set up with all the necessary context provided as required. We aim to deliver this data product in accordance with our guidelines, focusing on the specific deadline of "around mid-day" on the designated day following the three-day timeframe provided.
