@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves processing metadata for an Earth-observation mission with several considerations. First, let's examine the specific fields within the provided JSON:
+
+a) The exact string found in 'target_day' is "today". This indicates that the data collection should be completed on the current day without delay or rescheduling.
+
+b) The string in 'target_diurnal_period' is "in the evening". This specifies when during the day the task needs to be executed. 
+
+c) From the string provided for 'target_diurnal_period', the word "evening" is explicitly mentioned. This is the specific time of day that the task should occur, and it must appear verbatim in the final request.
+
+d) It's essential to confirm that there is no alteration or shift in the deadline timing. The request specifies "today" for the 'target_day', ensuring the task remains on the current date. Additionally, the specified time frame, "in the evening", should be adhered to precisely without any adjustment to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority request for a critical payload capture involving an active radar scan over Istarska županija, Hrvatska. This task is a binding contract requirement with urgent operational execution and un-preemptable mission lock. We need to perform near-infrared reflection for water body boundary mapping and soil moisture assessment today, in the evening. The satellite constellation planner must ensure timely and precise data delivery as part of this high-importance mission.

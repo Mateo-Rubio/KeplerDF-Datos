@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task is to interpret a JSON dataset for an Earth-observation mission and transform it into a realistic and conversational English request.
+
+a) The exact string in 'target_day' is "in four days." This indicates the strict deadline for delivering data products without any alterations to this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This describes when the task should be completed within the specified target day, emphasizing the period of interest for data capture.
+
+c) The single word contained in 'target_diurnal_period' that fits among the options {morning, mid-day, afternoon, evening, overnight} is "overnight." It is imperative to use this literal term in the final request to match the operational context accurately.
+
+d) It is confirmed that the deadline specified as "in four days" should not be shifted to any adjacent part of the day. The task explicitly requires the completion during the "overnight" period, respecting both the temporal constraints and the mission's objective.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'd like to submit a low-priority importance task for monitoring the vegetation in San Vicente del Caguán, Colombia. This involves a flexible schedule allowing for opportunistic capture of multispectral vegetation analysis using near-infrared reflection, aimed at assessing chlorophyll absorption levels. It's a non-essential background filler task that can be adjusted or postponed as needed. The data collection is to be completed in four days during the overnight period, offering valuable insights without disrupting other scheduled missions.

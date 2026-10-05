@@ -1,0 +1,9 @@
+STAGE 1
+
+a) The exact string contained in 'target_day' is "tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) The deadline provided is not being shifted or altered; it remains "in the morning" on "tomorrow".

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific details that I need to interpret correctly to generate a natural and conversational request for an Earth-observation mission operator. Let's break down the information step by step.
+
+a) The exact string present in 'target_day' is "in three days". This tells us when the data delivery deadline is, and it should be mentioned verbatim in the final request to ensure clarity and adherence to the operational timeline.
+
+b) The exact string for 'target_diurnal_period' is "overnight". This indicates the time of day when the satellite observation should occur. It's crucial to include this phrase exactly as it appears to maintain consistency with the mission requirements.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "overnight". This term must be included in the final request verbatim, reflecting the specific time frame for the satellite capture.
+
+d) It's essential to confirm that the deadline is not being shifted to another part of the day. The metadata specifies "overnight," and there is no indication or instruction to adjust this period. Therefore, the deadline remains strictly during the overnight hours, aligning with the original request parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance task for an opportunistic capture in the Norte region. This is a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, focusing on ground geometry. Please note that this task should be executed overnight, with the data delivery deadline set for in three days.

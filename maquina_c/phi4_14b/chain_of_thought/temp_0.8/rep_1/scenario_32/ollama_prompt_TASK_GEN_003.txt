@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "afternoon." This word must appear literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified period remains "during the afternoon" on "the day after tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking requiring thermal mapping over Ketapang, Indonesia, for capturing surface temperature profiles or detecting thermal anomalies. This mission involves collecting data during the afternoon, the day after tomorrow, as part of our baseline pipeline tracking setup with fixed parameters that ensure normal operational status and routine workflow updates.

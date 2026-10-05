@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will appear literally in the final request.
+
+d) The temporal parameters specify that the deadline for delivering the data products is "in four days" during the "overnight" period. There is no indication or requirement to shift this deadline to an adjacent part of the day, so it remains as specified without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for Murung Raya in Indonesia using near-infrared reflection capabilities to conduct water body boundary mapping and soil moisture assessment. This routine monitoring task is part of our baseline pipeline tracking setup and should be executed with fixed parameters within the normal operational workflow. Please ensure that this task is completed in four days, specifically during the overnight period, aligning with our standard data delivery schedule.
