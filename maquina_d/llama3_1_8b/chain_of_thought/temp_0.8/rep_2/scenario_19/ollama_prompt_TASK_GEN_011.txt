@@ -1,0 +1,16 @@
+Let's work through the reasoning stage.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Since we are not altering, extending, shifting or reinterpreting the deadline, we are not moving it to an adjacent part of the day. We will keep it as "in the morning", which is a specific diurnal period within the target day.
+
+Now, let's move on to STAGE 2 - FINAL REQUEST.
+
+```prompt
+Please capture a near-infrared reflection for water body boundary mapping in the morning in four days. This is a non-essential background filler task with a flexible schedule for opportunistic capture, treating it as a low priority importance request where we can drop or reschedule at convenience.

@@ -1,0 +1,17 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are keeping it exactly as specified in the JSON, which means the task must be completed within the next three days and during the evening time period.
+
+Since we are interpreting the temporal parameters as a strict operational deadline to deliver data products, not the orbital capture window, we will keep these constraints intact.
+
+STAGE 2 - FINAL REQUEST
+
+Translate raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+We require an absolute institutional priority for a thermal mapping task using our thermal imaging capabilities, with a focus on capturing a heat signature and surface temperature profile in the region of Colombia, specifically targeting the city of Bolívar. This is a binding contract requirement involving a critical payload capture, and we must deliver the data products within in three days, during the evening time period. The objective is to obtain thermal mapping for thermal anomaly detection and mapping heat emissions.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters are representing a strict operational deadline to deliver the data products, and I will integrate these details into the final request without altering the deadline.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a standard operational tasking for a commercial mission to capture active radar scan imagery using microwave surface imaging, specifically during the afternoon of tomorrow. The location details indicate that we should focus on the region surrounding Spoleto in Italy, and the primary sensor will be used for cloud-penetrating capture, allowing us to pierce through heavy weather and capture ground geometry. This tasking is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, and it will involve routine monitoring as per our standard workflow update...

@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) The deadline specified in the task context is to deliver the data products on a specific day, which is not adjacent to the current day. There is no indication of shifting the deadline to an adjacent part of the day.
+
+This means that we should not modify the target day or diurnal period in any way, and we should use the exact wording provided in the task context.
