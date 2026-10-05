@@ -1,0 +1,15 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Upon reviewing the task context JSON, I confirm that the deadline is not being shifted to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, and I will not alter or reinterpret the deadline in my final request.
+
+Let's move on to STAGE 2, the final request.
+
+...your text here...
+
+A low-priority importance request for opportunistic capture has been received for "multispectral vegetation analysis" to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. The goal is to capture a high-resolution optical snapshot using VNIR for true-color visual documentation, which will be used for routine monitoring as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This task should be executed in four days, specifically in the morning.

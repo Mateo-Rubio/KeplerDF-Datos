@@ -1,0 +1,13 @@
+Here's the reasoning for STAGE 1:
+
+The string in 'target_day' is "in three days".
+
+The string in 'target_diurnal_period' is "during the afternoon".
+
+The single word contained in the string is "afternoon".
+
+I am not shifting the deadline to an adjacent part of the day. The request explicitly states that the target capture is during the afternoon, which is within the given time frame of three days.
+
+Now, I'll move on to STAGE 2. 
+
+...We require a thermal mapping task to be executed as a low priority importance request with a flexible schedule for opportunistic capture, targeting the afternoon in three days. This task should be treated as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey task using a thermal camera to capture a heat signature and surface temperature profile...

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string 'overnight' is "overnight". This will be used verbatim in the final request.
+
+d) Upon reviewing the metadata, it's clear that the temporal parameters represent a strict operational deadline for delivering data products. To meet this requirement, the deadline should not be altered, extended, shifted, or reinterpreted. Therefore, I confirm that I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+We require an absolute institutional priority mission to capture high-resolution optical snapshot day/night photography over Colombia, focusing on Santa Rosa del Sur, utilizing a near-infrared reflection sensor for water body boundary mapping and soil moisture assessment. This is a critical payload capture, and we need the data products in four days, specifically overnight.

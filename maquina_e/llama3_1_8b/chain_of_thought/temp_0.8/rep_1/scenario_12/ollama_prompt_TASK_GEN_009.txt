@@ -1,0 +1,14 @@
+Here's Stage 1:
+
+The exact string in 'target_day' is "today".
+
+The exact string in 'target_diurnal_period' is "in the evening".
+
+The single word out of {morning, mid-day, afternoon, evening, overnight} that appears literally in 'target_diurnal_period' is "evening".
+
+Upon reviewing the task context, I can confirm that I am not shifting the deadline to an adjacent part of the day. The target_day and target_diurnal_period together specify a specific time frame for the mission, and I will incorporate these parameters into the final request without altering or extending the deadline.
+
+Now, moving on to Stage 2:
+
+```prompt
+We require a standard operational tasking for a commercial tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are looking for a high-resolution optical snapshot for daylight photography in Malaysia, specifically in the town of Kapit, using near-infrared reflection for water body boundary mapping or soil moisture assessment. This is an absolute institutional priority to be executed today in the evening. The mission allocation authority has contractual value tied to this task, and it is mandatory to capture high-quality data products within this strict deadline. We expect the task to be completed as per the standard workflow update with normal operational parameters.
