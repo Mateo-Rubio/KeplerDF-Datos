@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string for 'target_diurnal_period' is "overnight." This word must be included verbatim in the final request.
+
+d) To confirm that the deadline is not being shifted to an adjacent part of the day: The metadata specifies a strict operational deadline to deliver the data products. Since the diurnal period specified is "overnight," this indicates a time frame during the night. There is no indication or allowance within the guidelines to adjust or reinterpret this timing, so the operation must be completed exactly as specified, without any shifts to morning, mid-day, afternoon, or evening.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are submitting a standard operational tasking for a satellite mission over San Pablo, Colombia. This routine monitoring request is part of our baseline pipeline tracking setup and involves fixed parameters representing normal operational status. The primary objective is to perform thermal mapping using a high-resolution infrared scan to capture a surface temperature profile during the overnight period. We have set the deadline for data delivery by tomorrow, emphasizing the need for precise execution within this diurnal timeframe.

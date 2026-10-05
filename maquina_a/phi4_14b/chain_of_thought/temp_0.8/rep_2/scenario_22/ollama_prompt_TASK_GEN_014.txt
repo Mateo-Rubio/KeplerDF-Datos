@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specifies when the data delivery deadline is expected.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This defines the time frame during which the observation should occur, indicating that the task is scheduled to happen at night.
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "overnight." This word will be included verbatim in the final request to emphasize the specific time of observation.
+
+d) The deadline specified in the metadata is for an overnight capture on "the day after tomorrow." There is no indication or allowance within the guidelines to shift this deadline to another part of the day. Therefore, we must adhere strictly to this timeline, ensuring that the task is executed during the overnight period on the specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for an opportunistic capture targeting Pradis di Sopra in Italia. This is a non-essential background filler task where we can drop or reschedule at convenience. Our objective involves acquiring a high-resolution optical snapshot using the visible spectrum sensor, aiming for clear optical imagery during daylight conditions. We should plan this capture overnight on the day after tomorrow, treating it as a background survey with no urgent operational execution constraints.
