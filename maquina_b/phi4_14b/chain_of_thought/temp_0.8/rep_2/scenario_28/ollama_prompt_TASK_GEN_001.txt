@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "the day after tomorrow." This string indicates the deadline for when the data product needs to be delivered.
+
+b) The exact string for 'target_diurnal_period' is "in the evening." This tells us the specific time frame within the given day when the data capture should ideally occur.
+
+c) The single word contained in the string "in the evening" is "evening." This word will be used literally in the final request to specify the diurnal period for the satellite task.
+
+d) It is important to confirm that the deadline is not being shifted. The requirement is to capture data specifically "the day after tomorrow, in the evening," without any adjustments or shifts to this timeframe. This ensures adherence to the strict operational deadline provided.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm reaching out with a flexible and low-priority task for our satellite constellation planner. We're looking at an opportunistic capture over Cimitarra, Colombia. The request is for an active radar scan using microwave surface imaging, which will allow us to conduct a cloud-penetrating capture of the area's ground geometry. Given its low priority importance, we have a flexible schedule and would appreciate it if this task could be dropped or rescheduled at convenience, treating it as a non-essential background filler. We're aiming for this data capture to happen the day after tomorrow, specifically in the evening, as part of our ongoing background survey efforts.

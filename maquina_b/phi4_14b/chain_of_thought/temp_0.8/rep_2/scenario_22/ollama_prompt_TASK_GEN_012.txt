@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day".
+
+d) The task's temporal parameters specify a strict operational deadline for delivering the data products. There is no indication or permission to shift this deadline to an adjacent part of the day, such as morning or afternoon. Therefore, the deadline remains firmly set for "tomorrow around mid-day" without alteration.
+
+### Stage 2 - Final Request
+
+I am submitting a standard operational tasking request for a satellite observation mission over Ecuatorial, Indonesia. This is part of our baseline pipeline tracking and involves using high-resolution optical snapshot capabilities to provide clear optical imagery and true-color visual documentation. The priority for this task is medium, reflecting its role as a routine monitoring activity within our established workflow. We aim to capture this data tomorrow around mid-day, ensuring it fits seamlessly into our regular operational schedule without any deviations from the set deadline.
