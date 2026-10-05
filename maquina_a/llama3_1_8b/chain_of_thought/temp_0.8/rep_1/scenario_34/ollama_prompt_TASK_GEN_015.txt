@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) The deadline to deliver the data products is explicitly tied to today, which means we are not shifting the deadline to an adjacent part of the day. The request will be executed within today's timeframe, with a focus on capturing the data during the afternoon.
+
+STAGE 2 - FINAL REQUEST
+
+...The mission operator requests an absolute institutional priority tasking for a thermal mapping mission to capture a heat signature and surface temperature profile over Indonesia, specifically in the city of Mak Teduh. The objective is to deliver high-resolution thermal imagery by today, focusing on capturing the data during the afternoon. This critical payload capture is a binding contract requirement, representing a critical component of our baseline pipeline tracking setup with fixed parameters...

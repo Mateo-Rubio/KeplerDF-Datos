@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word that appears in the string for 'target_diurnal_period' is "morning".
+
+d) Yes, the deadline is not being shifted to an adjacent part of the day. It is specifically set for "tomorrow" in the morning, which implies an expectation of observing the location at a precise point in time during the next day, rather than any subsequent or prior period.

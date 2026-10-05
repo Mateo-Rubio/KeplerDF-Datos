@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of the options that is contained in "overnight" is "night". However, since the word is not "night" but "overnight", I should look for another option. Upon re-reading, I see that the word "day" is indeed contained in "the day after tomorrow". But since we are looking for a word that is contained in "overnight", I realize I made a mistake again. The correct answer is actually "evening", but it's not there. The only option that is contained in "overnight" is not present, so I'll look at the other part of the string: "the day after tomorrow". In this case, I'll look for a word that is contained in this string, and the correct answer is actually "day".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' string explicitly states that the deadline is for the day after tomorrow, which implies the deadline is the next day after the current day.
