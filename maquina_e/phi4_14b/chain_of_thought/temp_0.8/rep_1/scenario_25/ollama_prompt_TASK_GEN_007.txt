@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today". This indicates the urgency and immediacy of the task request, emphasizing that the data capture needs to occur on the current day.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies when during the day the observation should take place, aligning with the natural light conditions optimal for the specified sensor type.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon". This word will be used verbatim in the final request to specify the timing of the task within the day.
+
+d) There is no indication or instruction to shift the deadline to an adjacent part of the day. The specified time frame is strictly "today during the afternoon," and this must be adhered to without alteration, ensuring that the data capture aligns with the operational deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task for today during the afternoon involving the city of Oiba in Colombia. This request focuses on a flexible schedule with a non-essential background filler role, where you can drop or reschedule at convenience. The mission involves capturing multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. It’s an opportunistic capture task that fits well into your background survey activities, so please integrate it as a testbed tracking task when possible.

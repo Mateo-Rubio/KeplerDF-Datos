@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' specified in the JSON metadata is "the day after tomorrow." This phrase precisely indicates when the data delivery must occur. It is critical to note that this string should be directly incorporated into the final request without alteration, as it represents a strict operational deadline.
+
+For 'target_diurnal_period', the metadata states "in the morning." This timing is crucial for scheduling the satellite's operation, particularly for sensors like SAR that may have specific diurnal advantages due to atmospheric conditions or other factors. The exact string here is also "in the morning."
+
+Within this diurnal period description, the word "morning" appears. This term needs to be included literally in the final request to reflect the specified time accurately and ensure clarity in scheduling.
+
+Regarding the deadline, it's essential to confirm that there is no intention of shifting or extending the deadline to another part of the day. The requirement explicitly mentions "in the morning," so the deadline remains fixed for this period, adhering strictly to the operational guidelines provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an urgent request for an absolute institutional priority mission involving a critical payload capture over the region of Mogotes, Colombia. This task is a binding contract requirement, necessitating an active radar scan using microwave surface imaging. The objective is to achieve cloud-penetrating capture for ground geometry mapping. This mission lock must be executed with un-preemptable urgency on "the day after tomorrow," specifically "in the morning."

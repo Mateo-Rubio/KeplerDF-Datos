@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for delivering the data products and should be included verbatim in the final request.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during the day the observation should occur, and it should also be included verbatim in the final request.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "morning". This word must appear literally in the final request to describe the time of day for the observation.
+
+d) The task requires capturing data specifically "in the morning," not any other part of the day. Therefore, the deadline is strictly set for the morning of the target day, and there should be no shift or reinterpretation to another part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a region in Indonesia, specifically around Malinau. This mission involves capturing high-resolution optical snapshots during daylight photography to obtain clear optical imagery of the area. The task is part of our baseline pipeline tracking and involves fixed parameters that represent normal operational status within our workflow update. The data products are required to be delivered in four days, with the observation scheduled for in the morning. This aligns with our routine monitoring efforts and ensures the mission is completed as part of our standard operational procedures.

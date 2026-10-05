@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the deadline for delivering the data products is set for the following day from when the request is made.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time window during which the satellite imagery should be captured, focusing on a period centered around mid-day.
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day". This is the specific part of the day when the imaging is intended to occur.
+
+d) To confirm, there is no intention or possibility to shift the deadline to an adjacent part of the day. The operational parameters explicitly define the target as "around mid-day" on "tomorrow", and this must be adhered to without alteration. This ensures that the data products are delivered in a timely manner and meet the strict operational requirements set forth by the mission.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring urgent operational execution for tomorrow around mid-day. We need a high-resolution optical snapshot over Montepulciano, Italy, capturing clear optical imagery for true-color visual documentation. This is a critical payload capture under a binding contract requirement, and it's imperative that this mission lock is un-preemptably executed to meet our stringent data delivery deadlines.

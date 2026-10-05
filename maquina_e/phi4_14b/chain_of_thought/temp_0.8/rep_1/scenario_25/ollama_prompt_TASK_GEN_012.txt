@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating mission metadata into a conversational request for an Earth-observation satellite constellation planner. Let's break down the relevant components:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the specific deadline by which the data must be captured and delivered, emphasizing the importance of adhering strictly to this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the period during which the satellite should capture data, focusing on nighttime conditions.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear in the final request to clearly convey when the data capture is expected to occur.
+
+d) It is crucial to confirm that we are not shifting the deadline to an adjacent part of the day. The requirement explicitly states "overnight," which means the task should be executed during nighttime hours on "the day after tomorrow." This ensures clarity and adherence to the specified operational timeline, maintaining the integrity of the mission's temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for an opportunistic capture of multispectral vegetation analysis in Ecuatorial, Indonesia. The task involves assessing chlorophyll absorption levels and calculating the NDVI index using near-infrared reflection. This is a flexible schedule operation, allowing for rescheduling at convenience, as it serves as a non-essential background filler task. We aim to have this data captured overnight on the day after tomorrow.

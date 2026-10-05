@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task at hand involves interpreting a JSON metadata structure to formulate an English request for an Earth-observation mission. Let's analyze the provided context step by step.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase indicates a specific point in time relative to the current date, which is essential for setting the deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the observation should ideally occur, aligning with the mission's operational requirements.
+
+c) Within the string "around mid-day," the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally is "mid-day." This term will be used verbatim in the final request to ensure clarity about the timing of the observation.
+
+d) It's crucial to confirm that the deadline is not being shifted to an adjacent part of the day. The original specification is "around mid-day," and this should remain unchanged in the final request. There is no indication or requirement to adjust this timeframe, so it will be adhered to as specified.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance task involving opportunistic capture for a VNIR sensor operation over Indonesia, specifically around Ecuatorial. This mission involves conducting a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate an NDVI index for surface reflectance. Given its flexible schedule, this is a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to capture this data the day after tomorrow around mid-day, treating it as a background survey or testbed tracking task.

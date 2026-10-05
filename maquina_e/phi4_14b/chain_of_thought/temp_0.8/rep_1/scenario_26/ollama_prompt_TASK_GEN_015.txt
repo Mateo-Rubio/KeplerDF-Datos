@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' string provided in the JSON metadata is "in three days." This indicates a clear and specific deadline for when the data products must be delivered. It signifies that the task must be completed within a three-day timeframe from the current date, emphasizing the urgency even though it's a low-priority task.
+
+For the 'target_diurnal_period,' the string given is "in the evening." This specifies the time of day when the observation should occur. The word "evening" is explicitly mentioned, which aligns with the standard diurnal periods such as morning, mid-day, afternoon, evening, and overnight. In this context, "evening" is the precise part of the day when the task needs to be executed.
+
+The single word contained in the 'target_diurnal_period' string that matches one of the specified diurnal periods is "evening." This will be directly incorporated into the final request to ensure clarity and adherence to the provided temporal parameters.
+
+It is important to confirm that the deadline is not being shifted to another part of the day. The requirement specifies "in the evening," which indicates a specific time frame for the operation. There is no indication or allowance to adjust this to morning, mid-day, afternoon, or overnight. Therefore, the deadline must be strictly adhered to as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for opportunistic capture in the region of Ecuatorial, Indonesia. This is considered a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking for near-infrared reflection to perform water body boundary mapping or soil moisture assessment. The task should be completed with data delivery expected in three days and the observation to occur in the evening. Please treat this as a background survey or testbed tracking task within your normal operations.
