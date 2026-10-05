@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner for an urgent operational tasking. The priority level is marked as 'Priority 1', indicating it carries low importance but still requires attention.
+
+We're focusing on the region of Indonesia, specifically in Kubu Raya, where our primary sensor requirement is 'SAR'. Our goal here is not to just capture imagery; it's an active radar scan using microwave surface imaging. We're aiming for cloud-penetrating capture, which means piercing through heavy weather conditions or capturing ground geometry with precision.
+
+The operation has a strict deadline tied to the temporal parameters provided in our task context. We need the data by 'in three days', specifically during the 'evening'. This deadline marks the upper limit for data availability; there's no flexibility beyond this point. Our objective is to ensure that the products are ingested into the pipeline before our deadline, adhering to the strict delivery set at 'in the evening' of 'in three days'.
+
+This request aligns with a 'low priority importance' category but remains within our baseline pipeline tracking setup with fixed parameters representing normal operational status. It's treated as a 'non-essential background filler task', yet it must be executed with utmost attention to detail due to its low priority nature.
+
+We're aiming for high-resolution optical snapshots, clear optical imagery, or true-color visual documentation with this task, but the core focus is on using our radar capabilities to provide insights that cannot be obtained through visual means alone. The SAR data collected will be invaluable in scenarios where other sensors might not provide accurate results due to cloud cover or extreme weather conditions.
+
+In summary, while this request carries low priority importance, it's crucial for maintaining our operational integrity and ensuring that we're prepared for any unexpected situations that require immediate attention despite the lower priority designation. Our focus remains on delivering the requested data products by the set deadline, ensuring our satellite constellation planner can meet the needs of our users effectively.
