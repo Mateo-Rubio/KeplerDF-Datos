@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "in four days." This indicates the specific timeline for when the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the imagery capture should occur.
+
+c) The single word contained in the string "in the morning" is "morning." This word will be used verbatim in the final request to indicate the timing of the satellite observation.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The request clearly states "in the morning," aligning with the specified diurnal period without alteration.
+
+### Stage 2 - Final Request
+
+We have a standard operational tasking for routine monitoring as part of our baseline pipeline tracking setup. The mission involves capturing high-resolution optical snapshots over Malinau, Indonesia, using daylight photography to provide clear optical imagery and true-color visual documentation. This task is scheduled to be executed in four days, specifically in the morning. Please ensure that all fixed parameters are adhered to for normal operational status and workflow updates.

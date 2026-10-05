@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+The `target_day` specified in the JSON metadata is "tomorrow." This indicates that the task must be executed by the next day. The `target_diurnal_period` is defined as "around mid-day," which sets a specific time frame within the day for the operation to occur. This precise phrasing suggests that the satellite data capture should happen close to the middle of the day, likely to ensure optimal conditions for thermal imaging.
+
+The word from the set {morning, mid-day, afternoon, evening, overnight} that is explicitly mentioned in the `target_diurnal_period` string is "mid-day." This term will be directly used in the final request to clearly communicate when the data capture should take place.
+
+It is crucial to adhere strictly to these temporal parameters without altering or shifting the deadline. The task must be completed by "tomorrow around mid-day," as specified, ensuring that the delivery of data products aligns with this strict operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority task involving a critical payload capture for the region of Cantù, Italy. We require a thermal mapping operation using microwave surface imaging to capture a heat signature, specifically focusing on surface temperature profiles and thermal anomaly detection in the area. This binding contract requirement necessitates urgent operational execution with an un-preemptable mission lock, ensuring that the data is delivered by tomorrow around mid-day.

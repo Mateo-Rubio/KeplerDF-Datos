@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which is one of {morning, mid-day, afternoon, evening, overnight}, is "morning."
+
+d) I must ensure not to shift the deadline to an adjacent part of the day. The request specifies data capture for "tomorrow" specifically "in the morning." Therefore, no adjustments should be made that would alter this precise timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a binding contract requirement for a high-priority mission over Indonesia, focusing on the city of Lalap. The task is an absolute institutional priority that involves capturing critical multispectral vegetation analysis imagery using a VNIR sensor. This operation will provide insights into chlorophyll absorption levels and help calculate the NDVI index. The data must be captured tomorrow in the morning as part of this urgent operational execution, which is a mandatory directive for our satellite constellation planner.

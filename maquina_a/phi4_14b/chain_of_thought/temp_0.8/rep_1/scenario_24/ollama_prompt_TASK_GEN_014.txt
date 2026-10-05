@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task needs to be completed the day after today.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies when the data capture should occur on the target day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon." This must be included in the final request to specify the exact time of day for the task.
+
+d) It's important to confirm that the deadline is not being shifted. The requirement specifies the data capture should occur "during the afternoon" on "tomorrow," so there is no intention or allowance to shift this timing to another part of the day. The operational execution must adhere strictly to these parameters to ensure compliance with the task's requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+Please coordinate a standard operational tasking for tomorrow during the afternoon, focusing on Spoleto, Italy. This mission involves capturing cloud-penetrating active radar scans using microwave surface imaging over the specified area. The objective is to provide a detailed ground geometry assessment as part of our baseline pipeline tracking setup. Ensure this task follows the fixed parameters indicative of normal operational status within our standard workflow update processes.

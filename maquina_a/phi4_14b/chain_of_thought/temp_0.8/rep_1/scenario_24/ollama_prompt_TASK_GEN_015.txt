@@ -1,0 +1,11 @@
+### Stage 1 - Reasoning
+
+The `target_day` field in the JSON metadata specifies "in four days." This indicates the specific timing constraint for when the data needs to be captured and delivered, adhering strictly to this deadline without any alterations.
+
+For the `target_diurnal_period`, the exact string provided is "in the morning." This clearly defines the time of day during which the satellite observation should occur. From the available options — morning, mid-day, afternoon, evening, and overnight — the word "morning" is explicitly mentioned in the string, meaning that the observation needs to be conducted specifically during this time.
+
+Given this context, I confirm that there is no intent or allowance to shift the deadline to another part of the day. The requirement is clear: the satellite constellation must capture the necessary data precisely in the morning, four days from now.
+
+### Stage 2 - Final Request
+
+We have a low-priority task focused on Kuala Enok, Indonesia, where we need an active radar scan using microwave surface imaging to penetrate through any cloud cover and capture detailed ground geometry. This request falls under a flexible schedule, allowing for opportunistic capture, as it is deemed a non-essential background filler task. Please ensure the observation occurs in the morning, four days from now, and feel free to drop or reschedule at convenience if more urgent missions arise. This low-priority importance task will serve as a background survey within our broader operational framework.
