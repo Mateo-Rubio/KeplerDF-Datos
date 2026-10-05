@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific details for an Earth-observation task request.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the day by which the data products need to be delivered, emphasizing a strict deadline for operational execution without altering the timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the task should be executed or completed, further narrowing down the operational window within the specified deadline.
+
+c) The single word contained in 'target_diurnal_period' that matches our options is "morning." This term will be explicitly used in the final request to ensure clarity and alignment with the specified timeframe.
+
+d) It is crucial to confirm that there is no intention to shift the deadline to an adjacent part of the day. The operational guidelines strictly dictate that the relative timeframes represent a strict operational DEADLINE, and any deviation from this could compromise the task's urgency and execution. Therefore, the deadline remains fixed for "tomorrow morning."
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority task involving Medio San Juan in Colombia. We require an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture of the area. This critical payload capture is a binding contract requirement and must be executed with urgent operational execution, ensuring it remains an un-preemptable mission lock. The data products must be delivered by tomorrow morning.

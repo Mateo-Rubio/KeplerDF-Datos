@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The word "overnight" from the set {morning, mid-day, afternoon, evening, overnight} appears literally in the final request.
+
+d) The deadline specified as "the day after tomorrow" and "overnight" should not be shifted or altered to any other time. This means capturing the data strictly within the timeframe given, not extending it to any part of the following day or changing it to another diurnal period. The task must be completed by that exact overnight window on the specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request targeting Malinau, Indonesia, for a thermal mapping mission using TIR sensors. This involves capturing a heat signature and surface temperature profile during an "overnight" period on "the day after tomorrow." The mission is considered flexible, allowing the operator to adjust or postpone as needed. It's designed as a non-essential background filler task, providing valuable but not critical data for thermal anomaly detection.

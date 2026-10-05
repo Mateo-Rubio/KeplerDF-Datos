@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific strings for the time frame of the task request. Firstly, the exact string in 'target_day' is "in three days." This indicates that the mission must deliver the data within this specified period. Secondly, the string in 'target_diurnal_period' is "in the morning," which specifies when during the day the observation should occur. The word contained in this string that corresponds to one of the listed diurnal periods is "morning." This means the task is scheduled specifically for that part of the day. It's important to adhere strictly to these time frames, ensuring that there is no shift or reinterpretation of the deadline to another part of the day. The task must be completed within three days, and it must capture data in the morning.
+
+**STAGE 2 - FINAL REQUEST**
+
+As part of our baseline pipeline tracking, we request a standard operational tasking focused on Pantanillo, Colombia. The objective is to conduct a multispectral vegetation analysis using VNIR to assess the chlorophyll absorption level and calculate a vegetation NDVI index for this location. This routine monitoring request must be completed with fixed parameters within three days, specifically in the morning. This operation aligns with our standard workflow update and reflects normal operational status.

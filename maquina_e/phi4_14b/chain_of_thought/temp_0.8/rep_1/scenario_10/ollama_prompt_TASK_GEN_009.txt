@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task request involves capturing imagery of a specific location using the VIS sensor, with a given priority level and timeframe. Let's break down the requirements:
+
+a) The exact string for 'target_day' is "the day after tomorrow." This phrase indicates a precise deadline for when the data products must be delivered.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day during which the imagery should be captured.
+
+c) The single word contained in the string "in the morning" is "morning." This word will appear literally in the final request to specify the time of capture.
+
+d) It's important to confirm that the deadline is not being shifted. The request specifies capturing imagery "the day after tomorrow, in the morning," and this timeframe must be adhered to strictly without any adjustments to the specified period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for capturing high-resolution optical snapshots over Ecuatorial, Indonesia. This involves clear optical imagery using daylight photography to provide true-color visual documentation of the area. The request is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The data products are expected by the day after tomorrow, specifically in the morning. This tasking is a routine monitoring component of our workflow update.
