@@ -1,0 +1,16 @@
+Greetings,
+
+I'm reaching out as an Earth-observation mission operator tasked with requesting a specific satellite constellation task, based on the provided metadata. Our objective is to translate raw physical simulation data into a highly realistic and conversational English request, adhering to our operational guidelines for naturalness and validation accuracy.
+
+Firstly, let's delve into the geographic context. We aim to capture detailed imagery of Burzanella, which lies in the picturesque region of Italia. The location details indicate that we're focusing on the city itself, with no further information provided on landmarks or coordinates. This will serve as our primary reference point for the satellite's mission.
+
+Moving onto mission allocation priorities, our request falls under the category of a low importance task. This implies that while it's not critical to an operational execution, it's still part of our baseline pipeline tracking setup and can be treated as a flexible background survey or testbed tracking task.
+
+Now let's address the sensors and physical objectives. Our primary sensor is set to operate using active radar scans, providing microwave surface imaging capabilities. This means we're focusing on a cloud-penetrating capture that will allow us to observe ground geometry regardless of weather conditions. This high-resolution SAR scan aims to capture essential details for our analysis.
+
+For the relative timeframes, our task comes with a strict deadline for data availability, as specified in the JSON metadata. We need the data products ready by the target day, which is 'in three days', during the afternoon timeframe. This deadline highlights the urgency and importance of delivering the data as per the operational constraints.
+
+In summary, we're requesting that you prioritize our task with a low priority importance, focusing on capturing high-resolution SAR imagery of Burzanella, Italia, during the afternoon on 'in three days'. This will provide us with the required data products by the set deadline to ensure their timely ingestion into our pipeline. Thank you for your attention and cooperation.
+
+Best regards,
+[Your Name]

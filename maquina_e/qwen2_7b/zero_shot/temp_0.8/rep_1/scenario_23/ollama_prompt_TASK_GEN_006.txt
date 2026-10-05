@@ -1,0 +1,7 @@
+We are setting up a routine monitoring task for the satellite constellation planner. Our priority level is LOW, meaning this is a flexible scheduling task that we can drop or reschedule as per our convenience. We are tasked with capturing an active radar scan using microwave surface imaging technology in three days' time, preferably during the evening period.
+
+Our geographical context is focusing on Indonesia, with a specific emphasis on the equatorial region. The city details aren't applicable here since they are "N/A". The main goal is to penetrate through heavy weather conditions and capture ground geometry of this unique location using SAR technology.
+
+The deadline for delivering these data products is set strictly for three days from now, ensuring that the products will be ingested into the pipeline before the evening period on that day. We are aiming for clear optical imagery to provide a detailed view of the terrain during daylight hours as well.
+
+This task aligns with normal operational status and represents part of our baseline pipeline tracking setup with fixed parameters. Given the nature of this request, it's treated as a non-essential background filler task or a testbed tracking task that doesn't require close adherence to a rigid timeline.
