@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves interpreting a set of metadata parameters to create a conversational English request for an Earth-observation mission. Let's address each question in sequence:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the specific day by which the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the satellite should capture the required data.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used verbatim in the final request to describe the diurnal period accurately.
+
+d) It's important to confirm that the deadline should not be shifted. The requirement is for data capture to occur overnight on "tomorrow," and this timeframe must be adhered to without alteration. Any deviation would change the strict operational deadline set by the mission parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a satellite overflight in San Joaquín, Colombia, with a focus on near-infrared reflection capabilities. This mission is designed to map water body boundaries and assess soil moisture levels using microwave surface imaging. The request is part of our baseline pipeline tracking setup, featuring fixed parameters that reflect a normal operational status. We need the data captured overnight tomorrow as part of this routine monitoring initiative.

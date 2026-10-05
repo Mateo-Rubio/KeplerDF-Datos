@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task request involves a low-priority Earth-observation mission centered around the city of Arnoldstein in Austria. Let's break down the requirements based on the provided metadata.
+
+a) The exact string in 'target_day' is "in three days." This specifies the deadline for when the data product needs to be delivered, indicating that the task should be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates the specific time of day during which the satellite should capture the required data.
+
+c) From the given options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained in the 'target_diurnal_period'. This word will be used literally in the final request to specify when the data capture should occur.
+
+d) It is crucial to adhere strictly to the provided deadline without altering or shifting it to another part of the day. The task must be executed during the specified "overnight" period and delivered "in three days," ensuring compliance with the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an Earth-observation mission over Arnoldstein, Austria. This task involves capturing data using a near-infrared reflection sensor to map water body boundaries or assess soil moisture gradients. Given its flexible schedule, this is an opportunistic capture with a "flexible schedule," and the operator should feel free to drop or reschedule it at their convenience, treating it as a background survey or testbed tracking task. The data should be captured "overnight" and delivered "in three days."

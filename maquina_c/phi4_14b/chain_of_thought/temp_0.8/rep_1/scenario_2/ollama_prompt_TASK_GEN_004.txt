@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the precise timeline for when the data needs to be captured.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day during which the satellite should capture the data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day". This word will be used explicitly in the final request to describe the timing.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original requirement specifies capturing data "around mid-day" on the target day, which is "in four days". Therefore, the deadline remains fixed to this specified time without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task involving a flexible schedule for opportunistic capture over Nóvita, Colombia. This task should utilize active radar scanning with microwave surface imaging to achieve a cloud-penetrating capture around mid-day in four days. Given its non-essential background filler status, please note that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
