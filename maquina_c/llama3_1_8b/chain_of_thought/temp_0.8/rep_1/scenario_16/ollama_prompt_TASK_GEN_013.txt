@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+The JSON metadata contains a few key fields that need to be interpreted for the task request. Let's break them down:
+
+a) The exact string in 'target_day' is: "in three days".
+
+b) The exact string in 'target_diurnal_period' is: "overnight".
+
+c) The single word contained in 'target_diurnal_period' is: "overnight". This will be used in the final request.
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The temporal parameters represent a strict operational deadline, and I will ensure that the language reflects this without altering or extending the original deadline.
+
+STAGE 2 - FINAL REQUEST
+
+...The following thermal mapping task is an absolute institutional priority and a critical directive for our team. We require a high-resolution thermal snapshot to capture the heat signature of the region in overnight. This task has been assigned a binding contract requirement, and it is essential that we receive the data products within the next three days to ensure successful completion of our operational objectives. The parameters for this task are fixed, and it represents a standard operational tasking with normal operational status.

@@ -1,0 +1,9 @@
+Let's break down the task.
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) We are not shifting the deadline to an adjacent part of the day, as "today" implies a specific date and time, and "in the evening" is a specific time period within that day.
