@@ -1,0 +1,14 @@
+I'll work through the four questions in order.
+
+a) The exact string in 'target_day' is: "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is: "around mid-day".
+
+c) The single word contained in that string is: "mid-day".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original 'target_diurnal_period' specifies "around mid-day", which implies a specific time of day on the target day, rather than an adjacent part of the day.
+
+Now, moving on to STAGE 2:
+
+```prompt
+Please task the satellite with capturing a multispectral vegetation analysis using near-infrared reflection for "chlorophyll absorption level" or calculating a vegetation "NDVI index" and surface reflectance in Colombia, specifically in La Hacienda. This standard operational tasking is part of a commercial tasking routine, and it requires delivery of data products by the day after tomorrow, around mid-day.

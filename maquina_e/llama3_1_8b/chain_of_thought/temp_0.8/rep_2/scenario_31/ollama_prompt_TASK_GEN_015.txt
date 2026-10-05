@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline is set for overnight, and I will incorporate this into the final request.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+We require a low-priority importance task for opportunistic capture with a flexible schedule. Please perform a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance over Indonesia, focusing on Tanjung Jabung Timur, which is located in the country of Indonesia. The target data product must be delivered by today overnight.

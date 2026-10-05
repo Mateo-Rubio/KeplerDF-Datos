@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in the string is "mid-day". This word will be used in the final request.
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline, and I will integrate this information into the final request without altering it.
+
+STAGE 2 - FINAL REQUEST
+
+...The mission requires an active radar scan using microwave surface imaging for cloud-penetrating capture around mid-day tomorrow. The location of interest is Majangkan, Indonesia. This task is classified as a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure that the data products are delivered on time to meet this institutional priority...

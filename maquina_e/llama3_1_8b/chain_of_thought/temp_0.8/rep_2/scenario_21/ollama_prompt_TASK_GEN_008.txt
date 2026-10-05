@@ -1,0 +1,11 @@
+Here's Stage 1 - Reasoning:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string 'target_diurnal_period' is "overnight". This word must appear literally in the final request.
+
+d) Confirming that I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, and I will incorporate them into the final request without altering or extending the deadline.
+
+Please let me proceed to Stage 2 - Final Request.

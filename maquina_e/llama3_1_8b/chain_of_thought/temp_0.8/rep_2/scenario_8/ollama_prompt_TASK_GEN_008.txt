@@ -1,0 +1,14 @@
+Here is the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This is the word I will use in my final request.
+
+d) To confirm, I am not shifting the deadline to an adjacent part of the day. The original target day is indeed four days from now, and the target diurnal period remains overnight, which is a specific time of day that does not overlap with any adjacent part of the day.
+
+Now, I will proceed to Stage 2 to craft the final request. 
+
+```prompt
+As an absolute institutional priority, we require a high-resolution optical snapshot using VNIR for multispectral vegetation analysis in the region of Tuscany, specifically near the city of Greve in Chianti, Italy. This task is crucial for assessing the chlorophyll absorption level and calculating the vegetation NDVI index and surface reflectance. The dataset should be collected in four days, during the overnight period, as per our binding contract requirement involving a critical payload capture.

@@ -1,0 +1,13 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) Upon reviewing the JSON, I confirm that there is no indication of shifting the deadline to an adjacent part of the day. The "target_diurnal_period" is specified as "around mid-day", which implies a focus on capturing data at or around this specific time, rather than adjusting the deadline to another time of day.
+
+Now, moving on to STAGE 2, here's the final request:
+
+...tomorrow... We require an absolute institutional priority for thermal mapping, capturing a heat signature and surface temperature profile, using the active thermal infrared sensor, in the region of Italy, focusing on the city of Cantù around mid-day.

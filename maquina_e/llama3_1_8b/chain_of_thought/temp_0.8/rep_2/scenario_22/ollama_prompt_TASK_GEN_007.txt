@@ -1,0 +1,17 @@
+I'll work through the reasoning stage to answer the four questions.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "in three days"
+
+b) The exact string in 'target_diurnal_period' is: "overnight"
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string is: overnight
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' parameter specifies a strict operational deadline three days from now, and the 'target_diurnal_period' parameter indicates that the data capture should take place at this time.
+
+Now, moving on to STAGE 2 - FINAL REQUEST:
+
+...your text here...
+
+As a mission operator, I am submitting a request for a SAR tasking with the following parameters. We require an active radar scan using microwave surface imaging to pierce heavy weather and capture ground geometry, to be conducted in three days as part of a background survey task. The location of interest is in Colombia, specifically in the city of Sesquilé, where we will attempt to capture overnight. This request has low priority importance, with a flexible schedule for opportunistic capture, and can be dropped or rescheduled at convenience if necessary.
