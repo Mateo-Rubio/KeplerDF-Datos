@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days." This indicates a specific timeline by which the data collection should be completed.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies when during the day the satellite capture should occur.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "morning." Therefore, this is the time period I will include in the final request.
+
+d) Based on the provided JSON metadata, there are no indications or instructions to shift the deadline from "in four days" to any other part of the day. The deadline is strictly defined as occurring in the morning of that specified day. Thus, no changes to the temporal parameters are necessary.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm reaching out to request a low-priority importance task involving an opportunistic capture with a flexible schedule, allowing for adjustments or rescheduling at your convenience. We're looking for a non-essential background filler task to perform multispectral vegetation analysis in Cossogno, Italy. The goal is to assess the chlorophyll absorption levels and calculate the NDVI index using VNIR sensor data. This task should be completed "in four days" with the satellite capture occurring "in the morning."
