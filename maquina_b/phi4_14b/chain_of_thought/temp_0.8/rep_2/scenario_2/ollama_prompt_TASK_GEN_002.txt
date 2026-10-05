@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+Let's start by examining the target day and diurnal period information provided in the JSON metadata.
+
+a) The exact string in 'target_day' is "in three days." This phrase provides a clear indication of when the task is scheduled to be completed, specifying that the data collection should occur three days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This indicates the specific time of day when the task should be executed, pointing out that the satellite capture is intended for the evening hours.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "evening" is explicitly contained in the string "in the evening." This term will be crucial to include in the final request as it specifies the exact time period during which the data should be collected.
+
+d) It's important to confirm that we are not shifting the deadline to a different part of the day. The task requires capturing data in the evening, not in the morning, afternoon, or any other time frame. Therefore, maintaining this specific timing is critical and must be adhered to without alteration.
+
+With these details clarified, we can proceed to craft the final request.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance task request for an Earth-observation mission focusing on near-infrared reflection aimed at water body boundary mapping or soil moisture assessment. This task is intended for Norte, Italia, and should be executed with a flexible schedule to allow for opportunistic capture. Please consider this as a non-essential background filler task where you can drop or reschedule it at your convenience. The data collection is scheduled for in three days, specifically in the evening.

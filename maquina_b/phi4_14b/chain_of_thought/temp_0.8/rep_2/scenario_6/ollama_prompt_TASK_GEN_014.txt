@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provided indicates that the task is to be executed with a primary sensor focusing on near-infrared (NIR) imaging. Let's break down the necessary components to craft an appropriate and realistic request.
+
+a) The exact string in 'target_day' is "tomorrow". This implies that the data capture needs to occur the day after the current date, setting a clear deadline for the task.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This indicates the specific time frame during which the satellite must perform its imaging, ensuring optimal conditions for capturing near-infrared reflections.
+
+c) The single word contained in this string that corresponds with the options provided is "mid-day". This term explicitly defines the period during which the task should be executed and must appear literally in the final request to maintain clarity and precision.
+
+d) It is essential to confirm that there is no intention to shift the deadline. The parameters provided are strict, indicating that the capture must occur specifically "around mid-day" on "tomorrow". This means the operational deadline is fixed, and any deviation from this schedule would not meet the specified requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task that involves a critical payload capture in Val Masino, Italy. The mission involves using the near-infrared sensor to perform water body boundary mapping or soil moisture assessment around mid-day tomorrow. This task is of high importance, requiring urgent operational execution and an un-preemptable mission lock due to its binding contract requirement. The imagery must be captured as specified without deviation from this strict deadline.

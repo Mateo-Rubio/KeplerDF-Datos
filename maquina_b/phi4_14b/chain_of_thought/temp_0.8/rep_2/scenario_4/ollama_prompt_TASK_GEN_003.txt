@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates that the task is scheduled for two days from today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time during which the data should be captured, indicating nighttime operations.
+
+c) The single word contained in that string is "overnight." This term will be used directly in the final request to specify the timing of the task.
+
+d) The deadline specified by 'target_day' and 'target_diurnal_period' is for "the day after tomorrow" during the "overnight" period. There is no indication or permission to shift this deadline to any other part of the day, so it must be adhered to as stated.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a request for a satellite task focusing on Banyuasin, Indonesia. The mission involves capturing thermal data using infrared sensors to map surface temperatures and detect thermal anomalies. This task is part of our standard operational workflow, ensuring regular monitoring and updates to our baseline pipeline tracking. Please schedule the data capture for "the day after tomorrow" during the "overnight" period, adhering strictly to this deadline. Thank you for coordinating this routine monitoring task.

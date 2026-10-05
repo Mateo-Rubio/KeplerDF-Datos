@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting JSON metadata to craft a natural and conversational request for an Earth-observation mission. Let's address each of the questions to guide this translation.
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates the specific day on which the task should be completed, reflecting a precise operational deadline.
+
+b) For 'target_diurnal_period,' the exact string provided is "in the evening." This describes the time of day when the satellite data capture should occur. It is crucial to adhere to this specified period for accurate mission planning and execution.
+
+c) Within the phrase "in the evening," the single word that fits among {morning, mid-day, afternoon, evening, overnight} is "evening." This term must be explicitly included in the final request to accurately convey when the task is scheduled to occur during the day.
+
+d) It's important to confirm that we are not shifting this deadline to any other part of the day. The metadata specifies "in the evening" as the precise period, and altering this would misalign with the operational requirements. Therefore, the deadline remains strictly for the evening on the specified day, which is "tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking to monitor vegetation health in Tame, Colombia, utilizing multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index. This routine monitoring task is part of our baseline pipeline tracking with fixed parameters representing normal operational status. Please ensure this mission is executed by tomorrow in the evening.

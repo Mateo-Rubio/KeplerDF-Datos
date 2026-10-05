@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data delivery deadline is set for three days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies that the satellite observation should be conducted during the morning hours on the target day.
+
+c) The single word contained in the string 'target_diurnal_period' is "morning." This word will be used verbatim in the final request to indicate the specific time of day for the data capture.
+
+d) I confirm that the deadline is not being shifted to any other part of the day. The requirement specifies "in the morning" on "in three days," and this must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a critical payload capture over Fobello, Italy. This mission involves a binding contract requirement for a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The data must be delivered in three days, specifically captured in the morning. This task is an un-preemptable mission lock, reflecting its urgent operational execution status.

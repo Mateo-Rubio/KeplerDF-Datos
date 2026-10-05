@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word must appear literally in the final request.
+
+d) I need to ensure that I am not shifting the deadline to a different part of the day. The metadata specifies "overnight," and I should adhere to this without modifying it to another time period such as morning, mid-day, afternoon, or evening.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking to conduct near-infrared reflection over San Carlos de Guaroa, Colombia. This routine monitoring is part of our baseline pipeline tracking, and I need this task executed with fixed parameters for soil moisture assessment to help discriminate gradients. The task should be completed in four days, specifically capturing data overnight.

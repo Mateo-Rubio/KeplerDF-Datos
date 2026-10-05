@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating metadata from a JSON file into a conversational request for an Earth-observation mission. Let's dissect the relevant elements:
+
+a) The 'target_day' string is "in four days." This indicates the time frame by which the data must be delivered.
+
+b) The 'target_diurnal_period' string is "overnight." This specifies when the observation should ideally occur.
+
+c) Within the string "overnight," the word that aligns with the given options is "overnight" itself. This word will be used directly in the final request to describe the time of the task.
+
+d) It's crucial to adhere strictly to the specified deadline and diurnal period without altering or shifting them. The requirement is for an observation "in four days" during the "overnight" period, so there is no need to adjust this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance task for an observation over Sotta, France. This mission involves capturing a high-resolution optical snapshot using visible light sensors. The aim is to obtain clear optical imagery and true-color visual documentation of the area. Given the nature of this request, it has a flexible schedule, allowing for opportunistic capture. Please note that this is a non-essential background filler task, so feel free to drop or reschedule it at convenience if necessary. The observation should occur in four days, specifically during the overnight period, aligning with the delivery deadline for the data products.

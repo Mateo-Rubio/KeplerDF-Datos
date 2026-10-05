@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task at hand involves translating metadata from a JSON format into a natural language request for satellite imagery collection. The metadata provided specifies various elements that need to be considered for this transformation.
+
+a) The exact string in 'target_day' is "in four days." This phrase indicates the timeframe within which the data product is expected to be delivered. It's crucial to incorporate this deadline as it stands without any alterations, reflecting a strict operational constraint rather than suggesting flexibility or an opportunity for adjustment.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day during which the satellite should capture the imagery. The choice of timing can significantly impact the type of data collected, especially considering the sensor technology involved and the geographical context.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day." This term will be directly used in the final request to accurately convey the desired time for data capture. It's essential to use this specific term to ensure clarity and precision in the operational request.
+
+d) There's a clear directive not to shift the deadline to an adjacent part of the day. This means that while preparing the request, it's important to adhere strictly to the specified timeframe and diurnal period without suggesting any flexibility or adjustment. The mission's operational parameters are fixed, emphasizing the importance of meeting the delivery deadline as precisely as outlined.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance request for an opportunistic capture of satellite imagery over Nóvita, Colombia. Given the flexible schedule, this task is to be considered a non-essential background filler, with the operator having the liberty to drop or reschedule at their convenience. The objective here is to conduct an active radar scan using microwave surface imaging, aiming for cloud-penetrating capture to map ground geometry effectively. This should be done "in four days," specifically "around mid-day" to align with the optimal conditions for SAR imagery. This request falls into a routine monitoring category, where the primary goal is to gather data without urgent operational execution pressures.
