@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+The exact string contained in 'target_day' field is: "tomorrow"
+The exact string contained in 'target_diurnal_period' field is: "overnight"
+The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally in this string is: "overnight"
+Confirmation of not shifting the deadline to an adjacent part of the day: The deadline remains exactly as stated for "overnight".
+
+STAGE 2 - FINAL REQUEST
+
+Given the context provided, we are tasked with capturing a low priority importance observational dataset overnight, tomorrow. This involves utilizing a VNIR sensor for nighttime multispectral vegetation analysis. Our objective is to assess chlorophyll absorption levels and calculate an NDVI index for the region surrounding Tatau, Malaysia. Due to its "non-essential background filler task" nature, this request carries no urgency beyond the deadline provided for "overnight tomorrow". It represents a standard operational tasking that fits into our baseline pipeline tracking with fixed parameters. This "flexible schedule" allows for opportunistic capture as per our convenience or priority shifts, designating it as a "background survey" or a "testbed tracking task".

@@ -1,0 +1,23 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "in three days".
+
+b) The exact string contained in 'target_diurnal_period' is "overnight".
+
+c) The word that appears literally from the set {morning, mid-day, afternoon, evening, overnight} within the string "overnight" is "overnight". 
+
+d) There is no shifting of the deadline to an adjacent part of the day. The 'target_day' string specifies "in three days", indicating an absolute deadline that is not being altered or preempted by other parts of the day.
+
+STAGE 2:
+
+Given the priority level and operational requirements, this request for a satellite task is deemed a low importance and flexible schedule task. We aim to capture essential data without the urgency of high-priority missions but with a clear directive to deliver results within three days.
+
+The target day is "in three days", specifically focusing on capturing data during the "overnight" period. This timeframe represents a strategic window for satellite operations, as it allows us to leverage night-time conditions to maximize certain types of observations.
+
+Operating under these parameters, our mission aims to capture high-resolution optical snapshots and active radar scans using the SAR sensor. The goal is to achieve a detailed surface mapping capability that can pierce through cloud coverage or other atmospheric disturbances.
+
+We are targeting Colombia, specifically the city of Sesquilé, for this satellite task. The detailed location provides us with precise coordinates to tailor our mission parameters accordingly. Our objective encompasses capturing a thermal signature to identify temperature profiles and detect thermal anomalies on the ground, which could be crucial for various applications such as environmental monitoring or urban planning.
+
+The flexibility in scheduling allows for an opportunistic approach towards capturing data, acknowledging that this task might require adjustment based on other operational priorities. We understand that it falls into the background survey category of our pipeline tracking and is not to be preempted by higher-priority missions. This task will contribute as a valuable piece of information within our ongoing baseline monitoring activities.
+
+In conclusion, our operational request is structured around delivering data products for Colombia's Sesquilé city during the overnight period in three days using SAR sensor technology. This initiative adheres to our low priority importance status, with a non-essential background filler task that can be flexibly managed according to our operational pipeline requirements.
