@@ -1,0 +1,25 @@
+STAGE 1
+
+a) The exact string contained in 'target_day' is: "in three days"
+b) The exact string contained in 'target_diurnal_period' is: "in the morning"
+c) The word contained within the 'target_diurnal_period' string that must appear literally in the final request is: "morning"
+d) I am confirming that the deadline remains exactly as it was provided and is not being shifted to an adjacent part of the day.
+
+STAGE 2
+
+```prompt
+Given the urgent operational priority level indicated by the 'priority_level' tag, this request involves capturing a detailed 'primary_sensor' payload — specifically utilizing VNIR technology — for high-resolution optical imagery. We're targeting a specific geographic context encompassing Colombia's Melgar city with precise parameters set for daylight photography purposes on a clear day exactly three days from now, with our operational window opening in the morning.
+
+As per our institutional commitment to 'absolute priority', this task must be executed as an un-preemptable mission lock, ensuring we capture the necessary data products by this exact deadline. The need for this critical payload is based on the importance of capturing high-quality visual documentation and assessment of environmental conditions during a period with expected optimal sunlight conditions.
+
+With this understanding, our satellite constellation is programmed to prepare immediately for this 'standard operational tasking'. We anticipate the active acquisition processes will be managed within our baseline pipeline tracking setup, adhering to fixed parameters that represent normal operational status. Given the high priority, we're scheduling an immediate response and execution, with all necessary resources dedicated to meeting this requirement.
+
+The VNIR sensor's primary role here is to provide us with a comprehensive vegetation analysis by assessing chlorophyll absorption levels or calculating the NDVI index and surface reflectance. This is crucial data for environmental monitoring and management tasks requiring precise multispectral information on plant health and biodiversity.
+
+As we're operating under 'high importance', please be assured that this task will receive immediate attention without compromising any other ongoing missions. The scheduled capture aims to provide us with accurate, unobstructed, and detailed images of the Melgar region, capturing essential data for environmental studies and decision-making processes.
+
+This is a 'binding contract requirement' that is part of our critical payload capture strategy and reflects the contractual obligations we hold as an organization. Our commitment to delivering on these mandates is unwavering, and we look forward to providing the required data products by the deadline specified.
+
+Should any adjustments be necessary due to unforeseen circumstances, kindly inform us immediately so that we can make the appropriate arrangements without compromising the quality or timeliness of this request. In summary, our priority for this task is 'high', which means immediate attention and a guaranteed response to ensure all requirements are met before the morning on the target day.
+
+Please proceed with executing this mission accordingly.

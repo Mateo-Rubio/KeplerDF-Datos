@@ -1,0 +1,12 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+b) The exact string contained in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string is "overnight".
+d) The deadline has not been shifted to an adjacent part of the day; it remains "overnight" as specified.
+
+STAGE 2:
+
+Given the operational context outlined, we are tasked with capturing a detailed nighttime snapshot using the VNIR sensor for the region encompassing Indonesia, focusing specifically on the area near Pelompek city. This mission request carries a medium importance level, which aligns with its placement in our baseline pipeline tracking setup. The goal is to conduct an active radar scan utilizing microwave surface imaging capabilities as part of our routine monitoring efforts, allowing for cloud-penetrating capture that ensures visibility through various weather conditions. The imagery will serve to assess the health of vegetation by capturing the chlorophyll absorption level and calculating the NDVI index along with surface reflectance data.
+
+The deadline for delivering this dataset is set for "tomorrow overnight". This stringent operational deadline emphasizes the critical nature of our task, requiring that all resources be allocated to ensure the most efficient capture and delivery of these essential data products. We are prepared to proceed without delay, adhering strictly to the outlined deadline and ensuring that no other tasks will preempt this mission's execution.

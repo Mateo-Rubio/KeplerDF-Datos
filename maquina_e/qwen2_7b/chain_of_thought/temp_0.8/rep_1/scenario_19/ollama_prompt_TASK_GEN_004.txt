@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string which must appear literally in the final request is "evening".
+d) Yes, I confirm that I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context provided by the JSON metadata, this task involves a priority level 2 mission allocation with a primary sensor of Synthetic Aperture Radar (SAR). This request aims for an active radar scan utilizing microwave surface imaging capabilities. The geographical focus is set on the beautiful and culturally rich region of Colombia, specifically targeting the historical city of Antiguo ETCR La Guajira, also known as Mariana Páez. 
+
+Our mission is scheduled for "today", with a particular emphasis on capturing data during "the evening". We are seeking to achieve a detailed and comprehensive understanding of the area's ground geometry and surface features using this "cloud-penetrating capture" capability that SAR sensors offer, especially in providing clear imagery even under challenging weather conditions.
+
+The task is treated as a standard operational tasking within our baseline pipeline tracking setup, with fixed parameters representing normal operational status. The deadline to deliver the data products is set for today's evening hours and must be strictly adhered to.
+
+This request underscores the importance of SAR imaging in providing critical insights into the region's topography and structure during less conventional observation times, thus contributing to our comprehensive monitoring and analysis of Colombia's northern coast.

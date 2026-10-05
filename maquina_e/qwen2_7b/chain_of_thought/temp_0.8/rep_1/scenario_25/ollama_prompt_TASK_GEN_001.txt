@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) No, the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and information provided within the JSON metadata, the Earth-observation mission operator requests a high-resolution near-infrared (NIR) observation targeting the city of Riofrío, Colombia. This request emphasizes a critical payload capture with an un-preemptable mission lock due to its high priority level of 3. The operator aims to achieve clear optical imagery and true-color visual documentation of the region by conducting an active radar scan using microwave surface imaging techniques around mid-day on the day that is three days ahead. The operator understands the deadline for this data product delivery and is prepared to execute this "absolute institutional priority" without altering or extending the specified time frame.

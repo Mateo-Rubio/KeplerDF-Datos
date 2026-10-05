@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word "morning" is contained in that string.
+d) No, I am not shifting the deadline to an adjacent part of the day. The specified time frame remains "in the morning".
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the specific context provided by the JSON metadata, Earth-observation mission operator, your request for the next task reads as follows:
+
+"Please conduct a high-resolution optical snapshot, capturing daylight photography or clear optical imagery of the region in Colombia, specifically in the city of Páez. This is a low priority importance request with a flexible schedule and a binding contract requirement to deliver this 'true-color visual documentation' no later than four days from now, at the designated time of 'in the morning'. The mission allocation is classified as a 'non-essential background filler task', allowing for drop or rescheduling at convenience. This operational tasking aligns with standard workflow updates and represents a 'background survey'."
+
+This request fully interprets the JSON metadata into a highly realistic, conversational English format while adhering to all operational guidelines provided.

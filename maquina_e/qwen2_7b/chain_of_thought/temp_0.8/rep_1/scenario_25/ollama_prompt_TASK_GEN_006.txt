@@ -1,0 +1,9 @@
+STAGE 1 - REASONING:
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word that must appear literally in the final request from the set {morning, mid-day, afternoon, evening, overnight} is "morning".
+d) Confirming the deadline is not being shifted to an adjacent part of the day, the string explicitly states it is happening in the morning, on the fourth day after today.
+
+STAGE 2 - FINAL REQUEST:
+The Earth observation mission operator requests a low priority importance task for the upcoming four-day period. This request necessitates capturing the morning sunrise conditions over the Indonesian city of Singkep Barat using the VNIR sensor. The primary objective is to conduct a daylight photography mission aimed at assessing chlorophyll absorption levels and generating vegetation NDVI index data as well as mapping surface reflectance with high-resolution optical imagery. The operational deadline is set for the morning on the fourth day following today, without any adjustments to the specified time period for capture. This low-priority task serves as a background survey, allowing the mission planner the flexibility to schedule or reschedule according to operational convenience.
