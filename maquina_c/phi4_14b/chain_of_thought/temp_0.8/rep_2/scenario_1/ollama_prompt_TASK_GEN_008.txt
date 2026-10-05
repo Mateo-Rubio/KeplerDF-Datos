@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "tomorrow". This specifies the specific day on which the data acquisition should occur.
+
+b) The exact string for 'target_diurnal_period' is "in the morning". This indicates the time of day during which the satellite observation should take place.
+
+c) The single word contained in the string "in the morning" from the options provided ({morning, mid-day, afternoon, evening, overnight}) is "morning". This word will be used literally in the final request to specify the timing accurately.
+
+d) The deadline specified is "tomorrow in the morning". There is no indication or requirement to shift this to an adjacent part of the day, such as the afternoon or evening. The task must be executed precisely within the given timeframe to meet the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for tomorrow that involves a high-resolution optical snapshot over Italy, specifically focusing on Follo. This is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. The task aims to capture clear optical imagery during the morning hours, adhering to our routine monitoring schedule. Please ensure that this task is integrated seamlessly into our workflow update for timely execution.
