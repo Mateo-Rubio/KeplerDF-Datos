@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string, which must appear literally in the final request, is "overnight".
+d) I confirm that the deadline to deliver the data products is not being altered or shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the parameters provided in your JSON, our Earth-observation mission operator is tasked with capturing a thermal mapping image using the TIR sensor for the region of Colombia, specifically focusing on the city of Paimadó. The request is designated as a low priority importance task, indicated by the 'priority_level' of 1, which means it should be treated as a non-essential background filler task that can be scheduled with a flexible timeline.
+
+The data acquisition will occur overnight on the target day, which is tomorrow according to your schedule. This timeframe underscores the deadline for delivering the thermal data products without altering the actual orbital capture window, emphasizing that the primary concern here is meeting operational deadlines for data delivery rather than optimizing the satellite's orbit.
+
+This mission aims to capture a heat signature or surface temperature profile of the region, focusing on thermal anomalies and mapping heat emissions with high precision. The task will help in understanding and identifying potential issues related to urban heat islands, agricultural heat stress, or any other environmental concerns that require thermal imaging at night when other observation methods might be hindered by daylight or cloud cover.
+
+To summarize, the Earth-observation mission operator is tasked with capturing thermal data of Colombia's Paimadó city overnight on tomorrow, using a TIR sensor for a non-critical, low-priority task that should be accommodated within the flexible schedule while ensuring timely delivery of the thermal mapping results.

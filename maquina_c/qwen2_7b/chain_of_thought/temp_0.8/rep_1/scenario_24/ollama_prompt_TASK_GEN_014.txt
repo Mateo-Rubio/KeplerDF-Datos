@@ -1,0 +1,24 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) No, the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON metadata, our task request can be phrased as follows:
+
+---
+
+We are tasked with capturing a detailed microwave surface image using radar sensors during the afternoon of tomorrow. This will involve an active radar scan over an area in Spoleto, Italy, to gather critical information for commercial tasking purposes.
+
+The region of interest is located within the beautiful and historically rich city of Spoleto, nestled in the heart of the picturesque region of Italia. This location is selected due to its strategic importance for the upcoming capture, which falls under our standard operational pipeline tracking setup. With fixed parameters that represent our normal operational status, this tasking is part of our baseline monitoring efforts.
+
+The radar scan aims to provide us with cloud-penetrating imagery that will allow us to observe ground geometry and features in high detail, even through heavy weather conditions. This information is essential for comprehensive mapping and analysis, enabling us to meet the requirements set forth by our institutional priorities.
+
+As this request has been classified under a priority level of 2, it represents a standard operational tasking with normal time constraints attached. The deadline for delivering this data product is strict and cannot be postponed or rescheduled. Thus, we will adhere closely to the specified target day and diurnal period—tomorrow afternoon—to ensure timely fulfillment of our mission.
+
+In conclusion, we are preparing to execute an active radar scan over Spoleto, Italia, during the afternoon of tomorrow, in line with our standard operational guidelines and baseline pipeline tracking setup. This task is an integral part of our commercial monitoring efforts and will contribute to our ongoing commitment to providing high-quality data products within the specified timeframe.
+
+---
