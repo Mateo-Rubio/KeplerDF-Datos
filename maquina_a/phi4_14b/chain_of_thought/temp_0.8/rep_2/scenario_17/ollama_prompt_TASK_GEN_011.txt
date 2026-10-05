@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "tomorrow". This indicates that the data delivery deadline is set for the next day from when this task was created.
+
+b) The exact string for 'target_diurnal_period' is "in the evening". This specifies that the desired time frame for data delivery within that day is during the evening hours.
+
+c) Within the string "in the evening", the single word contained in the set {morning, mid-day, afternoon, evening, overnight} is "evening". This must appear literally in the final request to align with the specified timing.
+
+d) The task specifies the delivery deadline as "tomorrow, in the evening." There are no indications or allowances for shifting this deadline to a different time or period within the day. Thus, it's crucial to adhere strictly to this specified timeframe without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an opportunistic capture of near-infrared reflection data over Grumino, Italy, tomorrow in the evening. This task is considered low priority importance, so please feel free to drop or reschedule it at your convenience. The goal is to map water body boundaries and assess soil moisture levels using near-infrared imaging. This background survey will be valuable as a testbed tracking task within our flexible schedule.
