@@ -1,0 +1,14 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+This is an absolute institutional priority to conduct a thermal mapping mission over Indonesia, specifically in the city of Ecuatorial, using our advanced thermal imaging capabilities. We require a high-resolution thermal snapshot for critical heat signature detection and surface temperature profiling. The data must be ready by tomorrow's overnight block at the latest. This task is a binding contract requirement involving a critical payload capture, ensuring the products are ingested into the pipeline before the deadline. Please execute this mission as per standard operational tasking with fixed parameters representing normal operational status.
