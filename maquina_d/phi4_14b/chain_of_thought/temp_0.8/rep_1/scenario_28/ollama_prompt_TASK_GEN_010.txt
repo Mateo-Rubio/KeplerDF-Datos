@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves interpreting metadata from an Earth-observation mission request to craft a conversational and realistic English request for satellite observation.
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string which must appear literally in the final request is "mid-day."
+
+d) The deadline specified as "the day after tomorrow, around mid-day" should not be altered or shifted to any other part of the day. It is critical to maintain this specific timeframe as it represents the strict operational deadline for delivering the data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for opportunistic capture in Belalcázar, Colombia. This task involves capturing high-resolution optical snapshots for daylight photography, providing clear optical imagery of the area. Given its low priority status, please feel free to drop or reschedule this task at your convenience. We aim to have this observation completed the day after tomorrow, around mid-day.
