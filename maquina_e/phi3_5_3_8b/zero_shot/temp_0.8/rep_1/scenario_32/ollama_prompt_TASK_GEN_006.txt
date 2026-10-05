@@ -1,0 +1,11 @@
+By following these guidelines, I have transformed the raw JSON metadata into a conversational English request for an automated satellite constellation planner, focusing on Earth-observation mission operations. The language reflects a natural and valid communication style appropriate for each operational guideline level:
+
+1. **GEOGRAPHIC CONTEXT**: I combined the 'country', 'city', and 'landmark' fields with 'location_details'. Since both city and landmark were not specified ('N/A'), I used only the available information about country (Indonesia) to describe the location, which is a realistic approach.
+   
+2. **MISSION ALLOCATION PRIORITY**: The JSON indicates a priority level of 1 for this request. In keeping with our guideline of employing a casual and flexible tone suitable for low-importance tasks, I framed the task as an opportunity to contribute without significant operational urgency or strict deadlines.
+   
+3. **SENSORS AND PHYSICAL OBJECTIVES**: The primary sensor specified is VNIR (Visible and Near-Infrared). Accordingly, I translated this into a natural request for multispectral vegetation analysis using terms that are easily understandable without acronyms or technical jargon.
+   
+4. **RELATIVE TIMEFRAMES**: The JSON's 'target_day' and 'target_diurnal_period' have been seamlessly integrated into a conversational phrase to convey the urgency of data availability without direct reference to countdown metrics or timestamps, using phrases such as "by tomorrow morning at the latest."
+
+Here is the final natural user request:
