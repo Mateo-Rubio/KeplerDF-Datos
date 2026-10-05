@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves a request for a satellite observation mission over the city of Monterrey in Colombia. To construct an accurate and realistic request, we need to carefully interpret the metadata provided.
+
+a) The exact string present in 'target_day' is "in three days". This indicates that the data delivery is expected to occur exactly three days from the current date, without any alterations or shifts.
+
+b) The exact string found in 'target_diurnal_period' is "overnight". This specifies the time of day when the observation should take place, which is during the nighttime hours when the sun is not visible in the sky.
+
+c) The single word contained within the 'target_diurnal_period' string that corresponds to the specified options is "overnight". This term must be explicitly mentioned in the final request to reflect the precise time frame for the satellite data capture.
+
+d) It is important to confirm that there is no intention of shifting the deadline to a different part of the day. The request clearly specifies that the observation should occur "overnight", and this period must remain unchanged. There is no indication or allowance for adjusting this timeframe to morning, mid-day, afternoon, or evening, which could potentially affect the quality or relevance of the data collected.
+
+**STAGE 2 - FINAL REQUEST**
+
+For a standard operational tasking within our baseline pipeline tracking setup, we request a satellite observation mission over Monterrey, Colombia. This commercial tasking involves capturing near-infrared reflection imagery to assess soil moisture levels and discriminate gradients. The mission is part of our routine monitoring efforts and should adhere to fixed parameters, ensuring normal operational status is maintained. Please schedule the data capture for "in three days" during the "overnight" diurnal period, as this timing aligns with our workflow update requirements.

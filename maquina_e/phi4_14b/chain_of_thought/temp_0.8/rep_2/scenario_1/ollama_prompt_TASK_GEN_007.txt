@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in that string is "evening." This word must appear literally in the final request.
+
+d) There is no indication or reason to shift the deadline to an adjacent part of the day. The JSON data specifies "today" and "in the evening," and these parameters are to be respected as they represent a strict operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance request for a flexible schedule that allows for opportunistic capture over Mesetas, Colombia. We are seeking near-infrared reflection data aimed at water body boundary mapping and soil moisture assessment. Given the non-essential nature of this background survey task, feel free to drop or reschedule it at your convenience. The deadline is set for today in the evening.

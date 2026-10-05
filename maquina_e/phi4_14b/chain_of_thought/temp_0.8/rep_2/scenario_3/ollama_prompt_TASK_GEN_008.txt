@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting a set of metadata for an Earth-observation mission. Let's go through the details one by one.
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data collection should be completed within this timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the observation should occur.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "overnight." This is the specific time period for the data capture.
+
+d) It's important to confirm that we are not shifting the deadline. The metadata specifies "in three days" and "overnight," so these parameters must be adhered to strictly. The deadline is not open to adjustment to any other part of the day or extended beyond the specified timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance task for monitoring in Gazzola, Italy. This is an opportunistic capture request with a flexible schedule, intended as a non-essential background filler task that can be dropped or rescheduled at convenience. The focus of this task is on multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data should be captured in three days, specifically during the overnight period, to ensure we capture the desired imagery.
