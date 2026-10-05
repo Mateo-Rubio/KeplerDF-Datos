@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for delivering the data products is three days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies that the observation should take place during the evening hours.
+
+c) The single word contained in the string "in the evening" that must appear literally in the final request is "evening".
+
+d) The deadline specified as "in three days" and "in the evening" is strict, meaning the task must be completed precisely within this timeframe. There is no indication or allowance to shift this deadline to another part of the day, such as morning or afternoon.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an opportunistic capture in Quincinetto, Italy. This is a flexible schedule task where you can drop or reschedule at convenience, serving as a non-essential background filler task. We're looking to obtain a high-resolution optical snapshot using daylight photography for clear optical imagery and true-color visual documentation. The data needs to be delivered in three days, specifically in the evening.

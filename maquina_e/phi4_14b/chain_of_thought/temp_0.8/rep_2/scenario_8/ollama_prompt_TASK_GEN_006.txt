@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The 'target_day' specified in the JSON is "the day after tomorrow." This string indicates a specific deadline for when the satellite data capture must be completed, emphasizing a clear and fixed operational timeline. The task needs to be executed by this particular point in time, without deviation from the stated deadline.
+
+The 'target_diurnal_period' provided is "around mid-day," which specifies the time of day that is most suitable for capturing the required imagery. This period is crucial because it aligns with the intended operational objectives of the task, ensuring optimal conditions for data collection. The exact phrase "around mid-day" sets a clear temporal context within the given day.
+
+The word contained in 'target_diurnal_period' that corresponds to one of the specified options is "mid-day." This term is critical as it describes the time when the satellite should capture the imagery, providing optimal lighting and conditions necessary for the task's success. In the context of TIR imaging, mid-day conditions are advantageous for capturing thermal data with minimal atmospheric interference.
+
+Finally, there is no indication or necessity to shift the deadline to an adjacent part of the day. The task parameters specify a precise timeframe, and it's important to adhere to this without alteration. The temporal specificity of "the day after tomorrow" and "around mid-day" must be strictly followed to ensure the integrity of the data and meet operational expectations.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking request for routine monitoring as part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The objective is thermal mapping to capture a surface temperature profile in Ecuatorial, Indonesia, using thermal infrared imaging. This involves capturing heat emissions and detecting thermal anomalies at the specified location. The capture should be completed by the day after tomorrow, around mid-day, ensuring optimal conditions for data collection.

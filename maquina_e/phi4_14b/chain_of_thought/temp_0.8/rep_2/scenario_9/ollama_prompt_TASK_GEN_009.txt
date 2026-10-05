@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The task context JSON provides specific details for formulating an operational request. First, we identify the exact string in 'target_day', which is "in three days." This indicates the deadline by which data delivery is expected, without any flexibility or alteration.
+
+Next, we look at 'target_diurnal_period', where the string provided is "around mid-day." This specifies the time of day when the observation should occur, suggesting that the operation should aim for a period when the sun is near its zenith to maximize thermal imaging effectiveness.
+
+To address which single word from the set {morning, mid-day, afternoon, evening, overnight} is contained in that string, we identify "mid-day" as the literal term used. This word will be directly included in the final request to specify the timing of the operation clearly.
+
+Finally, it's crucial to confirm that the deadline should not be shifted or altered. The phrase "in three days around mid-day" implies a strict adherence to this timeframe for capturing the necessary data, without any adjustment to an adjacent part of the day or other temporal shifts.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule for opportunistic capture in Indonesia, specifically focusing on Ecuatorial. This low priority importance request is a non-essential background filler task that can be dropped or rescheduled at convenience. The goal is to perform thermal mapping to capture a heat signature or surface temperature profile, ideally around mid-day, when the sun's position enhances thermal data collection. The deadline for delivering these data products is set for "in three days," allowing for some flexibility in execution but still aiming to fulfill this background survey within the specified timeframe.
