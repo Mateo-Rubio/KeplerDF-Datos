@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my task is to convert raw physical simulation metadata into a highly realistic and conversational English request. Focusing on the provided JSON data, my goal is to interpret and operationalize this for an automated satellite constellation planner.
+
+Geographically, we're looking at Indonesia with our target location situated in the Ecuatorial city. We'll describe this region using a realistic amalgamation of its geographical context without the use of raw technical system tags or coordinate arrays. The primary sensor is set to capture thermal data with TIR technology, seeking a "heat signature" for thermal mapping purposes.
+
+The mission allocation priority stands at medium importance, aligning with standard operational tasks that form part of our baseline pipeline tracking setup. The fixed parameters represent normal operational status, emphasizing "routine monitoring" and "critical payload capture", which is essential in upholding contractual obligations.
+
+As per the delivery deadline, the task is to be executed on "the day after tomorrow around mid-day". This phrase serves as the upper limit for data availability, indicating that the operator must adhere to this timeline without altering it. 
+
+Given these parameters, our request to the automated satellite constellation planner would be structured as follows:
+
+"We're initiating an operational mission to capture thermal data for Indonesia's Ecuatorial city using TIR technology. This task falls under standard operational tasks and serves as a critical payload capture for normal monitoring activities and contractual obligations. We're aiming for 'the day after tomorrow around mid-day' for optimal data collection when conditions are most favorable.
+
+This request integrates our operational guidelines by avoiding the use of raw technical systems or coordinates and ensuring natural language is used to describe geographical context, prioritization, sensors, and physical objectives. Our focus remains on delivering a task that aligns with both natural language and operational standards, ensuring accurate and efficient execution through automated satellite constellations."

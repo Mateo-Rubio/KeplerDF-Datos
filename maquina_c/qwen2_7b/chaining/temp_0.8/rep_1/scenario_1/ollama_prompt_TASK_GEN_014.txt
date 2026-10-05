@@ -1,0 +1,13 @@
+Given the operational guidelines provided, we're tasked with deploying our automated satellite constellation planner to translate raw physical simulation metadata into a single, highly realistic and conversational English request. Our objective is to convert JSON data for an Earth-observation mission allocation into natural language suitable for satellite operations.
+
+Our target task context includes using the 'SAR' primary sensor for an active radar scan on 'Norte', which is located in an unspecified country. This scan aims at capturing ground geometry and surface features through microwave surface imaging, offering cloud-penetrating capabilities essential for our mission's success.
+
+The region details specify Norte within an unspecified city, where the geographical context is described without relying on country-specific technical system tags or coordinate arrays. Our focus remains on realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details', ensuring a smooth translation into natural language.
+
+Regarding priority, our request falls under medium importance due to its 'priority_level' setting at 2. This is described as a standard operational tasking or commercial tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The deadline for this task is set for 'tomorrow around mid-day'. We've seamlessly integrated this phrasing into our request, adhering to the provided upper limit for data availability without rephrasing or altering it.
+
+In conclusion, we're crafting our request with a professional and direct tone, blending specific operational phrases that reflect the structural hierarchy of our mission allocation priorities. Our language choice is carefully tailored to ensure maximum naturalness while maintaining validation accuracy. This approach will guide our automated satellite constellation planner in seamlessly integrating this task into its operational workflow.
+
+...Your Text Here...
