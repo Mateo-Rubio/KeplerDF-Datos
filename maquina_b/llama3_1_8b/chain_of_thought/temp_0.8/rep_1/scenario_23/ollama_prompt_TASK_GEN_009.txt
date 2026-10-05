@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational DEADLINE to deliver the data products, NOT the orbital capture window. This means that the target diurnal period is fixed and I should include it verbatim in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request:
+"Capture a high-resolution multispectral vegetation analysis for chlorophyll absorption level assessment and NDVI index calculation in the morning of the day after tomorrow over Indonesia's Ecuatorial region."
