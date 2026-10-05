@@ -1,0 +1,22 @@
+Translate this Earth-observation mission request into a conversational English paragraph according to operational guidelines:
+
+- Interpret 'region_name' (country) and nested 'location_details' fields naturally.
+- Use an authoritative, explicit, and commanding tone for priority level 3, emphasizing urgency and mission lock.
+- Describe the primary sensor's objective using natural language for each type of sensor.
+- Incorporate the exact string "tomorrow" from 'target_day' and the word "evening" from 'target_diurnal_period' into the final request.
+
+Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "France",
+    "city": "Calvi"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Final Request:
+
+Capture high-resolution thermal mapping data for a critical payload capture, specifically a binding contract requirement to detect and map heat signatures over the region of France, focusing on the city of Calvi. The absolute institutional priority dictates that this tasking must be executed tomorrow in the evening, adhering strictly to the scheduled timeline for delivering the thermal anomaly detection dataset. This mission is crucial for operational execution and must not be preempted by any other tasking.
