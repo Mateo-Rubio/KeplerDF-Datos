@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To translate the provided metadata into a realistic English request, we need to consider several components of the JSON data.
+
+a) The exact string present in 'target_day' is "tomorrow." This specifies when the task needs to be completed, indicating the deadline is set for the next day without any ambiguity.
+
+b) The exact string present in 'target_diurnal_period' is "in the morning." This indicates that the specific time of day during which the task should be executed or observed is in the early hours following sunrise.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string "in the morning" is "morning." This word will be used explicitly in the final request to specify the desired time frame for observation.
+
+d) It's important to confirm that we are not shifting the deadline to another part of the day. The requirement is clear: the task must be completed tomorrow, specifically during the morning hours. There is no room for reinterpretation or extension of this deadline beyond what has been explicitly stated.
+
+### STAGE 2 - FINAL REQUEST
+
+We are planning a standard operational tasking for tomorrow in Indonesia, focusing on the city of Tanjung Saleh. This request involves obtaining high-resolution optical snapshots during the morning hours to ensure clear visual documentation and daylight photography. The mission is part of our baseline pipeline tracking setup, with fixed parameters representing normal operational status. It's essential that this imagery is captured as scheduled to maintain our workflow update.

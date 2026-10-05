@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+**a)** The exact string in 'target_day' is "tomorrow". This indicates that the task needs to be completed by the next calendar day from the current one.
+
+**b)** The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the data capture should occur, focusing on the later part of the day.
+
+**c)** The single word contained in that string which matches the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word must be included literally in the final request to describe the timing of the task accurately.
+
+**d)** The deadline specified as "tomorrow in the evening" should not be shifted to any other part of the day. It is critical to adhere strictly to this timeframe for operational execution, ensuring that the data capture occurs during the specified period without any alterations.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting an absolute institutional priority request for a satellite task over the region near Norte. This mission involves a critical payload capture using thermal mapping sensors to identify surface temperature profiles and detect any thermal anomalies in the area. Given the high importance of this directive, it is imperative that the data collection occurs tomorrow in the evening. This task represents a mandatory directive with an urgent operational execution requirement, ensuring an un-preemptable mission lock for the specified timeframe. Please prioritize this request accordingly to meet the binding contract requirements.

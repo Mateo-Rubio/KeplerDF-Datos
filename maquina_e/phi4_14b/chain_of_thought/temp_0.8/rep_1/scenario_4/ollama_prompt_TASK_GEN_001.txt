@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the precise time frame by which data delivery is expected.
+
+b) The exact string for 'target_diurnal_period' is "in the evening". This specifies the time of day during which the satellite observation should ideally take place.
+
+c) From the phrase "in the evening," the word that appears in our list is "evening." This is the specific part of the day mentioned in the metadata, and it must be included in the final request.
+
+d) The task's deadline has been clearly defined as "in three days" during the "evening." I need to ensure that this deadline is not altered or shifted to any other part of the day. This strict timing is critical for maintaining the operational integrity and delivering data products on time, without any adjustments to the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a flexible, low-priority observation of the Calamar region in Colombia using a multispectral vegetation analysis sensor. The goal is to assess the chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. This is a non-essential background filler task where we can drop or reschedule at convenience. Please aim for data capture in three days, specifically during the evening.
