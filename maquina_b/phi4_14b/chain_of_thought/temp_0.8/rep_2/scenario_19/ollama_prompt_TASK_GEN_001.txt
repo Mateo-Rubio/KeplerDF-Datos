@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data products must be delivered by the day after today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the satellite should capture the imagery.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "overnight."
+
+d) The deadline specified by 'target_day' and 'target_diurnal_period' is strictly for the overnight period of tomorrow. There should be no adjustment or reinterpretation to shift this time frame to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task involving Barrancabermeja, Colombia, which requires a high-resolution optical snapshot for clear optical imagery and true-color visual documentation. This critical payload capture is a binding contract requirement with an urgent operational execution, necessitating an un-preemptable mission lock. The data products must be delivered by the overnight period of tomorrow.

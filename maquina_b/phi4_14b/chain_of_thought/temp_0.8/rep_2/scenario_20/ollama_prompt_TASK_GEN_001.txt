@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates a specific deadline by which the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the satellite data should be captured.
+
+c) The single word contained in the 'target_diurnal_period' string that matches the options provided is "overnight."
+
+d) The request specifies that the data capture must occur "overnight," aligning with the target diurnal period. There is no indication or requirement to shift this deadline to another part of the day, such as morning, mid-day, afternoon, or evening. Therefore, the deadline remains strictly "overnight" in three days.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a commercial tasking that involves capturing multispectral vegetation analysis over San Carlos de Guaroa in Colombia. This mission is part of our baseline pipeline tracking setup and requires fixed parameters to ensure normal operational status and workflow updates. The primary sensor will be used for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance. The data capture must occur overnight, with a strict deadline set for delivery in three days.

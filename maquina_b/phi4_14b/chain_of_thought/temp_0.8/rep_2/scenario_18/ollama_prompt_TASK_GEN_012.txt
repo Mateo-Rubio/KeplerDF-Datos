@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+The task at hand involves capturing data using a SAR sensor over Tanjung Jabung Timur in Indonesia. I'll start by interpreting the key temporal and priority elements from the JSON metadata provided.
+
+**a)** The exact string for 'target_day' is "tomorrow." This indicates that the data must be captured on the next calendar day after today.
+
+**b)** The string for 'target_diurnal_period' is "in the morning." This specifies a particular time of day when the observation should ideally take place, emphasizing an early part of the day.
+
+**c)** From the set {morning, mid-day, afternoon, evening, overnight}, the word "morning" is explicitly contained in the 'target_diurnal_period' string. Therefore, this is the temporal detail that will be included in the final request to convey the specific timing within the day for the mission.
+
+**d)** Given the parameters, it's critical to adhere strictly to the specified deadline without any shifts. The task must occur "tomorrow" and specifically "in the morning." There is no room for adjustment to other parts of the day or any deviation from these exact terms, ensuring that the operation remains within its defined temporal constraints.
+
+---
+
+### STAGE 2 - FINAL REQUEST
+
+I need a low priority importance request with a flexible schedule for opportunistic capture. It’s a non-essential background filler task where the operator is advised to drop or reschedule at convenience. This involves a standard baseline pipeline tracking setup with fixed parameters representing a normal operational status. Please prepare for an active radar scan using microwave surface imaging in Tanjung Jabung Timur, Indonesia. The task should capture cloud-penetrating imagery of ground geometry, targeting "tomorrow" specifically "in the morning."

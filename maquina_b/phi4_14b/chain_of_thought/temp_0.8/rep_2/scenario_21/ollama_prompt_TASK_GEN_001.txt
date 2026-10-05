@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "tomorrow". This indicates that the data collection should be completed by the day after today.
+
+b) The exact string within 'target_diurnal_period' is "around mid-day". This specifies the time frame during which the satellite operation should ideally capture the imagery, focusing around the middle of the day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "mid-day". It's crucial to include this term as it directly relates to the timing of the task execution.
+
+d) There is no indication or allowance to shift the deadline to any other part of the day. The requirement specifies that the imagery must be captured around mid-day on tomorrow, making this a fixed temporal parameter. The request should strictly adhere to this timing without deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a standard operational tasking for a commercial monitoring mission over Alvarado, Colombia. This task is part of our baseline pipeline tracking setup and requires fixed parameters to ensure normal operational status. Specifically, we are looking for a high-resolution optical snapshot to be captured using daylight photography. The imagery should provide clear optical imagery and true-color visual documentation of the region. Please schedule this data capture for tomorrow around mid-day. This routine monitoring aligns with our established workflow update processes.

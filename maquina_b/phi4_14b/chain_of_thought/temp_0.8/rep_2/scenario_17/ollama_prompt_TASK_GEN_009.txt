@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This specifies the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This indicates the preferred time of day for capturing the imagery.
+
+c) The single word contained in the 'target_diurnal_period' string that appears literally in the final request is "morning".
+
+d) I need to confirm that I am not shifting the deadline. The original deadline is "in three days" and specifically during "the morning". Therefore, any operational request must adhere to this timing without any adjustments or shifts.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request targeting an area in Indonesia near the city of Ecuatorial. This task involves a flexible schedule for opportunistic capture using SAR technology, focusing on active radar scanning with microwave surface imaging, capable of cloud-penetrating capture to map ground geometry. It is a non-essential background filler task, and we can drop or reschedule it at convenience if needed. The data products are required in three days, specifically in the morning.

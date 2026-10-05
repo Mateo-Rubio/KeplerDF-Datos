@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task must be completed by the following day from the point of request submission.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the period during which the observation is to occur, indicating a time frame that extends through the night.
+
+c) The single word contained in 'overnight' from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request to accurately describe the timing of the task.
+
+d) It is important to confirm that we are not shifting the deadline to an adjacent part of the day. The original context clearly states that the target diurnal period is "overnight," which aligns with the operational deadline for data delivery. We must adhere strictly to this timeframe without alteration, ensuring that the task is completed during the overnight hours of tomorrow.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission requires an absolute institutional priority: we need a critical payload capture over Aguadas, Colombia, using multispectral vegetation analysis to assess chlorophyll absorption levels. This high-importance task must be executed with an urgent operational execution, ensuring an un-preemptable mission lock for capturing the necessary data overnight tomorrow. The mission is binding under contract requirements, and it is imperative that this task is prioritized accordingly within the constellation's capabilities.

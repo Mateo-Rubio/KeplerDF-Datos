@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' in the JSON data is "in three days". This indicates a specific timeframe within which the task must be completed, ensuring timely delivery of the required data products.
+
+b) The exact string for 'target_diurnal_period' is "around mid-day". This specifies the time of day during which the satellite should capture the imagery, which is crucial for achieving optimal lighting conditions for high-resolution optical snapshots.
+
+c) The single word contained in the string "around mid-day" that matches from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day". This specifies the precise time period during which the imaging should occur.
+
+d) It is important to confirm that there is no intention to shift the deadline to another part of the day. The specified "around mid-day" must be adhered to without alteration to ensure the conditions are optimal for capturing clear optical imagery with the primary sensor set for VIS (visible light). Adhering strictly to this timeframe is crucial as it aligns with the operational requirements and ensures the data's quality and relevance.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to capture high-resolution optical snapshots for a clear optical imagery mission in the city of Norte. This task is a binding contract requirement, involving critical payload capture with a strict deadline to deliver the data products in three days, specifically around mid-day. The imagery must be captured using VIS sensors to ensure true-color visual documentation during this time. It is essential that this mission lock remains un-preemptable to guarantee the successful execution of this high-importance task.

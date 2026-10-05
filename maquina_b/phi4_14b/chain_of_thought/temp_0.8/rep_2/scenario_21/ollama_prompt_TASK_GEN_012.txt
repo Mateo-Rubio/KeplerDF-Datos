@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in four days". This indicates a specific deadline for when the data product must be delivered.
+
+b) The exact string for 'target_diurnal_period' is "in the morning". This specifies the time of day that the satellite capture should occur.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning". This needs to be included literally in the final request.
+
+d) The request must adhere strictly to the specified deadline of "in four days" and "in the morning". There should be no shifts or reinterpretations to adjacent parts of the day, ensuring that the operational execution aligns precisely with the given timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are requesting a low priority importance task in the flexible schedule for opportunistic capture over the Ecuatorial region in Indonesia. The focus is on a non-essential background filler task that can be dropped or rescheduled at convenience, fitting within our baseline pipeline tracking setup. Specifically, we need a high-resolution optical snapshot for clear optical imagery of the area. This daylight photography should be conducted with a VIS sensor. Please ensure this data is delivered as per our deadline: in four days, specifically in the morning.
