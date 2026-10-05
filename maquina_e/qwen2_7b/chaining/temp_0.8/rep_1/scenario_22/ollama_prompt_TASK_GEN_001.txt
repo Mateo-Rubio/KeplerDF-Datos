@@ -1,0 +1,11 @@
+To maximize the naturalness and validation accuracy of our dataset, we are translating the raw physical simulation metadata into a highly realistic and conversational English request. Our mission allocation has been planned with the following operational guidelines in mind:
+
+**GEOGRAPHIC CONTEXT**: We're focusing on Santa Helena del Opón, located in Colombia. This unique location requires us to combine realistic details using the 'country', 'city', and 'landmark' fields from 'location_details'. Given that these elements are not available, we describe the site using the 'region_name' provided.
+
+**MISSION ALLOCATION PRIORITY**: This task holds a low priority importance. Thus, our request will be framed as a "flexible schedule" for "opportunistic capture". We'll explicitly state this as a "low priority importance" request with an acknowledgment of its "non-essential background filler task" status. The operator is instructed to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Our primary sensor, "TIR", is utilized for thermal mapping. This involves capturing a "heat signature", "surface temperature profile", or engaging in "thermal anomaly detection". Its purpose here is to map heat emissions accurately.
+
+**DELIVERY DEADLINE**: The deadline for this task is set for delivery three days from now, during the "overnight" period. This specific time slot serves as our upper limit for data availability and must be inserted verbatim into our request.
+
+In conclusion, we're tasked with capturing a thermal mapping snapshot of Santa Helena del Opón in Colombia using a TIR sensor. Our approach is to focus on the natural flow of this geographical context while emphasizing the operational importance of the task at hand. We're aiming for an "opportunistic capture" that aligns with our baseline pipeline tracking and reflects the low priority nature of this mission, adhering to our deadline set three days overnight from now.

@@ -1,0 +1,26 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. Let's consider the given JSON context:
+
+Primary sensor: Near-Infrared (NIR)
+Geographic context:
+Country: Italia, specifically in the city of Vigonza
+Mission allocation priority: Medium Importance
+Delivery deadline: "the day after tomorrow in the evening"
+
+To maximize naturalness and validation accuracy in the dataset, I will interpret this information organically:
+
+Interpreting GEOGRAPHIC CONTEXT:
+The location combines both 'country' and 'city', so I'll use those. However, if any were "N/A", I would gracefully ignore them and describe using the remaining valid fields.
+
+Sensors and physical objectives:
+Since our primary sensor is Near-Infrared (NIR), my request to the satellite constellation planner would involve conducting a specific task. This request aims for capturing detailed information about water bodies and soil moisture in the specified region of Italia, Vigonza.
+
+DELIVERY DEADLINE:
+As stated in the context, "the day after tomorrow in the evening" is the upper limit for data availability. I have made sure to insert this phrase verbatim into my request.
+
+Final Request:
+
+Given the geographical context of Italia's Vigonza region and with our mission priority at medium importance, we aim to perform a crucial task on our satellites concerning water body boundaries and soil moisture levels. We are specifically targeting the day after tomorrow in the evening for the optimal time of observation. Our primary sensor, Near-Infrared (NIR), will enable us to conduct detailed analysis of these elements with high precision.
+
+This request is a standard operational tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are looking forward to receiving the data in accordance with this deadline to ensure continuity in monitoring and decision-making processes based on the insights provided by our satellite constellation.
+
+Thank you for your attention, and we look forward to the successful execution of this mission.

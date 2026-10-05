@@ -1,0 +1,12 @@
+In accordance with our operational guidelines, the Earth-observation mission operator submits a task request to the automated satellite constellation planner. The request focuses on translating the provided raw physical simulation metadata into a highly realistic, conversational English request.
+
+The geographical context involves the location "Sesta Godano" in "Italia". The primary sensor is set to capture a high-resolution optical snapshot of this region during daylight photography. The mission allocation priority is of medium importance, signifying it as a standard operational tasking or commercial tasking activity that fits into our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task is "in three days overnight". This phrase must be inserted verbatim into the request as the upper limit for data availability without any rephrasing, shortening, or moving to a different part of the day. The sensors and physical objectives require a natural interpretation according to our guidelines:
+
+- The VIS sensor aims to capture clear optical imagery or true-color visual documentation of Sesta Godano.
+- The priority level ensures that this request does not interfere with higher priority tasks and is part of our routine monitoring or workflow update activities.
+
+With these details in mind, the operator's task submission reads as follows: "On three days from now at overnight, the automated satellite constellation is tasked with capturing a high-resolution optical snapshot of Sesta Godano in Italia using a VIS sensor. This standard operational activity aligns with our baseline pipeline tracking setup and normal operational status. The deadline for this task is 'in three days overnight', signifying its importance within our usual schedule."
+
+This structured approach allows for a seamless integration of the provided JSON metadata into a natural-sounding request that adheres to our guidelines on geographical context, mission allocation priority, sensors and physical objectives, and delivery deadlines.
