@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This phrase indicates the specific deadline for data delivery and should be included as-is in the final request.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the satellite should capture the imagery, emphasizing the importance of capturing the area during this period.
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day". This term will be directly used to describe the optimal time for image capture in the request.
+
+d) The deadline specified as "in three days" with a diurnal period of "around mid-day" should not be altered or shifted. It is critical to adhere to these parameters to ensure the mission's success, maintaining both the deadline and the specified time of day for data capture.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for a multispectral vegetation analysis over Banyuasin, Indonesia, using VNIR sensors. This request is part of our baseline pipeline tracking with fixed parameters, representing normal operational status. The objective is to assess the chlorophyll absorption level and calculate the NDVI index for this region. Please schedule the satellite pass in three days, aiming for imagery capture around mid-day. This will ensure optimal lighting conditions for accurate vegetation analysis.

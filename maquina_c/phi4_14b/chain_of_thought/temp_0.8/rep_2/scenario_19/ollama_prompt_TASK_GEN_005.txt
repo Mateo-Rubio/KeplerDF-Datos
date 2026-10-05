@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific information about a task request for an Earth-observation mission. I will analyze the relevant fields to construct a comprehensive and realistic request.
+
+a) The 'target_day' field in the JSON is precisely stated as "the day after tomorrow." This string indicates when the data capture must be completed, without any alterations.
+
+b) In the 'target_diurnal_period' field, the exact string provided is "in the evening." This specifies the time of day when the observation should occur.
+
+c) The word contained in the 'target_diurnal_period' string that aligns with our options is "evening." This will be incorporated literally into the final request to ensure clarity about the timing of the operation.
+
+d) It's critical to confirm that the deadline, as specified by both 'target_day' and 'target_diurnal_period', remains unchanged. The request must adhere strictly to "the day after tomorrow" during the "evening," without any adjustment to other parts of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are tasking you with a standard operational tasking focused on Norte, where we require an active radar scan using microwave surface imaging to achieve cloud-penetrating capture. This task forms part of our baseline pipeline tracking setup with fixed parameters, reflecting normal operational status and a workflow update. We need this data by the day after tomorrow, in the evening.

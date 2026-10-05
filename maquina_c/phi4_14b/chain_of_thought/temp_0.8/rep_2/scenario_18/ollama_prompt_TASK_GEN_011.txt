@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This word will appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline specified is strictly "in four days" and "in the morning", indicating the exact time frame within which the data products are expected to be delivered. This precise timing must be adhered to without any modifications.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm requesting an Earth observation task over the region near the city of Norte, utilizing a high-resolution optical snapshot for clear optical imagery. This request is of low priority importance with a flexible schedule, allowing for opportunistic capture. Please treat it as a non-essential background filler task that can be dropped or rescheduled at your convenience. The data should be delivered in four days, specifically in the morning.

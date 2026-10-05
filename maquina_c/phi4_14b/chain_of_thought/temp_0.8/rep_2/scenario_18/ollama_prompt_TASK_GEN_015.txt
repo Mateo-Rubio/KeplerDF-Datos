@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates a specific deadline two days from the current date for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options provided is "afternoon". This word must appear in the final request to reflect the exact time of observation.
+
+d) I am not shifting the deadline to an adjacent part of the day. The requirement explicitly states the target time as "during the afternoon" on "the day after tomorrow", and this specific timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task with a flexible schedule for opportunistic capture in Indonesia, near Ecuatorial. This is a non-essential background filler task, where you can drop or reschedule at your convenience. We are looking for near-infrared reflection data to help with soil moisture assessment and water body boundary mapping. Please schedule the observation during the afternoon on the day after tomorrow.

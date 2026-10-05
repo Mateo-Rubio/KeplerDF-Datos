@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating metadata from a JSON format into a conversational request for an Earth-observation mission, specifically considering geographical context, mission allocation priority, sensors and physical objectives, and relative timeframes.
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for the data delivery is set to occur within this specific timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should be made, which is crucial for ensuring that the satellite captures the necessary data during the designated period.
+
+c) The single word contained in the string "in the evening" that must appear literally in the final request is "evening." This word is essential as it defines the specific part of the day when the satellite observation should take place.
+
+d) It is important to confirm that the deadline is not shifted to an adjacent part of the day. The strings provided, "in three days" and "in the evening," are explicit and must be adhered to without alteration. This ensures that the mission is executed at the precise time required, maintaining the integrity and accuracy of the data collection process.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a high-priority task request for an Earth-observation mission over Silea, Italy. This is an absolute institutional priority and a binding contract requirement involving a critical payload capture of near-infrared reflection to perform water body boundary mapping or soil moisture assessment. The data collection must occur using the designated sensor capabilities and must be completed in three days, specifically targeting the evening for this observation. This urgent operational execution is un-preemptable, ensuring that the mission lock is maintained for the specified timeframe.

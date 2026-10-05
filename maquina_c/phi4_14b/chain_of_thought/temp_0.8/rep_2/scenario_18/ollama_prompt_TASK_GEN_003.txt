@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "in four days."
+
+b) The exact string present in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning."
+
+d) The task specifies a strict operational deadline to deliver data products for "in four days" during "in the morning." This means we are not permitted to shift or reinterpret this deadline to another part of the day. The temporal parameters clearly outline when the satellite should capture the necessary imagery: within four days and specifically in the morning.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm submitting a flexible, low-priority task request for a multispectral vegetation analysis over Singkep, Indonesia, using a VNIR sensor. We are aiming to assess the chlorophyll absorption level and calculate the NDVI index over this region. This request is of low priority importance with a flexible schedule, allowing for opportunistic capture. Please consider this as a non-essential background filler task, which can be dropped or rescheduled at your convenience. The data needs to be captured in four days, specifically in the morning.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting a JSON metadata structure to formulate an English request for satellite imagery collection over a specific region in Colombia. Let's break down the key components step by step:
+
+a) The 'target_day' string is specified as "in four days." This indicates that the requested data should be delivered exactly on this timeline without any alteration.
+
+b) The 'target_diurnal_period' is indicated as "in the morning." This time frame specifies when during the day the imagery capture should occur, emphasizing the need for sunlight to optimize the visibility and quality of the imagery.
+
+c) Within the 'target_diurnal_period' string, the word "morning" is explicitly mentioned. This term must be included in the final request to accurately communicate the desired timing for data acquisition.
+
+d) It is crucial to adhere strictly to the specified deadline without any shifts. The request explicitly states that the data delivery should occur "in four days, in the morning." This means that both the timing and the day are fixed, and there should be no adjustments to these parameters in the final operational tasking.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance task to conduct over the Páez region in Colombia. Given the flexible nature of this request, we aim for an opportunistic capture, treating it as a non-essential background filler task that can be adjusted or rescheduled at convenience. The task involves obtaining high-resolution optical snapshots during daylight photography for clear optical imagery and true-color visual documentation. The desired imagery should be captured in four days, specifically in the morning, to ensure optimal lighting conditions. This setup allows us to maintain a baseline pipeline tracking with fixed parameters, ensuring that even low-priority tasks are accounted for without disrupting higher-priority operations.
