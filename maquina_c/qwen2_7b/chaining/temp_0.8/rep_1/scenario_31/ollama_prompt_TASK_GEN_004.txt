@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with submitting a highly realistic and conversational English request for data acquisition using a satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided in JSON format into a single task request. The operational guidelines aim to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically.
+
+The geographical context involves the country, city, and landmarks from 'location_details'. For this request, let's describe the location using the 'country' and 'city' fields, as no landmark was specified. We're focusing on Colombia and its city La Chapa. 
+
+The mission allocation priority is based on the 'priority_level' key, which dictates the tone and context of the request. Since our priority level is 1, we'll frame this as a "low priority importance" task with a "flexible schedule". This is explicitly noted as a "non-essential background filler task", where the operator treats it as a "background survey" or "testbed tracking task".
+
+The sensor and physical objectives are tied to the 'primary_sensor' key, which in this case is "NIR". We'll explain this goal as an effort for near-infrared reflection, specifically used for mapping water body boundaries and assessing soil moisture gradients.
+
+The delivery deadline is specified as being within three days during the afternoon. This phrase must be included verbatim in the request, indicating that the data availability is capped at this exact timeframe, without any rephrasing or adjustment of the time.
+
+In summary, we're requesting data acquisition using a satellite constellation to perform near-infrared reflection analysis on water body boundaries and soil moisture gradients in La Chapa, Colombia. This task is considered a "low priority importance" background survey that can be scheduled with flexibility and treated as a testbed tracking task, with the data delivery deadline being three days during the afternoon.

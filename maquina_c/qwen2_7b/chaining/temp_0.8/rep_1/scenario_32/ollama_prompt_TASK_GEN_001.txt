@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic and conversational English request based on operational guidelines.
+
+The geographic context of the region requires an interpretation that combines the 'region_name' with realistic location details. The country is specified as Colombia, while the city remains 'Tame'. With these parameters, our mission aims to capture high-resolution optical imagery through an active radar scan utilizing microwave surface imaging technology.
+
+Our satellite constellation will perform a cloud-penetrating capture overnight in three days, enabling us to gather detailed ground geometry data essential for operational tracking and maintenance of baseline pipeline setups. This request is framed as a 'standard operational tasking', implying fixed parameters representing normal operational status, aligning with our 'routine monitoring' procedures.
+
+This is a 'low priority importance' request, meaning it operates within flexible scheduling constraints as a 'non-essential background filler task'. The operator explicitly notes that this can be 'dropped or rescheduled at convenience', treating it as a 'background survey' or 'testbed tracking task'.
+
+The delivery deadline for this task has been already resolved by an upstream module: "in three days overnight". This phrase is inserted verbatim into the request to denote the upper limit for data availability, as per the guidelines.
+
+In summary, our Earth-observation mission aims to capture high-resolution optical imagery through a cloud-penetrating overnight active radar scan in Colombia, Tame using our satellite constellation. The request is categorized under 'standard operational tasking', aligning with normal operational status and fitting into our baseline pipeline tracking setup. This task is designated as a 'low priority importance' background survey with flexible scheduling constraints.
