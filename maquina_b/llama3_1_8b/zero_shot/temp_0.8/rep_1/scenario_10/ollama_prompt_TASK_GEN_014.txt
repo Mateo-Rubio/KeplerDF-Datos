@@ -1,0 +1,32 @@
+Translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Interpret the location details organically according to operational guidelines:
+
+* Combine the 'country', 'city', and 'landmark' fields from 'location_details' naturally to describe the location. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+* Use realistic combinations of these fields: "Italy, Crespino" is a clear and natural way to describe this location.
+
+Interpret the mission allocation priority according to the guidelines:
+
+* Priority 3 (High Importance): Use an authoritative, explicit, and commanding tone. Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+* Priority 2 (Medium Importance): Use a professional, direct, and standard operational tone. Describe this request as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+* Priority 1 (Low Importance): Use a casual, highly flexible, or opportunistic tone. Explicitly frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+Interpret the sensors and physical objectives according to operational guidelines:
+
+* Naturally weave operational objectives and descriptors into your request to explain the physical phenomenon to be observed:
+    * VIS -> Explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+    * SAR -> Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+    * TIR -> Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+    * VNIR -> Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+    * NIR -> Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+Interpret the relative timeframes according to operational guidelines:
+
+* CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. Your text must reflect this urgency naturally.
+* Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
+  * "...needed by [target_day] [target_diurnal_period] at the latest."
+  * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+  * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+Task request:
+Translate the location "Italy, Crespino" using a high-resolution optical snapshot in thermal mapping mode. This is an absolute institutional priority, involving a critical payload capture with a strict delivery deadline set for tomorrow evening. We need this task done by tomorrow in the evening at the latest.
