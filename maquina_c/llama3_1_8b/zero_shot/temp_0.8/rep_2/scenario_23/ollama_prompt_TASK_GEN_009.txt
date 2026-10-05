@@ -1,0 +1,15 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request to an automated satellite constellation planner:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Task Request:
+ Capture a high-resolution optical snapshot for daylight photography using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index in Indonesia, focusing on the city of Ecuatorial. This is an absolute institutional priority requiring a critical payload capture to ensure timely delivery. The data must be ready by the day after tomorrow in the morning at the latest.

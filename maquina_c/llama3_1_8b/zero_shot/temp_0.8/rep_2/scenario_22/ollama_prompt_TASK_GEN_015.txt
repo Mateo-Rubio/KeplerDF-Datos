@@ -1,0 +1,37 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission operator.
+
+Objective: The objective is to translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+Guidelines:
+
+1. GEOGRAPHIC CONTEXT:
+   - Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY:
+   - Interpret the key 'priority_level' to reflect the mission allocation authority and asset contractual value, NOT how close the deadline is.
+   - Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance) and frame it as an "absolute institutional priority" or a "binding contract requirement".
+   - Use a professional, direct, and standard operational tone for Priority 2 (Medium Importance) and describe it as a "standard operational tasking", "commercial tasking", or "routine monitoring".
+
+3. SENSORS AND PHYSICAL OBJECTIVES:
+   - Interpret the key 'primary_sensor' to explain the physical phenomenon to be observed.
+   - Naturally weave operational objectives and descriptors into your request to explain the goal.
+
+4. RELATIVE TIMEFRAMES:
+   - Interpret the keys 'target_day' and 'target_diurnal_period' to reflect a strict operational deadline to deliver the data products to the user, NOT the orbital capture window.
+   - Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+Target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Lalap"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Request:
+"Translate this raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission operator. The objective is to observe Indonesia, specifically Lalap city, using VNIR sensor with high-resolution multispectral vegetation analysis to assess chlorophyll absorption levels and calculate NDVI index by tomorrow morning at the latest."

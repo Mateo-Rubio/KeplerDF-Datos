@@ -1,0 +1,26 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request to maximize naturalness and validation accuracy of the dataset.
+
+Translate the metadata according to these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Interpret keys 'region_name' and nested 'location_details'. Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Interpret key 'priority_level'. Do NOT mention raw priority numbers or technical priority levels. Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. You must integrate specific operational phrases to reflect this structural hierarchy.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Interpret key 'primary_sensor'. Do NOT output technical abbreviations or acronyms. Naturally weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+4. RELATIVE TIMEFRAMES: Interpret keys 'target_day' and 'target_diurnal_period'. Do NOT output raw UTC timestamps, digits, or countdown metrics. CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. Your text must reflect this urgency naturally.
+
+Target task context JSON:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Aipe"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+Request: 
+Capture a high-resolution multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance over Aipe, Colombia by the day after tomorrow overnight at the latest.
