@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This indicates the time frame by which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the data capture should occur.
+
+c) The single word contained in that string is "morning." This term will be used literally in the final request to specify the desired time of day for the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be completed "in four days" and specifically "in the morning," as stated in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a standard operational tasking for routine monitoring over Bangka Selatan, Indonesia. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We require a high-resolution optical snapshot using VIS capabilities to capture clear optical imagery in daylight. The data collection should occur in four days, specifically in the morning, to ensure the accuracy and quality of the visual documentation.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the specific deadline by which the data products need to be delivered. It is important to adhere to this timeline to ensure that the task is completed in a timely manner, respecting the operational requirements.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur. Capturing data during this period is crucial for meeting the objectives of the mission, as it aligns with the optimal conditions for the sensor being used.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in "in the morning" is "morning." This word will be directly included in the final request to specify when the task should be executed.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The requirement is explicitly set for "in the morning," and this timing will be strictly adhered to without any alterations. This ensures that the mission's objectives are met under the specified conditions, maintaining the integrity and accuracy of the data collected.
+
+### STAGE 2 - FINAL REQUEST
+
+We request a standard operational tasking involving the northern region of Norte for a near-infrared reflection survey aimed at mapping water body boundaries and assessing soil moisture levels. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The observation should occur in the morning on the day after tomorrow.

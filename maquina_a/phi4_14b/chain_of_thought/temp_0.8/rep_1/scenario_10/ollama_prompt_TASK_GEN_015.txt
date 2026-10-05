@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' key contains the string "tomorrow." This indicates that the task needs to be completed by the day after today. The 'target_diurnal_period' key has the string "overnight," which suggests that the data collection should occur during the night hours. Within this string, the word "overnight" is present, and this word must appear in the final request as it specifies the time when the data capture should happen. It is important to note that we are not shifting the deadline to another part of the day; instead, we adhere strictly to the specified "overnight" period on "tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+Please schedule a standard operational tasking for an active radar scan using microwave surface imaging over Pesisir Selatan, Indonesia. This is a routine monitoring task as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to achieve cloud-penetrating capture to discern ground geometry. Ensure that the data collection occurs overnight on tomorrow, adhering strictly to this schedule without deviation.
