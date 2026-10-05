@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To begin, I will analyze the provided JSON data to understand the exact timeframes and context for the task request.
+
+a) The 'target_day' in the JSON metadata is specified as "in four days." This string indicates when the data capture should be completed.
+
+b) The 'target_diurnal_period' is given as "around mid-day." This phrase specifies the time of day when the satellite observation should occur.
+
+c) From the options provided—morning, mid-day, afternoon, evening, overnight—the word "mid-day" appears literally in the 'target_diurnal_period' string. Therefore, this word will be included in the final request to ensure clarity regarding the timing of the operation.
+
+d) It is important to confirm that the deadline specified by "in four days" and "around mid-day" should not be shifted to any other part of the day. The task must be executed precisely within these constraints without any adjustments to the time frame, ensuring adherence to the strict operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance request for an opportunistic capture over Colombia, specifically near Nóvita. This is a non-essential background filler task with a flexible schedule, and operators may drop or reschedule at convenience if needed. The objective is to perform an active radar scan using microwave surface imaging, ideally around mid-day in four days. This cloud-penetrating capture will focus on assessing the ground geometry in the area, allowing us to gather valuable data without compromising other mission priorities.

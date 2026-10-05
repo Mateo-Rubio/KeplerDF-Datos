@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "evening." This word must appear literally in the final request.
+
+d) The deadline specified by the JSON metadata is explicitly stated as "today" and "in the evening." There is no instruction or requirement to adjust or shift this deadline to another part of the day, so the deadline remains strictly as given.
+
+### STAGE 2 - FINAL REQUEST
+
+I have a low priority importance request with a flexible schedule for opportunistic capture. We would like to perform an opportunistic near-infrared reflection analysis in Mesetas, Colombia today, focusing on soil moisture assessment or water body boundary mapping. Please consider this as a non-essential background filler task that can be dropped or rescheduled at your convenience, treating it as a background survey or testbed tracking task. We are particularly interested in capturing data in the evening.
