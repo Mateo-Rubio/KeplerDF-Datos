@@ -1,0 +1,16 @@
+As an Earth-observation mission operator for our automated satellite constellation planner, we are tasked with submitting a highly realistic and conversational request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this into a single operational request that maximizes naturalness and validation accuracy while adhering to specific structural hierarchy guidelines for mission allocation priority, GEOGRAPHIC CONTEXT interpretation, SENSORS AND PHYSICAL OBJECTIVES articulation, and RELATIVE TIMEFRAME translation.
+
+Considering the metadata provided:
+
+- Primary sensor type is specified as NIR (Near Infrared).
+- The location details indicate a city named Norte without country specification.
+- Priority level for this request has been assigned as 1, denoting Low Importance.
+- Operational deadline information given specifies the target day within four days and during the morning diurnal period.
+
+The final operational request should follow these structured translation guidelines:
+
+Since there is no country mentioned in association with Norte, we will refer to the region's name only for contextual clarity. The aim herein lies within a low-priority tasking framework which allows flexibility and opportunistic data acquisition without urgency. Therefore, the request tone should convey this as non-essential yet valuable work that can be accommodated with ease in terms of timing.
+
+Here is the constructed operational request:
+
+We are seeking to perform an NIR (Near Infrared) scan for near-infrared reflection purposes, specifically focusing on water body boundary mapping or soil moisture assessment within the city environment known as Norte. The task is scheduled four days from today's date and slated for completion in the morning hours. This constitutes a non-essential background filler task which can be adequately addressed at an appropriate time without disrupting higher-priority operations, hence we kindly request that it may be dropped or rescheduled according to your convenience if any urgent tasks arise.
