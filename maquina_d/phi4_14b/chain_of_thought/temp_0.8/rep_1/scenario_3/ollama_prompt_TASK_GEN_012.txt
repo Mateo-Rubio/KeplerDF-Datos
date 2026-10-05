@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data capture needs to be completed, ensuring that the mission aligns with the operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day for the data acquisition, which is crucial for capturing the desired imagery under appropriate lighting and atmospheric conditions.
+
+c) The single word contained in the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This term will be used literally in the final request to accurately describe the timing of the data capture.
+
+d) It is confirmed that there is no intention to shift the deadline to an adjacent part of the day. The request must adhere strictly to the specified time frame of "in three days" and "in the evening" to ensure compliance with the operational requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority to conduct a mission in Indonesia, specifically over the city of Malinau. This task involves acquiring data using near-infrared reflection to map water body boundaries or assess soil moisture gradients. It is a critical payload capture that falls under a binding contract requirement. The operation must be executed urgently and cannot be preempted, with data delivery mandated "in three days" and specifically "in the evening". This is an un-preemptable mission lock, and we expect adherence to this strict timeline without deviation.

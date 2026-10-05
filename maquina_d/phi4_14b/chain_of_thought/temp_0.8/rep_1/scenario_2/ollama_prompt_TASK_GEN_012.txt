@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This specifies the timeframe for when the task needs to be completed and indicates a specific deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This gives additional details about the time of day when the task should be executed, emphasizing that it should happen during the morning hours.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning." This word must appear literally in the final request to accurately convey when the task should occur.
+
+d) It is crucial to confirm that the deadline specified as "the day after tomorrow, in the morning" is not shifted to any other part of the day. The strict operational deadline must be adhered to without alteration, ensuring that the data capture occurs precisely during the morning of the day after tomorrow.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance task with a flexible schedule for opportunistic capture over Sanggau, Indonesia. This non-essential background filler task should ideally be treated as a drop or reschedule at convenience activity. The goal is to conduct an active radar scan using microwave surface imaging over the region, aiming for cloud-penetrating capture that can pierce through heavy weather conditions or accurately map ground geometry. Please aim to complete this by the day after tomorrow, in the morning.
