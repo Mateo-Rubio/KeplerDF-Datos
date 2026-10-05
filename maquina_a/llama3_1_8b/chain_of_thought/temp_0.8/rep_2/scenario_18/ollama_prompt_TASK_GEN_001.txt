@@ -1,0 +1,13 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly specifies that the task should be executed in the morning on the day after today, which is strictly adhering to the provided temporal parameters.
+
+Now, moving on to STAGE 2:
+
+...the satellite constellation planner needs to allocate a single, highly realistic and conversational English request for a task, based on the following operational details. We require a high-resolution optical snapshot using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index in a multispectral vegetation analysis for the region of Colombia, specifically in the city of Aguazul, as an absolute institutional priority task involving a critical payload capture, which must be executed tomorrow in the morning.

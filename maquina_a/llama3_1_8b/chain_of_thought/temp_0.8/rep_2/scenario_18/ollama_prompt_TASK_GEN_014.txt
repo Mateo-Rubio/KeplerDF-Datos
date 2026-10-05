@@ -1,0 +1,11 @@
+Let's work through the questions for Stage 1.
+
+a) The exact string in 'target_day' is: "in four days".
+
+b) The exact string in 'target_diurnal_period' is: "in the morning".
+
+c) The single word contained in that string is: morning.
+
+d) Upon reviewing the context, it's clear that the deadline is not being shifted to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, not the orbital capture window. The 'target_diurnal_period' field indicates the specific time of day for the mission, but it does not imply any flexibility or adjustment to the deadline.
+
+The deadline is indeed set for four days from now, regardless of the diurnal period specified.

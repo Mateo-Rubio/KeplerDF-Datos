@@ -1,0 +1,11 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening". This word will be used literally in the final request.
+
+d) Upon re-examining the task context, it appears that the target day and diurnal period are specified as absolute deadlines, rather than flexible capture windows. To confirm, there are no adjacent parts of the day mentioned or implied in the 'target_day' or 'target_diurnal_period' fields. Therefore, I am not shifting the deadline to an adjacent part of the day.
+
+The 'tomorrow' deadline is a specific, non-adjacent temporal reference point that must be respected. The 'in the evening' diurnal period indicates the desired time of data capture within the 'tomorrow' deadline, rather than any flexibility or extension of the deadline itself.
