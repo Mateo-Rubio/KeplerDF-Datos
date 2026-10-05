@@ -1,0 +1,14 @@
+Let's work through the four questions in Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day". I will use this word verbatim in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request still specifies capturing data around "mid-day" tomorrow, which implies capturing data at or close to mid-day, but not necessarily at exactly 12:00 PM.
+
+I'm now ready to proceed to Stage 2. Here's the final request:
+
+```prompt
+We are requesting a low-priority importance task with a flexible schedule for opportunistic capture, treating this as a non-essential background filler task that can be dropped or rescheduled at convenience. We require a multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance in the area around mid-day tomorrow, specifically over the region of Sotto il Monte Giovanni XXIII in Italia, where we are conducting a routine monitoring part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.

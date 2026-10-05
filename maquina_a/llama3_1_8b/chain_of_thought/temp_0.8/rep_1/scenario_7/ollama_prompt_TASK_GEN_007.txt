@@ -1,0 +1,9 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are preserving the original deadline, which is specified as "around mid-day", implying that it is likely on or near the actual middle of the day, rather than at one end or the other.

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string for 'target_diurnal_period' is "overnight". This word will be used literally in the final request.
+
+d) Upon reviewing the given metadata, I confirm that the deadline has not been shifted to an adjacent part of the day. The 'target_diurnal_period' is explicitly set to "overnight", which corresponds to the same temporal frame as the provided UTC timestamp in 'target_day'. The deadline remains as stated, and no adjustments have been made to accommodate a different part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a low-priority importance request with a flexible schedule for opportunistic capture. This task is to be treated as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey. We need a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance, scheduled to take place in four days during the overnight period.

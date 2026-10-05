@@ -1,0 +1,14 @@
+Let's work through the reasoning for Stage 1.
+
+a) The exact string in 'target_day' is: "in four days".
+
+b) The exact string in 'target_diurnal_period' is: "in the morning".
+
+c) The single word contained in that string is: "morning".
+
+d) Upon reviewing the metadata, I confirm that the deadline for delivering the data products has not been shifted to an adjacent part of the day. The temporal parameters are still aligned with the original operational deadline.
+
+Now, let's move on to Stage 2, where we will craft the final request based on the reasoning above. 
+
+```prompt
+We require an absolute institutional priority for a thermal mapping mission in Italia, specifically capturing a high-resolution TIR snapshot for heat signature detection and surface temperature profile analysis over the northern region. This task is binding contract requirement involving critical payload capture and mandatory directive with urgent operational execution and un-preemptable mission lock. The data products must be delivered in four days during morning hours.
