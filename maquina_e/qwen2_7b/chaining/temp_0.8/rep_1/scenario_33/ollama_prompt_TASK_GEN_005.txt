@@ -1,0 +1,21 @@
+Translate the raw physical simulation metadata from the JSON format into a highly realistic and conversational English request. Our objective is to organize an Earth-observation mission for satellite constellation planning, focusing on a specific region with the following details:
+
+### Geographic Context:
+The region under observation is in Italia, with its capital city being Arezzo, a beautiful town with historical landmarks. The context of this request is derived from 'region_name' and nested 'location_details' fields, integrating country, city, and landmark descriptions where available.
+
+### Mission Allocation Priority:
+Considering the priority level of 1, this task is labeled as "low importance," suggesting a "flexible schedule" for "opportunistic capture." As it falls under the category of "non-essential background filler tasks," we describe it as "background survey" or "testbed tracking task" with a "drop or reschedule at convenience" note.
+
+### Sensors and Physical Objectives:
+The primary sensor is set to 'SAR,' which indicates an active radar scan utilizing microwave surface imaging. This is for piercing heavy weather, capturing ground geometry, or conducting cloud-penetrating capture essential for operational planning.
+
+### Delivery Deadline:
+The deadline is established by an upstream module as "in three days in the morning," without rephrasing or shortening this phrase. This deadline represents the upper limit for data availability, emphasizing timely response within the allocated time frame.
+
+Putting all these components together into a single paragraph:
+
+In our mission to gather crucial data on a specific region, we're focusing on Italia with its charming city of Arezzo. The operational context prioritizes this task as "low importance," recognizing it as a "background survey" or "testbed tracking task" with a flexible schedule for "drop or reschedule at convenience." Our primary sensor is equipped with the 'SAR' technology, aiming to perform an active radar scan using microwave surface imaging. This is crucial for capturing ground geometry, especially in heavy weather conditions, adhering to our mission's priority level of 1.
+
+The deadline for this task is firmly set as "in three days in the morning," marking the upper limit for data availability. This means that all efforts will be made to ensure that the satellite constellation will provide the necessary information by the specified time frame without any rephrasing or altering of the original deadline.
+
+This translation aims to capture the essence of each metadata point while presenting a coherent and natural request that meets the guidelines provided.
