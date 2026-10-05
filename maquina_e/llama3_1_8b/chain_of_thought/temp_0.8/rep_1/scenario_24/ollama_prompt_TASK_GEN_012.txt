@@ -1,0 +1,9 @@
+Here's the reasoning stage:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day".
+
+d) I can confirm that I am not shifting the deadline to an adjacent part of the day, but rather accepting it as is. This means that the request will be for a task that must be completed around mid-day tomorrow.

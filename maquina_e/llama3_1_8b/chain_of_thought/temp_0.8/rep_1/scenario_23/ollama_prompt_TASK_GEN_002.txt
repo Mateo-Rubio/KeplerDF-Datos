@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening". I will use this word in my final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' string specifies a specific time, and I will include it verbatim in the final request without altering it in any way.
+
+STAGE 2 - FINAL REQUEST
+
+Please task the satellite to capture thermal mapping data using the TIR sensor for tomorrow evening's thermal anomaly detection and heat emissions mapping. This is a standard operational tasking as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
