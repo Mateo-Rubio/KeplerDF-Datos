@@ -1,0 +1,9 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) We are not shifting the deadline to an adjacent part of the day, as "tomorrow" refers to the next day and "overnight" specifies a specific time frame within that day.
