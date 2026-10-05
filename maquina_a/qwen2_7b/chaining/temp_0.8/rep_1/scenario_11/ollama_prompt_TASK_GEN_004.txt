@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic, single and well-defined request. We aim to translate the raw physical simulation metadata provided in JSON format into a conversational English request with specific guidelines.
+
+For our current mission allocation priority of Level 1 (Low Importance), we're focusing on a low-priority importance request that comes with a flexible schedule for opportunistic capture, positioning it as a non-essential background filler task. This "background survey" involves a "testbed tracking task" using our primary sensor, which is set to the Near-Infrared (NIR) band.
+
+Our target geographic context is centered around the location of Sácama, Colombia. Although we're not specifying exact country or city details due to them being available and valid, we're making use of the country name alone for a more descriptive interpretation.
+
+In terms of operational objectives, our mission will involve capturing a "near-infrared reflection" at nighttime when the sky is clear and the environment is calm, specifically during the "overnight period". The goal here is to "map water body boundaries" by assessing "soil moisture" levels, thus aiding in understanding the hydrological conditions without interference from atmospheric conditions or daylight.
+
+Our deadline for delivering this task is set for "in three days overnight", as indicated by an upstream module. This ensures that we maintain our data availability constraints while keeping the operation within our normal pipeline tracking setup with fixed parameters, thus representing a standard "baseline pipeline tracking" scenario.
+
+In conclusion, our Earth-observation mission operator is requesting a satellite observation using the Near-Infrared (NIR) sensor in Colombia's Sácama region overnight in three days for mapping water body boundaries and assessing soil moisture levels. This task aligns with low priority importance, featuring a flexible schedule for opportunistic capture as part of our standard operational status.
