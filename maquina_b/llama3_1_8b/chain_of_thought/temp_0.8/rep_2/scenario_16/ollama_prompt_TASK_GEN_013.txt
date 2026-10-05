@@ -1,0 +1,14 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission. 
+
+The task involves translating the JSON parameters naturally, combining the geographic context using realistic location descriptions, and interpreting the mission allocation priority and relative timeframes according to the provided guidelines.
+
+For the given JSON, we have:
+
+- A high-priority mission with a "critical payload capture" involving thermal mapping for heat signature detection, using a "thermal mapping" technique to capture a "heat signature".
+- The location is in Colombia, specifically in the city of Samacá.
+- The mission has an absolute institutional priority and is a binding contract requirement.
+- The deadline for delivering the data products is in three days, during the overnight period.
+
+Here is the final request:
+
+"I require an absolute institutional priority for a thermal mapping mission over Colombia, specifically in the city of Samacá, using a high-resolution thermal snapshot to capture a heat signature. This is a critical payload capture, representing a binding contract requirement that must be executed with urgency. The data products are due in three days, during the overnight period."
