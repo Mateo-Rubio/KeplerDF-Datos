@@ -1,0 +1,11 @@
+As an operator of Earth-observation missions, I need to submit a task request to the automated satellite constellation planner for an urgent mission. The request pertains to capturing high-resolution imagery using a radar scanning system over a specific location in Indonesia, with a focus on obtaining critical data by mid-day tomorrow at the latest.
+
+The geographic context involves Muara Asa city within Indonesia, which, despite not having specific landmark details available, allows us to understand that our mission requires capturing data over this region. 
+
+This request falls under priority level 1, indicating its importance and that it serves as a low-priority background filler task which can be dropped or rescheduled according to convenience without affecting the overall operational workflow.
+
+The primary sensor required for this task is a Synthetic Aperture Radar (SAR), which will perform an active radar scan using microwave surface imaging technology. The SAR system aims to provide cloud-penetrating capture capabilities, making it ideal for gathering data even under heavy weather conditions or for capturing ground geometry details.
+
+Our operational deadline is stringent and must be adhered to strictly. We need the data products to be ready by tomorrow's mid-day at the latest. This ensures that the products are ingested into our pipeline before midnight of the target day, aligning with the operational guidelines on relative timeframes.
+
+In conclusion, my task request involves capturing thermal imagery over Muara Asa city in Indonesia using a SAR system with the primary objective being cloud-penetrating capture and ground geometry mapping. The data needs to be available by tomorrow's mid-day deadline for immediate processing into our pipeline, making this request a critical background survey task of low importance in our operational plan.
