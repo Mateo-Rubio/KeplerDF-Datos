@@ -1,0 +1,13 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The request explicitly states a target day as "tomorrow", which means the deadline remains unchanged.
+
+Moving on to Stage 2:
+
+...the satellite constellation planner should allocate a low-priority importance request for opportunistic capture with a flexible schedule for overnight SAR imaging. Please task the constellation to capture an active radar scan using microwave surface imaging for cloud-penetrating capture over Petreto-Bicchisano, France, as part of a non-essential background filler task where we can drop or reschedule at convenience, treating this as a background survey with a priority to deliver data products by tomorrow...

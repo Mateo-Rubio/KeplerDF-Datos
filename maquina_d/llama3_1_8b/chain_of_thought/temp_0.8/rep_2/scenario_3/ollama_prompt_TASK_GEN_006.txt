@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The original deadline is specified as "tomorrow" and "in the morning", which implies a strict operational deadline for delivering the data products within the next 24 hours, with a specific preference for the morning time period.
+
+STAGE 2 - FINAL REQUEST
+
+```prompt
+We require a standard operational tasking for commercial purposes, involving high-resolution optical snapshot photography using daylight photography techniques to capture clear optical imagery. This task is an absolute institutional priority due to its binding contract requirements for a critical payload capture. The location of interest is in Indonesia, specifically in the city of Tanjung Saleh. We need this mission to be completed tomorrow in the morning as per our baseline pipeline tracking setup with fixed parameters representing normal operational status.
