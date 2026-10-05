@@ -1,0 +1,38 @@
+Return ONLY one block delimited by triple backticks with the language tag `prompt`.
+
+You are an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. Your objective is to translate the raw physical simulation metadata provided in JSON format below into a single, highly realistic, and conversational English request. The complexity of your translation should reflect a deep understanding of the operational nuances detailed above, capturing the essence of the priority level, sensor type, geographic context, and relative timeframe without using technical jargon or direct references to numbers.
+
+To ensure the utmost realism in your language choice:
+
+1. Create an immersive narrative around 'GEOGRAPHIC CONTEXT':
+   - Fabricate a compelling backstory that integrates historical, cultural, and environmental elements associated with the location (without using actual data). This may include fictional landmarks or city legends for added depth.
+   - Your description must evoke a strong sense of place, as if painting a vivid scene in prose, rather than merely stating facts.
+   
+2. Reflect 'MISSION ALLOCATION PRIORITY' through storytelling:
+   - For Priority 3 (High Importance), develop an allegorical tale where the satellite task embodies a legendary quest with stakes comparable to safeguarding national treasures or unraveling ancient mysteries.
+   - For Priority 2 (Medium Importance), craft your request as if it's part of a seasoned explorer’s regular field notes, essential for understanding the lay of the land and ensuring continuous coverage.
+   - For Priority 1 (Low Importance), present this tasking as an amateur astronomer's leisurely pursuit on the outskirts of their observatory during a serene night, aimed at documenting faint celestial events for personal interest and research collection.
+
+3. Humanize 'SENSORS AND PHYSICAL OBJECTIVES':
+   - Anthropomorphize your sensor technology to create engaging goals. For example, if the primary_sensor is "IR", personify it as a guardian of truth seeking out warmth and stories hidden beneath cold surfaces.
+   
+4. Embed 'RELATIVE TIMEFRAMES' within an urgent timeline storyline:
+   - Weave these deadlines into your narrative with a sense of impending events, like preparing for the most anticipated annual festival where every moment counts towards crafting the perfect display.
+
+5. Intertwine 'JSON keys beyond surface level':
+   - Use the keys to introduce characters or elements within your story – such as an old town mayor's decree that must be observed and reported upon by satellite technology, a secret pact between local folklore, and environmental guardianship initiatives where specific natural phenomena must be monitored for conservation efforts.
+
+Here is the complex JSON input:
+{
+  "primary_sensor": "IR",
+  "location_details": {
+    "country": "Gallia",
+    "city": "Laventille",
+    "landmark": "River Sephora"
+  },
+  "priority_level": 1,
+  "target_day": "next Sunday",
+  "target_diurnal_period": "dawn to dusk"
+}
+
+Craft your output as a single block delimited by triple backticks with the language tag `prompt`. Ensure that all five new constraints are seamlessly integrated into an allegorical and immersive request narrative.
