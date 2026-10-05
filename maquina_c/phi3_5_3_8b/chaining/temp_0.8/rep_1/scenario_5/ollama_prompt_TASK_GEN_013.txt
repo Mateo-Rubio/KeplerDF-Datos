@@ -1,0 +1,28 @@
+```prompt
+As an Earth-observation mission operator, I am tasking a satellite constellation planner with translating raw physical simulation metadata into an actionable request. The objective is to create a highly realistic and conversational English request from the provided JSON data:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Colombia",
+0rganizador de operaciones espaciales, estoy instruyendo a un planificador para la constelación de satélites a traducir los datos del simulación física JSON dados en una solicitud realizable. El objetivo es formular una solicitud con fluidez y conversacionalidad, basada en las siguientes directrices operacionales:
+
+1. CONTEXTO GEOPOLÍTICO (Interprete los 'region_name' y datos 'location_details'):
+   - Evítese la utilización de etiquetas técnicas sistemáticas, barras o arrays de coordenadas en el resultado final. Combine naturalmente los parámetros JSON para describir el lugar usando una combinación realista de los campos 'país', 'ciudad' y 'landmark' dentro de 'detalles_de_ubicación'. Si alguno de estos elementos es "N/A", maneje su ausencia con gracia.
+
+2. PRIORIDAD DE AZOARAMENTO (Interprete el campo 'prioridad_level'):
+   - No mencione números de prioridad técnicos o niveles de urgencia. La prioridad indica autoridad en la asignación del azoramiento y valor contractual, no distancia al plazo límite. Integre frases operativas específicas para reflejar una estructura jerárquica:
+     * Nivel de Prioridad Alta (Importancia Elevada): Usa un tono autoritario, explícito y mandatorio. Formúla tu solicitud como "obligación institucional absoluta" o "requisito contractual crítico para la captura del pago". Implica una ejecución operacional urgente e ininterrumpible.
+     * Nivel de Prioridad Media (Importancia Moderada): Usa un tono profesional, directo y estándar operativo. Describe tu solicitud como "tarea asignada para la rutina del azoramiento", "tarea comercial" o parte de una "configuración pipeline habitual vigilando". Los parámetros que representan el estado operacional normal se pueden referenciar como "parámetros fijos estándares".
+     * Nivel de Prioridad Baja (Importancia Mínima): Usa un tono casual, altamente flexible o oportunista. Formúla tu solicitud como una "solicitud de baja prioridad importancia" con un horario flexible para la "captura oportunística". La nota debe afirmar claramente que se puede "desestimar o reprogramar según convenga", tratando esta tarea como una "tarea de seguimiento auxiliar" o una "prueba piloto de rastreo".
+
+3. SENSORES Y OBJETIVOS FÍSICOS (Interpreta 'primary_sensor'):
+   - Evítese la notación técnica o abreviaturas (por ejemplo, no escriba VIS, SAR, TIR, VNIR, NIR). Naturalmente integra los objetivos y descripciones operacionales en tu solicitud para explicar el fenómeno a observar:
+     * Vis -> Formúla tu objetivo como la obtención de una "imagen fotográfica nítida con alta resolución óptica" para "fotografía al atardecer", "verdadero color documentación" o capturas visuales auténticas.
+     * SAR -> Explica el objetivo como una "escaneo activo de radar utilizando imaging por microondas" para la captura a través del cielo nublado, penetrando en las capas de niebla o mapeando con precisión la geometría terrestre.
+     * Tir -> Formúla tu objetivo como una "cartografía térmica", obteniendo un "mapa de temperatura" para visualizar el patrón de emisión termal, la distribución del calor superficial u observando anomalías en las zonas cálidas.
+     * VNIR -> Formúla tu objetivo como análisis multispectral vegetal, evaluando "niveles de absorción de cloro" o calculando una índice para reflejos superficiales y áreas verdes.
+     * NIR -> Explica el objetivo como la detección de reflexiones en nube cerca del suelo, utilizado para mapear las fronteras del cuerpo de agua o discriminar gradientes para evaluar contenido de humedad del suelo.
+
+4. DELIBERAJE DE LA FINALIZACIÓN:
+   - La fecha límite ya ha sido resuelta por un módulo superior anterior al operador. Integre esta frase VERBATIM
