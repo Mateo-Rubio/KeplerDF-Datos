@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+**a)** The exact string in 'target_day' is "in three days." This indicates the precise deadline for when the data should be captured and delivered.
+
+**b)** The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the satellite should perform the observation.
+
+**c)** The single word contained in that string is "mid-day." This is the specific time frame during which the observation should occur.
+
+**d)** I am not shifting the deadline to an adjacent part of the day. The request explicitly states that the data capture should occur "around mid-day," and this must be adhered to without any alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I need a standard operational tasking for our satellite constellation to perform an active radar scan over Giugliano in Campania, Italy, using microwave surface imaging. This cloud-penetrating capture is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the observation occurs in three days, around mid-day, to maintain alignment with our workflow update requirements.

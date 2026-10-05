@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "the day after tomorrow."
+
+b) The exact string for 'target_diurnal_period' is "in the evening."
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This word will be included verbatim in the final request.
+
+d) The deadline specified as "the day after tomorrow, in the evening" must be adhered to strictly. There is no indication or allowance for shifting this deadline to any other part of the day.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for our baseline pipeline tracking setup requiring fixed parameters. The task involves near-infrared reflection over Vigonza, Italy, to assess water body boundary mapping and soil moisture levels. This is a routine monitoring mission with a medium importance, fitting into our normal operational status workflow update. We need this data captured on the day after tomorrow, in the evening, as part of our scheduled commercial tasking for standard operation.

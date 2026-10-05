@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string, which appears literally in the final request, is "evening."
+
+d) The requirement specifies using the given temporal parameters as a strict operational deadline. This means we must adhere to "tomorrow" and "in the evening" without any alterations or shifts. Thus, the request should be made for "tomorrow evening," confirming that the deadline is not adjusted to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are tasked with a standard operational tasking for a commercial satellite mission targeting the region near Norte. The objective is to utilize near-infrared reflection technology to conduct soil moisture assessment, capturing water body boundary mapping details. This task falls within the baseline pipeline tracking setup and represents a fixed parameter scenario under normal operational status. Please ensure data delivery by tomorrow evening, as this constitutes a routine monitoring activity with medium importance in our workflow update.

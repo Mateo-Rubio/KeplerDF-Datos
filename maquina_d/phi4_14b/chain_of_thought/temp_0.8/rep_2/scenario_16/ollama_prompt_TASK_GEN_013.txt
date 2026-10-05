@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating metadata for a satellite mission focused on the region of Samacá, Colombia. Let's break down each aspect of this requirement:
+
+a) The exact string in 'target_day' from the JSON data is "in three days." This indicates that the deadline for data delivery is set to occur three days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time period during which the data capture needs to happen, emphasizing the nighttime or late-night hours.
+
+c) From the given options {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "overnight." This must be explicitly mentioned in the final request to ensure clarity regarding the timing of data acquisition.
+
+d) It is crucial to confirm that the deadline is not being altered. The requirement clearly states the data capture should occur "in three days" during the "overnight" period. There is no instruction or implication to shift this deadline to any other part of the day, such as morning or afternoon. Therefore, the timing remains strictly confined to the specified nighttime window within the given timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are tasked with an absolute institutional priority mission that involves thermal mapping over Samacá, Colombia. This is a binding contract requirement involving critical payload capture and an urgent operational execution with an un-preemptable mission lock. The primary objective is to conduct thermal mapping to capture a detailed surface temperature profile and detect any potential thermal anomalies during the "overnight" period in three days. This mission holds paramount importance due to its contractual obligations and critical nature.

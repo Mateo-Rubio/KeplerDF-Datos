@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific details about the task request for an Earth-observation mission involving a satellite constellation planner.
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates that the desired capture of data should occur at some point during the next day from when this task is being planned.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening". This specifies the particular time frame within the day when the satellite observation needs to be executed.
+
+c) Analyzing the phrase "in the evening", it contains the word "evening" which is one of the specified diurnal periods. Therefore, the word "evening" must be included literally in the final request as it aligns directly with the provided diurnal period specification.
+
+d) It's crucial to adhere strictly to the given deadline without attempting to reinterpret or shift it. The task should occur tomorrow and specifically during the evening, ensuring that no changes are made to this timeframe, such as suggesting an adjacent time like afternoon or night.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for tomorrow in the evening, focusing on Malaysia, particularly near Kuning Selatan. The objective is to capture high-resolution optical snapshots using daylight photography for clear optical imagery and true-color visual documentation. This is part of our baseline pipeline tracking with fixed parameters that maintain normal operational status. Please ensure this observation aligns with our routine monitoring schedule without deviation from the specified deadline.

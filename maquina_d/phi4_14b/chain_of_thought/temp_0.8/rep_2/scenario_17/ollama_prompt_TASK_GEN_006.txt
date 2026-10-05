@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves analyzing the metadata provided for a satellite mission request, specifically targeting the city of Majangkan in Indonesia. The `target_day` field directly specifies "tomorrow," indicating the operational deadline for data acquisition. Similarly, the `target_diurnal_period` states "around mid-day," which provides a clear temporal frame for when the satellite should capture the necessary imagery.
+
+The diurnal period is crucial in understanding when the satellite will perform its operation. The term "mid-day" suggests that the imagery is intended to be captured during daylight hours, specifically around noon when the sun is at its highest point in the sky. This timing could be significant for certain types of sensors and observations, although in this case, with SAR being the primary sensor, it ensures optimal conditions for radar operations.
+
+The priority level indicated as 2 suggests a medium importance task. This means that while the mission is essential, it does not have the urgency or critical nature of high-priority tasks. It is part of routine monitoring or standard operational tasking, which aligns with commercial or baseline tracking operations.
+
+The sensor type, SAR, indicates that the mission's goal is to conduct an active radar scan using microwave surface imaging. This is particularly useful for cloud-penetrating capture and can be essential for observing ground geometry through heavy weather conditions. The choice of SAR implies that visibility issues such as cloud cover will not impede data collection.
+
+In summary, the task requires capturing data over Majangkan, Indonesia, using SAR technology, with a medium priority level, ensuring delivery by tomorrow around mid-day. The specified time frame is crucial and should not be altered or shifted to any other part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for a satellite mission over Majangkan, Indonesia, using active radar scanning technology. This task involves capturing microwave surface imaging data to provide cloud-penetrating capture and assess ground geometry. The mission is scheduled for tomorrow, around mid-day, as part of our baseline pipeline tracking setup with fixed parameters. This routine monitoring forms a critical component of our normal operational status and workflow update. Please ensure timely execution within the specified timeframe without deviation.
