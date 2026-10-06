@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+b) The exact string in 'target_diurnal_period' is: "in the morning"
+c) The word contained in the string from 'target_diurnal_period' that needs to appear literally in the final request is: "morning"
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context specified by the Earth-observation mission planner's JSON metadata, our priority task falls under Low Importance (priority_level 1), which requires a flexible schedule and is designated for opportunistic capture. The primary sensor scheduled for this mission will be VIS (visually informative sensor) intended to capture high-resolution optical imagery. Specifically, we aim to secure a "high-resolution optical snapshot" as daylight photography on the day after tomorrow, with a crucial diurnal period constraint - during the morning hours.
+
+Our geographic focus is set on Indonesia, pinpointing Hiang Karya as our location of interest. This request acknowledges that while it's a non-essential background filler task, it is to be executed diligently according to the outlined parameters: high-resolution optical imagery must be obtained in the morning of the day after tomorrow.
+
+The deadline for this data product is strictly adhered to, emphasizing that this is not an alteration or shift of the orbital capture window but rather respects the operational deadline as specified by our priority level. We are prepared for the task without attempting to extend the deadline beyond what is specified by 'target_day' and 'target_diurnal_period'.

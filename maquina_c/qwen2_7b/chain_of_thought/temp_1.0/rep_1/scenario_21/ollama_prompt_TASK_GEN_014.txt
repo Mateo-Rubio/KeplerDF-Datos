@@ -1,0 +1,14 @@
+STAGE 1 REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) Yes, I am not shifting or altering the deadline to an adjacent part of the day. The deadline remains at tomorrow morning.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational context specified by the Earth-observation mission's metadata, we are tasked with capturing a critical snapshot of thermal phenomena for a location in Norte, a region yet to be identified by a country or city name. This request is classified as having a low priority level and is considered a flexible schedule "opportunistic capture" task. The deadline for delivering this data product is set for tomorrow morning.
+
+The task will utilize a 'TIR' sensor to perform thermal mapping, aiming to capture heat signatures and surface temperature profiles across the area of interest in Norte. This process entails identifying thermal anomalies, heat emissions, and mapping surface temperatures without the interference of atmospheric conditions during the day, ensuring precise and unobstructed observations for analysis.
+
+As per operational guidelines, there is no alteration or extension of the deadline from "tomorrow morning", maintaining adherence to institutional standards for non-essential background filler tasks with a flexible schedule. The imagery obtained will serve as part of the baseline pipeline tracking setup under normal operational status, contributing to the ongoing surveillance and monitoring of the area without impacting critical payload capture or mandatory directives.
