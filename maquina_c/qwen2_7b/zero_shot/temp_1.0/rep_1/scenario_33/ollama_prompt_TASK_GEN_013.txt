@@ -1,0 +1,13 @@
+Hello,
+
+We're setting up an Earth-observation mission involving a single highly realistic task request for a satellite constellation planner. Our primary sensor is a SAR (Synthetic Aperture Radar), designed to capture an active radar scan of the location in Colombia, specifically around Puerto López.
+
+Given the geographical context, we aim to generate comprehensive data that includes cloud-penetrating capture and detailed ground geometry information using microwave surface imaging. This task is classified as a low priority importance request, with flexible scheduling intended for opportunistic capture. We consider this as a background survey or testbed tracking task.
+
+The operational guidelines require us to incorporate the 'region_name', nested 'location_details' (country, city), 'priority_level', and 'target_day & target_diurnal_period' into our request. 
+
+We need high-resolution SAR data by Puerto López in Colombia by [target_day] at around mid-day, ensuring the products are ingested into the pipeline before the deadline set for that day. As per our instructions, the strict delivery deadline is targeted for [target_day] around mid-day.
+
+This request will assist us in assessing the operational status and gathering routine monitoring data as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status or workflow updates.
+
+Looking forward to your confirmation of this task's successful execution. Thank you.
