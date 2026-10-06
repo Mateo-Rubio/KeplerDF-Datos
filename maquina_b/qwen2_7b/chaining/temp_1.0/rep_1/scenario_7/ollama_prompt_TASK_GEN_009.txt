@@ -1,0 +1,17 @@
+Translating raw metadata for Earth-observation mission allocation, translating context from provided JSON format:
+
+Target location: Malaysia's ecuatorial region, focusing on capturing high-resolution thermal mapping for a "heat signature" and thermal anomaly detection in daylight photography.
+
+As this is a low priority importance request, it will be explicitly noted to the satellite constellation as a "flexible schedule, opportunistic capture task", a "background survey" with "drop or reschedule at convenience" considerations. 
+
+This task involves utilizing the TIR sensor for capturing essential surface temperature profiles during normal operational status or workflow update times.
+
+Deadline set: "The day after tomorrow in the morning" – as defined by upstream modules, this upper limit is verbatim inserted into our request ensuring adherence to established data availability timelines.
+
+Given operational guidelines for translating JSON keys:
+- GEOGRAPHIC CONTEXT: Malaysia and ecuatorial region combine to describe the context without relying on city or country-specific technical tags.
+- MISSION ALLOCATION PRIORITY: Low priority with "drop or reschedule at convenience" treatment as an essential background filler task.
+- SENSORS AND PHYSICAL OBJECTIVES: TIR for capturing thermal mapping details, heat emissions, and anomaly detection through thermal imaging.
+- DELIVERY DEADLINE: "The day after tomorrow in the morning" as per established upper limit for data availability.
+
+The final mission request is to capture high-quality thermal mapping data of Malaysia's ecuatorial region using the TIR sensor. This task will be scheduled under a low priority importance, allowing for flexibility and dropping or rescheduling as convenient until the deadline set as "The day after tomorrow in the morning".
