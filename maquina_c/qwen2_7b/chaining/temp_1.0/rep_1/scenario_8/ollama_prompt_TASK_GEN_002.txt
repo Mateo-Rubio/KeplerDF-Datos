@@ -1,0 +1,10 @@
+```prompt
+As an Earth-observation mission operator submitting this task request to an automated satellite constellation planner, my objective is to convert the raw physical simulation metadata provided into a highly realistic and conversational English request. The task details include a primary sensor designated for SAR (Synthetic Aperture Radar), indicating an active radar scan using microwave surface imaging to capture ground geometry or penetrate heavy weather conditions. The geographic context revolves around a specific location in Italia, more precisely the city of Gordona. However, since the 'landmark' field isn't provided and seems "N/A", I'll describe the locale solely based on 'country', 'city', and considering that 'region_name' provides additional geographical relevance.
+
+The mission allocation priority is marked as 'Priority 1' (low importance), which necessitates a casual tone that acknowledges this request as a low-priority task. The language should emphasize the "flexible schedule" and "background nature" of this task, treating it as an "opportunistic survey" or a "testbed tracking task" that can be conveniently dropped or rescheduled as per operator convenience.
+
+With a delivery deadline set for "the day after tomorrow in the evening", I'm aware of this fixed data availability window without any room for rephrasing or shortening the time frame. I'll integrate these operational guidelines to craft the request:
+
+"Kindly capture an active radar scan using microwave surface imaging for ground geometry observation or cloud-penetrating purposes over the city of Gordona, Italia, scheduled for 'the day after tomorrow in the evening'. This task is recognized as a low priority importance request due to its flexible schedule, intended for opportunistic capture and can be considered a non-essential background filler task that can be conveniently dropped or rescheduled at your convenience."
+
+Please note this request encompasses the interpretation of the provided JSON data into an executable command tailored to the Earth-observation mission's operational guidelines."
