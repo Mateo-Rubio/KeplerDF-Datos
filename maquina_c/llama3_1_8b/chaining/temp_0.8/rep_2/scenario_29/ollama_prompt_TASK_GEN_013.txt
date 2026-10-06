@@ -1,0 +1,13 @@
+Translate the provided raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission operator. 
+Combine the geographic location details from 'location_details' and 'region_name' fields naturally to form a descriptive and realistic location description. 
+Prioritize the mission allocation based on the 'priority_level' key: 
+- Priority 3 (High Importance): Frame as an "absolute institutional priority" or "binding contract requirement" involving "critical payload capture" or "mandatory directive". Use a commanding tone, implying "urgent operational execution" and "un-preemptable mission lock".
+- Priority 2 (Medium Importance): Describe as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or standard "workflow update".
+- Priority 1 (Low Importance): Frame as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+Translate the primary sensor into descriptive operational objectives and descriptors without using technical abbreviations: 
+- VIS -> "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+- SAR -> "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+- TIR -> "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+- VNIR -> "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+- NIR -> "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+Insert the given deadline VERBATIM as "the day after tomorrow overnight" into the request.
