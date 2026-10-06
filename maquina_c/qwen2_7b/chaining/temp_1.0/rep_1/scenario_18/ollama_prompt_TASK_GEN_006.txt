@@ -1,0 +1,17 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata into a highly realistic and conversational English request for processing. I'll interpret the provided JSON format considering geographic context, mission allocation priority, sensors and physical objectives, as well as the delivery deadline.
+
+Let's break down the request:
+
+1. The geographic context: I'll describe the location using realistic terms from the 'location_details', combining 'country' and 'city'. However, since 'city' is marked as "Ecuatorial", an inappropriate term, and there are no other specific city details available, I'll focus on 'country', which is "Indonesia". I will not use technical system tags or coordinate arrays.
+
+2. The mission allocation priority: Considering the 'priority_level' is set to 1, this signifies a low importance request for operational purposes. Therefore, I'll frame it as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+3. Sensors and physical objectives: The 'primary_sensor' field indicates "VNIR". This will be interpreted in the context of a mission that aims to perform "multispectral vegetation analysis". To further clarify, this might include assessing "chlorophyll absorption levels" to calculate the "NDVI index", which would help us understand vegetation health or density.
+
+4. The delivery deadline: The task's deadline is specified as "tomorrow in the morning". I will insert this phrase verbatim into the request without altering its meaning or timing.
+
+Putting it all together:
+
+"In alignment with operational guidelines and for the purpose of translating raw physical simulation metadata into a natural, conversationally realistic English request, I hereby propose to undertake a 'background survey'. This involves a low priority importance task that necessitates a flexible schedule for 'opportunistic capture' of Earth's vegetation through 'multispectral vegetation analysis'. Specifically, this entails assessing chlorophyll absorption levels within Indonesian territory, which will help us calculate the NDVI index and understand vegetation health or density. We are to adhere to an agreed deadline for data availability, as set by tomorrow in the morning. This mission adheres to standard operating procedures for baseline pipeline tracking with fixed parameters representing normal operational status." 
+
+Such request aims to incorporate all key elements from the JSON while maintaining clarity, authenticity, and the structured hierarchy of operational instructions and terminologies."
