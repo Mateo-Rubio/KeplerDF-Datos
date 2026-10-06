@@ -1,0 +1,24 @@
+As an Earth-observation mission operator, I'm requesting a critical payload capture that involves observing a specific area in Colombia, with an absolute institutional priority. The target location is the city of Bolívar, which has been marked as essential for this task.
+
+The primary sensor required for this operation is Thermal Infrared (TIR), designed for capturing thermal mapping data. We aim to understand heat signatures and surface temperature profiles in the area around Bolívar by conducting a high-resolution thermal scan using microwaves to penetrate clouds or obstacles and capture ground geometry accurately.
+
+The operational guidelines state that we should deliver these data products by tomorrow's evening block at the latest, ensuring they are ingested into our pipeline before this deadline. Our focus is on heat anomaly detection and mapping heat emissions, which we will achieve through this TIR scan.
+
+This task is treated as a high-importance mission allocation with asset contractual value, involving the capture of a critical payload as part of a baseline pipeline tracking setup. It requires fixed parameters representing normal operational status or workflow updates without any compromise on data quality.
+
+Please understand that the temporal parameters for delivering the data are set to ensure product availability by [target_day] in the evening, maintaining strict adherence to our deadline constraints. Any delay beyond this timeframe risks missing out on the required insights critical for our operational planning.
+
+For your reference, please find attached the raw physical simulation metadata provided in JSON format:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Bolívar"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+Let's proceed with the mission allocation, prioritizing this task as necessary and ensuring the quality of the data to meet our operational requirements.

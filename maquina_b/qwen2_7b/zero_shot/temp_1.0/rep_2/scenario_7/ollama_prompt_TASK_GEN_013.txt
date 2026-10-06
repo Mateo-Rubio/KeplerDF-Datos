@@ -1,0 +1,23 @@
+Priority: Absolute institutional priority.
+
+Mission Objective: Deliver a comprehensive, cloud-penetrating SAR scan of Medio San Juan, Colombia. Using microwave surface imaging technology, we aim to gather critical data on ground geometry and hidden structures beneath heavy weather conditions. The goal is to secure a precise snapshot of the region's topology that can withstand atmospheric disturbances and provide valuable insights into urban planning, environmental management, or disaster response strategies.
+
+Geographic Context: We are targeting Medio San Juan, which is nestled within the vibrant landscape of Colombia. Our interest focuses on capturing details beyond just the surface to ensure comprehensive understanding of the area's spatial characteristics.
+
+Temporal Constraint: With a strict deadline set for delivery tomorrow morning, we need your assistance in acquiring and processing the SAR data by "tomorrow" "in the morning". We aim to ensure that our products are ingested into the pipeline well before the set deadline to facilitate timely decision-making processes at our end. 
+
+Priority Level: This task is of the utmost importance and requires immediate attention, reflecting a binding contract requirement involving a critical payload capture. The urgency of this mission necessitates an "urgent operational execution" and an "un-preemptable mission lock".
+
+Thank you for your understanding and cooperation in handling this high-priority request.
+
+Prompt:
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Medio San Juan"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
