@@ -1,0 +1,16 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "today".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string from {morning, mid-day, afternoon, evening, overnight} is "evening".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+To address the operational needs for today's satellite mission, we will focus on capturing essential data of Kapit, Malaysia, during the evening hours. Given the 'target_day' parameter is set to "today", this request enforces that the satellite should conduct its imaging and acquisition activities specifically in the evening timeframe, ensuring optimal conditions for the high-resolution optical snapshot taken with the Near-Infrared sensor.
+
+With the priority level at 'medium importance', we emphasize this task as part of our standard operational tasks, which involves commercial tracking and monitoring. The capture is to be executed in accordance with fixed parameters that represent normal operational status, allowing the satellite to provide critical information about Kapit's landscape with precision during this specific time window.
+
+The satellite mission should prioritize delivering high-quality thermal mapping and near-infrared reflection data, capturing the heat signatures and surface temperature profiles essential for thermal anomaly detection and water body boundaries, as well as soil moisture assessment. The 'evening' target diurnal period is selected to ensure cloud cover minimization and provide the best conditions for these observations, aligning with the operational guidelines for this mission's allocation priority.
+
+In summary, the satellite constellation planner should prioritize capturing Kapit, Malaysia, today in the evening hours using the Near-Infrared sensor to execute standard operational tasks involving thermal mapping, near-infrared reflection analysis, and vegetation assessment. This mission will contribute to our baseline pipeline tracking with critical payload capture requirements that represent normal operational status.

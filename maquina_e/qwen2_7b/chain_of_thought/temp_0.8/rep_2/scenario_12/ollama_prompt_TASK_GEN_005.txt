@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) Yes, I am not shifting the deadline to an adjacent part of the day. The request will specify the data capture should be completed by tomorrow morning.
+
+STAGE 2:
+
+Given the parameters provided, our Earth observation mission aims to acquire thermal mapping data from a TIR sensor targeting a specific geographic area, focusing on the region with 'N/A' for country and 'Norte' for city in the 'location_details' section. Since priority level is set at 1, this task can be framed as a low-priority importance request with flexible scheduling.
+
+The mission will capture thermal information in the morning of tomorrow. Our objective involves capturing heat signatures across the region 'Norte', with an emphasis on detecting surface temperature profiles and identifying any thermal anomalies that may occur within the area. The imagery acquired should be ready by 'tomorrow morning'.
+
+To accomplish this, our automated satellite constellation planner must ensure optimal alignment of satellites to target 'Norte' in the early morning hours. Given the low priority level, we understand this task may fall into our 'background survey' category with a flexible schedule that allows for potential rescheduling or dropping at convenience.
+
+We look forward to receiving thermal mapping data from 'Norte' as per the outlined parameters, utilizing our TIR sensor capabilities to provide insightful information on surface temperatures and any anomalies that occur by tomorrow morning.
