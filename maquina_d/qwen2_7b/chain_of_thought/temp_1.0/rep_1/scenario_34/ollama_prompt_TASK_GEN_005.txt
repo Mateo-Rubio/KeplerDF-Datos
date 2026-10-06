@@ -1,0 +1,18 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day. The request specifies the exact time frame for capturing data: tomorrow morning.
+
+STAGE 2 - FINAL REQUEST
+
+As an operational tasking directive, the automated satellite constellation planner has been assigned a priority level of medium importance, indicated by the nested JSON attribute 'priority_level'. This task requires the deployment of thermal sensors to capture thermal data over the specified geographic region. 
+
+The target day for executing this mission is tomorrow morning, as detailed in the 'target_day' and 'target_diurnal_period' attributes. The mission's geographical context is centered around Italy, specifically focusing on the town of Lenzumo, a notable landmark within this region. 
+
+Utilizing thermal infrared (TIR) sensors, the plan necessitates capturing comprehensive thermal mapping data with high resolution and precision at this specific time tomorrow morning. The operational objective involves observing thermal signatures across various surfaces to identify heat anomalies or temperature profiles, providing critical insights into surface conditions without the interference of atmospheric cloud cover.
+
+In executing this task, the planner should prioritize an un-preemptable mission lock, as per the JSON attribute 'priority_level', recognizing it as a binding contract requirement with high institutional importance. This directive underlines the critical payload capture imperative and emphasizes that this operation is part of the normal operational status baseline pipeline tracking framework.
+
+This low priority request serves as a background filler task, which may be dropped or rescheduled at convenience if other higher priority tasks emerge. It is classified as a non-essential background survey and testbed tracking task in the overall workflow update. The execution of this operation should adhere strictly to the set time frame provided, delivering timely thermal mapping data tomorrow morning as per the target day specified within the JSON parameters.
