@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task requires interpreting metadata for an Earth-observation mission request. The metadata provides details about the sensor type, location, priority level, and timing. Let's address each question step-by-step:
+
+a) The exact string in 'target_day' is "today." This indicates that the data collection is intended for the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when during the day the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in "in the evening" is "evening." This word must appear in the final request to describe the timing of the observation accurately.
+
+d) It is crucial to confirm that the deadline is not being shifted to another part of the day. The metadata specifies "in the evening," which aligns with the intended observation period without any alteration or extension. Therefore, we will adhere strictly to this timeframe for the task.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for an opportunistic capture. This is a non-essential background filler task that can be adjusted at convenience, functioning as a background survey or testbed tracking task. The focus is on capturing near-infrared reflection data, which will aid in mapping water body boundaries and assessing soil moisture gradients. The target location is Mesetas, Colombia. We are aiming to gather this information today, specifically in the evening. Please note that this task can be dropped or rescheduled if necessary.
