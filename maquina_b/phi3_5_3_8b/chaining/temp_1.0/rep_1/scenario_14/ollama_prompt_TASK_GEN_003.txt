@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I am tasked with dispatching a highly realistic operational directive for the upcoming automated satellite constellation planner. The objective is to translate provided simulation metadata into a conversational English request that captures the essence of our operation's needs accurately.
+
+Given the dataset in JSON format, here's what we need to communicate:
+
+"We have an upcoming mission for Murung Raya in Indonesia where thermal mapping is required using Thermal Infrared (TIR) sensing technology. This task falls under our low priority importance category and has a delivery deadline of 'the day after tomorrow in the evening'. The goal here involves capturing detailed heat signatures, surface temperature profiles, or identifying any potential thermal anomalies for scientific analysis."
+
+Please prepare this satellite constellation for an opportunistic capture that aligns with our flexible scheduling. Be advised to 'drop or reschedule' if circumstances necessitate a change in plans. Remember, while Murung Raya offers no significant immediate urgency, its inclusion enriches the overall dataset diversity and adds valuable thermal information during night-time operations."

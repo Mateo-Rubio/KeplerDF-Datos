@@ -1,0 +1,20 @@
+As a mission operator for Earth-observation satell0logy, I am submitting an operational task to our automated satellite constellation planner. Your assistance is required in converting the following JSON metadata into a realistic and conversational English request:
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "N/A",
+    "city": "Norte"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The objective of this request is to conduct a standard operational tasking with an emphasis on active radar scan using microwave surface imaging. The target area, marked by the name Norte and without specific country reference, must be captured comprehensively as part of our routine monitoring efforts. This initiative aligns perfectly within our established baseline pipeline tracking setup that maintains fixed parameters indicative of normal operational status.
+
+Given the priority level indicated is Medium Importance, this task will serve as a regular component in our mission scheduling and resource allocation framework. Our objective here is to secure cloud-penetrating capture capabilities for robust geophysical data analysis without imposing an immediate or absolute institutional urgency on system resources.
+
+The designated target window spans the night, specifically "the day after tomorrow overnight", wherein we expect to acquire and process imagery using our SAR technology. The deliverable from this request must meet a structured timeline that ensures alignment with other concurrent operations while respecting operational deadlines already defined by upstream modules within our system architecture.
+
+I trust the above contextualized translation of the metadata will help guide you towards crafting an adequately detailed and action-oriented task directive for your automated satellite planner, adhering to the conversational tone required in this operational setting.
