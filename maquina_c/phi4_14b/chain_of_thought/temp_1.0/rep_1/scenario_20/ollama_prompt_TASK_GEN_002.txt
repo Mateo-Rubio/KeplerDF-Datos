@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To begin with, let's examine the specific metadata details provided:
+
+a) The 'target_day' value specified in the JSON is "tomorrow." This indicates that the data capture should occur on the day following today, which sets a clear and specific operational deadline.
+
+b) For 'target_diurnal_period', the string given is "in the evening." This denotes the timeframe during which the task needs to be completed on the specified target day. 
+
+c) Within the string "in the evening," the word "evening" directly correlates to one of the predefined diurnal periods {morning, mid-day, afternoon, evening, overnight}. Hence, we identify "evening" as the specific time frame relevant for this task.
+
+d) It is essential to ensure that the deadline has not been shifted from the specified period. The term "in the evening" confirms that the task must be completed during that precise part of the day on "tomorrow," and there's no intention or allowance within the metadata to extend, shift, or reinterpret this timeframe to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for monitoring the region in Norte with a professional emphasis on fixed parameters. The mission involves capturing data using near-infrared reflection to assess soil moisture levels and map water body boundaries effectively. This routine task forms part of our baseline pipeline tracking, ensuring the normal operational status is maintained. Please schedule this task for tomorrow, specifically in the evening, adhering strictly to the operational deadline provided.

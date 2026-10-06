@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's go through the task context JSON to prepare a natural language request:
+
+a) The exact string for 'target_day' in the JSON is "in four days."
+
+b) The exact string for 'target_diurnal_period' in the JSON is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "overnight." This word will be directly used in the final request.
+
+d) It is important to confirm that we are not shifting the deadline from its specified time. The requirement is for an "overnight" capture, and this timing should remain unchanged as it aligns with operational needs for nighttime data collection and processing.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task request for a satellite constellation operation focusing on Simití, Colombia. This task involves utilizing near-infrared reflection to conduct soil moisture assessment, which is crucial for our current analysis. The priority level for this mission is medium importance, so we are treating this as a standard operational tasking within our routine monitoring framework. Please ensure that the data capture occurs "in four days" during the "overnight" period to align with our fixed parameters for normal operational status.

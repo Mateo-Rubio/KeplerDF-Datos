@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates when the satellite imagery needs to be captured and delivered.
+
+b) The exact string present in 'target_diurnal_period' is "in the evening." This specifies the time frame during which the data capture should occur within that specified day.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening." This particular time of day needs to be included in the final request explicitly.
+
+d) Based on the provided data, there is no indication or permission to shift the deadline. The task must be executed precisely within the specified period—specifically during "the evening" of "tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+I request a standard operational tasking for a thermal mapping satellite capture over Norte, focusing on delivering a heat signature or surface temperature profile. This is part of our baseline pipeline tracking and needs to be completed as a routine monitoring setup with fixed parameters. Please ensure that the data products are ready for delivery by tomorrow evening, aligning with normal operational status and workflow updates.

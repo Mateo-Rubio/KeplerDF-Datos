@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string present in 'target_day' is "tomorrow."
+
+b) The exact string present in 'target_diurnal_period' is "overnight."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "overnight." This word must appear literally in the final request.
+
+d) The 'target_diurnal_period' explicitly states "overnight," and since this parameter represents a strict operational deadline to deliver data products, it is crucial not to shift or reinterpret this timeframe. Thus, we are maintaining the specified period without any alteration, ensuring compliance with the given deadline requirements.
+
+### Stage 2 - Final Request
+
+We have an absolute institutional priority task that involves a critical payload capture for tomorrow overnight. This operation requires a thermal mapping scan over Indonesia, specifically in the city of Ecuatorial. The goal is to capture a detailed heat signature and surface temperature profile to detect any thermal anomalies. This binding contract requirement underscores the urgent operational execution needed and an un-preemptable mission lock to ensure successful data delivery by the strict deadline of tomorrow overnight.
