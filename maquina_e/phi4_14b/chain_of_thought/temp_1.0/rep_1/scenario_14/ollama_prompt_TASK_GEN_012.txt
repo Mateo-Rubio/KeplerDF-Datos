@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "the day after tomorrow."
+
+b) The exact string present in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word from the provided list {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon." This word will be included verbatim in the final request.
+
+d) The mission request specifies that data capture should occur "during the afternoon" on "the day after tomorrow," which clearly indicates a strict operational deadline. There is no implication or instruction to shift the deadline to another part of the day, maintaining adherence to these parameters.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We are seeking a professional and standard execution of a thermal mapping task over the Ecuatorial region with an emphasis on capturing the surface temperature profile and any potential thermal anomalies. This is part of our baseline pipeline tracking and involves fixed operational parameters as a routine monitoring component within our commercial tasking framework. The data collection should be scheduled for the day after tomorrow, specifically during the afternoon, to ensure adherence to our operational deadline and deliver high-quality data products in alignment with our mission priorities.

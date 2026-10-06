@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To create a realistic and conversational task request for the satellite constellation planner, let's examine the provided JSON metadata step-by-step.
+
+a) The exact string in 'target_day' is "in four days". This indicates when the imagery is required without specifying an absolute date, but rather a relative timeframe from the current day. This phrase will be directly incorporated into our request to convey the precise deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day during which the data capture should occur, emphasizing when the satellite's operations should ideally align with daylight conditions favorable for VNIR sensor activation.
+
+c) Within that string, the word "morning" is the specific part of the day mentioned. It clearly outlines the operational window needed to carry out the task, ensuring that we capture images during early daylight hours when conditions are optimal for the type of observation described by the VNIR sensor's capabilities.
+
+d) We need to confirm that there is no intention to shift this timeframe to another part of the day. The metadata explicitly states "in the morning" as the operational window. It's critical not to interpret this as any time other than the specified morning hours, maintaining the original intent and ensuring that data is captured at the desired diurnal period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a task in Moncalieri, Italy, involving multispectral vegetation analysis using a near-infrared reflection sensor. The focus is to assess chlorophyll absorption levels and compute the NDVI index, providing critical insight into the vegetation health in this area. As this mission has been designated with low priority importance, it carries a flexible schedule for opportunistic capture. Operators are advised to consider dropping or rescheduling at convenience if necessary, treating this as a background survey or testbed tracking task. The data products are expected by "in four days" and should be captured "in the morning" to align with the optimal conditions for our mission objectives. This ensures that we utilize satellite resources effectively while adhering to our operational guidelines.

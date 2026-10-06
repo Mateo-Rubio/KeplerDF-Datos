@@ -1,0 +1,23 @@
+**STAGE 1 - REASONING**
+
+To address this task, let's first carefully consider each aspect of the provided metadata:
+
+a) The string found in 'target_day' is "tomorrow." This indicates that the deadline for delivering the data products from the Earth-observation mission is set for the next day.
+
+b) In 'target_diurnal_period', we find the string "overnight." This specifies the timeframe during which the satellite operation is expected to occur, emphasizing that it should happen at night.
+
+c) The specific word from the options provided {morning, mid-day, afternoon, evening, overnight} that appears in the string "overnight" is "overnight." This phrase directly indicates the period of interest for the mission task.
+
+d) The confirmation required here pertains to ensuring there is no alteration of the deadline. The specified target timeframe is explicitly set for "tomorrow," during the "overnight" period. Therefore, there should be no shifting or modification of this timeframe to any other part of the day, maintaining it as strictly "overnight."
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to transform the JSON metadata into a single, natural-sounding English request that fits the mission's guidelines.
+
+Given the sensor type is SAR, the task involves obtaining "microwave surface imaging" suitable for "cloud-penetrating capture," which can pierce heavy weather conditions and capture detailed ground geometry. The location focus is on the city of "Norte," with no specific country or landmark mentioned. 
+
+The priority level of 1 (Low Importance) requires a flexible, opportunistic tone, emphasizing that this is a low-priority task with a schedule that allows for potential rescheduling as needed. This task should be treated as non-essential and could be dropped if it conflicts with higher priority missions.
+
+Considering all the above points, the final request would be:
+
+We need to perform an active radar scan over the city of Norte using microwave surface imaging, ideally capturing cloud-penetrating data that can pierce heavy weather conditions for detailed ground geometry. This task is marked as a low priority importance, allowing a flexible schedule for opportunistic capture. Please note that this operation is a non-essential background filler task, which can be dropped or rescheduled at your convenience. The deadline to deliver the necessary data products is tomorrow during the overnight period.

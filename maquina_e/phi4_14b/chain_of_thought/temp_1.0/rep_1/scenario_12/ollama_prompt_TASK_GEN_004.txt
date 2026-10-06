@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string is "mid-day." This word must appear literally in the final request.
+
+d) The deadline for the task is specified as "tomorrow around mid-day," which means the operation must be completed by this specific time. It should not be shifted to any other part of the day, such as morning, afternoon, or evening.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request for a satellite overpass targeting La Paz, Colombia. This mission involves thermal mapping to capture a heat signature or surface temperature profile in order to detect thermal anomalies and map heat emissions. The operation is part of our baseline pipeline tracking and represents fixed parameters of normal operational status. Please ensure that the data product is delivered by tomorrow around mid-day as per the strict operational deadline.

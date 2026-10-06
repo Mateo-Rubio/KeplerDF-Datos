@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, I need to determine the exact string contained within 'target_day' in the provided JSON context. The string given for 'target_day' is "tomorrow." This implies that the desired deadline for the task is the day following today.
+
+Next, we look at 'target_diurnal_period,' where the string provided is "overnight." This specifies the time of data collection or processing as taking place during nighttime hours when the target location is shrouded in darkness.
+
+For part (c), I must identify which word from the set {morning, mid-day, afternoon, evening, overnight} is contained within the 'target_diurnal_period' string. The word that appears in this string is "overnight." This specifies the specific time frame during which the operation will occur and should be included verbatim in the final request.
+
+Lastly, it is crucial to confirm that I am not altering or shifting the deadline away from what has been explicitly stated. The instruction indicates a strict operational deadline of "tomorrow overnight," which means the task must be carried out and completed by the end of that night. Shifting this deadline to any other part of the day would misalign with the requirement, so I will maintain the original timing as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an opportunistically scheduled VNIR sensor task for Montaquila, Italy. This low priority importance mission aims to perform multispectral vegetation analysis, assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance. Given its classification as a non-essential background filler task, please feel free to drop or reschedule this operation at your convenience. The data should be captured tomorrow overnight, aligning with our flexible schedule for opportunistic captures.
