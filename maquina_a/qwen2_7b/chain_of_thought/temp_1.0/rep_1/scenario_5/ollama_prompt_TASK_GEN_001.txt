@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in that string is "evening", which literally appears within the final request.
+d) The deadline is not being shifted to an adjacent part of the day; it remains as specified by "the day after tomorrow" in the evening.
+
+STAGE 2 - FINAL REQUEST
+
+In view of the operational guidelines, your Earth-observation mission request can be formulated as follows:
+
+Please prioritize our mission for capturing a high-resolution multispectral vegetation analysis on a routine basis at "the day after tomorrow". This standard operational tasking aims to assess the chlorophyll absorption levels and calculate the NDVI index of the plant canopy using the VNIR sensor. Our focus will be exclusively on "in the evening", targeting the most opportune light conditions for this type of analysis.
+
+This task is part of our baseline pipeline tracking setup, utilizing fixed parameters representing normal operational status. Given its importance within the contractual framework and our standard workflow updates, it is essential to secure critical data with minimal delay post capture. The deadline to deliver the data products is set firmly for "the day after tomorrow" in the evening, adhering strictly to our operational schedule without altering, extending, or interpreting the deadline in any way.
+
+With these considerations in mind, the task is deemed of medium importance with flexible scheduling options available for "non-essential background filler tasks". As such, should there be any unexpected circumstances leading to unforeseen delays, it's understood that we will drop or reschedule this mission at our convenience, treating it as a background survey or testbed tracking task.
