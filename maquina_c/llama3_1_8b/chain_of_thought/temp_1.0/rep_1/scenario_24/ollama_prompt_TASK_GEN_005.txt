@@ -1,0 +1,13 @@
+To start with STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string is "evening".
+
+d) Confirming, we are not shifting the deadline to an adjacent part of the day. The target_diurnal_period only specifies the time of day for the task, which remains tied to the target_day deadline.
+
+Moving on to STAGE 2:
+
+...The operator requests a low-priority importance, opportunistic capture for a near-infrared reflection mission to assess vegetation health and detect water body boundaries. The area of interest is located in Norte, with a focus on daylight photography to capture clear optical imagery. The mission requires an urgent and flexible schedule for the background survey, where the operator notes that it's okay to drop or reschedule at convenience if other tasks take priority. The task should be executed in three days, during the evening period, as part of a non-essential background filler task...
