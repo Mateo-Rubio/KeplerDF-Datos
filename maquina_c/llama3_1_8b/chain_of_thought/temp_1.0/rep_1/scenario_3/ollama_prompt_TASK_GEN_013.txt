@@ -1,0 +1,19 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "in four days"
+
+b) The exact string in 'target_diurnal_period' is: "overnight"
+
+c) The single word contained in the string for 'target_diurnal_period' is: "overnight". This will be used in the final request.
+
+d) I confirm that the deadline remains unchanged, and I am not shifting it to an adjacent part of the day. The target day and diurnal period remain as specified in the input metadata.
+
+The priority level of 3 indicates a high importance mission, which implies an urgent operational execution and an un-preemptable mission lock. This requires interpreting the metadata as per the given guidelines.
+
+The 'primary_sensor' is NIR, which translates to near-infrared reflection for "water body boundary mapping" or "soil moisture assessment".
+
+The geographic context combines the 'country', 'city', and 'landmark' fields from 'location_details'. Since the 'landmark' field is "N/A", I will ignore it and describe the location using the clean 'region_name', which is not available in this case. I will use the country and city to describe the location. Therefore, the location is described as Colombia, specifically the area around Santa Rosa del Sur.
+
+STAGE 2 - FINAL REQUEST
+
+We require an absolute institutional priority for a high-priority tasking to capture a near-infrared reflection using overnight imaging over Colombia, specifically the area around Santa Rosa del Sur, in four days.
