@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task requires careful interpretation of the provided JSON metadata into a coherent and natural language request, following specific operational guidelines.
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates that the desired observation or data capture should occur on the day after the current one.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening." This specifies the part of the day during which the observation or task needs to be completed.
+
+c) Out of the set {morning, mid-day, afternoon, evening, overnight}, the word "evening" is present in the 'target_diurnal_period' string. This word will need to be included verbatim in the final operational request.
+
+d) It is crucial to confirm that the deadline is not shifted to another part of the day. The guidelines explicitly state that the relative timeframe indicates a strict operational DEADLINE, and this must be adhered to without any alterations. Therefore, the task should occur tomorrow evening, as specified, with no adjustments to the timing.
+
+### STAGE 2 - FINAL REQUEST
+
+We need to capture near-infrared reflection data focusing on soil moisture assessment over Lebrija in Colombia. This is a standard operational tasking as part of our baseline pipeline tracking, requiring fixed parameters under normal operational status for workflow updates. Please schedule the collection of this data for tomorrow evening, ensuring it fits within our planned satellite operations for that time frame.

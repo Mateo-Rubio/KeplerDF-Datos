@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this task, I will translate the JSON metadata into a conversational English request by following the outlined guidelines.
+
+**a)** The exact string in 'target_day' is "the day after tomorrow." This provides us with the specific time frame for when the data should be delivered, without altering the deadline.
+
+**b)** The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the task needs to occur, which will help in phrasing the request appropriately.
+
+**c)** The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word must appear literally in the final request, ensuring we are clear about the operational timeframe.
+
+**d)** I confirm that I am not shifting the deadline to an adjacent part of the day. The task must occur "the day after tomorrow" during the "overnight" period as specified. This ensures adherence to the strict operational deadline for data delivery, without any adjustments.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request concerning the area around Malinau in Indonesia. Given the flexible schedule for this opportunistic capture, we kindly ask for a task that involves an active radar scan using microwave surface imaging. The goal is to achieve cloud-penetrating capture, ensuring any heavy weather does not impede our ability to gather ground geometry data. While this task is marked as a non-essential background filler, it remains an important part of our broader monitoring strategy. Please proceed with the capture the day after tomorrow during the overnight period. If circumstances arise that require adjustment, feel free to drop or reschedule at convenience, treating this as a background survey or testbed tracking task.

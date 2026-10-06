@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the deadline for obtaining the data products is set for the next calendar day following today.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies a time frame during the daylight hours when the task should be executed, emphasizing a particular moment of the day rather than a broad period.
+
+c) The single word contained in "around mid-day" that must appear literally in the final request is "mid-day." This indicates the optimal time for capturing the required data and must be included verbatim.
+
+d) The instructions clearly state that the temporal parameters represent an operational deadline, not a flexible capture window. Therefore, there should be no alteration or shift to an adjacent part of the day; "around mid-day" on "tomorrow" is non-negotiable.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task concerning the region of Cantù, Italy. This request mandates a critical payload capture using thermal mapping capabilities to detect surface temperature profiles and identify any potential thermal anomalies. Given the high importance of this mission allocation priority, it requires an urgent operational execution with an un-preemptable mission lock. We require the task completion for tomorrow, specifically around mid-day, to ensure timely delivery of the thermal data products as per our binding contract requirement.

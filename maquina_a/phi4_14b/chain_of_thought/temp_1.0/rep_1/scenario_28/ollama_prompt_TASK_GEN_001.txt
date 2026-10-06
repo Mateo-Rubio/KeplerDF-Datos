@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves planning a satellite observation mission with specific parameters detailed in the provided JSON metadata. The mission is to observe a region within Colombia, focusing on the city of Cimitarra. This task employs an SAR (Synthetic Aperture Radar) sensor, which suggests that the goal is to achieve active radar scanning through microwave surface imaging. This technique is beneficial for capturing cloud-penetrating data and mapping ground geometry, particularly effective in conditions where optical imagery might be obstructed.
+
+To translate the given metadata into a coherent request, we first examine the 'target_day' parameter, which explicitly states "the day after tomorrow." This indicates the strict deadline by which the satellite needs to capture the necessary data. It is critical to note that this phrase sets the timeframe for the mission completion and must be adhered to without alteration.
+
+Next, we look at the 'target_diurnal_period' parameter, described as "in the evening." This specification not only guides us on the ideal time of day for data acquisition but also ensures that the mission is aligned with optimal operational conditions. Among the choices of temporal segments such as morning, mid-day, afternoon, evening, and overnight, the term "evening" is explicitly mentioned, marking the time during which the SAR data capture should occur.
+
+The priority level assigned to this task is 1, which designates it as a low-priority importance request. This classification allows for flexible scheduling, indicating that the mission can be adapted or rescheduled based on other operational demands. The phrasing must reflect an opportunistic and non-urgent tone, suitable for a background survey or testbed tracking task that does not require immediate attention.
+
+In ensuring adherence to the operational guidelines, it's vital to confirm that the deadline specified by 'target_day' and 'target_diurnal_period' is not adjusted. The mission must be executed strictly on "the day after tomorrow" during "the evening." This maintains alignment with the critical context that the temporal parameters define a non-negotiable deadline for data delivery, rather than suggesting an orbital capture window.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task involving a satellite observation over Cimitarra, Colombia. This mission employs an active radar scan using microwave surface imaging capabilities to penetrate cloud cover and capture detailed ground geometry. The goal is to perform this cloud-penetrating capture with a flexible schedule, allowing for opportunistic execution as part of our background survey tasks. The data should be acquired on the day after tomorrow, specifically in the evening, when the conditions align optimally for radar operation. Please note that this task can be adjusted or rescheduled at convenience, reflecting its non-essential nature within our standard mission pipeline.

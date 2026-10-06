@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The metadata provided describes an Earth-observation task for the region of Chivatá, Colombia, with specific operational requirements.
+
+a) The exact string in 'target_day' is "in three days". This indicates a clear deadline for the delivery of data products.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word contained in 'target_diurnal_period' is "afternoon". This word must appear literally in the final request to accurately describe the timing of the observation.
+
+d) The task requires strict adherence to the specified deadline without any shifts or reinterpretation. Therefore, the observation should occur specifically in the afternoon, three days from now, and not at any other time of day.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority with a binding contract requirement for a critical payload capture involving multispectral vegetation analysis. We need a VNIR sensor task to assess chlorophyll absorption levels in Chivatá, Colombia. The mission allocation is un-preemptable, ensuring an urgent operational execution with a mandatory directive to deliver high-resolution multispectral data. This data must be captured during the afternoon, in three days, without deviation from the set timeline, reflecting the critical nature of this observation task.

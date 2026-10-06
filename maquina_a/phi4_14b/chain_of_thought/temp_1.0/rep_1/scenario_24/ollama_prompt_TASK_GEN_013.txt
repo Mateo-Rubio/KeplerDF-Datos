@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves determining the specific requirements for an Earth-observation mission targeting a location in Colombia. First, we'll address each of the four key questions outlined:
+
+a) The string provided under 'target_day' is "in three days." This indicates that the deadline for delivering data products is set for exactly three days from now.
+
+b) The string for 'target_diurnal_period' is "in the morning." This specifies the preferred time of day for capturing the desired imagery or data, focusing on the early hours when light conditions are optimal for certain types of observations.
+
+c) Within the 'target_diurnal_period' string, the word "morning" is explicitly mentioned. This word will be directly incorporated into the final operational request to ensure clarity about the timing of the mission execution.
+
+d) It's important to confirm that we're not altering or shifting this deadline timeframe. The specified "in three days" remains strict, and capturing data "in the morning" means we are precisely aligned with the given time frame without any shifts to other parts of the day, such as the afternoon or evening. The deadline is non-negotiable and must be adhered to exactly as stated.
+
+**STAGE 2 - FINAL REQUEST**
+
+This task request involves an absolute institutional priority for a mission over Melgar, Colombia, necessitating an urgent operational execution with an un-preemptable mission lock. We require a critical payload capture using multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This high-importance directive demands the delivery of data products precisely in three days, specifically targeting the observations to be conducted in the morning to ensure optimal conditions for the sensor's capabilities.

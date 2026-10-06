@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "today". This indicates that the mission must be completed by the end of the current day.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening". This phrase indicates when within today's timeline the data capture should occur.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears literally in this string is "evening". This precise term must be included in the final request to maintain the operational timing integrity.
+
+d) It is crucial to confirm that I am not altering or adjusting the deadline to any other part of the day. The instruction specifically requests data capture "in the evening" on "today". Thus, no changes or shifts are made, ensuring adherence to the specified timeframe and deadline for execution.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an Earth-observation task aimed at capturing thermal mapping data over Kapuas, Indonesia, utilizing TIR capabilities. Given the flexible schedule associated with this low-priority task, we ask that you attempt to capture this as an opportunistic task in the evening today. This mission involves mapping the heat signature and creating a surface temperature profile, which could help in identifying any thermal anomalies. While it is not critical or time-sensitive, please note that this request can be rescheduled or dropped at your convenience, functioning as a background survey to complement other operations.

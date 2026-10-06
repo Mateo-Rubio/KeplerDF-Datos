@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+**a)** The exact string in 'target_day' is "in four days".
+
+**b)** The exact string in 'target_diurnal_period' is "in the morning".
+
+**c)** The single word contained in that string from the list {morning, mid-day, afternoon, evening, overnight} is "morning". This word must appear literally in the final request.
+
+**d)** The deadline specified is strictly "in four days" and "in the morning". There is no indication or allowance to shift this deadline to any other part of the day, such as mid-day, afternoon, evening, or overnight. The operational context requires adhering to this specified timeframe without alteration.
+
+### Stage 2 - Final Request
+
+I am submitting a standard operational tasking for a multispectral vegetation analysis over the region in Prati di Tivo, Italia. This involves using near-infrared reflection to evaluate chlorophyll absorption levels and compute a vegetation NDVI index, aligning with our baseline pipeline tracking. The data capture must be completed in four days, specifically in the morning. Please ensure this routine monitoring task is scheduled within these fixed parameters as part of our standard workflow update.
