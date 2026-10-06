@@ -1,0 +1,10 @@
+As an Earth-observation mission operator, I'm tasked with translating raw physical simulation metadata into a single, highly realistic, and conversational English request for an automated satellite constellation planner. Given the provided JSON format and operational guidelines, my request is structured as follows:
+
+For our "Low Importance" Priority 1 task, involving the observation of Indonesia's Sekadau city using the Near-Infrared (NIR) sensor, we aim to gather data on water body boundaries and soil moisture assessment for tomorrow in the morning. This "flexible schedule" low priority importance request treats it as a "background survey" or "testbed tracking task". Our objective is to capture this information without urgency, as "opportunistic capture" suits the nature of this task best.
+
+To maximize naturalness and validation accuracy:
+1. GEOGRAPHIC CONTEXT: We describe the location based on available data, acknowledging that while both country and city are provided, we choose to focus on Indonesia since Sekadau city details are not pertinent.
+2. MISSION ALLOCATION PRIORITY: We interpret Priority 1 as an "absolute institutional priority" or a "binding contract requirement", emphasizing this low importance request with language that aligns with its structural hierarchy.
+3. SENSORS AND PHYSICAL OBJECTIVES: The use of the Near-Infrared sensor is explained as essential for "near-infrared reflection" to map water body boundaries and assess soil moisture levels, which can help in distinguishing various gradients.
+
+In conclusion, our goal is to support operational activities by providing detailed thermal mapping capabilities using this sensor. Our deadline for this task has been determined internally, requiring that the data become available tomorrow in the morning, without altering this predefined upper limit for data availability.

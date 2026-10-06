@@ -1,0 +1,18 @@
+Translate my urgent operational requirements to make a high-priority mission allocation. As an Earth-observation mission operator interfacing with a satellite constellation planner, I need to craft the request in conversational English based on the raw JSON metadata provided for optimal data delivery and validation accuracy.
+
+Our objective involves capturing detailed information about the observation region which is situated in "Italia" with the city being "Norte". We'll interpret the location details using the realistic combination of country, city, and landmark fields when available; however, if "N/A" occurs, we will describe the location using alternative valid fields or solely based on "region_name".
+
+Aiming for absolute institutional priority with a critical payload capture as part of our baseline pipeline tracking setup and a mandatory directive, this is an un-preemptable mission lock. The request pertains to a high-resolution optical snapshot of a high-level urban development project happening in "Norte", Italy, capturing daylight photography for clear optical imagery, true-color visual documentation of architectural progress with maximum details.
+
+Using our Thermal Infrared (TIR) sensor, we are tasked with a thermal mapping operation for this specific region. This involves capturing heat signatures, mapping surface temperatures, and conducting thermal anomaly detection for urban heat islands or industrial activity patterns. We are to deliver this data "in four days in the morning", inserting this phrase verbatim into our request as the stated upper limit for data availability.
+
+With no rephrasing, shortening, or moving it to a different part of the day, this timeframe is critical for our operational plan. The delivery deadline should be inserted inside quotes like: "in four days in the morning".
+
+Let's translate these details with care and precision:
+
+--- Operator Request ---
+As per the upstream module's resolution, we request satellite data acquisition of an urban development site in Northern, Italy on our specified day. Due to its high importance (Priority Level 3), it falls under critical payload capture for a baseline pipeline tracking requirement. This task demands capturing daylight imagery with clarity, serving as visual documentation of architectural progress and urban growth. The primary sensor used is the TIR, enabling thermal mapping operations that include heat signature assessment, surface temperature profiling, and thermal anomaly detection to provide detailed analysis of thermal patterns.
+
+With the delivery deadline set for "in four days in the morning", the data should capture the site's state accurately at this specific time to meet our urgent operational needs. Please coordinate satellite assets to prioritize this mission lock for a seamless capture without delays or preemption as per our contractual obligations and institutional priority.
+
+--- End Operator Request ---
