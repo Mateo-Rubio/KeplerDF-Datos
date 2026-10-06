@@ -1,0 +1,11 @@
+Operating an Earth-observation mission operator submission to an automated satellite constellation planner, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request for tomorrow's evening data collection.
+
+I request to gather a "low priority importance" multispectral vegetation analysis using the VNIR sensor in Indonesia, specifically within the equatorial region. Despite having no details on country specifics like city or landmarks, I describe this area as Ecuatorial, aiming to capture "flexible schedule" data that can serve as a "background survey" for assessing chlorophyll absorption levels and calculating vegetation's NDVI index.
+
+This request doesn't require any specific urgency due to its low priority level. Although it falls under a "non-essential background filler task", it is still acknowledged with an explicit note to "drop or reschedule at convenience". Therefore, the operator treats this as an opportunistic capture for "background survey" purposes.
+
+As per the operational guidelines, I emphasize the goal of this mission without using raw technical system tags, underscores, or coordinate arrays. The final request integrates natural language interpretation of keys such as 'region_name' and nested 'location_details', translating them into a realistic context that combines country with the remaining valid fields or the clean 'region_name'.
+
+Given that the deadline for this task has already been determined by an upstream module and is "tomorrow in the evening", this phrase is inserted verbatim into the request as the stated upper limit for data availability, maintaining consistency without rephrasing or altering its time specifics.
+
+In conclusion, this Earth-observation mission operator has submitted a low-priority background survey task to gather VNIR multispectral data on Indonesia's equatorial region for tomorrow's evening data collection.

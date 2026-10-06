@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit the following task request to the automated satellite constellation planner. The geographical context involves Indonesia, with a particular focus on the city of Pekanbaru—a vibrant and bustling metropolis. This task, categorized under priority level 2 (medium importance), is essential for standard operational tasks.
+
+Our objective is to capture detailed data using a Near-Infrared (NIR) sensor, which will provide us with crucial insights into water body boundaries and soil moisture assessment. The physical phenomenon we aim to observe includes mapping the exact locations of water bodies and assessing soil moisture levels, critical information for agricultural planning and environmental monitoring.
+
+The mission allocation prioritizes the "standard operational tasking", establishing fixed parameters that represent our normal operational status or a routine part of our baseline pipeline tracking setup. We understand this request as an integral component of our workflow update, emphasizing the importance of adhering to established protocols and guidelines.
+
+We anticipate delivering this dataset on the day after tomorrow in the morning, adhering to the upper limit for data availability set by the upstream module. This deadline underscores our commitment to timely delivery while ensuring the quality and reliability of our observations.
+
+As per our guidelines, we combine the JSON parameters naturally, avoiding raw technical system tags or coordinate arrays. We describe the location using realistic combinations of country and city fields, gracefully ignoring "N/A" values with the region_name if necessary. 
+
+In summary, this task request is for a routine monitoring activity targeting Pekanbaru, Indonesia, involving the use of a Near-Infrared sensor to gather data on water bodies and soil moisture assessment, following standard operational procedures and deadlines.
