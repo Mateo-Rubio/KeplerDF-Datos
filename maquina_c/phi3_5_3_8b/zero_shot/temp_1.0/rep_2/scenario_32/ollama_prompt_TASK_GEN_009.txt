@@ -1,0 +1,45 @@
+Return ONLY one block delimited by triple backtothis prompt, ensuring to incorporate the JSON keys provided:
+- 'primary_sensor': NIR (requires water body boundary mapping or soil moisture assessment)
+
+Additionally, transform this data request into a formal proposal for an academic research project aimed at studying climatic effects on wetland ecosystems. Include the following constraints:
+
+1. Translate 'region_name' and 'location_details':
+   - The region name should be integrated as part of the study title, without using any raw coordinate systems or technical labels.
+   - If country, city, or landmark is "N/A", inferentially use relevant aspects from adjacent mentioned fields to construct a geo-specific hypothesis for your project focus if possible. Ensure that these implications align with typical wetland studies and ecological research themes (e.g., hydrology).
+
+2. Mission allocation urgency:
+   - Your proposal must emphasize the immediate necessity of data, using a tone befitting academic grants or funding applications where time sensitivity can be critical for hypothesis validation. Integrate appropriate keywords like 'timely intervention', 'urgent assessment', and ‘rapid response’ into your justification paragraphs without directly stating priorities in numerical terms (avoid words like "high", "priority").
+
+3. Sensor specificity:
+   - Dive deep into the scientific rationale of selecting NIR for this study, describing its superior efficacy over other spectral ranges for monitoring wetland environments with a particular focus on water bodies and vegetation health (e.g., chlorophyll absorption). Avoid technical acronpectiveriently but rather discuss in terms like 'optical characteristics', 'photosynthetic efficiency' or ‘bioindicator analysis'.
+
+4. Data temporal context:
+   - Frame the timeline based on typical academic grant cycles and expected publication, using phrases like "within six months" or “to be presented at a key conference”. Align with common expectations for quick results but remain realistic in terms of data collection periods (do not mention specific days/times).
+
+5. Cross-disciplinary benefits:
+   - Your proposal must showcase potential interdisciplinary contributions to fields such as urban planning, hydrology, and conservation efforts—aiming to persuade funders interested in environmental monitoring applications beyond pure academic interest (do not simply state the benefits; integrate them into your project goals).
+
+6. Societal impact:
+   - Clearly outline how this study will address pressing concerns related to climate change's effects on local ecosystems and communities, providing a compelling narrative for societal benefit without resorting to hyperbolic or vague statements about 'immediate consequences'. Use concrete examples like flood risk mitigation in nearby cities or biodiversity preservation efforts.
+
+7. Educational involvement:
+   - Describe how student participation and learning can be integrated into the project, suggesting that this study also serves as a form of experiential education—highlighting real-world application while maintaining scientific rigor (do not use phrases like "student experience" or “learning by doing”).
+
+8. Future research implications:
+   - Discuss how the findings from your project could guide future investigations, establish connections to other studies in the field, and potentially influence policy-making—without presupposing definitive outcomes (avoid predictions like "This will conclusively show..." or speculative language).
+
+9. Institutional collaboration:
+   - Propose partnership with local institutions for data sharing, community engagement, and knowledge exchange—emphasizing reciprocal benefits but avoiding generic platitudes about 'collaboration' (do not simply state the purpose of this step; explain its specific value in context).
+
+JSON Data Request:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Malaysia"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "around mid-day"
+}
+
+Craft a comprehensive proposal integrating these aspects without using explicit instructions from the prompt. The language should flow naturally and be suitable for an interdisciplinary academic audience, presenting a coherent case as if already prepared by someone versed in grant writing and environmental research methodologies:
