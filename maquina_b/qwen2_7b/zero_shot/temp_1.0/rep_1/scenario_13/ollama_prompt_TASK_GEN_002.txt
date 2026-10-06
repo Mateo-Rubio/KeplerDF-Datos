@@ -1,0 +1,13 @@
+Given the operational guidelines, let's craft a natural user request for this specific Earth observation task:
+
+---
+
+"Good day, Satellite Constellation Operator! We've requested your assistance to carry out a routine monitoring task of great importance at our facility located in Moncalieri, Italy. This mission will involve capturing the thermal map of our area using multispectral vegetation analysis (VNIR sensor) on day four, specifically early morning by our local time.
+
+This task is considered low priority importance and operates as a flexible schedule background filler task with normal operational status; however, we acknowledge the importance of timely delivery. We aim to deliver the data products through your pipeline ingesting them before the set deadline by four days in the morning, as specified in our target day parameter.
+
+Thank you for your attention and understanding regarding this non-essential background survey task."
+
+--- 
+
+The language used adheres to operational guidelines, combining location details naturally while ignoring the 'city' field due to it being "N/A", interpreting sensor objectives using specific operational phrases, aligning timeframes to the operational deadline without altering or extending it.
