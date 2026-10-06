@@ -1,0 +1,10 @@
+STAGE 1
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+b) The exact string in 'target_diurnal_period' is: "overnight"
+c) The word contained within that string, which must appear literally in the final request, is: overnight
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+On the day after tomorrow, our Earth observation mission will focus on an overnight satellite capture. We aim for a thermal mapping mission with our TIR sensor to capture heat signatures during this specific time period. While the 'target_day' parameter represents a strict deadline, not a window for orbital capture, we are tasked to deliver thermal data products collected at night. This task is labeled as having low priority importance, meaning it can be accommodated within our baseline pipeline tracking with fixed parameters representing normal operational status. The target overnight period will allow us to conduct an efficient 'non-essential background filler task' which serves as a 'testbed tracking task'. Please note that due to its low priority, this mission might be rescheduled or dropped if more urgent tasks require priority attention.
