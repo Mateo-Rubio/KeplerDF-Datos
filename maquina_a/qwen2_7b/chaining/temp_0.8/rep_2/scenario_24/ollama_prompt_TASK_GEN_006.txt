@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The provided JSON includes details on the geographical context, priority level, primary sensor, and delivery deadline for our task.
+
+The geographic context involves capturing an optical snapshot from Indonesia, specifically in Kabupaten Padang Lawas Utara, combining country and city names naturally without technical system tags or coordinate arrays. The request is categorized under "medium importance" with a priority level of 2, denoted as a "standard operational tasking" part of a "baseline pipeline tracking" setup.
+
+The primary sensor indicated is "NIR," for which our goal is to map near-infrared reflection for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients, aiming for a detailed "background survey" in daylight photography.
+
+With the deadline set for "tomorrow in the morning," we ensure that this phrase remains verbatim, establishing the upper limit for data availability without rephrasing or altering the time frame. Integrating these elements, our request is as follows:
+
+"Please allocate the satellite constellation to capture near-infrared reflection from the region of Indonesia's Kabupaten Padang Lawas Utara in daylight photography tomorrow morning for water body boundary mapping or soil moisture assessment purposes, as part of a standard operational tasking."
+
+This request reflects the natural interpretation of the metadata guidelines while maintaining clarity and operational phrasing suitable for automated satellite constellation planners. The emphasis on daylight photography is crucial given the sensor's capability to assess the environment in varying conditions, aligning with our "medium importance" categorization.
