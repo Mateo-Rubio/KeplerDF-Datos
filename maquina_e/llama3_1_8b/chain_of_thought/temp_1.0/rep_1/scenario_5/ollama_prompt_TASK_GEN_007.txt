@@ -1,0 +1,14 @@
+Let's go through the reasoning stage.
+
+a) The exact string in 'target_day' is: "tomorrow"
+
+b) The exact string in 'target_diurnal_period' is: "in the evening"
+
+c) The single word that appears in 'target_diurnal_period' is: "evening"
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The target day is still tomorrow, as specified in 'target_day'.
+
+Now, let's move on to STAGE 2.
+
+```prompt
+We require a high-resolution optical snapshot for daylight photography using the VIS sensor over Colombia. Specifically, we need to capture clear optical imagery of this location, which includes the country of Colombia. This task is considered a low priority importance request with a flexible schedule for opportunistic capture. The data products should be delivered tomorrow in the evening, as per our operational deadline. Please ensure that this task is executed as a background survey, and drop or reschedule at convenience if necessary.

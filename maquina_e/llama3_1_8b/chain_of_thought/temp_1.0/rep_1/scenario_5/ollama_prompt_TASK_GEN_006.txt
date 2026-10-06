@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight".
+
+d) Confirming that we are not shifting the deadline to an adjacent part of the day, as the target diurnal period explicitly states "overnight", which means the deadline is still the same.
+
+STAGE 2 - FINAL REQUEST
+
+We require a low-priority importance task with a flexible schedule for opportunistic capture. The mission has a flexible schedule and should drop or reschedule at convenience if necessary, treating this as a background survey task. We need to collect a high-resolution optical snapshot using VIS sensors in four days, specifically overnight.

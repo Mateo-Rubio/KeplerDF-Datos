@@ -1,0 +1,14 @@
+I'll work through the four questions in order.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in that string is "mid-day".
+
+d) I am not shifting the deadline to an adjacent part of the day. The original deadline is specific to the "target_diurnal_period" being "around mid-day", which implies a flexible timing within that period, rather than a shift to a different time.
+
+Now I'm ready for STAGE 2.
+
+```prompt
+We require a routine monitoring task as part of a commercial tasking and baseline pipeline tracking setup with fixed parameters representing normal operational status. The standard workflow update will involve capturing a high-resolution near-infrared reflection for water body boundary mapping and soil moisture assessment in the region of Rheinwald, Switzerland around mid-day in four days.

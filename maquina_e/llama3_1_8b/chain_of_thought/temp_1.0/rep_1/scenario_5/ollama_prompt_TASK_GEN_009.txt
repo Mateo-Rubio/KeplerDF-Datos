@@ -1,0 +1,13 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in the 'target_diurnal_period' string is "evening".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are interpreting the temporal parameters as a strict operational deadline to deliver the data products, not the orbital capture window.
+
+Now moving on to Stage 2: 
+
+...The mission planners are requested to allocate a non-essential background filler task with a flexible schedule for opportunistic capture, treating it as a "background survey" or "testbed tracking task". The target location is Indonesia, specifically the city of Berau. The goal is to capture a "thermal mapping" of the area using an active thermal scan, capturing a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. The data must be delivered by "the day after tomorrow in the evening".
