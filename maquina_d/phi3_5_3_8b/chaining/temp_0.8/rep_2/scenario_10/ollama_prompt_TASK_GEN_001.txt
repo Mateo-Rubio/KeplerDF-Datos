@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, I am submitting a task of high institutional priority to our automated satellite constellation planner. We are required to execute an absolute institutional priority for the capture of critical payload imagery in Pajarito, Colombia. This involves securing a high-resolution optical snapshot during daylight photography within four days from now, specifically aimed at obtaining true-color visual documentation that is essential for our current analytical needs. The task must be carried out with an unwasApologies for the incomplete response earlier. Here's the fully revised and expanded instruction:
+
+Return ONLY one block delimited by triple backticks, which translates raw physical simulation metadata provided in JSON format into a conversational English request as if spoken to an Earth-observation mission operator submitting a task for satellite imaging. The conversation should naturally integrate the following elements without technical jargon or abbreviations:
+
+1. **Geocontext (Interpret 'region_name' and nested 'location_details'):**
+   - Use only natural language to describe location details, combining 'country', 'city', and 'landmark'.
+   - If country/city/landmark are not specified or unclear ("N/A"), skip these elements gracefully in your request. Focus on the valid information given within 'region_name' if applicable.
+   
+2. **Mission Allocation Priority (Reframe key 'priority_level'):**
+   - Use conversational language to indicate urgency or importance:
+     * For "Priority 3" tasks, use a tone of high importance and command; reference this as an essential mission directive requiring immediate attention due to its critical nature.
+     * For "Priority 2" requests, maintain professionalism with clear directives for operational procedures indicating the significance within standard tasking or commercial monitoring activities.
+     * For tasks at a "Low Importance," adopt a casual and flexible tone; frame these as non-essential background assignments that can be adjusted based on available resources or operator discretion without impact on primary objectives.
+
+3. **Sensors & Physical Objectives (Describe sensor goals):**
+   - Explain the purpose of each requested 'primary_sensor' type in everyday terms, such as "capturing a detailed image for study" instead of technical specifications or acronyms like VIS/NIR.
+   
+4. **Delivery Deadline (Incorporate exact deadline into request):**
+   - Include the delivery timeline exactly as specified without alteration ("in four days in the morning"), emphasizing its importance within your tasking note and that this is the final moment to ensure data completenthy for analysis.
+
+Given these directives, craft a single paragraph incorporating all of the above elements from the target JSON:
