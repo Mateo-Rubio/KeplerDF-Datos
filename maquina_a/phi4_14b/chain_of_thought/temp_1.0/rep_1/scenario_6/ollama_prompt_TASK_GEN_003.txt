@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating raw metadata from a JSON format into an understandable English request for an Earth-observation mission operator.
+
+a) The exact string provided in 'target_day' is "the day after tomorrow." This indicates when the data delivery deadline falls, ensuring that the capture or collection is aligned with this specific time frame.
+
+b) The 'target_diurnal_period' is specified as "overnight." This detail is crucial for understanding when during the 24-hour cycle the data collection should occur, which in this case is during nighttime hours.
+
+c) The single word contained in the string 'target_diurnal_period' that matches from the provided options is "overnight." This period specifies that the observation must happen at night, thus capturing conditions or phenomena unique to these hours.
+
+d) It is imperative not to shift the deadline or alter it to any other part of the day. The data collection and subsequent delivery must adhere strictly to "the day after tomorrow" during the "overnight" timeframe. This ensures the request's integrity and relevance to operational needs, particularly when capturing specific phenomena that occur or are best observed at night.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for opportunistic capture, aiming for a thermal mapping mission over Malinau, Indonesia. This task involves capturing the heat signature and surface temperature profile of the area using thermal infrared technology. Although it is treated as a non-essential background filler task, please consider this for inclusion in your planning and note that you can drop or reschedule at convenience if necessary. The data products should be delivered by "the day after tomorrow," and the collection will occur overnight to provide the most accurate heat emission mapping possible under those conditions. This approach helps us maintain a comprehensive thermal anomaly detection dataset even as our primary focus remains on more urgent operations.

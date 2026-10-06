@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's break down the task context step by step:
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This indicates when the data delivery deadline is, not when the satellite capture should occur.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This defines the time of day that the observation should ideally be made or aligned with, to suit operational needs.
+
+c) Out of the options provided (morning, mid-day, afternoon, evening, overnight), the single word contained in the 'target_diurnal_period' string is "morning." Therefore, this is the part of the day we must refer to when drafting our final request.
+
+d) We need to ensure that we are not altering the given deadline by shifting it to another time of day. The temporal instructions provided dictate a strict deadline, meaning we should adhere to "the day after tomorrow" and ensure our task aligns with "in the morning." This confirms we are not extending or modifying the timeframe for any other period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an opportunity to capture a low priority observation of Premilcuore in Italia using high-resolution optical snapshots. The goal is to provide clear optical imagery and true-color visual documentation, with a flexible schedule that allows for opportunistic capture. This task is not essential and can be dropped or rescheduled at convenience. We aim to deliver these observations the day after tomorrow, in the morning, as part of our background survey efforts.

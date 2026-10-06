@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+To create a realistic task request for an Earth-observation mission operator, let's begin by analyzing the given JSON metadata for any temporal and operational details.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specific phrasing provides us with a clear timeframe, indicating when the data should be collected and delivered.
+
+b) For 'target_diurnal_period', the string provided is "overnight." This implies that the operation will occur during nighttime hours when visibility is low or non-existent for optical sensors, but active sensors like the one specified can still function effectively.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "overnight." This term precisely defines when the task should take place, and it will be explicitly mentioned in the final request to ensure there's no ambiguity about the timing.
+
+d) It's crucial to confirm that we are not shifting the deadline to a different part of the day. The metadata specifies an "overnight" operation "the day after tomorrow." Therefore, the task must be executed specifically during this overnight period, adhering strictly to these parameters without any adjustment to adjacent times such as morning or afternoon.
+
+With these insights, we have a clear understanding of when and how to request the mission based on the metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+This mission is an absolute institutional priority and falls under a binding contract requirement involving a critical payload capture. We need a near-infrared reflection scan for the purpose of water body boundary mapping over Campagnatico, Italy. The operation must be conducted the day after tomorrow, specifically during the overnight hours. This task is un-preemptable with an urgent operational execution necessary to fulfill this mandatory directive. Please ensure that all resources are allocated and aligned to meet this critical deadline.

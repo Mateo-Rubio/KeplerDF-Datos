@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this task, I need to interpret the given JSON metadata for a satellite observation mission.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This provides a clear deadline for when the data collection must be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates the specific time frame during which the satellite should perform the observation.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string 'target_diurnal_period' is "overnight." This word will be used literally in the final request to specify the time of the observation.
+
+d) It's important to confirm that I am not shifting the deadline to an adjacent part of the day. The specified period is strictly "overnight," and this should be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task request for an Earth-observation mission focusing on Borgo San Lorenzo, Italy. This is a low-priority importance request with a flexible schedule for opportunistic capture, fitting as a non-essential background filler task that can be dropped or rescheduled at convenience. The primary goal is to conduct multispectral vegetation analysis using VNIR sensors, aiming to assess chlorophyll absorption levels and calculate the NDVI index. The data collection should occur overnight, on the day after tomorrow.

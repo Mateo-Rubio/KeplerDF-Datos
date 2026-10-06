@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in 'target_diurnal_period' is "morning." This word should appear literally in the final request.
+
+d) The task explicitly states the diurnal period as "in the morning," ensuring that the deadline remains fixed and is not shifted to any adjacent part of the day. The request must adhere strictly to capturing data during this specified time.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for our satellite constellation involving routine monitoring of the city of Arsiero in Italy. This commercial tasking is part of our baseline pipeline tracking, using fixed parameters to maintain normal operational status. The mission involves a multispectral vegetation analysis using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please ensure this data is captured in four days, specifically in the morning, as this timing represents a strict operational deadline for delivering the data products.

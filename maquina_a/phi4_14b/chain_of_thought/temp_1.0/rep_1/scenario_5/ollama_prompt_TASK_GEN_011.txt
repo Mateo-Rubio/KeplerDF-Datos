@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "tomorrow."
+
+b) The exact string found in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the list {morning, mid-day, afternoon, evening, overnight} is "morning." This word must be included literally in the final request.
+
+d) It is crucial to ensure that the deadline specified in the metadata is not altered or shifted. The metadata specifies a strict operational deadline of "tomorrow in the morning," and this must remain as stated without any adjustment to an adjacent part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We require a routine monitoring task to be scheduled over Norte, Italy, for a fixed parameters operational update. Specifically, we need near-infrared reflection imagery aimed at soil moisture assessment or water body boundary mapping. This request is part of our baseline pipeline tracking setup, reflecting standard operational status. Please ensure the data acquisition takes place tomorrow in the morning to align with our planned workflow update schedule.
