@@ -1,0 +1,11 @@
+Translate the metadata into a natural English request to submit to the satellite constellation planner for an Earth-observation mission task. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+Based on the operational guidelines, we will now translate the given JSON metadata as follows:
+
+The location of interest is in Borgo Valsugana, Italy. Our primary objective is to capture a high-resolution optical snapshot of the region for daylight photography, clear optical imagery, or true-color visual documentation using the VNIR sensor.
+
+Given the mission allocation priority, this is an absolute institutional priority and a binding contract requirement involving a critical payload capture. We require urgent operational execution and an un-preemptable mission lock, with a strict delivery deadline set for the day after tomorrow overnight at the latest.
+
+Therefore, we request the following task to be allocated to the satellite constellation:
+
+"Please allocate a high-priority task to capture a multispectral vegetation analysis using VNIR sensor in Borgo Valsugana, Italy. We need this data by the day after tomorrow overnight at the latest to ensure critical payload capture and meet our contractual obligations."
