@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating mission metadata into a conversational English request. I'll proceed through the operational guidelines to achieve this.
+
+a) The 'target_day' in the JSON data is specifically given as "the day after tomorrow." This is a clear indication of when the data capture should be completed, representing the strict operational deadline for delivering the data products.
+
+b) The 'target_diurnal_period' in the metadata is defined as "in the evening." This indicates the specific time during the day that the task should ideally be executed to meet operational objectives.
+
+c) From the provided string "in the evening," the single word that matches the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word must appear in the final request as it specifies the exact time of day for the data capture.
+
+d) It is crucial to confirm that I am adhering to the original deadline without altering or shifting it. The temporal parameters provided specify "the day after tomorrow" and "in the evening," so these details must remain unchanged in the final request. This ensures compliance with the strict operational deadline without any reinterpretation.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task request for a low-priority importance mission aimed at capturing near-infrared reflection data over the Norte region, primarily focusing on soil moisture assessment or water body boundary mapping. This is a non-essential background filler task with a flexible schedule, where we can drop or reschedule it at convenience, making it a perfect background survey. Please ensure this task is scheduled for the day after tomorrow, ideally in the evening, to complete our routine workflow update and standard operational tasking objectives.

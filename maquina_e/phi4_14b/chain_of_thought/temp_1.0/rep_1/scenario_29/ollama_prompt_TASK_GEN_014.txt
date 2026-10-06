@@ -1,0 +1,9 @@
+**STAGE 1 - REASONING**
+
+To begin with, let's determine the exact string for 'target_day'. According to the JSON metadata, 'target_day' is "tomorrow". Next, we need to identify the exact string for 'target_diurnal_period', which is "in the morning". The task requires us to pinpoint a specific time of day from this string. Comparing it against our set options {morning, mid-day, afternoon, evening, overnight}, the word "morning" is explicitly contained within "in the morning".
+
+Having established that the deadline is for "tomorrow in the morning", we need to ensure that there is no deviation or adjustment of this deadline to any other time. The task's operational context stresses a strict adherence to this timeframe without any shift, extension, or reinterpretation of the deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a critical payload capture over Northern Italy using an active radar scan for cloud-penetrating capture and microwave surface imaging. This mission is bound by a mandatory directive for an urgent operational execution with an un-preemptable mission lock, scheduled for tomorrow in the morning.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's break down the task request based on the provided JSON metadata:
+
+a) The exact string found in 'target_day' is "in four days". This specifies when the data collection should be completed, indicating a deadline for delivering the results.
+
+b) The 'target_diurnal_period' contains the exact string "overnight". This tells us the specific time frame during which the data capture should occur.
+
+c) The word contained within the string "overnight" that matches our list of {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will need to be used literally in our final request to clearly specify the timing.
+
+d) It's important to confirm that we are not altering the deadline specified by "in four days overnight". This means the data capture must happen specifically during the overnight period four days from now, without shifting it to any other time of day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority importance task with a flexible schedule for opportunistic capture. Please consider this as a non-essential background filler task that can be dropped or rescheduled at your convenience. The objective is to perform a high-resolution optical snapshot using visible light imagery over Ponte, Italy. The mission should be completed in four days, specifically overnight, capturing clear optical imagery of the area. This request is part of a routine monitoring effort and involves standard workflow updates.
