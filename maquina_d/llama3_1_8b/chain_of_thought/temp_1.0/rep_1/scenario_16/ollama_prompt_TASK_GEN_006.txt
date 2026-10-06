@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in that string is "overnight". I will use this word in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The "target_day" and "target_diurnal_period" parameters represent a strict operational deadline to deliver the data products, and I will include these verbatim in the final request without altering or extending it.
+
+STAGE 2 - FINAL REQUEST
+
+Please conduct routine monitoring using multispectral vegetation analysis with the near-infrared reflection sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance over Mulya Bakti, Indonesia, by delivering the data products in three days overnight.

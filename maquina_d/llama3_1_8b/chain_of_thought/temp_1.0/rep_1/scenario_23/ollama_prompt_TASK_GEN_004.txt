@@ -1,0 +1,13 @@
+Translate this JSON metadata into a realistic operational request:
+  {
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Cubarral"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Objective: Obtain a high-resolution thermal map of Cubarral, Colombia, by conducting an active thermal scan using microwave surface imaging to capture a heat signature and surface temperature profile. This is an absolute institutional priority, as it represents a critical payload capture to support a binding contract requirement. The data must be delivered on the day after tomorrow in the morning.

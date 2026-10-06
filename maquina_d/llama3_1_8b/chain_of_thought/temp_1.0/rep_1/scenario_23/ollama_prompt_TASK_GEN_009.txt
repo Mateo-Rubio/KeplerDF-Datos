@@ -1,0 +1,15 @@
+Here's the reasoning for STAGE 1:
+
+The target task context JSON provides the following information:
+
+a) The exact string in 'target_day' is: "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is: "in the morning".
+
+c) Among the options, only "morning" is contained in the string "in the morning". This word will be used in the final request.
+
+d) The deadline mentioned in 'target_day' and 'target_diurnal_period' is not being shifted to an adjacent part of the day. The request is asking for a capture on the day after tomorrow, specifically in the morning, which adheres to the original deadline.
+
+Moving on to STAGE 2, here's the final request:
+
+...We require a standard operational tasking involving a high-resolution optical snapshot using multispectral vegetation analysis to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. This is a critical payload capture and binding contract requirement, thus it is an absolute institutional priority with an urgent operational execution. We need this data product on the day after tomorrow, specifically in the morning...

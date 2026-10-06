@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word that appears in the string is "morning".
+
+d) Upon reviewing the task context, I confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters are intended to represent a strict operational deadline to deliver the data products, and I will integrate these parameters into the request without alteration.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Obtain a multispectral near-infrared reflection for near-water body boundary mapping and soil moisture assessment, targeting Indonesia, specifically Kutai Kartanegara, tomorrow in the morning, as part of a standard operational tasking for routine monitoring within a baseline pipeline tracking setup with fixed parameters representing normal operational status.

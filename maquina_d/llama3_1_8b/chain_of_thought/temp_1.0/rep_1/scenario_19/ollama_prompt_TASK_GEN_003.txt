@@ -1,0 +1,14 @@
+Let's go through the reasoning for STAGE 1.
+
+a) The exact string in 'target_day' is: "in three days"
+
+b) The exact string in 'target_diurnal_period' is: "overnight"
+
+c) The single word contained in that string is: overnight
+
+d) No, we are not shifting the deadline to an adjacent part of the day. The target day and diurnal period indicate a specific timeframe within the next three days, but the exact timing is still within the range of one to three days, depending on the context.
+
+Now, moving on to STAGE 2:
+
+```prompt
+We require an absolute institutional priority for the thermal mapping of Indonesia, specifically focusing on the Ecuatorial region, using thermal imaging techniques that capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. This critical payload capture must be conducted overnight, in exactly three days. Please allocate necessary assets and execute the task accordingly.
