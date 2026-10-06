@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in the string from step (b) is "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the JSON data provided, we're tasked with observing a location in Colombia, specifically in the city of Aipe. The mission has a priority level of 1, signifying it is a low importance request that can be handled flexibly with a "non-essential background filler task". The primary sensor for this mission is near-infrared (NIR), which we understand as capturing "near-infrared reflection" for tasks like "water body boundary mapping" or assessing "soil moisture". The temporal parameter, 'target_day', indicates that the data capture will occur on "the day after tomorrow", and the 'target_diurnal_period' specifies this should happen "in the evening". This deadline is understood strictly as the operational deadline for delivering the data products, not as affecting the actual orbital capture window.
+
+Therefore, in crafting our request:
+
+On the day following the specified "day after tomorrow", specifically when it's nearing "evening", we need to conduct a near-infrared (NIR) observation of the city Aipe, located in Colombia. This task is classified as a "low priority importance" request with "flexible schedule requirements". We are to capture data related to water body boundaries or soil moisture levels utilizing the near-infrared reflective properties of the area. The deadline for this operation is set to occur during "evening hours", and this should not be interpreted as a time to adjust the orbit, but rather as a time window for data acquisition. This task is to be executed as part of our "background survey" operations.
