@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+To begin with, we need to identify and verify the specific temporal parameters from the JSON data provided. 
+
+a) The 'target_day' is specified as "the day after tomorrow". This string must be copied exactly as it denotes the precise deadline for the task.
+
+b) The 'target_diurnal_period' given is "overnight". This also needs to be copied verbatim since it specifies the exact time period within the target day when the data collection should occur.
+
+c) From the list of words {morning, mid-day, afternoon, evening, overnight}, the word "overnight" directly matches the 'target_diurnal_period'. Thus, this term will need to appear exactly in the final operational request.
+
+d) It's crucial to confirm that we are not altering or shifting the deadline. The target day is explicitly defined as "the day after tomorrow", and the diurnal period is "overnight". We must adhere strictly to these parameters without any adjustments to either the day or the time of day.
+
+With these details confirmed, we can now proceed to formulate a natural and coherent operational request based on the guidelines provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task focused on capturing data over Malinau, Indonesia. This is an opportunistic capture with a flexible schedule, allowing for potential rescheduling or dropping at convenience if necessary. The objective is to conduct an active radar scan utilizing microwave surface imaging to achieve cloud-penetrating capture capabilities, ideal for piercing through heavy weather conditions and capturing ground geometry. The task is scheduled for the day after tomorrow during the overnight period, aligning with the strict operational deadline for delivering the data products.
