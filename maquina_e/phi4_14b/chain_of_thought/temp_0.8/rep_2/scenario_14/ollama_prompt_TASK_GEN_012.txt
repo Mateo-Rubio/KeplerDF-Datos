@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline for when the data products are needed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the satellite should capture the data.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the given options is "afternoon." This will be used literally in the final request to describe the timing of the observation.
+
+d) I am confirming that I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly set for "the day after tomorrow during the afternoon," as specified in the JSON metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task request for a standard operational tasking involving thermal mapping over the region of Ecuatorial. This mission is part of our baseline pipeline tracking and involves capturing a heat signature or surface temperature profile using thermal infrared imaging. The data should be collected during the afternoon, specifically on the day after tomorrow. This setup represents normal operational status within our workflow update. Please ensure that the task aligns with these fixed parameters and proceed accordingly.

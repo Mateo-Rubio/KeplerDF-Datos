@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To craft a natural request from the given JSON metadata, we'll carefully interpret each component according to the guidelines provided.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase directly indicates when the task should be completed and sets a clear deadline for data delivery. It's essential to use this verbatim in the final request to maintain accuracy regarding the timing of the mission.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the satellite should capture the necessary data, aligning with the operational needs for the task.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "afternoon" is explicitly mentioned in the 'target_diurnal_period' string. This word must be included in the final request to accurately reflect the timing of the data capture.
+
+d) The instructions emphasize that the temporal parameters represent a strict operational deadline for delivering the data products. Therefore, it's crucial not to shift this deadline to any other part of the day. The specified time frame, "during the afternoon" on "the day after tomorrow," must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low-priority importance task for a flexible schedule that can be opportunistically captured. I'd like you to conduct a routine monitoring of the Norte region in Italia, focusing on a multispectral vegetation analysis. The goal is to assess chlorophyll absorption levels and calculate the NDVI index using near-infrared reflection. This non-essential background filler task should ideally be executed during the afternoon on the day after tomorrow, but feel free to drop or reschedule it at your convenience.

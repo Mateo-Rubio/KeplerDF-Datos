@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) Within the string "overnight," the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally is "overnight."
+
+d) It is important to confirm that the deadline specified by 'target_day' and 'target_diurnal_period' must be adhered to strictly. The request specifies capturing data "today" during the "overnight" period, and this timeframe should not be altered or shifted to any other part of the day.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a mission over Indonesia, specifically in the vicinity of Setiris. This routine monitoring task involves capturing multispectral vegetation analysis using VNIR sensors to assess the chlorophyll absorption levels and calculate the NDVI index for the area. As per our baseline pipeline tracking setup with fixed parameters, I request this to be scheduled as part of a normal operational status workflow update. Please ensure that this mission is prioritized for data collection today during the overnight period.
