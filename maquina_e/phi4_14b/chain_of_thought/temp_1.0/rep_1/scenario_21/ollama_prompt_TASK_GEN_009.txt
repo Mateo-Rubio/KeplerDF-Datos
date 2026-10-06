@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates the timeline by which the mission must be completed, emphasizing that this is an important operational deadline to adhere to.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the data collection should occur, focusing on capturing optimal daylight conditions for the sensor.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning". This is a crucial detail as it directly influences how the request will be phrased, emphasizing the importance of timing in data collection.
+
+d) The deadline specified does not suggest any flexibility or shift to other parts of the day. It firmly indicates that data capture should occur specifically "in the morning," maintaining strict adherence to this time frame for operational success.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking to conduct a high-resolution optical snapshot over Ecuatorial, Indonesia, in three days, in the morning. This routine monitoring is part of our baseline pipeline tracking setup and involves capturing clear optical imagery with fixed parameters for standard workflow updates.

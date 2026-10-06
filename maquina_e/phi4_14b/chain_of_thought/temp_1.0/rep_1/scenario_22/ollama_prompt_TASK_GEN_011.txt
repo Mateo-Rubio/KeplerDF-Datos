@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates that the task should be completed at a specific deadline two days from today.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the data capture should occur, focusing on that time period.
+
+c) The single word contained in the string "in the evening" is "evening". This word must appear literally in the final request to clearly indicate the specific time of day for the task execution.
+
+d) It is important to confirm that the deadline is not being shifted. The requirement is explicitly set for "the day after tomorrow, in the evening." We must ensure the task is executed precisely at this specified time without altering it to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm looking to have an Earth-observation task scheduled with low priority importance in the flexible schedule for opportunistic capture. The focus should be on Calenzana, France. This is a non-essential background filler task where the team can drop or reschedule at their convenience if needed. Please treat it as a background survey or testbed tracking task. The task requires a high-resolution optical snapshot for daylight photography and clear optical imagery, utilizing VIS capabilities. Ideally, this should be completed on the day after tomorrow, in the evening.

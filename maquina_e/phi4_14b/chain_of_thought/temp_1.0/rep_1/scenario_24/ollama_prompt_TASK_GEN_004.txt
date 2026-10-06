@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task context provided outlines a mission request for Earth observation. The goal is to translate this technical information into a clear and conversational English request.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This string needs to be used verbatim in the final request to ensure the timing of the mission is correctly communicated.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This will guide when during the day the task should occur, which is crucial for satellite operations.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This term must appear in the final request to specify the timing of data capture accurately.
+
+d) It is important to confirm that there is no shifting or reinterpretation of the deadline. The request specifies "the day after tomorrow" for the mission's execution. Moreover, it requires an "overnight" operation, meaning the satellite should capture data during nighttime hours on that specific day. This ensures alignment with both temporal and diurnal requirements without any adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority request to conduct a critical payload capture over Santa Sofía, Colombia. The task involves capturing near-infrared reflection imagery for assessing water body boundaries and soil moisture levels. This mission is a binding contract requirement, mandating an urgent operational execution with a mandatory directive to ensure data acquisition overnight the day after tomorrow. The operation must lock the mission without any preemption or rescheduling.

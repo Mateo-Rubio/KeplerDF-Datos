@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day."
+
+d) The deadline specified as "around mid-day" should not be shifted to any other part of the day. It explicitly requires a capture around this time, indicating a strict adherence to this temporal parameter for operational effectiveness.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to schedule a standard operational tasking to conduct a commercial tasking over La Cumbre, Colombia. This mission involves utilizing the SAR system to perform an active radar scan using microwave surface imaging for cloud-penetrating capture. The objective is to gather detailed ground geometry data during challenging weather conditions. The imagery should be acquired in four days around mid-day, aligning with our baseline pipeline tracking setup that demands precise adherence to these fixed parameters.

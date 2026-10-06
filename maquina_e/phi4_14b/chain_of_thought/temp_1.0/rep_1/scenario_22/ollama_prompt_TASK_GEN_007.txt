@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "in three days". This indicates the timeframe by which the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when the data should be captured, during the nighttime hours.
+
+c) The single word contained in that string is "overnight". This word will appear literally in the final request to specify the time of capture.
+
+d) The deadline is clearly set for an "overnight" period within "in three days", without any indication to shift it to another part of the day. Therefore, we must adhere to this timeframe strictly, capturing data during the nighttime within the specified three-day window.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance task requiring an opportunistic capture with a flexible schedule. Please arrange for a cloud-penetrating capture using an active radar scan to conduct microwave surface imaging in Sesquilé, Colombia. This task is considered a non-essential background filler task and can be dropped or rescheduled at convenience. The objective is to capture the ground geometry and surface features during the overnight period within the next three days.

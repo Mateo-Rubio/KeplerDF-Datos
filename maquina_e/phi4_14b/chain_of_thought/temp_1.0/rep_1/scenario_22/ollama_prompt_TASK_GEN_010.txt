@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To create a natural conversational request based on the provided JSON metadata, we need to interpret each component according to the guidelines.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data needs to be delivered, and it is crucial to maintain this deadline in our request without any alteration.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the satellite observation should occur.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained in the string "overnight". This will be used verbatim in the final request to describe the time of observation.
+
+d) It is essential to confirm that we are not shifting the deadline. The deadline specified is for the delivery of data on "tomorrow" during the "overnight" period. We must adhere strictly to this timeframe without any adjustments, ensuring the operational execution aligns with the given parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request for an observation task over Paimadó, Colombia. This task involves a flexible schedule for opportunistic capture, allowing it to be dropped or rescheduled at convenience. The objective is thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. The data products need to be delivered on tomorrow during the overnight period, treating this as a background survey or testbed tracking task.
