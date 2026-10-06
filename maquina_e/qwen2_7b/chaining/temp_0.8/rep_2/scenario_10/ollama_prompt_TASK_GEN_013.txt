@@ -1,0 +1,25 @@
+The Earth-observation mission operator submits a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request for operational guidelines:
+
+1. GEOGRAPHIC CONTEXT - Combine JSON parameters naturally, using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If missing, describe using remaining valid fields or clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY - Interpret 'priority_level' as an absolute institutional priority, standard operational tasking, or low priority importance based on explicit and highly flexible language.
+
+3. SENSORS AND PHYSICAL OBJECTIVES - Interpret 'primary_sensor' into natural language that explains the goal as a high-resolution optical snapshot, active radar scan for cloud-penetrating capture, thermal mapping for heat anomaly detection, multispectral vegetation analysis, or near-infrared reflection for water body boundary mapping.
+
+4. DELIVERY DEADLINE - Insert verbatim phrase "in four days in the morning" as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Target task context JSON:
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Baraya"
+  },
+  "priority_level": 1,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Based on this JSON, the request translates as:
+
+"Please capture a high-resolution active radar scan over the region encompassing Colombia, focusing specifically on Baraya, utilizing advanced microwave surface imaging techniques for cloud-penetrating capture. This is considered a low priority importance task with flexible scheduling for an opportunistic data collection to assess ground geometry details without haste. The expected data delivery will be available in four days in the morning as per your baseline pipeline tracking setup and normal operational status requirements."

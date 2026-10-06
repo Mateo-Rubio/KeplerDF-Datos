@@ -1,0 +1,11 @@
+Translate the provided JSON metadata into a natural English task request for an automated satellite constellation planner. The task involves capturing a high-resolution optical snapshot of the city of Toledo, Colombia, using daylight photography for clear imagery. This low importance (Priority 1) request is framed as a "background survey" with a flexible schedule for opportunistic capture. The deadline is set for four days overnight starting from the given target day. The objective should reflect an understanding of the operational context provided by the keys 'primary_sensor', 'location_details', and 'priority_level'. 
+
+Subject: Low Priority Background Survey - Toledo, Colombia
+
+We are requesting a low priority task to capture high-resolution optical imagery of Toledo, Colombia, using daytime photography for clear, true-color visual documentation. This is part of a "background survey" with a flexible schedule for opportunistic data collection. The task is considered a "non-essential background filler task", acknowledging the operator's intent to drop or reschedule this request at their convenience if necessary.
+
+The primary sensor will be a VIS (Visible Imaging Spectrometer) to ensure optimal daylight conditions for capturing detailed surface features and textures. Given the city's location in Colombia, an understanding of local conditions and potential obstructions such as cloud cover is essential when planning the satellite's trajectory for clear imagery acquisition.
+
+For this task, the deadline for data availability has been established as four days overnight starting from the target day specified in the JSON metadata. This indicates the upper limit for data retrieval without specifying exact hours or rephrasing the phrase provided.
+
+Please proceed with caution considering any operational constraints or dependencies that may affect satellite scheduling and data collection during this timeframe. This request is not intended to interfere with higher priority tasks and should be prioritized accordingly within your planning process.

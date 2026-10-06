@@ -1,0 +1,9 @@
+In response to our operational guidelines for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, we aim to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+Given the context provided by the `location_details` of Colombia's city, Pantanillo, combined with the `primary_sensor` of VNIR (Multispectral Vegetation Analysis), our goal is to assess chlorophyll absorption levels in the area. This involves capturing the "vegetative health" through assessing the "NDVI index", which is critical for understanding environmental conditions.
+
+Given the `priority_level` set at medium importance, we frame this request as a standard operational tasking with fixed parameters representing normal operational status. Our team must capture this "multispectral vegetation analysis" without being preempted by other tasks in the baseline pipeline tracking setup.
+
+With the deadline set for "in three days in the morning", our team is aware of the upper limit for data availability and must ensure that the tasking meets the requirements within this timeframe. A "flexible schedule" allows our operators to adapt if needed, positioning this as a "background survey" or "testbed tracking task".
+
+In summary, the Earth-observation mission operator must capture a high-resolution multispectral snapshot of Pantanillo in Colombia, focusing on vegetation health assessment through the NDVI index, within three days starting from the morning hours. This standard operational tasking emphasizes normal status and baseline pipeline tracking with fixed parameters.
