@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To formulate a natural and conversational request based on the provided JSON metadata for an Earth-observation mission, let's first dissect the necessary components. 
+
+a) The string contained in 'target_day' is "in three days". This phrase indicates the deadline for delivering the data products and should be used verbatim in the final request to ensure clarity regarding the timing of the task.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This detail specifies when the observation should occur, emphasizing that it must happen during the morning hours to align with operational needs.
+
+c) Within the 'target_diurnal_period' string, the word that matches the specified options and must appear literally in the final request is "morning". This word precisely defines the time of day when the observation is intended to take place.
+
+d) It's essential to confirm that there's no intention to shift the deadline to another part of the day. The instructions explicitly state that the temporal parameters provided are a strict operational deadline for delivering the data products. Therefore, the request must be made with the understanding that "in the morning" is the correct and intended time frame for the task, without any adjustments to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking in hand involving the monitoring of Bangka Selatan, Indonesia. This routine mission, part of our baseline pipeline tracking setup, requires the use of near-infrared reflection capabilities for assessing soil moisture levels or discriminating gradients within the area. Given its medium importance, this task is scheduled as a normal operational status update with fixed parameters. The request is to capture data "in three days", specifically "in the morning". This timing is crucial to ensure we acquire the necessary insights into environmental conditions during the optimal diurnal period for our analysis objectives.

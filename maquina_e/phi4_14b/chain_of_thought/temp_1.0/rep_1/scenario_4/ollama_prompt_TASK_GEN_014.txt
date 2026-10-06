@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's analyze the metadata provided:
+
+a) The exact string in 'target_day' is "in three days". This indicates a specific timeline for when the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the task should focus on data capture.
+
+c) The single word contained in the 'target_diurnal_period' string that is part of our options is "overnight". This word will be explicitly included in the final request to describe the timing of the operation.
+
+d) The deadline given as "in three days" and "overnight" is strict and should not be adjusted or shifted to any other time of day. This means the task must be executed during the specified overnight period, three days from now, without modification to the timeline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a binding contract requirement for a critical payload capture over Northern Italy in three days. The mission involves thermal mapping to detect surface temperature profiles and thermal anomalies. This is an absolute institutional priority, demanding urgent operational execution with an un-preemptable mission lock. Ensure data delivery occurs overnight, adhering strictly to this deadline.

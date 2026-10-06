@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting various elements of a JSON metadata to create a realistic English request for satellite observation.
+
+a) The 'target_day' is specified as "tomorrow." This indicates that the deadline for capturing the necessary data and delivering the products is set for the day after today, without any ambiguity.
+
+b) The 'target_diurnal_period' is given as "in the evening." This denotes the specific part of the day when the satellite observation should be conducted or completed, which in this case is during the evening hours.
+
+c) The word contained within the 'target_diurnal_period' string that must appear literally in the final request is "evening." It is essential to use this term as it defines the specific time window for the task and aligns with the metadata provided.
+
+d) It's important to confirm that we are not altering the deadline. The operational guidelines specify that the temporal parameters represent a strict deadline for data delivery, not just the capture window. Thus, the request must adhere to "tomorrow evening" as the set time for this task. Shifting it to an adjacent part of the day such as "morning," "mid-day," or "afternoon" would violate these guidelines. Therefore, the deadline remains "tomorrow evening."
+
+### STAGE 2 - FINAL REQUEST
+
+I need a thermal mapping observation over Indonesia, focusing on the Ecuatorial region for tomorrow evening. As this is a low priority importance request with a flexible schedule for opportunistic capture, please consider this as a non-essential background filler task. If the scheduling needs adjustment or if it can be dropped to accommodate more critical missions, that's perfectly fine. We're aiming to capture surface temperature profiles and any thermal anomalies present in the area, but it's not crucial to stick rigidly to this timeline if constraints arise. Just do your best to fit it in when possible, given its nature as a testbed tracking task.
