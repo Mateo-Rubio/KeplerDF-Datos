@@ -1,0 +1,14 @@
+STAGE 1 - REASONING:
+
+a) The exact string found in 'target_day' is "the day after tomorrow".
+b) The exact string found in 'target_diurnal_period' is "overnight".
+c) The word contained in the 'target_diurnal_period' string that must appear literally in the final request is "overnight".
+d) The deadline is fixed on "the day after tomorrow" and is strictly "overnight". No adjustment or shifting of the deadline to an adjacent part of the day is made.
+
+STAGE 2 - FINAL REQUEST:
+
+We have a task allocation with priority level '2' (medium importance) for imaging services utilizing the VIS sensor on board our satellite constellation. This specific request targets a strategic location within Colombia, pinpointed in the city of Facatativá. The operational window is set for an "overnight" acquisition period that falls exactly on "the day after tomorrow". 
+
+Our goal here is to capture high-resolution optical snapshots from this designated area using a VIS sensor to gather daylight imagery with clarity, creating detailed and true-color visual documentation. This imagery is crucial for our ongoing baseline pipeline tracking tasks and represents the standard parameters of normal operational status.
+
+The deadline to provide these data products is 'the day after tomorrow' at 'overnight', adhering strictly to this deadline without any adjustments or shifting. All actions will be executed under the priority level '2', which emphasizes professional, standard operational procedures rather than expedited execution. This request falls into the category of 'routine monitoring' and signifies our baseline pipeline tracking setup with fixed parameters.

@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) The deadline is fixed to deliver the data products at mid-day tomorrow and not being shifted to an adjacent part of the day.
+
+STAGE 2:
+
+The Earth-observation mission operator requests that at around mid-day tomorrow, a near-infrared (NIR) sensor be utilized for capturing detailed imagery. This will serve as an opportunistic background survey aimed at mapping water body boundaries and assessing soil moisture levels, focusing on a specific area with minimal interference from external factors. This task falls under the "non-essential background filler task" category with flexible scheduling requirements. It is acknowledged that this mission does not necessitate urgent operational execution or holds critical payload capture status but rather fits into the baseline pipeline tracking setup with normal operational status. The operator highlights that the data products are crucial for conducting vegetation analysis, specifically looking at chlorophyll absorption levels and calculating the NDVI index to better understand the ecological health of the region without affecting the strict deadline set for mid-day delivery.
