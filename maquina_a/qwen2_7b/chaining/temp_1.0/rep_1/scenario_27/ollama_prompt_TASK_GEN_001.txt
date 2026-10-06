@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, I aim to translate the provided raw physical simulation metadata into a highly realistic and conversational English request.
+
+Our geographic context revolves around the region of Colombia, with its vibrant cityscape of Puerto Rico as our specific point of interest. This operational environment requires a natural interpretation that avoids technical system tags, underscores, or coordinate arrays. Combining this information, we're looking at a detailed visual exploration of the area, integrating country, city, and landmark fields with the clean 'region_name' when necessary.
+
+The mission allocation priority is marked as Low Importance (Priority 1), which we can frame explicitly as a 'non-essential background filler task'. This request is meant for a flexible schedule and 'drop or reschedule at convenience', treating it as a 'background survey' or 'testbed tracking task'. It's an opportunity to conduct an assessment without stringent deadlines or operational urgencies.
+
+The primary sensor being used here, VNIR, is to be employed for the purpose of a 'multispectral vegetation analysis'. This translates into assessing the chlorophyll absorption level and calculating the NDVI index and surface reflectance. A visual exploration that goes beyond just capturing images but dives into the environmental health of the region.
+
+With today's date set for our task, we're looking forward to capturing these insights in the 'in the evening' diurnal period. This upper limit for data availability is the stipulated deadline, set by an upstream module as 'today in the evening'. No raw UTC timestamps, digits or countdown metrics are necessary in this request; it's a clear and concise communication of our operational needs.
+
+In essence, our task request encapsulates the need for a flexible, opportunistic capture of environmental data from the region of Colombia, with a focus on vegetation analysis. This is to be carried out today in the evening, utilizing VNIR sensors to provide us with insights that can enhance our understanding and management of the area.
