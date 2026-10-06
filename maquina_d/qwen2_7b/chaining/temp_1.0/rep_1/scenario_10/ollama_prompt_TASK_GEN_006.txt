@@ -1,0 +1,17 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the provided raw physical simulation metadata into a single, highly realistic and conversational English request. The task involves using the VNIR sensor to conduct a multispectral vegetation analysis on day three in the morning, focusing on capturing daylight photography of high-resolution images for clear optical imagery and true-color visual documentation in Simabur, Indonesia.
+
+Our request must align with the operational guidelines provided:
+
+1. Geographical context: We combine country and city details naturally into our description without using raw technical system tags or coordinate arrays. For this task, we describe Indonesia's natural landscapes and cultural landmarks to ensure an organic integration.
+
+2. Mission allocation priority: Based on the priority level of medium importance, we use a professional tone that aligns with standard operational tasks. We emphasize this as part of a baseline pipeline tracking setup with fixed parameters that represent normal operational status or a routine monitoring task.
+
+3. Sensors and physical objectives: Given the VNIR sensor, our description involves multispectral vegetation analysis to assess chlorophyll absorption levels for vegetation health or calculate the NDVI index to understand surface reflectance accurately.
+
+4. Delivery deadline: As it stands resolved by an upstream module, we adhere to the specified deadline for data availability. In three days, particularly in the morning, this represents the upper limit for data availability without rephrasing, shortening, or changing the time of day.
+
+To summarize, my request is as follows:
+
+Please capture a multispectral image using the VNIR sensor on day three in the morning to assess the health and reflectance of vegetation in Simabur, Indonesia. Focus on daylight photography with high-resolution images for clear optical imagery and true-color visual documentation, emphasizing this as a standard operational task within our baseline pipeline tracking setup.
+
+Let me know if you need any further adjustments or information.

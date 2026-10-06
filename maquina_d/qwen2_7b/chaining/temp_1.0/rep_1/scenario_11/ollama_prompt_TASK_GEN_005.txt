@@ -1,0 +1,20 @@
+```prompt
+As an Earth-observation mission operator, I am tasked with submitting a request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request that adheres to the guidelines provided.
+
+Given the operational guidelines:
+
+1) GEOGRAPHIC CONTEXT: Our geographic context involves a request targeting "Latina" in "Italia". We'll avoid using raw technical system tags, underscores, or coordinate arrays. The location will be described as an organic combination of the country, city, and landmark fields from 'location_details' where applicable.
+
+2) MISSION ALLOCATION PRIORITY: With a priority level of 3 (High Importance), this request must embody authority and commitment due to the critical nature of the payload capture involved. It's an "absolute institutional priority" or "binding contract requirement", an "urgent operational execution" with an "un-preemptable mission lock".
+
+3) SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is 'TIR', a thermal mapping device that captures a heat signature. This will be used to detect surface temperature profiles, heat emissions, and perform "thermal anomaly detection".
+
+4) DELIVERY DEADLINE: Tomorrow in the evening sets the upper limit for data availability without any rephrasing or adjustment.
+
+The task request reads:
+
+"Given our high-priority commitment involving an absolute institutional priority and a binding contract requirement with a critical payload capture, we hereby request the automated satellite constellation planner to undertake an urgent operational mission allocation to provide thermal mapping using the TIR sensor. Our geographical target is Latina in Italia, where a high-resolution optical snapshot is crucial for capturing the heat signature of this region's surface during daylight photography.
+
+The parameters must be set for a 'TIR' scan of Latina, which involves active radar scanning with microwave surface imaging to provide cloud-penetrating capture capabilities. This mission must be completed by tomorrow evening to ensure timely availability of data for our critical requirements."
+
+The task request will fully capture the essence and context defined by the provided JSON format, adhering to all operational guidelines and integrating the operational tone as per priority level specifications."

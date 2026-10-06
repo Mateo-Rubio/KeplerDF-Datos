@@ -1,0 +1,11 @@
+Operating an Earth-observation mission, I submit a task request to our automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic, conversational English request for better dataset naturalness and validation accuracy.
+
+**GEOGRAPHIC CONTEXT**: The target location is in Colombia, specifically within the city of Cumaral. This area requires an observation due to its relevance to local environmental studies, although it doesn't have any specific landmarks mentioned. So, I describe the region using available details, crafting a realistic description for this request.
+
+**MISSION ALLOCATION PRIORITY**: The request falls under 'Priority 1 (Low Importance)', indicating a flexible schedule and a non-essential background filler task. I frame this as an opportunity for "background survey" or "testbed tracking task". It's recognized that this can be dropped or rescheduled at convenience, treating it as part of routine monitoring or an occasional task.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Our primary sensor is VNIR, aimed for multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. This request targets the unique characteristics of plant health using the VNIR technology.
+
+**DELIVERY DEADLINE**: The deadline for this task has been resolved by an upstream module. We're looking at tomorrow during the afternoon for data availability, which is a fixed parameter representing our baseline pipeline tracking with normal operational status.
+
+Our request integrates all these details organically, adhering to the provided guidelines. As Earth-observation professionals, we anticipate our data with meticulous precision, ensuring that every mission aligns perfectly with our goals, no matter how low-priority they might seem on paper.

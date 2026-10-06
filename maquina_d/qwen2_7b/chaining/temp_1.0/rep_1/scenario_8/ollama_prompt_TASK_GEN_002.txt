@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner to translate the raw physical simulation metadata into a highly realistic and conversational English request. The geographical context of our target is the Italian region of Gordona, with a priority level set at 1, indicating low importance for operational purposes.
+
+We're utilizing a SAR sensor for an active radar scan on the target day, which is the day after tomorrow in the evening. This involves cloud-penetrating capture capabilities and surface imaging with microwaves to capture ground geometry or map features accurately. Our primary mission objective focuses on gathering thermal information for potential thermal anomaly detection or mapping heat emissions.
+
+The 'SAR' sensor's capabilities allow us to assess the landscape, including both urban and natural environments without the hindrance of weather conditions. This data collection is treated as a flexible task that can be 'dropped or rescheduled at convenience', fitting into the 'background survey' or 'testbed tracking task' category for our operational pipeline.
+
+I've incorporated the deadline phrase "the day after tomorrow in the evening" as the upper limit for data availability, which was resolved by an upstream module. No need to rephrase, shorten, or move it; it's essential for maintaining a consistent timeframe for data capture and submission. 
+
+Given the context, this task is recognized as a non-essential background filler task that complements our overall mission objectives without any binding contractual requirements or critical payload capture necessities. It's clear that while this request is not under an urgent operational execution or 'un-preemptable mission lock', we prioritize normal operational status and baseline pipeline tracking with fixed parameters representing routine monitoring.
