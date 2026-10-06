@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "in four days"
+
+b) The exact string in 'target_diurnal_period' is: "in the morning"
+
+c) The word contained in that string which must appear literally in the final request is: "morning"
+
+d) Confirming that I am not shifting the deadline to an adjacent part of the day, the 'target_day' string reads "in four days" and refers to delivery occurring at some point during that morning period, not spreading it across parts of the following day or evening.
+
+STAGE 2 - FINAL REQUEST
+
+In four days, our automated satellite constellation planner will capture a comprehensive SAR image over the Ecuatorial region in Indonesia, with emphasis on detailed analysis during the morning hours. This mission is categorized as medium importance ("priority level" 2), serving as a routine operational tasking with fixed parameters that are part of the baseline pipeline tracking setup. Given its standard status, this capture will adhere to normal operational requirements, ensuring quality radar scans for microwave surface imaging, capable of cloud-penetrating capture and providing valuable ground geometry insights.
+
+The deadline to deliver this data product is strictly adhered to as specified in 'target_day', specifically targeting the morning hours on that fourth day. This timeframe allows for optimal conditions without compromising the integrity or quality of the SAR data collected over Ecuatorial Indonesia, meeting our operational standards with minimal deviation from the set parameters.
