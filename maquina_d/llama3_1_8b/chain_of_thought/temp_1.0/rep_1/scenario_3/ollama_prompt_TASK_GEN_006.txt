@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in this string is "morning".
+
+d) The deadline specified is not being shifted to an adjacent part of the day. The request explicitly states that the observation should take place in the morning, which is already accounted for in the provided 'target_diurnal_period'. Therefore, the deadline remains unchanged and strictly adheres to the provided temporal parameters.
+
+STAGE 2 - FINAL REQUEST
+
+We require a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the Indonesian city of Tanjung Saleh. This is a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The observation should take place tomorrow in the morning.

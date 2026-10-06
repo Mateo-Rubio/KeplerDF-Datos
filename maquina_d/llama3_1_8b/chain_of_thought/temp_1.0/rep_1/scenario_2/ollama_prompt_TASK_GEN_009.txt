@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in 'target_diurnal_period' is "overnight". This is the word that must appear literally in the final request.
+
+d) The temporal parameters represent a strict operational deadline to deliver the data products, and I confirm that I am not shifting this deadline to an adjacent part of the day. The deadline remains as specified in the JSON input, which is "in three days" with an overnight diurnal period.
+
+STAGE 2 - FINAL REQUEST
+
+...Please schedule a low priority importance request for a non-essential background filler task with a flexible schedule for opportunistic capture, where we can drop or reschedule at convenience. This task involves a "low-resolution near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to be captured overnight in three days...
