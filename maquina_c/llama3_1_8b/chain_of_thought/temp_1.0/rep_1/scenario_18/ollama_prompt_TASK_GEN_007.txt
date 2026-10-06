@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in the string "in the evening" is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. The original deadline remains unchanged, and I will output it verbatim in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+Please task the satellite with acquiring a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation over the region of Colombia, specifically the city of Planadas, tomorrow in the evening.

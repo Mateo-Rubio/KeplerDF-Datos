@@ -1,0 +1,13 @@
+To work through the questions for STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string "in the morning" is "morning".
+
+d) The deadline specified in 'target_day' and 'target_diurnal_period' represents a strict operational deadline to deliver the data products. To confirm that I am not shifting the deadline, I can see that the original task context specifies "the day after tomorrow" as the target day and "in the morning" as the target diurnal period, which suggests that the deadline is indeed for a specific morning following the current day.
+
+Moving on to STAGE 2, the operational request would be:
+
+The satellite constellation should capture a high-priority, non-essential background filler task with flexible schedule for opportunistic NIR capture in San Alberto, Colombia. This involves a near-infrared reflection to map water body boundaries or assess soil moisture levels and discriminate gradients. The data products should be delivered by "the day after tomorrow" morning.

@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word that is contained in the string of 'target_diurnal_period' is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly states a deadline for data product delivery, and I will reflect this in the final request without altering the temporal parameters.
+
+STAGE 2 - FINAL REQUEST
+
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+"Capture high-resolution thermal mapping of heat signatures, surface temperature profiles, and thermal anomalies in the region of Colombia, specifically the area surrounding Otanche. This is an absolute institutional priority, representing a critical payload capture and a mandatory directive with an urgent operational execution and un-preemptable mission lock. The data products must be delivered within the next three days, with the acquisition taking place in the evening."

@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string in 'target_diurnal_period' is "overnight".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The request is asking for a capture during the specified time, and the word "overnight" indicates that the mission should occur at night, without any changes to the original deadline.
+
+STAGE 2 - FINAL REQUEST
+
+Capture high-resolution multispectral vegetation analysis data using VNIR sensors over the region of Cumaral in Colombia to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance, as part of an absolute institutional priority, representing a critical payload capture, with a strict deadline for delivery of the data products in four days, requiring an overnight acquisition.

@@ -1,0 +1,13 @@
+Let's go through Stage 1 - Reasoning.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string for 'target_diurnal_period' is "overnight".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified in 'target_day', which is "in four days", regardless of the diurnal period.
+
+Now, let's proceed to Stage 2 - Final Request.
+
+...The task context requires a satellite constellation to perform a low-priority importance request with a flexible schedule for opportunistic capture. The request involves a non-essential background filler task where the operator notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task. The primary sensor required is VNIR, which aims for multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. The location is San Martín, Colombia, where data is needed in four days, specifically overnight...
