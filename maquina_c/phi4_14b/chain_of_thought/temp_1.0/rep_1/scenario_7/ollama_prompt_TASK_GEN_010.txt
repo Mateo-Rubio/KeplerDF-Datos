@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning". This word will appear literally in the final request.
+
+d) The 'target_diurnal_period' specifies "in the morning", confirming that there is no shift of the deadline to another part of the day. The operational deadline explicitly remains set for the morning, ensuring that the task aligns precisely with this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a routine monitoring requirement for Pantanillo, Colombia, as part of our standard operational tasking and baseline pipeline tracking setup. This mission involves capturing a multispectral vegetation analysis using the VNIR sensor, which will provide us with crucial data on chlorophyll absorption levels and surface reflectance, including a detailed NDVI index calculation. It is essential that this task adheres to its fixed parameters to maintain our normal operational status. The data acquisition needs to occur in three days and specifically in the morning, aligning with our workflow update schedules. This setup ensures the mission's execution remains within standard operational protocols, reflecting typical workflow adjustments.

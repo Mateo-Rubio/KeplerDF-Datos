@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This specifies when the data should be delivered, emphasizing that it cannot be altered or shifted.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This indicates the specific time of day when the observation should occur, which is crucial for capturing the desired phenomena accurately.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string is "afternoon". This word will be used literally in the final request to ensure clarity about the timing of the task.
+
+d) It is important to confirm that the deadline for delivering the data products is strictly adhered to as specified. The deadline is set for "the day after tomorrow" and specifically "during the afternoon", meaning the capture and delivery must align with these exact parameters without any adjustments to adjacent times or days.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for a multispectral vegetation analysis in San Gil, Colombia. This routine monitoring is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index, capturing surface reflectance data during the afternoon of the day after tomorrow.

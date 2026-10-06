@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand requires interpreting metadata to form a realistic and conversational request for satellite observation. Let's examine the relevant components:
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline by which the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should occur.
+
+c) The single word contained in the diurnal period string is "morning". This term must be used explicitly in the final request to indicate the specific time for observation.
+
+d) To confirm, I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the provided timeframe, capturing data "in four days" during the "morning".
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority task requesting a satellite pass over Baraya, Colombia. Given its flexible nature, we can adapt to schedule this task opportunistically if needed. The primary focus is on an active radar scan using microwave surface imaging. This will allow us to capture cloud-penetrating imagery, which is invaluable for examining ground geometry even through heavy weather conditions. We aim to execute this observation in four days and ensure the satellite captures the data in the morning. Given its low priority, feel free to reschedule or drop this task if it conflicts with other critical missions.

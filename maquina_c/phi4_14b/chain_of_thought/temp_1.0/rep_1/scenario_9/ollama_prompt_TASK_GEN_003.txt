@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's break down the metadata to construct a coherent task request:
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This specifies when the data capture should occur relative to today, ensuring the mission aligns with a specific timeline without altering its timing or meaning.
+
+b) In 'target_diurnal_period', the exact string given is "in the morning." This indicates the precise time within the day when the observation should take place, further narrowing down the capture window for operational planning.
+
+c) From the provided options {morning, mid-day, afternoon, evening, overnight}, the word contained in 'target_diurnal_period' is "morning." This is a literal descriptor of when during the day the task should be completed, and it will be directly included in the final request to ensure clarity regarding timing.
+
+d) The instructions are clear that we cannot adjust or shift the deadline to any adjacent part of the day. Therefore, the task must strictly adhere to capturing data "the day after tomorrow, in the morning," without any deviation from this specified time.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance observation over Bangka, Indonesia, focusing on near-infrared reflection for water body boundary mapping or soil moisture assessment. Given its non-essential background filler task nature, please note that this can be flexibly scheduled to be executed the day after tomorrow, in the morning, or rescheduled at your convenience if needed. This task is part of an opportunistic capture initiative and serves as a testbed tracking activity.

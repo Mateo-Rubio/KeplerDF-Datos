@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+Let's begin by examining the JSON metadata provided for the task request:
+
+a) The exact string found in 'target_day' is "in four days." This clearly indicates a specific timeframe for when the data capture needs to occur, giving us a precise deadline without any flexibility.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day for the observation, ensuring that the task aligns with daylight conditions suitable for capturing high-resolution optical images.
+
+c) Out of the options provided {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "morning." This confirms that the data capture should occur during the morning hours to take advantage of optimal lighting conditions.
+
+d) I need to ensure that the deadline remains strictly adhered to and not shifted to another part of the day. The 'target_diurnal_period' explicitly states "in the morning," and this timing must be preserved as per the instructions provided in the metadata. There should be no adjustment or reinterpretation to shift the capture time to any other part of the day.
+
+With these considerations, I can now proceed to formulating the operational request.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task scheduled for a flexible schedule. This mission is set to take place in Norte, focusing on capturing high-resolution optical snapshots under daylight conditions using a visual sensor. The task aims to provide clear optical imagery with true-color visual documentation. Please note that the capture can be dropped or rescheduled at convenience, and it's considered a background survey for this period. The data is required for delivery "in four days," specifically "in the morning." Thank you for accommodating this request as part of our routine observational activities.

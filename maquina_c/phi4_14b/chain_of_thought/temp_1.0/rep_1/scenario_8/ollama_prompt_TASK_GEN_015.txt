@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific temporal details for scheduling a task with an automated satellite constellation planner. The string under the key 'target_day' is "tomorrow". This indicates that the data acquisition must be completed by the next day, ensuring that the mission's operational deadline is met without any extensions or shifts.
+
+Looking at the 'target_diurnal_period', the exact string is "overnight." This specifies that the task should be executed during nighttime hours. Within this phrase, the word "overnight" appears and fits within the set options of {morning, mid-day, afternoon, evening, overnight}. The presence of "overnight" means that the data capture must occur during these nighttime hours.
+
+It is crucial to confirm that the deadline has not been altered or shifted to another time of day. The operational guidelines explicitly state that the temporal parameters define a strict delivery deadline and should not be modified. Therefore, adhering to "tomorrow overnight" as specified ensures compliance with the task's strict scheduling requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+As part of our baseline pipeline tracking and standard operational tasking, we request an Earth-observation mission focused on Ketapang, Indonesia. Utilizing near-infrared reflection technology, this task aims to map water body boundaries and assess soil moisture levels. Please ensure the data acquisition is scheduled for tomorrow overnight, adhering to our specified timeline. This routine monitoring will contribute to our ongoing environmental assessments, leveraging fixed parameters for a normal operational status update.

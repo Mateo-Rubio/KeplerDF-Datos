@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+Let's start by examining the relevant keys in the target task context JSON.
+
+a) The 'target_day' key specifies the exact string "the day after tomorrow." This indicates a strict operational deadline, which is essential for understanding when the data products are expected to be delivered.
+
+b) For 'target_diurnal_period', the exact string is "in the evening." This tells us that the observation must be captured during this specific time of day.
+
+c) The single word contained in "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word will appear literally in the final request, ensuring alignment with the specified temporal constraints.
+
+d) It's important to confirm that we are not shifting this deadline to another part of the day. The JSON specifies "in the evening," which means that the observation should be conducted strictly within the evening timeframe as indicated, without any alterations or extensions to this period.
+
+With these points in mind, let's move on to crafting a natural and realistic operational request that aligns with all provided guidelines and parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority task that needs your attention, focusing on the quaint town of Gordona in Italy. The request involves capturing cloud-penetrating images using active radar scan capabilities of the SAR sensor. Since this is an opportunity for opportunistic capture, feel free to adjust the schedule as needed, ensuring that this becomes part of a flexible low-priority importance task. Our goal is to provide these insights by the day after tomorrow in the evening, allowing us to integrate these findings into our broader data landscape at your convenience.

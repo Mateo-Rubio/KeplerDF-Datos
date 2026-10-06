@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task needs to be completed by the following day from when the request is made.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time frame within which the data should be captured, emphasizing early hours of the day.
+
+c) The single word contained in the string "in the morning" that matches our set {morning, mid-day, afternoon, evening, overnight} is "morning." This word will be used to describe when the data capture should occur.
+
+d) The requirement does not allow for any shifting of the deadline. Therefore, we must adhere strictly to capturing the data "in the morning" on "tomorrow," as specified in the metadata. This means no alteration to a different part of the day is permissible.
+
+### Stage 2 - Final Request
+
+We have a low-priority task focusing on water body boundary mapping and soil moisture assessment using near-infrared reflection in Sekadau, Indonesia. This mission is a non-essential background filler task with flexible scheduling, allowing for opportunistic capture and rescheduling at convenience if needed. It is part of a routine monitoring setup to ensure operational flexibility. We aim to gather this data by tomorrow in the morning, treating it as a secondary survey in our baseline pipeline.
