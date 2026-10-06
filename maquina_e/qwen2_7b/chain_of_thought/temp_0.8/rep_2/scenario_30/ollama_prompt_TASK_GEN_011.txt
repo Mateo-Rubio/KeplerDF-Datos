@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained within the 'target_diurnal_period' string is "morning". 
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the context provided by the JSON metadata, our Earth observation mission will prioritize capturing high-resolution active radar scans, utilizing microwave surface imaging capabilities. This will be executed for an area located in the picturesque region of Italia, specifically focusing on the city of Chiusi.
+
+The primary sensor utilized will be a SAR (Synthetic Aperture Radar) instrument, aiming to obtain "cloud-penetrating capture" and detailed information about ground geometry during the "in the morning" period tomorrow. This mission is categorized as "standard operational tasking", aligning with our baseline pipeline tracking requirements that involve fixed parameters for normal operational status.
+
+The deadline for delivering this data product is strictly set for "tomorrow in the morning". This deadline represents an unalterable limit to ensure timely fulfillment, without impacting the overall workflow update or execution of our satellite constellation operations. 
+
+In summary, our mission is tasked with capturing critical SAR imagery of Chiusi in Italia during the morning hours on the day following today, utilizing this data for baseline pipeline tracking within our standard operational parameters and without any flexibility for scheduling adjustments.
