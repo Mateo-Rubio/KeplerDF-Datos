@@ -1,0 +1,7 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request. Interpret the geographic context organically according to these operational guidelines: Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'. In this case, we have Italia as the country, and Norte as the city. Therefore, our location is in northern Italy.
+
+Interpret the mission allocation priority organically according to these operational guidelines: Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. For a priority level of 2, use a professional, direct, and standard operational tone. Describe this request as a "standard operational tasking" or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status".
+
+Translate the primary sensor metadata into a natural description: We are looking for a "high-resolution optical snapshot" using "multispectral vegetation analysis" to assess "chlorophyll absorption level" and calculate a vegetation "NDVI index" and surface reflectance.
+
+Finally, include the delivery deadline: This task should be completed by tomorrow overnight.

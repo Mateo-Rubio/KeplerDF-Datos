@@ -1,0 +1,5 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. 
+For a low priority importance request with a flexible schedule for opportunistic capture, label it as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task. 
+Use a casual, highly flexible, or opportunistic tone and interpret the geographic context naturally, combining the JSON parameters. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details', ignoring any "N/A" values and focusing on the clean 'region_name'. 
+For a thermal mapping objective to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions, use the primary sensor 'TIR' and note that this is a low priority importance request with a flexible schedule for opportunistic capture. 
+Finally, ensure that the task is completed by the day after tomorrow overnight.

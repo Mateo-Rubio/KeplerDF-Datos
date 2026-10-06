@@ -1,0 +1,17 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request. To maximize the naturalness and validation accuracy of the dataset, follow these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For this task, we will be conducting thermal mapping to capture a heat signature in the region of Colombia, focusing on the city of San Martín. This operation is an absolute institutional priority, representing a binding contract requirement for critical payload capture.
+
+2. MISSION ALLOCATION PRIORITY: Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is.
+
+We require a high-resolution thermal map to be captured during this critical operational window. The objective is to detect thermal anomalies and map heat emissions in the specified region. This task must be executed as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Naturally weave operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+The primary objective is to capture a thermal signature, which will provide valuable insights into surface temperature profiles and heat emissions in the specified region.
+
+4. DELIVERY DEADLINE:
+
+Deliver the translated metadata by the day after tomorrow during the afternoon.
