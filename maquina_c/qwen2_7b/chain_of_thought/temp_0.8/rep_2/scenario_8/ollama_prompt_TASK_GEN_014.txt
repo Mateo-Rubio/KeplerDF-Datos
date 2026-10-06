@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string that must appear literally in the final request is "afternoon".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the raw metadata, we're tasked with capturing high-resolution near-infrared (NIR) data tomorrow afternoon. Our geographic context involves the location known as Norte, which will serve as our primary observation point. Though specific details about country and city were not available, we will be focusing on a clear and detailed daylight photography session through the afternoon hours. This falls under medium importance due to its 'priority_level' of 2, signifying standard operational tasking rather than an urgent deadline.
+
+Considering the constraints and priorities set forth, we aim to collect thermal mapping data that allows for the detection of surface temperature profiles and heat emissions during this critical time frame. The operational objective is to conduct a meticulous assessment focusing on capturing the natural and urban landscapes under the afternoon sun, ensuring both high resolution and specificity in our imagery to facilitate accurate thermal anomaly detection.
+
+The deadline for delivering the data products is set for tomorrow afternoon precisely, and we will adhere strictly to this timeframe as defined by 'target_day' and 'target_diurnal_period'. The task will be carried out with the appropriate attention to detail typical of standard operational tasks, ensuring it aligns with our baseline pipeline tracking setup while respecting the flexible schedule attributed to its 'priority_level' of 2.
