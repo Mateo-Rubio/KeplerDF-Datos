@@ -1,0 +1,16 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. To maximize naturalness and validation accuracy, interpret the metadata organically according to these operational guidelines:
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name' and nested 'location_details'):
+   - Describe the location as "Bolívar, Colombia" combining the 'city' and 'country' fields from 'location_details'.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'priority_level'):
+   - Frame this as an "absolute institutional priority" involving a "critical payload capture".
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Explain the goal as "thermal mapping" to capture a "heat signature" and "surface temperature profile".
+
+4. RELATIVE TIMEFRAMES (Interpret keys 'target_day' and 'target_diurnal_period'):
+   - Use phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Final natural user request:
+"Capture high-resolution thermal imagery in Bolívar, Colombia using thermal mapping to obtain a heat signature and surface temperature profile for the absolute institutional priority of a critical payload capture, needed by in three days in the evening at the latest."
