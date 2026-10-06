@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. I will maintain the original deadline as stated in the JSON, which is for delivery on "tomorrow" specifically in the morning.
+
+STAGE 2 - FINAL REQUEST
+
+...the CEO has assigned this task as an absolute institutional priority due to its critical payload capture requirement, making it a binding contract requirement with an un-preemptable mission lock. We are tasked with capturing a high-resolution optical snapshot using an active radar scan, employing microwave surface imaging for cloud-penetrating capture in the Bukit Mabong area of Malaysia. This task must be completed by tomorrow morning to fulfill the standard operational tasking requirements and ensure delivery of data products within the contractual deadline.

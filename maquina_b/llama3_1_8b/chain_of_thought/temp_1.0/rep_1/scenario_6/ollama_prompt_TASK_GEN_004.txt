@@ -1,0 +1,13 @@
+Here are the answers to the four questions in STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products, which corresponds exactly to the 'target_day' and 'target_diurnal_period'.
+
+Now, I'm ready for STAGE 2. Here's the final operational request:
+
+...The task requires conducting an active radar scan using microwave surface imaging for cloud-penetrating capture overnight tomorrow in Otanche, Colombia. This is a standard operational tasking as part of a commercial tasking and routine monitoring pipeline with fixed parameters representing normal operational status. The objective is to pierce heavy weather and capture ground geometry. We require high-resolution optical snapshots for daylight photography and true-color visual documentation, but due to operational constraints, this task takes precedence over the other objectives. Please execute this task with absolute priority and deliver the data products as per the set deadline...

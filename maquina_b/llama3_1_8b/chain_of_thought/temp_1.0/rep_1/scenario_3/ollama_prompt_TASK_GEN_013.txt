@@ -1,0 +1,9 @@
+To address the request, let's break down the reasoning step by step:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears literally in "overnight" is "overnight".
+
+d) Confirming that the deadline remains unchanged and not shifted to an adjacent part of the day.
