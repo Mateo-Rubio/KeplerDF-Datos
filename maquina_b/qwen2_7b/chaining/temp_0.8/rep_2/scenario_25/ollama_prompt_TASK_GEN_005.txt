@@ -1,0 +1,11 @@
+As the Earth-observation mission operator tasked with optimizing the automated satellite constellation planning, my objective is to translate the raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on achieving a natural interpretation of the data while maintaining accuracy.
+
+Navigating the 'region_name' and nested 'location_details' provides us with the geographical context essential for our mission allocation. For the Slovenija and Norte coordinates, we blend the JSON parameters naturally, describing the location with realistic combinations of country, city, and landmark fields from 'location_details'. Here, 'N/A' gracefully acknowledges missing information, allowing us to describe the location using alternative valid fields or simply the 'region_name'.
+
+Incorporating the mission allocation priority, we emphasize the operational guidelines that interpret 'priority_level'. Recognizing 'Priority 1', our request is framed as a "non-essential background filler task" with a "flexible schedule for opportunistic capture". We explicitly note to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+Moving on to sensors and physical objectives, we interpret 'primary_sensor'. For our scenario, we focus on the 'SAR' technology, explaining the goal as an "active radar scan" utilizing "microwave surface imaging" for capturing surfaces through heavy weather or revealing ground geometry.
+
+Finally, we encapsulate the delivery deadline into the request with the specific phrase: "the day after tomorrow during the afternoon". This inserts the resolved upper limit for data availability without rephrasing, shortening, or relocating it. We abstain from including raw UTC timestamps, digits, or countdown metrics, adhering to the guidelines provided.
+
+By following these guidelines, we translate the raw physical simulation metadata into a coherent request that not only integrates operational nuances but also maintains natural language flow, ensuring the dataset's naturalness and validation accuracy are maximized.

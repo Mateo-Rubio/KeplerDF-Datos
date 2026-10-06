@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request, aiming to maximize the naturalness and validation accuracy of the dataset.
+
+The geographic context involves observing a location within the 'region_name' which corresponds to the country of Colombia and specifically its city, Chima. We combine this information to describe the precise area for observation - the operational guidelines suggest crafting this description without using raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority level is '3', indicating an absolute institutional priority, implying an urgent operational execution and an un-preemptable mission lock. The language must heavily imply that this request involves a "critical payload capture" under a "binding contract requirement", with "fixed parameters" representing "normal operational status".
+
+The primary sensor selected for this task is 'TIR', which we interpret as 'thermal mapping'. The goal here is to capture 'heat signatures' and surface temperature profiles, essential for 'thermal anomaly detection' and the mapping of heat emissions.
+
+The delivery deadline stipulates that we must gather this information 'in four days in the morning'. We are to insert this phrase verbatim into our request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should appear in the output.
+
+In summary, we seek to capture thermal mapping data of a specific location within Colombia's Chima city using a 'TIR' sensor, prioritizing the task as critical and essential under normal operational status. The deadline is set for gathering this information precisely four days from now, in the morning, as per the guidelines provided.

@@ -1,0 +1,15 @@
+In light of our operational guidelines, we're now prepared to craft your task request for the automated satellite constellation planner. Our goal is to translate raw physical simulation metadata into a single, highly realistic English request that maximizes naturalness and validation accuracy.
+
+Given the context provided in your JSON, the primary sensor is set to VNIR, indicating a focus on multispectral vegetation analysis. This task aims to assess chlorophyll absorption levels and calculate the NDVI index for surface reflectance, ensuring we capture crucial insights into Colombia's vegetation health.
+
+Our geographic context revolves around El Marmol in Colombia, a specific locale that combines the country's name with a notable city. With this in mind, our request will blend realistic descriptions of location and operational relevance:
+
+"El Marmol, a charming corner of Colombia known for its vibrant flora and fertile lands, is the focus of our attention today. As part of an opportunistic background survey task, we aim to capture the essence of El Marmol's ecological tapestry through multispectral imagery."
+
+This request is framed as a low priority importance task with a flexible schedule, acknowledging that it acts as a 'non-essential background filler task'. It's designed to be a 'background survey' or 'testbed tracking task', offering insights that are critical yet not in the immediate line of operational necessity.
+
+Scheduled for capture on "the day after tomorrow", during the afternoon, our deadline is an established parameter that guides our satellite's operational planning. This timeframe ensures we synchronize with natural lighting conditions for optimal image quality.
+
+As we submit this request, it's understood that while we're not directly interacting with the upstream module that resolved the deadline, our task aligns with the agreed-upon timeframe for data availability. The request is self-contained and clear about its operational relevance, timeframe, and flexibility.
+
+In conclusion, our task request to the automated satellite constellation planner encapsulates the essence of your physical simulation metadata within a realistic and conversational framework, ensuring that every detail serves a purpose in translating technical information into actionable operational instructions.

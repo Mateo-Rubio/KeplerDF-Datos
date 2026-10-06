@@ -1,0 +1,23 @@
+```prompt
+Operating an Earth-observation mission with an automated satellite constellation planner, my task is to translate raw physical simulation metadata into a conversational English request with high naturalness and validation accuracy. The operational guidelines guide the interpretation process:
+
+1. GEOGRAPHIC CONTEXT: Describing the location requires a realistic combination of country, city, and landmark fields or using the region name if specific details are unavailable.
+
+2. MISSION ALLOCATION PRIORITY: Incorporating priority levels into language that reflects institutional importance, standard operations, or low priority flexibility.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Using natural language to explain sensor goals in terms of daylight photography, radar scans, thermal mapping, vegetation analysis, and near-infrared reflection.
+
+4. DELIVERY DEADLINE: The phrase "in three days overnight" must be included as the data availability upper limit without rephrasing or modification.
+
+The target task context JSON provides:
+
+- VISUALIZATION: Utilizing a Near-Infrared (NIR) sensor for nighttime water body boundary mapping and soil moisture assessment.
+- GEOGRAPHIC LOCATION: Indonesia's Murung Raya city offers an opportunistically valuable dataset, although the country is also an important backdrop for environmental monitoring.
+- MISSION IMPORTANCE: A low priority request implies a flexible schedule for opportunistic data capture but not critical or urgent execution. 
+- TIMELINE AND EXECUTION: A baseline tasking with fixed parameters for a routine monitoring setup that will be captured overnight, within the specified three-day timeframe.
+
+To present this task to the automated satellite constellation planner:
+
+"Please include our Earth-observation mission's request to capture water body boundaries and assess soil moisture levels in Murung Raya, Indonesia, using a Near-Infrared sensor overnight. This low-priority task is part of our standard operational tracking pipeline and will be accommodated within the deadline of 'in three days overnight', aligning with flexible scheduling principles and providing background survey data for our environmental monitoring efforts."
+
+This request adheres to all provided guidelines and demonstrates how to naturally integrate raw metadata into a cohesive and contextually relevant English statement, emphasizing operational priorities, sensor objectives, geographic context, and delivery deadlines."

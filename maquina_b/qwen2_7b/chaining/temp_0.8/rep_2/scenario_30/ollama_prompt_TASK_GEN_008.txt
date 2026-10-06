@@ -1,0 +1,28 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The target context is based on the JSON data below:
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Italia",
+    "city": "Brenna"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+Firstly, interpreting the GEOGRAPHIC CONTEXT:
+Given that the country is Italia and the city is Brenna, I'll describe this location as a scenic Italian village in a picturesque setting. This context combines the 'country', 'city', and 'landmark' fields from 'location_details' seamlessly.
+
+Now, understanding MISSION ALLOCATION PRIORITY:
+The priority level indicates low importance, which should be framed as a flexible schedule for opportunistic capture. I'll describe this request as a "low priority importance" tasking with a "flexible schedule" to treat it as a "background survey" or "testbed tracking task", reflecting the nature of low-priority tasks.
+
+Considering SENSORS AND PHYSICAL OBJECTIVES:
+The primary sensor specified is VIS, which means we'll be capturing a high-resolution optical snapshot. This can be described as a true-color visual documentation aimed at providing daylight photography or clear optical imagery for monitoring purposes.
+
+Let's move onto the DELIVERY DEADLINE:
+The deadline for this task has already been resolved and stated to be "tomorrow in the morning". This phrase must be included verbatim in the request, emphasizing that the data availability is constrained by a set upper limit, without rephrasing or altering its time reference.
+
+Summarizing the information provided:
+
+As a low priority importance task with a flexible schedule, I'm requesting an operational capture using VIS as our primary sensor to achieve high-resolution optical imagery for daylight photography. This will occur in the scenic Italian village of Brenna, located in Italia. The deadline for this task is tomorrow morning. Kindly allocate resources accordingly to ensure data availability by the specified time, treating this request as a background survey or testbed tracking task.

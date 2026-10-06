@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task request is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines involve interpreting geographic context, mission allocation priority, sensors and physical objectives, and the delivery deadline.
+
+The primary sensor for this task is "TIR", aimed at capturing thermal mapping data for Indonesia's equatorial region, with a city marked as "Ecuatorial". Our geographic context combines the country with its unique city, offering a realistic location without relying on raw technical tags or coordinate arrays. The location is described using a combination of 'country', 'city', and 'landmark' fields from 'location_details'.
+
+The priority level for this task is set at 'Priority 1' (low importance), which we interpret as a "non-essential background filler task". This request carries a flexible schedule, designed for an opportunistic capture where the operator explicitly notes that it can be "dropped or rescheduled at convenience". We frame it as a "background survey" or "testbed tracking task", treating it as a low priority importance request.
+
+The TIR sensor objective is to capture a thermal mapping dataset, aimed at capturing a "heat signature" and understanding the surface temperature profile. This involves mapping heat emissions and identifying thermal anomalies through the collection of data that provides insights into thermal activity across various surfaces and conditions.
+
+The delivery deadline for this task has already been resolved as "today overnight". We insert this phrase verbatim into our request, specifying it as the upper limit for data availability without rephrasing or altering its timing.
+
+In summary, the task request focuses on a low-priority operational survey using thermal mapping capabilities from TIR sensors for Indonesia's equatorial region, scheduled for an overnight capture, adhering to a flexible delivery timeline that emphasizes opportunistic scheduling.
