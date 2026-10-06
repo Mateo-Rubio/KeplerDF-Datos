@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English task request for an automated satellite constellation planner. Let's interpret the provided JSON format in a way that captures the essence of operational guidelines.
+
+Our geographic context, given by 'region_name' and 'location_details', is centered around Trujillo, Colombia. This city provides a vivid and culturally rich image of where our data collection journey begins, blending the local flavors and urban landscape into our request.
+
+Given a mission allocation priority level of 2, this task represents a standard operational tasking that's part of a baseline pipeline tracking setup with fixed parameters. We are handling normal operational status or a workflow update, treating it as a routine monitoring effort that ensures smooth operations across our satellite constellation.
+
+The primary sensor in play is VNIR, which we'll interpret as the goal for a multispectral vegetation analysis. This involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index to determine surface reflectance, aiding in comprehensive insights into the green cover's health.
+
+The deadline for this task has been set for "the day after tomorrow overnight." This phrase, embedded in our request as the stated upper limit for data availability, emphasizes the urgency without specifying a specific time. We're not rephrasing it, shortening it, or moving it to a different part of the day.
+
+In summary, crafting this task request calls for integrating geographic context with mission priorities, understanding sensor objectives and operational phrases, and adhering strictly to the deadline provided in raw format. Our request is designed as a seamless blend of scientific inquiry and operational efficiency, ensuring our satellite constellation planner can execute the mission as intended.
