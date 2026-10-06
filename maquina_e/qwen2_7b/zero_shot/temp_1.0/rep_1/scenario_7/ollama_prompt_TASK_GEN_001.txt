@@ -1,0 +1,7 @@
+The Earth-observation mission operator here requests to capture high-resolution optical imagery through the Vegetation Narrow InfraRed (VNIR) sensor for an area in Colombia, specifically Foraquira city. This "low priority importance" task calls for assessing the chlorophyll absorption level and calculating the vegetation NDVI index to evaluate surface reflectance.
+
+The request is based on the guidelines of an opportunistic capture with a flexible schedule, marking it as a "background survey" that doesn't require urgent execution but ensures the operator can drop or reschedule at convenience.
+
+A "standard operational tasking" has been laid out, which is part of the baseline pipeline tracking setup with fixed parameters representing normal operational status. The task requires capturing the data by three days from now, ensuring the products are ingested into the pipeline before the target diurnal period – overnight – marking the upper limit for data availability.
+
+Please proceed with the capture and prepare the dataset for delivery within these parameters to meet the outlined request.
