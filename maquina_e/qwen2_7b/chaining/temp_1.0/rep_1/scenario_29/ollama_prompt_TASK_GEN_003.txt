@@ -1,0 +1,35 @@
+```prompt
+Translate the following Earth-observation mission metadata into a conversational English request:
+
+Our current task is to gather thermal mapping data in Indonesia, specifically targeting Ketapang. The primary sensor required is TIR (Thermal Infrared), which will help us capture heat signatures and surface temperature profiles for our purposes. This request carries medium importance as outlined by its priority level of 2, indicating a standard operational tasking within the normal workflow of baseline pipeline tracking.
+
+The mission aims to collect this data on a specific day that is scheduled to be in three days around mid-day, a time optimized for efficient data capture under anticipated favorable conditions. Please schedule your asset for a routine monitoring operation with 'fixed parameters', ensuring you adhere to the standard 'baseline pipeline tracking' procedures with normal operational status.
+
+The deadline for this task is firm but flexible. Given the high priority of our institution and contractual requirements, please note that this request must not interfere with any existing priorities or mission locks. This task involves capturing critical information with 'binding contract requirements' as part of our 'critical payload capture', implying an urgent need for execution within the three-day window to meet operational protocols.
+
+Remember to incorporate the operational specifics provided into your request. This means considering daylight photography goals and true-color visual documentation when using VIS sensors, active radar scans with microwave surface imaging capabilities when employing SAR technology, assessing vegetation health and calculating NDVI indices when utilizing VNIR sensors, and mapping water body boundaries or assessing soil moisture with NIR sensors as needed.
+
+As always, ensure the request captures the operational intent precisely. Do not use raw technical system tags or coordinate arrays in your final output. Combine the JSON parameters naturally by using realistic combinations of country, city, and landmark fields from 'location_details'. If necessary, describe locations using remaining valid fields or a clean 'region_name' as fallback.
+
+For further clarity on the mission's execution:
+1. GEOGRAPHIC CONTEXT: Interpret 'region_name' and nested 'location_details' by creating a realistic combination of country, city, and landmark for accurate geographic context without including raw technical system tags, underscores, or coordinate arrays.
+2. MISSION ALLOCATION PRIORITY: Translate priority levels into understandable language that reflects the mission's institutional importance and contractual obligations.
+3. SENSORS AND PHYSICAL OBJECTIVES: Describe physical phenomena based on sensor types in natural terms without technical abbreviations or acronyms such as VIS, SAR, TIR, VNIR, and NIR.
+4. DELIVERY DEADLINE: The data availability deadline is specified as "in three days around mid-day" and should be included verbatim for clarity.
+
+This request is part of our standard operational pipeline tracking setup with 'fixed parameters', ensuring normal operational status with no rephrasing or abbreviation of the provided deadline.
+
+Let's translate this into a conversational request that reflects the guidelines provided:
+"As we look towards gathering thermal mapping data in Indonesia, specifically targeting the area around Ketapang, our institution has outlined this mission as having medium priority for both operational and contractual obligations. We require thermal infrared (TIR) sensors to capture heat signatures and surface temperature profiles for a detailed thermal mapping project.
+
+The schedule is set for three days ahead, with the data collection operation occurring around mid-day when conditions are most favorable for accurate captures. Our request is framed under the category of standard operational tasks that contribute to baseline pipeline tracking, following established procedures with fixed parameters that ensure our 'normal operational status'.
+
+With a firm deadline scheduled in three days around mid-day, this task carries binding contract requirements and is considered a critical payload capture priority. It signifies an urgent need for execution within the specified timeframe to uphold institutional priorities and contractual obligations.
+
+To clarify, daylight photography goals and true-color visual documentation are paramount when using VIS sensors. Active radar scans with microwave surface imaging capabilities highlight the strength of our SAR technology in providing cloud-penetrating captures. When utilizing VNIR sensors, we focus on multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating NDVI indices for comprehensive surface reflectance data.
+
+Conversely, with NIR sensors, we concentrate on mapping water body boundaries or conducting soil moisture assessments to identify gradients efficiently.
+
+Our emphasis is on providing accurate operational specifics without technical jargon. Combining the provided details naturally ensures that geographic context and mission allocation priority are communicated effectively. The delivery deadline in three days around mid-day reflects this task's firm but flexible schedule for 'critical payload capture'.
+
+In conclusion, this Earth-observation mission request is crafted to adhere to all the provided guidelines: incorporating the operational guidelines into a natural, yet professional tone tailored to an automated satellite constellation planner. It highlights our institution's commitment to executing missions with high precision and efficiency while adhering to contractual commitments."
