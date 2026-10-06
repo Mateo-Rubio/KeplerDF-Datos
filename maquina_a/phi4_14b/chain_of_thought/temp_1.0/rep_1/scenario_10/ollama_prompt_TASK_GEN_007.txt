@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates that the deadline for capturing and delivering the data products is two days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of the data collection, which should occur during the night hours.
+
+c) The single word contained in "overnight" that must appear literally in the final request is "overnight". It indicates the specific period when the satellite should perform the task.
+
+d) To confirm I am not shifting the deadline, I need to ensure that both the target day and diurnal period are strictly adhered to. The mission must be completed by "the day after tomorrow" during the "overnight" period, without altering or extending this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'd like to submit a flexible schedule request for a low priority importance data capture over Colombia, specifically in the city of Apartadó. We are looking for a thermal mapping operation to provide surface temperature profiles and detect any thermal anomalies, using thermal infrared sensors. The task should be executed as an opportunistic capture with the ability to drop or reschedule at convenience, treating it as a background survey. Please plan to have this completed overnight on the day after tomorrow, ensuring that we meet the strict operational deadline for data delivery.

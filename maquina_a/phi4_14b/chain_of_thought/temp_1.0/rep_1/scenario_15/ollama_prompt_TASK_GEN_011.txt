@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates the time frame for when the task should be completed.
+
+b) The exact string provided in 'target_diurnal_period' is "in the evening". This specifies the part of the day during which the observation is to be conducted.
+
+c) The word "evening" from the set {morning, mid-day, afternoon, evening, overnight} is contained within the 'target_diurnal_period' string. This specific time of day will be included in the final request.
+
+d) The instructions clearly indicate that we must not shift the deadline to another part of the day. Therefore, I will adhere to the specified "evening" timeframe on "tomorrow", ensuring the request aligns with the strict operational deadline set for this mission.
+
+**STAGE 2 - FINAL REQUEST**
+
+Please initiate a standard operational tasking to perform an active radar scan using microwave surface imaging in Corteno Golgi, Italy. This is part of our baseline pipeline tracking setup with fixed parameters reflecting normal operational status, focusing on capturing cloud-penetrating imagery that can pierce through heavy weather conditions or capture ground geometry. The data collection for this mission should be executed tomorrow in the evening.

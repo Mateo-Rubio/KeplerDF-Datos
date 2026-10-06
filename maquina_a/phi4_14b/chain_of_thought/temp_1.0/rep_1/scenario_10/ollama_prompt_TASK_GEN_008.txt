@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+The first step involves examining the 'target_day' and 'target_diurnal_period' keys in the JSON metadata to extract specific strings that will be directly used in our final request. The 'target_day' string is "in four days," indicating when the task needs to be completed without any alterations. Similarly, the 'target_diurnal_period' key holds the value "overnight," specifying the time of day when the data collection should occur.
+
+Next, I will identify which part of the day 'overnight' falls into from the given options: {morning, mid-day, afternoon, evening, overnight}. The term "overnight" corresponds directly to itself within these choices. This means that during the task, observations should ideally be made between midnight and early morning.
+
+Finally, it is essential to confirm that I am adhering strictly to the deadline as stated, without shifting or extending the specified timeframe. The request specifies an operational deadline of "in four days" with data capture occurring "overnight." There is no indication to change this schedule to any other part of the day, ensuring we comply with the given parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking scheduled for Italy, focusing on the northern region. This request is part of our baseline pipeline tracking setup and involves using high-resolution optical snapshots for daylight photography. The task is set to be completed in four days, specifically overnight, to capture clear optical imagery during that period. Please proceed with fixed parameters representing this as a normal operational status within our workflow update framework.

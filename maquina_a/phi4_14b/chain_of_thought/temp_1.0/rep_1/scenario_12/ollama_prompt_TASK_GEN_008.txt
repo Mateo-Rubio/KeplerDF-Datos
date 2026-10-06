@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The provided JSON metadata for the task request is analyzed as follows:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the part of the day during which data capture should occur.
+
+c) Out of the options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is present in the string. This must be used literally in the final request to describe when the data collection should take place.
+
+d) It is important not to shift the deadline to another part of the day or extend it beyond what is specified. The task must adhere strictly to being completed overnight, specifically targeting "tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+Please consider this a low-priority importance request with a flexible schedule for opportunistic capture. We are interested in observing the region of Norte using a near-infrared reflection sensor, focusing on assessing water body boundary mapping or soil moisture gradients. While we acknowledge this as a non-essential background filler task, you may drop or reschedule it at your convenience. However, if possible, we would appreciate any efforts to capture data tomorrow overnight, maintaining the standard workflow update and baseline pipeline tracking.
