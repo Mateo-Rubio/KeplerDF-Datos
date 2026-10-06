@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a single, highly realistic and conversational English request. 
+
+Interpret the location details by combining the country 'Colombia', city 'Paya', and landmark 'N/A' fields naturally. Describe the location as being in Colombia, specifically focusing on the town of Paya, for thermal mapping. 
+
+The priority indicates a low importance task with flexible scheduling for opportunistic capture. Frame this as a 'non-essential background filler task' with a 'flexible schedule', where the operator notes to 'drop or reschedule at convenience' for 'background survey' or 'testbed tracking'. 
+
+Explain the goal as 'thermal mapping' for capturing a 'heat signature', 'surface temperature profile', or 'thermal anomaly detection' and mapping heat emissions. 
+
+The relative timeframe indicates a strict operational deadline to deliver the data products, not the orbital capture window. Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase to explicitly mark the upper limit for data availability. In this case, the data must be ready by tomorrow during the afternoon at the latest.
+
+Here is the task request: 
+
+"We require a non-essential background filler task with flexible scheduling for opportunistic thermal mapping capture in Colombia, specifically focusing on the town of Paya. The goal is to perform thermal mapping and capture a heat signature, surface temperature profile, or thermal anomaly detection and mapping heat emissions. Ensure the products are ingested into the pipeline before tomorrow afternoon at the latest."

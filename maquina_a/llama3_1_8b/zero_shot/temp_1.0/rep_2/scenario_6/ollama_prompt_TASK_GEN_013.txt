@@ -1,0 +1,18 @@
+Translate the metadata provided in JSON format below into a single, highly realistic, and conversational English request.
+
+Metadata:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Tocaima"
+  },
+  "priority_level": 3,
+  "target_day": "today",
+  "target_diurnal_period": "in the evening"
+}
+
+The task involves capturing a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of a region in Colombia. The objective is to assess the vegetation's chlorophyll absorption level and calculate the NDVI index, along with surface reflectance, as an absolute institutional priority. This critical payload capture must be executed as per a binding contract requirement involving urgent operational execution and un-preemptable mission lock.
+
+Ensure that the data products are ingested into the pipeline before today in the evening at the latest, adhering strictly to the delivery deadline for normal operational status.

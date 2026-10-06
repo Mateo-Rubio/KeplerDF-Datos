@@ -1,0 +1,5 @@
+Translate the raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request.
+
+The goal of this task is to conduct a multispectral vegetation analysis using VNIR (Visible and Near-Infrared) sensors over the region of Italia, specifically focusing on the area around Arsiero. This will involve assessing the chlorophyll absorption level and calculating the vegetation NDVI index, as well as surface reflectance.
+
+This is a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need to complete this task by in four days in the morning at the latest, ensuring the products are ingested into the pipeline before then.

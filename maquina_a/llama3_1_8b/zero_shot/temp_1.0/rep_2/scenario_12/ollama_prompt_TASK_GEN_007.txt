@@ -1,0 +1,16 @@
+Translate the raw physical simulation metadata into a single, highly realistic and conversational English request for the Earth-observation mission operator. Ensure that the request accurately reflects the operational guidelines provided.
+
+
+Geographic Context: Combine the provided location details naturally to create a clear and descriptive location. The region is located in Colombia, specifically in the city of Otanche. Use this information to create a precise and meaningful location description.
+
+
+Mission Allocation Priority: Reflect the priority level through your language choice. Since the priority level is 3 (High Importance), frame the request as an "absolute institutional priority" involving a "critical thermal mapping" operation. This task must be completed by capturing the required data products and ensuring they are ingested into the pipeline before in three days in the evening.
+
+
+Sensors and Physical Objectives: Explain the goal of the mission using natural language that reflects the chosen sensor and its objectives. Since the primary_sensor is TIR, frame the objective as "thermal mapping" to capture a heat signature or surface temperature profile. This thermal mapping operation is critical for detecting thermal anomalies and mapping heat emissions.
+
+
+Relative Timeframes: Weave the target_day and target_diurnal_period into your request to mark the strict operational deadline for data availability. The task must be completed with a delivery deadline set for in three days in the evening at the latest.
+
+Final Request:
+"Complete an absolute institutional priority involving critical thermal mapping operation to capture a heat signature or surface temperature profile by in three days in the evening at the latest."
