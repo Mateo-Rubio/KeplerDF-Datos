@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This specifies when the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This provides additional context for the timing of the task within the specified day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string "in the evening" is "evening". This indicates when during the day the capture should ideally occur or be prioritized.
+
+d) There is no indication or instruction to shift the deadline to any other part of the day. The operational parameters specify that data must be delivered by "tomorrow evening", so this timeframe remains strict and unaltered for delivery purposes.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a standard operational tasking for a high-resolution optical snapshot over Kuning Selatan, Malaysia. This is part of our baseline pipeline tracking setup, and I need this visual documentation as a routine monitoring activity with fixed parameters. Please ensure the mission is executed by tomorrow evening.

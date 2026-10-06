@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by analyzing the metadata to structure a request. 
+
+a) The string in 'target_day' is "the day after tomorrow." This indicates that the mission should aim to capture data two days from today.
+
+b) The string in 'target_diurnal_period' is "during the afternoon." This specifies when during the specified day the data capture should occur, focusing on the latter part of the day.
+
+c) Within the diurnal period string, the word "afternoon" clearly appears. This will be the key time reference in our request.
+
+d) It's crucial to note that we are not allowed to shift this deadline. The afternoon of "the day after tomorrow" is a firm requirement and must be adhered to without modification.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a task executed in the standard operational framework for Malaysia, specifically Bukit Mabong. This involves a normal operational status monitoring for our ongoing commercial tasking pipeline, with fixed parameters representing a typical workflow update. Our objective is to gather near-infrared reflection data to aid in soil moisture assessment and water body boundary mapping during the afternoon of the day after tomorrow. This routine operation fits well into our baseline pipeline tracking, and we look forward to incorporating these findings into our standard data analysis processes.

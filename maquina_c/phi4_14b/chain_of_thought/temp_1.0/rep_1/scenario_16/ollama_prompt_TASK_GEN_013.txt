@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific information about the mission task. First, let's determine the strings for 'target_day' and 'target_diurnal_period'. The exact string in 'target_day' is "in three days". This indicates that the task needs to be completed within this time frame, highlighting a strict deadline.
+
+Next, looking at 'target_diurnal_period', the exact string given is "overnight". This suggests that the data collection is intended for the nighttime period.
+
+Now, to identify which single word from the set {morning, mid-day, afternoon, evening, overnight} is contained within the string for 'target_diurnal_period'. The literal word present is "overnight", indicating the task requires data capture during this diurnal period.
+
+Lastly, it's crucial to confirm that there is no shifting of the deadline to another part of the day. Since both the 'target_day' and 'target_diurnal_period' have been clearly specified as "in three days" and "overnight," respectively, we adhere strictly to these parameters without any modification or reinterpretation. This ensures the mission meets its operational deadline accurately.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority task that requires urgent operational execution with an un-preemptable mission lock. We need a thermal mapping operation over Samacá, Colombia, focusing on capturing a surface temperature profile and detecting any thermal anomalies. This critical payload capture must be conducted using our primary sensor capabilities for "in three days" during the "overnight" period to ensure timely delivery of data products as per our binding contract requirements.
