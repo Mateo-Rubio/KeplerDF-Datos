@@ -1,0 +1,7 @@
+We are tasked with capturing a near-infrared (NIR) spectral band on data that will be collected tomorrow, specifically in the evening. The target area is Norte, but since country details are not specified, we'll proceed with a general focus on its geographic position without relying on country-specific information for location context.
+
+To address this requirement, our automated satellite constellation planner will allocate resources to ensure that an active radar scan using microwave surface imaging commences in the evening of tomorrow. This cloud-penetrating capture will provide crucial data for monitoring the region's surface features under conditions that might otherwise obscure such details during daytime or in heavy weather.
+
+This task carries a medium priority level due to its importance in our baseline pipeline tracking and operational status. It is part of our standard workflow updates without any close deadlines necessitating urgent action beyond the specified operational window.
+
+In executing this request, the deadline for delivering data products remains fixed to "tomorrow evening," which is the specific time frame stipulated by the JSON metadata.
