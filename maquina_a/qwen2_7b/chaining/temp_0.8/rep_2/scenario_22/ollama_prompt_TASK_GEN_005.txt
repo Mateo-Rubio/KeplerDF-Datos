@@ -1,0 +1,17 @@
+Translate this raw physical simulation metadata into a conversational English request:
+
+Target task context: Observing the Norte region overnight tomorrow using a VIS sensor for high-resolution daylight photography. The mission has low importance, so it can be scheduled flexibly as a background survey. This data is intended to capture clear optical imagery that can serve as true-color visual documentation of the area.
+
+Given the operational guidelines:
+
+1) The geographical context indicates we're focusing on Norte. As it's described as being in a region with no specific country or city details, we'll combine the available information for a realistic description. We won't use raw technical system tags or coordinate arrays.
+
+2) The priority level is set at 1 (low importance). This means that the request can be treated as a low priority task with a flexible schedule. It's framed as a non-essential background filler task, meant to be dropped or rescheduled for convenience.
+
+3) The primary sensor mentioned is VIS. To maintain naturalness and validation accuracy, this should be explained as the goal being a high-resolution optical snapshot for daylight photography. It's clear that the imagery captured will serve a visual documentation purpose in true-color format.
+
+4) The deadline for this task has already been resolved by an upstream module with the phrase "tomorrow overnight". This is stated as the upper limit for data availability and must be included verbatim in the request.
+
+In summary, our task request combines all these details into:
+
+"Tomorrow overnight, we aim to capture high-resolution daylight photographic imagery of the Norte region using a VIS sensor. This task carries low importance and operates under a flexible schedule, serving as a background survey. Please schedule this capture according to your operational convenience."

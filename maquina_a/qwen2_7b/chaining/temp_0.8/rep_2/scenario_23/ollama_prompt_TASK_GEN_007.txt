@@ -1,0 +1,11 @@
+As the designated operator of an Earth-observation mission, I hereby submit a task request to the automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request focusing on natural language interpretation and validation accuracy.
+
+Our geographic context revolves around Colombia, specifically the city of La Cumbre, as detailed within the 'region_name' and 'location_details'. We combine these parameters to describe the location with realism, leveraging available fields for a nuanced understanding. If any country, city, or landmark details were absent, we would have gracefully omitted them and described the region using 'region_name' instead.
+
+The mission allocation priority is set at medium importance based on the provided 'priority_level'. We will convey this as "standard operational tasking", emphasizing its place within our baseline pipeline tracking setup. This highlights our "normal operational status" and incorporates fixed parameters, representing a routine monitoring or workflow update request.
+
+Our primary sensor is specified as SAR, which requires an active radar scan utilizing microwave surface imaging to capture cloud-penetrating details. This technique is critical for obtaining ground geometry information under heavy weather conditions or for any scenario requiring precise radar imagery.
+
+The operational context for this task involves capturing data on a specific day four days ahead, around mid-day. We have chosen these exact phrases to reflect the specified deadline without any rephrasing, ensuring clarity and consistency with the provided upper limit for data availability.
+
+In summary, our Earth-observation mission aims to execute an essential tracking task with medium importance levels, focusing on acquiring detailed SAR imagery for Colombia's La Cumbre region around mid-day four days from now. This request encapsulates our operational guidelines while maintaining the naturalness and validation accuracy of the dataset.

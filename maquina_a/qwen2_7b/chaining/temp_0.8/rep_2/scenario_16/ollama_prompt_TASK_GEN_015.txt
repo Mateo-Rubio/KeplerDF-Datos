@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate the provided raw physical simulation metadata into a highly realistic, conversational English request that maximizes naturalness and validation accuracy. Given the guidelines and the input JSON format, here's how we should articulate our request:
+
+We're focusing on capturing a high-resolution optical snapshot of Malaysia, specifically the region around Kuning Selatan, utilizing a visible sensor. This is part of our standard operational tasking, aligning with baseline pipeline tracking. It's essential for "cloud-penetrating capture", offering clear daylight photography and true-color visual documentation that will support normal operational status.
+
+Our priority level indicates this request is of medium importance. Considering the mission allocation authority and asset contractual value, we treat it as a standard operational task without urgency related to deadlines; instead, it's framed as a fixed parameter within our normal workflow update cycle. We're looking to drop or reschedule this task based on convenience if necessary, treating it as a background survey or testbed tracking task.
+
+Given the physical objectives, we aim for detailed optical imagery that may include chlorophyll absorption levels and vegetation NDVI index calculations. The deadline for data availability is set for "tomorrow in the evening". This upper limit for data availability has already been resolved by an upstream module, ensuring our request adheres to pre-established constraints.
+
+Let's proceed with executing this task to capture the essence of Kuning Selatan's geography and environment through high-resolution imagery that meets our operational standards.

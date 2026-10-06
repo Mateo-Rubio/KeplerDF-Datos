@@ -1,0 +1,18 @@
+```prompt
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I hereby translate raw physical simulation metadata into a highly realistic, conversational English request. Here are the operational guidelines guiding this translation:
+
+Geographically, we're looking at a target in Norte, Brazil, which is part of the region_name with no explicit country, city, or landmark data provided. We interpret this location by describing it using clean fields or directly from 'region_name'.
+
+Our mission allocation prioritization follows three levels: 3 (High Importance), 2 (Medium Importance), and 1 (Low Importance). This task falls under Priority 1, labeled as "low priority importance" with a "flexible schedule" for "opportunistic capture".
+
+Sensors and physical objectives are as follows: VIS (VISual Spectral Imaging) aims for a "high-resolution optical snapshot" to capture "daylight photography", providing "clear optical imagery" or "true-color visual documentation". The deadline for this task is resolved by an upstream module, being "in three days overnight".
+
+With these guidelines in mind, I formulate the request:
+
+We're in need of an Earth observation task focusing on a location in Norte, Brazil, with priority marked as Low Importance. This task requires capturing a VIS (VISual Spectral Imaging) image, which aims to produce clear optical imagery for daylight photography. The high-resolution optical snapshot will serve as true-color visual documentation. Our deadline is set with the statement "in three days overnight," emphasizing that this timeframe represents the data availability upper limit and should be adhered to without alteration.
+
+Let's proceed with the request:
+
+"In three days overnight, we aim to capture a high-resolution optical snapshot of Norte, Brazil, focusing on the VIS sensor capabilities. This task prioritizes clear daylight photography for true-color visual documentation, aligning with our flexible schedule for opportunistic capture under Low Importance guidelines."
+
+This request integrates operational guidelines naturally while maintaining the conversational tone suitable for Earth-observation mission submissions."

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner with a focus on achieving a highly realistic and conversational English output. The raw physical simulation metadata provided in JSON format aims to translate into a single request that maximizes the naturalness and validation accuracy of our dataset.
+
+Given the geographical context described by the 'region_name' 'Ráquira', Colombia, I combine this with the nested 'location_details' fields to provide a vivid description of the area. Although both country and city are mentioned as "N/A", the landmark field 'Ráquira' serves as our specific location, allowing us to frame our request in terms of a specific place.
+
+Considering the priority level set at 'Priority 1', this implies a low importance request, with a flexible schedule for opportunistic capture, treated as a non-essential background filler task. We frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", explicitly noting to "drop or reschedule at convenience", and labeling it as a "background survey" or "testbed tracking task".
+
+Our primary sensor is specified as 'VIS', interpreted through natural language to explain the goal as a "high-resolution optical snapshot". This aims to produce "daylight photography", provide "clear optical imagery", or offer "true-color visual documentation", capturing our understanding of the physical phenomenon.
+
+Given the delivery deadline, which has been resolved by an upstream module as being "in three days around mid-day", we integrate this phrase verbatim into our request. We do not rephrase, shorten, or move it to a different part of the day. The focus shifts on ensuring the dataset meets the specified deadline, with the understanding that it serves as an upper limit for data availability.
+
+In summary, our task request combines operational guidelines to provide a rich, natural language description of the mission's details while adhering to technical specifications and emphasizing the importance of the dataset within the context of our mission priorities. The final output is crafted to align with the guidelines provided, ensuring the request meets both functional requirements and linguistic expectations.
