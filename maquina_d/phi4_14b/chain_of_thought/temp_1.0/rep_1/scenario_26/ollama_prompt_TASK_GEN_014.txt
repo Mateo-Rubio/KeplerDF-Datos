@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days." This indicates when the data capture should be completed and delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the timeframe during which the observation should occur relative to the diurnal cycle.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string is "overnight." This word will be used in the final request.
+
+d) In interpreting these parameters, it's important not to alter the original deadline or timeframe provided. The operational deadline specifies that the task must be executed and delivered "in four days" during the "overnight" period. Shifting this timeframe or deadline to a different part of the day or to another time would contradict the strict operational requirement.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm requesting a flexible, low-priority observational task over the region known as Norte in Italy, focusing on near-infrared reflection for soil moisture assessment and water body boundary mapping. This is an opportunistic capture request that can be adjusted or rescheduled as needed; please treat it as a background survey. The deadline for data delivery is set "in four days," during the "overnight" period.

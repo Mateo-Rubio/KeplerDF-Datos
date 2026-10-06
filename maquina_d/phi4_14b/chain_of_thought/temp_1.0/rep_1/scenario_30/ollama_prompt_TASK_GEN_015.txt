@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves interpreting metadata for an Earth-observation mission request concerning a specific geographic region in Indonesia and utilizing a priority SAR sensor for data acquisition.
+
+a) The exact string present in 'target_day' is "tomorrow." This directly indicates the deadline for data delivery, emphasizing that the request needs to be fulfilled by the next calendar day from the current moment. 
+
+b) The exact string found in 'target_diurnal_period' is "overnight." This refers to the time frame within which the mission's data capture should occur, suggesting activities during the nighttime hours.
+
+c) The single word contained within "overnight" that is a part of the specified set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term is crucial as it must appear verbatim in the final request to precisely convey the timing aspect.
+
+d) In this context, "overnight" explicitly defines the period during which the data collection should happen. The mission planning must ensure that all operations are scheduled correctly without any shift or reinterpretation of the timeframe to an adjacent part of the day, such as morning or evening. The deadline remains firmly set for tomorrow during the overnight hours, requiring adherence to this strict temporal window for operational execution.
+
+### STAGE 2 - FINAL REQUEST
+
+This mission is of absolute institutional priority, involving a critical payload capture using an active radar scan with microwave surface imaging capabilities. We urgently request cloud-penetrating capture over Ecuatorial city in Indonesia, focusing on ground geometry assessment during the overnight period tomorrow. This is a binding contract requirement, emphasizing an un-preemptable mission lock, necessitating urgent operational execution.
