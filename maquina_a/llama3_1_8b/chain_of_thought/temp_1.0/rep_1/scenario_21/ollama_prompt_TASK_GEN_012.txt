@@ -1,0 +1,9 @@
+Let's work through the questions in Stage 1.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning". It appears literally in the string "in the morning".
+
+d) We are not shifting the deadline to an adjacent part of the day. The deadline is explicitly stated as "in four days", which means we are focusing on the exact date and not moving it to a different time within the same day.

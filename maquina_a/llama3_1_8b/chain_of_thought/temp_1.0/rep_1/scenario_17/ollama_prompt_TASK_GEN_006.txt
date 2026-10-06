@@ -1,0 +1,14 @@
+Let's break down the provided JSON metadata into a realistic request.
+
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is: "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is: "around mid-day".
+
+c) The single word contained in that string is: "mid-day".
+
+d) The deadline to deliver the data products is not being shifted. The 'target_day' indicates that the task should be completed by tomorrow, and the 'target_diurnal_period' indicates that it should be done around mid-day, which implies a specific time on that day.
+
+STAGE 2 - FINAL REQUEST:
+This is a standard operational tasking, as part of a routine pipeline tracking setup with fixed parameters representing normal operational status. The objective is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, piercing heavy weather or capturing ground geometry. We require this around mid-day tomorrow.

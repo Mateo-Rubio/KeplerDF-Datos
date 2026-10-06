@@ -1,0 +1,9 @@
+Here's my response to the four questions in Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string in 'target_diurnal_period' is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the request is for data delivery on "the day after tomorrow", which is a specific date, not a range of time within a day.

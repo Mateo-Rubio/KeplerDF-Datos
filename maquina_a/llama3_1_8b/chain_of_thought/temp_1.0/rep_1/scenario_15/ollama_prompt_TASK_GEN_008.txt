@@ -1,0 +1,13 @@
+Let's work through the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) We are not shifting the deadline to an adjacent part of the day; we are simply stating the time period within which the task needs to be completed, without altering it in any way.
+
+Let's proceed to STAGE 2. Here is the operational request:
+
+...This routine monitoring tasking is part of a commercial tasking setup with fixed parameters representing normal operational status. We require a standard operational day snapshot using near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. The location is Piacenza, Italy. Please ensure that the data products are delivered in three days and captured in the morning...
