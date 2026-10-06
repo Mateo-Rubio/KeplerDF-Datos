@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today". This indicates that the task must be executed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies that the data acquisition should occur specifically within the afternoon timeframe.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in this string is "afternoon". This word must be included verbatim in the final request to ensure alignment with the specified timeframe for data capture.
+
+d) It is crucial not to shift the deadline to an adjacent part of the day. The task specifies "during the afternoon," and any alteration to this period would violate the strict operational deadlines set forth by the parameters. Therefore, we must adhere to the given timeframe without adjustment or reinterpretation.
+
+---
+
+STAGE 2 - FINAL REQUEST
+
+I urgently request a thermal mapping mission over Mak Teduh in Indonesia today, during the afternoon. This task is of absolute institutional priority and involves a critical payload capture essential for identifying heat signatures and surface temperature profiles in the area. The urgency of this operation is paramount, with an un-preemptable mission lock to ensure timely data delivery as part of our binding contract requirements.

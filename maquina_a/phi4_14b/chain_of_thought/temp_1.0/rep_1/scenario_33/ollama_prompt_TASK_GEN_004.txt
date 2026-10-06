@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+The target day for the task is specified as "tomorrow." This string indicates that the data capture must be completed within one day from the current date. The 'target_diurnal_period' given in the JSON metadata is "in the morning." This specifies that the task should be conducted during the morning hours of the following day. From the provided list of potential times of the day, the word "morning" appears in this string, indicating that our operations need to be completed during that time frame specifically. The requirement for the task to occur "in the morning" of "tomorrow" is strict; there is no indication or allowance within the metadata to shift this deadline to any other part of the day. It must strictly happen in the morning, which provides a precise and unambiguous window for execution. Thus, it's crucial to ensure the operations are aligned with this exact timeframe to meet the specified requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for Zetaquira, Colombia, where we would like an opportunistic schedule to capture data using near-infrared reflection for assessing soil moisture levels. This task is not urgent, so feel free to drop or reschedule it at your convenience. We're interested in capturing this data tomorrow, in the morning, to see if you can fit it into your operational workflow as a non-essential background filler task.

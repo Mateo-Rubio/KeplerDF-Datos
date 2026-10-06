@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The provided JSON metadata outlines a task for an Earth-observation mission with specific parameters. To create a conversational request, we must interpret these details accurately.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data product needs to be delivered, marking the strict operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day for the observation task.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "mid-day" is contained in the string "around mid-day." This term will be used explicitly in the final request to convey the timing accurately.
+
+d) The instructions emphasize that the deadline must not be shifted to another part of the day. Therefore, the observation task is strictly scheduled for "tomorrow around mid-day," ensuring adherence to the specified timeframe without any alterations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm reaching out with a flexible schedule request for a non-essential background filler task in Malaysia, specifically around Bukit Mabong. We're interested in an opportunistic capture of near-infrared reflection data for soil moisture assessment. This low priority importance task should be conducted tomorrow around mid-day, and please feel free to drop or reschedule at your convenience. This would serve as a background survey to help us test our systems and gather additional insights without urgency.

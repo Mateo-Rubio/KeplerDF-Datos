@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This indicates that the request must be completed within a deadline of three days from now. It's essential to maintain this as the operational deadline for delivering the data products, without altering or extending it.
+
+b) The exact string given for 'target_diurnal_period' is "in the morning". This specifies the time of day when the data acquisition should occur, emphasizing the need to conduct operations during this timeframe.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This term must be included verbatim in the final request to accurately describe the time of day for the operation.
+
+d) There is no indication or necessity to shift the deadline to an adjacent part of the day. The deadline and diurnal period are explicitly defined as "in three days" and "in the morning," respectively. These parameters are strictly to be adhered to, ensuring that the task is performed exactly within this timeframe and not adjusted elsewhere in the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an opportunity to conduct a non-essential background filler task with a flexible schedule for opportunistic capture over Arezzo, Italy. This mission involves performing an active radar scan using microwave surface imaging, aiming for a cloud-penetrating capture that can accurately depict ground geometry, especially useful in heavy weather conditions. The request is low priority importance, allowing for the possibility to be dropped or rescheduled at convenience if necessary. The data products are to be delivered by "in three days", specifically "in the morning". This task aligns well as a background survey within our broader operations, and we appreciate any chances to integrate it when resources allow.

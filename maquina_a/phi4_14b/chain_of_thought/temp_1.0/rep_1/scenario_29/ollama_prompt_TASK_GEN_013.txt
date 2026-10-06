@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow". This indicates a specific and clear deadline for when the data needs to be captured or delivered.
+
+b) The 'target_diurnal_period' has the exact string "overnight". This describes when during the day the satellite should capture the necessary imagery, focusing on nighttime conditions.
+
+c) Within the string "overnight", the word that directly matches from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This specifies the diurnal period during which the task needs to be executed.
+
+d) The instruction explicitly states that the temporal parameters are a strict operational DEADLINE. Therefore, it is critical not to shift the deadline to any other part of the day. The request must be aligned precisely with the stated timeframe: "the day after tomorrow" and specifically "overnight".
+
+### STAGE 2 - FINAL REQUEST
+
+This task is an absolute institutional priority requiring a binding contract requirement for a critical payload capture. As part of this urgent operational execution, we mandate a non-preemptable mission lock involving the use of a multispectral sensor to assess the chlorophyll absorption level over Aipe, Colombia. We are particularly focused on calculating a vegetation NDVI index and analyzing surface reflectance during "the day after tomorrow" in the "overnight" period. It is imperative that this data capture adheres strictly to the set deadline without any deviation or delay.

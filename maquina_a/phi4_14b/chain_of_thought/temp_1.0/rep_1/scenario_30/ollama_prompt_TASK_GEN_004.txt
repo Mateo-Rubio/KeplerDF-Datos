@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in the final request.
+
+d) It is crucial to note that the deadline specified as "overnight in three days" is fixed and should not be altered. The task must be executed during the overnight period exactly three days from now, without shifting it to another time of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request for an opportunistic capture with a flexible schedule for a satellite observation over Uribe, Colombia. This task is designated as a non-essential background filler task, and we can drop or reschedule it at convenience if necessary. The primary focus is to conduct an active radar scan using microwave surface imaging to perform cloud-penetrating capture. This will help in capturing ground geometry effectively. The deadline for this data collection is overnight in three days, aligning with our operational timeline requirements.
