@@ -1,0 +1,11 @@
+As an operator of Earth-observation missions, I hereby submit a task request for the automated satellite constellation planner to address the following requirements:
+
+I need a high-resolution active radar scan using microwave surface imaging techniques for the region in question. The operational objective involves capturing ground geometry or cloud-penetrating imagery across the specified area in Colombia, specifically the city of Uribe.
+
+This task carries a low priority importance and can be scheduled as a non-essential background filler task. It falls under the category of a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The critical deadline for data availability is set by 'target_day' which is three days hence and 'target_diurnal_period', marked for the overnight block. I aim to ensure that the products are ingested into the pipeline before midnight of the day specified, in accordance with the deadline.
+
+Let this task be treated as a standard operational tasking within the baseline pipeline tracking setup with fixed parameters representing normal operational status or a routine monitoring requirement.
+
+Thank you for your attention and cooperation.
