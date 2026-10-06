@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "around mid-day."
+
+c) The single word contained in the string 'target_diurnal_period' that matches one of {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word must appear literally in the final request.
+
+d) The instructions emphasize that the deadline should not be altered or shifted to any adjacent part of the day. This ensures that we respect the given timeframes as strict operational deadlines and do not interpret them to mean a different period of the day, such as early afternoon or late morning. Therefore, "around mid-day" is to be interpreted precisely within its designated timeframe without extending it to adjacent periods.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a request for an Earth-observation task over Valdivia, Colombia, using SAR sensors. This request falls under low priority importance with a flexible schedule for opportunistic capture. Specifically, we're looking at conducting an active radar scan employing microwave surface imaging, ideal for cloud-penetrating capture to reveal ground geometry or detailed surface features. Given its classification as a non-essential background filler task, there is flexibility to drop or reschedule the operation at convenience. The deadline for data delivery is set for the day after tomorrow, around mid-day.

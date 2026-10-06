@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates when the data delivery should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of data acquisition during the target day.
+
+c) The single word contained in 'target_diurnal_period' that must appear literally in the final request is "overnight".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The operational deadline remains strictly "in four days, overnight" as specified, meaning the data products are due by then and should be captured during that time period.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a satellite task focused on capturing active radar scans over Ecuatorial in Indonesia using microwave surface imaging. This task is for cloud-penetrating capture, ideal for acquiring ground geometry through heavy weather conditions. It's a low priority importance request with a flexible schedule for opportunistic capture, and I note that it can be dropped or rescheduled at convenience if needed. The operator should aim to deliver these data products in four days, specifically during the overnight period.

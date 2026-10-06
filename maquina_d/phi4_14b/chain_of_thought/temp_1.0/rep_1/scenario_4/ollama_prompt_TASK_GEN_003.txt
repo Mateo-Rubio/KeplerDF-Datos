@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+Let's first look at the target day specified in the JSON. The exact string in 'target_day' is "the day after tomorrow." This indicates when the task should be completed, so we must adhere strictly to this timeframe for the deadline.
+
+Next, let's consider 'target_diurnal_period.' The exact string given here is "overnight." This suggests the time during which the data collection needs to occur, and it clearly points to nighttime operations.
+
+In examining which part of the day is involved, the word "overnight" directly corresponds with the timeframe from late evening through the morning hours. For this task, we must focus on the term "overnight," as it is crucial for understanding when the task should be executed.
+
+Finally, we need to confirm that there will be no adjustments to this deadline in terms of timing during the day. The instructions explicitly state not to shift or reinterpret the deadline, which means we cannot change "overnight" to any other time period like morning, mid-day, afternoon, or evening. It must remain as "overnight."
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for our baseline pipeline tracking setup with fixed parameters representing normal operational status. We need a thermal mapping of the region in Indonesia, specifically the city of Banyuasin, to capture a surface temperature profile or thermal anomaly detection and map heat emissions. This task is scheduled for the day after tomorrow and must be completed overnight to ensure data collection within the designated time frame.
