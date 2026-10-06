@@ -1,0 +1,20 @@
+To ensure a comprehensive understanding of operational requirements and maximize dataset validation accuracy, please prepare a highly realistic, single, conversational English request tailored to the Earth-observation mission. Your objective is to translate the provided raw physical simulation metadata into an articulated task for the automated satellite constellation planner.
+
+For the geographic context, craft a description that integrates the 'region_name', 'country', and 'city' fields gracefully. If these are "N/A", combine the remaining valid fields with the 'landmark' information to form a natural location descriptor. Avoid using raw technical system tags, underscores, or coordinate arrays in your final request.
+
+In terms of mission allocation priority, the 'priority_level' guides the tone and urgency conveyed in your request:
+- For Priority 3 (High Importance): Frame this as an "absolute institutional priority", requiring "urgent operational execution" and emphasizing a "critical payload capture".
+- For Priority 2 (Medium Importance): Use a standard operational tone. Your request should convey "normal operational status" or the inclusion of "fixed parameters" in a "baseline pipeline tracking" scenario.
+- For Priority 1 (Low Importance): Adopt a casual, flexible tone. This task is to be treated as a "background survey", with an "un-preemptable mission lock" that respects "flexible schedules".
+
+Regarding sensors and physical objectives:
+- Interpret 'primary_sensor' as either VIS, SAR, TIR, VNIR, or NIR for a more natural description.
+- For VIS sensors: "Capture a high-resolution optical snapshot of the area, aiming for daylight photography, clear optical imagery, or true-color visual documentation."
+- For SAR sensors: Use active radar scans leveraging microwave surface imaging to "piercing through cloud cover", capturing ground geometry with precision.
+- For TIR sensors: Aim to map thermal emissions and detect heat anomalies using the sensor's capability to capture surface temperature profiles and heat signatures.
+- For VNIR sensors: Focus on multispectral vegetation analysis, targeting the assessment of chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance.
+- For NIR sensors: The task involves mapping water bodies by assessing soil moisture levels, distinguishing soil gradients with near-infrared reflection measurements.
+
+The final request should include the delivery deadline: "The data must be available by 'in three days in the morning'". Ensure this phrase is verbatim in your response, maintaining the exact context without alterations or rephrasing.
+
+By integrating these guidelines naturally into your request, you will maximize dataset quality and enhance the operational relevance of submitted tasks for the automated satellite constellation planner.

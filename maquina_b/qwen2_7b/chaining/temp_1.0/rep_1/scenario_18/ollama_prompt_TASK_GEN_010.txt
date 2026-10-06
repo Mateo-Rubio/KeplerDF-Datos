@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my goal is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. The objective involves combining keys like 'region_name', 'location_details', 'priority_level', 'primary_sensor', and 'target_day' to create a single, precise request that maximizes naturalness and validation accuracy.
+
+Geographically speaking, we're focusing on the location of Concepción, Colombia, captured with a thermal infrared sensor (TIR) in play. The task aims for a heat signature or surface temperature profile using this equipment. This area is to be observed during a critical operational period tomorrow afternoon.
+
+Given the 'priority_level' set at 1, this request is categorized as a low priority importance task, framed within flexible scheduling and a non-essential background filler task context. The operator explicitly notes that the request can be dropped or rescheduled at convenience, considering it to be an opportunistic survey that complements existing workflow without setting strict deadlines.
+
+As for the delivery deadline, it's set for tomorrow during the afternoon. This phrase must be inserted verbatim into the request without any modifications.
+
+In summary, our task is a 'low importance' observational mission targeting Colombia’s Concepción region utilizing thermal infrared sensors for capturing heat signatures or surface temperatures with no rush on the deadline, only focusing on providing valuable data for background surveys and testbed tracking tasks. Our natural language request encapsulates the operational nuances of satellite missions and provides clear directives to the automated satellite constellation planner.

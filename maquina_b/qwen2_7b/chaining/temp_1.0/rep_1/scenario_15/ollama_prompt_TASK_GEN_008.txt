@@ -1,0 +1,18 @@
+```prompt
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. Let's focus on interpreting the JSON format below and delivering a naturally phrased task request.
+
+The geographic context revolves around the specified region - Italia, with our target city being Piacenza, Italy. This location will be the center of our operational attention, capturing crucial details to ensure precision in mission allocation priorities.
+
+Interpreting the priority level, I classify this task as "medium importance" with a "standard operational tasking". Given the intricacy of the region and the importance attached to monitoring its current state, this translates into "normal operational status" within our baseline pipeline tracking setup. It involves setting fixed parameters representing our routine monitoring of the area, with an understanding that while it's not the most urgent request, it remains a foundational part of our workflow updates.
+
+Turning our focus to sensors and physical objectives, we're utilizing a primary sensor designated as "NIR" for our task. This approach involves "near-infrared reflection" as a primary tool for capturing data. It's crucial for assessing water body boundaries or determining soil moisture levels, providing valuable insights that enhance the accuracy of our assessments.
+
+The deadline for this task has been set: "in three days in the morning". This phrase is an absolute upper limit on data availability for our satellite constellation planner to adhere to when prioritizing mission allocations. Without rephrasing or shortening it, we emphasize its importance by embedding this directive within our request clearly and explicitly.
+
+In conclusion, our task request is as follows:
+
+"As part of our standard operational tasks, we're looking forward to conducting a 'near-infrared reflection' analysis on the region around Piacenza, Italy. This is scheduled for three days from today in the morning. Our mission allocation prioritizes this activity under medium importance levels due to its essential role in our baseline pipeline tracking, where fixed parameters are set to capture normal operational status and workflow updates without any reconfiguration for deadline constraints.
+
+The focus remains on gathering precise data within these parameters, ensuring accurate assessment of water body boundaries or soil moisture levels as required. We trust our satellite constellation planner will align our request accordingly within the given timeframe."
+
+Let's translate this complex metadata into a comprehensible request that not only meets operational guidelines but also maintains clarity and precision in delivering its message."
