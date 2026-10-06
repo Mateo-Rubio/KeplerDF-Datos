@@ -1,0 +1,15 @@
+Translate this JSON metadata into a single, highly realistic, and conversational English request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "France",
+    "city": "Calvi"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Request: 
+Capture an absolute institutional priority thermal mapping dataset in the Calvi region of France by tomorrow evening at the latest. This must include a high-resolution heat signature, surface temperature profile, and thermal anomaly detection using microwave surface imaging to pierce heavy weather for critical payload capture.
