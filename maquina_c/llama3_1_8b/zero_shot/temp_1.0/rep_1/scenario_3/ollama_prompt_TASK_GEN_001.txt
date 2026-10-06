@@ -1,0 +1,25 @@
+Task Request: Standard Operational Tasking
+
+We need a highly realistic, conversational English request for the task described below.
+
+Given the following metadata:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Tame"
+  },
+  "priority_level": 2,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Output a single block delimited by triple backticks with the language tag `prompt` containing the final natural user request.
+
+The output should follow the operational guidelines:
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+2. MISSION ALLOCATION PRIORITY: Use an authoritative, explicit, and commanding tone for Priority 3, a professional, direct, and standard operational tone for Priority 2, and a casual, highly flexible, or opportunistic tone for Priority 1.
+3. SENSORS AND PHYSICAL OBJECTIVES: Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+4. RELATIVE TIMEFRAMES: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Here is the output of the final natural user request:

@@ -1,0 +1,21 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Objective: Translate the JSON parameters naturally to describe the location and sensor objectives accurately. Ensure that the priority level reflects the correct operational tone for the given priority number. Weave the relative timeframes (target_day and target_diurnal_period) into a fluid conversational phrase marking the strict operational deadline.
+
+Given JSON metadata:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Povici di sotto"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Required Output: A natural user request that reflects the correct priority level, location description, sensor objectives, and relative timeframe constraints.
+
+Solution:
+
+We require a high-resolution thermal mapping capture to assess heat signatures over the Italian region, specifically focusing on Povici di sotto. This task is an absolute institutional priority due to its binding contract requirements involving critical payload capture. Ensure that the thermal data products are ingested into the pipeline before in four days in the morning at the latest.
