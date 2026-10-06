@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days."
+
+b) The exact string found in 'target_diurnal_period' is "overnight."
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} that is contained in 'target_diurnal_period' is "overnight." This word should appear literally in the final request.
+
+d) The deadline is specifically given as "in three days" for an "overnight" capture. There is no indication or allowance to shift the deadline to a different part of the day. The requirement is strictly for data acquisition to occur during the overnight period, not at any other time around that timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a standard operational tasking focused on multispectral vegetation analysis over Sabana de Torres in Colombia, using VNIR capabilities to assess chlorophyll absorption levels and calculate the NDVI index. This task should be integrated into our baseline pipeline tracking as part of our normal operational workflow. Please ensure that this routine monitoring is scheduled for delivery within three days, specifically during an overnight operation, as per the fixed parameters outlined in our contractual agreement.

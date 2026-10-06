@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provided offers several key details that need to be translated into a conversational English request. Let's break down the necessary components:
+
+a) The exact string for 'target_day' is "in four days". This indicates when the data product needs to be delivered, providing a clear deadline for the task.
+
+b) The exact string for 'target_diurnal_period' is "in the morning". This specifies the time of day when the satellite observation should occur, aligning with the required operational window.
+
+c) The single word contained in that string is "morning". This word must be included in the final request to accurately reflect the timing of the task.
+
+d) It's important to confirm that we are not shifting the deadline. The provided strings "in four days" and "in the morning" explicitly define both the delivery deadline and the time of observation, respectively. These should be adhered to without alteration to ensure compliance with the operational guidelines.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority task involving Singkep Barat in Indonesia, where we need to capture multispectral vegetation analysis data using VNIR sensors. This request is considered a flexible schedule, opportunistic capture with low priority importance, so feel free to drop or reschedule it at convenience. The goal here is to conduct a multispectral vegetation analysis to assess the chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. We need this data product delivered in four days, specifically with observations conducted in the morning. This serves as a non-essential background filler task, contributing to our ongoing background survey efforts.

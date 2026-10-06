@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The JSON metadata specifies certain details for creating a satellite task request:
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the operational deadline for when the data needs to be captured or delivered, specifying that the mission must be completed by the next day.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This refers to the time frame within the specified day (i.e., "tomorrow") during which the satellite should capture the required data. 
+
+c) From the given options, the single word contained in the string "overnight" is "overnight". This period typically covers the hours between dusk and dawn.
+
+d) The request specifically mandates that the data collection occurs during the "overnight" period on "tomorrow". There is no indication or allowance for shifting this deadline to another part of the day, thus confirming the operational deadline is strictly maintained within this timeframe.
+
+### Stage 2 - Final Request
+
+We require a standard operational tasking for a multispectral vegetation analysis using near-infrared reflection over the region of Norte, Italy. This task aims to assess the chlorophyll absorption level and calculate the NDVI index as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data capture is expected to take place overnight tomorrow as per the designated timeframe.

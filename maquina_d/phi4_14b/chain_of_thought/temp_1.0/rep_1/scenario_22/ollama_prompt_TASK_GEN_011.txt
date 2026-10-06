@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand is to interpret the given metadata into a natural and conversational English request. We will begin by examining specific aspects of the metadata to ensure clarity in our final translation.
+
+a) The string present in 'target_day' is "the day after tomorrow". This phrase indicates a specific time frame that must be respected without alteration, as it directly relates to the operational deadline.
+
+b) The string in 'target_diurnal_period' is "in the evening". This specifies the part of the day during which the data capture should occur, again aligning with the set deadline.
+
+c) Within the string "in the evening", the word that matches one of the options provided—{morning, mid-day, afternoon, evening, overnight}—is "evening". It is crucial that this specific word appears in our final request to maintain temporal accuracy.
+
+d) To confirm that there is no shifting of the deadline, it's important to note that both 'target_day' and 'target_diurnal_period' have been interpreted as they are. The phrase "the day after tomorrow" sets a fixed point in time, and "in the evening" specifies the precise part of that day when the task should be executed. There is no indication or instruction to adjust this schedule, so we must adhere strictly to these parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request to capture high-resolution optical snapshots over Calenzana, France. The mission involves capturing clear optical imagery of this location on the day after tomorrow in the evening. This is an opportunistic task, allowing for flexible scheduling, so please feel free to drop or reschedule it at your convenience if necessary. This serves as a non-essential background filler task aimed at providing a testbed for visual documentation purposes.

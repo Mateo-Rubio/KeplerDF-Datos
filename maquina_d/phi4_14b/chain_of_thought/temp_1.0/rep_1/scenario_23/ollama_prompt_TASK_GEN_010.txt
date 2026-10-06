@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string, which must appear literally in the final request, is "afternoon".
+
+d) The temporal parameters indicate a strict deadline for delivering data products on "today" during the "afternoon". There is no indication or allowance to shift the deadline to another part of the day, so the capture must be completed within this specified timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for a flexible schedule in the city of Maní, Colombia. We are looking for an opportunistic thermal mapping task, capturing heat signatures or surface temperature profiles. This is non-essential and can be treated as a background survey, with the understanding that it may be dropped or rescheduled at convenience. The deadline for delivering these data products is today during the afternoon.
