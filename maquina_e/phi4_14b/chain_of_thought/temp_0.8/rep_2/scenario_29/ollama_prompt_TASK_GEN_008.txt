@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days". This indicates the specific time frame within which the data product should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the satellite capture should occur, emphasizing nighttime activities.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be directly incorporated into the final request to describe the timing of the observation.
+
+d) The temporal parameters provided are strict operational deadlines and must not be shifted or altered. The deadline for delivery is "in four days" and the capture period is "overnight", which must remain unchanged in the request to ensure compliance with the specified timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance task request for an observation over Monte Romano, Italy. The objective is to utilize near-infrared reflection to conduct water body boundary mapping or assess soil moisture gradients. This task should be scheduled with a flexible timetable, allowing it to be captured opportunistically "in four days" during the "overnight" period. Given its nature as a non-essential background filler task, please note that this request can be dropped or rescheduled at convenience, treating it as part of a background survey or testbed tracking initiative.

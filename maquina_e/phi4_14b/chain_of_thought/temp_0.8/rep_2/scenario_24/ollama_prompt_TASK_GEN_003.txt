@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves understanding and translating specific JSON metadata into a conversational English request for satellite observation.
+
+a) The 'target_day' key in the provided JSON data is set to "today". This indicates that the deadline for delivering the data products is within the current day.
+
+b) The 'target_diurnal_period' key is specified as "overnight". This denotes the specific time frame during which the data capture should occur.
+
+c) Out of the given options—morning, mid-day, afternoon, evening, and overnight—the word "overnight" is directly mentioned in the 'target_diurnal_period'. This implies that the observation should take place during the nighttime hours.
+
+d) It's important to adhere strictly to the specified deadline without altering or extending it. The data capture must occur overnight on the current day, as stated, without shifting it to any other part of the day. This ensures the mission aligns with the operational requirements and deadlines set forth in the task parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are looking for a low priority importance task with a flexible schedule, allowing for opportunistic capture. The request involves conducting thermal mapping over Indonesia, focusing on the city of Ecuatorial. This task aims to capture a heat signature or surface temperature profile, which can be useful for identifying thermal anomalies and mapping heat emissions. Given its classification, this task should be treated as a non-essential background filler, with the flexibility to drop or reschedule at convenience. The deadline for delivering these data products is today, specifically during the overnight period.

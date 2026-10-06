@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' in the JSON is "in four days."
+
+b) The exact string for 'target_diurnal_period' is "around mid-day."
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day." This word should appear literally in the final request.
+
+d) The given temporal parameters specify the deadline as "in four days" and during the "mid-day" period. It's crucial to adhere to these without altering the timeframe or shifting it to another part of the day, ensuring the delivery aligns with the specified operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial satellite mission over Colombia, specifically targeting the area near La Cumbre. The objective is to perform an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters representing a normal operational status. We request that this task be completed in four days, around mid-day. This mission tasking should be integrated into our regular workflow update schedule.
