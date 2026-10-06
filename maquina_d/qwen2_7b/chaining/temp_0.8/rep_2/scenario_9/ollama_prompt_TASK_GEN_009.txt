@@ -1,0 +1,13 @@
+Translating Earth observation task request to an automated satellite constellation planner:
+
+For a highly realistic request based on the provided metadata:
+
+**GEOGRAPHIC CONTEXT**: We are tasked with capturing detailed thermal information from the equatorial region of Indonesia, focusing on a city known as Ecuatorial. This location requires a unique perspective that combines the essence of being within the country of Indonesia and the city of Ecuatorial, describing it in a way that integrates these elements naturally without using technical system tags or arrays.
+
+**MISSION ALLOCATION PRIORITY**: With this task designated as Priority 1 (Low Importance), we are aware of its status as a low priority importance request that can be scheduled flexibly. We're treating this as an opportunistic capture task, with the understanding that it's a "background survey" or "testbed tracking task", acknowledging its nature as a non-essential background filler task.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Leveraging thermal infrared (TIR) sensors, our objective is to conduct a thermal mapping operation. We aim to capture detailed heat signatures, surface temperature profiles, and identify thermal anomalies, providing an invaluable view into the heat emissions of the region under consideration.
+
+**DELIVERY DEADLINE**: Our deadline for this task is "in three days around mid-day". This upper limit for data availability is already resolved by an upstream module, meaning we have to deliver our findings accordingly without delays or rephrasing.
+
+Given these guidelines, our request to the satellite constellation planner should encapsulate the essence of the mission's context and priorities in a conversational format, ensuring accuracy and operational fluency in the communication of the task.
