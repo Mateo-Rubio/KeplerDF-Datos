@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates the deadline for data delivery or satellite operation in this context.
+
+b) The exact string for 'target_diurnal_period' is "during the afternoon." This specifies when during the day the task should be carried out.
+
+c) Within that string, the word contained from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." Therefore, this time period must appear literally in the final request.
+
+d) The instruction to not shift the deadline is crucial. Since "during the afternoon" was specified, it confirms that we are not altering or adjusting this timeframe. The task should be completed precisely during the afternoon of tomorrow, as stipulated by the 'target_diurnal_period' without any deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+This request represents an absolute institutional priority involving a critical payload capture mission. We need a high-resolution multispectral vegetation analysis over Atessa, Italy. The goal is to assess chlorophyll absorption levels and calculate a vegetation NDVI index. It's imperative that this task be executed as part of a binding contract requirement with an urgent operational execution. The satellite must perform this analysis tomorrow during the afternoon, reflecting its high priority level in our baseline pipeline tracking setup. This non-negotiable directive ensures all fixed parameters are adhered to for accurate data capture and delivery.

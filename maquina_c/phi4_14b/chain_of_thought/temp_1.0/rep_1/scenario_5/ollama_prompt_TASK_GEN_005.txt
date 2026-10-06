@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+The task at hand requires us to transform the provided metadata into a natural and conversational request for an Earth-observation mission. Let's address the critical components step by step:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This specifies when the satellite constellation planner should deliver the data products.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This indicates the specific time of night when the observation needs to occur.
+
+c) Within the string "overnight", the word "overnight" itself must be used verbatim in our final request. It explicitly defines the diurnal period for the mission, which is a critical aspect of the task's timing.
+
+d) It's important to confirm that we are not altering the deadline. The requirement is clear: the data must be delivered on "the day after tomorrow" during the "overnight" period. This strict adherence ensures that the operational deadline is respected and that there is no shift or reinterpretation of the deadline to another part of the day.
+
+With these considerations in mind, we can now craft a request that aligns with the operational guidelines provided, ensuring it is both natural and precise.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an opportunity for a flexible schedule to conduct an opportunistic capture over Borgo San Lorenzo in Italy. This low-priority importance task involves using multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index. Given the flexible nature of this request, please feel free to drop or reschedule at your convenience, treating it as a background survey. We are looking to complete this task the day after tomorrow during the overnight period. Thank you for accommodating this non-essential background filler task in our workflow.

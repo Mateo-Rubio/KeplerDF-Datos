@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "in three days." This indicates when the task should be completed.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies when during the day the data capture should occur.
+
+c) The single word contained in the string "in the morning" that fits within the options {morning, mid-day, afternoon, evening, overnight} is "morning." Therefore, this word must appear literally in the final request.
+
+d) The requirement specifies that the task has a strict operational deadline. It is crucial to adhere to both "in three days" and "in the morning" without shifting the timeframe to any adjacent period of the day or extending it beyond these parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking for a commercial project focusing on Rokan Hilir, Indonesia. The objective is to perform multispectral vegetation analysis using VNIR sensors, assessing chlorophyll absorption levels and calculating the NDVI index. This is a routine monitoring task forming part of our baseline pipeline tracking with fixed parameters reflecting normal operational status. Ensure that data capture occurs "in three days" and specifically "in the morning."

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON data provides specific details regarding a satellite observation task. Let's analyze these details step by step:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates when the data collection should be completed, and it is critical not to alter this deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the observation should occur. It's essential to capture observations at this time frame without any changes or shifts.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in "in the morning" is "morning." This term must appear literally in the final request to ensure clarity about the timing of the observation.
+
+d) It is crucial not to shift the deadline to an adjacent part of the day. The task explicitly states that the observations should occur "in the morning" on "the day after tomorrow," and this timeframe must be adhered to without modification.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a routine monitoring mission with fixed parameters for Colombia, specifically targeting the city of Canelos. This standard operational tasking requires capturing near-infrared reflection imagery to assess water body boundaries or evaluate soil moisture levels. The data collection should occur as part of our baseline pipeline tracking on the day after tomorrow, and it is critical that this occurs in the morning. This setup represents normal operational status, ensuring a workflow update within our standard mission framework.

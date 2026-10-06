@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves translating a set of metadata from JSON format into a conversational English request suitable for an automated satellite constellation planner. The goal is to ensure that the request is clear, precise, and adheres to operational guidelines.
+
+a) The exact string in 'target_day' is "in three days." This indicates when the data needs to be delivered, which is within three days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day during which the observation should occur.
+
+c) The single word contained in the string "in the evening" that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "evening." This word will be used literally in the final request to describe the timing of the observation.
+
+d) It is important to confirm that the deadline is not shifted to an adjacent part of the day. The metadata specifies "in the evening," and this must be respected without alteration. Therefore, the deadline remains strictly in the evening on the specified target day.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a binding contract requirement for an urgent operational execution involving a critical payload capture over Malinau, Indonesia. This is an absolute institutional priority with an un-preemptable mission lock, necessitating a near-infrared reflection observation for water body boundary mapping and soil moisture assessment. The task must be completed with an active radar scan to ensure optimal data quality. The delivery of this high-priority dataset is required in three days, specifically during the evening. This mission lock must be adhered to without deviation.
