@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+The task is to translate a JSON metadata structure into an operational request for an Earth-observation mission. To begin with, we examine the 'target_day' key which contains the exact string "tomorrow". This means that the data delivery deadline is set for the next day.
+
+Next, I analyze the 'target_diurnal_period' key that includes the precise string "in the evening." From this string, I can extract the word "evening," which aligns with one of our predefined options: {morning, mid-day, afternoon, evening, overnight}. Thus, the specific time during which the satellite data is required falls in the evening period.
+
+Finally, we confirm that the deadline has not been shifted to an adjacent part of the day. The original parameters specify "tomorrow" and "in the evening," and there's no indication or requirement to alter this specified deadline to another time frame, ensuring accuracy and adherence to the given schedule.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority request for thermal mapping in Indonesia, specifically around Ecuatorial. This task focuses on capturing surface temperature profiles or identifying potential thermal anomalies within this region. The sensor objective is centered on gathering heat signatures using thermal infrared imaging. It's important to note that this request carries a flexible schedule with an emphasis on opportunistic capture. As such, the operator may choose to drop or reschedule it at their convenience, treating it as a non-essential background filler task. The desired data delivery should be completed by tomorrow, in the evening, aligning with the specified deadline without any alterations.
