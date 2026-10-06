@@ -1,0 +1,9 @@
+Please allocate an operational task to our satellite constellation with priority status designated as 'Medium Importance'. This mission aims to capture high-resolution active radar scans using microwave surface imaging capabilities. The goal is to perform a cloud-penetrating capture of the landscape within the region named 'Italia', specifically focusing on the city of 'Giugliano in Campania'. This imagery will serve as a part of our baseline pipeline tracking setup, featuring fixed parameters that represent normal operational status.
+
+The task involves assessing ground geometry and detailed topographical features with the use of an SAR sensor, as it operates in daylight hours around mid-day on the target day which is 'in three days'. This request aligns with our standard operational tasks and commercial tasking requirements. As part of this mission, we aim to acquire thermal mapping data to capture heat signatures and surface temperature profiles.
+
+Our focus includes thermal anomaly detection and mapping heat emissions for comprehensive environmental monitoring purposes. We require a comprehensive set of data that will assist in understanding the thermal dynamics of the region under observation.
+
+This mission holds standard operational value but is not considered an urgent execution priority. It should be executed with flexibility, ensuring that no other higher-priority tasks are preempted for this 'background survey' or 'testbed tracking task'. 
+
+The deadline for the delivery of this data has been established by an upstream module and is set to 'in three days around mid-day'. Please ensure that our satellite constellation complies with this upper limit for data availability. This request serves as a reminder not to output raw UTC timestamps, digits, or countdown metrics but rather to adhere strictly to the stated deadline within the context of our operational workflow.

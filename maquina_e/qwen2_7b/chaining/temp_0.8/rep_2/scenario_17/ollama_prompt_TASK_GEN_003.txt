@@ -1,0 +1,23 @@
+As an Earth-observation mission operator requesting task allocation for a highly realistic dataset, my goal is to translate the raw physical simulation metadata provided into a single, conversational English request that accurately represents the operational guidelines. Given the provided JSON context:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Berau"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+I aim to create a request that reflects the importance of this task, the sensor's purpose, and the geographic context. Here is my crafted request:
+
+Focusing on the Indonesian landscape tonight, we're scheduling a low priority importance task for tomorrow night, when daylight fades into the overnight period. Our objective involves capturing a near-infrared (NIR) reflection from a specific region in Berau to assess water body boundaries and soil moisture levels accurately.
+
+For this background survey task, which is part of our opportunistic capture activities, the mission is not an urgent one but rather provides us with an opportunity to monitor conditions opportunistically without disrupting more critical operational schedules. The high-resolution data we're seeking will serve as essential information for environmental analysis without imposing on our baseline pipeline tracking setup.
+
+Thus, we're requesting to capture thermal maps in the overnight period of tomorrow, ensuring that our sensor's capabilities align with the required task objectives - namely discerning water bodies and estimating soil moisture content effectively. This mission is not considered a critical payload capture or a mandatory directive; instead, it's treated as a non-essential background filler task where we have a flexible schedule for this purpose.
+
+Remember, the deadline for this data availability is "tomorrow overnight," which is our stated upper limit for data acquisition. We're not anticipating any rephrasing, shortening, or relocation of this phrase within our request.
+
+To sum up, this Earth-observation mission is set to unfold in the Indonesian region of Berau on the horizon tonight, focusing on near-infrared reflections that promise invaluable insights into water body boundaries and soil moisture assessments during an opportunistically scheduled overnight capture.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner for a highly realistic and conversational English directive. The target context involves utilizing the "near-infrared" sensor's capabilities for an overnight thermal mapping operation in the region of Colombia, specifically within the city of Sácama. This is a "non-essential background filler task", implying a flexible schedule with no strict importance or deadline urgency attached.
+
+Given that the country and city details are clear, I'll refrain from inserting the 'landmark' field as it is not available. The region name, Colombia, will serve to adequately describe the geographic context.
+
+The mission's priority level is "1", indicating low importance but acknowledging the operational parameters set in place for this task. It's framed as a "low priority importance" request with a "flexible schedule", where the operator explicitly notes the task can be "dropped or rescheduled at convenience".
+
+The target day for this task is specified as "in three days overnight". This phrase has been included verbatim, respecting the upper limit for data availability as communicated by an upstream module. It's worth noting that no raw UTC timestamps, digits, or countdown metrics are to be outputted in the request.
+
+In summary, we're tasked with capturing thermal anomalies using the near-infrared sensor at an overnight period in Colombia, specifically Sácama. This low priority operation has been detailed with all necessary operational parameters clearly laid out, providing a natural and contextually enriched request suitable for our automated satellite constellation planner's decision-making process.
