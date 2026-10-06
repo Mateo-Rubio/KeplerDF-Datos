@@ -1,0 +1,11 @@
+We require a highly realistic and conversational English request based on the provided target task context JSON. The objective is to translate the raw physical simulation metadata into a single, accurate, and natural language request.
+
+Considering the geographical context, we combine the region name and location details organically. The 'country' field is "N/A", so we ignore it and use the clean 'region_name'. We describe the location as: "the Norte region".
+
+For mission allocation priority, we use an authoritative and explicit tone, emphasizing the 'absolute institutional priority' due to the high importance level (Priority 3). The request becomes: "Capture a critical payload of multispectral vegetation analysis, essential for assessing chlorophyll absorption levels and calculating the NDVI index for the Norte region, as per our binding contract requirement."
+
+We interpret the 'primary_sensor' as VNIR, naturally weaving in the operational objectives and descriptors to explain the physical phenomenon to be observed. The request is now: "We require a high-resolution multispectral vegetation analysis for assessing chlorophyll absorption levels and calculating the NDVI index for the Norte region, using our multispectral sensors for true-color visual documentation."
+
+Considering the relative timeframes, we incorporate the strict operational deadline into a fluid conversational phrase. Since 'target_day' is "in three days" and 'target_diurnal_period' is "in the morning", the request becomes: "Please ensure the products are ingested into the pipeline before in three days in the morning at the latest."
+
+The final natural user request is:
