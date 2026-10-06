@@ -1,0 +1,26 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a conversational English request for an automated satellite constellation planner. Our objective is to create a single, highly realistic and conversational request based on the provided JSON format. Given our guidelines:
+
+- The geographical context involves 'region_name' and 'location_details'. Since neither country nor city are "N/A", we describe the location using these fields without technical system tags or coordinate arrays.
+
+- The mission allocation priority translates into an operational tone, authority, and contractual value based on the priority level. In this case, a Priority 1 task implies "low priority importance" with a "flexible schedule" for "opportunistic capture", treated as a "background survey".
+
+- Sensors and physical objectives involve describing the goals of observations using natural language terms like optical snapshots, active radar scans, thermal mapping, and multispectral vegetation analysis.
+
+- The delivery deadline is already resolved, indicating it's "the day after tomorrow in the morning". We incorporate this phrase verbatim into our request without rephrasing or shortening.
+
+Given our target task context JSON:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Puerto Wilches"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+The request should be:
+
+"Please, as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or standard workflow update, conduct a low priority importance low-resolution multispectral vegetation analysis in the form of a background survey. The goal is to assess chlorophyll absorption levels and calculate the NDVI index for the region of Colombia, specifically Puerto Wilches, which falls under our country's jurisdiction. The task should be carried out using near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients within this operational day, which is 'the day after tomorrow', during the morning hours as part of an opportunistic capture with a flexible schedule."

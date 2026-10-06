@@ -1,0 +1,9 @@
+Prompt: Request for a Standard Operational Tasking
+
+Given the operational guidelines and the provided target task context JSON, our objective is to translate the raw physical simulation metadata into a conversational English request. The primary sensor specified is TIR (Thermal Infrared), aimed at capturing thermal mapping data. This involves assessing surface temperature profiles or identifying thermal anomalies for mapping heat emissions, a standard part of baseline pipeline tracking with fixed parameters representing normal operational status.
+
+The geographic context provided includes the country 'Colombia' and the city 'La Paz'. Combining these details naturally, we aim to capture essential data in Colombia, focusing on the city of La Paz. The priority level is indicated as medium importance, which translates to our standard operational tasking being a part of normal workflow updates. We understand that this task is to be executed without any preemption, adhering to baseline pipeline tracking setups with predetermined operational parameters.
+
+The deadline for this task is tomorrow around mid-day. This phrase "around mid-day" must be inserted verbatim into the request as the upper limit for data availability, representing the time frame when the collected data will become available.
+
+In conclusion, our mission involves an active and critical thermal mapping operation, utilizing standard operational processes in Colombia's La Paz, aiming to capture vital data points by tomorrow at mid-day, ensuring adherence to contractual requirements without any deviations from baseline workflows.
