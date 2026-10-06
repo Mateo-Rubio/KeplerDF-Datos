@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+Let's begin by analyzing the task request metadata provided for the Earth-observation mission:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates a clear deadline set for a specific future point in time without any ambiguity.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day during which the satellite capture should occur, adding precision to the temporal requirements.
+
+c) The word contained in 'target_diurnal_period' that aligns with the provided options {morning, mid-day, afternoon, evening, overnight} is "morning". This term will be included literally in the final operational request to ensure clarity regarding the timing of data capture.
+
+d) We must confirm that we are adhering strictly to the deadline specified by "the day after tomorrow in the morning" without any adjustments. This means we are committed to executing the mission precisely on this scheduled day and time, ensuring compliance with the planned timeline without shifting the capture to a different part of the day.
+
+---
+
+### STAGE 2 - FINAL REQUEST
+
+We require a standard operational tasking for high-resolution optical snapshot coverage of Prado, Colombia, scheduled for the day after tomorrow in the morning. This task aligns with our baseline pipeline tracking and involves capturing clear optical imagery during daylight photography as part of our routine monitoring efforts. The parameters are set to ensure a fixed workflow update consistent with our normal operational status.

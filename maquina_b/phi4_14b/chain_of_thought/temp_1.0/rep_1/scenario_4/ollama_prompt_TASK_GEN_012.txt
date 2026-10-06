@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+To begin, we need to identify the specific details from the provided JSON data that will shape our task request.
+
+a) The 'target_day' is given as "in three days". This indicates the precise timeframe within which the data collection needs to be completed.
+
+b) The 'target_diurnal_period' is specified as "in the morning". This tells us the time of day when the satellite observation should occur.
+
+c) Within the string "in the morning", the word "morning" directly corresponds to one of the diurnal periods we need to include in our final request.
+
+d) It's important to ensure that the deadline remains fixed at "in three days" and during the "morning". There is no indication or allowance to shift this timeframe to another part of the day, such as mid-day, afternoon, evening, or overnight. Therefore, we must adhere strictly to these parameters when crafting the request.
+
+With these details in mind, we can now proceed to create a conversational and natural task request that aligns with the provided metadata and guidelines.
+
+### STAGE 2 - FINAL REQUEST
+
+I have a low-priority importance request for an Earth-observation mission over Indonesia, specifically targeting the area around Suka Maju. We're looking for a high-resolution optical snapshot using visible light to capture clear optical imagery of this region. The task should be scheduled for "in three days" during the "morning". Please treat this as a non-essential background filler task with a flexible schedule, allowing it to be dropped or rescheduled at your convenience. This is intended as an opportunistic capture and a background survey to help us assess potential vegetation changes in the area.

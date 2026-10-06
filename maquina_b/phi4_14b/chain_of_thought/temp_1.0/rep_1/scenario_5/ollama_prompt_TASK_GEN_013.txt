@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The metadata provided includes specific temporal parameters crucial for mission planning. Starting with 'target_day', the exact string present is "tomorrow". This indicates a non-negotiable deadline set for data delivery, specifying that the task must be completed no later than the next day from the current point of reference.
+
+Moving on to 'target_diurnal_period', the metadata specifies "during the afternoon" as the exact string. This suggests that the optimal time window for capturing the required data falls in the post-noon hours, where lighting conditions are generally more favorable for the task at hand.
+
+Analyzing this timeframe further, the single word from the set {morning, mid-day, afternoon, evening, overnight} contained in "during the afternoon" is "afternoon". This time of day is significant for planning purposes because it influences both the operation's timing and the conditions under which data collection can be optimized.
+
+In considering whether there is any flexibility to adjust the deadline to an adjacent part of the day, it is essential to confirm that no such shift or reinterpretation is permissible. The deadline remains firmly set for "tomorrow during the afternoon", establishing a strict operational timeline for task execution without any allowance for temporal adjustment.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority tasking for tomorrow during the afternoon, focusing on Colombia's Andina region. This mission represents a binding contract requirement to capture a critical payload via a high-resolution optical snapshot. The aim is to achieve clear optical imagery, ensuring true-color visual documentation in daylight photography conditions. Given its classification as a high importance directive, this urgent operational execution must be locked in without preemption, reflecting an un-preemptable mission lock. The data acquired will be essential for our strategic operations and is thus mandatory.
