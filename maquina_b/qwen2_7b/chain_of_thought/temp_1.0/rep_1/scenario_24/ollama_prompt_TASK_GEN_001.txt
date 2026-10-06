@@ -1,0 +1,14 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is: "in three days"
+b) The exact string in 'target_diurnal_period' is: "overnight"
+c) The single word contained in that string is: "overnight"
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline is strictly as given.
+
+STAGE 2 - FINAL REQUEST:
+
+In three days, a routine monitoring task is scheduled aboard our satellite constellation, focused on the region of Colombia, specifically the city of Sabana de Torres. We'll be employing an advanced sensor, the VNIR (Vegetation Narrowband Reflectance Instrument), to undertake a comprehensive vegetation analysis tasking overnight. This involves capturing high-resolution optical imagery during the nighttime, which promises unobstructed daylight photography without interference from sunlight. The objective is to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance data for that area.
+
+Please ensure to capture thermal signatures as well through our TIR (Thermal Infrared Imager) sensor if it's available, for a comprehensive heat signature and temperature profile mapping. We aim to fulfill this "standard operational tasking" requirement within its strict deadline, overnight, on the target day specified. This task will contribute to our baseline pipeline tracking activities without altering any existing operations schedule.
+
+```prompt
