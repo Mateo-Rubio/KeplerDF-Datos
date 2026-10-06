@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies the time of day within the deadline day.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon". This must be included verbatim in the final request.
+
+d) The instructions specify that I must not alter, extend, shift, or reinterpret the deadline. Therefore, the task must be completed tomorrow, specifically during the afternoon, without any changes to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an observation task focused on the area around Concepción in Colombia. The mission is to capture thermal mapping data with a primary sensor objective centered on "thermal anomaly detection" and generating a surface temperature profile. This task is labeled as a "non-essential background filler task," which means there is a flexible schedule available for opportunistic capture. We request that the satellite operators note to drop or reschedule this mission at their convenience if it clashes with higher-priority tasks. The desired data should be delivered by tomorrow during the afternoon, maintaining the strict deadline without any modifications to the timeline.

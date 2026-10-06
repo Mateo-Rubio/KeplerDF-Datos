@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this Earth-observation task, I begin by examining the JSON metadata to translate it into a user-friendly request.
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates that the data collection should be completed by the next day from when the request is being processed. 
+
+b) For 'target_diurnal_period', the exact string provided is "overnight". This specifies the timeframe during which the satellite constellation should perform its observational task, which in this case aligns with nighttime operations.
+
+c) The specific word contained within the string "overnight" that corresponds to our predefined set of options {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be directly used in crafting the final request to ensure clarity and precision regarding the timing of data capture.
+
+d) It is crucial to confirm that there is no alteration or adjustment of the deadline to any other time of day. The task must be completed during the nighttime period specified as "overnight" on the day labeled "tomorrow". This strict adherence to the given temporal parameters ensures the validity and reliability of the data collected for operational needs.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority request for an Earth-observation mission focusing on the region of Berau, Indonesia. The objective is to obtain near-infrared reflection data, which will help in mapping water body boundaries or assessing soil moisture levels. Given its status as a non-essential background filler task, we allow for a flexible schedule with the possibility of being rescheduled or dropped at convenience. Therefore, this mission should be executed with an opportunistic capture approach during the "overnight" period on "tomorrow".

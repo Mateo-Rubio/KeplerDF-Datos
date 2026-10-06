@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the specific day by which the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the task needs to be completed or captured.
+
+c) The single word contained in that string, out of {morning, mid-day, afternoon, evening, overnight}, is "evening." This word will appear literally in the final request.
+
+d) Confirming that I am not shifting the deadline to an adjacent part of the day: The task specifies "in the evening," so it is crucial to adhere strictly to this timeframe without any adjustments or reinterpretations. The deadline is set precisely for tomorrow evening, and this must be respected.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a baseline pipeline tracking setup with fixed parameters representing normal operational status in the region of Norte. The mission involves capturing near-infrared reflection to assess soil moisture levels or delineate water body boundaries. This routine monitoring is part of our workflow update, and we require this data to be delivered by tomorrow evening, maintaining our commitment to timely and efficient task execution.
