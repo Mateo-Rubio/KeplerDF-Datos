@@ -1,0 +1,21 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline specified is exactly for an overnight period, three days hence.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the JSON metadata provided, our mission involves a critical SAR sensor tasking in the context of a standard operational tasking, as indicated by a priority level of 1. We're tasked with capturing high-resolution radar data using microwave surface imaging techniques over Colombia's Tarazá city. This is to be executed overnight, precisely "in three days" from now.
+
+The objective requires us to conduct an active radar scan over this region for cloud-penetrating capture, which will help in assessing ground geometry and terrain characteristics beneath heavy weather conditions. The data collected will serve as a vital baseline pipeline tracking asset, offering detailed insights into the physical attributes of the area without being influenced by atmospheric disturbances.
+
+The deadline is strictly set for an overnight period exactly three days ahead, serving as our target day and diurnal period. We're instructed to adhere to this deadline without altering or interpreting it as part of an orbital capture window; instead, it represents a binding contract requirement for delivering the data products by the specified time.
+
+This task signifies the importance of providing this critical data on time to ensure that subsequent analyses and decision-making processes are based on accurate and timely information. The SAR sensor will be employed to gather radar data during this period, offering cloud-penetrating capabilities to capture essential information about the area without being affected by visibility constraints or weather conditions.
+
+In summary, we are to initiate a standard operational tasking for a radar scan of Tarazá city in Colombia, which is due overnight exactly three days from now. This task will involve capturing detailed radar imagery and surface geometry data that will serve as a foundation for various analytical processes requiring timely and accurate information.

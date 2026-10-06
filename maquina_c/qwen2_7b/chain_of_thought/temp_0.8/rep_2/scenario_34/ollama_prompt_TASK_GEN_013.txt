@@ -1,0 +1,14 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string which must appear literally in your final request is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. It remains fixed for delivery today, specifically in the evening.
+
+STAGE 2:
+
+```prompt
+In the operational context of today's evening, our mission allocation prioritizes a routine monitoring task with a low importance designation. Focusing on the near-infrared (NIR) sensor, we aim to capture thermal mapping data for the region of Colombia, specifically targeting the city of Carmen del Darién (Curbaradó). The deadline set for this "background survey" is an absolute institutional priority without the flexibility for rescheduling or dropping at convenience; it represents the standard operational status with fixed parameters that are part of the baseline pipeline tracking system. This request does not alter the original deadline, aligning strictly with the requirement to deliver data products by the target day and time.
