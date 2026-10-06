@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' field specifies the deadline for the data delivery as "in three days." The string in this field indicates when the task should be completed. This is crucial as it sets a precise temporal framework within which the satellite operation must occur.
+
+The 'target_diurnal_period' field indicates "in the evening" as the specific time of day when the data capture is intended. This means that the operation should focus on this part of the day, aligning with the natural lighting conditions that best suit the sensor's capabilities.
+
+The single word contained in the string 'in the evening' from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This directly informs us of the exact diurnal period within which the data capture should occur. It is important to note this as it impacts the planning for the task execution.
+
+Lastly, I confirm that there is no intention or instruction to shift the deadline to an adjacent part of the day. The request must adhere strictly to the specified time frame, capturing the necessary data "in three days" during the "evening." This ensures that the mission objectives are met accurately and efficiently within the given operational constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request with a flexible schedule for opportunistic capture in Indonesia, specifically around the city of Kuantan Singingi. We would like to utilize near-infrared reflection to assess water body boundaries or soil moisture levels. This is a non-essential background filler task, and we can drop or reschedule it at convenience. Please aim to execute this mission "in three days" during the "evening."

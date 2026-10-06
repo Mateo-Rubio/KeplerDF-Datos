@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task request revolves around an Earth-observation mission with specific metadata provided for a TIR sensor targeting Lenzumo, Italy. To develop the final request, we start by analyzing the JSON data.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the data capture should occur on the day following today, and it serves as a strict deadline to ensure the data products are delivered in time.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies when during tomorrow the data acquisition should take place, aligning with the operational requirements for the mission.
+
+c) The single word contained in the 'target_diurnal_period' string that must be included in the final request is "morning." This term will guide us in framing the timing of the satellite capture to match the specified diurnal period.
+
+d) It is crucial to confirm that we are not shifting the deadline. The metadata specifies "in the morning" as the time on "tomorrow," so any adjustment would mean altering the set deadline, which is not permissible. Therefore, the mission must be executed strictly within these temporal parameters without deviation to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking for a TIR sensor mission focusing on thermal mapping over Lenzumo, Italy. This involves capturing a heat signature or surface temperature profile, aligning with our routine monitoring efforts in this region. The data is needed as part of a baseline pipeline tracking setup, ensuring normal operational status and workflow updates are maintained. Please schedule the satellite overpass for thermal data capture tomorrow, specifically in the morning, to fulfill this commercial tasking requirement.

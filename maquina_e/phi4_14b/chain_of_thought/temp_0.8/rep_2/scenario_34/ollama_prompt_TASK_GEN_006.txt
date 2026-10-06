@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's break down the task:
+
+a) The exact string present in 'target_day' is "in four days". This indicates the specific deadline for when the data should be delivered, without any ambiguity.
+
+b) The string found in 'target_diurnal_period' is "overnight". This phrase specifies the time frame during which the satellite operation needs to occur. It's crucial as it denotes a specific part of the day, rather than a broader period.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "overnight". This word must be included verbatim in the final request to accurately convey when the task should occur.
+
+d) It's important to ensure that we are not shifting the deadline or misinterpreting the time frame. The instructions explicitly state that this temporal parameter represents a strict operational DEADLINE, meaning it cannot be altered, extended, shifted, or reinterpreted. Thus, "overnight" in "in four days" must be adhered to without any modification to its meaning or timing.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm looking for an opportunistic tasking to capture a high-resolution optical snapshot over Indonesia near the Ecuatorial city area. This is a low priority importance request with a flexible schedule, allowing for opportunistic capture; please feel free to drop or reschedule at convenience. It's intended as a non-essential background filler task. We're aiming for this operation to occur overnight, specifically in four days, to secure clear optical imagery for daylight photography purposes.

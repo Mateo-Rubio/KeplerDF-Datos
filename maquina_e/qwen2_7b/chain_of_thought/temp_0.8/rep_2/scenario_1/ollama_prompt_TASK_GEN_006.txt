@@ -1,0 +1,19 @@
+STAGE 1 REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) Yes, I confirm that we are not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 FINAL REQUEST:
+
+Based on the operational guidelines provided and taking into account the raw data given in JSON format, this satellite task request pertains to a medium-importance mission allocation priority with a 'primary_sensor' designated as Near-Infrared (NIR). The geographical context involves observing an area within Indonesia, specifically focusing on the city of Pekanbaru. This data capture is deemed critical for "non-essential background filler tasks" that can be accommodated with a flexible schedule, reflecting a "standard operational tasking" or "commercial tasking" requirement.
+
+The request aims to conduct an active radar scan ("active microwave surface imaging") utilizing the capabilities of the Near-Infrared sensor. This mission seeks to capture detailed information on water body boundaries and soil moisture assessment, essential for environmental monitoring and agricultural applications.
+
+The deadline for this mission is set on "the day after tomorrow" during the 'target_diurnal_period' of "in the morning". The exact time frame does not represent an orbital window but rather signifies a strict operational deadline to deliver the data products. This request necessitates adherence to this fixed schedule without altering it or extending it to an adjacent part of the day.
+
+In summary, we are looking to execute a satellite task that involves capturing high-resolution data using Near-Infrared technology in Pekanbaru, Indonesia, with a clear focus on water body boundaries and soil moisture assessment during the morning hours of the day following the deadline mentioned.
