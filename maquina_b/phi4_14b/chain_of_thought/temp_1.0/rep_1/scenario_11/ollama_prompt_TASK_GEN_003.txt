@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For the provided JSON task context:
+
+a) The exact string in 'target_day' is "in three days." This indicates that the task must be completed or executed within this specific timeframe.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time during which the data collection should occur.
+
+c) Within the diurnal period of "overnight," the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears is "overnight." This is a literal term indicating the specific time of day for the task's execution.
+
+d) Given the parameters and requirements, I must ensure that there is no shift in the deadline to any adjacent part of the day. The specified "overnight" period remains as it is, and the deadline "in three days" is adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+This mission is an absolute institutional priority requiring urgent operational execution with a binding contract requirement for a mandatory directive to ensure critical payload capture. We need a high-resolution satellite task targeting the region of Murung Raya, Indonesia, with an emphasis on capturing near-infrared reflection data to assess soil moisture levels and discriminate gradients. This operation must be performed using a NIR sensor during the overnight period, specifically in three days. This non-negotiable mission lock must be carried out as outlined, without any deviation or rescheduling.

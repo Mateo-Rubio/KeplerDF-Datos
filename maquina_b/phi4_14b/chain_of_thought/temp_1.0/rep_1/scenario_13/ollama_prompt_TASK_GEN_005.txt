@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+Let's start by examining the 'target_day' key. The exact string present is "tomorrow." This indicates that the data needs to be delivered one day from now, without any specific date mentioned.
+
+Next, we look at the 'target_diurnal_period' key, which contains the exact string "in the morning." This specifies that the task should be completed in the morning hours of the target day.
+
+The diurnal period string "in the morning" contains the word "morning," which must be explicitly included in the final request to align with the specified timeframe.
+
+Finally, we need to confirm that we are not shifting the deadline to a different part of the day. The requirement is strictly set for "in the morning" on "tomorrow," and there is no indication or allowance to change this to another time period such as mid-day, afternoon, evening, or overnight. The deadline remains fixed at the morning of tomorrow.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a low-priority task for an active radar scan using microwave surface imaging over the region near Norte. This mission is intended for cloud-penetrating capture and can help in understanding ground geometry under heavy weather conditions. Given its non-essential nature, please treat this as a flexible schedule task with an opportunistic capture window, allowing you to drop or reschedule at your convenience. We need this data delivered by tomorrow, in the morning.

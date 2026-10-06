@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To formulate a realistic and conversational request for the satellite constellation planner, I'll begin by analyzing the provided metadata.
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) From the string "in the evening," the single word contained in our predefined set {morning, mid-day, afternoon, evening, overnight} is "evening." This specific time period must appear literally in the final request to ensure clarity and adherence to operational requirements.
+
+d) In confirming that the deadline is not shifting, I note that "tomorrow" specifically implies a single day following today, and "in the evening" pinpoints the latter part of this day. The plan is to deliver data by the evening of tomorrow, with no adjustments or shifts in timing. This strict adherence ensures that operational deadlines are met without unnecessary delay.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a standard operational tasking for our satellite constellation to conduct an active radar scan over Rome, Italy. As part of this baseline pipeline tracking setup, the mission involves capturing microwave surface imaging during "tomorrow" "evening" for cloud-penetrating capture. This commercial tasking is aligned with our regular workflow update and must be executed with fixed parameters to maintain our standard operational status.

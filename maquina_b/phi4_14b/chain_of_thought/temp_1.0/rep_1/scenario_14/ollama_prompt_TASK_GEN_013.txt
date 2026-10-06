@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific information about a satellite observation task over Suratá, Colombia. Here, I will interpret the relevant pieces of data to generate a natural language request:
+
+a) The exact string for 'target_day' in the JSON is "in three days". This indicates when the observation should be completed, rather than specifying an exact date.
+
+b) The exact string for 'target_diurnal_period' is "around mid-day". This specifies the time of day when the satellite should capture the necessary data.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day". It will be important to include this phrase directly in the request for clarity and accuracy regarding the timing of the operation.
+
+d) I need to ensure that the deadline is not altered. The phrase "around mid-day" is specific enough to avoid confusion about when during the day the task should occur. The temporal parameters are strict and represent an operational deadline rather than the time window for data capture. Therefore, I will maintain the "mid-day" timeframe as instructed without shifting it to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm submitting a request for a satellite mission over Suratá, Colombia, with low priority importance and flexible scheduling. We're looking for an opportunistic capture around mid-day in three days. The primary objective is to perform an active radar scan using microwave surface imaging capabilities to gather cloud-penetrating data, which is crucial for assessing ground geometry in various weather conditions. Please treat this as a background survey or testbed tracking task, and reschedule at convenience if necessary, but keep it on the schedule as a non-essential background filler task.

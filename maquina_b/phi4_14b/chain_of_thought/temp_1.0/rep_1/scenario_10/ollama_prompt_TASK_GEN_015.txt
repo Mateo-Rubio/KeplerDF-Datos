@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+To create a coherent and conversational request for an Earth-observation task, I will first analyze the provided JSON metadata to ensure I have correctly interpreted each component.
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates that the mission's deadline for data delivery is set for the next day after the request was made.
+
+b) The string contained in 'target_diurnal_period' is "overnight". This specifies when the data should be captured, indicating a time frame during which observations are expected to occur.
+
+c) From the list of possible diurnal periods, the word "overnight" clearly matches with "overnight", as it is literally present in the target_diurnal_period string. Thus, this word must appear verbatim in the final request.
+
+d) I need to ensure that the deadline for delivering the data is not altered to any other time of day. The requirement states the deadline strictly as "tomorrow" during the "overnight" period, so I must adhere precisely to these parameters without any modifications.
+
+By synthesizing this information, I can now construct a final request that aligns with operational guidelines and captures the essential elements described in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an ongoing standard operational tasking in Pesisir Selatan, Indonesia. As part of our baseline pipeline tracking, we require a cloud-penetrating capture using active radar scan technology to assess ground geometry under heavy weather conditions. This is a routine monitoring mission scheduled for tomorrow during the overnight period. Please ensure this task is integrated into our workflow update as a fixed parameter for normal operational status.

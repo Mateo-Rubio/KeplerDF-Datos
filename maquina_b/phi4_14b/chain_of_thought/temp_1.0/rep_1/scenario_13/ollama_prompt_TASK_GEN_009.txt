@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the desired timing for task execution and data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when during the day the operation needs to be conducted, particularly aligning with the deadline for data delivery.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "evening." This word directly identifies when the operation should take place and therefore must be included verbatim in the final request to ensure clear communication about the timing.
+
+d) The deadline for delivering data products is specified as "tomorrow in the evening," without any indication of shifting to another part of the day, such as afternoon or overnight. It is critical to respect this exact timeframe to align with operational requirements and deliverables, ensuring that no alterations occur to either the day or time of delivery.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We request a satellite task for thermal mapping over Pulang Pisau, Indonesia, as part of a standard operational tasking within our baseline pipeline tracking. This mission involves capturing a surface temperature profile and identifying any thermal anomalies in the region. The operation should utilize a thermal infrared sensor to provide the necessary data. This task is scheduled for tomorrow in the evening, aligning with our fixed parameters for normal operational status, ensuring timely delivery of valuable thermal data insights.
