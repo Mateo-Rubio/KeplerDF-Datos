@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To translate the JSON metadata into a natural English request, we'll work through the guidelines step by step.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data collection should be completed, serving as our strict operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the data capture should occur, again relative to the deadline.
+
+c) The word "morning" from the set {morning, mid-day, afternoon, evening, overnight} appears literally in the 'target_diurnal_period' string. This will be included verbatim in our final request to indicate the specific time of day for data collection.
+
+d) It's crucial to confirm that we are not altering the deadline. The original task specifies "tomorrow" as the target day and "in the morning" as the target diurnal period. We must adhere strictly to these parameters without shifting them to any other part of the day, such as mid-day or afternoon.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance request with a flexible schedule for opportunistic capture in Zetaquira, Colombia. This task involves using near-infrared reflection to map water body boundaries or assess soil moisture gradients. While this is considered a non-essential background filler task, we should aim to perform it tomorrow in the morning, but feel free to drop or reschedule at convenience, treating it as part of a background survey or testbed tracking task.

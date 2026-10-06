@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the specific deadline by which the data products need to be delivered.
+
+b) The exact string found in 'target_diurnal_period' is "overnight". This tells us the specific time period during which the satellite observation should occur.
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} that appears literally in the string for 'target_diurnal_period' is "overnight". This needs to be included in the final request verbatim.
+
+d) The deadline specified as "in three days" with the "overnight" period does not suggest any shift or adjustment in time. It is a clear indication that the data acquisition should occur during nighttime within this specific three-day timeframe, and there is no implication to adjust this to a different part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority for capturing critical data over Indonesia, specifically in the city of Gilirang. This task involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture, focusing on ground geometry. It is a binding contract requirement that this mission must be executed urgently with an un-preemptable mission lock. The observation should take place overnight and the data products are due in three days.

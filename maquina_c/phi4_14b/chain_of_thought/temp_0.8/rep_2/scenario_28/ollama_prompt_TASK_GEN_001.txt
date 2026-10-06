@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by examining the JSON metadata provided for this Earth-observation task:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase directly indicates when the data capture should be completed, emphasizing the urgency of delivering the data products on that specific day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This phrase specifies the time within the target day when the observation should ideally occur, indicating a precise moment for capturing the required imagery.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in "in the evening" is "evening." This word must appear literally in our final request to align with the specified diurnal period for data capture.
+
+d) It is important to confirm that we are not shifting the deadline to an adjacent part of the day. The instruction clearly states that the temporal parameters represent a strict operational deadline for delivering the data products, not an orbital capture window. Therefore, the deadline remains "the day after tomorrow" during "the evening," without any alteration or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for an opportunistic satellite observation over Cimitarra, Colombia. Given its flexible schedule, this task involves capturing microwave surface imaging using active radar scanning in the evening, the day after tomorrow. This will be a non-essential background filler task where we can drop or reschedule at convenience, serving as a testbed tracking task. The focus is on cloud-penetrating capture to observe ground geometry through heavy weather conditions.

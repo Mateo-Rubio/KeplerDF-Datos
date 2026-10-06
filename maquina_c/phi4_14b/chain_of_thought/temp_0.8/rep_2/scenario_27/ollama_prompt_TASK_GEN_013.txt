@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string present in 'target_day' is "in three days". This indicates the specific deadline by which the task must be completed.
+
+b) The exact string found in 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "afternoon" is contained in the string for 'target_diurnal_period'. This term will be explicitly included in the final request to describe when the task needs to be executed.
+
+d) The temporal parameters clearly define a strict deadline without any indication that this deadline can or should be shifted. There is no suggestion of changing the specified time frame or extending it beyond "in three days" during the afternoon. This ensures that the operational execution occurs precisely as planned, adhering strictly to the provided schedule.
+
+### Stage 2 - Final Request
+
+I am requesting an urgent and critical mission allocation for high-importance tasking over Chivatá, Colombia. The mission is to perform a multispectral vegetation analysis using VNIR sensors, focusing on assessing chlorophyll absorption levels and calculating the NDVI index for this region. Given the absolute institutional priority and binding contract requirements, this operation is an absolute institutional priority with a mandatory directive for critical payload capture. Execution must occur in three days during the afternoon, ensuring an un-preemptable mission lock. This task's execution is essential and requires urgent operational attention to meet the strict deadline specified.

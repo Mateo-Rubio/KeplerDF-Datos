@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides detailed information about a satellite observation task request. I will break down the key elements as follows:
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific deadline for when the data should be collected, and it needs to be retained in its original form.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day the observation should occur, and it also needs to remain unaltered in the final request.
+
+c) The single word contained in the diurnal period string is "mid-day." This term explicitly describes when the observation should be made and must appear in the final output.
+
+d) It is crucial to ensure that the deadline, both in terms of the day and time specified, is adhered to without any shifts. The deadline is set for "in three days" at "around mid-day," which means there should be no adjustments to either component. The task must occur exactly as described, without altering the timing to another part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+I need a standard operational tasking conducted over La Macarena in Colombia. This request involves capturing high-resolution optical snapshots around mid-day using visible light sensors. The data is required for clear optical imagery and true-color visual documentation. The task is part of our baseline pipeline tracking setup and should be completed in three days with fixed parameters to ensure it aligns with our normal operational workflow.

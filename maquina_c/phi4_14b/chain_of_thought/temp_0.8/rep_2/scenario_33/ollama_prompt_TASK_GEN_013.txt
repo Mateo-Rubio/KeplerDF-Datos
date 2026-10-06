@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+Let's begin by analyzing the metadata for our task request:
+
+a) The exact string in 'target_day' is "in three days". This indicates a strict deadline to complete the data collection and delivery within this timeframe.
+
+b) For 'target_diurnal_period', the exact string is "around mid-day". This specifies when the satellite should perform its imaging task during the specified day, ensuring optimal conditions for the type of sensor in use.
+
+c) The single word contained in the string "around mid-day" is "mid-day". This particular time is important as it must appear literally in our final request to align with the operational parameters defined by the metadata.
+
+d) It's essential to confirm that we are not shifting the deadline. The phrase "in three days" clearly indicates a fixed point in time, and "around mid-day" specifies the exact diurnal period for data capture. Any alteration of this timing would conflict with the established mission parameters and deadlines.
+
+Having reasoned through these points, I am confident that the deadline remains unaltered and must be adhered to strictly as per the provided metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for satellite imagery over Puerto López, Colombia. This is a flexible schedule request with an opportunistic capture plan, labeled as a non-essential background filler task, allowing for potential drop or rescheduling at your convenience. The objective is to perform an active radar scan using microwave surface imaging around mid-day in three days. This mission will capture cloud-penetrating imagery and ground geometry, providing valuable data despite its low priority status.
