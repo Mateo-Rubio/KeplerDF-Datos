@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. The task involves interpreting the provided JSON format according to operational guidelines.
+
+Geographic context should be described naturally by combining the location details without using technical system tags or coordinate arrays. For example, the region 'Malinau, Indonesia' is located near the 'Kapuas River', thus it is described as a 'rural landscape' in the 'North Kalimantan' region of 'Indonesia', considering the clean 'location_details' from the JSON parameters.
+
+The mission allocation priority indicates authority and asset value rather than deadline urgency. The request for Priority 2 involves a standard operational tasking with fixed parameters representing normal operational status as part of a baseline pipeline tracking setup, which should be executed as part of a commercial tasking with routine monitoring.
+
+The primary sensor involved is near-infrared reflection for water body boundary mapping and soil moisture assessment to discriminate gradients. This multispectral analysis aims to assess the vegetation health in the region by calculating the NDVI index and surface reflectance.
+
+The task delivery deadline is specified as 'the day after tomorrow in the morning'.

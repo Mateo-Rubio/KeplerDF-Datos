@@ -1,0 +1,13 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request: 
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Vigonza"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+We are requesting a standard operational tasking for commercial tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This is a routine monitoring request that involves conducting a near-infrared reflection to assess water body boundary mapping and soil moisture assessment to discriminate gradients in Vigonza, Italia, during the evening of the day after tomorrow.

@@ -1,0 +1,5 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. 
+Combine the JSON parameters naturally to describe the location using the 'region_name' and nested 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields.
+This task is a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. We are allocating a medium-importance mission to capture high-resolution optical snapshots for daylight photography in the region of Emilia-Romagna. 
+The objective is to observe near-infrared reflection for water body boundary mapping and soil moisture assessment in the city of Pavullo nel Frignano, Italia. 
+The mission requires active monitoring within the next in three days around mid-day.
