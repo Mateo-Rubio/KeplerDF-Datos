@@ -1,0 +1,12 @@
+STAGE 1:
+
+a) "in three days" is the exact string in 'target_day'.
+b) "around mid-day" is the exact string in 'target_diurnal_period'.
+c) The word "mid-day" appears literally within the string.
+d) The deadline remains fixed at 'around mid-day', not shifted to an adjacent part of the day.
+
+STAGE 2:
+
+As per our operational guidelines, your task requires high-resolution data collection on Earth's surface at an exact moment. This mission will utilize active radar scanning in three days, at around mid-day. The designated location is Suratá, a notable city within Colombia. The operational objective focuses on utilizing Synthetic Aperture Radar (SAR) technology to capture essential information about ground geometry and features through cloud-penetrating microwave surface imaging.
+
+The request involves capturing the mid-day moment for the target day since this timeframe is crucial for optimal image clarity and data retrieval under daylight conditions. This task embodies a standard operational tasking within our baseline pipeline tracking setup with fixed parameters. However, given its priority level of 1 (low importance), it carries with it flexible scheduling to serve as a non-essential background survey or testbed tracking task. The radar will be directed to observe and document the specific area around Suratá in Colombia during mid-day, enabling us to capture critical data points without causing any preemption or disruption in other higher-priority tasks.
