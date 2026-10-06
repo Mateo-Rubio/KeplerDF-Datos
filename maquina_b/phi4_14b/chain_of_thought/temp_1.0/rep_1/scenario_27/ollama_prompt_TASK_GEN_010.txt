@@ -1,0 +1,7 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' specified in the JSON metadata is "the day after tomorrow". This indicates that the request must be fulfilled on this particular day without any changes to its timeline. The 'target_diurnal_period' is noted as "overnight". This means that the data capture should occur during the nighttime, which explicitly includes activities from dusk until dawn. Within this string, the word "overnight" appears, and it directly aligns with the requirement for capturing data during the night period, thus ensuring that the satellite's task is executed precisely at this time. It is important to note that there will be no alteration or extension of the deadline to a different part of the day. The request should strictly adhere to capturing data "the day after tomorrow" during the "overnight" period.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an opportunistic NIR sensor task over the region encompassing Colombia, specifically focusing on Florida, where we aim to achieve water body boundary mapping and assess soil moisture levels. Given its classification as a low-priority importance request, please feel free to drop or reschedule it at your convenience, as it serves as a non-essential background filler task. The data acquisition should be completed the day after tomorrow during the overnight period, leveraging the natural conditions of this diurnal window for optimal observation.

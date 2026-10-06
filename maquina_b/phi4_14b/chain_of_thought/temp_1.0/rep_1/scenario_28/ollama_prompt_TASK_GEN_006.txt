@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating the given JSON metadata into a conversational English request that adheres to specific operational guidelines. To start with, we need to analyze the provided data fields and interpret them accordingly.
+
+a) The 'target_day' field explicitly states "the day after tomorrow." This precise string is crucial as it dictates when the satellite capture should occur, emphasizing the strict deadline for delivering the data products.
+
+b) Next, the 'target_diurnal_period' field reads "around mid-day." This specifies the time of day when the satellite observation should be conducted. It's important to note that this isn't a broad window but rather focuses on a specific time period around mid-day, which is critical for capturing the desired data.
+
+c) Within the 'target_diurnal_period' string, the word "mid-day" is explicitly mentioned. This is the exact term we need to incorporate into our final request to align with the temporal parameters provided in the JSON metadata.
+
+d) It's essential to confirm that there's no intention to shift the deadline to an adjacent part of the day. The guidelines specify that the temporal parameters represent a strict operational DEADLINE, and any alteration could compromise the integrity and relevance of the data captured. Therefore, we must adhere to the specified "around mid-day" period without deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance request for a satellite observation task in Indonesia, focusing on the city of Ecuatorial. The objective is to conduct a multispectral vegetation analysis using VNIR sensors, aimed at assessing chlorophyll absorption levels and calculating a vegetation NDVI index. Given its low priority status, this is a flexible schedule opportunity, ideally suited for opportunistic capture. I would like this task to be treated as a non-essential background filler task, which can be dropped or rescheduled at your convenience if necessary. The target day for this operation is the day after tomorrow, specifically around mid-day. This timing will provide the most suitable conditions for capturing the desired data, ensuring the best possible results from the observation.

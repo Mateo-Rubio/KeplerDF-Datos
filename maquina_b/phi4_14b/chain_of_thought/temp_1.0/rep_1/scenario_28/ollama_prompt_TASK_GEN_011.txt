@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task request involves observing a specific region using a satellite constellation planner, and the metadata provided gives detailed parameters for crafting a realistic English request.
+
+a) The 'target_day' in the JSON data is given as "the day after tomorrow." This string should be copied verbatim to ensure the timeline is correctly communicated without alterations.
+
+b) The 'target_diurnal_period' from the JSON is "in the morning." Like the 'target_day', this string must also be copied verbatim for accurate time representation in the request.
+
+c) Within the 'target_diurnal_period' string, the word that matches from the set {morning, mid-day, afternoon, evening, overnight} is "morning." This is the specific part of the day during which the observation should occur and must be included as stated in the final request to maintain the intended scheduling.
+
+d) The task involves observing a specific region on "the day after tomorrow" during "in the morning," implying a strict operational deadline for data delivery. There is no indication that the diurnal period should be shifted to another part of the day, such as the afternoon or evening. Therefore, it is confirmed that there is no adjustment or shift of the deadline; it remains firmly set for the morning on the specified day.
+
+### Stage 2 - Final Request
+
+I'd like to schedule a satellite task to capture multispectral vegetation analysis in the region around the city of Norte, focusing on assessing chlorophyll absorption levels and calculating a vegetation NDVI index. Given its low priority, this is a flexible schedule request for an opportunistic capture that can be dropped or rescheduled at convenience. This background survey is not essential, but it would be great to have the data on "the day after tomorrow" in the morning.

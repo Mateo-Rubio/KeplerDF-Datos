@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by examining the JSON metadata to craft our request.
+
+a) The exact string present in 'target_day' is "the day after tomorrow". This will be directly used in our final request as it specifies the deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This information will guide us in specifying the time of observation and will ensure that we adhere to the required timing for capturing thermal data.
+
+c) Within the 'target_diurnal_period' string, the single word that matches from the provided set {morning, mid-day, afternoon, evening, overnight} is "evening". This term must be explicitly included in our final request to accurately describe the time when observations should occur.
+
+d) It's crucial to verify that we are not adjusting or altering the specified deadline. The deadline is clearly defined as "the day after tomorrow" and specifically during "in the evening", with no indication that we can shift this timeframe to a different part of the day. Thus, our request must reflect these constraints without any deviations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are preparing a low-priority observational task over the beautiful city of Radicondoli in Italy. As a flexible and opportunistic endeavor, we aim to capture thermal mapping data, focusing on the heat signature and surface temperature profiles of the area. Given the nature of this mission, please consider this as a background survey or testbed tracking task, where you are free to reschedule or drop it at your convenience. Our observations are scheduled for the day after tomorrow, specifically in the evening, aligning perfectly with our operational needs.

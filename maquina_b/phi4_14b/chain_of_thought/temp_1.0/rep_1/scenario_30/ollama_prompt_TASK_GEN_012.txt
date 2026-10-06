@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves determining the precise timing and requirements for a satellite observation mission over a specific geographic location using a particular sensor. The primary focus is on the Indonesian region of Kotawaringin Timur.
+
+a) For the 'target_day' parameter, the exact string present in the JSON data is "tomorrow." This indicates that the data delivery deadline is set for the next day after the task request is submitted.
+
+b) The 'target_diurnal_period' mentioned in the JSON is "overnight." This specifies when the observation should take place during the day.
+
+c) From the set of options {morning, mid-day, afternoon, evening, overnight}, the single word contained in the 'target_diurnal_period' string is "overnight." This term will be directly used in the final operational request to describe the timing of the data capture.
+
+d) It is essential to confirm that the deadline remains strictly within the specified parameters. The term "overnight" indicates a time frame during which the satellite observation is scheduled, and there is no indication or need to shift this timeframe to another part of the day. Thus, the mission's deadline remains unaltered and fixed to occur overnight on the next day, referred to as "tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for an active radar scan over Kotawaringin Timur, Indonesia. The objective is to perform microwave surface imaging using an SAR sensor to achieve cloud-penetrating capture and detailed ground geometry mapping. This mission is part of our baseline pipeline tracking and requires a fixed parameter setup to ensure normal operational status and workflow update. Please schedule this task for tomorrow overnight, aligning with the operational deadline for data delivery. Thank you for coordinating this routine monitoring assignment.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today". This means the request must be fulfilled on the current day of submission.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time during which data capture should occur, indicating the period from evening through the night to early morning.
+
+c) Within the string "overnight", the word contained out of the given options is "overnight". This must be used literally in the final request.
+
+d) The 'target_day' being "today" coupled with the 'target_diurnal_period' of "overnight" clarifies that the deadline for data capture falls during the night hours of the current day. There is no indication or allowance for shifting this timeframe to another part of the day, ensuring adherence to a strict operational deadline for data delivery.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an informal, non-urgent request for observation over Tanjung Jabung Timur in Indonesia. The aim here is to conduct a multispectral vegetation analysis using near-infrared reflection to assess the chlorophyll absorption levels and calculate the NDVI index of the region's vegetation cover. This task is considered of low priority importance, so there's plenty of flexibility around scheduling this data capture. Ideally, the observation should be carried out overnight today. Should other tasks require immediate attention, feel free to drop or reschedule this as necessary. This serves more as a background survey or testbed tracking task rather than something critical for immediate operational needs.

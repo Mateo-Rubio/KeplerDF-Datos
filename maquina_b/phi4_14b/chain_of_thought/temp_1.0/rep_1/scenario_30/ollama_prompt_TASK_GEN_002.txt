@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this task, I will go through the details of the JSON metadata provided to interpret and transform it into a realistic request.
+
+**a)** The exact string for 'target_day' is "tomorrow". This implies that the data collection must be completed by the end of the following day, according to the operational deadline specified in the metadata.
+
+**b)** The exact string for 'target_diurnal_period' is "in the morning". This specifies when during the day the data should ideally be collected, focusing on a particular part of the diurnal cycle.
+
+**c)** The single word contained in the 'target_diurnal_period' string is "morning." This period is crucial as it indicates the specific time of day when the satellite's imaging should occur to meet the requirements of this task.
+
+**d)** I need to confirm that the deadline should not be shifted to an adjacent part of the day. The instructions explicitly mention respecting the strict operational DEADLINE for delivering data products. Therefore, the task should be completed "in the morning tomorrow" without any adjustments to the specified timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request with a flexible schedule for opportunistic capture in Peroj, Croatia, focusing on multispectral vegetation analysis using a VNIR sensor. We aim to assess the chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The task is considered a non-essential background filler, allowing operators the flexibility to drop or reschedule at convenience as needed. However, we must ensure data delivery is completed in the morning tomorrow, respecting the operational deadline for this low-priority but still valuable mission.
