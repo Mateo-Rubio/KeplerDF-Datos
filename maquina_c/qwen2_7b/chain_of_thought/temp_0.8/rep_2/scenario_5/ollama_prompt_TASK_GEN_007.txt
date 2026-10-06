@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The literal word contained in that string from {morning, mid-day, afternoon, evening, overnight} is "evening".
+d) No, I am not shifting the deadline to an adjacent part of the day; it remains fixed as "in the evening".
+
+STAGE 2:
+
+As per our operational guidelines and the information provided by the target task context JSON, your Earth observation mission requires a high-resolution optical snapshot taken tomorrow in the evening. We are deploying our advanced imaging technology to capture a clear optical imagery of Colombia, with daylight photography aiming to document specific geographical features and conditions across the country. This mission falls under the 'low priority importance' category, allowing us to perform this task flexibly, with scheduling considerations that permit dropping or rescheduling as convenience dictates. It is part of our background survey objectives, serving as a testbed tracking task rather than an urgent requirement. Nonetheless, we ensure to adhere strictly to the operational deadline set for data delivery tomorrow evening.
