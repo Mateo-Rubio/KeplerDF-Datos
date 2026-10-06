@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task at hand involves understanding the metadata provided in a JSON format and translating it into a natural language request. To accomplish this, we begin by examining specific aspects of the metadata.
+
+Firstly, we look at 'target_day' which is defined as "in three days." This string is critical because it sets a clear deadline for when the data should be delivered. It indicates that there's a fixed time frame within which the task must be completed, and this deadline cannot be moved or interpreted to mean anything other than what it literally states.
+
+Next, we examine 'target_diurnal_period' which is described as "during the afternoon." This detail is essential for understanding when the data capture should ideally take place. It specifies a particular time of day when the task should be executed, aligning with the natural light conditions that the primary sensor might require.
+
+From the phrase "during the afternoon," we identify the single word 'afternoon' as the specific time frame within which the task should occur. This is important because it helps in planning the satellite's observation schedule to ensure that the data captured meets the operational requirements.
+
+Finally, it's critical to confirm that we are not shifting this deadline to any other part of the day. The specification "during the afternoon" is explicit and leaves no room for interpretation to a different time period like morning or evening. This strict adherence to the specified timeframe ensures the accuracy and reliability of the data collection process.
+
+### Stage 2 - Final Request
+
+We have a low priority importance task involving an opportunistic capture in the flexible schedule, specifically targeting the Ecuatorial region in Indonesia. This non-essential background filler task is aimed at performing multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The satellite should deliver high-quality VNIR imagery during the afternoon, in three days, offering insights into surface reflectance. This request should be treated as a background survey or testbed tracking task, with flexibility to drop or reschedule at convenience.
