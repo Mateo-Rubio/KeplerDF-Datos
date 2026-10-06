@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string "in the morning" is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The target day is still "tomorrow", and the diurnal period is specific to "the morning", indicating a strict deadline for data delivery during this particular time window.

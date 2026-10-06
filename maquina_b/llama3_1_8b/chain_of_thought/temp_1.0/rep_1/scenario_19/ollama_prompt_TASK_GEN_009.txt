@@ -1,0 +1,17 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". 
+
+d) The deadline specified in the task context is for the next day, and since we're interpreting the temporal parameters as a strict operational deadline to deliver the data products, we are not shifting the deadline to an adjacent part of the day.
+
+The 'target_day' string is being used directly as it represents the specific deadline for the mission allocation. 
+
+The word "overnight" will be used in the final request to maintain the specified deadline and temporal context.
+
+Now, moving on to STAGE 2 - FINAL REQUEST:
+
+...the task requires thermal mapping of Indonesia's Ecuatorial area, which is an absolute institutional priority for a critical payload capture. We need a high-resolution thermal snapshot for thermal anomaly detection and heat signature profiling. Please schedule this task overnight tomorrow with the highest urgency, as it is a binding contract requirement involving a critical payload capture.
