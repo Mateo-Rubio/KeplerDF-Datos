@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request. The operational guidelines provided offer essential context on geographic location, mission allocation priority, sensors and objectives, as well as delivery deadlines.
+
+In Colombia's picturesque Cantagallo city, we aim to capture high-resolution optical snapshots representing "true-color visual documentation" using the primary VIS sensor for daylight photography and clear imaging. This task, which aligns with a "low priority importance," is treated as a "flexible schedule" low-priority importance background filler task. We explicitly note that "drop or reschedule at convenience," treating it as a "background survey." 
+
+Given the operational guidelines, the specific context on geographic location allows for natural interpretation without resorting to technical system tags, underscores, or coordinate arrays. The 'priority_level' and its corresponding language, "non-essential background filler task," encapsulates an authorative framing appropriate for this request.
+
+The 'primary_sensor' key guides how we describe our physical objectives naturally. Here, VIS is interpreted as capturing a "daylight photograph" for daylight photography, true-color visual documentation, or daylight capture scenarios without using technical acronyms like VIS, SAR, TIR, VNIR, or NIR.
+
+Lastly, the "delivery deadline" is set to "in three days," with a target diurnal period of "around mid-day." This deadline must be included verbatim in our request, without altering the time, day, or rephrasing the exact date. Our goal is to maximize the naturalness and validation accuracy of the dataset by interpreting metadata organically.
+
+To conclude, this task request will be submitted considering all provided guidelines—geographic context, mission allocation priority, sensors and objectives, and deadlines—to ensure that our Earth-observation mission is effectively planned and executed according to operational standards.

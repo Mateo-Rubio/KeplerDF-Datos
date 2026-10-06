@@ -1,0 +1,14 @@
+Translating raw physical simulation metadata into a conversational English request:
+
+Targeted task involves obtaining a high-resolution optical snapshot for daylight photography purposes over Pura Sajau city in Indonesia. This mission aims at gathering clear, true-color visual documentation of the area during an overnight operation on the day after tomorrow.
+
+Given the nature of this operation, it's treated as a flexible schedule "background survey" due to its low priority level, indicating "priority 1". We understand that this is a "non-essential background filler task", which means it can be "dropped or rescheduled at convenience" without impacting critical institutional priorities.
+
+In line with the operational guidelines provided:
+1. Pura Sajau city in Indonesia is described using the country parameter, as the city is marked as "N/A".
+2. The priority level is interpreted through its operational significance rather than numerical representation, signifying an importance level suitable for lower-priority tasks.
+3. The VIS sensor's role is explained in natural language, translating the high-resolution optical observation into terms of daylight photography and clear visual documentation.
+
+This data collection mission is aligned with normal operational status, fitting into a baseline pipeline tracking setup with fixed parameters that represent routine monitoring activities.
+
+Please note the specified delivery deadline: the data should be available on the day after tomorrow overnight as stated by an upstream module. This phrase must be included exactly in the final request, as it constitutes the upper limit for data availability.

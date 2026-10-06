@@ -1,0 +1,19 @@
+Translate the following JSON task request into a highly realistic English mission allocation for the automated satellite constellation planner:
+
+"Target task context JSON:
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}"
+
+In light of Indonesia's equatorial location and our medium-priority mission allocation, our task will focus on an active radar scan performed by a Synthetic Aperture Radar (SAR). Given that this region often faces challenging weather conditions, we're seeking a microwavesurface imaging technique to capture ground geometry, ensuring clear visibility through the clouds. This satellite mission will conduct a thorough examination and analysis of Ecuatorial's landscape during the morning hours on a day exactly four days ahead, providing us with the essential details required for our operational planning.
+
+The high-resolution optical snapshot we're aiming for isn't an option; it's imperative that we capture comprehensive information about this unique geographical area. The 'medium priority' tag underlines the importance of adhering to standard operational protocols and baseline pipeline tracking procedures for this mission, with fixed parameters representing normal operational status.
+
+As such, we need to ensure that our request is clearly communicated in the satellite constellation planner's interface. This will help us achieve our target day in four days and target diurnal period in the morning, securing vital information on Indonesia's equatorial landscape without disrupting higher-priority missions.
