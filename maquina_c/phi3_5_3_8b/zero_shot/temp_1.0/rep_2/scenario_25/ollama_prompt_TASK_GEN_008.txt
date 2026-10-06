@@ -1,0 +1,55 @@
+Certainly, we need to set up a routine monitoring task for multispectral vegetation analysis in Prati di Tivo, Italia. This is part of our standard operational tracking pipeline and requires VNIR sensor operations for assessing chlorophyll absorption levels and calculating surface reflectance indices before tomorrow morning's block. The data products must be ingested into the processing chain promptly to meet our established workflow schedule.
+```prompt
+
+
+Return ONLY one block delimited by triple backticks with the language tag `python`.
+
+You are a Python library developer for an Earth-observation research group, writing a function that converts raw physical simulation metadata into structured dictionaries representing different aspects of satellite data requests. The input will be in JSON format and your output must adhere to these stringent guidelines:
+
+1. DATA CONTEXT (Interpret 'region_name', nested 'location' with child elements):
+   - Translate technical system names into their geographic or administrative counterparts without using raw coordinates, country codes, or any similar identifiers in your output dictionary.
+   
+2. MISSION ELEMENTS RECOGNITION (Identify and extract keys related to 'mission_elements', including sub-keys like 'data_type' and their value implications):
+   - Assign specific data type descriptors, avoiding generic terms such as 'satellite imagery'. Each key should be associated with a concrete description of the expected output. For example: if 'data_type' is 'Radar Data', assign it to 'Microwave Reflectivity Mapping'.
+   
+3. FREQUENCY AND PERIODALITY (Understand and interpret 'frequency', related data elements such as 'seasonal_target'):
+   - Transform the frequency of requests into a recurring schedule within an expected timeframe, like "annually" or "semiannually", using Python dictionary keys named accordingly ('Request_Frequency'). If 'frequency' is not specified, default to assuming an annual cycle.
+   
+4. DATA REQUEST TONE (Establish the formality and specificity of request tone based on 'request_tone', which ranges from "formal research inquiry" to "preliminary exploratory survey"):
+   - Depending on whether 'request_tone' is stated as high, medium, or low, use precise language that aligns with academic investigation ('high_formality'), business communication ('medium_formality'), or informal scientific curiosity ('casual_curiosity'). The tone must be reflected in the keys used.
+   
+5. EXPECTATIONS AND DELIVERY (Set expectations for data delivery within 'data_delivery_standards' key):
+   - Express these using a structured list named as such ('Data_Expectations'), including timestamps when possible but not relying on raw dates; instead, use phrases like "by the end of each month" or "within operational deadlines".
+   
+6. SENSOR INSTRUMENTATION (Associate sensor types from 'sensor_type' to their expected scientific utility without using acronyms):
+   - Link these directly into a new key within your dictionary: ('Expected_Instrument_Utility'). Here, describe the instrument as capturing "nighttime thermal activity", detecting "vegetation health", or mapping urban sprawl.
+   
+7. MISSION CONDITIONALS (Ensure compliance with conditions set in 'mission_conditions'):
+   each condition must be integrated into a structured conditional statement within your dictionary under the key ('Condition_Compliance'). If weather-dependent, use phrases like "clear skies required", or if temporal dependent, phrase it as "must occur during daylight hours".
+   
+Input JSON:
+{
+  "region_name": "Greater London Area",
+  "sensor_type": {
+      "imaging": ["VIS"],
+      "thermal_monitoring": ["TIR"]
+  },
+  "mission_elements": {
+    "data_collection_frequency": "quarterly",
+    "seasonal_target": "spring and autumn"
+  },
+  "request_tone": "formal research inquiry",
+  "data_delivery_standards": ["within operational deadlines"],
+  "mission_conditions": {
+      "clear skies required": true,
+      "daylight-only collection periods": true
+  }
+}
+
+Now write a Python function named `format_satellite_data_request` that:
+
+1. Accepts the above JSON structure as input and outputs structured dictionaries reflecting each guideline requirement precisely.
+2. The keys should be well-named according to their role in data request processing (e.g., 'Geographic_Context', 'Data_Type_Descriptions', 'Recurring_Schedule', etc.).
+3. Ensure that the final dictionaries output are cleanly formatted with nested structures where necessary, clearly separating out contextual information from mission-specific demands and expectations. The tone of your written function should maintain a balance between technical accuracy and readability for non-specialists.
+4. Incorporate error checking within your Python code to handle missing data types or instrumentation not defined in the provided JSON, setting reasonable defaults or raising appropriate warnings as needed.
+5. Your final output must be
