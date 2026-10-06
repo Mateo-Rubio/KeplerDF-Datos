@@ -1,0 +1,12 @@
+```prompt
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, my objective is to translate the provided raw physical simulation metadata into a highly realistic and conversational English request. With the operational guidelines in mind, I aim to interpret this information naturally and contextually.
+
+Firstly, focusing on the geographic context, the mission targets a location within Indonesia specifically in Bangka Selatan. Since 'landmark' is N/A, we can describe the area using the country and city fields instead, providing a realistic and vivid image of the environment for our satellite to capture.
+
+Regarding the priority level, this request falls under Medium Importance (Priority 2). Given the operational guidelines, I will frame this as a standard operational tasking, part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We are tasked with a routine monitoring activity that involves capturing high-resolution optical imagery to document our area of interest.
+
+As for the sensors and physical objectives, we're utilizing a primary VIS sensor. The goal here is to obtain a detailed 'daylight photography' snapshot or clear optical imagery of the location in Bangka Selatan to provide us with true-color visual documentation. This imagery will help us assess conditions on-site accurately under natural daylight.
+
+The delivery deadline is set for our task, which is "in four days in the morning." This upper limit represents the time frame within which we must receive our data, as determined by an upstream module. 
+
+In summary, this Earth-observation mission requires a standard operational task focusing on capturing high-resolution optical imagery of Bangka Selatan using our VIS sensor. The mission falls under Medium Importance and adheres to fixed parameters for normal operational status. We aim to complete this routine monitoring activity by collecting our data in the morning four days from now.

@@ -1,0 +1,7 @@
+Translate the raw physical simulation metadata provided into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner:
+
+The objective is to capture a detailed, high-resolution image of Tanjung Jabung Timur, Indonesia, using an active radar scan with microwave surface imaging. The goal is to perform a cloud-penetrating capture that provides insightful ground geometry under challenging weather conditions. This task is considered a low priority importance request due to its nature as a flexible schedule "background survey" or a "testbed tracking task", which allows for "opportunistic capture". It can be dropped or rescheduled at convenience, serving as a "non-essential background filler task" in the baseline pipeline tracking setup.
+
+The deadline for this task has been resolved by an upstream module: "tomorrow in the morning". The operator must adhere to this upper limit for data availability without rephrasing, shortening, or relocating it to a different part of the day. This ensures timely and accurate information delivery for future mission planning and decision-making processes.
+
+With these operational guidelines, interpret the raw JSON metadata organically, combining natural language descriptions for geographical context and sensor-specific objectives while maintaining clarity and naturalness throughout the request.

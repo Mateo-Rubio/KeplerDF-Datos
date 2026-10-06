@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to an automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request that maximizes naturalness and validation accuracy. The task context involves observing a location with high importance and urgency, utilizing a specialized sensor for critical data capture.
+
+The geographic context of our mission centers on Colombia, specifically the city of Guamal, where the satellite is required to conduct observations in the morning of tomorrow. To provide a more vivid and contextual description, we'll incorporate realistic elements from the 'country', 'city', and 'landmark' fields within 'location_details'. Given that country and city are mentioned, but no landmark, I will describe the location using these fields.
+
+The mission allocation priority has been designated at level 3, emphasizing high importance and authority. This indicates an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture", with an "un-preemptable mission lock" and an "urgent operational execution". The satellite must focus on capturing essential data as part of this "high-priority tasking".
+
+The primary sensor scheduled for this observation is the Near-Infrared (NIR). This sensor's purpose will be explained as capturing "near-infrared reflection" to provide critical information about water body boundaries or soil moisture assessments, which are crucial for environmental monitoring and agricultural health.
+
+Incorporating the delivery deadline from our task context, the satellite must complete these observations by tomorrow in the morning. This phrase serves as the upper limit for data availability and must be inserted verbatim into our request.
+
+In summary, my request is to initiate a mission for an automated satellite constellation to capture essential near-infrared reflective data of Guamal, Colombia, tomorrow morning. This task carries high importance as part of an institutional priority, requiring immediate attention with the use of specialized sensors for critical data collection. The deadline for this task has been resolved by an upstream module, stating that all observations must be completed by tomorrow in the morning.

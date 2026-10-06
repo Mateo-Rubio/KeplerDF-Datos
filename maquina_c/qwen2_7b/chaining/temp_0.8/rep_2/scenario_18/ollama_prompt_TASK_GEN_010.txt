@@ -1,0 +1,9 @@
+Translating mission allocation metadata into a highly contextualized task request:
+
+As an Earth-observation mission operator, I am tasked with obtaining a thermal mapping of a location in Colombia, specifically the city of Concepción. This "heat signature" capture is requested due to its low importance and flexibility, implying it is a "non-essential background filler task". With the deadline set for tomorrow during the afternoon, there's an understanding that this "background survey" may be "dropped or rescheduled at convenience".
+
+The primary sensor needed for this mission is a TIR (Thermal Infrared), which will provide thermal mapping data to detect surface temperature profiles and thermal anomalies. This objective aims to understand heat emissions by the location, essential for various applications like urban heat island mapping or agricultural monitoring.
+
+With the specified diurnal period being "during the afternoon", we plan to capture imagery that can best represent the thermal characteristics of the area under natural lighting conditions. The request has been tailored with operational phrases and avoids raw technical details, ensuring the translation is natural and maximizes dataset validation accuracy.
+
+The location's context combines the 'country', 'city', and 'landmark' fields seamlessly, describing a realistic setting without resorting to technical tags or coordinate arrays, aligning with the guidelines for an organic interpretation of metadata.
