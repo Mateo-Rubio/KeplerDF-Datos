@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request for the automated satellite constellation planner. My objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The given JSON metadata highlights that we are targeting a location in Malaysia, specifically within the city of Tatau, for observation using near-infrared (NIR) sensors on the designated day, tomorrow, around mid-day.
+
+The geographical context informs us that this task is set within Malaysia's boundaries and is associated with the city of Tatau, allowing us to vividly describe the locale without delving into technical specifications. The operational guidelines guide our interpretation:
+
+Given the priority level is 1 (low importance), we must incorporate a casual tone when formulating this request. It's noted as a "non-essential background filler task" with flexible scheduling considerations for "drop or reschedule at convenience". This implies the operator views it as a "background survey" or "testbed tracking task", indicating that while not critical, it serves a foundational role in the operational pipeline.
+
+The primary sensor specified is NIR, which the guidelines suggest should be integrated into the request to explain its purpose for observation. The request should describe this as mapping "water body boundaries" and conducting a "soil moisture assessment". This includes discerning "gradient changes" related to soil moisture content, providing a comprehensive view of environmental conditions.
+
+The deadline provided is tomorrow around mid-day, which we must include in the request verbatim. It's worth emphasizing that this deadline represents the upper limit for data availability, not a countdown or proximity to an event. The key takeaway is the importance of meeting this deadline without specifying the urgency in terms of timing.
+
+In summary, our request to the automated satellite constellation planner is:
+
+"Please capture water body boundaries and conduct a soil moisture assessment using near-infrared (NIR) sensors for the location in Malaysia's Tatau city, scheduled tomorrow around mid-day. This task aligns with our flexible scheduling considerations as it's categorized as a 'non-essential background filler task'. We appreciate your cooperation in ensuring timely data collection to support our ongoing environmental monitoring efforts."
+
+Please confirm receipt and proceed with scheduling the satellite mission accordingly."

@@ -1,0 +1,11 @@
+Operating an Earth-observation mission operator, I hereby submit a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request.
+
+The geographic context involves observing a location in Colombia, specifically the city of Nunchía. I will not use raw technical system tags or coordinate arrays for this natural description. Instead, I'll interpret 'region_name' and 'location_details' to articulate the geographical context in a realistic manner. Given that 'country', 'city', and 'landmark' fields are available, I'll combine these naturally.
+
+The mission allocation priority indicates 'priority_level'. In our case, it's set at Priority 1 (Low Importance), which requires a casual tone with a flexible schedule for opportunistic capture. I'll frame this request as a low priority importance task with a flexible schedule for opportunistic capture. The mention of the "non-essential background filler task" reflects a "background survey" or "testbed tracking task".
+
+The sensors and physical objectives involve 'primary_sensor' data, which is VNIR (Vegetation Index Sensor). Our operational objectives include natural descriptors for this sensor: explaining the goal as a "multispectral vegetation analysis" to assess "chlorophyll absorption levels", calculate a vegetation "NDVI index", and surface reflectance.
+
+Considering the delivery deadline, we are targeting "the day after tomorrow around mid-day". This phrase must be inserted verbatim into the request, as the stated upper limit for data availability. There's no mention of raw UTC timestamps, digits, or countdown metrics to be included.
+
+In conclusion, this request will integrate all the provided metadata in a fluent manner, focusing on natural and operational language that reflects the guidelines provided. By doing so, we ensure that the dataset maximizes naturalness and validation accuracy, interpreting the metadata organically while adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines.

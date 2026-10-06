@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request. Here's the interpretation:
+
+The geographical context involves Colombia, specifically the city of Vista Hermosa. Instead of using raw technical system tags, underscores or coordinate arrays, I'll describe the location using this realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. In this instance, since both 'city' and 'landmark' are not specified, I'll describe it solely based on 'country', which is Colombia.
+
+The mission allocation priority is marked as medium importance (Priority 2). This means the task is part of a standard operational tasking or commercial tasking setup with fixed parameters representing normal operational status or a routine monitoring activity within a baseline pipeline tracking. The language must reflect this structural hierarchy appropriately.
+
+The sensor and physical objectives are using the primary sensor 'NIR'. I'll weave the operational objectives and descriptors into my request as an explanation of the goal: to map near-infrared reflection for water body boundaries or assess soil moisture, which allows us to discriminate gradients in this area. 
+
+The delivery deadline is "the day after tomorrow overnight", which has already been resolved by an upstream module, meaning I don't need to output raw UTC timestamps or rephrase it. This represents the stated upper limit for data availability.
+
+To summarize and request:
+
+Translate the raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request for an Earth-observation mission operator tasking. Focus on interpreting keys 'region_name' and nested 'location_details', use an operational tone based on mission priority levels, incorporate sensor objectives with natural language for physical phenomena observations, and include the deadline "the day after tomorrow overnight" in your text verbatim.

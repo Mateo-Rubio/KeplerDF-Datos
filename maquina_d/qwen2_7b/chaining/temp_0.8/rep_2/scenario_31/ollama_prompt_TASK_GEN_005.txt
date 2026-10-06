@@ -1,0 +1,11 @@
+Given the operational guidelines, we're tasked with creating a realistic and conversational English request based on the provided JSON data. The mission involves capturing thermal mapping data using a TIR sensor over the region of Italia, specifically the city of Roasio. This task is classified as "low priority importance", indicating it has a flexible schedule for "opportunistic capture". It's explicitly framed as a "non-essential background filler task", with instructions to treat it as a "background survey" or "testbed tracking task".
+
+The primary sensor, TIR, aims to gather data by performing "thermal mapping". This operation targets capturing the heat signature of the area and mapping surface temperature profiles. The request emphasizes the importance of identifying thermal anomalies and mapping heat emissions to ensure comprehensive coverage and analysis.
+
+The geographical context points us to Italia with a focus on Roasio, providing a vivid regional setting without delving into technical system tags or coordinate arrays. The 'country' field ("Italia") and 'city' field ("Roasio") are combined naturally for the location description.
+
+The mission allocation priority level is "Low Importance". This classification translates into a professional tone that frames this as a "standard operational tasking" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status". The request highlights that this task is not to be preempted and should be carried out when convenient.
+
+As for the deadline, we're bound by an upper limit set by an upstream module: "the day after tomorrow overnight". This phrase should be inserted verbatim in our request without any rephrasing or abbreviation. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In conclusion, our task is to capture thermal data from the region of Italia with a focus on Roasio using a TIR sensor. This is treated as a "non-essential background filler task" with instructions to proceed once an upstream module has resolved the delivery deadline set for "the day after tomorrow overnight". The task is framed as part of our standard operational workflow with fixed parameters, maintaining our normal baseline pipeline tracking status.
