@@ -1,0 +1,21 @@
+STAGE 1
+
+a) The exact string found in 'target_day' is: "in four days"
+
+b) The exact string found in 'target_diurnal_period' is: "around mid-day"
+
+c) The single word contained in that string, which must appear literally in the final request, is: "mid-day"
+
+d) The deadline is specified to be at "mid-day" exactly four days hence, without shifting to an adjacent part of the day. There's no mention of altering the deadline or adjusting for other parts of the day.
+
+STAGE 2
+
+As per our operational guidelines, we aim to deliver highly realistic and conversational requests based on the provided Earth-observation metadata. We will translate the raw physical simulation JSON into a single coherent request with natural language:
+
+Please initiate a low priority importance task for an immediate need in Colombia. Our mission involves capturing daylight imagery of San Pablo from around mid-day on the target day, which is precisely four days away.
+
+The primary sensor used will be VIS (visible light) cameras to secure high-resolution optical snapshots as true-color visual documentation that captures the full landscape during daytime hours.
+
+The data capture and processing should align strictly with the deadline provided; our absolute institutional priority ensures the un-preemptable execution of this mission lock in collaboration with all relevant departments. Due to its low priority level, scheduling adjustments are flexible, making this a non-essential background filler task, but still crucial for our baseline pipeline tracking setup.
+
+This "testbed tracking task" or background survey will contribute to our understanding and monitoring capabilities in the region without requiring any rush or close deadline implications; it's merely one piece of the comprehensive operational puzzle we're assembling with our automated satellite constellation planner.
