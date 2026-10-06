@@ -1,0 +1,26 @@
+python
+import json
+
+# Given JSON input as a string
+json_input = '''{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Foraquira"
+  },
+  "priority_level": 1,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}'''
+
+# Convert JSON string to a Python dictionary
+data = json.loads(json_input)
+
+# Extract required information
+sensor_type = data['primary_sensor']
+city_name = data['location_details']['city']
+priority_level_str = str(data['priority_level'])
+target_day_str = data['target_day']
+diurnal_period = data['target_diurnal_period']
+
+# Now we can generate the final request using this information
