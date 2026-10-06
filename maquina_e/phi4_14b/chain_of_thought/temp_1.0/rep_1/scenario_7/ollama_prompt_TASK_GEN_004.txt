@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To create a conversational request based on the JSON metadata provided, let's first interpret the relevant fields:
+
+a) The exact string in 'target_day' is "in three days." This phrase will be directly included in the final request to indicate when the data product is needed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This phrase specifies when during the day the satellite observation should occur.
+
+c) The word "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is contained in the string for 'target_diurnal_period'. This word will be explicitly used in the final request to describe the timing of the satellite task.
+
+d) It's crucial to confirm that we are not shifting the deadline. The requirement is to deliver data within "in three days" during the "overnight" period. We must ensure the request aligns with this timeframe without any adjustments to capture windows or data delivery schedules.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority task concerning Huasanó, Colombia, which involves capturing thermal imagery of the area. The goal is to map the heat signatures and detect any thermal anomalies in this region using thermal mapping technology. This request falls under a "low priority importance" category, allowing for a flexible schedule. We aim for an opportunistic capture and encourage dropping or rescheduling if necessary. Please plan this task for "in three days," specifically targeting the "overnight" period to ensure optimal thermal conditions for data collection.

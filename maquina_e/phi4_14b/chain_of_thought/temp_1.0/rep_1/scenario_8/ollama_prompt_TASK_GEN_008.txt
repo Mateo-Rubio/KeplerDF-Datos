@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+To craft a request for an Earth-observation mission operator, we begin by interpreting the provided JSON metadata. Firstly, for `target_day`, the exact string given is "in four days". This clearly sets a precise timeframe for when the data must be delivered, aligning with operational deadlines without any modification. Next, examining `target_diurnal_period`, we find the string "overnight". Within this phrase, the single word that fits our requirement from the list provided {morning, mid-day, afternoon, evening, overnight} is "overnight". It's imperative to note that this term specifically sets the operational window during which observations should occur, emphasizing when the satellite constellation must perform its task.
+
+Moving forward with these specifics in mind, we are tasked with ensuring that the deadline remains intact and unaltered. This involves not shifting the observational task to another part of the day or extending the timeframe beyond "in four days". By strictly adhering to this, we uphold the precision required for operational planning and execution. Such attention to temporal detail guarantees that the request aligns with the stringent demands of satellite mission scheduling.
+
+Now, integrating all these interpretations into a cohesive and conversational English request is crucial. The location for this operation is Greve in Chianti, Italy, a place renowned for its picturesque landscapes and wine production, which would benefit from our specified observational goals. Given the high priority level indicated by "Priority 3", we must approach this task with the gravity it demands, reflecting an absolute institutional priority that necessitates urgent operational execution and an un-preemptable mission lock.
+
+### STAGE 2 - FINAL REQUEST
+
+This is a binding contract requirement involving critical payload capture of Greve in Chianti, Italy, via a multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index. This high-priority task mandates an absolute institutional priority with urgent operational execution due to its nature as a mandatory directive. The operation must be completed "in four days" during the "overnight" period to ensure timely data delivery without any alterations to this strict deadline.
