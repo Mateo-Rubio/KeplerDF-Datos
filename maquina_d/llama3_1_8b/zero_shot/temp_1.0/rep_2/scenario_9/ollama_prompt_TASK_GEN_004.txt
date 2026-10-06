@@ -1,0 +1,41 @@
+Translate raw physical simulation metadata into a single, highly realistic, and conversational English request.
+
+Interpret the geographic context according to operational guidelines:
+
+Combine the JSON parameters naturally to describe the location. Use the 'region_name' as a general description of the location, and add more specific details from 'location_details'. If country or city is "N/A", ignore them and use clean 'region_name'.
+
+For this task, describe the location in Colombia using the clean 'region_name', specifying the city San Martín.
+
+Mission allocation priority is based on the operational context. Define priorities according to the provided key 'priority_level':
+
+- Priority 3 (High Importance): Use an authoritative, explicit, and commanding tone.
+- Priority 2 (Medium Importance): Use a professional, direct, and standard operational tone.
+- Priority 1 (Low Importance): Use a casual, highly flexible, or opportunistic tone.
+
+For this task, the priority level is set to 3, so use an authoritative tone.
+
+Sensor and physical objectives are based on the key 'primary_sensor'. Describe the goal using natural language and the provided operational objectives:
+
+- VIS: High-resolution optical snapshot for daylight photography.
+- SAR: Active radar scan using microwave surface imaging for cloud-penetrating capture.
+- TIR: Thermal mapping to capture a heat signature, surface temperature profile, or thermal anomaly detection and mapping heat emissions.
+- VNIR: Multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance.
+- NIR: Near-infrared reflection for water body boundary mapping or soil moisture assessment.
+
+For this task, the primary sensor is TIR, so describe the goal as thermal mapping to capture a heat signature or surface temperature profile.
+
+Lastly, incorporate the relative timeframes based on the keys 'target_day' and 'target_diurnal_period'. Describe the deadline for data availability using phrases that reflect the urgency naturally:
+
+* "...needed by [target_day] [target_diurnal_period] at the latest."
+* "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+* "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+For this task, the target day is the day after tomorrow and the target diurnal period is during the afternoon. Therefore, the deadline should be described as:
+
+"...needed by the day after tomorrow, during the afternoon at the latest."
+
+Combine all of these natural descriptions to formulate a single, conversational request that outlines the entire task:
+
+"As an absolute institutional priority, we require thermal mapping to capture a heat signature or surface temperature profile in San Martín, Colombia. This data is critical for our operational pipeline and must be ingested into the pipeline before the day after tomorrow, during the afternoon at the latest."
+
+This request ensures all requirements are accurately reflected in natural language while prioritizing the key mission objectives within strict deadlines.
