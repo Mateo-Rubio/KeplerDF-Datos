@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon". This word must appear literally in the final request.
+
+d) The 'target_diurnal_period' specifically mentions "during the afternoon," so there's no need to shift the deadline to any other part of the day. The operation must be completed within this specified period.
+
+### Stage 2 - Final Request
+
+We have a standard operational tasking for tomorrow. This request involves conducting a commercial tasking as part of a baseline pipeline tracking setup, ensuring the workflow remains updated with fixed parameters in normal operational status. We need to carry out an active radar scan over Northern Italy using microwave surface imaging to capture cloud-penetrating imagery, effectively piercing through any heavy weather or capturing ground geometry. The data collection should occur during the afternoon, adhering strictly to this scheduled timeframe.

@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For the task at hand, we first analyze the JSON metadata to extract and interpret necessary details. 
+
+a) The string found in 'target_day' is "in three days". This will be used verbatim to specify when the mission must be completed.
+
+b) The string within 'target_diurnal_period' is "overnight". This phrase will guide us in setting the timing for when the satellite imagery should be captured.
+
+c) Out of the set {morning, mid-day, afternoon, evening, overnight}, the word "overnight" appears verbatim in the given string. Thus, "overnight" will be directly integrated into our final request to maintain consistency with the metadata specification.
+
+d) It's crucial to confirm that we are not altering the deadline specified by 'target_day' and 'target_diurnal_period'. The phrase "in three days" coupled with "overnight" strictly indicates that the imagery must be acquired within a three-day window, specifically during nighttime hours. We will adhere precisely to this temporal constraint, ensuring no modifications to the deadline are made.
+
+### STAGE 2 - FINAL REQUEST
+
+We need to convey an urgent and precise request for a high-stakes satellite imaging task based on the parsed metadata, adhering to the outlined guidelines. The request is as follows:
+
+This mission represents an absolute institutional priority and binding contract requirement due to its critical payload capture nature. We mandate an active radar scan of the region near Gilirang, Indonesia, utilizing microwave surface imaging to achieve a cloud-penetrating capture. This task is non-negotiable and falls under an un-preemptable mission lock, requiring urgent operational execution. The satellite must perform this task in three days, specifically during the overnight hours, ensuring compliance with the precise deadline for data delivery. This directive underscores the critical importance of obtaining this vital imaging without delay or rescheduling.
