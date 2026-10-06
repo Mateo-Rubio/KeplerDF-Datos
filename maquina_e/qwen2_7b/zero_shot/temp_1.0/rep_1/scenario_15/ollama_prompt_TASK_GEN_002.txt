@@ -1,0 +1,22 @@
+Given your high-priority request, we are tasked with capturing a detailed multispectral vegetation analysis for an area located in the beautiful region of Italia, near the city of Norte. The primary sensor to be utilized for this operation is the VNIR sensor, which will enable us to gather information about the chlorophyll absorption levels and surface reflectance.
+
+As part of our standard operational tasking, we must ensure that all data collection activities are completed with the highest quality standards possible, and we understand that this is an opportunity to refine our baseline pipeline tracking processes. This request falls under a low priority importance category, so while we recognize the value it holds for you, we will ensure that there is flexibility in scheduling to accommodate any drops or rescheduling at your convenience.
+
+The urgency to execute this mission lies in delivering the data products to you by the day after tomorrow during the afternoon timeframe. We are committed to meeting the strict delivery deadline set for your products before the said day and time arrives, ensuring they are ingested into your pipeline before the nightfall.
+
+Your "background survey" or "testbed tracking task", as we refer to it internally, will be treated with the care and professionalism you have come to expect from our team. We look forward to capturing the necessary data that will aid in advancing your project without any compromise on quality or timelines.
+
+Please find attached the raw physical simulation metadata for reference:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Norte"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+In conclusion, your task is of utmost importance to our institution, involving a critical payload capture that requires an absolute institutional priority or adheres to contractual obligations. This directive involves mandatory directives and urgent operational execution, reflecting the binding nature of your request.
+
+Your request is now integrated into our system with all the necessary details for our satellite constellation planner to execute the mission according to your specifications. Our team will monitor the progress closely and ensure that the data you require is ready for your ingestion pipeline by the day after tomorrow during the afternoon period.
