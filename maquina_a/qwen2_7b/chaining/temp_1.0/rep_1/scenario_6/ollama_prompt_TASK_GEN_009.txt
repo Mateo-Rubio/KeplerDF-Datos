@@ -1,0 +1,20 @@
+Please provide a highly realistic, conversational English request for an Earth-observation mission operator submitting a task to an automated satellite constellation planner. The task involves translating raw physical simulation metadata provided in JSON format into a natural and accurate request, while considering specific operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the 'region_name' and nested 'location_details' (country, city, landmark) fields naturally, avoiding raw technical system tags or coordinate arrays.
+2. MISSION ALLOCATION PRIORITY: Interpret 'priority_level' using authoritative, professional, or casual language to reflect institutional importance, standard operational tasks, or low priority requests with flexible schedules.
+3. SENSORS AND PHYSICAL OBJECTIVES: Explain the goals for VIS, SAR, TIR, VNIR, and NIR sensors using natural language that captures daylight photography, cloud-penetrating radar scans, thermal mapping, vegetation analysis, and near-infrared assessment.
+4. DELIVERY DEADLINE: Insert "tomorrow in the evening" as the data availability upper limit.
+
+Example JSON task context:
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Your request should follow these guidelines to ensure naturalness and validation accuracy. Please generate a single, highly realistic request based on this JSON context.
