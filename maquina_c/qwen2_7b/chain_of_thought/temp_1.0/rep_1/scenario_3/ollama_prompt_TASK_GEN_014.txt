@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in the 'target_diurnal_period' string is "overnight".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the parameters from the JSON metadata, we are tasked with capturing a high-resolution optical snapshot using VNIR technology for the location of Borgo Valsugana, which is in the country of Italia. The priority for this mission allocation is High Importance due to an absolute institutional priority or a binding contract requirement that involves a critical payload capture operation. This operation must be executed with urgency and cannot be preempted by any other missions.
+
+The deadline is set for "the day after tomorrow" at the specific diurnal period of overnight, which emphasizes the necessity for the satellite to collect the data during this time. The VIS technology aims to provide clear optical imagery that can serve as daylight photography or true-color visual documentation of the region under consideration.
+
+The VNIR sensor will provide the operational objectives necessary for assessing chlorophyll absorption levels or calculating a vegetation NDVI index and surface reflectance, which are essential metrics for ecological monitoring and environmental studies.
+
+In summary, this operational request requires executing a standard satellite mission to capture nighttime images of Borgo Valsugana in Italia using VNIR technology on the day after tomorrow, with an absolute deadline at overnight. The priority indicates the need for a highly coordinated and authoritative approach to ensure timely data acquisition without compromising operational integrity or contractual obligations.
