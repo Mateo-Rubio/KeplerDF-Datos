@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit a task request for our automated satellite constellation planner. The goal is to capture thermal data on the region named "region_name" with its location details based in the "Italia", specifically focusing on the city of "Serravalle di Chienti". We're utilizing the TIR sensor to acquire this information.
+
+Given its priority level of 'Low Importance', our objective involves a low-priority importance request with a flexible schedule. This is essentially a non-essential background filler task, which we treat as a "background survey" or "testbed tracking task". The operator explicitly notes that this task should "drop or reschedule at convenience", meaning it's to be treated as an opportunistic capture rather than a critical deadline.
+
+The temporal parameters for this task are set with strict operational urgency. We aim to provide thermal mapping data for this region, capturing a heat signature or surface temperature profile. The requirement is that the data products must be ready by "the day after tomorrow", specifically in the morning at the latest. This deadline is crucial for ensuring the products are ingested into our pipeline before the deadline.
+
+In conclusion, the plan is to conduct a thermal scan of this specific location using the TIR sensor and ensure all data requirements are met by the specified timeframe without altering or extending the deadline.
+
+The task will help us further understand heat patterns within the given area in a "high-resolution optical snapshot" perspective. The urgency lies not in the timeframe of the capture window but rather the deadline for delivering the data products, as we adhere strictly to operational guidelines and rules.
+
+Let's proceed with this request and optimize our satellite constellation planning accordingly.
