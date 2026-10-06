@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates a specific timeframe from the point of request submission until the data needs to be captured and delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the period during which the satellite observation should occur, focusing on nighttime conditions.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word will be explicitly included in the final request to ensure clarity regarding the timing of the observation.
+
+d) It is important to confirm that the deadline is not being shifted. The task must occur "in three days" during the "overnight" period, adhering strictly to these parameters without altering the specified timeframe or diurnal period.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a binding contract requirement for a critical payload capture over Indonesia, specifically in the vicinity of Ecuatorial. This mission holds absolute institutional priority and involves capturing thermal mapping data using our TIR sensor capabilities. The objective is to detect and document thermal anomalies and surface temperature profiles. We need this high-value data delivered as part of an urgent operational execution within three days, focusing on the overnight period. Please ensure this mission lock remains un-preemptable, prioritizing it over other tasks due to its essential nature for our critical analysis needs.

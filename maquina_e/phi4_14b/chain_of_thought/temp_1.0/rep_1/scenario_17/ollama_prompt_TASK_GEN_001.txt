@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for when the task must be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day when the observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight". This word will be included verbatim in the final request to specify the timing of the task.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task is explicitly set for the "overnight" period on "in four days", and this timing must be adhered to without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are looking to conduct a low-priority importance mission over San Martín, Colombia, with a flexible schedule for opportunistic capture. This non-essential background filler task involves a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. While this is not a high-priority mission, please aim to have the data captured overnight in four days. If possible, you may drop or reschedule this task at your convenience, as it serves as a background survey for our ongoing testbed tracking efforts.

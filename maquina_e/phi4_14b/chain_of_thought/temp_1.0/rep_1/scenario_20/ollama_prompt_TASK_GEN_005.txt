@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, I'll examine the key 'target_day' from the JSON data, which specifies when the task needs to be completed. The exact string is "in three days," indicating a deadline within that timeframe without any ambiguity.
+
+Next, let's look at the 'target_diurnal_period', which provides information on the timing within the day for the task execution. The exact string here is "around mid-day." This suggests that the observations or data capture should occur near the middle of the day.
+
+From this string "around mid-day," we can identify the specific word that indicates the time of day. The single word contained in that string is "mid-day." This word will be used verbatim in the final request to maintain clarity about when the satellite observation should occur during the specified day.
+
+Finally, it's crucial to confirm that we are not shifting the deadline to another part of the day. The provided information specifies that the target diurnal period is "around mid-day," and there is no indication or allowance for altering this time frame. Hence, we will adhere strictly to this specified period without any changes or shifts.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a professional and standard operational request for monitoring Pavullo nel Frignano in Italy. This task involves near-infrared reflection to map water body boundaries and assess soil moisture levels accurately. The importance of this operation is recognized as part of our baseline pipeline tracking with fixed parameters, reflecting a normal operational status. The data capture must occur in three days, specifically around mid-day, aligning with our routine monitoring standards. Please ensure the mission parameters are set to meet these requirements efficiently.
