@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To begin with, I will analyze the provided JSON metadata to extract and interpret key information relevant to our task request.
+
+a) The exact string in 'target_day' is "today." This indicates that the request needs to be fulfilled immediately, within the current calendar day. 
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This gives us a specific time of day when the satellite data capture should occur.
+
+c) Among the provided options {morning, mid-day, afternoon, evening, overnight}, the word that is contained in the string "in the evening" is "evening." This word will be directly included in our final request to indicate the precise time frame for capturing the data.
+
+d) Confirming that we are not shifting the deadline: The phrase "today" coupled with "in the evening" clearly confines the deadline to the current day and specifically during the evening hours. There is no ambiguity or room for interpretation that might suggest a different part of the day. 
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an interesting opportunity to perform a low-priority importance request for Otanche, Colombia. We would like a high-resolution optical snapshot captured today in the evening. This task involves acquiring clear optical imagery through daylight photography and true-color visual documentation over the specified area. While this request is considered a non-essential background filler task, we are open to having it rescheduled or dropped at your convenience. Thank you for accommodating this background survey as part of our opportunistic capture strategy.

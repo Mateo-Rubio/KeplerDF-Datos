@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves analyzing metadata from a JSON structure related to an Earth-observation mission request targeting the NIR sensor over Lumpatan II in Indonesia. The goal is to interpret this information into a natural language request.
+
+a) The 'target_day' specified in the metadata is "the day after tomorrow." This string should be used exactly as it is, without any alterations or translations into specific dates.
+
+b) The 'target_diurnal_period' mentioned in the metadata is "overnight." This indicates the time frame during which the data capture needs to occur, and it must be maintained verbatim in our request.
+
+c) The specific word contained in the 'target_diurnal_period' string that we need to use is "overnight." It appears exactly as required and will be directly incorporated into our request to describe when the task should be executed.
+
+d) It's crucial to confirm that we are not shifting the deadline. The 'target_day' and 'target_diurnal_period' provided must be adhered to strictly. Thus, there should be no changes or reinterpretations of the deadline, which is set to "the day after tomorrow overnight." This period remains non-negotiable for mission planning.
+
+### STAGE 2 - FINAL REQUEST
+
+This request constitutes an absolute institutional priority and a binding contract requirement for a critical payload capture involving NIR imaging over Lumpatan II, Indonesia. Given its high importance, it demands urgent operational execution with an un-preemptable mission lock. The objective is to achieve near-infrared reflection capturing, essential for water body boundary mapping and soil moisture assessment. This mission must be executed on the day after tomorrow overnight, ensuring data capture aligns with these strict operational deadlines.
