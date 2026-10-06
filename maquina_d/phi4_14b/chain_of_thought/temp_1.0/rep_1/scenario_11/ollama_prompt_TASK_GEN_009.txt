@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, I need to identify the exact string for 'target_day'. The metadata provides "in three days" as the string for this parameter. This indicates that the task must be completed within a specific timeframe of three days from the point of request.
+
+Next, I consider 'target_diurnal_period', which is specified as "in the evening". This directly points to the time of day when the data collection is intended to occur, specifically during the evening hours.
+
+For step (c), the string "in the evening" contains the word "evening", which falls into our provided list {morning, mid-day, afternoon, evening, overnight}. This word will be essential in describing the timing of the operation within the final request.
+
+Finally, it is crucial to confirm that I am not altering or shifting the deadline. The requirement explicitly states that "in three days" and "in the evening" are strict operational deadlines for data delivery. I must adhere to these specific parameters without making any adjustments to them.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request as part of our baseline pipeline tracking setup. We require a thermal mapping operation using an active sensor over the region in Indonesia, specifically near Kutai Timur. This mission involves capturing a heat signature and surface temperature profile for that area. The data collection is expected "in three days" and should be executed "in the evening". This request represents a normal operational status update with fixed parameters.

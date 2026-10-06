@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating metadata from JSON format into a conversational English request for an Earth-observation mission operator. Let's analyze the specific elements needed to craft this request:
+
+a) The exact string present in 'target_day' is "in four days." This indicates when the data product delivery deadline is expected, specifying a strict operational timeframe without any room for adjustment or reinterpretation.
+
+b) For 'target_diurnal_period', the string provided is "overnight." This details when during the day the satellite should capture the data, highlighting the specific period of interest.
+
+c) From the list {morning, mid-day, afternoon, evening, overnight}, the single word contained within the 'target_diurnal_period' string is "overnight." This term will need to be explicitly included in the final request to meet the requirements of accurately describing the timing for data capture.
+
+d) It is essential to confirm that we are adhering strictly to the given deadline and diurnal period without altering, extending, or shifting them. The request must reflect the deadline as "in four days" and the capture time as "overnight." There should be no adjustments made to these parameters, ensuring they remain precise and unaltered in the final task request.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority, necessitating an urgent operational execution with an un-preemptable mission lock. We require a high-resolution optical snapshot focused on multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index within Greve in Chianti, Italy. This task involves critical payload capture under binding contract requirements, with data products due in four days during the overnight period.

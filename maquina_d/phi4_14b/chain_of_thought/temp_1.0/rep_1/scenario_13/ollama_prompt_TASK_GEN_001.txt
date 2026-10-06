@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+For this task, I need to interpret and convert the provided JSON metadata into a conversational request for an Earth-observation mission. Let's break down the necessary components step by step.
+
+a) The exact string found in 'target_day' is "in three days." This represents the operational deadline for when the data products must be delivered, emphasizing that this timing is critical and not subject to alteration.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should occur. It suggests capturing imagery when conditions might differ from daytime observations, possibly due to cooler temperatures or different lighting conditions.
+
+c) The single word contained in that string, out of the options provided, is "overnight." This term will be explicitly included in the final request to ensure clarity regarding the desired timing of data collection.
+
+d) I need to confirm that there is no adjustment or reinterpretation of the deadline to any other time of day. The phrase "overnight" specifically indicates the part of the 24-hour cycle being targeted, and it must remain as such without shifting to morning, mid-day, afternoon, or evening, maintaining strict adherence to the operational deadline set for data delivery.
+
+**STAGE 2 - FINAL REQUEST**
+
+I require an urgent operational execution to capture critical near-infrared reflection data over Rionegro, Colombia. This mission is an absolute institutional priority and must be treated as a binding contract requirement with an un-preemptable mission lock due to its high importance. The focus will be on soil moisture assessment and water body boundary mapping using a high-resolution optical snapshot during the overnight period. This data capture must occur in three days to meet our delivery deadline, ensuring the highest quality and accuracy of the imagery required for our critical analysis.

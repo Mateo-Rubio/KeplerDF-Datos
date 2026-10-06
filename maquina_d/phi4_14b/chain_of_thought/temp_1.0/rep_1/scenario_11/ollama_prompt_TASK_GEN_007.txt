@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves preparing an operational request based on specific mission parameters outlined in the provided JSON metadata for an Earth-observation mission.
+
+a) The exact string found in 'target_day' is "tomorrow". This specifies when the satellite data acquisition should occur, indicating the urgency and timing of the task.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This provides precise information about the part of the day when the observation should be conducted.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "morning". This indicates the specific time frame during which the satellite imagery should be captured.
+
+d) It's crucial to confirm that we are not shifting the deadline to any other part of the day. The metadata specifies "in the morning" as the operational timeframe, and this must be adhered to without alteration. Thus, the task must be executed strictly within the "morning" window on "tomorrow".
+
+### STAGE 2 - FINAL REQUEST
+
+We are tasked with acquiring high-resolution optical snapshots over Mapiripán, Colombia, as part of a standard operational tasking aligned with our baseline pipeline tracking system. This operation involves obtaining clear optical imagery to document the area during daylight photography sessions. Please ensure that this imagery is captured in the morning on tomorrow as per the fixed parameters outlined in our mission directives. This task is essential for maintaining our routine monitoring operations and contributes to our standard workflow updates, ensuring consistent data collection and analysis.

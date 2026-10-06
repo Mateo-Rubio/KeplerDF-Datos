@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "tomorrow".
+
+b) The exact string present in 'target_diurnal_period' is "in the morning".
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This word will be used literally in the final request.
+
+d) The deadline specified by the 'target_day' and 'target_diurnal_period' must be adhered to without alteration. Therefore, the data delivery is required specifically on "tomorrow morning," and there should be no shifting or reinterpretation of this deadline to an adjacent part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We are requesting a standard operational tasking for routine monitoring over Campo Capote, Colombia. The goal is to conduct multispectral vegetation analysis using VNIR sensors. We aim to assess chlorophyll absorption levels and calculate the NDVI index as part of our baseline pipeline tracking setup with fixed parameters. Please schedule this mission to be executed tomorrow morning, in line with our normal operational status and workflow update requirements.

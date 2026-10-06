@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves collecting imagery from Colombia, specifically the city of Pajarito, using visible light sensors. The metadata provided indicates a high-priority mission requiring precise timing and specific sensor use.
+
+a) The exact string in 'target_day' is "in four days". This string sets the deadline for when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day the imagery needs to be captured.
+
+c) The single word contained in 'target_diurnal_period' that corresponds to our options {morning, mid-day, afternoon, evening, overnight} is "morning". This is the period during which the task should occur.
+
+d) There is no indication or implication that the deadline should be shifted to another part of the day. The requirement clearly specifies "in the morning" as the time for capturing the imagery on the designated target day.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission is an absolute institutional priority and involves a binding contract requirement to conduct a high-resolution optical snapshot over Pajarito, Colombia. This critical payload capture is necessary in four days, specifically in the morning, ensuring true-color visual documentation of the area. The task must be executed with an urgent operational execution mindset, as it is an un-preemptable mission lock.
