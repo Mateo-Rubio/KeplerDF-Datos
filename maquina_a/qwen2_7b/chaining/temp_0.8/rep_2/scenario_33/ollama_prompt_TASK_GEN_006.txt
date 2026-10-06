@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request for an automated satellite constellation planner, focusing on translating raw physical simulation metadata provided in JSON format. Our objective is to obtain a highly realistic and conversational English request that maximizes the naturalness and validation accuracy of the dataset.
+
+The geographic context includes observations in Indonesia, specifically within the Ecuatorial region. We will not use raw technical system tags, underscores, or coordinate arrays but will describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since 'city' is mentioned as "Ecuatorial", we will incorporate this unique term into our description.
+
+The mission allocation priority is set to 'Priority 1 (Low Importance)', denoted by the operator's explicit note to treat it as a 'low priority importance' request with a 'flexible schedule' for 'opportunistic capture'. This indicates a 'non-essential background filler task' where the operator explicitly states that this task can be 'dropped or rescheduled at convenience', highlighting its status as a 'background survey' or 'testbed tracking task'.
+
+The primary sensor to be used for the physical observation is "NIR" (Near-Infrared). The operational objectives and descriptors associated with this sensor involve obtaining "near-infrared reflection" for "water body boundary mapping" or conducting a "soil moisture assessment" to discriminate gradients. This request will emphasize the importance of capturing detailed information about water bodies or soil moisture levels, which can be crucial for agricultural or environmental monitoring purposes.
+
+The deadline for this task has been resolved by an upstream module and is set as "in three days around mid-day". We must include this phrase verbatim into our request, as it represents the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request combines the operational guidelines provided with the JSON metadata to formulate an English task request that aligns with natural language usage, emphasizes the importance and purpose of the observation, and incorporates the necessary deadline information.
