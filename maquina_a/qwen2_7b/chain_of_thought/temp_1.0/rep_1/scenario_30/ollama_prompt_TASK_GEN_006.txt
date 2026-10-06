@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "tomorrow".
+b) The exact string found in 'target_diurnal_period' is "around mid-day".
+c) The single word contained in the diurnal period string, which appears literally in the final request, is "mid-day".
+d) Confirming that no deadline shifting occurred: No part of this request shifts the specified deadline to an adjacent time period; rather, it maintains a strict focus on capturing data "around mid-day tomorrow".
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context, we will be deploying our satellite constellation for an essential background survey task to capture thermal mapping in Malaysia at mid-day tomorrow. This request is designated as a non-essential background filler task with flexible scheduling needs. We aim for high-quality near-infrared reflection data to assess water body boundaries and soil moisture conditions around Bukit Mabong city.
+
+Our objective is to ensure that the satellite acquires thermal mapping data that can identify surface temperature profiles and detect thermal anomalies effectively, contributing to our understanding of heat emissions and environmental patterns in the region. The operational deadline is strictly tomorrow at mid-day, reflecting an urgent yet non-precedential mission requirement.
+
+This capture is part of our baseline pipeline tracking system's routine monitoring setup with fixed parameters, maintaining normal operational status while acknowledging the flexibility of scheduling for this task. We emphasize that this request serves as a testbed tracking task and does not prioritize operational execution over other missions.
+
+By adhering to these guidelines and interpreting the metadata accurately, we are poised to fulfill our mission allocation priorities efficiently, capturing valuable data while respecting operational contexts and timeframes.
