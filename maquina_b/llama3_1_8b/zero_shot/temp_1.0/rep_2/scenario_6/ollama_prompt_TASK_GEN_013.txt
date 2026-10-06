@@ -1,0 +1,12 @@
+Translate the raw physical simulation metadata provided below into a single, highly realistic, and conversational English request to translate the metadata organically.
+
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "USA",
+    "city": "New York"
+  },
+  "priority_level": 2,
+  "target_day": "next Tuesday",
+  "target_diurnal_period": "morning"
+}

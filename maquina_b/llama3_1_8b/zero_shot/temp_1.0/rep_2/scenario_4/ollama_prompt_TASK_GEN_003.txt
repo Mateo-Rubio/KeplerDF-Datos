@@ -1,0 +1,20 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for translating the following target context:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Banyuasin"
+  },
+  "priority_level": 2,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+ into a request for the automated satellite constellation planner.
+ 
+ The request should be interpreted according to the operational guidelines provided, which include describing the location using realistic combinations of country, city, and landmark fields from location_details; integrating specific operational phrases to reflect the structural hierarchy of mission allocation priority; naturally weaving the operational objectives and descriptors into the request to explain the physical phenomenon to be observed; and weaving 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+ 
+ Describe this task as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+ 
+ Use a professional, direct, and standard operational tone to describe the request, ensuring it is clear and actionable for the automated satellite constellation planner.
+ 
+ Note: The request should be 150-200 words long, and the tone should be professional and direct.

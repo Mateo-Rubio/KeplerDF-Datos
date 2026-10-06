@@ -1,0 +1,35 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner. To maximize naturalness and validation accuracy, interpret the metadata organically according to these operational guidelines:
+
+* GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For this task, the location is in Norte, which is a city. Therefore, the geographic context is simply 'Norte'.
+
+* MISSION ALLOCATION PRIORITY: 
+   - High Importance (Priority 3): Use an authoritative, explicit, and commanding tone. Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+   - Medium Importance (Priority 2): Use a professional, direct, and standard operational tone. Describe this request as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+   - Low Importance (Priority 1): Use a casual, highly flexible, or opportunistic tone. Explicitly frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+For this task, the priority level is 3, so we use an authoritative, explicit, and commanding tone.
+
+* SENSORS AND PHYSICAL OBJECTIVES: 
+   - VIS: Explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+   - SAR: Explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+   - TIR: Explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+   - VNIR: Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+   - NIR: Explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+For this task, the primary sensor is VNIR, so we explain the goal as "multispectral vegetation analysis".
+
+* RELATIVE TIMEFRAMES: 
+   - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+   - CRITICAL CONTEXT: The temporal parameters represent a strict operational DEADLINE to deliver the data products to the user, NOT the orbital capture window. Your text must reflect this urgency naturally.
+   - You are strictly forbidden from altering or extending this deadline. You must weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like:
+     * "...needed by [target_day] [target_diurnal_period] at the latest."
+     * "...with a strict delivery deadline set for [target_day] [target_diurnal_period]."
+     * "...ensuring the products are ingested into the pipeline before [target_day] [target_diurnal_period]."
+
+For this task, the target day is in three days and the target diurnal period is in the morning. Therefore, we weave these parameters into a fluid conversational phrase that explicitly marks the upper limit for data availability.
+
+The final natural user request is:
+
+"Translate this request as an absolute institutional priority involving a critical payload capture and mandatory directive to capture high-resolution multispectral vegetation analysis for a heat-sensitive region in Norte, needed by in three days in the morning at the latest."
