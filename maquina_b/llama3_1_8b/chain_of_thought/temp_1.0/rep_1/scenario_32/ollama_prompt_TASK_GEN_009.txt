@@ -1,0 +1,13 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) We are not shifting the deadline to an adjacent part of the day, so we will use the given strings verbatim in our final request. 
+
+Now, let's proceed to Stage 2.
+
+...The operator requires a low-priority importance request for opportunistic capture with a flexible schedule for a "background survey" in Malaysia, specifically in Tatau. The task involves taking a near-infrared reflection snapshot using multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. This needs to be captured tomorrow around mid-day, as part of a non-essential background filler task where the operator can drop or reschedule at convenience, treating it as a testbed tracking task...
