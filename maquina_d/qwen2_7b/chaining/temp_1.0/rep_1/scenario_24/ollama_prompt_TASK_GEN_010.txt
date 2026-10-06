@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The JSON file includes details about the geographical context, sensor specifications, and mission allocation priority.
+
+The primary sensor indicated for this mission is Near-Infrared (NIR). Our goal is to perform a detailed study of water body boundaries or assess soil moisture using this technology. The location of interest lies within the country of Colombia, specifically in the AMCO area of the Centro Occidente region metropolitana, which encompasses a combination of urban sprawl and potentially diverse land types suitable for environmental monitoring.
+
+The mission allocation priority level is set at 1, which denotes "low priority importance". This low-priority importance is recognized as a flexible schedule task that may be "drop or rescheduled at convenience" by the team if needed. The objective here is to treat it as a background survey or testbed tracking task without urgent operational requirements.
+
+To specify our delivery deadline, it's set for "the day after tomorrow around mid-day". The exact wording of this upper limit for data availability should be included in the request, ensuring that no rephrasing or abbreviations are made and maintaining the precise time frame as specified.
+
+To maximize naturalness and validation accuracy, details should not include raw technical system tags, underscores, or coordinate arrays. Instead, we should interpret these key parameters as follows: when describing the geographic context, focus on combining the 'country', 'city', and 'landmark' fields from 'location_details' in a realistic manner without introducing technical tags or arrays. If any of 'country', 'city', or 'landmark' are "N/A", gracefully describe using only the remaining valid fields, or simply the clean 'region_name'.
+
+The operational guidelines for this task emphasize integrating these elements naturally while adhering to structural hierarchy and tone based on priority levels and maintaining a conversational and realistic context. Therefore, the completed request, adhering to these guidelines, is as follows:
+
+"Please capture near-infrared (NIR) reflectance data for water body boundaries or assess soil moisture content using active radar scanning technology on the day after tomorrow around mid-day in AMCO, Area Metropolitana Centro Occidente, Colombia. This task falls under a low priority importance and should be approached as a flexible schedule background survey or testbed tracking task without immediate urgency, as specified by our upstream module."
+
+This sentence incorporates all provided metadata into a coherent and realistic request, using natural language to describe each element effectively.

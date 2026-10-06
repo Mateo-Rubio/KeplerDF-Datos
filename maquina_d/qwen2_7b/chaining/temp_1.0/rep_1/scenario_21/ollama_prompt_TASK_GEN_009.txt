@@ -1,0 +1,12 @@
+Translate raw physical simulation metadata into a single, highly realistic, and conversational English request for an automated satellite constellation planner. Interpret operational guidelines to maximize naturalness and validation accuracy:
+
+GEOGRAPHIC CONTEXT: Indonesia's Ecuatorial region serves as our focus, bridging an understanding of the country with the city it represents. Combining clean 'region_name' and valid 'location_details', our location description encompasses a realistic blend of geographic identifiers without relying on raw technical system tags, underscores, or coordinate arrays.
+
+MISSION ALLOCATION PRIORITY: Recognizing 'priority_level' as an indicator for mission allocation authority, this task ranks as medium importance, utilizing professional and standard operational tones. As such, the request is framed as part of a baseline pipeline tracking setup with fixed parameters, a standard operational tasking, or a routine monitoring activity involving normal operational status.
+
+SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor choice targets VIS for daylight photography, aiming to provide clear optical imagery capturing the essence of true-color visual documentation under ideal sunlight conditions. This sensor selection underscores our mission to deliver high-resolution snapshots without technical acronyms like VIS, SAR, TIR, VNIR, or NIR.
+
+DELIVERY DEADLINE: The deadline is set for three days in the morning, with no room for rephrasing or alteration. The phrase "in three days in the morning" encapsulates the upper limit for data availability as stipulated by an upstream module.
+
+Final Request:
+Translate raw physical simulation metadata into a highly realistic request for the automated satellite constellation planner, prioritizing natural language integration and ensuring adherence to operational guidelines for maximized dataset accuracy. Focus on Indonesia's Ecuatorial region, with our main objective being a VIS (optical) sensor mission aiming for daylight photography and clear optical imagery, reflecting medium priority status. Deliverables are expected within three days in the morning, underlining institutional standard for baseline pipeline tracking activity.
