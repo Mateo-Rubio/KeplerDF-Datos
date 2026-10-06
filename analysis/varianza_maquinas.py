@@ -1,36 +1,22 @@
-import verificar_pull
-import json
 import pathlib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-REPO = pathlib.Path(__file__).resolve().parent.parent
-SALIDA = pathlib.Path(__file__).resolve().parent / "output" / "maquinas"
-CATEGORIAS = ['day_match', 'hour_match', 'sensor_match', 'priority_match']
-FUGA = ("stage 1 - reasoning", "stage 2 - final", "which exact string", "copy it verbatim")
+ANALISIS = pathlib.Path(__file__).resolve().parent
+UNIFICADO = ANALISIS / "output" / "unificado.csv"
+SALIDA = ANALISIS / "output" / "maquinas"
+CLAVE = ['temp', 'modelo', 'estrategia', 'maquina', 'rep', 'categoria']
 N_BOOT = 2000
 rng = np.random.default_rng(0)
 
-filas = []
-for f in REPO.glob('maquina_*/*/*/temp_*/rep_*/scenario_*/ollama_prompts_combined.json'):
-    maquina, modelo, estrategia, temp, rep, escenario = f.relative_to(REPO).parts[:6]
-    if float(temp.split('_')[1]) == 0:
-        continue
-    aciertos = []
-    for t in json.loads(f.read_text(encoding='utf-8'))['tasks']:
-        fuga = estrategia == 'chain_of_thought' and any(k in t['generated_output'].lower() for k in FUGA)
-        aciertos.append(np.mean([t['validation'][c] and not fuga for c in CATEGORIAS]))
-    filas.append({'temp': float(temp.split('_')[1]), 'modelo': modelo, 'estrategia': estrategia,
-                  'escenario': escenario, 'maquina': maquina, 'precision': np.mean(aciertos)})
-df = pd.DataFrame(filas)
-
+df = pd.read_csv(UNIFICADO)
+df = df[(df['categoria'] == 'global') & ~df['temp'].isin([0, 1])]
+df = df.melt(id_vars=CLAVE, var_name='escenario', value_name='precision').dropna(subset=['precision'])
 celda = ['temp', 'modelo', 'estrategia', 'escenario']
 pm = df.groupby(celda + ['maquina'])['precision'].agg(['mean', 'var', 'count']).reset_index()
 pm = pm[pm['count'] == 2]
-pm = pm[pm.groupby(celda)['maquina'].transform('nunique') == pm.groupby('temp')['maquina'].transform('nunique')]
 cel = pm.groupby(celda).agg(s_w2=('var', 'mean'), s_b2=('mean', 'var')).reset_index()
-
 filas_res = []
 for T, g in cel.groupby('temp'):
     w, b = g['s_w2'].to_numpy(), g['s_b2'].to_numpy()
