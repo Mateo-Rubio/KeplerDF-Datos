@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, we aim to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. The objective is to capture vital information using one of the sensors specified in the JSON format.
+
+We target a location in Prati di Tivo, Italy, a beautiful setting for an operational tasking that falls under the category of medium importance. Our priority level is set at 2, indicating a professional and standard operational tasking. This request is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor is set to perform VNIR (visual near-infrared) analysis, aiming for multispectral vegetation assessment. We seek to assess chlorophyll absorption levels and calculate the NDVI (Normalized Difference Vegetation Index) for this area. This task requires capturing the heat signature and surface temperature profile to support thermal anomaly detection and mapping heat emissions.
+
+The target day is four days in the morning, with our delivery deadline set as per the previously determined upper limit for data availability. To maximize the naturalness and validation accuracy of the dataset, we interpret the metadata organically, focusing on the location details and avoiding raw technical system tags, underscores, or coordinate arrays. This approach ensures that our request is delivered in a highly realistic format, facilitating better understanding and smooth execution by our satellite constellation planner.
+
+In summary, this operational tasking involves capturing high-resolution optical snapshots through daylight photography to document clear optical imagery. It's part of our standard workflow update process for routine monitoring tasks. The VNIR sensor will specifically analyze vegetation, assess chlorophyll absorption levels, and calculate the NDVI index along with surface reflectance. We emphasize flexibility in scheduling, treating this as a non-essential background filler task that can be conveniently dropped or rescheduled as needed.
+
+The mission is set to achieve these objectives within our predetermined deadline without rephrasing or altering the exact wording of the delivery time frame.

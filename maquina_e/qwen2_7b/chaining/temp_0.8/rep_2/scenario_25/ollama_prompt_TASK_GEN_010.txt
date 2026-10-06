@@ -1,0 +1,23 @@
+Prioritizing an urgent operational execution for a binding contract requirement, we are requesting a critical payload capture utilizing thermal mapping capabilities of our satellite constellation. The mission aims to conduct an extensive analysis capturing heat signatures across various regions in Colombia. Specifically, we are targeting the city of Chima, leveraging our expertise in thermal anomaly detection and mapping heat emissions.
+
+Given the paramount importance of this task, it is designated as a high priority mission allocation with an absolute institutional priority, implying an un-preemptable mission lock. This request involves capturing detailed thermal data to assist in understanding regional heat patterns that could be critical for environmental monitoring and predictive analysis.
+
+The operational objective revolves around 'TIR' sensor capabilities, enabling us to obtain precise heat signatures across different geographical areas. The high-resolution optical snapshot obtained will be invaluable as clear thermal images for comprehensive documentation, providing insights into the spatial distribution of temperature anomalies.
+
+Due to the importance of timely data availability, we request the dataset to be delivered in four days, with the mission allocation scheduled for the morning period to ensure optimal conditions for satellite capture and data collection. This strategic timeframe aligns with our baseline pipeline tracking setup for routine monitoring tasks, ensuring that the 'fixed parameters' of this operation are adhered to.
+
+The flexibility required for opportunistic captures is acknowledged, recognizing that 'low priority importance' tasks may be dropped or rescheduled at convenience. Yet, we value this non-essential background filler task as a crucial opportunity for background surveying and testing our satellite constellation's capabilities in environmental surveillance.
+
+In conclusion, the comprehensive package of our request encompasses a strategic blend of high-priority mission execution with a clear understanding of geographical context and operational objectives. Our satellite constellation is primed to deliver the required dataset on time and with unparalleled accuracy, ensuring that we maintain our commitment to providing essential data for various applications, from environmental monitoring to predictive analysis.
+
+Please refer to the attached JSON file for the exact parameters and operational details:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Chima"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}

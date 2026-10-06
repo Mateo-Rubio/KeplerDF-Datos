@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic, conversational English request based on the provided JSON format.
+
+The target geographic context involves capturing data from Indonesia, with a specific emphasis on Ecuatorial city's environment using a VNIR sensor. This request falls under a low importance category (Priority 1), indicating a flexible schedule for opportunistic capture and a non-essential background filler task within normal operational status.
+
+For this mission, we aim to obtain multispectral vegetation analysis, focusing on assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance. This is essential for understanding land use and potential environmental health conditions.
+
+The target day for this task is defined as being "in three days", with a focus on capturing data around mid-day. This deadline represents the upper limit for data availability, ensuring timely delivery without the need to specify exact UTC timestamps or rephrase the time frame.
+
+In summary, our task involves conducting a flexible survey using VNIR sensors in Indonesia's Ecuatorial region, targeting mid-day on a future day to gather data that contributes to our baseline pipeline tracking. This low priority importance request is treated as a background filler task with a clear operational deadline that emphasizes the importance of adhering to the specified timeframe for optimal execution.
