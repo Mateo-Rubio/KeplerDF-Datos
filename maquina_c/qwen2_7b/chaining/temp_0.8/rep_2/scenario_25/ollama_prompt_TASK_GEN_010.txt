@@ -1,0 +1,21 @@
+As an Earth-observation mission operator submitting this task request to an automated satellite constellation planner, I hereby undertake a highly realistic translation of our raw physical simulation metadata into a single, conversational English request. The operational guidelines emphasize the interpretation of the provided data points in a manner that reflects natural language usage while adhering to specific formatting and linguistic guidelines.
+
+Given the target context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Chima"
+  },
+  "priority_level": 3,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}
+
+Our mission, with a priority level of 'High Importance', aims to capture thermal information in Colombia, specifically in Chima, utilizing a TIR sensor. This critical payload capture involves a comprehensive thermal mapping task. The satellite will perform an active microwave scan over Chima during the four-day period leading up to the target day, in the morning hours, to capture heat signatures and surface temperature profiles. A high-resolution optical snapshot is not part of this mission as the primary objective centers on thermal anomalies detection and mapping.
+
+This request aligns with an "absolute institutional priority", signifying a 'binding contract requirement' involving 'critical payload capture'. The urgency for executing this mission in an 'un-preemptable manner', ensuring that it is scheduled to commence and conclude during the morning hours of the fourth day, underscores its importance in our baseline pipeline tracking system. The parameters are fixed and represent 'normal operational status', with a commitment to delivering thermal mapping information that will provide valuable insights into heat emissions across the region of interest.
+
+To summarize, our request involves the use of a TIR sensor to conduct thermal mapping over Chima, Colombia, with an emphasis on capturing detailed heat signatures and temperature profiles. This task is part of our standard operational pipeline, carrying the priority to ensure execution during the morning hours on the fourth day, in alignment with our 'critical payload capture' strategy. The flexibility regarding scheduling will be exercised as necessary for non-essential background tasks, treating this as a 'background survey' or 'testbed tracking task' where adjustments are made based on operational demands.
+
+This request encapsulates the essence of our mission's translation into natural language, ensuring that all components of the provided JSON data are incorporated cohesively and accurately according to the operational guidelines set forth.

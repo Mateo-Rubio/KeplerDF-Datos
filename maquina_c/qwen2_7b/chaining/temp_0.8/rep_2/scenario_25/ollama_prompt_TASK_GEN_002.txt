@@ -1,0 +1,7 @@
+We're tasked with capturing a thermal mapping of Norte's geographic area, focusing on detailed surface temperature profiles and thermal anomalies, using our TIR sensor. The goal is to gain insights into heat emissions across the region for upcoming analysis, aiming for high-resolution, low-priority importance.
+
+As this falls under Priority 1 (Low Importance), we're framing it as a 'flexible schedule' task, with 'drop or reschedule at convenience' as a note from the operator. The directive is to treat this request as a 'background survey', recognizing that it's part of our 'non-essential background filler tasks'.
+
+To address our geographic context, despite the lack of country details and specific city information, we'll describe Norte with its landmark if available or use the clean 'region_name' as a fallback. Given the 'N/A' tags for both country and city, we'll emphasize Norte's general characteristics in this request.
+
+For delivery deadline, we're looking at availability 'in three days in the evening'. This is the upper limit for data availability as established by an upstream module, which needs to be adhered to verbatim in our task submission. Our operational focus remains on capturing the thermal signatures effectively during that specified diurnal period without any rephrasing or adjustment.
