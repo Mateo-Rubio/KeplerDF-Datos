@@ -1,0 +1,13 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+As per the provided guidelines and the operational details specified within the JSON payload, our task pertains to collecting data on Colombia's landscape during the morning hours of tomorrow, utilizing near-infrared (NIR) sensors for comprehensive observation. Specifically focusing on "Puerto Lleras," a city in the country, our objective is to capture high-resolution imagery that will aid in assessing soil moisture and water body boundaries. This task requires an early-morning capture since such environmental data tends to vary significantly at different times of the day, providing us with crucial insights for agricultural practices and natural resource management in this region. The operational request involves conducting a "non-essential background filler task," allowing flexibility in scheduling while still adhering to the stipulated deadline for data delivery. Therefore, this low-priority importance mission aims to capture thermal mapping and near-infrared reflection without altering or extending any deadlines set forth, merely meeting the parameters for data collection within the given timeframe of tomorrow's morning hours.

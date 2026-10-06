@@ -1,0 +1,13 @@
+STAGE 1 REASONING:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the 'target_diurnal_period' string, which must appear literally in the final request, is "overnight".
+
+d) The deadline for capturing the data products is strictly set for "overnight", which means "tomorrow" and does not allow shifting or altering the deadline to any other part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+In response to an absolute institutional priority requirement, our satellite constellation planner must capture a high-resolution optical snapshot of the landmark in Aguadas, Colombia, using a VNIR sensor. This "critical payload capture" is part of a binding contract mandate involving the use of a "standard operational tasking". The goal is to achieve an "overnight capture" on "tomorrow", which will allow for "cloud-penetrating" radar scans by utilizing microwave surface imaging technology, thus ensuring detailed and comprehensive cloud cover penetration without any interference. This task necessitates immediate action due to its "urgent operational execution" status, emphasizing the importance of this mission allocation as a "non-essential background filler task", acknowledging the flexible schedule for dropping or rescheduling it at convenience while ensuring it forms part of our "baseline pipeline tracking" with fixed parameters representing standard operational status.
