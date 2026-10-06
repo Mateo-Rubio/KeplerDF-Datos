@@ -1,0 +1,27 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. 
+
+To maximize naturalness and validation accuracy, interpret the metadata organically according to the following operational guidelines: 
+
+- For geographic context, combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+- For mission allocation priority, use an authoritative tone for Priority 3 (High Importance) framing it as an "absolute institutional priority" involving a "critical payload capture" or "mandatory directive". For Priority 2 (Medium Importance), use a professional tone describing it as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup. For Priority 1 (Low Importance), use a casual tone explicitly framing it as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+- For sensors and physical objectives, naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed. For TIR, explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+- The deadline for this task is: "in three days overnight". 
+
+Considering the given metadata:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Santa Helena del Opón"
+  },
+  "priority_level": 1,
+  "target_day": "in three days",
+  "target_diurnal_period": "overnight"
+}
+
+This request should be framed as a low-priority importance task with a flexible schedule for opportunistic capture, describing it as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience. 
+
+Translate the target location in Colombia, specifically the city of Santa Helena del Opón, into a realistic and conversational English description. For this request, use a casual tone, focusing on a high-resolution thermal mapping task to capture heat signatures and surface temperature profiles overnight within three days.
