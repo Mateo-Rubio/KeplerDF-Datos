@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+The target location is Mapiripán, Colombia, where the mission's focus will be on acquiring data using thermal imaging technology. The 'target_day' string in the JSON metadata is "in three days," indicating a specific timeframe for the satellite constellation to capture the necessary imagery. The 'target_diurnal_period' is noted as "during the afternoon," which explicitly indicates the time of day when the data collection should occur.
+
+From this, we extract that the exact string for 'target_day' is "in three days" and for 'target_diurnal_period' is "during the afternoon." Within the phrase "during the afternoon," the word "afternoon" is clearly identified as the specific period of the day when the data capture is intended.
+
+In terms of the deadline, it is crucial to note that this does not imply any flexibility or shifting. The specified time frame— "in three days, during the afternoon"—must be adhered to strictly without any alteration to ensure compliance with operational requirements and mission objectives.
+
+### STAGE 2 - FINAL REQUEST
+
+We request a satellite observation of Mapiripán, Colombia, utilizing thermal imaging to capture heat signatures and surface temperature profiles. This task is part of our standard operational pipeline and should be conducted as a routine monitoring effort, adhering to fixed parameters typical of our baseline operations. We anticipate the completion of this mission in three days, during the afternoon, in alignment with our normal workflow update protocols. Please ensure that all necessary resources are allocated accordingly for a seamless execution.

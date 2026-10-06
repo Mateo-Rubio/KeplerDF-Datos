@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days." This indicates the deadline for delivering the data products from the satellite constellation.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when during the day the desired observation should be captured.
+
+c) The single word contained in the string "overnight" that matches with {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request to describe the time of observation.
+
+d) The deadline is strictly defined as "in four days" for an "overnight" observation. There is no indication or permission to shift this timeframe to any other part of the day. The task must be executed specifically during the overnight period on the designated target day.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking request for a satellite observation over Murung Raya, Indonesia. This mission involves a near-infrared reflection scan aimed at assessing water body boundaries or soil moisture gradients. Given its nature as part of our routine monitoring and baseline pipeline tracking, this operation is considered of medium importance and should follow fixed parameters consistent with a normal operational status. The data capture must be completed by "in four days," specifically during the "overnight" period, aligning with our workflow update requirements. Please ensure that this task is scheduled accordingly, maintaining its place within the existing mission timeline.

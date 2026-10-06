@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "the day after tomorrow." This string specifies the timeframe by which the mission must be executed and is a strict deadline, not an orbital capture window.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This indicates the specific time during the day when data collection should take place, aligned with the specified priority and sensor requirements.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears in the string "around mid-day" is "mid-day." This word will be used verbatim in the final request to maintain accuracy and adherence to the specified timeframe.
+
+d) It is essential to confirm that the deadline is not being shifted. The original instructions specify a strict deadline for delivering the data products, and there is no indication to shift this timeframe to another part of the day. Therefore, the request must adhere strictly to "the day after tomorrow around mid-day."
+
+### Stage 2 - Final Request
+
+We have a low priority importance request with a flexible schedule for opportunistic capture in Tesis, Italia. This non-essential background filler task should be treated as a "testbed tracking task" and may be dropped or rescheduled at convenience. The objective is to obtain an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture around mid-day on the day after tomorrow. This setup will help capture ground geometry through heavy weather conditions, providing valuable data for non-critical monitoring purposes.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves translating raw metadata into a coherent, operational satellite imagery request. Let's delve into the specifics:
+
+a) The exact string in 'target_day' is "today." This indicates that the desired observation needs to occur on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies when during the day the task should be executed.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "evening" is contained within the diurnal period string. This is the time frame we need to explicitly mention in our final request.
+
+d) It's crucial to adhere strictly to the provided deadline without making any adjustments or shifts. The mission must be executed "in the evening" of "today," ensuring that the data delivery aligns with this exact timeframe. Any deviation would not comply with the operational requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for an opportunistic capture over Carmen del Darién, also known as Curbaradó, located in Colombia. This task involves using near-infrared reflection to conduct soil moisture assessment and water body boundary mapping. Given its low priority, the schedule is quite flexible; feel free to drop or reschedule at your convenience if needed. Please ensure this task is completed today, specifically in the evening, aligning with our operational deadline.

@@ -1,0 +1,10 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "in four days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The single word contained in that string which must appear literally in the final request is "morning".
+d) The deadline is not shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Please capture the thermal mapping data using a TIR sensor for the location in Colombia, specifically Victoria, in four days at the exact time of morning. This task holds low priority importance and can be accommodated within the flexible schedule, serving as a non-essential background survey that doesn't require urgent execution or immediate attention beyond its scheduled capture window. This will support background monitoring or testbed tracking tasks for further data collection or analysis.

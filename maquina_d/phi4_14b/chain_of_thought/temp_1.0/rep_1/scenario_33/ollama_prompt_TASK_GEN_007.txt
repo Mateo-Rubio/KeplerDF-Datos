@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata for the task request includes several important fields that will guide the formation of a natural and operational request. Let's examine these fields:
+
+a) The 'target_day' is specified as "tomorrow". This indicates when the observation should be captured.
+
+b) The 'target_diurnal_period' is noted as "overnight". This specifies when during the day the observation should occur, focusing on the overnight period specifically.
+
+c) Within the string "overnight", the single word that fits from the provided list {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will be used verbatim in the final request to maintain clarity and adherence to the specified timeframe.
+
+d) It's crucial to ensure that the deadline, as indicated by 'target_day' and 'target_diurnal_period', remains unaltered. The request specifies an observation for "tomorrow" during the "overnight" period, and there is no indication or intention to shift this deadline to any other part of the day, such as morning or afternoon. Adhering strictly to these parameters is essential for compliance with the operational guidelines provided.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for a flexible schedule capturing an image tomorrow during the overnight period. This task involves a non-essential background filler activity focused on near-infrared reflection, intended for opportunistic capture and potentially useful for water body boundary mapping or soil moisture assessment. Given the priority level 1 designation, please consider dropping or rescheduling this task at convenience if it conflicts with more critical mission requirements. The geographic focus is on Ibagué, Colombia, which will be surveyed using this non-urgent observational opportunity as part of a background survey or testbed tracking task.
