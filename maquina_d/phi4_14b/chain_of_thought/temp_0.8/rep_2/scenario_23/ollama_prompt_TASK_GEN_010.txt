@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves interpreting metadata for an Earth-observation mission to create a realistic English request.
+
+a) The exact string found in 'target_day' is "today." This indicates the urgency and immediacy of the data collection need, specifying that the task should be completed within the current day without any delay.
+
+b) In the 'target_diurnal_period', the exact string provided is "during the afternoon." This specifies the time frame during which the observation needs to take place, focusing on a specific part of the day when certain environmental conditions may be optimal for capturing thermal data.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} that appears in this string is "afternoon." This temporal marker will be crucial for ensuring that the request aligns with the operational guidelines and accurately reflects the desired time for data capture.
+
+d) It's important to confirm that there is no intention or possibility of shifting the deadline to a different part of the day. The deadline is strictly set for "during the afternoon" on "today," meaning any adjustments to this timing would not adhere to the given constraints and could potentially lead to mission failure or data inaccuracy.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance task aimed at capturing thermal mapping over Maní, Colombia. This request is for a flexible schedule that allows for opportunistic capture of surface temperature profiles during the afternoon today. Please treat this as a non-essential background filler task with the flexibility to drop or reschedule at your convenience. The goal is to detect any thermal anomalies and map heat emissions in the region.

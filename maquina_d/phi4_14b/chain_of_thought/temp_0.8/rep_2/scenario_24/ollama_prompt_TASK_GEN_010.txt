@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task involves translating JSON metadata into a conversational request for an Earth-observation satellite constellation planner. Let's address each question step-by-step:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates the deadline for delivering the data products.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the observation should ideally occur.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "mid-day." This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) It is crucial to confirm that the deadline specified by "the day after tomorrow" and "around mid-day" is not shifted to any other part of the day. The request must adhere strictly to these parameters without alteration, ensuring the operational deadline is respected.
+
+### Stage 2 - Final Request
+
+We have a low-priority importance request for an observation over Colombia, specifically in the AMCO, Area Metropolitana Centro Occidente region. This task involves using a near-infrared sensor to capture data reflecting water body boundaries and assessing soil moisture levels. Given its flexible schedule, this is an opportunistic capture, allowing for adjustments or rescheduling at convenience. Please ensure the data is captured "the day after tomorrow" around "mid-day," treating it as a non-essential background filler task within the mission framework.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, we analyze the 'target_day' field from the JSON data. The exact string provided for 'target_day' is "tomorrow." This indicates the specific day relative to the current date on which the task must be executed.
+
+Next, we examine the 'target_diurnal_period' field. The exact string here is "in the evening." This provides us with a precise time frame within the specified day when the observation needs to occur.
+
+To integrate this information into our final request, we identify the specific part of the day mentioned. Among the options {morning, mid-day, afternoon, evening, overnight}, the word "evening" is present in the 'target_diurnal_period' string. This word will be used literally in our final operational request.
+
+Finally, it is crucial to confirm that there is no shift or alteration of the deadline. The task must be executed on "tomorrow" and specifically "in the evening." This strict adherence ensures that we meet the exact temporal requirements as specified, without any deviation to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a standard operational tasking for a baseline pipeline tracking setup in Lebrija, Colombia. The mission involves utilizing near-infrared reflection to conduct water body boundary mapping and soil moisture assessment. This task should be completed as part of our fixed parameters for routine monitoring. Please ensure that the data is delivered by tomorrow in the evening, adhering to our standard operational status requirements.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the time frame for when the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the observation should take place.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "afternoon." This must be included literally in the final request to specify the time of day for the task.
+
+d) The deadline for delivering the data products is strictly set for "in three days" and during the "afternoon." There is no indication or allowance to shift this deadline to another part of the day, such as morning or evening. The specified timeframe must be adhered to as it represents a strict operational deadline.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an urgent operational request for an absolute institutional priority mission in Colombia, specifically targeting Chivatá. This task involves a critical payload capture using multispectral vegetation analysis to assess the chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. Given its high importance, this is a binding contract requirement with an un-preemptable mission lock. The data must be delivered in three days during the afternoon. This is a mandatory directive for urgent operational execution.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To construct the task request, I will analyze the provided metadata to ensure accuracy and adherence to operational guidelines.
+
+a) The exact string in 'target_day' is "the day after tomorrow". This specifies when the data collection should be completed and delivered, representing a strict deadline for the task.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This indicates the specific time of day during which the observation should occur, helping to ensure optimal conditions for the sensor's capabilities.
+
+c) Within the string "during the afternoon", the word that must appear literally in the final request is "afternoon". This word clearly specifies the time frame within the diurnal cycle when the data capture should take place.
+
+d) The guidelines emphasize that I must not shift or reinterpret the deadline. Thus, while crafting the task request, it is critical to adhere strictly to the specified deadline of "the day after tomorrow during the afternoon" without altering the timing to any adjacent part of the day. This ensures compliance with the operational requirements and maintains the validity of the data collection process.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule for an opportunistic capture of active radar scans in Norte, Slovenia, using microwave surface imaging to achieve cloud-penetrating capture. This low priority importance request involves a non-essential background filler task that can be dropped or rescheduled at convenience. We aim to complete this background survey the day after tomorrow during the afternoon, treating it as a testbed tracking task with no preemption allowed.
