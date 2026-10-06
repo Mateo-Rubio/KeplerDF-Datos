@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This is the word I will use in my final request.
+
+d) I am not shifting the deadline to an adjacent part of the day, as 'today' means the current date and 'overnight' specifies a time frame that includes the target day itself.
+
+The deadline remains unchanged from the original specification, and I will include it verbatim in the final request.
+
+STAGE 2 - FINAL REQUEST
+
+```prompt
+Please execute a low priority importance task with flexible scheduling for opportunistic capture. This is a non-essential background filler task where I can drop or reschedule at convenience. It involves a background survey using high-resolution optical snapshot capabilities to assess chlorophyll absorption levels and calculate the NDVI index through multispectral vegetation analysis. The observation should take place in Indonesia, specifically in the region of Kutai Kartanegara today overnight.

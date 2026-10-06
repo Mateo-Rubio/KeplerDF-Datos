@@ -1,0 +1,17 @@
+Let's break down the task context JSON and answer the four questions for STAGE 1 - REASONING.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This is the word that must appear literally in our final request.
+
+d) Upon examining the task context JSON, we confirm that there is no indication of shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' fields represent a strict operational deadline for delivering the data products, which corresponds to the next calendar day (tomorrow) at the specified diurnal period (overnight).
+
+Let's proceed to STAGE 2 - FINAL REQUEST.
+
+...the task context JSON does not specify any geographic information such as landmark. It only specifies country and city...
+
+Here is the operational request as one flowing paragraph, containing verbatim both the 'target_day' string and the word I identified in step (c):
+
+We require a low-priority importance request with a flexible schedule for opportunistic capture. This should involve a multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. The mission is to be executed tomorrow overnight, using the spacecraft's primary VNIR sensor for high-resolution optical snapshot photography. The location is in Italia, specifically in the city of Montaquila. This non-essential background filler task may be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task with no rigid deadline attached beyond the specified timeframe.

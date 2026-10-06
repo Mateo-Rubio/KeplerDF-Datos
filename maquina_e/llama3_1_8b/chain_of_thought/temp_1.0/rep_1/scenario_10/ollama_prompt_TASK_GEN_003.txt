@@ -1,0 +1,9 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) The deadline is clearly specified as tomorrow, which means it cannot be shifted to an adjacent part of the day. The task must be completed by the end of today or at least by the start of tomorrow, but not later than tomorrow.

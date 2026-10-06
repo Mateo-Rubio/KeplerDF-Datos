@@ -1,0 +1,20 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string is "morning".
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The request explicitly states a mission allocation deadline for "tomorrow" in the morning, without any modifications or reinterpretations of the timeline.
+
+The key parameters and their corresponding operational interpretations are as follows:
+
+- Priority Level: Low Importance (Priority 1)
+- Geographic Context: Colombia, Restrepo
+- Primary Sensor: Active Radar Scan using Microwave Surface Imaging
+- Deadline: Mission allocation deadline for "tomorrow" in the morning
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Please task the satellite to perform an active radar scan using microwave surface imaging, capturing cloud-penetrating capture for the region of Colombia, specifically Restrepo, as part of a non-essential background filler task with a flexible schedule for opportunistic capture. This data collection is of low priority importance and can be dropped or rescheduled at convenience if necessary. The data products should be delivered by tomorrow in the morning.
