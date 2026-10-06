@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves analyzing Earth-observation metadata to create a conversational request for satellite imaging over a specific region. Let's break down the elements:
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a strict deadline for when the data should be collected, without any alterations or extensions.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the satellite capture should occur.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "morning." This is crucial as it must appear literally in the final request to specify when the data capture should happen.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The requirement is clear: the task must be executed "in the morning" on "the day after tomorrow." There is no room for flexibility or adjustment in this timeframe, ensuring the satellite captures data strictly during these specified conditions.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request for a routine monitoring mission over Norte. This task involves near-infrared reflection to map water body boundaries and assess soil moisture gradients, forming part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure this data capture occurs in the morning on the day after tomorrow. This request aligns with our workflow update protocols and does not necessitate high urgency or special priority handling.
