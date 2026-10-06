@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, my objective is to translate raw physical simulation metadata into a highly realistic English request. The context involves a task for a VIS sensor focusing on a specific geographic location: Olmo al Brembo in Italia. Given this area's urban setting, our observational aim is to capture a detailed, daylight optical snapshot for clear photographic documentation and true-color visuals.
+
+Considering the operational guidelines:
+- We'll combine the JSON parameters naturally without using raw technical tags or coordinate arrays.
+- The "the day after tomorrow overnight" deadline acts as our strict data availability upper limit.
+
+Given the 'priority_level' being 1 (Low Importance), this request will carry a casual, flexible tone. It's framed as a low priority importance task with a flexible schedule, allowing for opportunistic capture or rescheduling at convenience. The imagery gathered here serves as a background survey or testbed tracking task, emphasizing its non-essential nature within the baseline pipeline tracking setup.
+
+With these details in mind, my request to the automated satellite constellation planner is straightforward and adheres to operational guidelines:
+
+"Please conduct an observation of Olmo al Brembo, Italia using our VIS sensor. Aim for a high-resolution optical snapshot capturing the essence of this location during daylight hours. This task is categorized under low priority importance, allowing for flexible scheduling according to operational convenience. Please ensure that data availability adheres to 'the day after tomorrow overnight'. Thank you."
+
+This request integrates the operational guidelines seamlessly, providing a clear and conversational description of the task at hand while respecting the structured hierarchy dictated by priority levels and deadlines.

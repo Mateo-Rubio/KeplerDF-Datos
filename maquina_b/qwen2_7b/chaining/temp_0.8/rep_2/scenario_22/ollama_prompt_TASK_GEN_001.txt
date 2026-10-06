@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+Given the operational guidelines, let's interpret the provided JSON context:
+
+The target geographic context involves Colombia, a country renowned for its diverse ecosystems and landscapes, which offers a unique opportunity for detailed Earth observation. The city specified as Santa Helena del Opón is a testament to Colombia's intricate urban and rural settings, making this region particularly valuable for our mission.
+
+The primary sensor for this task is Thermal Infrared (TIR), which will allow us to capture thermal mapping data for the area. Our goal here is to assess heat signatures and conduct an in-depth surface temperature profile mapping of the region, aiming to detect thermal anomalies and understand heat emissions across various land uses.
+
+Given the priority level of 1, this request can be framed as a low-priority importance task with a flexible schedule for opportunistic capture. It's designated as a "non-essential background filler task", allowing our mission to treat it as a "background survey" or "testbed tracking task" that can be dropped or rescheduled at our convenience.
+
+With the deadline set for the target day "in three days overnight," we must ensure our request reflects this precise timeframe. This upper limit for data availability means our capture must occur during this specific period to align with our operational strategy and planning.
+
+In summary, our task is to capture thermal mapping data using a TIR sensor in Santa Helena del Opón, Colombia, over an overnight period on the target day "in three days overnight." This is a low-priority importance task that requires flexibility in scheduling but must be completed within the given timeframe for optimal data acquisition.
+
+...your text here...
