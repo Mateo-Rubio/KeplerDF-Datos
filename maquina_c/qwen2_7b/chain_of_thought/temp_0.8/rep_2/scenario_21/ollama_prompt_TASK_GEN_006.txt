@@ -1,0 +1,16 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the evening".
+c) The word contained in the 'target_diurnal_period' string that is part of the set {morning, mid-day, afternoon, evening, overnight} and must appear literally in your final request is "evening".
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines provided, our objective is to translate the metadata into a natural, conversational English request without using raw technical system tags or coordinate arrays. Based on the 'target_day' parameter being "the day after tomorrow" and 'target_diurnal_period' being "in the evening," we have scheduled an essential background survey task for our satellite constellation planner.
+
+In Malaysia, specifically in the coastal city of Banting, we're required to capture critical thermal mapping data using our thermal infrared (TIR) sensor. This data gathering mission is a low priority importance request, characterized by flexible scheduling and opportunistic capture. We aim to assess heat signatures and surface temperatures across various land uses and natural landscapes within the region.
+
+We need this data before the evening of "the day after tomorrow," which represents the deadline for delivering the thermal mapping products. The 'target_diurnal_period' indicates that while conducting this survey, we must focus on capturing detailed thermal information as the sun sets, ensuring the visibility and accuracy of our observations.
+
+In conclusion, this task requires an operational focus on executing a non-essential background filler task in Malaysia's Banting city. The mission is set to occur on the day specified ("the day after tomorrow") at the 'target_diurnal_period' ("in the evening"), which serves as a fixed parameter representing normal operational status within our baseline pipeline tracking system.
