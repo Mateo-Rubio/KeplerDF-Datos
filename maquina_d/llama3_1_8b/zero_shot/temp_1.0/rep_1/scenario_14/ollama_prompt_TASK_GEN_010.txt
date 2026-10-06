@@ -1,0 +1,14 @@
+Translate the raw physical simulation metadata provided below into a highly realistic, conversational English request:
+
+{
+  "primary_sensor": "VNIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Andina"
+  },
+  "priority_level": 3,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+The mission requires a multispectral vegetation analysis over Andina in Colombia to assess the chlorophyll absorption level and calculate the NDVI index for surface reflectance. This is an absolute institutional priority with a binding contract requirement involving a critical payload capture, mandating a strict delivery deadline set for tomorrow overnight. Ensure the products are ingested into the pipeline before tomorrow's nighttime block.
