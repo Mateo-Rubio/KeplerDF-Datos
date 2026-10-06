@@ -1,0 +1,11 @@
+We require a highly realistic and conversational English request to translate the raw physical simulation metadata provided in JSON format.
+
+Our objective is to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we will ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+We also need to integrate specific operational phrases to reflect the structural hierarchy of mission allocation priority. For a priority 3 task, we use an authoritative tone to frame it as an "absolute institutional priority" or a "binding contract requirement". We must imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+We interpret the primary sensor 'VNIR' to be an objective of "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+
+We must weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability. Since 'target_diurnal_period' is "overnight", we know that the data must be ready by tomorrow's overnight block, so our final request is:
+
+"Capture high-resolution multispectral imagery of the Borgo Valsugana region in Italia using VNIR for vegetation analysis, as an absolute institutional priority with a critical payload capture and binding contract requirement. We need this by the day after tomorrow overnight at the latest."
