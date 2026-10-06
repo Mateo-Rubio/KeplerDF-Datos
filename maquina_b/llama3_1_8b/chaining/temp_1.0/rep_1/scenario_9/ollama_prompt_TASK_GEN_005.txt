@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. Given the following operational guidelines, interpret the metadata organically to maximize the naturalness and validation accuracy of the dataset.
+
+To clarify the geographic context, use the 'region_name' and 'location_details' keys. Describe the location naturally by combining the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'. In this case, the region is 'Italia', with a city of 'Norte'. To be more precise, the target location is in Italy, specifically in the northern part.
+
+Regarding the mission allocation priority, use specific operational phrases to reflect the structural hierarchy. For priority 3 (High Importance), use an authoritative, explicit, and commanding tone. Frame this as an "absolute institutional priority" involving a "critical thermal mapping mission" to capture a "heat signature" or "surface temperature profile" over Italy.
+
+The primary objective of this task is to conduct a high-resolution thermal imaging mission using the TIR sensor. This will involve capturing a heat signature, surface temperature profile, or thermal anomaly detection and mapping heat emissions over the specified region in Italy. The mission has an absolute institutional priority, with a binding contract requirement for a critical thermal mapping mission.
+
+Delivery of the data is required in four days in the morning. This request must be treated as an urgent operational execution with an un-preemptable mission lock.
