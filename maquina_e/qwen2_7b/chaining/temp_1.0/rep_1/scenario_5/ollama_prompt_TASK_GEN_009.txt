@@ -1,0 +1,18 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner for a highly realistic and conversational English format. The raw physical simulation metadata is provided in JSON format below, with the aim to maximize naturalness and validation accuracy:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Berau"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Our request targets a thermal mapping mission using a 'TIR' sensor over Berau, Indonesia—a region of high interest in understanding heat signatures and surface temperature profiles. With a priority level indicating it's a 'low importance' task, we aim for an opportunistic schedule, allowing flexibility to drop or reschedule at convenience for this background survey.
+
+The deadline is 'the day after tomorrow in the evening', signifying the upper limit for data availability without any rephrasing or shortening. With no urgency implied by timing, this mission is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+We seek true-color visual documentation and thermal anomaly detection insights from this 'TIR' sensor capture over Berau city, contributing to our continuous effort in vegetation analysis and surface temperature monitoring without imposing strict constraints on data acquisition. Your automated planner should interpret this contextual request accordingly for optimal allocation of assets.

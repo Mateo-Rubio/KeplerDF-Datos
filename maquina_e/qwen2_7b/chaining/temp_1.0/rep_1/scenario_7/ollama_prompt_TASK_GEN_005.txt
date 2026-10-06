@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to our automated satellite constellation planner. The operational guidelines require organic interpretation of the raw physical simulation metadata provided in JSON format below, focusing on translating this into a single, highly realistic, and conversational English request.
+
+The geographic context necessitates a blend of natural language that avoids technical tags, underscores, and coordinate arrays, ensuring smooth integration of the 'region_name' and nested 'location_details' parameters. Considering the country as "Italia", with the city being "Bossico", we can describe this location elegantly without relying on the raw system tags or unnecessary details.
+
+The mission allocation priority must be articulated with appropriate language to reflect the structural hierarchy within our institution: "Priority 1" indicates a "low importance" request, allowing for flexibility in scheduling and treating it as a "non-essential background filler task". This "low priority importance" comes with a "flexible schedule", and operators are explicitly noted to "drop or reschedule at convenience".
+
+For the sensors and physical objectives, we interpret "primary_sensor" as our main observation tool. Given "SAR" technology, our operational objective is to execute an "active radar scan" employing "microwave surface imaging" for penetrating heavy weather conditions or capturing ground geometry with high precision.
+
+Deliverable deadlines are already resolved by an upstream module, stipulating that data should be available "the day after tomorrow in the morning", a phrase that must be verbatim included in our request. This deadline is the upper limit for data availability, not to be rephrased or shortened.
+
+In summary, our Earth-observation mission operator submits a task request for an "active radar scan" using microwave surface imaging technology for "cloud-penetrating capture", all conducted within the beautiful historical setting of "Bossico, Italia", due by "the day after tomorrow in the morning". This aligns with our institutional guidelines for low priority tasks, ensuring operational flexibility and clear communication throughout the process.

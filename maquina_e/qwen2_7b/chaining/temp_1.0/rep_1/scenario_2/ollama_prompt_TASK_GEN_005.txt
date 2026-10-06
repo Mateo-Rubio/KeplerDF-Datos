@@ -1,0 +1,9 @@
+Translating physical simulation metadata into a conversational Earth-observation task request:
+
+In four days, at overnight when the sky is dark with stars, the automated satellite constellation planner will be tasked to capture a high-resolution optical snapshot from over France, specifically Sotta. This "true-color visual documentation" aims to provide clear imagery of the region for daylight photography purposes. The priority level for this mission allocation is low importance, allowing for a flexible schedule that can accommodate this as a "non-essential background filler task". This means it is not an urgent operational execution and can be dropped or rescheduled as convenience dictates; still, it's part of our baseline pipeline tracking for routine monitoring.
+
+A "standard operational tasking" has been established, emphasizing the importance of capturing normal operational status updates. The primary sensor in use here will be the VIS system, which involves taking high-resolution images using optical technology for clear daytime conditions. The deadline for this task has already been resolved by an upstream module, set as "in four days overnight". This phrase verbatim serves as the upper limit for data availability; it's critical to include this statement in our request.
+
+Please note that no raw technical system tags, underscores, coordinate arrays or raw priority numbers should be included in our request. Instead, it's crucial to describe the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details', and interpret the sensors in language that reflects their operational purposes and impacts.
+
+Let's proceed with the task setup ensuring adherence to these guidelines, focusing on naturalness and validation accuracy while adhering to our operational priorities.
