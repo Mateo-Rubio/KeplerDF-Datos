@@ -1,0 +1,11 @@
+### STAGE 1 - REASONING
+
+To begin with, we need to determine the exact strings associated with the keys 'target_day' and 'target_diurnal_period' from the provided JSON data. The 'target_day' key contains the string "tomorrow," which directly informs us of when the task is aimed to be completed. Next, the 'target_diurnal_period' key holds the string "overnight." This specifies the time frame within which the satellite data capture should occur on the given day. 
+
+With these strings identified, we must pinpoint a specific word from the list {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period'. In this case, the word "overnight" is present verbatim in the string. This word must be used as is within the final request to ensure clarity and precision regarding the timing of the task.
+
+Furthermore, it's crucial to confirm that the deadline is not being adjusted or shifted to another part of the day. The 'target_day' is set for "tomorrow," and the 'target_diurnal_period' specifies an "overnight" capture. This means the task should occur during the night period on the specified day, without any alteration to this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for capturing thermal mapping data over Montelíbano, Colombia. The mission involves creating a surface temperature profile using thermal imaging to detect and map heat emissions. This is a flexible schedule task aimed at opportunistic capture. While it is not urgent, the data can provide valuable insights when resources allow. Therefore, it should be treated as a non-essential background filler task, with the understanding that it can be dropped or rescheduled at your convenience. The desired data acquisition is scheduled for tomorrow, focusing on an overnight period to ensure accurate thermal readings are captured during this timeframe.

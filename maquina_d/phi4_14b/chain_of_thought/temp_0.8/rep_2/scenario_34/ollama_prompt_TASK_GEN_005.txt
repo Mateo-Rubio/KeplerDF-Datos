@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "morning." This word must appear literally in the final request.
+
+d) The temporal parameters indicate a strict deadline, which is "tomorrow" and specifically "in the morning." There is no indication or allowance to shift this deadline to an adjacent part of the day. We need to adhere strictly to these specified times for operational execution.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We request a standard operational tasking for a thermal mapping mission over the city of Lenzumo in Italy, focusing on capturing surface temperature profiles and detecting any potential thermal anomalies. This is part of our routine monitoring and forms a baseline pipeline tracking setup with fixed parameters representing normal operational status. The data capture should occur using a TIR sensor and is scheduled for tomorrow in the morning.

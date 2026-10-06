@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "tomorrow."
+
+b) The exact string for 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight."
+
+d) The deadline specified as "tomorrow overnight" should not be shifted to any other part of the day. The operational context clearly requires that the task must be executed during the nighttime of the following day, aligning with the specific need for a satellite pass during this diurnal period.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We are seeking a standard operational tasking for Kotawaringin Timur in Indonesia. The mission involves utilizing an active radar scan to capture microwave surface imaging, which is ideal for cloud-penetrating capabilities and ground geometry assessments. This forms part of our baseline pipeline tracking setup, representing normal operational status with fixed parameters. The data should be delivered by tomorrow overnight, adhering strictly to this deadline without any deviation.

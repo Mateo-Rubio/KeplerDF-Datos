@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata for the Earth-observation mission indicates several key parameters that will shape the final request. Let's work through these step by step:
+
+a) The exact string found in 'target_day' is "in three days". This provides a clear timeline indicating when the task should be executed, specifying that data delivery is expected three days from now.
+
+b) For 'target_diurnal_period', the exact string is "overnight". This indicates the specific time of day during which the satellite should capture the required imagery or data. 
+
+c) The single word contained in 'target_diurnal_period' that fits within the options {morning, mid-day, afternoon, evening, overnight} is "overnight". This will be a key part of the timing description in the final request.
+
+d) It's crucial to adhere strictly to the specified deadline. The metadata does not suggest or allow for any alteration, extension, or shift of the deadline to another part of the day. The imagery capture should occur during an overnight period exactly three days from now. This ensures that data delivery aligns with operational needs without deviation.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a low priority importance request for a flexible schedule that allows for an opportunistic capture in Uribe, Colombia. This is considered a non-essential background filler task that can be dropped or rescheduled at convenience if necessary. The mission involves conducting an active radar scan using microwave surface imaging to obtain cloud-penetrating captures, which will aid in piercing heavy weather conditions or capturing ground geometry. This should be executed within three days during an overnight period. Please treat this as a background survey or testbed tracking task and prioritize accordingly.

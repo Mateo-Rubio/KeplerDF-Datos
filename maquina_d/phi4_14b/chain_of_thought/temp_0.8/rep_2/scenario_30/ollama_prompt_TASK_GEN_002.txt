@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating specific JSON metadata into a coherent and conversational English request for an Earth-observation mission. The metadata provided includes information about the primary sensor, location details, priority level, and relative timeframes.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data collection should be completed by the next day from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the part of the day when the observation should occur.
+
+c) The single word contained in the string "in the morning" is "morning." This word must appear literally in the final request to ensure clarity about the time of day for the data capture.
+
+d) It is crucial to confirm that the deadline is not shifted to an adjacent part of the day. The metadata specifies "in the morning" as the time period, and this must be adhered to without alteration. The mission must be executed strictly within the morning timeframe on "tomorrow."
+
+**STAGE 2 - FINAL REQUEST**
+
+I'd like to schedule a low-priority importance request for a flexible schedule with opportunistic capture, specifically targeting the area around Peroj, Croatia. This task involves a multispectral vegetation analysis using VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index. Given its non-essential nature, please feel free to drop or reschedule this as convenient, treating it as a background survey. The data should be captured tomorrow, in the morning, aligning with our operational guidelines.

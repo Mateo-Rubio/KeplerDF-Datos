@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To translate the given JSON metadata into a natural language request, I begin by considering each relevant component in sequence.
+
+a) The exact string present for 'target_day' is "in three days". This indicates that the mission's deadline for data delivery is set for three days from the current date. It's crucial to adhere to this specific timeframe to ensure operational accuracy and compliance with scheduling requirements.
+
+b) For 'target_diurnal_period', the specified string is "overnight". This denotes the preferred time during which the satellite should capture the required imagery, suggesting that the optimal conditions for this mission are expected to occur between nighttime hours. It's important to maintain fidelity to this parameter in order to fulfill specific scientific or operational needs.
+
+c) Within the list of possible diurnal periods {morning, mid-day, afternoon, evening, overnight}, the string "overnight" directly contains the word "overnight". This term should be incorporated verbatim into the final request to clearly convey the intended time for data acquisition.
+
+d) It is essential to confirm that the deadline specified by 'target_day' and 'target_diurnal_period' should not be altered, shifted, or extended. The task must occur strictly within the three-day window, and during overnight hours. This adherence ensures that we are not inadvertently modifying the mission's critical operational timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority: I request a binding contract requirement for a critical payload capture over Indonesia, specifically in the city of Gilirang. The mission involves an active radar scan using microwave surface imaging to achieve a cloud-penetrating capture during the optimal overnight period, which will pierce heavy weather and map ground geometry with precision. This urgent operational execution is un-preemptable and locked into our mission schedule, with a mandatory deadline for delivery set in three days. Please ensure compliance with this directive to maintain the high standards of our satellite operations.

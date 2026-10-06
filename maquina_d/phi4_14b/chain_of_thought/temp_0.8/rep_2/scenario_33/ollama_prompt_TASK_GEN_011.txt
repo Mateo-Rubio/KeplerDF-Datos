@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' key in the provided JSON string contains the exact phrase "the day after tomorrow." This indicates the specific timing when the task is expected to be completed. It's important to adhere strictly to this timeframe as it represents a critical deadline for delivering the data product, not just a window for capturing the imagery.
+
+The 'target_diurnal_period' key provides us with the exact phrase "around mid-day." This information helps pinpoint the precise time of day when the satellite is expected to capture the necessary data. In this context, "mid-day" signifies the central part of the day, typically characterized by the highest sun angle and maximum illumination.
+
+From the possible options {morning, mid-day, afternoon, evening, overnight}, the word "mid-day" is explicitly mentioned in the 'target_diurnal_period' phrase. This specific mention will be directly used in the final request to ensure that the timing of data capture is clear and unambiguous.
+
+Finally, it's crucial to confirm that the deadline is not shifted to any other part of the day. The task must occur "around mid-day" on "the day after tomorrow," without deviation. This strict adherence ensures the satellite captures the intended imagery at the optimal time for the specified objectives.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule to opportunistically capture data over an area in Italy, specifically near Tesi. This low-priority request can be handled as a non-essential background filler task and should be rescheduled or dropped at your convenience. The goal is to conduct an active radar scan using microwave surface imaging, focusing on cloud-penetrating capture techniques that can pierce through heavy weather conditions or map ground geometry. Please ensure the imagery is captured around mid-day on the day after tomorrow.

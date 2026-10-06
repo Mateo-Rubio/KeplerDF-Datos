@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task should be completed by the following day from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data capture should occur.
+
+c) The single word contained in the string "in the evening" is "evening." This word must be used literally in the final request to accurately convey the specified diurnal period.
+
+d) The instructions clearly state that the deadline should not be shifted or altered. Therefore, the task must be executed exactly "in the evening tomorrow," without any adjustments to the specified time frame.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for baseline pipeline tracking in Indonesia, specifically around the city of Ecuatorial. This mission involves conducting thermal mapping to capture a heat signature and assess surface temperature profiles in the region. It is part of our routine monitoring efforts with fixed parameters, reflecting normal operational status and a workflow update. The data capture must be completed by tomorrow evening.
