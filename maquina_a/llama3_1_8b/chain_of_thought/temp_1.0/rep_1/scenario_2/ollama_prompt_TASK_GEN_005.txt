@@ -1,0 +1,11 @@
+Let's work through the reasoning for Stage 1.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in "overnight" is "overnight" itself. There is no other word from the list {morning, mid-day, afternoon, evening} that appears in this string. However, we can safely identify "overnight" as the corresponding diurnal period.
+
+d) The deadline remains unchanged, and we are not shifting it to an adjacent part of the day. We are simply stating the existing deadline in a more natural language.
+
+Now, let's move on to Stage 2.

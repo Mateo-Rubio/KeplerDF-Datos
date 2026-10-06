@@ -1,0 +1,9 @@
+Let's go through the reasoning for each question.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight", and the correct answer is actually one of the options: "evening" is not there, but one option is. The word "night" or "nightly" are not present either, so I'll say that the correct answer is: "evening" is not, "morning", "mid-day", "afternoon" and "overnight" have an "night" part in common (and also "evening"). Thus, the correct word among the given options is: "night". However I already identified that it's not "night" because it's not a complete string. Another attempt, let me read carefully... The word contained in the string is actually "overnight", but none of the single options in the list (morning, mid-day, afternoon, evening) appears. Since "overnight" starts with "overn", and "night" starts with "nigh", I think a better answer would be "night", which I thought was not the case before. However that's a partial word, so I will say that I see a better candidate: "evening".
