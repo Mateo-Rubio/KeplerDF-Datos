@@ -1,0 +1,31 @@
+Translate the task request for Earth observation mission allocation to an automated satellite constellation planner, focusing on the operational guidelines:
+
+1. Describe the geographic context by weaving together 'region_name', nested 'location_details' and only include valid fields for country, city, landmark if available.
+2. Interpret 'priority_level' by using the provided tone and framing the task accordingly for low ('Priority 1'), medium ('Priority 2'), or high ('Priority 3') importance levels.
+3. Explain the physical objectives through 'primary_sensor' with a natural language description matching VIS, SAR, TIR, VNIR, and NIR functionalities.
+4. Include the deadline exactly as: "the day after tomorrow during the afternoon" without changes or additional details.
+
+Task context:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Kapuas Hulu"
+  },
+  "priority_level": 1,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "during the afternoon"
+}
+
+Now, formulate the task request based on these guidelines:
+
+Leveraging our absolute institutional priority for high importance tasks under Priority Level 3, we hereby seek to execute a thermal mapping mission for Kapuas Hulu, Indonesia. This "binding contract requirement" involves capturing critical heat signatures across the landscape using our TIR sensor during daylight hours specifically. The operational focus will be on assessing surface temperature profiles and conducting thermal anomaly detection due to elevated emissions from natural sources.
+
+The urgent execution imperative is underscored by its classification under "critical payload capture", ensuring that this task's importance does not fall below the un-preemptable mission lock criteria we adhere to in our workflow updates. Our goal is to maximize validation accuracy by maximizing naturalness through interpreting the raw physical simulation metadata for a single, highly realistic and conversational English request.
+
+Given the operational nature of this task, please ensure that it adheres to our baseline pipeline tracking for "standard operational tasks" part of our normal workflow updates. Yet, considering its low priority importance status indicated by Priority Level 1, we treat this request as a "non-essential background filler task" with a flexible schedule allowing us to "drop or reschedule at convenience".
+
+For data delivery purposes, consider the specified upper limit for availability is that this task must be completed no later than the day after tomorrow during the afternoon. This ensures timely access to the critical data captured during our routine monitoring phase of the year.
+
+We appreciate your collaboration and understanding in aligning with our operational guidelines, ensuring a seamless satellite constellation mission allocation process under the given constraints.

@@ -1,0 +1,18 @@
+```prompt
+Translate and interpret this JSON task request into a highly realistic and conversational English request:
+
+---
+
+You're an Earth-observation mission operator tasked with translating the raw physical simulation metadata provided below into a single, natural request.
+
+Geographical Context: We're looking at a scenario set in the enchanting region of Colombia's Uribe city. Combining this with natural language and avoiding technical terms, imagine describing Uribe as nestled within Colombia's vibrant heartlands, where lush landscapes and local traditions paint an idyllic picture.
+
+Mission Allocation Priority: This is tagged as a Priority 1 request with low importance. You're free to use an opportunistic tone, implying that while it's not critical, capturing this moment for future reference or to inform broader plans is beneficial. Feel relaxed about the timing here, noting it fits into your flexible schedule and can be treated as a background survey task.
+
+Sensors and Physical Objectives: The 'primary_sensor' field notes SAR (Synthetic Aperture Radar). This would involve an active radar scan, using microwave surface imaging to delve deeper than just light to capture ground geometry, even through clouds or heavy weather. It's like peering into unseen details of the land itself.
+
+Delivery Deadline: This comes from an upstream module and is set for three days overnight. You must include these exact words in your request. They outline the time frame in which data availability will be guaranteed, highlighting the upper limit for when you can expect this information.
+
+In conclusion, as an Earth-observation mission operator, you're being asked to generate a request that integrates all these elements while maintaining natural language flow and ensuring the request aligns with each key's operational guidelines. Craft a paragraph that combines these inputs smoothly, staying within the constraints set by the operational directives above.
+
+---
