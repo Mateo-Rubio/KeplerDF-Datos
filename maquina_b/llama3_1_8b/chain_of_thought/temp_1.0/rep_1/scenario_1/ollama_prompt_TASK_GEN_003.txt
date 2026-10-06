@@ -1,0 +1,16 @@
+Here's the reasoning stage:
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' strings remain unchanged in the final request.
+
+Moving on to STAGE 2 - FINAL REQUEST:
+
+```prompt
+Task Request: We require a thermal mapping exercise as part of a non-essential background filler task with flexible scheduling for opportunistic capture. This low-priority importance request involves capturing a heat signature around mid-day the day after tomorrow. The area of interest is located in Indonesia, specifically in the city of Mamuju. Please assign a suitable asset with thermal infrared capabilities to accomplish this task.
