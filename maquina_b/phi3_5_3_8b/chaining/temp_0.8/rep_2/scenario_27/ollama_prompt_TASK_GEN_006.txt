@@ -1,0 +1,14 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to strategically allocate our resources for an automated satellite constellation planner. The objective is grounded in the interpretation of raw physical simulation metadata provided in JSON format below:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Indonesia",
+01"city": "Murung Raya"
+},
+02"priority_level": 1,
+03"target_day": "in three days overnight",
+04"region_name": "This particular focus will be the island of Java within Indonesia."
+}
+
+The request is to conduct a low priority importance operation with a flexible schedule. Specifically, I seek an NIR sensor deployment for near-infrared reflection aimed at water body boundary mapping and soil moisture assessment in Murung Raya. Given its non-essential status yet significant for understanding hydrological patterns, this task could provide insights into regional agricultural practices or environmental monitoring efforts. The deadline set by the upstream module is three days overnight, which we must honor without compromise to our other ongoing commitments.
