@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "today". This indicates that the task needs to be completed on the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the data should be captured.
+
+c) The single word contained in the string "in the evening" from the options {morning, mid-day, afternoon, evening, overnight} is "evening". This word must be used literally in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains "today in the evening", as specified in the JSON metadata.
+
+### Stage 2 - Final Request
+
+We have a binding contract requirement for an absolute institutional priority mission involving a critical payload capture over Pantanillo, Colombia, with a strict deadline set for today in the evening. This task is of high importance and demands urgent operational execution with an un-preemptable mission lock. The objective is to utilize near-infrared reflection capabilities for water body boundary mapping and soil moisture assessment. The data products are required by today in the evening without any adjustments or delays, ensuring a fixed parameter delivery as part of this critical operational mandate.

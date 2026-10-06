@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting the JSON metadata to craft a natural and operational request for an Earth-observation mission. Let's address the components one by one:
+
+a) The 'target_day' key specifies the deadline for the data capture, which is given as "in four days." This string will be directly incorporated into the final request.
+
+b) The 'target_diurnal_period' key indicates when during the day the data should be captured. The exact string provided is "in the morning."
+
+c) Within the string from part (b), the specific time of day mentioned is "morning." This word must appear exactly as is in the final request to convey the precise timing requirement.
+
+d) It's crucial to adhere strictly to the specified deadline and time of day without any alterations. The request explicitly states "in the morning" on "in four days," ensuring that the data capture aligns with this exact timeframe. There is no intention or allowance for shifting this deadline to another part of the day, maintaining the integrity and specificity of the operational timeline.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance request with a flexible schedule for an opportunistic capture in the Norte region. This task is a non-essential background filler, and operators are encouraged to drop or reschedule it at their convenience. The objective is to conduct near-infrared reflection imaging for water body boundary mapping and soil moisture assessment. Please ensure this data is captured "in four days," specifically "in the morning." Thank you for accommodating this background survey.

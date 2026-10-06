@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific information about a task for an Earth-observation mission. Let's break down the relevant details:
+
+a) The exact string in 'target_day' is "tomorrow". This indicates that the data capture needs to be completed by the end of the day following today, without any deviation from this specified timeframe.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This suggests a specific time window within which the task should be executed, aligning with the natural lighting conditions associated with the evening.
+
+c) Within the string "in the evening", the word "evening" appears literally. This is the part of the day that we need to incorporate into the final request.
+
+d) It's crucial to confirm that there is no intention to shift the deadline to another part of the day. The mission requirements are clear about the deadline being "tomorrow" and the diurnal period as "in the evening". Therefore, the operational execution must align strictly with these parameters without any shifts or reinterpretations.
+
+### STAGE 2 - FINAL REQUEST
+
+I need a standard operational tasking for a near-infrared reflection mission to map water body boundaries in San Pablo, Colombia. This is a routine monitoring component of our baseline pipeline tracking and involves capturing data with fixed parameters to assess surface moisture levels accurately. The data capture should be completed by tomorrow, specifically in the evening, as per our established workflow update schedule.

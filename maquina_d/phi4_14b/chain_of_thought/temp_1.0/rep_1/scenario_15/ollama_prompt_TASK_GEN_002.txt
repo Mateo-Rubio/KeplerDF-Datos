@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow". This string clearly sets a specific point in time for the satellite capture without ambiguity. It provides a natural way to express when the task should be executed relative to the current day.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This string specifies when, during the day, the satellite observation should take place. It gives a clear indication of the desired time for capturing the data.
+
+c) The single word contained in the string "during the afternoon" that must appear literally in the final request is "afternoon". This word will be directly incorporated into the request to ensure it matches the intended timing for the satellite observation.
+
+d) The deadline specified as "the day after tomorrow during the afternoon" is strict and should not be shifted to another part of the day. It is critical to adhere to this timeframe, as it represents a specific operational requirement that must be met without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority request for an opportunistic capture in northern Italy, focusing on multispectral vegetation analysis to assess chlorophyll absorption levels. This task involves a flexible schedule, allowing for adjustments if necessary, and is intended as a background survey. Please aim to capture this data the day after tomorrow during the afternoon.

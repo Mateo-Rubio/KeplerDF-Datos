@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today". This specifies that the task must be completed within the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the specific time of day when the data collection should occur.
+
+c) The single word contained in the string "in the evening" is "evening". This term will be used literally in the final request to describe the timing of the operation.
+
+d) It is crucial to confirm that the deadline is not shifted to any other part of the day. The instruction explicitly states "today, in the evening," which means the operation must occur precisely during the evening hours of the current day. This ensures that the data collection aligns with the specified operational timeframe without any alterations.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority for a mission over Tomačevica, Slovenia, requiring an urgent operational execution. This involves a critical payload capture using an active radar scan with microwave surface imaging. The goal is to achieve a cloud-penetrating capture of ground geometry in Tomačevica today, specifically in the evening. This binding contract requirement must be executed as a mandatory directive with an un-preemptable mission lock.
