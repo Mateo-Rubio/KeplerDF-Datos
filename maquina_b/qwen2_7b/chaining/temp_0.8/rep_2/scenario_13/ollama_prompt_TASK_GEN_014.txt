@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, my task is to translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. The given JSON provides us with necessary details for our operation. Here's how we'll proceed:
+
+Utilizing our primary sensor VIS (High-resolution optical snapshot), our objective aims at capturing a "true-color visual documentation" of the region designated as Norte, with the city name alone providing a geographical context. Our mission involves acquiring this data "in three days overnight", adhering to the specified delivery deadline.
+
+As for the geographic context, being informed that the 'country' field carries an "N/A" value, we will utilize the information available from 'city', which in this case is "Norte". This approach allows us to describe the location without relying on raw technical tags or coordinate arrays, ensuring a more conversational and organic interpretation.
+
+Given that our priority level stands at 1 (Low Importance), we frame this request as a "flexible schedule" "background survey" task. The operator explicitly notes it as "drop or reschedule at convenience", treating it as a "background survey" with the understanding of its "non-essential background filler task" status.
+
+In summary, our mission involves capturing high-resolution optical imagery using VIS sensors over Norte city, with the objective being "true-color visual documentation". We are to complete this task "in three days overnight", adhering to the delivery deadline. This request is aligned with our operational guidelines for maximizing naturalness and validation accuracy in the dataset.

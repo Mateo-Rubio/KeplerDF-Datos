@@ -1,0 +1,7 @@
+Converting raw physical simulation metadata into a highly realistic request:
+
+We are tasked with capturing a detailed view of Valdivia, Colombia, using an active radar scan via microwave surface imaging. The goal is to pierce through the cloud cover and extract crucial ground geometry data for a routine monitoring task. This request is categorized as having low priority importance but is part of our baseline pipeline tracking setup.
+
+Our standard operational tasking involves capturing a 'cloud-penetrating capture' at around mid-day on the day after tomorrow, which ensures fixed parameters representing normal operational status. It is explicitly noted as a 'flexible schedule' for opportunistic capture; thus, it is identified as a 'non-essential background filler task'. We aim to treat this data gathering as a 'background survey' or 'testbed tracking task', understanding that it can be dropped or rescheduled at convenience.
+
+The deadline for this task is set by an upstream module: the day after tomorrow around mid-day. We are not to output raw UTC timestamps, digits, or countdown metrics; instead, this phrase serves as the upper limit for data availability in our request. This ensures a seamless integration of all operational guidelines and priorities laid out in the JSON metadata.

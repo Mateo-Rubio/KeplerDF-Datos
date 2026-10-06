@@ -1,0 +1,19 @@
+Given the operational guidelines provided, let's translate the raw physical simulation metadata into a single, highly realistic and conversational English request for an Earth-observation mission operator submitting a task to an automated satellite constellation planner. The primary sensor involved is VNIR (Multispectral Vegetation Analysis), which aims to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance.
+
+In the context of this operation, we are focusing on Colombia, specifically Caparrapí, as our geographical location. The mission has been allocated a priority level of 1 (Low Importance) due to its nature being a flexible schedule for opportunistic capture; it is framed as a 'low priority importance' request with a 'flexible schedule' that treats this task as a 'background survey' or 'testbed tracking task'.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data available 'the day after tomorrow during the afternoon'. This phrase will be inserted verbatim into our request, serving as the upper limit for data availability.
+
+Taking all these elements together, here is the request:
+
+"Attention Satellite Constellation Planner,
+
+Your mission calls for a Multispectral Vegetation Analysis task focused on the region of Colombia, specifically Caparrapí, to assess chlorophyll absorption levels and calculate the NDVI index along with surface reflectance. As part of our 'background survey' or 'testbed tracking task', this 'low priority importance' request is scheduled for execution under a flexible timeline.
+
+The deadline for data availability has been set as 'the day after tomorrow during the afternoon'. This operational parameter represents the upper limit for information delivery, marking when your satellite constellation will provide us with the required imagery.
+
+We look forward to your successful execution and the valuable insights that this 'non-essential background filler task' will contribute to our broader observational objectives.
+
+Best regards,
+[Your Name]
+Earth-observation Mission Operator"
