@@ -1,0 +1,13 @@
+Translate this raw physical simulation metadata into a realistic and conversational English request for the satellite constellation planner: 
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Santa Sofía"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "overnight"
+}
+
+This is an absolute institutional priority tasking involving a critical payload capture over the South American region of Colombia, specifically targeting the Santa Sofía area. We require high-resolution optical imagery using near-infrared reflection to assess water body boundaries and soil moisture levels. This is a binding contract requirement, mandating an urgent operational execution with un-preemptable mission lock. The data must be ready by the day after tomorrow overnight at the latest.
