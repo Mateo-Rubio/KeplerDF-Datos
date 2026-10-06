@@ -1,0 +1,15 @@
+As an operator of Earth-observation missions, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request that maximizes naturalness and validation accuracy based on operational guidelines.
+
+The geographic context requires us to interpret the 'region_name' along with nested 'location_details'. In this case, we are looking at 'Italia' as the country and 'Gazzola', a city within it, which is our target location. Due to the provided 'city' being specified, we will not use raw technical system tags, underscores, or coordinate arrays in our final output.
+
+Our mission allocation priority is indicated by 'priority_level'. This task has been assigned with a 'priority_level' of 1, which is labeled as "low priority importance". We explicitly note that this request has a flexible schedule and may be treated as "a low-priority background filler task" or a "non-essential background survey". We are instructed to treat it as a "testbed tracking task", allowing us to drop or reschedule at our convenience.
+
+The sensors and physical objectives are identified by 'primary_sensor'. Our target here is to perform multispectral vegetation analysis using VNIR technology, which we describe as assessing "chlorophyll absorption level" and calculating the "NDVI index" along with surface reflectance to provide valuable data on vegetation health and biomass.
+
+Delivering this task falls within a specified deadline: "in three days overnight". We must include this phrase verbatim in our request, highlighting the upper limit for data availability without rephrasing or altering it.
+
+In summary, our task request is as follows:
+
+"In three days overnight, focusing on the lush greenery of Gazzola, Italia, utilizing VNIR technology for a meticulous assessment of chlorophyll absorption levels and NDVI indices, capturing the health status of vegetation. This low-priority background survey serves as a testbed tracking task with flexible scheduling options. Expectations are set for timely delivery by 'in three days overnight' deadline."
+
+This request seamlessly integrates operational guidelines and provides clear, concise, and contextually rich information for the automated satellite constellation planner to interpret effectively."

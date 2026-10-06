@@ -1,0 +1,9 @@
+As an Earth-observation mission operator submitting a task request to an automated satellite constellation planner, I aim to translate raw physical simulation metadata into a highly realistic and conversational English request. The provided JSON format outlines key parameters to be interpreted organically for this task allocation.
+
+Our geographic context is set in Italia, specifically within the picturesque town of Correggioli—a location that exudes charm with its rich cultural heritage. Combining these parameters naturally, we are tasked to capture a thermal mapping snapshot using a TIR sensor. This request embodies the essence of capturing heat signatures and surface temperature profiles with accuracy and depth.
+
+Given the 'priority_level' is set at 1, this task is explicitly noted as a low priority importance request with a flexible schedule for opportunistic capture. It is treated as a non-essential background filler task that can be scheduled as convenient, akin to conducting an environmental background survey or engaging in testbed tracking tasks.
+
+The delivery deadline has been resolved by an upstream module. The day after tomorrow finds us at twilight, providing a unique light condition that will enhance the quality of our thermal imagery capture. This deadline is the upper limit for data availability, setting a clear but not overly stringent timeline for task execution and data processing.
+
+In summary, this request involves capturing thermal mapping data over Correggioli, Italia, in the evening on the day after tomorrow using a TIR sensor. It's a straightforward task that fits into our baseline pipeline tracking with normal operational status, highlighting the importance of flexibility and opportunistic scheduling for this low priority importance task.
