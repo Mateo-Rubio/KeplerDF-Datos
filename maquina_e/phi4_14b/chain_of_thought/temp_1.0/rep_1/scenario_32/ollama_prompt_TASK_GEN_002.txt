@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To approach this task, let's break down each element of the provided JSON metadata and interpret it according to the guidelines.
+
+a) The exact string in 'target_day' is "today". This indicates that the task is to be completed by the end of the current day.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the data should be captured, pointing towards the latter part of the day.
+
+c) The single word contained within "in the evening" that matches one of our specified options is "evening". This word will be included directly in the final request to denote the specific time frame.
+
+d) It is crucial to adhere strictly to the provided deadline without any alteration. The task must be executed by "today, in the evening," as stated, without shifting it to a morning or overnight session.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority request for an opportunistic capture using the VNIR sensor over the region of Talamello, Italy. This is a non-essential background filler task with a flexible schedule. We would like a multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. Please feel free to drop or reschedule at convenience, ensuring this captures today in the evening as part of a low priority importance mission.

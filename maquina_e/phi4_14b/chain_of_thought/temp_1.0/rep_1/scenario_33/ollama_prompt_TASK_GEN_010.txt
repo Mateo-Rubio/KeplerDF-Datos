@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides us with important details to craft a task request for an Earth-observation satellite mission.
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The word contained in that string which appears literally is "evening."
+
+d) The given diurnal period, "evening," specifies when data capture should occur. I will confirm this temporal context by ensuring the request specifies capturing data "in the evening" without altering or extending it to a different time such as morning, mid-day, afternoon, or overnight.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a casual task for your constellation in Aipe, Colombia, where we're interested in an opportunistic capture. We’re looking for a low priority importance task with a flexible schedule and would prefer the data to be captured on "the day after tomorrow." We need this to happen "in the evening" using near-infrared reflection for water body boundary mapping or soil moisture assessment. This is a background survey, so feel free to drop or reschedule at your convenience.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To interpret the JSON metadata effectively, I'll first address each part of the task context:
+
+a) The 'target_day' string is "tomorrow." This provides a specific time frame for when the data products are expected to be delivered.
+
+b) The 'target_diurnal_period' string is "overnight." This indicates the specific time during the day when the observation should occur or when data delivery is required.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is explicitly mentioned in the 'target_diurnal_period' string. This term will be used verbatim in the final request to ensure clarity and adherence to the specified timeframe.
+
+d) It's crucial to confirm that I am not altering the deadline. The operational guidelines emphasize that the temporal parameters represent a strict deadline for delivering data products, not the orbital capture window. Therefore, "overnight tomorrow" must remain as the delivery timeframe without any shifts or reinterpretations.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority task focused on capturing thermal mapping in Montelíbano, Colombia. This mission involves obtaining a heat signature or surface temperature profile for potential thermal anomaly detection. Given its classification as a low importance request, the schedule is flexible, allowing us to drop or reschedule at convenience. The aim is to perform an opportunistic capture using thermal sensors overnight tomorrow, treating it as a non-essential background filler task that supports ongoing testing and environmental survey activities.
