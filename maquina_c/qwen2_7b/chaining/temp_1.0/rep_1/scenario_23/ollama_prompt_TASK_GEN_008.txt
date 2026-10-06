@@ -1,0 +1,7 @@
+As an Earth-observation mission operator requesting task allocation from an automated satellite constellation planner, my objective is to translate raw physical simulation metadata into a single, highly realistic, and conversational English request. The target context involves using a SAR sensor with the primary goal of capturing a detailed active radar scan for microwave surface imaging. We aim to cloud-penetrate and capture ground geometry during daylight hours.
+
+The region under observation is located in Italia, specifically within Burzanella city, utilizing its distinct geographical coordinates for pinpoint accuracy. This task carries low importance as it is designated as a flexible schedule "opportunistic capture" task, acknowledging it as a non-essential background filler task that can be dropped or rescheduled at convenience, treated as a background survey or testbed tracking task.
+
+The deadline for this task has already been resolved by an upstream module. The stated upper limit for data availability is within three days during the afternoon period. We emphasize that no raw UTC timestamps, digits, or countdown metrics are to be included in this request; instead, we insert the phrase verbatim as specified in the metadata.
+
+Please prioritize allocating the appropriate satellite resources to meet this task's requirements, considering its importance, deadline, and geographical context for operational purposes.
