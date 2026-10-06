@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the task should be completed or captured.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the string "overnight" is "overnight." This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) The temporal parameters provided, specifically "tomorrow" for the target day and "overnight" for the diurnal period, must be adhered to without any shifts or reinterpretation. The deadline is strictly set for the overnight period on the specified day, and this timing must not be altered in any way.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority request for an opportunistic capture over Paimadó, Colombia. This is a non-essential background filler task that can be adjusted or rescheduled at your convenience. Our goal is to obtain thermal mapping data to capture a heat signature and surface temperature profile during the overnight period of tomorrow. This flexible schedule allows for cloud-penetrating imaging using microwave sensors, aiming to identify any thermal anomalies present in the area.

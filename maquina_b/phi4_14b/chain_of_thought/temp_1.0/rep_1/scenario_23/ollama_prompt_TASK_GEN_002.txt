@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To construct the task request effectively, let's first consider each component of the metadata systematically:
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task needs to be completed by tomorrow without shifting the deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the data capture should occur, anchoring it to the evening hours.
+
+c) The single word contained in the string 'target_diurnal_period' that aligns with the provided list is "evening." It directly corresponds with the phrase and must be included verbatim in the final request to maintain accuracy regarding the timing.
+
+d) It's essential not to shift the deadline to any other part of the day. The parameters explicitly specify that the task should occur tomorrow in the evening, so altering this timeframe would conflict with the operational constraints and guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+I request a standard operational tasking for a thermal mapping mission over the Norte region, focusing on capturing a heat signature or surface temperature profile. This task is part of our routine monitoring activities and falls under our baseline pipeline tracking setup. Please ensure the data is delivered by tomorrow in the evening, adhering to the fixed parameters that define our normal operational status. Thank you for your attention to this workflow update.

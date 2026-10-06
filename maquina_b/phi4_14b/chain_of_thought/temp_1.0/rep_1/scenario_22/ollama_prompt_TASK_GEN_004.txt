@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for data delivery is precisely three days from now.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies that the observation should occur approximately at noon.
+
+c) The single word contained in 'target_diurnal_period' that matches one of the specified options is "mid-day". This word will be used literally in the final request to describe the timing of the observation.
+
+d) There is no indication or permission to shift the deadline to an adjacent part of the day. The requirement is strictly for data delivery "in three days" and during the "around mid-day" timeframe, which must be adhered to as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission request is a binding contract requirement involving a critical payload capture over the region in Uribe, Colombia. The task involves an urgent operational execution for an absolute institutional priority with an un-preemptable mission lock. We need an observation using near-infrared reflection to map water body boundaries and assess soil moisture levels. This data must be captured in three days, specifically around mid-day.

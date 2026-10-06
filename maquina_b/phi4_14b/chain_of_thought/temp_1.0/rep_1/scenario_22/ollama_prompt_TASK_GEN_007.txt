@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's begin by addressing each part of this task methodically:
+
+a) The exact string present in the 'target_day' key from our JSON is "in three days". This directly indicates that the deadline for delivering the requested data products is set precisely for three days from now.
+
+b) Moving on to 'target_diurnal_period', the exact string we find is "overnight". This tells us the time frame during which the desired observation should occur is during the nighttime, when the sun has set and darkness prevails.
+
+c) The specific word out of {morning, mid-day, afternoon, evening, overnight} that appears in our 'target_diurnal_period' string is "overnight". Therefore, it must be included as such in the final request to indicate the desired period for data collection clearly.
+
+d) Finally, we need to ensure there is no alteration or shift of the given deadline to any other part of the day. The instruction is clear in designating an overnight capture for the 'target_day' specified as "in three days". We must adhere strictly to these parameters without any modification to the designated time frame.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a request for a low-priority importance task, with a flexible schedule for opportunistic capture. This is a non-essential background filler task that can be dropped or rescheduled at convenience and serves as a background survey of the Sesquilé region in Colombia. We are looking for an active radar scan utilizing microwave surface imaging to achieve a cloud-penetrating capture of ground geometry. The aim is to perform this task overnight, precisely "in three days," providing us with valuable data despite its low priority status in our current workflow update.

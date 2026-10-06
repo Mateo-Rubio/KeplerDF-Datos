@@ -1,0 +1,17 @@
+### Stage 1 - Reasoning
+
+To begin with, I need to carefully interpret the metadata for our Earth-observation task request. Let's go through the questions systematically.
+
+a) The exact string in 'target_day' is "in four days". This specifies when the data needs to be delivered without altering this timeline.
+
+b) For 'target_diurnal_period', the exact string provided is "in the morning". This indicates the time of day during which we want the observation to occur.
+
+c) From the phrase "in the morning", the single word that matches our options {morning, mid-day, afternoon, evening, overnight} is "morning". This is crucial for crafting the natural language request.
+
+d) It's essential to confirm that there is no alteration of the deadline to another part of the day. The request must align strictly with both "in four days" and "in the morning" without any shifts in timing.
+
+Having processed these elements, I can now proceed to frame the operational request accordingly.
+
+### Stage 2 - Final Request
+
+We have a low-priority task focusing on monitoring soil moisture levels around Campli, Italy. Given its flexible scheduling, this is a background survey intended to be captured opportunistically within the workflow updates. We are particularly interested in using near-infrared reflection capabilities to map water body boundaries and assess soil moisture content. This non-essential task should be scheduled for data delivery "in four days" during "morning", and can be rescheduled or dropped at your convenience.

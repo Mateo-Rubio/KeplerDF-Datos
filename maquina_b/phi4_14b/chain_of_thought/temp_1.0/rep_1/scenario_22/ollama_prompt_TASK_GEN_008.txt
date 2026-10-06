@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' specified in the JSON is "in three days." This indicates the deadline for delivering the data products is exactly three days from now, without any room for interpretation or alteration. This timeframe must be adhered to strictly as it represents an operational deadline.
+
+Next, the 'target_diurnal_period' mentioned is "overnight." This term specifies when the task needs to be executed. It implies that the satellite should capture the required data during the nighttime hours, and not during the day. 
+
+Among the given options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" appears verbatim in the 'target_diurnal_period'. This means the task should be carried out during the night and into the early morning.
+
+Finally, it's crucial to confirm that I am not shifting this deadline. The requirement specifies that the capture must occur "in three days, overnight," which indicates no flexibility for changing this timeframe to any other part of the day. The task must happen at night three days from now.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking to capture high-resolution optical snapshots over the city of Tre Fasci in Italy. This task is a part of our baseline pipeline tracking, and it should be carried out as scheduled with fixed parameters representing normal operational status. The data capture must occur in three days, overnight, ensuring the delivery of clear optical imagery during these hours.
