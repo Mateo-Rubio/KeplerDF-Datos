@@ -1,0 +1,9 @@
+We're in charge of an upcoming Earth-observation mission and need to request satellite data for a location situated within Colombia. Our objective is to capture detailed radar imagery using the SAR (Synthetic Aperture Radar) sensor around mid-day tomorrow, specifically between noon and 2 PM, as per the target timeframe. 
+
+This is part of our baseline pipeline tracking setup, representing standard operational tasking or commercial tasks where fixed parameters are set for routine monitoring. The geographical context involves Colombian territory, with our specific interest centered on the city of Nóvita.
+
+The high-resolution optical snapshot requirement is not applicable here since we're focusing on SAR imagery, which serves as an active radar scan using microwave surface imaging for cloud-penetrating capture. We aim to acquire a detailed profile of ground geometry and address issues related to heavy weather conditions.
+
+Given the priority level of our task at '1', this request should be viewed as a flexible schedule with low priority importance, suitable for being a non-essential background filler task. We're advised to drop or reschedule it at convenience, treating it as an opportunistically planned background survey or testbed tracking task.
+
+In summary, we need to ensure that the products are ingested into the pipeline before the deadline set for 'target_day' with the 'target_diurnal_period' marking a strict delivery timeframe. This aligns with our institutional priorities without causing any pre-emption of other critical payload capture tasks. Our operational tone should reflect the naturalness and validation accuracy demanded by this dataset, seamlessly incorporating these guidelines into our request.
