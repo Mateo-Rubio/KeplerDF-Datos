@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. We aim to translate the raw physical simulation metadata into a highly realistic and conversational English request. Our objective involves crafting the request naturally, taking into account the provided context without using raw technical system tags, underscores, or coordinate arrays.
+
+The geographic context of our target is in France, specifically the city of Norte. We will combine the 'country' and 'city' fields to create a realistic description of this location, while respecting guidelines if any fields like 'landmark' are "N/A". The mission allocation priority level for this request is determined as "low importance" since our priority level is set to 1. This means that we'll frame this task with a casual tone, noting it as a "low priority importance" request that can be treated with a flexible schedule and considered a "background survey" or a "testbed tracking task".
+
+Our primary sensor for this mission is "SAR", which will conduct an active radar scan using microwave surface imaging. This technique enables us to capture cloud-penetrating imagery, essential for ground geometry analysis even in heavy weather conditions.
+
+The request's delivery deadline stipulates that the data must be available by morning in four days' time. We've ensured this phrase is included verbatim, as the upper limit for data availability, without altering or shortening it.
+
+In conclusion, the Earth-observation mission operator submits this task request to capture essential information using our SAR sensor in France's Norte city. The operation will occur in the morning of the fourth day from now, aiming for a clear cloud-penetrating imagery that supports our ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status.
