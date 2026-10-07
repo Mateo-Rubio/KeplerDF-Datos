@@ -1,0 +1,15 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word that is contained in that string is "afternoon".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are maintaining the original deadline as specified in the JSON.
+
+Moving on to STAGE 2 - FINAL REQUEST:
+
+...we require a highly realistic and conversational English request for translating the provided physical simulation metadata into a dataset with natural and conversational English output. Here is our request based on the input:
+
+We need to execute a low-priority importance task involving an opportunistic capture using a flexible schedule. This will be a non-essential background filler task that we can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. The primary sensor required is VNIR, and the objective is to take a high-resolution optical snapshot for multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. This needs to be captured in Primorsko-goranska županija, Hrvatska, during the afternoon tomorrow.

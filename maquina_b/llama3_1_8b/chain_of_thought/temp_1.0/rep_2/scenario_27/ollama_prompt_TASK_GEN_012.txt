@@ -1,0 +1,9 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in that string is "afternoon".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are still targeting the afternoon on the day specified as "the day after tomorrow".

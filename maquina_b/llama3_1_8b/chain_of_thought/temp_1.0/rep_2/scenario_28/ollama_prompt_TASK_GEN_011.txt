@@ -1,0 +1,9 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, we are not shifting the deadline to an adjacent part of the day. We are interpreting the temporal parameters as a strict operational DEADLINE to deliver the data products, as per the guidelines.
