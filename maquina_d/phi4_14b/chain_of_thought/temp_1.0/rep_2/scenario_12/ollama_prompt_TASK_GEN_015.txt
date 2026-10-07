@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provided contains various elements that need to be translated into a natural and conversational English request. Let's address each of the required points in sequence:
+
+a) The string in 'target_day' is "tomorrow." This explicitly indicates when the data delivery deadline is, emphasizing an immediate action for the following day.
+
+b) The string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation should occur or when the data is expected to be captured.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "morning" is contained in the 'target_diurnal_period' string. It's important to include this word explicitly in the final request to accurately convey the intended timing of the mission.
+
+d) The provided metadata does not suggest any flexibility or opportunity to shift the deadline from "in the morning." The specific mention of the morning timeframe for tomorrow implies that it is a fixed and precise requirement, reflecting a strict operational deadline rather than an adjustable window. Therefore, it's crucial to maintain this timing accurately in the final request without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+For a standard operational tasking involving Kutai Kartanegara in Indonesia, we require a near-infrared reflection mission tomorrow in the morning. This commercial tasking forms part of our baseline pipeline tracking setup, focusing on soil moisture assessment and water body boundary mapping under fixed parameters representing normal operational status. Please ensure this routine monitoring is scheduled within the standard workflow update framework without deviation.

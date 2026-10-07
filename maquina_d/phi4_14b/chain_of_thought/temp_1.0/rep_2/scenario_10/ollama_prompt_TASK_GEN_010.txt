@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "morning". This word will be used literally in the final request.
+
+d) The deadline specified is explicitly "tomorrow in the morning". There is no indication or allowance for shifting this deadline to another part of the day. It is critical to adhere strictly to the operational deadline as stated without any alteration or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a routine monitoring task for our commercial satellite operations over Colombia, specifically targeting the Chaparral area. The mission involves performing an active radar scan utilizing microwave surface imaging capabilities. This should provide a cloud-penetrating capture, allowing us to analyze ground geometry effectively. As a standard operational tasking within our baseline pipeline tracking setup, this task has fixed parameters aligned with our normal workflow. We need the data products delivered by tomorrow in the morning, ensuring timely execution and seamless integration into our operational processes.

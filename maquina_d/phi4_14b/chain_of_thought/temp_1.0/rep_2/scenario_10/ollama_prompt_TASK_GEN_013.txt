@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To effectively translate the provided metadata into a conversational request, we begin by examining each component of the JSON data:
+
+a) The exact string in 'target_day' is "in four days." This indicates that the task should be completed within this timeframe, setting a specific deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day when the observation is desired, which is crucial for aligning the satellite's operational capabilities with the mission's needs.
+
+c) The single word contained in the 'target_diurnal_period' string that aligns with the specified options is "morning." This word will be used explicitly in the final request to clearly communicate the preferred time of data capture.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The original specification states "in the morning," and this remains unchanged. The task must be executed within the specified timeframe and diurnal period, ensuring adherence to the operational constraints without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a satellite observation over Baraya, Colombia, with an emphasis on capturing high-resolution optical imagery using an active radar scan. This mission involves utilizing microwave surface imaging to perform cloud-penetrating captures that will allow us to understand ground geometry, even through challenging weather conditions. Given the low priority level of this task, it is marked as a non-essential background filler task with a flexible schedule, allowing for opportunistic capture. Please note that this request can be dropped or rescheduled at your convenience, treating it as a background survey. The desired data should be delivered by in four days, specifically targeting the morning diurnal period to ensure optimal conditions for the required observations.

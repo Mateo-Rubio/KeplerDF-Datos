@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task is to translate metadata into a natural English request for an Earth-observation mission involving the sensor NIR.
+
+a) The exact string in 'target_day' is "the day after tomorrow". This clearly sets the deadline without any ambiguity, indicating that the data needs to be collected and processed by that day.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should occur, ensuring clarity on when during "the day after tomorrow" the task should be executed.
+
+c) The single word contained in 'target_diurnal_period' that must appear literally in the final request is "morning". This word precisely indicates the time frame within which the operation is scheduled.
+
+d) It is crucial to confirm that there is no alteration of the deadline. The metadata specifies "the day after tomorrow, in the morning", and this must be adhered to strictly. There is no shifting to any adjacent part of the day, ensuring that the observation occurs exactly as specified without any changes to the timing.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for our Earth-observation mission, focusing on an area known as Ecuatorial. This involves utilizing our near-infrared reflection capabilities to perform water body boundary mapping and soil moisture assessment. The request is part of our baseline pipeline tracking, ensuring fixed parameters are met under normal operational status. Please ensure that this task is completed on the day after tomorrow, specifically in the morning. Thank you for your attention to this routine monitoring effort.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves generating an Earth-observation request based on the metadata provided in JSON format. Let's delve into each of the questions to ensure we interpret the data correctly:
+
+a) The string present in 'target_day' is "tomorrow." This indicates that the desired observation must occur on the day following today. It is imperative to respect this timeframe without any modifications or shifts.
+
+b) The string found in 'target_diurnal_period' is "around mid-day." This specifies when during the day the observation should take place, emphasizing a time near mid-day. It is crucial to note that this temporal detail cannot be adjusted.
+
+c) Within the string "around mid-day," the word "mid-day" appears explicitly. This term needs to be included verbatim in the final request to accurately convey the timing of the observation.
+
+d) As per the operational guidelines, it is confirmed that the deadline should not be shifted to an adjacent part of the day. The specified time frame, "around mid-day," must be adhered to without alteration. This ensures that the observation aligns precisely with the intended schedule.
+
+### STAGE 2 - FINAL REQUEST
+
+Please schedule a flexible, low-priority observational task over Muara Asa in Indonesia, focusing on cloud-penetrating capture using an active radar scan. This mission involves capturing microwave surface imaging to observe ground geometry, and it should be conducted around mid-day tomorrow. Given the non-essential nature of this task, it may be dropped or rescheduled at your convenience as part of our background survey operations.

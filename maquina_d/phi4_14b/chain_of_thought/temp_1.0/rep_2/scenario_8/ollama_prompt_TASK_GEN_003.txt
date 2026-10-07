@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the specific day for when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day during which the satellite imagery capture should occur.
+
+c) The single word contained in that string from the options {morning, mid-day, afternoon, evening, overnight} is "evening". This word will be used verbatim in the final request to describe the precise timing of the task execution.
+
+d) I need to ensure that I am not shifting the deadline to a different part of the day. The instructions explicitly state the target as "in the evening," and I must adhere to this specified timeframe without any modifications or reinterpretations.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am issuing an urgent operational execution with an absolute institutional priority for a critical payload capture over Tatau, Malaysia. This task involves acquiring high-resolution near-infrared imagery focused on soil moisture assessment and water body boundary mapping. It is imperative that this mission is locked in as a non-preemptable mission due to its high priority status and binding contract requirements. The data must be delivered by tomorrow evening, without any deviation from this strict operational deadline. This task is crucial for ensuring our baseline operational accuracy and strategic monitoring objectives.
