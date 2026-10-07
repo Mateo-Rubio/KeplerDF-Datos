@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found under 'target_day' is "tomorrow." This indicates the deadline for data delivery.
+
+b) The exact string under 'target_diurnal_period' is "overnight." This specifies the time during which the data capture should occur.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight." 
+
+d) There is no need to shift or reinterpret the deadline. It's specified clearly as "tomorrow overnight," indicating a strict delivery timeline for data products, with no flexibility to move it to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are seeking a professional and direct request for a medium-priority satellite task focused on Kotawaringin Timur, Indonesia. This mission involves executing a standard operational tasking that is integral to our baseline pipeline tracking system. The primary objective is to conduct an active radar scan utilizing microwave surface imaging during tomorrow's overnight period. The purpose of this capture is to obtain cloud-penetrating imagery that reveals ground geometry and penetrates heavy weather conditions, ensuring we achieve precise and critical data acquisition as scheduled.

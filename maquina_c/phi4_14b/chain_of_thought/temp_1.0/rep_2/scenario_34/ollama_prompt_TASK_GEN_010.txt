@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides essential details for crafting a satellite observation request. To ensure accuracy and clarity, let's dissect the necessary elements.
+
+a) The 'target_day' key in the metadata is specified as "in three days". This string directly indicates the deadline for the data delivery, which is crucial for planning the mission timeline without any alterations.
+
+b) For 'target_diurnal_period', the metadata specifies "around mid-day". This time frame is important for determining when the satellite should capture the required imagery, aligning with optimal lighting conditions for the primary sensor.
+
+c) Within the string "around mid-day", the word "mid-day" is explicitly mentioned. This term will be directly used in the final request to ensure clarity regarding the desired time of data capture.
+
+d) It's important to confirm that the deadline is strictly adhered to as specified. The metadata indicates a non-negotiable deadline of "in three days" with the imagery to be captured "around mid-day". There is no indication or allowance for shifting this deadline to another part of the day, such as morning, afternoon, evening, or overnight. This strict adherence ensures that the mission is executed precisely as required by the operational guidelines.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am issuing an absolute institutional priority directive for a high-resolution optical snapshot over Santa Ana del Táchira, Venezuela. This critical payload capture must be achieved using a VIS sensor to obtain clear optical imagery around mid-day, exactly in three days. This task is a binding contract requirement with no possibility of preemption or delay, necessitating urgent operational execution.

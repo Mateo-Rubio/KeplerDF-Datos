@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This indicates the precise timeline for when the data delivery is expected.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day-night cycle the task should be performed, implying the timing of the satellite capture relative to the diurnal cycle.
+
+c) Within the string "overnight", the single word from the provided options that appears literally is "overnight". This word will be explicitly included in the final request to denote the specific timing of data acquisition.
+
+d) There's no intention or reason to alter the "overnight" diurnal period. The task is clearly scheduled to occur during nighttime hours, and shifting it to any adjacent part of the day would conflict with the specified operational requirements and the nature of NIR imagery, which often relies on capturing specific conditions that are only present at night.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need a standard operational tasking for an overnight mission focusing on near-infrared reflection over Murung Raya in Indonesia. This will serve as part of our baseline pipeline tracking and is intended to assess water body boundaries and soil moisture gradients. Please schedule this data capture "in four days" to ensure accurate monitoring of these parameters as part of our regular workflow updates.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This phrase indicates the deadline by which the data needs to be captured, specifically three days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day during which the observation should take place.
+
+c) The word "evening" from the set {morning, mid-day, afternoon, evening, overnight} is contained in the string "in the evening". This term will be directly used in the final request to specify the time of observation.
+
+d) The deadline is explicitly set for "in three days" and during the "evening" period. There is no indication or allowance to shift this deadline to any other part of the day, such as morning or afternoon, ensuring that the mission adheres strictly to these temporal constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an urgent operational execution request for a critical payload capture in Northern Italy. This mission is an absolute institutional priority and a binding contract requirement. We need a thermal mapping observation to capture a surface temperature profile during "in three days" "evening". The goal is to detect and document any thermal anomalies present in the region, ensuring no deviations from this strict deadline. This high-importance task must be executed with un-preemptable mission lock status.

@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+The task request involves an Earth-observation mission that focuses on the region of Mak Teduh in Indonesia. To construct this task, we must first address specific elements of the metadata provided in JSON format:
+
+a) The string found under 'target_day' is "today." This indicates that the request needs to be executed within the current day without delay.
+
+b) The string listed under 'target_diurnal_period' is "during the afternoon." This provides clarity on when, during today, the observation should take place.
+
+c) Within the string "during the afternoon," the single word contained from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This time of day is explicitly specified for carrying out the observation.
+
+d) Based on the context given by 'target_diurnal_period' as "during the afternoon," we are to confirm that the deadline remains strictly during this time. There is no indication or allowance for shifting this deadline to a different part of the day, such as the morning or evening.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task involving Mak Teduh in Indonesia, demanding an urgent operational execution due to its critical payload capture nature. This mission is a binding contract requirement, characterized by an un-preemptable mission lock that necessitates an active radar scan. The primary goal is to gather thermal mapping data, specifically capturing the surface temperature profile and identifying any thermal anomalies within the area. It's imperative to conduct this high-priority task today, during the afternoon, to ensure the delivery of vital data products as per the strict operational deadline.

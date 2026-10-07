@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "today". This indicates the immediacy of the request, meaning the task should be completed on the current day.
+
+b) The exact string for 'target_diurnal_period' is "during the afternoon". This specifies the time of day when the observation should occur, providing a clear temporal context for the task.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in this string is "afternoon". This word will be used directly in the final request to convey the specific time frame.
+
+d) It is crucial to confirm that the deadline is not shifted to another part of the day. The provided metadata explicitly states "during the afternoon" as the target diurnal period, and this must be adhered to without alteration. Therefore, the observation should occur in the afternoon, and no changes to this timing are permissible.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a task request for a thermal mapping observation of Colombia, specifically focusing on the city of Vegachí. This mission is of low priority importance with a flexible schedule, designed for opportunistic capture. Please consider this as a non-essential background filler task, where it can be dropped or rescheduled at convenience. The goal is to capture a heat signature and surface temperature profile today, during the afternoon. This will serve as a background survey, providing thermal anomaly detection without imposing any strict operational constraints.
