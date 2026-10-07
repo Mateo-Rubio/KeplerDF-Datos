@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To craft a natural and operational satellite task request, let's start by examining the JSON data provided:
+
+a) The exact string in 'target_day' is "in three days." This phrase directly indicates the deadline for the mission execution without any modification.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This indicates that the task needs to be executed during this specific period of the day.
+
+c) From the provided options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is present in the 'target_diurnal_period' string. Therefore, this word must appear literally in the final request.
+
+d) The phrase "in three days" specifies a clear deadline for when the data needs to be delivered. We must respect this timeframe without adjusting or shifting it to another time of day. This means we are committed to executing and delivering the mission outcome strictly by "in three days" during the "overnight" period, as indicated.
+
+**STAGE 2 - FINAL REQUEST**
+
+This task is an absolute institutional priority involving a critical payload capture over Útica, Colombia. We require an urgent operational execution for thermal mapping that will deliver a surface temperature profile during the overnight hours. This binding contract requirement must be fulfilled with an un-preemptable mission lock, ensuring data delivery in three days.

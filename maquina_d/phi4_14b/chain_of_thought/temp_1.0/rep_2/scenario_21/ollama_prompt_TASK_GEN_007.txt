@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The 'target_day' value specified in the JSON is "tomorrow". This string should be used verbatim in the request as it indicates the strict deadline for task completion. 
+
+For the 'target_diurnal_period', the provided string is "overnight". This suggests the task needs to be carried out during nighttime hours, specifically when the sun has set, and observations will occur under these conditions. The word "overnight" directly implies that data capture should occur throughout the night.
+
+When analyzing which of the specified words—morning, mid-day, afternoon, evening, or overnight—is contained in the 'target_diurnal_period', the word "overnight" appears to be the exact match. This term is crucial as it indicates when the imaging should happen and must appear literally in the request to preserve the temporal context.
+
+Lastly, confirming the deadline: The data acquisition should occur precisely during the specified time frame of "tomorrow overnight." There is no indication that this deadline should be adjusted or shifted to another part of the day, such as morning or afternoon. Adhering strictly to this timing ensures the mission meets its operational requirements and contractual obligations.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority task for a critical payload capture over Aguadas, Colombia. We require a high-priority, un-preemptable mission lock to conduct multispectral vegetation analysis in the region. The objective is to assess the chlorophyll absorption level and calculate a vegetation NDVI index through VNIR imaging. This must be achieved via an overnight active radar scan tomorrow, capturing clear thermal anomaly detections that penetrate cloud cover if necessary. Please ensure urgent operational execution without any deviation from this precise schedule.

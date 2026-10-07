@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days." This indicates the time frame within which the data product needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when the satellite should capture the required imagery, indicating that the task should occur during the nighttime hours.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used directly in the final request to describe when the imaging needs to take place.
+
+d) The requirement states that we are not to shift the deadline or alter the specified timeframe for capturing data. Therefore, we must adhere strictly to capturing the imagery during the overnight period three days from now, without moving it to any other time of day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking to perform a high-resolution optical snapshot over the region in Tre Fasci, Italy. This involves capturing clear optical imagery for daylight photography during the overnight period. As part of our baseline pipeline tracking setup with fixed parameters, this routine monitoring task is scheduled to be executed in three days. This aligns with our standard workflow update requirements, ensuring that we maintain consistent data collection practices.

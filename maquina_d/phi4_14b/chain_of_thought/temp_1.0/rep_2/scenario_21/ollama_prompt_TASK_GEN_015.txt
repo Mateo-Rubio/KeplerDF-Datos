@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days." This indicates the precise timing for when the task needs to be completed and data delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day that the observation should occur, aligning with the natural light conditions appropriate for the sensor's operational capabilities.
+
+c) The single word contained in this string from the options {morning, mid-day, afternoon, evening, overnight} is "morning." This word must be included literally in the final request to ensure clarity and accuracy regarding the timing of the observation.
+
+d) I need to confirm that I am not shifting the deadline to an adjacent part of the day. The requirement states the observation should occur "in the morning" and the data delivery is due "in four days." Therefore, both these conditions must be adhered to without alteration to maintain operational integrity and meet mission parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We require a standard operational tasking for a multispectral vegetation analysis using VNIR over the region of Solok in Indonesia. This request is part of our baseline pipeline tracking and should adhere to fixed parameters, representing normal operational status within our workflow update. The imagery needs to be captured with an emphasis on chlorophyll absorption levels or calculating a vegetation NDVI index. The data collection should occur in the morning to ensure optimal lighting for analysis. We expect this task to be completed and the data delivered in four days. Please prioritize this task accordingly within our established protocols.
