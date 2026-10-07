@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is: "around mid-day".
+c) The word contained in that string which needs to appear literally in the final request is: "mid-day".
+d) I am not shifting the deadline to an adjacent part of the day, as specified in the task JSON.
+
+STAGE 2:
+
+In the span of the day after tomorrow, our satellite constellation planner is tasked with performing an active radar scan around mid-day. Utilizing microwave surface imaging capabilities, this operation will allow us to cloud-penetrate and capture the ground geometry of areas designated under the 'Ecuatorial' label without compromise. This standard operational tasking, with its fixed parameters, aims to contribute to baseline pipeline tracking setups that are a part of our normal operational status quo. The focus will be on delivering clear and informative data, allowing for detailed observation of environmental features and conditions within the specified timeframe.
+
+```prompt
+In the span of the day after tomorrow, our satellite constellation planner is tasked with performing an active radar scan around mid-day. Utilizing microwave surface imaging capabilities, this operation will allow us to cloud-penetrate and capture the ground geometry of areas designated under the 'Ecuatorial' label without compromise.
