@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task request involves interpreting metadata for an Earth-observation mission targeting a specific location using specified sensors. Let's break down the details:
+
+a) The exact string in 'target_day' is "today." This indicates that the observation needs to be completed on the current day, emphasizing urgency in the operational timeline.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time window for data capture, which is during the night.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This will be used literally in the final request to describe when the task should be executed.
+
+d) Confirming that we are not shifting the deadline: The request must be completed on "today" during the "overnight" period. There is no indication or allowance to extend or shift this timeframe to any other part of the day, such as morning or evening. This strict adherence ensures that the data is captured within the specified operational window.
+
+### STAGE 2 - FINAL REQUEST
+
+We need a standard operational tasking for our baseline pipeline tracking in Setiris, Indonesia. This request involves a routine monitoring activity with fixed parameters representing normal operational status. The goal is to conduct a multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The data capture must be completed today, specifically during the overnight period, as part of our workflow update. This tasking should align with our regular mission operations without any deviations from the established schedule.

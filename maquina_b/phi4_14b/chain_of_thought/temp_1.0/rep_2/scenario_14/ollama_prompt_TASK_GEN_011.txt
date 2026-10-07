@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+For the task at hand, we begin by examining the metadata JSON provided to us. The first key detail is 'target_day', which has a value that describes when the satellite data should be captured and delivered. Specifically, 'target_day' contains the exact string "tomorrow". This means that our operational deadline for this Earth-observation mission is set for the day after today.
+
+Next, we analyze the 'target_diurnal_period', which tells us the specific time frame during the day when the satellite's observation should occur. The 'target_diurnal_period' contains the precise string "overnight". This is significant because it informs us that the task requires capturing data during the nighttime hours of the specified target day, which aligns with our understanding that certain observational missions might need to gather data when specific environmental conditions prevail, such as reduced interference or enhanced visibility for certain sensors.
+
+To clarify further, among the potential periods of the day—morning, mid-day, afternoon, evening, and overnight—we identify that the word "overnight" is contained within the 'target_diurnal_period' string. This word must be included in our final request verbatim, as it precisely defines the operational timeframe for data capture.
+
+Lastly, it is crucial to confirm that we are adhering to the stipulated deadline without any adjustments or reinterpretations. The metadata dictates a specific operational delivery deadline, and any attempt to shift this period to an adjacent time frame would be incorrect. We must respect the requirement for an "overnight" operation on "tomorrow", ensuring our task planning aligns perfectly with these specified temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm looking for a flexible schedule to complete an Earth-observation task focusing on Montaquila, Italy. This is a low-priority importance request, so feel free to drop or reschedule at your convenience. We are aiming for a multispectral vegetation analysis with the VNIR sensor, assessing chlorophyll absorption levels and calculating a vegetation NDVI index for this area. The data should be captured and delivered tomorrow during the overnight period. Thanks for accommodating this non-essential background filler task in your workflow.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task needs to be completed on the next day from the current time of planning.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the particular time during the day when the data capture should occur.
+
+c) The word contained in that string which matches the list provided is "evening." This must be used literally in the final request to specify the exact time for the operation.
+
+d) It is confirmed that the deadline is not being shifted to an adjacent part of the day. The instructions clearly state that "target_day" and "target_diurnal_period" represent strict operational deadlines, which should remain unchanged. Therefore, the task must occur tomorrow evening as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need to urgently secure a high-resolution thermal mapping mission over Latina, Italy, with an absolute institutional priority. This critical payload capture involves thermal anomaly detection to assess the surface temperature profile and map heat emissions. The mission is part of a binding contract requirement and must be executed tomorrow evening without delay. It's imperative that this operation adheres to the scheduled deadline to ensure compliance with our operational mandates.

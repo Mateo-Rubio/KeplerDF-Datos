@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in four days." This indicates the specific deadline by which the data products must be delivered.
+
+b) The exact string present in 'target_diurnal_period' is "in the morning." This specifies the time of day that is critical for capturing the desired data.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained within the string "in the morning" is "morning." This word should appear literally in the final request to accurately reflect the intended capture time.
+
+d) To confirm, I am adhering strictly to the provided temporal parameters and not shifting the deadline to an adjacent part of the day. The deadline specified as "in four days, in the morning," must be met exactly, maintaining both the specific number of days and the specified diurnal period for data capture.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am issuing an absolute institutional priority request for a critical thermal mapping mission over the region of Norte in Italia. This task involves acquiring high-resolution thermal imagery to detect surface temperature profiles, with an urgent operational execution scheduled precisely in four days, in the morning. The mission constitutes a binding contract requirement and is an un-preemptable mission lock due to its high importance, ensuring no deviation from the specified timeframe is allowed for successful delivery of the thermal anomaly detection data.
