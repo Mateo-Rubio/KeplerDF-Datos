@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To create a natural English request based on the provided JSON metadata, I need to systematically interpret each key according to the operational guidelines.
+
+a) The exact string present in 'target_day' is "the day after tomorrow". This will be used verbatim in the final request to specify when the data needs to be delivered.
+
+b) The exact string present in 'target_diurnal_period' is "during the afternoon". This specifies the time of day during which the observation should occur, and will also be included verbatim in the final request.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon". This word will appear literally in the final request to indicate the specific time frame for the observation.
+
+d) It's important to confirm that there's no shift or adjustment to the deadline. The phrase "the day after tomorrow" sets a fixed deadline for delivery, and "during the afternoon" pinpoints the precise part of that day when the data collection must occur. This means that the data products need to be delivered on the specified day at the specified time, with no changes allowed to either element.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for the region near the city of Ecuatorial. The mission involves conducting thermal mapping to capture a surface temperature profile during the afternoon on the day after tomorrow. This is part of our routine monitoring setup with fixed parameters that represent normal operational status, ensuring adherence to our baseline pipeline tracking requirements.

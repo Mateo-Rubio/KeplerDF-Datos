@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves creating a satellite imagery request for an Earth-observation mission. I will begin by analyzing the specific metadata fields provided.
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates that the desired imagery needs to be captured and delivered by this specific day, emphasizing a clear operational deadline without alteration or interpretation.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This implies that the satellite should capture images during a timeframe centered around mid-day, ensuring optimal conditions for daylight photography, which aligns with the sensor's capabilities.
+
+c) The single word contained in "around mid-day" that I need to include verbatim is "mid-day". This term is crucial as it specifies the time of day for the satellite pass, directly correlating with the capabilities of the VIS sensor for optimal daylight imaging.
+
+d) Confirming that there is no intention to shift the deadline to another part of the day. The provided metadata explicitly states "around mid-day," and my request will adhere strictly to this timeframe without any adjustments or reinterpretations. This ensures compliance with the specified operational deadline and respects the constraints set by the mission parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a low-priority importance task for a flexible schedule, aimed at opportunistic capture over San Vicente del Caguán in Colombia. This non-essential background filler task should be considered a testbed tracking activity with an option to drop or reschedule as convenient. We are looking to obtain a high-resolution optical snapshot using visible light imaging to achieve clear optical imagery of this area on the day after tomorrow, around mid-day.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the task is to be completed and delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This provides a more specific timeframe within the day when the data capture should ideally occur.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This precise wording will be used to define the time of day in the final request.
+
+d) I must confirm that the deadline is not being shifted to another part of the day. The original metadata specifies "in the morning" as the diurnal period for the target day, which is "tomorrow." Therefore, the operational deadline remains fixed within this specified timeframe and will not be altered to a different time.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low priority importance request with a flexible schedule for opportunistic capture. The task involves monitoring an area near Norte, focusing on thermal mapping to capture a surface temperature profile or detect thermal anomalies. This non-essential background filler task can be dropped or rescheduled at convenience and is part of a routine background survey. Please deliver the data products by tomorrow morning, adhering to the specified deadline.
