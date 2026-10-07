@@ -1,0 +1,12 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string that matches {morning, mid-day, afternoon, evening, overnight} is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context specified in our request, we aim for a tasking requiring "overnight" observations over "tomorrow" in the territory of Indonesia's Ecuatorial region. With a priority level set at low importance (Priority 1), we are engaging in a "non-essential background filler task" which carries a "flexible schedule" and is positioned as a "background survey". The operational focus will be on collecting "multispectral vegetation analysis" using our VNIR sensor. This mission's intent is to conduct an assessment of chlorophyll absorption levels or calculate the Vegetation Normalized Difference Index (NDVI) in this area, serving to identify and document surface reflectance properties.
+
+This specific data acquisition will be conducted under conditions that represent "true darkness", aligning with our mission's time constraint for "overnight" operations, as stipulated by the JSON metadata. The task is to capture high-resolution optical snapshots providing "daylight photography" or "clear optical imagery" to ensure comprehensive coverage and detail in our observations. This data collection serves a critical role in understanding environmental changes without interference from atmospheric conditions or time-sensitive phenomena, ensuring that we are capturing the essence of this specific location during its most still and serene state overnight tomorrow.

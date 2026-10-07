@@ -1,0 +1,13 @@
+STAGE 1 - REASONING:
+
+a) The exact string contained in 'target_day' is "tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day".
+
+d) No, I am not shifting or altering the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational context provided by our Earth-observation mission metadata, our request involves capturing thermal mapping data using the TIR sensor in Colombia, specifically within and around mid-day on tomorrow's date. This data collection is classified as having a medium level of importance for our operations, signifying that this task requires standard operational attention but operates on a baseline pipeline tracking schedule with fixed parameters. It's a standard part of our regular monitoring routine with no urgent deadline pressures; rather, the task is to execute this thermal mapping operation at mid-day tomorrow without any alteration or change in time to ensure accurate heat signature and surface temperature profile capture. This mission allocation involves employing advanced technology for surface imaging without cloud interference as required by our priority level designation.
