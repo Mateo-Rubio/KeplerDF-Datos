@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for the data product delivery relative to the current time.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the observation should ideally take place.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight".
+
+d) To ensure accuracy, we confirm that the deadline is not being shifted. The task requires data delivery "in three days" specifically during the "overnight" period, maintaining the strict operational deadline without any alteration to the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an observation over Sintang, Indonesia using a near-infrared sensor for water body boundary mapping and soil moisture assessment. Given its low priority importance, this task carries a flexible schedule for opportunistic capture. Please consider this as a non-essential background filler task that can be dropped or rescheduled at your convenience. The data product delivery is expected in three days during the overnight period, treating it as a background survey or testbed tracking task.
