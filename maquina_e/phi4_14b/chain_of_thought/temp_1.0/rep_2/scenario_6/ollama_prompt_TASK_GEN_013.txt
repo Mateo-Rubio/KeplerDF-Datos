@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To effectively craft a natural and detailed request for the satellite tasking, let's analyze the JSON metadata provided:
+
+a) The 'target_day' key indicates "today". This explicitly sets our deadline within the current calendar day.
+
+b) The 'target_diurnal_period' is defined as "in the evening". This specifies that our operations need to focus on the evening time frame of the current day.
+
+c) Analyzing the phrase "in the evening", we can identify the word "evening" from the set {morning, mid-day, afternoon, evening, overnight}. This will be a critical component in describing the timing for our request accurately.
+
+d) It is crucial to respect the deadline as provided without attempting to shift or reinterpret it. The instruction specifies that this deadline should not be altered to an adjacent time of day, ensuring that the task execution aligns strictly with the defined period of "in the evening" on "today".
+
+**STAGE 2 - FINAL REQUEST**
+
+I am issuing an absolute institutional priority request for a mission focused on Tocaima, Colombia. This is a critical payload capture involving multispectral vegetation analysis using VNIR sensors. We are required to conduct a chlorophyll absorption level assessment or calculate the NDVI index with surface reflectance today, specifically in the evening. Given the high importance of this directive, it is vital that this task receives immediate attention and be executed as an un-preemptable mission lock with urgent operational execution. The success of this operation is a binding contract requirement, necessitating timely and precise delivery to meet our strategic objectives.

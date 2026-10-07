@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific point in time when the task should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should occur, specifically during the night.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word will be used verbatim in the final request to describe when the task should be executed.
+
+d) The deadline for the task is clearly defined as "the day after tomorrow" during the "overnight" period. There is no indication or permission to shift this deadline to any other part of the day, such as morning or afternoon, which confirms that the task must be completed strictly within the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for an active radar scan using microwave surface imaging over the region near Norte. This mission involves a commercial tasking setup with fixed parameters to capture cloud-penetrating data and assess ground geometry. The satellite constellation planner should ensure that this task is scheduled precisely for the day after tomorrow, specifically during the overnight period, in line with our baseline pipeline tracking protocols.

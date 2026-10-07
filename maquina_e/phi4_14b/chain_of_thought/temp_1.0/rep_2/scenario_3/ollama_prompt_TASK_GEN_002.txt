@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates the operational deadline for delivering the data products is within three days from today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the observation should be conducted.
+
+c) The single word contained in that string is "overnight." This term will be used literally in the final request to specify when the observation should occur.
+
+d) I need to ensure that the deadline, "in three days," is not shifted to an adjacent part of the day. The "overnight" period is clearly defined within this timeframe, so there's no alteration or extension of the deadline itself.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority mission requiring critical payload capture over Ghedi, Italy. This task involves a high-priority directive for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate an NDVI index using VNIR sensor capabilities. Given its high importance, this request is treated as a binding contract requirement, necessitating urgent operational execution without preemption. The observation must occur overnight, with the data products delivered "in three days."

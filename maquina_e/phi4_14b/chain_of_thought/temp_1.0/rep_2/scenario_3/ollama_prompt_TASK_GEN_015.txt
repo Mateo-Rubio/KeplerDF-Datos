@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The target day specified in the JSON metadata is "the day after tomorrow." This phrase provides a clear and specific temporal deadline for when the mission's data products are expected to be delivered. It does not require any conversion or interpretation into another time unit, ensuring that the timeline remains fixed as per the operational requirements.
+
+In terms of diurnal timing, the key 'target_diurnal_period' contains the string "in the morning." This indicates that the desired observation period for this mission is early in the day, providing optimal lighting conditions for certain types of imaging, particularly those involving daylight visibility.
+
+Upon reviewing the list of time periods—morning, mid-day, afternoon, evening, and overnight—it's evident that the word "morning" is literally contained within the string "in the morning." This is crucial as it directly informs the specific window during which the data capture should occur, aligning with the operational objective of capturing high-resolution optical imagery when natural light conditions are favorable.
+
+Lastly, it is important to adhere strictly to the parameters provided in the JSON metadata. There is no indication or permission to adjust or shift the deadline from "the day after tomorrow, in the morning" to any other part of the day or time frame. The mission plan must ensure that data delivery aligns precisely with these set conditions to meet the urgent and non-negotiable nature of this high-priority task.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority request for an observation over Indonesia, specifically targeting the city of Ecuatorial, where we need a critical payload capture utilizing a high-resolution optical snapshot. This is part of a binding contract requirement involving a mandatory directive to acquire clear optical imagery with true-color visual documentation. Given the importance of this task, it is imperative that this urgent operational execution follows through with an un-preemptable mission lock. The data products must be delivered on the day after tomorrow, in the morning, to meet the strict deadline set forth for this high-importance assignment.

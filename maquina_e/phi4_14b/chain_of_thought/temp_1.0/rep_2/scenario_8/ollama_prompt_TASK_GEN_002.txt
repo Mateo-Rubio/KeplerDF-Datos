@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves translating raw JSON metadata into a natural language request for an Earth-observation mission. The metadata provides details about the mission's primary sensor, location, priority level, and timing.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase directly indicates when the data capture is intended to occur, emphasizing its role as a deadline rather than a specific orbital window.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should take place, crucial for aligning with the sensor's capabilities and mission objectives.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word must appear literally in the final request to accurately convey the timing of the mission.
+
+d) It is essential to confirm that there is no intention to shift the deadline to an adjacent part of the day. The requirement is to adhere strictly to the specified time frame, which is "the day after tomorrow" and specifically "in the evening." This ensures compliance with the operational guidelines and the integrity of the mission's objectives.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for a flexible schedule in Gordona, Italy. The mission involves an active radar scan using microwave surface imaging to capture cloud-penetrating imagery or ground geometry in the evening, the day after tomorrow. This is a non-essential background filler task where the operator can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.

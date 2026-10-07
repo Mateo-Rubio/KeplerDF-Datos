@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning", specifying when during the day the data should be captured.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning". This specifies the time of day when the observation should take place.
+
+d) There is no indication or instruction to shift the deadline to any other part of the day. The specified "in the morning" timeframe remains unchanged and should be adhered to as the precise timing for capturing the data.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a critical payload capture over the region known as Norte, which is a city with no additional country or landmark details available. This task involves using multispectral vegetation analysis through VNIR sensors to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. The data must be captured in three days, specifically in the morning, adhering strictly to this deadline as it represents a mandatory directive for urgent operational execution. This mission lock is non-negotiable and should remain un-preemptable throughout its execution.
