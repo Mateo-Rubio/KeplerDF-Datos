@@ -1,0 +1,25 @@
+Translate the raw physical simulation metadata provided in JSON format below into a single, highly realistic, and conversational English request. To maximize the naturalness and validation accuracy of the dataset, interpret the metadata organically according to these operational guidelines.
+
+1. GEOGRAPHIC CONTEXT (Interpret keys 'region_name' and nested 'location_details'):
+   - Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+   - If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For this task, we are focusing on a region called Indonesia. Within this region, our target location is Ecuatorial.
+
+2. MISSION ALLOCATION PRIORITY (Interpret key 'priority_level'):
+   - Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is.
+   - To reflect this structural hierarchy, we will use an opportunistic tone for a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+This task has a low priority importance. We are looking to capture multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance in Indonesia, specifically in Ecuatorial.
+
+3. SENSORS AND PHYSICAL OBJECTIVES (Interpret key 'primary_sensor'):
+   - Naturally weave the following operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+     * VNIR -> Explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+
+This task involves capturing a high-resolution multispectral image of Indonesia's Ecuatorial region using the VNIR sensor, which will allow us to assess the chlorophyll absorption level and calculate the vegetation NDVI index and surface reflectance.
+
+4. DELIVERY DEADLINE:
+   - Insert this phrase VERBATIM into your request, as the stated upper limit for data availability.
+   - Do NOT output raw UTC timestamps, digits, or countdown metrics.
+
+We require this task to be completed by tomorrow overnight.
