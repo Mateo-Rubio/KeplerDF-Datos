@@ -1,0 +1,15 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in the string for 'target_diurnal_period' is "evening".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline remains as specified by the mission allocation priority.
+
+The "tomorrow" in 'target_day' and the word "evening" in 'target_diurnal_period' will be incorporated directly into the final request.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a routine monitoring tasking to be performed on a standard operational day, utilizing multispectral vegetation analysis. Specifically, we need a near-infrared reflection mission over Colombia in the city of Lebrija for an opportunistic capture, ideally done tomorrow in the evening, as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The purpose of this tasking is to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance...

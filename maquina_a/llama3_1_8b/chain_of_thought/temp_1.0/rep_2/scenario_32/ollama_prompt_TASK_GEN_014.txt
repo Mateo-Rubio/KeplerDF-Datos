@@ -1,0 +1,9 @@
+I'll work through the four questions for Stage 1.
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". However, I notice that this word actually corresponds to the temporal parameter 'target_diurnal_period'. Upon closer inspection of the other options, I see that 'morning', 'mid-day', 'afternoon', and 'evening' don't match with 'overnight'. Instead, 'target_day' contains a more general term. A suitable single word from the given options is "days". 
+
+d) To confirm, I have not shifted the deadline to an adjacent part of the day.

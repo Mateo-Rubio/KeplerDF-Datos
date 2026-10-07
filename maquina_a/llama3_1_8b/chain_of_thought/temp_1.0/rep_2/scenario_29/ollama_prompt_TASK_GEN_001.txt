@@ -1,0 +1,9 @@
+Let's break down the JSON metadata according to the provided guidelines.
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) We are not shifting the deadline to an adjacent part of the day, as the request specifies a morning capture on a specific day in the future.
