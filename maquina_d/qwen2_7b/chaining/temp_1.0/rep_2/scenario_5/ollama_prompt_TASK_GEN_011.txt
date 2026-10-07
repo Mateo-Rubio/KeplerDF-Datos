@@ -1,0 +1,22 @@
+Operating an Earth-observation mission, I request to translate raw physical simulation metadata into a highly realistic and conversational English task request for our automated satellite constellation planner. Our objective is to deliver natural and valid data that maximizes realism by interpreting the JSON structure organically under set guidelines.
+
+Geographically, we focus on the context provided by 'region_name' and nested 'location_details', avoiding raw technical tags or arrays. With 'country' Italia and 'city' Norte available, our description combines these elements, presenting a realistic yet graceful blend of location specifics. If country, city, or landmark are missing, we use 'region_name' for location description, maintaining natural language while preserving the essence of geographical context.
+
+Mission allocation priority, encapsulated in 'priority_level', dictates the tone and operational urgency of our request. At Priority 2 (Medium Importance), we adopt a professional, direct approach, framing this task as part of our standard operational tasks or routine monitoring within our baseline pipeline tracking. Fixed parameters represent normal operational status with a standard workflow update at hand.
+
+Sensors and physical objectives from 'primary_sensor' are interpreted naturally in our request to clearly explain the task's purpose. For VIS, we aim for high-resolution optical snapshots essential for daylight photography, true-color visual documentation, or clear optical imagery. SAR tasks involve active radar scans using microwave surface imaging to penetrate cloud cover or capture ground geometry. TIR captures thermal mapping to detect heat signatures, surface temperature profiles, or thermal anomalies. VNIR objectives assess vegetation absorption levels, calculate NDVI indices, or analyze surface reflectance. Finally, NIR missions focus on near-infrared reflection for water body boundary mapping or soil moisture assessment.
+
+As for the deadline, "tomorrow in the morning" has been set as an upper limit for data availability by an upstream module. This phrase is inserted verbatim into our request, adhering to the guidelines provided.
+
+With all these elements combined and interpreted according to our guidelines, our request to the satellite constellation planner is formulated as follows:
+
+To the automated satellite constellation planner,
+We are scheduling a mid-importance task that involves capturing detailed imagery through our near-infrared (NIR) sensor on target day tomorrow in the morning. Geographically, this task is set in Italia, with a focus on Norte for its unique landscape requirements.
+
+Operating within our baseline pipeline tracking, we will collect standard operational tasks encompassing fixed parameters representing normal conditions. Our primary objective involves capturing water body boundaries and assessing soil moisture levels for critical environmental monitoring purposes.
+
+Given the specified timeframe of tomorrow morning, we assure timely delivery, adhering to established deadlines without rephrasing or abbreviations that could disrupt the flow or accuracy of our request.
+
+Your satellite constellation will play a pivotal role in collecting and delivering the data essential for this task. We are looking forward to your cooperation and expertise in executing this mission successfully.
+
+Thank you for your attention and understanding.
