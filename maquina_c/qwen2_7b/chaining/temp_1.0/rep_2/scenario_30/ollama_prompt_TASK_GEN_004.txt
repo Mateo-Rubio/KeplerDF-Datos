@@ -1,0 +1,13 @@
+Prompt: High Importance Task - Critical Payload Capture Urgent and Mandatory Directive
+
+Translate and interpret the provided JSON metadata into a single request. The Earth-observation mission aims to capture a high-resolution optical snapshot overnight within Colombia's beautiful city of Uribe, using an active radar scan with microwave surface imaging capabilities for cloud-penetrating capture, enhancing ground geometry observation under heavy weather conditions. This task involves a critical payload capture, representing an essential requirement with a mandatory directive involved. This binding contract necessitates an urgent operational execution and an un-preemptable mission lock.
+
+Please be aware of the deadline: "in three days overnight" as stipulated by the upstream module. Please ensure data availability adheres to this specific time frame without any rephrasing or alterations, as it sets the upper limit for data availability.
+
+The task does not require any raw technical system tags or coordinate arrays. Instead, focus on describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details', while ignoring "N/A" values gracefully. Avoid mentioning raw priority numbers or technical priority levels in the request.
+
+Given the priority level is 1 (Low Importance), this request is a low priority importance task with a flexible schedule for opportunistic capture, classified as a background survey or testbed tracking task. Please note that this should be treated as a non-essential background filler task and can be dropped or rescheduled at convenience, implying a standard workflow update within normal operational status.
+
+Let's proceed with the data capture using the designated sensor (SAR) for microwave surface imaging, focusing on capturing an accurate thermal map and mapping heat emissions.
+
+Let's ensure that the request captures all specified elements naturally, avoiding technical jargon, and adheres to the guidelines set forth. We'll be providing a highly realistic and conversational English request based on the provided JSON data.

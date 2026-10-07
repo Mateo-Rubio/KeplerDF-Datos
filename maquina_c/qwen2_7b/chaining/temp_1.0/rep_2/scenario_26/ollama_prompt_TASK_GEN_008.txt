@@ -1,0 +1,15 @@
+Translate the raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines provide context to interpret the JSON data naturally:
+
+**GEOGRAPHIC CONTEXT**: Describe the location using realistic geographical features. In this case, the 'country' is "Italia", and the 'city' is "Pontagna". With no specific landmark mentioned, we'll combine these elements to articulate our request.
+
+**MISSION ALLOCATION PRIORITY**: As the 'priority_level' stands at 1, classify this task as a low priority importance request, with flexible scheduling for opportunistic capture. This translates to a "low priority importance" task with a "flexible schedule", potentially fitting into an "opportunistic background survey" or "background tracking" role.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Given the 'primary_sensor' is "VIS", our objective is to obtain a "high-resolution optical snapshot" for "daylight photography". The goal is a "true-color visual documentation" capturing the environment at its most visible state, suitable for a variety of monitoring and documentation needs.
+
+**DELIVERY DEADLINE**: The deadline for this task has already been set as "in four days overnight". This serves as a clear upper limit on data availability, informing our operators that this task must be addressed within this timeframe.
+
+Incorporating these insights:
+
+Translate the raw physical simulation metadata into an engaging request:
+
+At dawn of our fourth day, request the satellite constellation to capture a high-resolution optical snapshot over "Pontagna" in "Italia". Our goal is to obtain true-color visual documentation that illuminates the landscape beautifully under natural light. This "opportunistic background survey" serves as a flexible schedule, allowing for opportunistic capture or rescheduling at our convenience. Please focus on the unique features of this cityscape during our specified overnight timeframe four days hence. This task has been allocated with low priority importance, but ensure it adheres to normal operational status standards until resolved.
