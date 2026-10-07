@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is: "in four days".
+
+b) The exact string in 'target_diurnal_period' is: "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is: overnight.
+
+d) Confirming that the deadline is not being shifted to an adjacent part of the day, as "overnight" explicitly specifies a specific time period, and there are no indications of adjusting the deadline to, for example, the following morning. The temporal parameters represent a strict operational deadline to deliver the data products, NOT the orbital capture window.

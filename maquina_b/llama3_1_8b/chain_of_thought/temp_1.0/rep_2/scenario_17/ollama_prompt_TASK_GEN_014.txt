@@ -1,0 +1,12 @@
+STAGE 1 - REASONING
+
+The target day is 'today'. This exact string should be used verbatim in the final request.
+
+The target diurnal period is 'overnight'. This exact string should also be used verbatim in the final request.
+
+Upon examination of the diurnal periods, I find that the word "overnight" is contained within this string.
+
+The deadline represented by 'target_day' and 'target_diurnal_period' is not being shifted to an adjacent part of the day. The 'target_day' is set to 'today', implying an operational request for same-day execution or as close as possible, while the 'target_diurnal_period' is set to 'overnight', specifying a nighttime or late-evening operational window without extending or altering the deadline's timing.
+
+STAGE 2 - FINAL REQUEST
+The mission operator requires a low-priority importance task with a flexible schedule for opportunistic NIR capture overnight. This request serves as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey. The objective is to capture a near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients during tonight's imaging window.

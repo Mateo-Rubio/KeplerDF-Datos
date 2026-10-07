@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string in 'target_diurnal_period' is "overnight". This word must appear literally in the final request.
+
+d) I confirm that the deadline, represented by 'target_day', is not being shifted to an adjacent part of the day. The request will reflect the original deadline as specified in the JSON metadata.
+
+STAGE 2 - FINAL REQUEST
+
+...This task constitutes a low priority importance request for opportunistic capture, with a flexible schedule, treating it as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience. This task will be performed as a background survey or testbed tracking task overnight, specifically the day after tomorrow. The primary objective is thermal mapping to capture a heat signature and surface temperature profile, for thermal anomaly detection and mapping heat emissions, using our thermal infrared (TIR) sensor capabilities.
