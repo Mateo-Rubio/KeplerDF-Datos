@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow". This specifies the intended day for capturing satellite data relative to the current day.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This provides a specific time frame within the designated day for when the data collection should take place.
+
+c) The word contained in the 'target_diurnal_period' string that matches the list {morning, mid-day, afternoon, evening, overnight} is "afternoon". This term will be used directly in the final request to maintain clarity regarding the timing of the operation.
+
+d) It is essential to confirm that the deadline for delivering the data products is not being shifted. The request must adhere to the specified timeframe, with data collection occurring tomorrow during the afternoon. There will be no adjustments or reinterpretations that would move this deadline to any other part of the day, ensuring adherence to the critical context.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a professional and direct request for satellite tasking focusing on the city of Norte in Italy. This operation involves a standard operational tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The mission is to conduct an active radar scan using microwave surface imaging for cloud-penetrating capture, enabling us to capture ground geometry. This operation is scheduled for tomorrow during the afternoon, in line with our routine monitoring protocols and standard workflow update.

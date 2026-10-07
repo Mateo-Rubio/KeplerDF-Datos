@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provided includes specific parameters that will guide how I craft the request for the satellite tasking. Let's break down the critical elements step-by-step to ensure clarity and alignment with operational guidelines.
+
+First, examining the 'target_day' key, it indicates a precise timing directive. The value given here is "the day after tomorrow." This phrase precisely describes when the observation should be scheduled, emphasizing the temporal deadline for data delivery rather than the time of satellite acquisition. This means that the imagery or data collection must occur by this specified day.
+
+Next, let's look at the 'target_diurnal_period.' The value provided here is "in the evening." This specifies when during the chosen day the operation should take place. The word "evening" explicitly states that the task should occur post-daylight, suggesting activities like capturing images or data at dusk. Understanding this timing is critical as it affects the nature of thermal imaging and its applications.
+
+Given the 'target_diurnal_period' value contains "in the evening," we identify "evening" as the specific diurnal period for scheduling the operation. This word will need to be directly incorporated into our final request to maintain the integrity of the operational timeline.
+
+To confirm adherence to the deadline, it is crucial not to shift or reinterpret this timing to an adjacent part of the day, such as "afternoon" or "night." We must respect the directive that the operation should occur in the evening on "the day after tomorrow," which ensures precise alignment with operational expectations and deadlines.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a satellite tasking for a low priority importance observation using thermal mapping technology. The goal is to capture the heat signature of Radicondoli, Italy, focusing specifically on identifying any thermal anomalies in this quaint town. Given the flexible schedule of this task, I am open to having it drop or reschedule at convenience, making it suitable as a non-essential background filler task. Please plan for this operation to occur the day after tomorrow in the evening. Thank you for accommodating this request within your workflow.

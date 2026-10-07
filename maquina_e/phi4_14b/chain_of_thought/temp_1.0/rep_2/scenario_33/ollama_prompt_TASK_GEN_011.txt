@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The JSON data provided describes a mission request targeting an area in Italy, specifically the city of Tesino, with a certain level of priority and sensor type. Let's break down each requirement to translate this into a natural request:
+
+a) The 'target_day' specified in the JSON is "the day after tomorrow". This exact phrase will be used verbatim in the final request to specify when the data capture should occur.
+
+b) The 'target_diurnal_period' mentioned is "around mid-day". Again, this exact phrase will be used directly in the request to indicate the time of the satellite capture.
+
+c) From the list provided, the word that matches and must appear literally in the final request is "mid-day". This is the specific time period indicated by the JSON data for when the capture should take place.
+
+d) It is important to confirm that we are not altering the original deadline specified in the JSON. The deadline has been clearly set as "the day after tomorrow" during mid-day. There is no indication or need to shift this deadline to any other part of the day, such as morning, afternoon, evening, or overnight. We will adhere strictly to this timeframe to ensure accuracy and compliance with the mission's requirements.
+
+### Stage 2 - Final Request
+
+We are requesting a low-priority importance mission for an opportunistic capture over Tesino, Italy, on the day after tomorrow around mid-day. This task involves using SAR technology to perform an active radar scan with microwave surface imaging, allowing for cloud-penetrating capture that will provide detailed ground geometry even in heavy weather conditions. Given its classification as a low priority importance request, we emphasize that this is a flexible schedule activity, labeled as a non-essential background filler task. Operators are encouraged to drop or reschedule at their convenience if necessary. This mission can serve as a background survey or testbed tracking task, contributing to our broader operational insights without necessitating an urgent operational execution or immediate resource allocation.

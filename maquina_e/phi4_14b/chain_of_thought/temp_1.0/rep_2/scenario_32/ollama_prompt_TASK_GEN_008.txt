@@ -1,0 +1,19 @@
+**STAGE 1 - REASONING**
+
+The task involves analyzing a set of parameters to generate a natural English request for satellite imaging. Let's address each part of the reasoning process.
+
+a) The string in 'target_day' is "tomorrow." This indicates when the data needs to be captured, specifically not today or any later date.
+
+b) The string in 'target_diurnal_period' is "in the evening." This clarifies when during the day the task should ideally occur. 
+
+c) From the phrase "in the evening," the word "evening" clearly aligns with one of the provided options: {morning, mid-day, afternoon, evening, overnight}. The word "evening" is therefore identified for inclusion in our final request.
+
+d) It's important to note that the specified "evening" timeframe should not be shifted to any other part of the day. We must adhere strictly to capturing the data specifically in the evening as stipulated, without extending or adjusting the window to morning, mid-day, afternoon, or overnight. The requirement is for an exact operational deadline within these parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have determined that the request involves capturing data over a region in Northern Italy using active radar scanning technology. Given its low importance designation, we can approach the task with flexibility and an opportunistic scheduling mindset. This means considering it as a "low priority importance" task that can be scheduled flexibly, allowing for adjustments or rescheduling at convenience. The task is to perform a "cloud-penetrating capture" utilizing "microwave surface imaging," which is well-suited for piercing through inclement weather or capturing ground geometry details.
+
+Given these considerations and the identified temporal constraints, here is the operational request:
+
+We are seeking an opportunistic satellite scan over Northern Italy using active radar technology to capture microwave surface imaging. This mission holds low priority importance and has a flexible schedule, allowing us to drop or reschedule at convenience as necessary. We aim to perform this task tomorrow in the evening, providing data that will contribute to background surveys and testbed tracking tasks.

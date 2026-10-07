@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days." This indicates the time frame within which the data products are expected to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the part of the day when the satellite imagery should be captured.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon." This word must appear in the final request to accurately reflect the desired time for data capture.
+
+d) I need to ensure that the deadline is not shifted to an adjacent part of the day. The specified diurnal period is clearly stated as "during the afternoon," and there is no indication or requirement to adjust this timeframe to another period such as morning, mid-day, evening, or overnight. The request must adhere strictly to capturing data in the afternoon as planned.
+
+### STAGE 2 - FINAL REQUEST
+
+I have a low-priority importance task regarding soil moisture assessment over La Chapa, Colombia. We're looking for near-infrared reflection data to help with our flexible schedule for opportunistic capture. This non-essential background filler task should be considered for dropping or rescheduling at convenience. Ideally, we'd like this done in three days during the afternoon to ensure we get a useful background survey.
