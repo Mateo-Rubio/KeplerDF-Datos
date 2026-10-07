@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my aim is to convert this raw physical simulation metadata into a single, highly realistic and conversational English request. Our objective hinges on translating the given JSON parameters into an instruction that maximizes naturalness and validation accuracy.
+
+The context of our mission revolves around 'Colombia', specifically the city of 'La Cumbre'. Given the specifics, it's clear that we're to embark upon an exploration involving a region named 'La Cumbre', encapsulating its essence through the combined 'country' and 'city' parameters.
+
+Navigating through the intricacies of 'priority_level', we observe 'Priority 2'. This should be understood as a standard operational tasking requiring diligent attention without infringing on higher-priority missions. Our request is to be regarded as a part of the baseline pipeline tracking setup with fixed parameters, marking an aspect of normal operational status or serving as an update in the workflow.
+
+In regards to the 'primary_sensor' set to 'SAR', our mission's focus is an active radar scan employing microwave surface imaging techniques. This will serve to capture cloud-penetrating data and delve into the ground geometry, offering us invaluable insights through this advanced technology.
+
+The task encompasses observing this specific area during the 'target_day' which has been resolved as 'in four days', with the 'target_diurnal_period' scheduled around mid-day for optimal conditions. This precise deadline is to be directly referenced in our request, 'in four days around mid-day', as per the instruction given.
+
+Conclusively, as an Earth-observation mission operator, our task is to encapsulate all this into a single request that effectively conveys the operational intent, geographical context, priority status, and physical objectives while adhering to the guidelines for creating highly natural and realistic instructions. The final output would ensure that all these elements are communicated with maximum clarity and contextual understanding, laying the groundwork for an accurate and efficient satellite mission.

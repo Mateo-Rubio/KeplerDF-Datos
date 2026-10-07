@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I request that our automated satellite constellation planner provides a highly realistic and conversational English request for the translated raw physical simulation metadata provided in JSON format. Our objective is to interpret this data organically according to specific operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: We describe the location using realistic combinations of country, city, and landmark fields from 'location_details', omitting raw technical system tags, underscores, or coordinate arrays. If any are "N/A", we gracefully ignore them and use remaining valid fields or a clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Priority 2 requests should be conveyed in a professional and standard operational tone. The language must emphasize normal operational status or a baseline pipeline tracking setup with fixed parameters representing routine monitoring.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: For the VIS sensor, our request involves capturing high-resolution optical imagery through daylight photography or clear visual documentation of terrain details. SAR tasks entail active radar scans using microwave surface imaging to pierce cloud cover or detect ground geometry. TIR tasks aim for thermal mapping to identify heat signatures or surface temperature profiles, focusing on thermal anomaly detection or heat emission mapping. VNIR and NIR sensors enable us to perform multispectral vegetation analysis by measuring chlorophyll absorption levels or calculating a vegetation NDVI index with a focus on distinguishing soil moisture gradients.
+
+4. DELIVERY DEADLINE: The specified deadline for this task is "in three days in the morning". This phrase must be verbatim in our request, as it provides the upper limit for data availability without any rephrasing, shortening, or movement to a different part of the day.
+
+Our JSON target task context is as follows:
