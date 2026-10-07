@@ -1,0 +1,9 @@
+I'll work through the questions in STAGE 1.
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' field only provides a rough idea of the desired time of day, but it does not alter the deadline specified in 'target_day', which remains a fixed point in time.

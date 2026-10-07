@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning".
+
+d) Upon reviewing the 'target_diurnal_period' value, it's clear that the deadline for delivering the data products is specifically tied to capturing data during the morning period on the target day, which is four days from now. There is no indication that the deadline will be shifted to an adjacent part of the day, such as the late morning or early afternoon.
