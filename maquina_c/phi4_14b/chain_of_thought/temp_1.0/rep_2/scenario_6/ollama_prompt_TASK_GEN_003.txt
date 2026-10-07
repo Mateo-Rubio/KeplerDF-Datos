@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand requires translating metadata into a natural language request while adhering to specified operational guidelines.
+
+a) The string in 'target_day' is "the day after tomorrow." This indicates the deadline for delivering data products, emphasizing a strict timeline without any room for alteration or shifting.
+
+b) The string in 'target_diurnal_period' is "overnight." This specifies the time of day during which the data capture should occur, aligning with the nature of thermal mapping operations that can benefit from nighttime conditions to detect heat anomalies more clearly.
+
+c) From the given options {morning, mid-day, afternoon, evening, overnight}, the word contained in the string 'target_diurnal_period' is "overnight." This will be explicitly mentioned in the final request to ensure clarity about the timing of the data capture.
+
+d) The deadline for this task is specifically set for "the day after tomorrow" during the "overnight" period. It's crucial to adhere to these parameters without any adjustments, as altering them would contradict the operational guidelines provided. Therefore, I will confirm that there is no shift in the deadline to an adjacent part of the day, maintaining strict compliance with the given timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for thermal mapping over the region of Malinau, Indonesia. This task involves capturing a heat signature using our satellite's capabilities for thermal anomaly detection. Given its non-essential background filler status, the schedule is flexible, allowing us to drop or reschedule at convenience. We aim to execute this task the day after tomorrow, with data capture set for overnight. This provides an opportune time to observe and document surface temperature profiles effectively.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This specifies the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This indicates the preferred time of day for the satellite observation.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string is "mid-day". This will be included verbatim in the final request to specify the timing of the data capture.
+
+d) The instructions clearly state that I must not shift or reinterpret the deadline. Therefore, the observation must occur around mid-day as specified, without changing it to another part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a routine monitoring task focused on Sarolangun, Indonesia, utilizing near-infrared reflection capabilities for water body boundary mapping and soil moisture assessment. This is a standard operational tasking that fits into our baseline pipeline tracking setup with fixed parameters. The observation should occur in three days around mid-day, ensuring the data capture aligns with our normal operational status.

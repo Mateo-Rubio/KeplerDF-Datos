@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task request is based on the given metadata that specifies a satellite observation of Serravalle di Chienti in Italy. The parameters are carefully analyzed as follows:
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This indicates the specific temporal requirement for when the data should be captured, which we must adhere to without altering.
+
+b) For 'target_diurnal_period,' the exact string provided is "in the morning." This specifies the time of day when the observation should take place. It's crucial to maintain this timing as specified.
+
+c) The word that needs to be contained literally in the final request from the options {morning, mid-day, afternoon, evening, overnight} is "morning," as it is explicitly mentioned in 'target_diurnal_period.'
+
+d) Importantly, we confirm that there is no intention to shift or reinterpret the deadline to any other part of the day. The deadline explicitly specifies "the day after tomorrow, in the morning," and this must be precisely followed.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible scheduling request focusing on Serravalle di Chienti in Italy. This task is considered a low-priority importance mission with an emphasis on thermal mapping to capture a heat signature or surface temperature profile. We're looking to leverage the capabilities of thermal infrared sensors for detecting thermal anomalies and mapping heat emissions. The timeline is set as follows: we aim to complete this operation the day after tomorrow, specifically in the morning. Given its low priority nature, please feel free to drop or reschedule this task at your convenience if it conflicts with other more critical tasks. This request serves as a non-essential background filler, suitable for opportunistic capture, within the broader context of our monitoring objectives.

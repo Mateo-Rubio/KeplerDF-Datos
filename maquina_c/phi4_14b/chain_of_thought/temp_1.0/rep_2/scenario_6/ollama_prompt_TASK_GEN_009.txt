@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The metadata provided for this task contains several critical pieces of information that help us formulate a natural and realistic operational request.
+
+a) The 'target_day' field specifies when the data is needed. In this case, the exact string given is "tomorrow."
+
+b) For the 'target_diurnal_period,' we need to identify the specific time of day when the task should be completed. The string provided here is "in the evening."
+
+c) Out of the possible options for diurnal periods—morning, mid-day, afternoon, evening, and overnight—the word that appears in the 'target_diurnal_period' string is "evening." This word will be used verbatim in our final request.
+
+d) It is important to confirm that we are adhering strictly to the given temporal parameters without shifting them. The deadline is set for "tomorrow" during the "evening," and we must respect this timing precisely without any adjustments to a different part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request focusing on capturing multispectral vegetation analysis in Indonesia, specifically around Ecuatorial. We aim to assess chlorophyll absorption levels and calculate an NDVI index, making use of near-infrared reflection techniques for effective surface reflectance studies. Given its flexible nature, this task has been scheduled for a time when it will not disrupt more critical operations. We would appreciate it if the satellite capture could be arranged for tomorrow in the evening, ensuring we make the most of this opportune timing to complete the background survey and testbed tracking task at your convenience.

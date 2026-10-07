@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves an Earth-observation mission with a specific set of parameters provided in JSON format. To create a natural and conversational request for the satellite constellation planner, we must interpret these parameters based on given operational guidelines.
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates the deadline by which the task must be completed.
+
+b) The exact string present in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the satellite should capture the data.
+
+c) Within the 'target_diurnal_period' string, the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally is "mid-day". This will be used directly in the final request to specify the timing of the data capture.
+
+d) We need to ensure that we are not shifting the deadline. The deadline for capturing the data is explicitly stated as "around mid-day tomorrow". There is no instruction or indication to change this timeframe, so we must adhere to this strict operational deadline and not adjust it to any other part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We are seeking a flexible schedule for an opportunistic capture of data using near-infrared reflection capabilities, aiming to perform soil moisture assessment over the region known as Norte. This low priority importance request is considered a non-essential background filler task and should be treated as such by the mission operators, who have been advised to drop or reschedule it at their convenience if necessary. The operation involves capturing data tomorrow around mid-day, without any constraints that would preclude shifting this task if required by other operational priorities. This task represents a background survey and could serve as a testbed tracking task within the broader mission portfolio.

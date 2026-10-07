@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the deadline for when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the task should be executed.
+
+c) The single word contained in "in the evening" that matches the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word must appear literally in the final request to accurately reflect the timing specified.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be executed "tomorrow" and specifically "in the evening", adhering strictly to these temporal parameters without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a critical operational execution scheduled for tomorrow in Italy, focusing on the city of Crespino. This mission is an absolute institutional priority involving a binding contract requirement for thermal mapping to capture a surface temperature profile or detect thermal anomalies. Given its high importance, it is imperative that this task is executed without preemption and locked into the schedule. The data acquisition should occur in the evening, ensuring we meet the strict operational deadline. This task involves capturing thermal emissions, which are crucial for our objectives, and must be completed as outlined to maintain compliance with our operational commitments.

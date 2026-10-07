@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "today". This directly indicates the urgency and immediacy of the request.
+
+b) The string contained in 'target_diurnal_period' is "in the evening". This specifies when during the day the task should be executed, aligning with natural light conditions favorable for VNIR imaging.
+
+c) Out of the options provided {morning, mid-day, afternoon, evening, overnight}, the word "evening" is contained in the 'target_diurnal_period' string. This will be used to describe the time when the satellite imagery is needed, ensuring the request captures the correct lighting conditions for the task.
+
+d) It is crucial not to shift the deadline to any other part of the day. The given parameters specify that the imagery must be captured "today" and "in the evening". This maintains the integrity of the request by adhering strictly to the specified timing, ensuring the data meets the necessary operational requirements without delay or alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority and a binding contract requirement for a critical payload capture in Tocaima, Colombia. We urgently require high-resolution VNIR multispectral vegetation analysis today, with an active focus on assessing chlorophyll absorption levels in the evening. This mission lock demands an un-preemptable mission execution to ensure timely delivery of these vital environmental data products, fulfilling our urgent operational obligations.
