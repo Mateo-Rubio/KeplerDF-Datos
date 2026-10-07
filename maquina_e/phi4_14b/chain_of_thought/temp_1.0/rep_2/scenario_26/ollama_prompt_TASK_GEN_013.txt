@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "in four days". This denotes the specific timeframe by which the data product needs to be delivered.
+
+b) The string in 'target_diurnal_period' is "overnight". This indicates the time period during which the observation should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string for 'target_diurnal_period' is "overnight". This word explicitly describes the diurnal period for the task and must be used verbatim in the final request.
+
+d) The instruction emphasizes that the deadline is not to be shifted to another part of the day. Thus, the temporal parameter "overnight" must remain as specified without any adjustment, ensuring the mission captures data precisely during this timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We are submitting a low-priority importance request for an opportunistic capture over Betulia, Colombia, using multispectral vegetation analysis to assess chlorophyll absorption levels. This task is not time-sensitive and may be flexibly scheduled or rescheduled at convenience, serving as a background survey or testbed tracking task. We would appreciate if the data products could be delivered by "in four days" specifically during the "overnight" period.

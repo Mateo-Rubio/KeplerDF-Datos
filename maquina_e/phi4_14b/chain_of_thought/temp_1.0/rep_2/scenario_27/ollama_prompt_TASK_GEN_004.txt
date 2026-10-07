@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This specifies the deadline for delivering the data products, indicating that the task needs to be completed within this time frame.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This provides a specific time of day when the observation should occur, focusing on capturing data when sunlight is optimal for visibility.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the specified options is "mid-day." This term indicates the precise time during the day when the satellite should perform its task to ensure the best possible conditions for the sensor's operation.
+
+d) The task does not involve shifting the deadline to an adjacent part of the day. The specified "target_diurnal_period" is explicitly "around mid-day," and this timing must be adhered to without alteration to ensure the data's accuracy and relevance.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a standard operational tasking request for a high-resolution optical snapshot over La Macarena, Colombia. This observation is part of our baseline pipeline tracking, with fixed parameters ensuring normal operational status. The goal is to capture clear optical imagery during daylight conditions. Please ensure this task is completed in three days, specifically around mid-day, when sunlight will be optimal for the VIS sensor to provide true-color visual documentation.

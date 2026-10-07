@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day". This word must appear literally in the final request.
+
+d) The request specifies a strict operational deadline to deliver the data products and not an orbital capture window. There is no indication or permission to shift the deadline to any adjacent part of the day. Therefore, the mission needs to be captured precisely around mid-day, without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are looking for a non-essential background filler task with a flexible schedule for opportunistic capture over the region around Norte. This is a low priority importance request where the operator can drop or reschedule at convenience, treating it as a background survey or testbed tracking task. The objective is to conduct multispectral vegetation analysis using a multispectral sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. We are targeting this mission to be executed around mid-day in three days. The focus is on capturing clear optical imagery that helps analyze surface reflectance, but it should be noted that the schedule can be adjusted as needed.

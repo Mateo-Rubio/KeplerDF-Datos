@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To transform the given JSON metadata into a natural, conversational request for an Earth-observation mission, we first interpret specific key-value pairs as per the provided guidelines. 
+
+a) The exact string found in the 'target_day' key is "in three days." This indicates a strict deadline for when the observation must be captured.
+
+b) The string contained in 'target_diurnal_period' is "in the evening." This specifies the time of day that the observation should take place.
+
+c) Within the phrase "in the evening," the word "evening" directly corresponds to one of the specified options, specifically "evening." This will be the exact term used in the final request to specify the timing of the task.
+
+d) It's crucial to ensure that we are adhering to the given temporal parameters accurately. There is no intention or requirement to shift the deadline from "in the evening" to any other part of the day. The specification clearly states the deadline for the mission is set for "in three days, in the evening," and we must respect this without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a standard operational tasking request to monitor Puerto López, Colombia. This commercial tasking forms part of our baseline pipeline tracking setup with fixed parameters. The goal is to conduct an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the area's ground geometry. The observation must be completed in three days, specifically in the evening. Thank you for coordinating this routine monitoring mission according to the specified schedule.

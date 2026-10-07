@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The target task context JSON provides specific metadata to guide the translation into a conversational English request for an Earth-observation mission.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the observation needs to be completed and data delivered, emphasizing the urgency but still within a flexible timeframe due to its low priority.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the part of the day during which the observation should occur, ensuring that the timing aligns with optimal conditions for the specified sensor.
+
+c) The single word contained in 'target_diurnal_period' that fits within {morning, mid-day, afternoon, evening, overnight} is "morning." This word will be used directly in the final request to ensure clarity and precision regarding the timing of the observation.
+
+d) It's important to confirm that the deadline is not shifted. The metadata specifies "in the morning" as part of "tomorrow," which sets a clear deadline without any adjustments or shifts to adjacent parts of the day. This ensures that the task aligns with the specified operational parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a flexible, low-priority observation task over Ecuatorial, Indonesia, focusing on capturing high-resolution optical snapshots using daylight photography for true-color visual documentation. While this is not an urgent mission, it’s still important to aim for data collection tomorrow in the morning if conditions allow. Please treat this as a non-essential background filler task, and feel free to drop or reschedule at convenience, making use of any opportune moments to achieve the objective.
