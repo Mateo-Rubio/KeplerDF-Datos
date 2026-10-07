@@ -1,0 +1,19 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating metadata from a JSON format into a conversational English request for an Earth-observation mission operator. The process begins by examining the provided key-value pairs within the JSON object.
+
+a) For 'target_day', the exact string given in the JSON data is "the day after tomorrow." This specific wording indicates the precise deadline for the task's completion. It's important to note that this phrase does not imply any flexibility or approximation of time; rather, it denotes a fixed point on the calendar when the operation must conclude.
+
+b) Moving on to 'target_diurnal_period', the JSON data specifies "overnight." This term is critical as it defines not just when in the day the operation should occur, but also suggests conditions under which the mission is to be conducted. The specificity of this phrase ensures that there is no ambiguity regarding the time frame for the mission's execution.
+
+c) Within the string "overnight," the single word that aligns with our options {morning, mid-day, afternoon, evening, overnight} and must appear in the final request is "overnight." This term is crucial as it directly influences the operational planning and execution strategy, particularly concerning sensor capabilities and the nature of the data to be captured.
+
+d) Confirming the adherence to the deadline without any adjustments is paramount. The instruction not to shift the deadline to an adjacent part of the day reaffirms our commitment to the specified "overnight" period as indicated in the metadata. This adherence ensures that the mission planning remains aligned with the initial request, maintaining the integrity and purpose of the task.
+
+**STAGE 2 - FINAL REQUEST**
+
+In line with the critical institutional priority underscored by our operational guidelines, it is imperative to initiate an urgent operational execution involving a thermal mapping mission over the region known as Norte. This operation, defined as a mandatory directive due to its high importance, necessitates capturing a surface temperature profile or conducting thermal anomaly detection in the specified area. The operation must utilize a sensor capable of providing detailed thermal imagery to accurately map heat emissions across the landscape.
+
+Given the parameters outlined in the task metadata, this mission is locked in as an un-preemptable mission lock, demanding immediate attention and resources to ensure its successful completion. The absolute necessity of acquiring this data for our critical payload capture cannot be overstated, with the operation scheduled for "the day after tomorrow" during the "overnight" period.
+
+This timeframe is non-negotiable, reflecting a strict operational deadline rather than suggesting a window for orbital capture. It is crucial that all preparations are made to align with this schedule, ensuring that the thermal mapping data is acquired precisely within the specified timeframe to meet our binding contract requirements and support our ongoing projects and analyses.

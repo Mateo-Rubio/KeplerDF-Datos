@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates the specific timeframe for when the data products are needed and should not be altered.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies the time of day when the observation is to be made, focusing on capturing daylight images.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "mid-day". This word will be used in the final request to describe the timing of the data capture accurately.
+
+d) It's crucial to adhere strictly to the deadline provided. The data capture must occur "in four days" and specifically "around mid-day". There is no flexibility to shift this timeframe to any other part of the day, such as morning or afternoon, as it would contradict the precise timing requirements outlined in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule for an opportunistic capture over San Pablo, Colombia. This task is considered a low priority importance, allowing for adjustments or rescheduling at your convenience if necessary. It's framed as a non-essential background filler task, where capturing data in "in four days" around "mid-day" would be ideal. The mission involves obtaining high-resolution optical snapshots using visible light imagery to ensure clear optical imagery and true-color visual documentation. This request serves as a background survey or testbed tracking task within our broader operational framework.

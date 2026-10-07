@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data delivery should occur relative to the current day.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day during which the observation needs to be made.
+
+c) The single word contained in 'target_diurnal_period' that matches the options provided is "overnight". This will be used literally in the final request to specify when the data capture should happen.
+
+d) The task specifies an operational deadline of "in three days" with the observation occurring "overnight." There is no indication or permission to shift this deadline to another part of the day. It must be adhered to as specified.
+
+### Stage 2 - Final Request
+
+We need a routine monitoring task executed as part of our baseline pipeline tracking. The mission involves capturing data over Indonesia, specifically in the city of Mulya Bakti. Utilizing near-infrared reflection capabilities is essential for this operation, aimed at water body boundary mapping and soil moisture assessment to better understand environmental gradients. This is a standard operational tasking with fixed parameters reflecting our normal workflow update status. The observation should occur overnight, with data products delivered in three days. Please proceed as scheduled with these requirements in mind.
