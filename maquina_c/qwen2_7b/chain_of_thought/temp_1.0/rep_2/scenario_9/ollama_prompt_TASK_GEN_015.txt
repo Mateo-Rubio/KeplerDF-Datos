@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string from {morning, mid-day, afternoon, evening, overnight} is "overnight". 
+
+d) I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as tomorrow's overnight period.
+
+STAGE 2:
+
+Given the operational constraints and priorities outlined above, we are tasked with capturing a low priority importance observational dataset for Indonesia using a VNIR sensor under the specific conditions that it be acquired overnight, precisely tomorrow. This task is positioned as a non-essential background filler assignment, indicating that it may be scheduled or dropped based on current resource availability or operational convenience. The objective here is to assess chlorophyll absorption levels through a multispectral vegetation analysis with the primary goal of calculating a vegetation NDVI index and documenting surface reflectance. This routine monitoring will contribute to our baseline pipeline tracking efforts without any urgency or precedence over other tasks in our current workflow. Please proceed with capturing these thermal anomalies for accurate mapping of heat emissions, considering this as part of a flexible schedule that supports opportunistic capture opportunities as per our operational guidelines.
