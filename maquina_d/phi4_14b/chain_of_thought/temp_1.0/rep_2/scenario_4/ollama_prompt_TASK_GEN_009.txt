@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The metadata provided offers key insights into structuring a request for satellite imagery:
+
+a) The exact string found in 'target_day' is "in three days." This indicates that the data acquisition must be completed within this specific timeframe.
+
+b) For 'target_diurnal_period,' the exact string is "in the morning." This specifies when during the day the satellite should capture the imagery, focusing on optimal lighting conditions for certain sensors.
+
+c) From the given set {morning, mid-day, afternoon, evening, overnight}, the word contained in the diurnal period string is "morning." This will be included verbatim in the request to indicate the time of day required for the task.
+
+d) It's important to adhere strictly to the specified time without alteration. The request should ensure that the imagery is captured precisely "in the morning" as planned, adhering to the timeline of "in three days" and avoiding any shifts to another part of the day or additional timeframes.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for satellite imagery acquisition focused on Rokan Hilir, Indonesia. The mission involves using a multispectral vegetation analysis sensor to assess the chlorophyll absorption level, crucial for our baseline pipeline tracking setup and routine monitoring operations. This request has fixed parameters representing normal operational status within our workflow update. We need the high-resolution images captured "in three days," specifically "in the morning," to ensure accurate vegetation reflectance and NDVI index assessments. The timing is critical, and adherence to this schedule is necessary for maintaining the integrity of our environmental monitoring program.

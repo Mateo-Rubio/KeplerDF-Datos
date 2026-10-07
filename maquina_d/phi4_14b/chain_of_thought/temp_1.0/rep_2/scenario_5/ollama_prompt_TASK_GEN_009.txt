@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To begin crafting the task request, let's first extract and interpret the relevant information from the provided JSON metadata:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates the specific timeframe by which we need to capture and deliver data.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies when during the day the satellite should conduct the observation.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word "evening" appears verbatim in 'target_diurnal_period'. This will be used directly in the final request to describe the timing of the task.
+
+d) It is crucial to adhere strictly to the given timeframe without altering or shifting the deadline. Therefore, the task must occur precisely on "the day after tomorrow" during the evening, with no adjustments to this schedule.
+
+### STAGE 2 - FINAL REQUEST
+
+I need a low-priority importance request for an opportunistic capture of thermal mapping over Berau, Indonesia. The goal is to create a heat signature profile or conduct thermal anomaly detection in the region. This task should be scheduled flexibly and can be dropped or rescheduled at convenience if necessary, as it's a non-essential background filler task. The satellite observation must be carried out on the day after tomorrow, specifically in the evening, to adhere to the mission's delivery deadline.

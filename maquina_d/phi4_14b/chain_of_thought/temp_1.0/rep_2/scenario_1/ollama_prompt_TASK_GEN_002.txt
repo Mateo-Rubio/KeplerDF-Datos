@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow." This represents when the data product is needed to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This indicates when during the day the observation should ideally take place.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears literally in the string "in the evening" is "evening."
+
+d) To ensure accuracy and adherence to the provided metadata, it's crucial to confirm that I am not shifting the deadline to another part of the day. The phrase "target_diurnal_period" specifically mentions "in the evening," and thus the focus remains strictly on this time period. The 'target_day' is set as "tomorrow," aligning with the deadline without any adjustments. Therefore, the observation and subsequent data delivery are scheduled for "tomorrow in the evening," maintaining precision regarding both temporal aspects.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority and a binding contract requirement. We need a critical payload capture of thermal mapping to detect surface temperature profiles and potential thermal anomalies specifically over Calvi, France. The high-stakes nature of this task necessitates urgent operational execution with an un-preemptable mission lock. The data acquisition must take place using thermal infrared sensors to ensure comprehensive thermal analysis. The capture must occur tomorrow in the evening, with delivery following immediately thereafter, respecting the strict deadline for this high-priority operation.

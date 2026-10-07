@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string present in 'target_day' is "today". This indicates the requirement for data delivery to occur on the current day.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening". This specifies when during the day the data capture needs to take place or be available.
+
+c) The word contained within the string "in the evening" from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This specific word must be used literally in the final request to maintain accuracy in the time frame specified for the operation.
+
+d) It's important to confirm that there is no intention or allowance to shift the deadline to another part of the day. The information provided dictates an unchangeable deadline, with data delivery required "today" and specifically "in the evening". There is no flexibility to alter this timing, ensuring that operations are aligned precisely with these parameters.
+
+### Stage 2 - Final Request
+
+I would like to submit a task request for a low-priority importance mission focusing on a region in Colombia, near Mesetas. This mission involves an opportunistic capture using near-infrared reflection techniques aimed at soil moisture assessment or water body boundary mapping. Given the nature of this task as a non-essential background filler, it comes with a flexible schedule allowing for adjustment or postponement as needed by the operators. The priority of this mission is to fit into an existing workflow update as a testbed tracking task, ensuring it does not disrupt more critical operations. It's crucial that this data capture and delivery occur today, specifically in the evening. This timing is essential for integrating the findings into our broader environmental monitoring efforts with minimal disruption to our operational timeline.

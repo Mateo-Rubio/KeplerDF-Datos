@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves capturing data using a Synthetic Aperture Radar (SAR) sensor over Poggi del Sasso in Italy. Let's break down the requirements:
+
+a) The 'target_day' specified in the JSON is "the day after tomorrow". This indicates a specific deadline for when the satellite must capture the required imagery.
+
+b) The 'target_diurnal_period' is given as "in the morning". This indicates the time of day when the data should be collected.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "morning" is explicitly mentioned in the 'target_diurnal_period'. This time frame must be included in the final request to ensure clarity about when the capture should occur.
+
+d) It's crucial to adhere strictly to the deadline specified without any shifts. The request is for an image capture precisely "in the morning, the day after tomorrow". There is no allowance to adjust this timeframe to another part of the day or day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need to schedule a flexible, low-priority mission to capture data over Poggi del Sasso in Italy using an active radar scan with SAR. This should be an opportunistic capture focused on microwave surface imaging, aiming for cloud-penetrating capture that can pierce through any heavy weather and map ground geometry. The task is not critical, so there's flexibility to drop or reschedule it at convenience if necessary. Please ensure this is done in the morning, the day after tomorrow.
