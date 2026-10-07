@@ -1,0 +1,23 @@
+Translate the Earth-observation task request based on raw physical simulation metadata:
+
+---
+
+Given the request details provided within a JSON file, we aim to translate this into an actionable request using conversational English for an automated satellite constellation planner. Let's begin by outlining the operational context and then proceed with the request itself.
+
+---
+
+**GEOGRAPHIC CONTEXT**: 
+Observations are targeted at the region of Colombia with the specific focus on the city of San Vicente del Caguán, a historically significant location.
+
+**MISSION ALLOCATION PRIORITY**: 
+With this task being tagged under Priority 1, which denotes 'low importance', it carries a casual tone. The operator notes it as "flexible schedule" and emphasizes the request is treated as a 'non-essential background filler task'. It's also mentioned as a 'background survey' or 'testbed tracking task'.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: 
+The primary sensor targeted here is VIS (Visible Imaging System), with its key operational objective to capture "high-resolution optical snapshots". This implies the goal revolves around achieving 'daylight photography', providing 'clear optical imagery', and documenting the environment through 'true-color visual documentation'.
+
+**DELIVERY DEADLINE**: 
+The deadline for the task is set to be the 'day after tomorrow' around mid-day, acting as an upper limit for data availability without specifying any countdown metrics or rephrasing this phrase.
+
+---
+
+Therefore, combining these guidelines:

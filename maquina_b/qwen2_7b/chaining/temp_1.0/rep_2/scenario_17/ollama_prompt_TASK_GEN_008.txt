@@ -1,0 +1,11 @@
+Translation of an Earth-observation task request to an automated satellite constellation planner:
+
+With the 'primary_sensor' set to 'SAR', our objective is to conduct an active radar scan for the region in Italy, specifically targeting the city of Giugliano in Campania. This mission is classified as having a 'priority_level' of 2, which indicates it falls under standard operational tasks with fixed parameters within our baseline pipeline tracking setup.
+
+Our target day for this task has been scheduled 'in three days', with the diurnal period planned around mid-day for optimal capture. The goal here is to utilize the SAR sensor's capabilities for microwave surface imaging, allowing us to penetrate through heavy weather conditions and capture detailed ground geometry that would otherwise remain obscured.
+
+As we look forward to this task, please bear in mind its specific operational parameters: 'VIS' is out of consideration as it's not part of our planned 'primary_sensor'. Instead, we're focusing on the unique attributes of SAR, allowing us to gather comprehensive data without relying on clear optical conditions or true-color visual documentation. For thermal data requirements, 'TIR' and 'VNIR' are also excluded from this request.
+
+To ensure consistency in quality and adherence to our operational guidelines, please include any 'landmark' information from 'location_details', such as landmarks within Giugliano in Campania, for a more accurate description. This will enrich the context of our task, aiding in better data interpretation post-collection.
+
+Looking forward to receiving this mission 'in three days around mid-day', we'll proceed with standard operational protocols for asset management and contract fulfillment while maintaining flexibility for schedule adjustments as needed. As always, should there be any unforeseen delays or constraints that might impact our execution timeline, please kindly inform us well in advance to accommodate the necessary adjustments.
