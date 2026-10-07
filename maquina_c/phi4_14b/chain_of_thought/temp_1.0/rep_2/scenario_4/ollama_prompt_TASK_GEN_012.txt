@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides details about an Earth-observation task for Indonesia's city of Suka Maju. 
+
+a) The exact string in 'target_day' is "in three days." This indicates the deadline for delivering data products related to this task.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when the observation should ideally occur on the target day.
+
+c) Within the 'target_diurnal_period' string, the word "morning" is explicitly mentioned. This will be included verbatim in the final request to ensure clarity about the timing of data capture.
+
+d) It is crucial not to shift or reinterpret the deadline. The deadline is specifically set for "in three days, in the morning." This means that any operational planning should align with this precise time window, maintaining its integrity without altering the specified time frame to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm submitting a request for a flexible-schedule task in Suka Maju, Indonesia. This is a low-priority importance operation allowing for opportunistic capture with the option to reschedule as needed. The mission involves obtaining a high-resolution optical snapshot to provide clear daylight photography of the area. The data collection should occur "in three days" and specifically "in the morning."
