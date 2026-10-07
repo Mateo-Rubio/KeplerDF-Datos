@@ -1,0 +1,12 @@
+The target task context JSON reads: 
+
+{
+"primary_sensor": "VNIR",
+"location_details": {
+    "country": "Indonesia",
+    "city": "Tanjung Jabung Timur"
+  },
+  "priority_level": 1,
+  "target_day": "today",
+  "target_diurnal_period": "overnight"
+}
