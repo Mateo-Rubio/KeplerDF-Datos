@@ -1,0 +1,14 @@
+STAGE 1:
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in that string is "afternoon".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day; it remains firmly set for tomorrow's afternoon.
+
+```prompt
+As an Earth-observation mission operator, this task request translates from the provided JSON metadata into a conversational and structured English operational directive:
+
+We are scheduling a high-priority institutional priority today to carry out a mandatory directive requiring absolute urgency for tomorrow afternoon. Our primary objective involves capturing true-color visual documentation through a high-resolution optical snapshot of the specified target area using multispectral vegetation analysis. The focus is specifically on assessing chlorophyll absorption levels and calculating surface reflectance to obtain a robust NDVI index, as well as water body boundary mapping or soil moisture assessment based on near-infrared reflection.
+
+The site of interest will be located in Atessa, Italy, providing us with an opportunity for commercial tasking within the framework of routine monitoring and baseline pipeline tracking set up with fixed parameters representing normal operational status. Considering our commitment to maintain critical payload capture as mandatory, we must not delay or compromise this essential operation beyond its allocated timeframe on tomorrow afternoon.
+
+In conclusion, please allocate immediate resources for the execution of a standardized task where multispectral vegetation and water body analysis is conducted urgently today through tomorrow afternoon to fulfill an absolute institutional priority with fixed operational timings as dictated by this mission directive.
