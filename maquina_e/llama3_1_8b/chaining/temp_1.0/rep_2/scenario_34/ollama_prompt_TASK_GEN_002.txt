@@ -1,0 +1,9 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. Interpreting the metadata organically according to the provided operational guidelines is crucial for maximizing naturalness and validation accuracy of the dataset.
+
+Given the location details, we should describe it naturally using the 'country', 'city', and 'landmark' fields from 'location_details'. However, country and city are "N/A" in this case, so we can simply use the clean 'region_name' which is "France". The location details should be described as "we need to observe a region in France".
+
+Considering the mission allocation priority, the task should be framed as a "non-essential background filler task" where we can drop or reschedule at convenience. This is a "low priority importance" request with a "flexible schedule" for "opportunistic capture". The operator explicitly notes that this is a "background survey" or "testbed tracking task".
+
+Finally, the physical objectives and sensors should be explained naturally in the request. In this case, we are using an active radar scan using microwave surface imaging for cloud-penetrating capture. We want to take an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+
+The task should be completed in four days in the morning. The sensor objectives and location details need to be considered for a realistic mission request that is also compliant with the given guidelines.
