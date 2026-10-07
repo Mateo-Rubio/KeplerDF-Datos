@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) "in four days" is exactly as provided within the JSON file.
+
+b) "in the morning" is exactly as provided within the JSON file.
+
+c) The word contained in the string from 'target_diurnal_period' is "morning".
+
+d) No, the deadline is not shifted to an adjacent part of the day. It remains strictly as "in four days", with no alteration or extension.
+
+STAGE 2:
+
+Given the operational context provided by the JSON file metadata, your Earth-observation mission operator is tasked with capturing a high-resolution near-infrared reflection snapshot over the Indonesian region of Kepulauan Meranti. This critical task requires an active radar scan utilizing microwave surface imaging to ensure cloud-penetrating capture in the morning light of four days henceforth. This request embodies a standard operational tasking, as it aligns with baseline pipeline tracking objectives under normal conditions. The deadline is stringent, with a specific target set for the morning four days from now, thus reflecting an operational priority level that denotes normal operational status rather than an urgent or binding requirement.
