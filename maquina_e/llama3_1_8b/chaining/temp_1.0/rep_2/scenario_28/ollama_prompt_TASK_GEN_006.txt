@@ -1,0 +1,9 @@
+Translate this raw physical simulation metadata into a single, highly realistic, and conversational English request for the satellite constellation planner. To maximize naturalness and validation accuracy, interpret the metadata according to these operational guidelines.
+
+Geographically, this task involves multispectral vegetation analysis using the primary sensor in Indonesia, specifically in the Ecuatorial region. The region is situated within the country of Indonesia, with no specific city or landmark mentioned, so we'll focus on describing the location as the clean 'region_name' with a mention of the country.
+
+In terms of mission allocation priority, this task has been designated as low importance, which means it's considered a non-essential background filler task with a flexible schedule for opportunistic capture. We should treat it as a background survey or testbed tracking task, where the operator explicitly notes to drop or reschedule at convenience.
+
+The primary sensor used is VNIR, which aims to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance. This request should be framed in a casual, highly flexible, or opportunistic tone, emphasizing the ability to capture data with a flexible schedule.
+
+The delivery deadline for this task is the day after tomorrow around mid-day, which means we must complete the data collection by this time to ensure its availability. This specific phrase must be inserted verbatim into our request, without any rephrasing, shortening, or moving it to a different part of the day.
