@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+The exact string in 'target_day' is "in three days". The exact string in 'target_diurnal_period' is "overnight". The single word contained in that string is "overnight". The deadline is not being shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational context, a request could be structured as:
+
+"In approximately three days from now, our automated satellite constellation planner should initiate an overnight mission allocation, prioritized at Level 1 (low importance). We require capture of thermal mapping data for Sesquilé, Colombia using our active SAR (Synthetic Aperture Radar) sensor. This "non-essential background filler task" aims to conduct 'in-depth thermal anomaly detection' across the region. With a deadline strictly set for 'overnight', it's understood that this is part of our standard baseline pipeline tracking with flexible scheduling, where the task can be 'dropped or rescheduled at convenience'."
+
+Remember, this wording emphasizes operational guidelines and focuses on conveying the physical objectives, context, priority level, and deadline in natural language while adhering to the given constraints.
