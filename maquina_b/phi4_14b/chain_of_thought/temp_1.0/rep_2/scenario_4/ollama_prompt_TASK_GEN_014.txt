@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This specifies the deadline for when the data needs to be delivered, not when the observation itself occurs. 
+
+b) The exact string in 'target_diurnal_period' is "overnight". This indicates that the satellite must capture imagery during this period, which aligns with nighttime activities and thermal imaging.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in 'target_diurnal_period' is "overnight". This specifies the time frame during which the observation should occur, aligning perfectly with the nature of thermal mapping using TIR sensors.
+
+d) There is no indication to shift the deadline to an adjacent part of the day. The requirement is explicitly to deliver data by "in three days", and capture the imagery "overnight" on that specific day. Therefore, we adhere strictly to these temporal parameters.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority to execute a critical payload capture using thermal mapping to obtain a surface temperature profile of a region in Italia, specifically Norte. This task is a binding contract requirement and involves capturing heat signatures "in three days", focusing on the "overnight" period. The objective is to detect any thermal anomalies, emphasizing the urgency for this un-preemptable mission lock.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The word contained in that string which matches the list {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) There is no indication or instruction to shift the deadline from its specified time. The deadline is strictly set for "tomorrow during the afternoon," and it must remain unchanged.
+
+### STAGE 2 - FINAL REQUEST
+
+We are requesting a standard operational tasking of an active radar scan using microwave surface imaging for Medio Baudó, Colombia. This request involves capturing cloud-penetrating images to assess ground geometry and is part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. The objective is to ensure we acquire these critical data products by tomorrow during the afternoon, aligning with our established workflow update timeline.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The 'target_day' in the JSON is "the day after tomorrow." This specifies when the satellite data capture must occur relative to the current day.
+
+The 'target_diurnal_period' is indicated as "overnight." This denotes the time of day when the data collection is intended, focusing on the late night hours when the sun does not illuminate the region directly.
+
+Within this string, the word "overnight" directly corresponds with one of the provided options: morning, mid-day, afternoon, evening, and overnight. It explicitly indicates that the observation should take place during nighttime hours.
+
+It's important to confirm that I'm not shifting the deadline to another part of the day; therefore, maintaining the "overnight" period is crucial. This means capturing the data at night within "the day after tomorrow," ensuring adherence to the strict operational deadline without modification.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a flexible schedule request for a low priority importance task focusing on Borgo San Lorenzo in Italia. The aim is an opportunistic capture, utilizing VNIR sensors for multispectral vegetation analysis. We're interested in assessing chlorophyll absorption levels and calculating a vegetation NDVI index and surface reflectance. This task falls under a non-essential background filler category and can be dropped or rescheduled at convenience. Please ensure data collection occurs overnight the day after tomorrow.

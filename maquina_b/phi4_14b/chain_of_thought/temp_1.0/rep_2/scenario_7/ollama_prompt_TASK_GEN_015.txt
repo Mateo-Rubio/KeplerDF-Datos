@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+To interpret the provided task context, let's analyze the JSON metadata step by step.
+
+a) The exact string found in 'target_day' is "in three days". This indicates when the data capture needs to be completed, specifying a strict operational deadline for delivering the requested information.
+
+b) For 'target_diurnal_period', the string is "in the evening". This clarifies not only when during the day the data should be captured but also suggests the time frame best suited for achieving the desired imaging conditions with the selected sensor.
+
+c) The diurnal period string "in the evening" contains the word "evening", which needs to appear explicitly in the final request. This term precisely communicates the required timeframe for the data capture, ensuring it aligns with the specific lighting and environmental conditions best suited for the task.
+
+d) It is crucial not to shift or alter the deadline implied by these time specifications. The phrase "in three days, in the evening" must be preserved as the operational deadline. This ensures that we respect the constraints of the task's delivery timeframe without introducing any modifications that could misalign with planned operations or stakeholder expectations.
+
+By following these interpretations, we ensure the request aligns with both the technical requirements and the specified temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+We need to capture high-resolution optical snapshots in Indonesia, specifically focusing on Ecuatorial. This standard operational tasking is part of our routine monitoring efforts to maintain baseline pipeline tracking with fixed parameters, ensuring normal operational status within our workflow update. We request this be completed within three days, in the evening, aligning with daylight photography conditions optimal for clear optical imagery and true-color visual documentation.

@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To begin, let's examine the target timeframe for this task request. 
+
+a) The exact string in 'target_day' is "tomorrow". This clearly indicates when the data capture should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the satellite operation should occur, targeting a time when conditions might be most advantageous for the intended observation.
+
+c) Within this string "overnight," the word contained from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." It suggests that the task is to be executed during nighttime hours.
+
+d) I must confirm that the deadline has not been shifted or altered. The request clearly states that the task is to occur "tomorrow" and specifically during the "overnight" period. This means there will be no shifting of these parameters; they represent a strict operational deadline for data capture, ensuring the mission's timing remains precise as outlined.
+
+### STAGE 2 - FINAL REQUEST
+
+Please prioritize this standard operational tasking involving a commercial tasking assignment to perform an active radar scan using microwave surface imaging over Otanche, Colombia. The goal is to achieve cloud-penetrating capture of ground geometry, allowing for detailed observation regardless of weather conditions. This task should be executed as part of the baseline pipeline tracking setup, with fixed parameters representing normal operational status within our standard workflow update processes. It is critical that the data acquisition occurs tomorrow during the overnight period, aligning with our predefined operational deadline.

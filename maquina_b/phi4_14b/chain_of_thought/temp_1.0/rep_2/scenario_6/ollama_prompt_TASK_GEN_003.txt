@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's examine the target task context JSON to determine the appropriate natural language request.
+
+a) The exact string in 'target_day' is "the day after tomorrow". This specifies when the mission needs to be completed, indicating it should occur two days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time during which the data collection is expected to happen. 
+
+c) From the set of options {morning, mid-day, afternoon, evening, overnight}, the single word contained in the string "overnight" is "overnight". This must appear literally in the final request.
+
+d) Based on the instructions, I confirm that there is no intention to shift the deadline to a different part of the day. The deadline for data collection remains strictly within the timeframe defined by "the day after tomorrow" during the "overnight" period.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to submit a task request for thermal mapping over Malinau, Indonesia, with a low priority importance due to its nature as a non-essential background filler task. The mission is flexible and can be rescheduled at convenience. It involves capturing a heat signature or surface temperature profile, focusing on thermal anomaly detection, scheduled for the day after tomorrow during the overnight period. This should be treated as a background survey with no urgent operational execution needed.

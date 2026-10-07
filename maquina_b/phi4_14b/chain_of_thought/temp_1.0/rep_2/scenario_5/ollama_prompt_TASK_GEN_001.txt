@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task at hand involves analyzing the JSON metadata for an Earth-observation mission and translating it into a natural and conversational English request for a satellite constellation planner. Let's break down each component step by step:
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This phrase indicates that the observation is planned to occur two days from the current date.
+
+b) The string found under 'target_diurnal_period' is "in the evening." This specifies the part of the day when the data capture should take place, which is during the evening hours.
+
+c) From the provided options of {morning, mid-day, afternoon, evening, overnight}, the word "evening" is explicitly mentioned in the 'target_diurnal_period' string. This term must be incorporated directly into the final request to convey the precise time window for data acquisition.
+
+d) It is important to confirm that we are not altering the deadline or shifting it to another part of the day. The instructions explicitly state that the temporal parameters represent a strict operational deadline, which means that both the specific 'target_day' and the 'target_diurnal_period' must be adhered to exactly as provided. Thus, the deadline remains "the day after tomorrow in the evening," without any adjustments.
+
+### Stage 2 - Final Request
+
+We are conducting a standard operational tasking as part of our baseline pipeline tracking setup, with fixed parameters for normal operational status. We need to execute a multispectral vegetation analysis over Curití, Colombia, using the VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This observation is scheduled for the day after tomorrow in the evening, ensuring that our data capture aligns precisely with this timeframe to maintain operational efficiency.

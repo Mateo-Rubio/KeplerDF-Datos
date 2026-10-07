@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON metadata provides specific details about the task request for an Earth-observation mission. Here is a breakdown of how I interpreted the information:
+
+a) The exact string in 'target_day' is "in four days." This indicates the deadline by which the data products must be delivered, not when the satellite capture occurs.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time of day when the observation should ideally occur.
+
+c) From the list {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained within the 'target_diurnal_period' string. This is a crucial part of the timing for the request and must be included literally in the final request.
+
+d) The task context specifies "in four days" and "overnight," confirming that the deadline is strictly set for an overnight period on that specific day. There is no indication or instruction to shift this deadline to any other part of the day, so it remains as specified.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for a satellite constellation planner involving a flexible schedule for an opportunistic capture in the region near Istmina, Colombia. This task is part of a non-essential background filler that can be dropped or rescheduled at convenience. The objective is to obtain a high-resolution optical snapshot using the visible sensor, aimed at capturing true-color visual documentation of the area. The data is needed for delivery "in four days," with an ideal observation period occurring overnight. This setup allows us to integrate this task into our background survey operations without disrupting higher-priority tasks.
