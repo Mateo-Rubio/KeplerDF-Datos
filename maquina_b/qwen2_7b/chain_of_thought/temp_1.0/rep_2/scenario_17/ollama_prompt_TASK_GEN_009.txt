@@ -1,0 +1,18 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The single word contained in that string is "morning".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+As per our operational guidelines, we're tasked with executing a standard operational tasking request from the automated satellite constellation planner. This particular mission, prioritized at Level 1, involves capturing high-resolution optical imagery and acquiring thermal maps across Indonesia, with a specific emphasis on the country's equatorial region, specifically the city of Ecuatorial.
+
+The mission's primary sensor, designated to be deployed is the SAR (Synthetic Aperture Radar), which will actively scan the area using microwave surface imaging to provide cloud-penetrating imagery crucial for understanding ground geometry and penetrating heavy weather conditions. This technology enables us to ensure comprehensive coverage even under less than ideal atmospheric conditions.
+
+Our mission allocation is set for "in three days", specifically during the "morning" timeframe. We understand that the 'target_day' string indicates a deadline, not an orbital capture window. Hence, we will adhere strictly to these parameters without attempting to adjust them.
+
+The 'priority_level' being at Level 1 signifies that this tasking request requires normal operational status with "fixed parameters", reflecting our standard baseline pipeline tracking responsibilities and workflow updates, recognizing it as a non-essential background filler task. Our mission team is aware of the flexible scheduling aspect, allowing us to drop or reschedule this task as convenience dictates.
+
+With clear understanding and adherence to these instructions, we commit to delivering the required data products by the specified deadline in the morning three days from now. Our primary objective is to ensure accurate and detailed imagery capture with SAR capabilities and thermal mapping to provide essential information for our downstream users.

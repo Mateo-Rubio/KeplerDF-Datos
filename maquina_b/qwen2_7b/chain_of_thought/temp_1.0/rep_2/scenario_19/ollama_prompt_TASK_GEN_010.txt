@@ -1,0 +1,20 @@
+STAGE 1 - REASONING
+
+The exact string in 'target_day' is: "tomorrow"
+The exact string in 'target_diurnal_period' is: "in the evening"
+The word contained in the diurnal period string, which must appear literally in your final request, is "evening".
+Yes, you are not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+As per our operational guidelines and interpreting the raw metadata provided, we need a task that incorporates "tomorrow" as the target day with the specific diurnal period "in the evening". The geographical context involves "Colombia", and considering the details "Puerto Wilches", this location is identified as such.
+
+The primary sensor to be used for this mission is Thermal Infrared (TIR), intended for capturing a "heat signature" or a thermal mapping profile that elucidates surface temperature gradients and potential anomalies across the region.
+
+This request falls under Priority 1, indicating it is part of "non-essential background filler tasks", which are noted to have flexible scheduling. This implies an opportunistic capture where the mission can be dropped or rescheduled as convenient.
+
+Given the operational context and structured requirements, our task formulation would look like this:
+
+"As instructed by our priority classification for non-essential background filler tasks with flexible scheduling options, we aim for tomorrow's 'evening' period to conduct a comprehensive thermal mapping exercise in Colombia, focusing specifically on the region around Puerto Wilches using our TIR sensor. Our primary objective here is to capture critical heat signatures and surface temperature profiles that help us discern temperature variations across this region. This task operates within our baseline pipeline tracking framework with standard parameters set, maintaining normal operational status."
+
+This formulation naturally integrates all elements derived from the provided JSON metadata while adhering to the specified operational guidelines for communication, emphasis on priorities, sensor usage description, time period interpretation, and location identification.
