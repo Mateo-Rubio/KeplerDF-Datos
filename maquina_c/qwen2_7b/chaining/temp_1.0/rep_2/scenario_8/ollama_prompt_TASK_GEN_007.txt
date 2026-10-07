@@ -1,0 +1,13 @@
+Translate the operational metadata into a highly realistic English request for Earth observation mission allocation:
+
+At an automated satellite constellation planner's request, I aim to craft a detailed, conversational English task request based on the provided raw physical simulation JSON format. The task revolves around a 'TIR' primary sensor operation scheduled in the country of Colombia, specifically in the city of Tuluá, with the target day being today and the diurnal period specified as evening.
+
+Given the 'priority_level' at medium importance, I will adopt a professional tone, describing this request as part of our standard operational tasking. The Colombian territory within Tuluá is an area of interest for thermal mapping needs. The 'TIR' sensor aims to capture thermal data to assess heat signatures and surface temperature profiles or detect thermal anomalies due to emitted heat. This mission's priority does not imply the proximity to a deadline but represents our baseline pipeline tracking setup with fixed parameters for normal operational status.
+
+The mission involves an active radar scan using microwave surface imaging capabilities, cloud-penetrating to capture ground geometry under any weather condition in this evening period, ensuring comprehensive coverage of the region. The request emphasizes capturing the thermal dynamics of the area without urgency in terms of time, indicating that it is part of a flexible schedule for opportunistic capture.
+
+Our dataset's validation accuracy is maximized by interpreting the metadata organically and avoiding the use of raw technical tags or coordinates, thus enhancing the naturalness and authenticity of the data. In summary, we're preparing for an evening thermal scan operation over Tuluá, Colombia, which will provide essential insights on heat signatures across the region without impacting our current operational workflow or contractual deadlines.
+
+The deadline for this task is today in the evening, as stipulated by an upstream module. The JSON input confirms the time frame for data availability without needing any additional adjustment or rephrasing. This ensures that our Earth observation mission aligns perfectly with our ongoing efforts and adheres to the specified timeframe without affecting other critical tasks.
+
+The final English request translates these operational guidelines and technical specifications into a clear, concise statement that captures the essence of the task's purpose and priority level while ensuring accuracy and natural flow in describing the mission allocation.

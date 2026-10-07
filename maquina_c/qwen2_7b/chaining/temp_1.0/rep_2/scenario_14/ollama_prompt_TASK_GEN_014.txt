@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am tasked with translating raw physical simulation metadata provided into a single, highly realistic and conversational English request. For the target task context described by the JSON:
+
+With the primary sensor set to Near-Infrared (NIR), our objective is to perform "near-infrared reflection" for "water body boundary mapping" in Norte, a city that is conveniently left out as the country is marked as "N/A". The task allocation priority indicates that this request holds a "low priority importance", which we will frame explicitly as a "flexible schedule" for "opportunistic capture". This is labeled as a "background survey" or "testbed tracking task".
+
+The geographical context reveals Norte, though the country is unknown, which implies we should describe its location using any available details provided in 'location_details'. However, it's mentioned that the country field is marked as "N/A", so we will gracefully ignore this information.
+
+For the delivery deadline, which has already been resolved by an upstream module and set to "in four days in the morning", we will insert this phrase verbatim into our request. The date and time are clearly stated and must not be rephrased or altered; thus, it will serve as the upper limit for data availability.
+
+In summary, my request will capture a "near-infrared reflection" snapshot of Norte's water bodies, a task that does not impose strict deadlines, can be executed with a flexible schedule, falls under our baseline pipeline tracking as a standard operational tasking or commercial tasking. We treat this as part of our routine monitoring operations, understanding that it is classified as "normal operational status". We'll execute this task keeping the deadline in mind set for "in four days in the morning".
+
+...end of request...

@@ -1,0 +1,11 @@
+As a prompt for the Earth-observation mission operator requesting satellite constellation planning, we are to translate the given raw physical simulation metadata into a highly realistic English task request.
+
+The geographic context involves observing a location within Italy's Northern region, using a VNIR sensor for "vegetation analysis" via daylight photography that captures the "chlorophyll absorption level", thereby providing insight into surface reflectance and health of plants. The mission allocation priority is categorized as "low importance", characterized by a "casual and flexible tone". This task is viewed as a "background filler", suggesting it might not demand an immediate response but rather an opportunistic capture that can be "rescheduled or dropped at convenience".
+
+The deadline for this task has been set to "today overnight". The term serves as the definitive boundary within which data must be made available, ensuring smooth data integration with existing workflows without the necessity for stringent timekeeping or countdown metrics. The "flexible schedule" nature of the request implies that while urgency is acknowledged, there's ample room for adjustments based on operational availability.
+
+Incorporating these elements into a coherent request, we might write:
+
+Please capture high-resolution optical snapshots during today’s overnight period in Northern Italy as part of our ongoing vegetation analysis efforts. We are particularly interested in understanding the "chlorophyll absorption level" within the region to assess plant health and surface reflectance accurately. Although this request carries a low priority importance, it's acknowledged as a non-essential task that may be dropped or rescheduled based on your operational convenience.
+
+Given the deadline for data availability is "today overnight", please ensure this task is accommodated under your schedule constraints to guarantee its seamless integration into our baseline pipeline tracking setup. This operational guidance aims to maximize the naturalness and validation accuracy of our dataset while respecting all the provided guidelines.
