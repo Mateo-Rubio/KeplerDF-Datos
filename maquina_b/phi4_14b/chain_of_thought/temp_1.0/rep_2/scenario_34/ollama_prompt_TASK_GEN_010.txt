@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves translating a set of parameters into a comprehensible request for a satellite constellation planner. To begin with, we need to examine the specific details provided in the JSON metadata.
+
+a) The exact string found under 'target_day' is "in three days." This indicates when the data needs to be delivered, not when the satellite should capture it.
+
+b) Under 'target_diurnal_period', the exact string is "around mid-day." This suggests the time of day that is optimal for the satellite's observation.
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "mid-day." This is crucial as it must be included verbatim in our final request to accurately convey the timing of the observation.
+
+d) It's important to confirm that we are adhering strictly to the deadline as specified. The temporal parameters given—specifically "in three days" and "around mid-day"—are to be taken as is, without any adjustments or shifts to different parts of the day. This ensures that the request aligns perfectly with the operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission tasking is an absolute institutional priority and a binding contract requirement, involving a critical payload capture around mid-day in Santa Ana del Táchira, Venezuela. We require a high-resolution optical snapshot to be delivered in three days. This operation is non-negotiable and must be executed with the utmost urgency, ensuring that no other tasks preempt this mission. The clarity and quality of the clear optical imagery are paramount, as it will serve crucial institutional needs.

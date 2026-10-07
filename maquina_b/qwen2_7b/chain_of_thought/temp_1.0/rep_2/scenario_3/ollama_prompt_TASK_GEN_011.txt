@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+The Earth-observation mission operator requests an urgent task with a priority level of "High Importance". The focus is on a critical payload capture for the "standard operational tasking" involving "routine monitoring" that is considered part of the baseline pipeline tracking setup. This request necessitates immediate attention due to its status as a binding contract requirement.
+
+The geographical context for this mission allocation involves capturing optical data on "tomorrow" during the "afternoon". The location details indicate an observation target within the "Italia", specifically in "Atessa", a city known for its picturesque landscapes and historical significance. The operator is deploying their VNIR sensor to perform a high-resolution optical snapshot of the day for "true-color visual documentation" purposes.
+
+Given the operational status, there are fixed parameters that define the standard nature of this task, representing normal operational status or workflow updates with minimal pre-emptability. The deadline specified by 'target_day' and 'target_diurnal_period' is strict; no adjustments will be made to this time frame. The deadline represents the critical deadline for data product delivery and should not be misconstrued as altering the orbital capture window.
+
+The VNIR sensor will gather data to assess "chlorophyll absorption levels", calculate the vegetation NDVI index, and capture surface reflectance for environmental monitoring and analysis, contributing to the comprehensive understanding of Atessa's ecological dynamics under real-time conditions.
