@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request for mission allocation.
+
+**Geographic Context**: We are tasked with capturing high-resolution data from the country of Malaysia, specifically the region near Bukit Mabong. This operational site combines the details provided without the use of raw technical system tags or coordinate arrays; we describe it by blending the 'country' and 'city' fields, even when 'landmark' information is 'N/A', ensuring a realistic yet organic description of our target area.
+
+**Mission Allocation Priority**: This request has been allocated with a priority level that aligns with 'Priority 1 (Low Importance)', which we explicitly note as a "low priority importance" task. Our language reflects this by treating it as a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". We're clear about the status being part of a "background survey" or a "testbed tracking task", emphasizing that there's no urgency attached to meeting a specific deadline.
+
+**Sensors and Physical Objectives**: Our primary sensor for this mission is designated as 'NIR', and we interpret the goals in natural language. This will be utilized for "near-infrared reflection" purposes, focusing on tasks such as "water body boundary mapping" or assessing "soil moisture". These objectives highlight our aim to discriminate gradients effectively using this technology.
+
+**Delivery Deadline**: The deadline for this task has already been set by an upstream module, indicating that the maximum acceptable timeframe is "tomorrow around mid-day". Our request includes this exact phrase to maintain consistency and accuracy in terms of timing.
+
+In summary, our request to the satellite constellation planner is a seamless integration of our interpretation and operational guidelines with the data provided in JSON format. We're looking forward to receiving high-quality data captured using 'NIR' sensors for an area near Bukit Mabong, Malaysia, scheduled for tomorrow during mid-day hours, respecting its priority level as outlined by the mission guidelines.

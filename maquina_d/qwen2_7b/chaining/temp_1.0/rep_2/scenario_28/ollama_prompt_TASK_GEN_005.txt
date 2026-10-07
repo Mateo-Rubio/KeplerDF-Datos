@@ -1,0 +1,9 @@
+In response to the operational guidelines, the Earth-observation mission operator hereby submits a task request to the automated satellite constellation planner for a highly realistic and conversational English description based on the provided JSON metadata. The request is as follows:
+
+For the "the day after tomorrow around mid-day", aiming to capture essential thermal data with the 'TIR' primary sensor, an atmospheric perspective is required to ensure clear optical imagery from Cerasuolo, Italia. The 'TIR' sensor aims to produce thermal mapping that will document heat signatures and surface temperature profiles, providing crucial insight into potential thermal anomalies or heat emissions in the region.
+
+Nestled within the heart of Cerasuolo, a picturesque city in Italia, the request highlights the unique geographical context by integrating the country and city names into the description. This natural incorporation ensures that the request is both realistic and detailed, while gracefully handling the absence of landmarks or specific coordinates.
+
+Given the 'priority_level' set to 1, this task is labeled as a low priority importance request with a flexible schedule for opportunistic capture. It is explicitly framed as a "non-essential background filler task," treating it as a "background survey" that can be conveniently rescheduled or dropped if needed, contributing to the operator's baseline pipeline tracking with fixed parameters representing normal operational status.
+
+In summary, the request integrates geographical context and mission allocation priority seamlessly while maintaining the physical objectives associated with the 'TIR' sensor. The Earth-observation mission operator stresses the importance of obtaining thermal mapping data from Cerasuolo around mid-day on "the day after tomorrow," emphasizing its relevance to monitoring environmental conditions without imposing immediate operational urgency.

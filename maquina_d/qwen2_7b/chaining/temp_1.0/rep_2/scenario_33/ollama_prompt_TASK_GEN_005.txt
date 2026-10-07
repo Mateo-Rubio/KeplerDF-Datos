@@ -1,0 +1,9 @@
+The mission operator from the Earth-observation project has requested a task to be performed utilizing the automated satellite constellation planner. The aim is to collect highly realistic data within a conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The primary sensor to be utilized is the Synthetic Aperture Radar (SAR), which will conduct an active microwave surface imaging scan to capture the environment, essential for cloud-penetrating radar imagery and mapping ground geometry. The geographic context involves a location in the region named Italia, specifically within the historical city of Arezzo.
+
+Given that this task is of low priority importance—labeled as Priority Level 1—it carries a flexible schedule and is characterized as a "low priority importance" request or a "non-essential background filler task". This task falls under the category of "background survey" or "testbed tracking task", with explicit notes for the operator to drop or reschedule at their convenience.
+
+The deadline for the task has already been set, with the data to be available by "in three days in the morning". This phrase serves as the upper limit for data availability, emphasizing that the urgency of this task has been resolved by an upstream module and does not need reiteration in terms of the exact time or countdown metrics.
+
+In conclusion, a meticulous process to interpret this metadata organically is required, avoiding technical system tags, underscores, coordinate arrays, raw priority numbers, and operational details. The translation should seamlessly flow into a paragraph, naturally integrating the description of the location and the specific objectives of the mission in a manner consistent with an Earth-observation project's operational guidelines.
