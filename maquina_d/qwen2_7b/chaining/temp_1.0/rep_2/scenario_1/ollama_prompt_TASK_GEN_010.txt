@@ -1,0 +1,11 @@
+Translate the raw physical simulation metadata provided in JSON format into a highly realistic, conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The request focuses on:
+
+**GEOGRAPHIC CONTEXT**: In three days during the afternoon, an observational mission is required in Colombia, targeting El Castillo. The context includes capturing an environmental snapshot that considers daylight photography and vegetation assessment for decision-making purposes.
+
+**MISSION ALLOCATION PRIORITY**: This is a low priority importance request with a flexible schedule for opportunistic capture. It's described as a 'background survey' or 'testbed tracking task' that represents standard operational status or baseline pipeline tracking.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: The primary sensor selected for this mission is VNIR (Visible Near Infrared). The sensor aims to perform multispectral vegetation analysis, providing insights on the chlorophyll absorption level, surface reflectance, and potentially calculating a Vegetation Normalized Difference Vegetation Index (NDVI) index.
+
+**DELIVERY DEADLINE**: The deadline is set in three days during the afternoon for data availability. This phrase must be included verbatim in your request without rephrasing, shortening, or altering the time part of the day.
+
+Integrate these elements to create a compelling request that combines operational context with precise mission specifications, adhering to the guidelines provided.
