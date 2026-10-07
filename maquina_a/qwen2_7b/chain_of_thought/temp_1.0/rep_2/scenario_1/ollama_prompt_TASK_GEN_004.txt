@@ -1,0 +1,19 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+
+b) The exact string in 'target_diurnal_period' is: "overnight"
+
+c) The word contained in that string, which must appear literally in the final request, is: "overnight"
+
+d) Confirmation that the deadline is not shifted to an adjacent part of the day: The deadline provided is strictly for "the day after tomorrow" at an 'overnight' period, which means the satellite constellation planner should plan the capture for the exact day and time specified without any adjustment to other parts of that day.
+
+STAGE 2:
+
+Given the operational guidelines, let us now formulate the task request. The context provided targets Colombia with a focus on the city of Ibagué through the VNIR sensor's capability for multispectral vegetation analysis. The deadline has been set for "the day after tomorrow" at an 'overnight' period, which means the satellite will capture a snapshot of the region to assess the chlorophyll absorption level or calculate the NDVI index and surface reflectance under the cover of darkness.
+
+To achieve this task efficiently, incorporating high flexibility as it's of low priority importance, we can frame this request as follows:
+
+"Capture a high-resolution optical snapshot using the VNIR sensor at the exact deadline provided, which falls on 'the day after tomorrow' during an overnight period in the city of Ibagué, Colombia. This capture aims to assess the vegetation health and land cover conditions through multispectral analysis under minimal solar interference. We understand this task is part of our low-priority background survey, with a flexible schedule allowing for opportune adjustments without compromising the integrity or urgency of this mission. Our request has been carefully considered and submitted as per your operational guidelines."
+
+This request adheres to all the contextual requirements and integrates the specific operational phrases for each part of the JSON metadata while maintaining the conversational tone suitable for submission to an automated satellite constellation planner.

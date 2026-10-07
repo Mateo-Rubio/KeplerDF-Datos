@@ -1,0 +1,12 @@
+STAGE 1 REASONING:
+
+a) The exact string found within 'target_day' is: "in three days"
+b) The exact string found within 'target_diurnal_period' is: "in the morning"
+c) The word contained in 'target_diurnal_period' that matches one of {morning, mid-day, afternoon, evening, overnight} is: morning
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2 FINAL REQUEST:
+
+Given the operational parameters from our Earth-observation mission request, we're tasked with capturing a VNIR multispectral image of the region encompassing Rokan Hilir, located in Indonesia. This task is classified as 'medium importance' due to its priority level designation, suggesting that it is part of a standard operational pipeline rather than an urgent mission requirement. The data collection will occur 'in three days', on the designated target day, focusing specifically on the morning period to optimally leverage daylight conditions for high-quality imagery.
+
+In essence, we are looking to gather comprehensive, high-resolution spectral data to monitor environmental conditions and agricultural health in Rokan Hilir through a multispectral approach, which will help us assess the chlorophyll absorption level across various sites or calculate the NDVI index and surface reflectance. This data capture must adhere strictly to the deadline provided for the morning of the target day in three days' time.

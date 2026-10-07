@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening". This will be used verbatim in the final request.
+
+d) The deadline specified for delivering the data products is clearly set to "tomorrow in the evening". It indicates that the observation must happen and deliverables provided by this specific time, not at any other part of the day. There's no implication of shifting or extending the deadline to another diurnal period, ensuring strict adherence to the mentioned timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I need you to conduct a routine monitoring task over Ecuatorial, Indonesia. The primary focus is on obtaining thermal mapping data, specifically capturing heat signatures and surface temperature profiles in the region. This is a standard operational tasking with fixed parameters as part of our baseline pipeline tracking setup, representing normal operational status. Ensure the satellite captures the required data by tomorrow in the evening.
