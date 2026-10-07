@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word contained in the string is "afternoon".
+
+d) Confirming that we are not shifting the deadline to an adjacent part of the day, as the word "afternoon" is explicitly mentioned in the target_diurnal_period string. We will not reinterpret or alter the deadline.
+
+Since the deadline is a strict operational deadline and we must deliver the data products within this timeframe, we will maintain the original language exactly as provided in the JSON metadata.
+
+Moving on to STAGE 2 - FINAL REQUEST:
+
+```prompt
+Please task with a low priority importance request with a flexible schedule for opportunistic capture. Label it as a non-essential background filler task where the operator explicitly notes to drop or reschedule at convenience, treating it as a background survey or testbed tracking task. Capture a multispectral vegetation analysis using VNIR in Norte during the afternoon, to be delivered in three days.

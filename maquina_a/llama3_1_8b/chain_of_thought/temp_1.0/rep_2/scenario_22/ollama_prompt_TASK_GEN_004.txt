@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that appears literally in the string is "mid-day".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The string "around mid-day" explicitly specifies the target diurnal period as mid-day, which is the same as the word extracted earlier. This means the deadline is to capture the data at around mid-day on the specified target day.

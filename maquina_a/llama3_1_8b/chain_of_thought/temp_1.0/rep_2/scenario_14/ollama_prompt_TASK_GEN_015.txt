@@ -1,0 +1,14 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The "target_day" and "target_diurnal_period" fields together indicate that the task must be completed on a specific morning, four days from now, without any flexibility or adjustment.
+
+Now I'll move on to STAGE 2.
+
+```prompt
+We require an absolute institutional priority to obtain a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the area in Indonesia, specifically in the region of Kutai Timur, on in four days. We must capture this data in the morning. This critical payload capture is a binding contract requirement for our baseline pipeline tracking setup with fixed parameters representing normal operational status and standard workflow update.

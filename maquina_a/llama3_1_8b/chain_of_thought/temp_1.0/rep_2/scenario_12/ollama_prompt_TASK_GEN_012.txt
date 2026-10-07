@@ -1,0 +1,16 @@
+Here is the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day". 
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The original request specifies "tomorrow" as the target day, which implies a 24-hour window starting at the current time. Since the target diurnal period is "around mid-day", it still falls within this 24-hour window, without any shift.
+
+Let's proceed to Stage 2. 
+
+```prompt
+We need a low priority importance request with a flexible schedule for opportunistic capture. Label it as a "non-essential background filler task" where we can drop or reschedule at convenience. We are looking for an active radar scan using microwave surface imaging for cloud-penetrating capture around mid-day tomorrow in Indonesia, specifically Muara Asa. This is considered a standard operational tasking, part of a routine monitoring setup with fixed parameters representing normal operational status and workflow update. 
+
+...
