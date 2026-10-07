@@ -1,0 +1,13 @@
+STAGE 1 - REASONING:
+
+a) The exact string contained in 'target_day' is "the day after tomorrow".
+
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string from step (b) that must appear literally in your final request is "morning".
+
+d) Yes, you are not shifting the deadline to an adjacent part of the day. The request is framed with respect to the deadline provided as "the day after tomorrow", specifically "in the morning" within this timeframe.
+
+STAGE 2 - FINAL REQUEST:
+
+In anticipation of receiving the Earth observation data from your automated satellite constellation planner, we are targeting a mission with priority level '1', which represents low importance but includes an urgent requirement for the 'NIR' sensor. This request involves capturing an assessment of soil moisture and water body boundaries using the near-infrared reflection characteristic on 'the day after tomorrow'. Specifically, our focus is on data collected in the morning hours, when atmospheric conditions may offer optimal conditions for discerning subtle differences in soil moisture and delineating water bodies with high accuracy. This low priority task can be conveniently scheduled or rescheduled according to operational convenience without affecting higher-priority missions, serving as a flexible background survey or testbed tracking task for further analysis and decision-making processes.

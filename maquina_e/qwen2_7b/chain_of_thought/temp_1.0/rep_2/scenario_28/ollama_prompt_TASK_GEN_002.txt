@@ -1,0 +1,14 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string which needs to appear literally in your final request is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day, as the task specifies capturing data "during the afternoon" of the target_day "tomorrow".
+
+STAGE 2
+
+Given the operational guidelines and the specifics provided within the JSON payload, our Earth-observation mission operator aims to conduct a low priority importance survey task that will include capturing vegetation data using a VNIR sensor. This high-resolution optical snapshot is intended for daylight photography or true-color visual documentation. The operator will be tracking this task as an opportunistic capture with a flexible schedule under the title of a "background survey". There's no need to preoccupy or preempt other tasks, as this request represents a low priority importance task that can be conveniently scheduled.
+
+The task is set for tomorrow afternoon, focusing on gathering data within the diurnal period dedicated to daylight photography or true-color visual documentation. This deadline must be met exactly during that afternoon hour; any attempt to adjust this timing to earlier or later parts of the day would constitute a violation of operational protocols.
+
+For capturing high-quality multispectral vegetation analysis, the operator will employ VNIR technology. The goal is to assess chlorophyll absorption levels and calculate the NDVI index while simultaneously capturing surface reflectance data. This will enable detailed mapping of water bodies and assessment of soil moisture, essential for understanding environmental dynamics and supporting decision-making processes in agriculture, forestry, and conservation efforts.
