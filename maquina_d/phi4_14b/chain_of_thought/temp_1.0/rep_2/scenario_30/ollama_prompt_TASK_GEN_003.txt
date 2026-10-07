@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's begin by examining the JSON metadata for the task request and answering the relevant questions.
+
+a) The string in 'target_day' is "tomorrow." This indicates that the data products need to be delivered the day after the current date.
+
+b) The string in 'target_diurnal_period' is "overnight." This specifies the time during which the satellite should capture the imagery, focusing on the nighttime.
+
+c) Within the 'target_diurnal_period', the word "overnight" is explicitly mentioned. This term must appear literally in the final request to accurately convey when the task should occur.
+
+d) The deadline specified by 'target_day' as "tomorrow" and 'target_diurnal_period' as "overnight" is strictly for capturing data during the nighttime of the following day. There is no indication or allowance to shift this capture time to any other part of the day, such as morning or afternoon. It remains fixed at "overnight" on "tomorrow."
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority satellite observation focusing on water body boundary mapping and soil moisture assessment for the region around Malinau, Indonesia. This task involves capturing near-infrared reflection data and is considered a non-essential background filler task with a flexible schedule. Please note that this is an opportunistic capture, and you may drop or reschedule it at your convenience as part of a background survey. The imagery should be captured overnight tomorrow, adhering to the specified deadline for delivery of the data products.

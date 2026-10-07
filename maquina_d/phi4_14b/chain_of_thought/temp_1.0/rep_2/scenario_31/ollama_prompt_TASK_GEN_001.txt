@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To accurately interpret the task request for the satellite constellation planner, let's begin by examining each key aspect of the provided JSON metadata.
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This specifies when the data product should be delivered, indicating an operational deadline without flexibility.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This detail pinpoints a specific time during the day for the data capture, further narrowing the window for the operation.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "morning." This term will be used to indicate the precise timing of the data collection within the request.
+
+d) In confirming the deadline, it is crucial to recognize that both "the day after tomorrow" and "in the morning" must be adhered to strictly. There should be no adjustment or reinterpretation of these parameters to a different time or day. The mission's success relies on capturing data at this specific diurnal period on the designated day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an urgent operational request for a satellite capture over Colombia, specifically targeting the region around the city of Mogotes. This mission holds an absolute institutional priority and is framed as a binding contract requirement involving a critical payload capture. The objective is to conduct an active radar scan using microwave surface imaging, ensuring cloud-penetrating capture to accurately map ground geometry during challenging weather conditions. This high-importance task must be executed without preemption and demands an un-preemptable mission lock. Data acquisition is mandated for the day after tomorrow, specifically in the morning. It is essential that this task is completed within the outlined timeframe to meet our operational needs effectively.

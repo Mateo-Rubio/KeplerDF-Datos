@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+The provided JSON metadata offers specific details that need to be interpreted into a natural, conversational request. Let's address each part systematically:
+
+a) The exact string in 'target_day' is "in four days". This indicates when the data capture is expected to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day for the operation.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word contained in the 'target_diurnal_period' string is "morning".
+
+d) It's important to confirm that we are not altering the specified time frame. The requirement states that the capture should occur "in the morning," specifically during the morning part of "in four days." Therefore, there is no shift to an adjacent part of the day; the operation is strictly scheduled for the morning on that particular day.
+
+With these clarifications, we can proceed to formulate a natural and operational request based on the JSON metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm requesting an opportunistic data capture in the region around the city of Norte, France. This task involves an active radar scan using microwave surface imaging, capable of cloud-penetrating capture. Given its nature as a low priority importance task, we're looking for a flexible schedule that allows for opportunistic capture. The data should be delivered "in four days," specifically during the morning. While it's not an urgent requirement, please ensure that this is integrated into the workflow where feasible, and it can be dropped or rescheduled at convenience if necessary.
