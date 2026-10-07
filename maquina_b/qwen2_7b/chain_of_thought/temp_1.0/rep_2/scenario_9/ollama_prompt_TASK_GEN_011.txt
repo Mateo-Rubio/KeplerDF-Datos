@@ -1,0 +1,17 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in the string for 'target_diurnal_period' is "overnight".
+d) No, I am not shifting the deadline to an adjacent part of the day. The deadline is specified as "in three days, overnight".
+
+STAGE 2
+
+```prompt
+In response to the operational guidelines and given the parameters provided in the JSON file, Earth-observation mission operators are tasked with capturing thermal imagery of a region identified as Slovenia, specifically within the city of Norte, using a thermal infrared sensor. This mission request is designated as a "non-essential background filler task" due to its low priority level (1). Despite its low priority, the request carries a deadline specified as being "in three days, overnight." It's important to note that this deadline refers to a strict operational deadline for data delivery, rather than affecting the optimal orbital capture window.
+
+The primary objective of the mission is to conduct thermal mapping of the region, with the goal to identify surface temperature profiles and detect any thermal anomalies. This task falls under a "background survey" category, where it's understood that operators may drop or reschedule this at their convenience without compromising operational workflows or routine monitoring. Due to the nature of the request being for overnight imagery acquisition, it's advisable to plan the capture considering natural conditions to ensure optimal data quality.
+
+This Earth observation mission aligns with Earth-observation policies and operational guidelines, emphasizing flexibility in scheduling while respecting established deadlines and maintaining standards for high-resolution optical imaging capabilities provided by the satellite constellation planner. The integration of the TIR sensor allows for active radar scanning to provide critical information on heat signatures and surface temperature profiles through cloud-penetrating capture techniques.
+
+In summary, Earth-observation mission operators should prioritize planning for thermal mapping activities using a TIR sensor in the region of Slovenia's Norte city overnight, adhering to a deadline that has been clearly defined. This task, while categorized as low priority with flexible scheduling, holds significance under operational frameworks for critical payload capture and binding contract requirements.

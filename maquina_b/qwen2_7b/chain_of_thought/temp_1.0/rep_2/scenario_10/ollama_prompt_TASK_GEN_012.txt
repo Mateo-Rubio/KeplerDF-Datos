@@ -1,0 +1,21 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, I am not shifting the deadline. It remains strictly at "in the morning" on "tomorrow".
+
+STAGE 2
+
+Given the operational guidelines and interpreting the raw metadata:
+
+Our Earth-observation mission operator requests a highly realistic task based on the conditions set out in JSON format. Today's request involves capturing thermal anomalies and mapping soil moisture with the 'NIR' sensor. Specifically, the task targets Indonesia, focusing on the city of Sekadau, for tomorrow's morning period to ensure clear optical imagery and essential data collection.
+
+In the spirit of naturalness and accuracy:
+To deliver high-quality data products in line with our mission's high-priority objectives, our team is deploying satellites equipped with 'NIR' sensors. We aim for an "in the morning" capture tomorrow at our target location in Sekadau, Indonesia, to execute a vital task that entails detailed thermal mapping and soil moisture assessment.
+
+In summary:
+"The target day for this Earth-observation mission is tomorrow, focusing on the morning period. Our operational request centers on the Indonesian city of Sekadau, where 'NIR' sensors will be utilized to capture essential data pertaining to thermal anomalies and soil moisture conditions."
