@@ -1,0 +1,16 @@
+Let's work through the reasoning stage.
+
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in the string is "evening".
+
+d) Upon reviewing the JSON, I confirm that there are no adjacent timeframes mentioned, and the deadline remains unchanged from what is specified in the 'target_day' and 'target_diurnal_period' fields.
+
+Now that we've addressed the reasoning stage, let's proceed to the final request.
+
+```prompt
+As a standard operational tasking part of our commercial tasking setup with fixed parameters, representing normal operational status, I require a high-resolution optical snapshot using near-infrared reflection for water body boundary mapping, taking place tomorrow in the evening.

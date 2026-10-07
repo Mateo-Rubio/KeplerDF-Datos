@@ -1,0 +1,14 @@
+Let's go through the reasoning for Stage 1.
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. I will include the word "overnight" in the final request exactly as it appears in the string.
+
+Let's proceed to Stage 2, where we'll craft the operational request. 
+
+```prompt
+We require a routine operational tasking, commercial tasking, or routine monitoring as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. This involves a standard workflow update with a multispectral vegetation analysis using near-infrared reflection for water body boundary mapping or soil moisture assessment. The location is in Indonesia, specifically Murung Raya, and we need to capture this data overnight, exactly in four days.
