@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+To begin with, I need to determine the specific strings for 'target_day' and 'target_diurnal_period' from the provided JSON. For 'target_day', the exact string is "the day after tomorrow." This indicates a specific deadline that cannot be shifted or altered.
+
+Next, for 'target_diurnal_period', the exact string is "in the evening." This suggests the desired time of observation is during the later part of the day, specifically in the evening.
+
+Now, I need to identify which single word from the set {morning, mid-day, afternoon, evening, overnight} is contained within the 'target_diurnal_period' string. The word "evening" is explicitly mentioned, so it must appear in the final request as a crucial temporal parameter.
+
+Lastly, it is critical to confirm that I am not shifting the deadline to an adjacent part of the day. The instruction clearly specifies "in the evening," and there is no indication or permission to adjust this timeframe to another period such as afternoon or overnight. Thus, the deadline remains firmly set for the evening of the specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request an opportunistic observation of Cimitarra in Colombia using SAR technology. This low priority importance task involves an active radar scan with microwave surface imaging for cloud-penetrating capture, which is perfect for this type of flexible schedule operation. Please consider this as a non-essential background filler task that can be dropped or rescheduled at convenience. The target day for this request is the day after tomorrow, in the evening.

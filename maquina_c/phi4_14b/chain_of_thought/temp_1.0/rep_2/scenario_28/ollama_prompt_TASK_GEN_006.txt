@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string for 'target_day' is "the day after tomorrow."
+
+b) The exact string for 'target_diurnal_period' is "around mid-day."
+
+c) The word contained in the 'target_diurnal_period' string that must appear literally in the final request is "mid-day."
+
+d) The temporal parameters are critical context, representing a strict operational deadline. It is important to adhere to the specific time of "the day after tomorrow" and "around mid-day," without any shifts or reinterpretations to adjacent parts of the day. This ensures compliance with the specified delivery deadline for data products.
+
+### Stage 2 - Final Request
+
+I am requesting an opportunistic capture using a multispectral vegetation analysis over the region near Ecuatorial, Indonesia. This is a low priority importance task with a flexible schedule, allowing it to be dropped or rescheduled at convenience. We are looking to assess chlorophyll absorption levels and calculate the NDVI index for this area, treating it as a background survey. Please aim to complete this around mid-day the day after tomorrow, in line with the current operational workflow.

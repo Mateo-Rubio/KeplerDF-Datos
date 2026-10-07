@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in that string is "overnight," which must appear literally in the final request.
+
+d) The deadline specified by the metadata is "the day after tomorrow" during the "overnight" period. Therefore, I am not shifting the deadline to an adjacent part of the day. It is explicitly set for "overnight" on that specific date.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a routine monitoring request for Arezzo, Italy. As part of our baseline pipeline tracking, we require a high-resolution optical snapshot using daylight photography capabilities. This standard operational tasking is essential to maintaining our normal workflow status, and it needs to be completed on the day after tomorrow during the overnight period. The focus will be on clear optical imagery in true-color visual documentation for this area.

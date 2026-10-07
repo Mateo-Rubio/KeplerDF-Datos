@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For the task of converting raw metadata into a conversational request for an Earth-observation mission, we begin by examining the relevant details in the JSON object provided. 
+
+a) The exact string found in 'target_day' is "in four days". This timeframe specifies when the satellite imagery or data should be captured, providing us with a clear deadline for operational execution.
+
+b) Moving to 'target_diurnal_period', the exact string present there is "in the morning". This indicates not only when in the day the capture should occur but also helps determine the optimal environmental conditions for the requested imaging type.
+
+c) Analyzing the diurnal period further, we identify that the word contained in this string that matches from the provided list {morning, mid-day, afternoon, evening, overnight} is "morning". This detail must be explicitly included in our final request to align with operational guidelines and expectations.
+
+d) It is critical to confirm that we are adhering strictly to the temporal parameters given. The deadline "in four days" during "in the morning" should remain untouched in terms of shifting to an adjacent part of the day or altering the timeline in any way. This ensures compliance with the operational requirements, as deadlines must be met precisely without any deviation.
+
+With these elements clearly understood, we now transition into creating the conversational request.
+
+### STAGE 2 - FINAL REQUEST
+
+I have a low priority importance request for the satellite constellation planner regarding an upcoming task over the Singkep Barat region in Indonesia. We are looking to utilize VNIR sensors to perform multispectral vegetation analysis aimed at assessing chlorophyll absorption levels. Given its nature as a background survey, the scheduling can be quite flexible, so please feel free to drop or reschedule this task at your convenience. We would prefer to have the data collected in four days, specifically in the morning, though any adjustments that fit within operational parameters are welcome. This task is non-essential but will add valuable insights to our baseline understanding of the area.
