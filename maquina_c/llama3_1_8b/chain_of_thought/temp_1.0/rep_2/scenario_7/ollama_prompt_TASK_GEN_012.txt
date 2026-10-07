@@ -1,0 +1,9 @@
+Let's work through the reasoning stage.
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in the string for 'target_diurnal_period' is "morning". 
+
+d) I am not shifting the deadline, as the original 'target_day' already corresponds to a specific day relative to the current day, and the inclusion of "the morning" does not imply a shift in the time of day. It simply indicates the target time within that day for data collection.

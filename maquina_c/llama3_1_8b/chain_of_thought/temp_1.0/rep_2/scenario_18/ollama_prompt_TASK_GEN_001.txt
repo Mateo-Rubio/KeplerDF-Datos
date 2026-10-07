@@ -1,0 +1,13 @@
+Let's go through Stage 1 - Reasoning.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string "in the morning" is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day, as I am simply copying the string "tomorrow" from 'target_day' and using it as-is. The word "morning" does appear in the string "in the morning", but that is a natural inclusion based on the 'target_diurnal_period' field, and it is not an alteration or shift of the deadline.
+
+Now, let's proceed to Stage 2 - Final Request:
+
+...tomorrow we require an absolute institutional priority for multispectral vegetation analysis, capturing a high-resolution optical snapshot using day-time photography to assess chlorophyll absorption levels and calculate a vegetation NDVI index in Colombia, specifically in Aguazul. The mission must be executed during the morning period, adhering strictly to this timeline for normal operational status and a baseline pipeline tracking setup with fixed parameters representing our standard workflow update...
