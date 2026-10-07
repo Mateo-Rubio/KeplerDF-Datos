@@ -1,0 +1,14 @@
+Let's work through the reasoning for Stage 1.
+
+a) The exact string in 'target_day' is: "the day after tomorrow"
+
+b) The exact string in 'target_diurnal_period' is: "overnight"
+
+c) The single word contained in that string is: overnight
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The target diurnal period is set to "overnight", which is already included in the 'target_day' string, so I will use it verbatim in the final request.
+
+Now, let's proceed to Stage 2. Here is the operational request:
+
+```prompt
+We require a standard operational tasking for thermal mapping using a TIR sensor to capture a heat signature and surface temperature profile over Indonesia, specifically in the Banyuasin area. This commercial tasking is part of our routine monitoring and baseline pipeline tracking setup with fixed parameters representing normal operational status. The data products are expected to be delivered on the day after tomorrow overnight.

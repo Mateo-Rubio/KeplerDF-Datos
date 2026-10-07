@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This will be the specific diurnal period included in the final request.
+
+d) To confirm, I am not shifting the deadline to an adjacent part of the day. The original deadline remains the same.
+
+In the case of "in four days", I am only copying the deadline as given, without reinterpreting or altering it in any way. This meets the requirement of not shifting the deadline to an adjacent part of the day.
