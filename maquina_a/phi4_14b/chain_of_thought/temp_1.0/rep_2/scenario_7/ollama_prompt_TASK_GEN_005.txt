@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's work through each question based on the provided JSON metadata:
+
+a) The exact string in 'target_day' is "the day after tomorrow". This represents when the data product should be delivered, serving as a strict deadline for operational execution.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This indicates when the observation or capture is intended to occur within the specified day.
+
+c) The single word contained in the string "in the morning" that aligns with the options provided is "morning". This word will be directly included in the final request to ensure clarity about the timing of the observation.
+
+d) It's crucial to adhere to the temporal parameters as given, without altering or shifting the deadline. Thus, we must confirm that "in the morning" does not imply any other part of the day such as mid-day, afternoon, evening, or overnight. The specified period is strictly within the morning timeframe, ensuring we are not extending or changing it.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a low priority importance observation task for an area in Italy, specifically near Bossico. The aim is to conduct an opportunistic capture using an active radar scan for microwave surface imaging. This will allow for cloud-penetrating capture to gather ground geometry information. Please note that the schedule for this task is flexible and can be adjusted or rescheduled at your convenience, as it serves as a background survey. The data should be delivered by the day after tomorrow, in the morning.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates when the data needs to be delivered, emphasizing a clear deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day during which the satellite observation should occur.
+
+c) The single word contained in the 'target_diurnal_period' string is "morning". This will be used literally in the final request to ensure clarity regarding the time of observation.
+
+d) The task explicitly states that the observation must occur "in the morning" on a specific day. There is no indication or allowance for shifting this deadline to another part of the day, such as mid-day or afternoon. The timing is crucial and must be adhered to strictly.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority mission to conduct a multispectral vegetation analysis using VNIR over Norte. This critical payload capture involves assessing chlorophyll absorption levels and calculating a vegetation NDVI index. This is a binding contract requirement that necessitates an urgent operational execution, with the mission lock in place to ensure there are no preemptions. The satellite must deliver the data products in three days, specifically capturing this high-value information in the morning. This precise timing is essential for meeting the baseline pipeline tracking requirements and ensuring normal operational status.

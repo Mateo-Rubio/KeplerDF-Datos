@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow."
+
+b) The exact string present in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string "during the afternoon" is "afternoon." This word will be used literally in the final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters specify a strict operational deadline for data delivery, and the specific requirement is for capturing data "tomorrow during the afternoon." There's no need or indication to adjust this timeframe to any other part of the day, ensuring adherence to the given deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are requesting a routine monitoring task focused on the region around Norte, which needs to be completed by tomorrow during the afternoon. This standard operational tasking involves using near-infrared reflection to map water body boundaries or assess soil moisture levels. The data collection is scheduled as part of our baseline pipeline tracking, ensuring it aligns with fixed parameters representative of our normal workflow update processes.

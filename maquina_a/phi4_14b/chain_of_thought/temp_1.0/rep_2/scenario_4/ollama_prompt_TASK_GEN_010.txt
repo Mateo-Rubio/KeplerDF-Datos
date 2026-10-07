@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For stage one of this reasoning process, we begin by evaluating the key pieces of metadata from the task context JSON provided.
+
+a) The exact string within the 'target_day' key is "the day after tomorrow." This string specifies when the satellite data capture should occur relative to the current date, indicating that the task needs to be executed on that specific day without altering or shifting this deadline.
+
+b) The exact string in the 'target_diurnal_period' key is "in the morning." This timing detail clarifies that the data capture must occur during the morning hours on the specified target day.
+
+c) Analyzing the diurnal period string, "in the morning" contains the word "morning." This specific word must be included in our final request to describe when the observation should take place accurately.
+
+d) Confirming that we are not shifting the deadline involves ensuring that our interpretation and subsequent request adhere strictly to the timing details provided. In this case, "the day after tomorrow" and "in the morning" specify a precise time frame for data capture without any indication or permission to shift it to another part of the day.
+
+With these considerations confirmed, we proceed confidently into stage two with an accurate understanding of the timing constraints and requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking to capture high-resolution optical snapshots over Prado in Colombia, focusing on daylight photography for clear optical imagery. This commercial tasking is part of our baseline pipeline tracking setup, aligning with normal operational status updates. The capture should occur the day after tomorrow in the morning, ensuring it meets our mission's scheduled workflow.
