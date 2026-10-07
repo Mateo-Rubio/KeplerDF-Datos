@@ -1,0 +1,19 @@
+STAGE 1
+
+The exact string provided under 'target_day' is: "in four days"
+
+The exact string provided under 'target_diurnal_period' is: "in the morning"
+
+The single word contained in that string, which needs to appear literally in the final request, is: "morning"
+
+Confirming no shifting of the deadline to an adjacent part of the day: The deadline is strictly for delivery on "the morning" of the target day, without being redefined as an adjacent timeframe such as afternoon or evening.
+
+STAGE 2
+
+Given the context provided by the JSON metadata for the Earth-observation mission, our goal is to capture a multispectral vegetation analysis with high priority. The primary sensor is set to VNIR for this task, which will serve to assess the chlorophyll absorption levels in vegetation and calculate the NDVI index and surface reflectance for areas across Indonesia's Singkep Barat region.
+
+This request has been prioritized at level 1, marking it as a low-priority importance task that fits into our flexible schedule for opportunistic capture. We have allocated this as a non-essential background filler task, indicating its status as a "background survey" or "testbed tracking task". The deadline is set for "the morning" of the target day, which is scheduled to be "in four days". It's important to note that we are not altering, extending, or shifting this deadline to any other part of the day.
+
+The mission will ensure that the data captured respects the natural environment, utilizing VNIR to effectively assess vegetation health and characteristics without causing disruption. The strict operational deadline emphasizes the importance of timely execution within this timeframe to meet our baseline pipeline tracking requirements without the need for preempting more critical tasks.
+
+We aim to deliver these results on time without compromising the integrity of the data collection process. The guidelines provide a clear path to fulfill the mission objectives while maintaining attention to detail and operational rigor.

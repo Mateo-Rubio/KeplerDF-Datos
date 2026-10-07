@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string contained in 'target_day' is "the day after tomorrow".
+b) The exact string contained in 'target_diurnal_period' is "during the afternoon".
+c) The literal word contained in that string which must appear in the final request is "afternoon".
+d) No, the deadline is not being shifted to an adjacent part of the day. The 'target_day' specifies "the day after tomorrow" and 'target_diurnal_period' indicates capturing data during the "afternoon" window.
+
+STAGE 2:
+
+On the day after tomorrow, our mission is to capture high-resolution optical imagery using near-infrared sensors during the afternoon window. This critical task involves assessing soil moisture across regions in Malaysia, specifically focusing on areas within Sebauh city. We aim for clear, day-to-day photography and true-color visual documentation as our primary objective. Given this "non-essential background filler task" is labeled with a low priority level (Priority 1), please ensure to conduct this as a flexible schedule task, noting that this is an opportunistic capture that can be rescheduled at your convenience, acting purely as a background survey or testbed tracking task without altering the deadline window. The deadline for delivering this data product remains as "the day after tomorrow", during the specified "afternoon" period.
