@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in four days". This is the timeframe provided for when the task needs to be completed.
+
+b) The exact string found in 'target_diurnal_period' is "around mid-day". This indicates when during the day the observation should ideally occur.
+
+c) The word contained in 'target_diurnal_period' from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day". This must be explicitly included in the final request to specify the time of day for the task.
+
+d) There is no indication or requirement to shift the deadline to an adjacent part of the day. The deadline is strictly set for "in four days" and "around mid-day", and it should be adhered to as such without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are tasking a standard operational objective involving the La Cumbre region in Colombia. This request falls under routine monitoring as part of our baseline pipeline tracking. The satellite must conduct an active radar scan using microwave surface imaging. The focus will be on capturing cloud-penetrating imagery to assess ground geometry. Please ensure this mission is executed around mid-day and deliver the data within four days.

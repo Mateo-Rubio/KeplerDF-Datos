@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string for 'target_day' in the JSON is "in four days." This indicates the operational deadline for the task without any alteration or shifting of time. It directly specifies when the data product must be delivered.
+
+b) The 'target_diurnal_period' is specified as "in the morning." This tells us the specific time frame during the day that the satellite capture should occur, aligning with when the phenomenon of interest might be most observable or relevant.
+
+c) Within this string, the word "morning" is directly included. This temporal descriptor is crucial because it guides the timing of the satellite's observation relative to the daily cycle, which can significantly affect the data's quality and relevance, especially for thermal phenomena that can vary throughout the day.
+
+d) By specifying "in the morning" for the 'target_diurnal_period', there is a clear directive not to shift the observational window to any other part of the day. This precision ensures that the satellite captures data at the optimal time for observing the desired physical phenomenon, in this case, thermal anomalies. It's critical to adhere strictly to these parameters to fulfill the mission's objectives accurately and within the allocated timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority tasking for a high-stakes operation centered on Italia, specifically targeting the region around Povici di sotto. Our mission demands a thermal mapping exercise aimed at capturing a detailed heat signature and performing surface temperature profiling of the area. The critical nature of this payload capture necessitates an urgent operational execution with a binding contract requirement to deliver these vital data products "in four days," explicitly "in the morning." This timeframe is non-negotiable, given its alignment with peak thermal activity patterns anticipated in the specified location. The precise timing and high importance of this task underscore our commitment to acquiring essential thermal anomaly detection data, reinforcing our mission's pivotal role in environmental monitoring and analysis.

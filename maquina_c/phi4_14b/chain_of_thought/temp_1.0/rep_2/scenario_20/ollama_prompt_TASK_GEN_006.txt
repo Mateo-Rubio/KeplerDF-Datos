@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "the day after tomorrow". This phrase indicates the deadline for delivering the data products.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies when during the day the observation should occur.
+
+c) From the string "during the afternoon", the single word that must appear literally in the final request is "afternoon".
+
+d) It is confirmed that the deadline is strictly set for "the day after tomorrow" during the "afternoon", and there is no intention to shift or reinterpret this deadline to any adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a thermal mapping task over Sekadau, Indonesia, focusing on capturing a surface temperature profile or identifying thermal anomalies. This mission involves utilizing an active radar scan for cloud-penetrating capture and assessing ground geometry. It's a standard operational tasking as part of our baseline pipeline tracking with fixed parameters, representing normal operational status or a workflow update. The data needs to be delivered by the day after tomorrow during the afternoon.

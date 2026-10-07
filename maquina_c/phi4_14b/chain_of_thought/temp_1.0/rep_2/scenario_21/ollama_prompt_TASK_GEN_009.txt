@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves examining a JSON dataset to construct a realistic request for an Earth-observation mission. We'll start by addressing the four specific questions in sequence:
+
+a) The exact string found in the 'target_day' key is "in three days." This indicates when the task should be executed, providing us with a clear temporal boundary that we must respect and include in our final request.
+
+b) For the 'target_diurnal_period', the exact string provided is "in the morning." This specifies the time of day during which the observation should occur. It's crucial to adhere strictly to this timing in our request formulation.
+
+c) Analyzing the string "in the morning," we find that it contains the single word "morning" from the list of possible options {morning, mid-day, afternoon, evening, overnight}. This word will be an essential component of our final operational request, ensuring that the specified time of day is clearly communicated.
+
+d) We must confirm that the deadline for the task isn't being altered. The JSON specifies "in three days" and "in the morning." This means that the data products need to be delivered exactly on this date in the morning period, without any shift or adjustment to either the day or the time of day. Maintaining this precise timing is critical to fulfill the request as intended.
+
+Having worked through these points, we now have a clear understanding of the operational context and constraints, allowing us to move on to crafting a coherent and accurate request.
+
+**STAGE 2 - FINAL REQUEST**
+
+We need to perform a standard operational tasking for a routine monitoring operation in the region of Ecuatorial, Indonesia. This involves capturing high-resolution optical snapshots for clear daylight photography and true-color visual documentation, utilizing our primary sensor capabilities. The task is a part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status and a standard workflow update. Please ensure that this mission is carried out in three days, specifically in the morning, to capture the necessary data as per the outlined requirements.

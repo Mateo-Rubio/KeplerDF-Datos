@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific deadline for when the data products should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time period during which the observation needs to occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in 'target_diurnal_period' is "overnight." This word will be used literally in the final request.
+
+d) It's important to confirm that the deadline for delivering the data products is not being shifted. The phrase "in three days" specifies a strict operational deadline, and "overnight" indicates the time frame within which the observation should occur. The request must adhere to these parameters without any adjustment to the timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking for a multispectral vegetation analysis in the region of San Carlos de Guaroa, Colombia. This involves assessing chlorophyll absorption levels and calculating NDVI indexes, with data delivery required in three days and observations occurring overnight.

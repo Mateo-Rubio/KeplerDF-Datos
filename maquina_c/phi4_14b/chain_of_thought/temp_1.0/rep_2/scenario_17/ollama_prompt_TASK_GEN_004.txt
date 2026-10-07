@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata for the task request includes several key elements that need to be translated into a natural language request. Let's analyze these components one by one:
+
+a) The exact string present in 'target_day' is "in three days." This indicates when the data collection needs to be completed.
+
+b) For 'target_diurnal_period', the exact string is "in the evening." This specifies the time of day when the satellite should capture the imagery.
+
+c) The diurnal period string contains the word "evening," which must appear literally in the final request. This is one of the predefined options—morning, mid-day, afternoon, evening, overnight—and helps us specify the time of the day more accurately.
+
+d) It's crucial to confirm that there is no shift in the deadline to a different part of the day. The requirement specifies "in the evening," and we should adhere strictly to this period without extending or changing it to another timeframe like morning or afternoon. Therefore, we are not altering the specified time.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm reaching out to submit a low-priority importance task request for satellite coverage over Caramanta, Colombia. This is a non-essential background filler task, and I ask that you drop or reschedule at your convenience if necessary. We would like a flexible schedule for an opportunistic capture in three days, specifically targeting the evening. The mission involves utilizing a multispectral vegetation analysis using near-infrared reflectance to assess chlorophyll absorption levels and calculate the vegetation NDVI index over this area. Thank you for accommodating this request within your operational workflow as a background survey or testbed tracking task.

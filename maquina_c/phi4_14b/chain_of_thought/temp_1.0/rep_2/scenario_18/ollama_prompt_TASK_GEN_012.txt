@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves observing a location in Tanjung Jabung Timur, Indonesia using a synthetic aperture radar sensor. Let's work through the details to translate this into an operational request.
+
+a) The exact string found in 'target_day' is "tomorrow."
+
+b) The exact string found in 'target_diurnal_period' is "in the morning."
+
+c) Within that diurnal period string, the single word "morning" is explicitly mentioned. This word will be crucial to include in the final request.
+
+d) As we focus on these temporal parameters, it's important to understand they define a strict operational deadline for delivering the data products. We are not at liberty to shift this deadline to an adjacent part of the day such as mid-day, afternoon, or evening. The request must adhere strictly to "tomorrow morning," which is explicitly outlined.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task targeting Tanjung Jabung Timur in Indonesia. This non-essential background filler task can be scheduled flexibly at the operator's convenience. We seek an active radar scan using microwave surface imaging, ideal for cloud-penetrating capture, and capturing ground geometry. We aim to have this data product delivered by tomorrow morning.
