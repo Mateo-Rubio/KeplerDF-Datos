@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day". This will be the literal word used in the final request.
+
+d) Confirming that the deadline is not being shifted to an adjacent part of the day, as "mid-day" implies a specific time frame within a 24-hour cycle, rather than a broad window like "morning", "afternoon", or "evening". This means the task must be completed around noon, adhering strictly to the original deadline.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a high-resolution optical snapshot of Mamuju in Indonesia, which is an absolute institutional priority. The tasking involves standard operational tasking with fixed parameters representing normal operational status as part of a baseline pipeline tracking setup. We need this data product by in four days, around mid-day, to meet our critical payload capture requirements...

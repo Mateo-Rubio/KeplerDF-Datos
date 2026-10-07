@@ -1,0 +1,14 @@
+Here's my reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word that appears literally in the string is "morning".
+
+d) Upon reviewing the JSON metadata, I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' field specifies a specific time within a day, and I will incorporate this information into the final request without altering it.
+
+Moving on to STAGE 2:
+
+```prompt
+We require an absolute institutional priority for an active radar scan using microwave surface imaging for cloud-penetrating capture tomorrow in the morning. This mission is critical for obtaining a clear optical imagery of our target region, and we must execute this task with high priority as it falls under a binding contract requirement involving a critical payload capture. The dataset will be used for normal operational status monitoring and baseline pipeline tracking, and we expect fixed parameters representing the standard workflow update. The flexible schedule for opportunistic capture is not applicable in this case, as we require urgent operational execution and an un-preemptable mission lock to meet our deadline.

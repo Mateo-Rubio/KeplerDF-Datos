@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word that appears in the string 'target_diurnal_period' is "overnight". This will be used in the final request.
+
+d) No, the deadline is not being shifted to an adjacent part of the day. The task is specifically targeted for the overnight period, which starts at a specific time of day but ends at midnight, and not for a morning, afternoon, or evening session. The temporal parameters represent a strict operational DEADLINE to deliver the data products, NOT the orbital capture window.

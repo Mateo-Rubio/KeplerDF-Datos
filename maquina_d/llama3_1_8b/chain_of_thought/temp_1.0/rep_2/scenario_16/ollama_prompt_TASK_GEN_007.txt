@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline is still "in four days", and the word "morning" is used to specify the diurnal period within those four days.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+Obtain a high-resolution optical snapshot for daylight photography in the clear optical imagery of the area in Colombia, specifically in Páez, as part of a low priority importance request with a flexible schedule for opportunistic capture, noting to drop or reschedule at convenience. This is a non-essential background filler task where we can capture some data if time permits. The goal is to capture this data in four days, preferably in the morning.
