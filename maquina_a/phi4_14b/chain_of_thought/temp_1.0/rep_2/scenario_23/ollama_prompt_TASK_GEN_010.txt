@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string is "afternoon". This word must appear literally in the final request.
+
+d) I am confirming that there is no shift in the deadline to an adjacent part of the day. The request specifies capturing data "during the afternoon" on "today", and these terms are adhered to without modification or extension.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task to be conducted today, with a flexible schedule for opportunistic capture. We are looking for thermal mapping over Maní, Colombia, primarily aiming to capture surface temperature profiles. Given the nature of this request, we can treat it as a non-essential background filler task, allowing us to drop or reschedule at convenience. Specifically, the operation should occur during the afternoon, and this is the strict deadline to deliver the thermal anomaly detection data products.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word contained in that string which must appear literally in the final request is "morning."
+
+d) The instruction explicitly mentions that the temporal parameters represent a strict operational deadline, indicating that the delivery of data products must occur at the specified time. Therefore, there should be no alteration, extension, or shift to the deadline. Since the target day is "the day after tomorrow" and the diurnal period is "in the morning," this timing should remain intact in the final request.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require an absolute institutional priority tasking for a high-resolution VNIR mission over Indonesia, specifically focused on the city of Ecuatorial. This mission involves capturing a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. Given its binding contract requirement status, this mission is a critical payload capture with an urgent operational execution expected on the day after tomorrow in the morning. The mission lock must be un-preemptable, reflecting its mandatory directive nature.

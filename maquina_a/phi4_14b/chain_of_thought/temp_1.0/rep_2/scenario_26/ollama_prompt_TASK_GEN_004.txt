@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+**a)** The exact string found in 'target_day' is "tomorrow." 
+
+**b)** The exact string in 'target_diurnal_period' is "in the evening."
+
+**c)** The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "evening." This word will be used verbatim in the final request.
+
+**d)** In reviewing the provided JSON metadata, it is important to respect the specific temporal parameters for the mission deadline. The 'target_day' specifies "tomorrow," and the 'target_diurnal_period' specifies "in the evening." There are no instructions or allowances that permit shifting the deadline to another part of the day. This ensures that we adhere strictly to the operational requirements and deliver the data products by this precise timeframe.
+
+### Stage 2 - Final Request
+
+Please coordinate the acquisition of near-infrared reflection data over the area near Lebrija, Colombia, as a standard operational tasking within our baseline pipeline tracking. The mission involves water body boundary mapping or soil moisture assessment using fixed parameters to represent normal operational status in a routine workflow update. Ensure that this data capture is scheduled for tomorrow in the evening to comply with our tasking commitments.

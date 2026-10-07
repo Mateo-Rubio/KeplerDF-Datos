@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+The 'target_day' in the JSON data is specified as "the day after tomorrow." This is an explicit string that denotes when the task should be completed. It is important to interpret this string accurately and use it verbatim in our final request to ensure clarity regarding the deadline.
+
+The 'target_diurnal_period' is described as "in the evening." This detail provides the specific time of day within the target day when the data capture should occur. The term "evening" directly indicates the part of the day during which the task should be executed, and it must be explicitly included in the final request to align with the operational guidelines.
+
+From the given options {morning, mid-day, afternoon, evening, overnight}, the word "evening" is contained within the 'target_diurnal_period' string. This specific word conveys the time of day and is critical for accurately framing the request according to the provided temporal parameters.
+
+In confirming that there will be no alteration or shift in the deadline, it is crucial to adhere strictly to the specified parameters: "the day after tomorrow" and "in the evening." These provide a non-negotiable timeframe for task execution, meaning that any deviation from this schedule would not align with the operational requirements or constraints outlined.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a request for an observational task over Calenzana in France. Given its low importance and flexible nature, this task is treated as a non-essential background filler activity, allowing the operator to drop or reschedule it at their convenience. The focus will be on capturing a high-resolution optical snapshot for clear optical imagery during the day after tomorrow, specifically in the evening. This opportunity is ideal for opportunistic capture within a baseline pipeline tracking setup, ensuring we make the most of available resources while maintaining flexibility.

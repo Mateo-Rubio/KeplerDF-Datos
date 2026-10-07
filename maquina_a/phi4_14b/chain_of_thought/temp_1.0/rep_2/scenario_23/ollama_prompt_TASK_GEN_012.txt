@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the morning."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This word must appear literally in the final request.
+
+d) The request explicitly states "the day after tomorrow, in the morning" as the deadline. This confirms that there is no shift to an adjacent part of the day; it remains strictly within the designated timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a near-infrared reflection mission over the city of Malinau in Indonesia. This routine monitoring forms part of our baseline pipeline tracking, ensuring that water body boundary mapping and soil moisture assessment data are accurately captured with fixed parameters, reflecting normal operational status and a workflow update. The satellite should provide this critical information the day after tomorrow, in the morning, as per our schedule.

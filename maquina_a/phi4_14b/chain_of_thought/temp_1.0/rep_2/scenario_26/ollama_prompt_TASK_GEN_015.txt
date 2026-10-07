@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To construct an effective task request, I first need to interpret the JSON metadata provided.
+
+a) The exact string in 'target_day' is "in three days." This specifies when the data delivery should occur relative to the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This indicates the specific time of day for when the observation needs to be captured.
+
+c) The word "evening" from the string "in the evening" must appear literally in my final request. Out of the options {morning, mid-day, afternoon, evening, overnight}, "evening" is the word that matches the specified diurnal period.
+
+d) I need to confirm that I am not shifting the deadline to an adjacent part of the day. The temporal parameters indicate a strict operational deadline, and the request should reflect capturing data specifically in the evening, as stated, without altering it to morning or night.
+
+**STAGE 2 - FINAL REQUEST**
+
+I have a low-priority request for opportunistic capture in the Ecuatorial region of Indonesia using near-infrared reflection to assess soil moisture and map water bodies. This is a non-essential background filler task that can be dropped or rescheduled at convenience, with a flexible schedule allowing for collection in three days during the evening.
