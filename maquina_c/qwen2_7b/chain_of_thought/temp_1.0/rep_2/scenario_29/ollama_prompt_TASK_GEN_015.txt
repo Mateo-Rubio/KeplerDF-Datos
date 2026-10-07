@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "the day after tomorrow".
+b) The exact string found in 'target_diurnal_period' is "during the afternoon".
+c) The word contained within the diurnal period that needs to appear in the final request is "afternoon".
+d) Confirming the deadline shift, we do not alter the provided deadline of "during the afternoon". This means capturing the image must occur strictly during that afternoon time frame as specified.
+
+STAGE 2 - FINAL REQUEST
+
+Given the exact operational context, we are tasked with capturing a thermal mapping dataset using near-infrared (NIR) sensors aboard our satellite constellation. This high-priority mission involves an "absolute institutional priority", emphasizing the critical payload capture nature of this request. The region of interest is Malaysia, particularly focusing on Sebauh city. 
+
+The deadline for the data acquisition stands firm for "the day after tomorrow" during the afternoon hours. Precisely capturing a heat signature and surface temperature profile will aid in thermal anomaly detection and mapping heat emissions across the region. This task is part of our baseline pipeline tracking with fixed parameters, representing normal operational status.
+
+Given that this request holds low priority importance, we note the "flexible schedule" for an opportunistic capture if conditions do not align perfectly according to plan. Should circumstances permit, this "non-essential background filler task" might be dropped or rescheduled at convenience as a background survey or testbed tracking task. Yet, adherence to these deadlines is imperative, as they mark a strict operational deadline for the delivery of data products.
