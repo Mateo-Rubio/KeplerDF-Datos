@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a single, highly realistic and conversational English request for the automated satellite constellation planner. To maximize the naturalness and validation accuracy of the dataset, the following guidelines should be interpreted organically.
+
+Firstly, the geographic context should be described using a realistic combination of location details from 'location_details'. For the provided metadata, the region is 'N/A', so we can focus on combining the clean 'region_name' with the remaining valid fields. The city is 'Norte', which we can use to describe the location.
+
+Secondly, the mission allocation priority should be integrated into the request using specific operational phrases. Since the priority level is 1 (low importance), this request should be framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". The language should explicitly note to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+Thirdly, the primary sensor and physical objectives should be described in a naturally woven way. Since the primary sensor is 'VNIR', the goal is to capture a "high-resolution multicolor image" for "daylight photography", "clear optical imagery", or "true-color visual documentation" of the "chlorophyll absorption level" or "NDVI index" and surface reflectance.
+
+Lastly, the delivery deadline should be included verbatim in the request. The task has already been resolved to have a deadline of "tomorrow during the afternoon", which should be inserted into the request without rephrasing, shortening, or moving it to a different part of the day.
+
+Given these specifications, the following request can be submitted:
+
+"Capture a high-resolution multicolor image for daylight photography, clear optical imagery, or true-color visual documentation of chlorophyll absorption level or NDVI index and surface reflectance in Norte. This is a low priority importance task with a flexible schedule for opportunistic capture, where we can drop or reschedule at convenience. Treat this as a background survey or testbed tracking task. Please deliver the data by tomorrow during the afternoon."
