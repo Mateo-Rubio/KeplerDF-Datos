@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+The JSON metadata provides specific strings for the time-related parameters that need to be used verbatim in the final request. For the 'target_day' field, the exact string present is "tomorrow." This indicates the deadline for the data product delivery is set for the next day, without any ambiguity or alteration needed in the interpretation of this time frame.
+
+Similarly, for the 'target_diurnal_period,' the string given is "around mid-day." This provides a clear temporal window during which the satellite task should occur, indicating that the operation is expected to be executed in the middle part of the day. Among the options provided—morning, mid-day, afternoon, evening, overnight—the word "mid-day" is explicitly mentioned in this string. 
+
+When interpreting these time-related parameters for the final operational request, it is critical to adhere strictly to the specified deadline and time of day without any modification or shift. Therefore, there is no intention or action taken to move the task to a different part of the day than what is described by "around mid-day." This ensures that the request aligns precisely with the parameters set in the JSON metadata, maintaining the integrity and accuracy of the operational deadline as intended.
+
+**STAGE 2 - FINAL REQUEST**
+
+We require a standard operational tasking for an active radar scan using microwave surface imaging to provide a cloud-penetrating capture over the region of Majangkan in Indonesia. This mission is part of our baseline pipeline tracking, with fixed parameters representing normal operational status and constitutes a workflow update. The data acquisition is scheduled for tomorrow around mid-day, ensuring that we maintain adherence to our standard operational procedures and contractual obligations.

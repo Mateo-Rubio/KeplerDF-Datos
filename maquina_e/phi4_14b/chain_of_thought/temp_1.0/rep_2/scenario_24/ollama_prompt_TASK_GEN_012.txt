@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the deadline for data delivery is set for the day after today.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies that the desired observation time is centered around mid-day, which is the middle of the day when the sun is typically highest in the sky.
+
+c) The single word contained in the string "around mid-day" that fits from the set {morning, mid-day, afternoon, evening, overnight} is "mid-day". This word will be used literally in the final request to specify the time of observation.
+
+d) There is no indication or reason to shift the deadline to another part of the day. The operational guidelines require adherence to the specified temporal parameters without alteration. Therefore, the deadline remains set for "tomorrow around mid-day".
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority tasking for critical payload capture involving a VNIR sensor over Indonesia, specifically focusing on Ecuatorial. This mission is a binding contract requirement that necessitates urgent operational execution with an un-preemptable mission lock. We require a high-resolution multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index at this location. The data delivery deadline is set for tomorrow around mid-day, ensuring no deviation from this strict operational schedule.

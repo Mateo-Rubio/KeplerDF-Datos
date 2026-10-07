@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "today." This indicates that the task needs to be completed within the current day, providing a precise and urgent timeframe for execution.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This provides specific guidance on when during the day the data capture should occur, aligning with the desired operational window.
+
+c) Within the string "in the evening," the word "evening" is directly included. This term will be used literally in crafting the final request to maintain clarity and specificity regarding the timing of the operation.
+
+d) In this context, there is no indication that the deadline can or should be shifted to any other part of the day. The instruction to capture data "today in the evening" is explicit and must be adhered to without alteration. The task must be executed exactly within the defined timeframe to meet operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+Please schedule a standard operational tasking for today, focusing on an active radar scan using microwave surface imaging over Antiguo ETCR La Guajira (Mariana Páez) in Colombia. This is a routine monitoring mission that falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to capture cloud-penetrating data to assess ground geometry, ensuring that the capture occurs precisely in the evening.

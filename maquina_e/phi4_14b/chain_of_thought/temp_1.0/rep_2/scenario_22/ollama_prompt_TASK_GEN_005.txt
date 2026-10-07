@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the data should be delivered, with a clear deadline set for this time.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the particular time of day within "tomorrow" when the data capture should occur.
+
+c) The single word contained in the string "overnight" that must appear literally in the final request is "overnight". It denotes the specific period during which the satellite observation will take place.
+
+d) It's important to confirm that I am not shifting the deadline to another part of the day. The task is explicitly set for "overnight tomorrow," indicating that the observational task and data delivery are strictly tied to this time window. This deadline must be adhered to without any adjustments.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance observation over Norte, focusing on a high-resolution optical snapshot during the overnight period tomorrow. Please consider this as a flexible schedule task with the understanding that it can be dropped or rescheduled at convenience. This background survey serves as a non-essential task for potential data collection opportunities.

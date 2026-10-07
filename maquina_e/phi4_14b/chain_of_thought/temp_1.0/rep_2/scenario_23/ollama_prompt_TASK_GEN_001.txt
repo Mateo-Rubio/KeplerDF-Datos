@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves capturing near-infrared imagery over the city of Simití in Colombia. Let's break down the components of the task context JSON to craft a suitable request.
+
+a) The exact string in 'target_day' is "in four days." This string indicates that the data needs to be delivered within this timeframe, without any alteration.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when the satellite should capture the imagery, focusing on a specific time period during the day.
+
+c) The single word contained in the string 'overnight' from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be directly used in the final request to describe the timing of the observation.
+
+d) It is crucial to confirm that we are not shifting the deadline. The given timeframe "in four days" and the diurnal period "overnight" are strict operational deadlines. There is no indication or allowance to move these parameters to any other part of the day or extend the deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a standard operational tasking for a near-infrared reflection mission over Simití, Colombia. The objective is to assess soil moisture levels and create water body boundary maps using a high-resolution near-infrared sensor. This task is part of our routine monitoring operations and must be completed as a fixed parameter in the baseline pipeline tracking. Please ensure that the imagery capture occurs overnight, with data delivery scheduled for four days from today.

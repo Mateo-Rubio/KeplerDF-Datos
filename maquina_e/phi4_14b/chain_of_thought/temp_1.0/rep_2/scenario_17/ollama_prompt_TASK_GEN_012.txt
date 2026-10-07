@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days." This phrase indicates the specific timeframe within which the data product must be delivered. It implies that the task should be completed and results delivered four days from now.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This indicates the time of day during which the satellite data collection is intended to occur or when it will be relevant for analysis.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning." This clearly indicates the timeframe within a day when the activity is focused or scheduled.
+
+d) It's important to confirm that I am not shifting the deadline to an adjacent part of the day. The operational context requires that the data product be delivered four days from now specifically "in the morning," meaning the deadline for delivery does not change to another part of the day, such as afternoon or evening. Thus, the deadline is fixed for the morning of the target day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking requiring active radar scan coverage over Indonesia, specifically focusing on the city of Ecuatorial. This request involves using microwave surface imaging to perform cloud-penetrating capture that will help in observing ground geometry effectively. The mission falls under a routine monitoring category as part of our baseline pipeline tracking setup, ensuring fixed parameters for maintaining normal operational status. Please ensure the data is delivered in four days, specifically gathered or provided "in the morning" to meet our delivery deadline.
