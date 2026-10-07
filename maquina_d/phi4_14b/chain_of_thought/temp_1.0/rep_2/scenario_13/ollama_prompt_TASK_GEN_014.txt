@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The JSON object provides several key pieces of information that help us construct a natural and conversational task request.
+
+a) The exact string found in 'target_day' is "in three days." This indicates the deadline by which the data products must be delivered, which is strictly three days from now. This is crucial for planning as it sets the timeline for the mission execution.
+
+b) The exact string for 'target_diurnal_period' is "overnight." This specifies when the satellite needs to capture the required imagery or data, emphasizing that the task is planned for nighttime operations. This timing may be chosen for various reasons, such as better visibility of certain phenomena or reduced atmospheric interference.
+
+c) Within the 'target_diurnal_period' string "overnight," the word that appears literally and is one of the options provided is "overnight." This directly informs us of the time frame during which the satellite should operate to complete the task.
+
+d) It's essential to confirm that there is no alteration or shifting of the deadline. The phrase "in three days" specifies a clear operational deadline for delivering the data products. Additionally, "overnight" indicates the specific period within that deadline when the data capture should occur. There is no indication or necessity to shift this period to another part of the day, such as morning or afternoon, which aligns with the guidelines provided.
+
+### Stage 2 - Final Request
+
+We are looking to schedule a satellite task over Norte to obtain a high-resolution optical snapshot during the nighttime. This task is classified as a low priority importance request with a flexible schedule for opportunistic capture. Please note that this is considered a non-essential background filler task, and it can be dropped or rescheduled at convenience if necessary. We aim to deliver the data products in three days, specifically targeting an overnight period to achieve clear optical imagery under low-light conditions. This serves as part of our ongoing background survey efforts, where capturing true-color visual documentation is desired but not critical.

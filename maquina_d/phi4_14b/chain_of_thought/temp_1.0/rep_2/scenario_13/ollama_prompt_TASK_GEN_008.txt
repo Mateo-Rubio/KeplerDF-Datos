@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task is centered around the region of France, specifically focusing on an area named Norte. When considering how to translate this task request into a natural language request, several key elements from the provided metadata need to be taken into account.
+
+a) The exact string in 'target_day' provided in the JSON is "the day after tomorrow". This sets a clear deadline for when the satellite imagery needs to be captured and delivered. It gives a specific temporal frame without ambiguity, indicating that we are looking two days ahead from the current date.
+
+b) For 'target_diurnal_period', the string given is "around mid-day". This specifies the time of day that the imagery should ideally be captured. It points towards a timeframe that generally represents when the sun is at its zenith, providing certain lighting conditions that are crucial for the sensor's optimal operation.
+
+c) Within that string, the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears literally is "mid-day". This term directly relates to the specific time frame within the day that has been chosen for capturing the imagery. It will be important to include this word verbatim in the final request to meet the metadata's specifications.
+
+d) Confirming the temporal parameters, it is clear that there should not be any shift or adjustment of the deadline to an adjacent part of the day. The specification "around mid-day" clearly indicates the intended time frame for image capture and is a critical aspect of the mission planning. Adjusting this timeframe could potentially compromise the quality and relevance of the data collected, given that certain environmental conditions and lighting situations are most favorable during these hours for the sensor in use. Thus, maintaining the specified 'target_day' and 'target_diurnal_period' as they are is crucial for meeting the mission's objectives effectively.
+
+### STAGE 2 - FINAL REQUEST
+
+We're looking to conduct a flexible schedule task over France, specifically around the area of Norte, with a low priority importance that allows for opportunistic capture. The aim is to use the satellite's near-infrared reflection capabilities for an innovative exploration into water body boundary mapping or soil moisture assessment in this region. Given the nature of this task, we would like to keep this as a background survey, with the understanding that it can be dropped or rescheduled at convenience based on other priorities or operational constraints. We are aiming for imagery capture on the day after tomorrow around mid-day. This timeframe should give us an excellent opportunity to gather insightful data without impacting more critical mission requirements.

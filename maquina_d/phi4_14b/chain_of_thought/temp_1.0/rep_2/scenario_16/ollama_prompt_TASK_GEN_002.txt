@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the strict operational deadline for the delivery of data products, specifying that the task must be completed three days from the current date.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the satellite observation should occur, providing further precision to the scheduling requirements.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "evening". This word will be used verbatim in the final request to describe the time when the satellite should capture data.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline specified is strictly "in three days, in the evening", and this timeframe must be adhered to without alteration to ensure accurate delivery of the required data products.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a task request for an absolute institutional priority mission focusing on near-infrared reflection over the region of Silea, Italy. This involves capturing water body boundaries and assessing soil moisture gradients in high detail. The task is critical, reflecting a binding contract requirement that necessitates urgent operational execution with an un-preemptable mission lock. The data capture must be completed in three days, specifically in the evening, to ensure timely delivery and compliance with our operational mandates.

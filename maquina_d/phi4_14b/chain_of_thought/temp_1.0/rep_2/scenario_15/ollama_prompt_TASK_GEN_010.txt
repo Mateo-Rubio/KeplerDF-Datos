@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The word contained in that string which matches one from the set {morning, mid-day, afternoon, evening, overnight} is "evening". This word must appear literally in the final request.
+
+d) The deadline specified by the metadata is "tomorrow in the evening." There is no indication that this should be adjusted or shifted to a different part of the day. The task requires adherence to this strict operational deadline without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting routine monitoring over San Pablo, Colombia, as part of our standard operational tasking. This involves deploying the near-infrared sensor for water body boundary mapping and soil moisture assessment. The data capture is scheduled for tomorrow in the evening, aligning with our fixed parameters and baseline pipeline tracking. This task represents a normal operational status update and should be executed as per the established workflow.
