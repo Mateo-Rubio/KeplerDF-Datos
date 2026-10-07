@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days."
+
+b) The exact string found in 'target_diurnal_period' is "overnight."
+
+c) The word contained within 'target_diurnal_period' that matches one of the specified options {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must be included in the final request.
+
+d) Based on the provided metadata, there is no indication that the deadline should be shifted to an adjacent part of the day. The instructions explicitly state that the temporal parameters represent a strict operational DEADLINE for delivering data products and should not be altered or extended. Therefore, the deadline remains strictly set for "in three days" during the "overnight" period.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority request to capture some opportunistic data over Tame in Colombia, specifically using active radar scanning for microwave surface imaging. This involves a cloud-penetrating capture to assess ground geometry and is ideal for conditions that could obscure optical sensors. Given its low priority importance, this task can be scheduled flexibly, so please feel free to drop or reschedule it at your convenience. The target timeframe for this mission is in three days during the overnight hours. This survey will serve as a non-essential background filler task within our broader data collection efforts.

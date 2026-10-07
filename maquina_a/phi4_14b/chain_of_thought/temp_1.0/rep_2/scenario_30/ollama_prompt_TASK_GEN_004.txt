@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves a mission using Synthetic Aperture Radar (SAR) over Uribe, Colombia, with a low-priority operational context. Let's break down the necessary components of this task.
+
+a) The exact string in 'target_day' is "in three days". This indicates when the imagery or data must be delivered to the requesting entity.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the satellite should capture the data. Given that SAR imaging is capable of penetrating clouds, an overnight operation can be ideal for capturing ground conditions without interference from sunlight or cloud cover.
+
+c) The single word contained in that string is "overnight". This term clearly sets the expected time frame for capturing the required data.
+
+d) As per the operational guidelines provided, the deadline indicated by 'target_day' and 'target_diurnal_period' must not be altered or shifted. Therefore, the imagery must be captured precisely "in three days" during the overnight period, as specified. There is no adjustment to be made regarding the time of day, ensuring that data delivery aligns with the specified "overnight" timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority operational request for an SAR-based mission targeting Uribe, Colombia. This task is characterized as a "non-essential background filler task," with a "flexible schedule" that allows for "opportunistic capture." The imagery to be obtained should be an "active radar scan," utilizing "microwave surface imaging" capabilities for "cloud-penetrating capture," potentially piercing through heavy weather conditions to provide valuable ground geometry insights. This mission is considered a "low priority importance" request and may be subject to rescheduling or cancellation as per convenience, given the flexibility associated with its scheduling. The task's fulfillment deadline is set strictly "in three days," with data collection occurring specifically during the "overnight" period. The satellite operator should ensure that these parameters are adhered to without deviation from the provided timeframe.

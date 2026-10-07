@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by examining the JSON metadata for our target task context:
+
+a) The 'target_day' string specified in the JSON is "tomorrow". This indicates that we have a clear deadline to meet by the next day, without specifying a particular time.
+
+b) For 'target_diurnal_period', the string provided is "in the morning". This indicates that the satellite's observation is intended for early hours of the day following tomorrow.
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "morning". This specific time frame will be highlighted directly in our final operational request.
+
+d) It is crucial to note that while the timeframe for data capture is specified for "in the morning" of tomorrow, we are not altering or extending this deadline to another part of the day. The mission must be executed strictly within the mentioned time frame to ensure compliance with the specified operational deadline.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task targeting the city of Brenna in Italy. This request is characterized by its flexible schedule, and we are open to opportunistic capture at the operator's convenience, potentially dropping or rescheduling as needed. The primary objective involves obtaining a high-resolution optical snapshot using visible light, which aims to provide clear daylight photography and true-color visual documentation. The target for this task is tomorrow morning, aligning with our established timeline for data delivery while keeping the mission flexible within these specified parameters.

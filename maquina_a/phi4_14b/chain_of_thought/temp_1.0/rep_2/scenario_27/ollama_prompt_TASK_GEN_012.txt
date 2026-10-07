@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's break down the task by addressing each component of the metadata provided in the JSON format.
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates that the request is scheduled for the second day from the current date, establishing a clear and specific timeline for when the data should be delivered.
+
+b) The exact string for 'target_diurnal_period' is "during the afternoon." This specifies the time of day during which the satellite observation should occur, focusing on the latter half of the day.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "afternoon." This word will be used directly in the final request to ensure clarity about the timing of the observation.
+
+d) I need to confirm that I am not shifting the deadline to a different part of the day. The metadata explicitly states "during the afternoon," which means the request must be executed within this specific timeframe on "the day after tomorrow." This ensures adherence to the strict operational deadline without any modifications to the specified diurnal period.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an observational task focusing on thermal mapping for the region of Kapuas Hulu, Indonesia. The objective is to capture surface temperature profiles and detect any thermal anomalies in the area, which can be vital for understanding environmental conditions or potential hazards. Given the low priority level of this request, it's treated as a non-essential background filler task, offering flexibility in scheduling. The request involves opportunistic capture, allowing for adjustments or rescheduling at the operator's convenience. Specifically, we are targeting data collection during the afternoon on the day after tomorrow. This flexible scheduling aligns with our operational standards for low-priority tasks while ensuring that any useful thermal data is captured within the specified timeframe.

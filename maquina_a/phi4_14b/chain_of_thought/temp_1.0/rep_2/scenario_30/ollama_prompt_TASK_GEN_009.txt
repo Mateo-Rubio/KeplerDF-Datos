@@ -1,0 +1,13 @@
+### Stage 1 - Reasoning
+
+a) The exact string in 'target_day' is "in three days." This indicates the mission must be completed within this timeframe, establishing a deadline for operational execution.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when the data capture needs to occur, indicating that the task should take place during the night hours.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight." This is the specific period during which the satellite's observation is scheduled, and it must be included literally in the final request.
+
+d) It is confirmed that there is no shifting of the deadline to an adjacent part of the day. The specified diurnal period of "overnight" remains unchanged, ensuring that the operational requirement is strictly adhered to as planned.
+
+### Stage 2 - Final Request
+
+We have a binding contract requirement for an absolute institutional priority involving a critical payload capture in the region of Gilirang, Indonesia. This task necessitates an urgent operational execution and an un-preemptable mission lock. We require an active radar scan using microwave surface imaging to achieve cloud-penetrating capture of the target area's ground geometry. The mission is scheduled to occur overnight, with a strict delivery deadline set in three days. Please prioritize this high-importance directive to ensure timely and accurate data acquisition.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task requires understanding the metadata from the provided JSON context for generating a realistic and conversational request to an automated satellite constellation planner.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates when the task should be executed, maintaining clarity for scheduling purposes without any alteration.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." It specifies the time of day during which data collection needs to occur, ensuring the mission aligns with operational constraints.
+
+c) The word "evening" from the set {morning, mid-day, afternoon, evening, overnight} appears in the 'target_diurnal_period' string. This detail is crucial for framing the timing within the request accurately.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The requirement is strictly to collect data "in the evening" on "the day after tomorrow," maintaining the specified operational deadline precisely as defined.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a low-priority importance request for thermal mapping over the region around Radicondoli, Italy. The task involves capturing a heat signature or surface temperature profile using thermal imaging sensors. This is not a critical mission, so I note that it should have a flexible schedule, potentially being dropped or rescheduled at convenience. Ideally, this would be an opportunistic capture, fitting in as a non-essential background filler task. Please arrange for the data to be gathered on the day after tomorrow in the evening, adhering strictly to this operational deadline.
