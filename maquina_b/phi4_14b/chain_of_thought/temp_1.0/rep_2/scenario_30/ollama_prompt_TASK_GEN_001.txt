@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in four days". This indicates when the data delivery should occur, not when the satellite capture will happen.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day that the observation needs to be captured.
+
+c) The single word from {morning, mid-day, afternoon, evening, overnight} contained in this string is "morning". This indicates the specific part of the day when the satellite should capture the data.
+
+d) I confirm that I am not shifting the deadline. The task must be completed and the data delivered "in four days" specifically "in the morning," as stated in the metadata. This ensures adherence to the strict operational deadline without any alterations or adjustments.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority tasking for a high-resolution optical snapshot using VNIR sensors aimed at conducting multispectral vegetation analysis, including chlorophyll absorption level assessments and NDVI index calculations. This mission is of critical importance as it involves a mandatory directive to capture specific data over Sabana de Torres, Colombia. Please treat this as an un-preemptable mission lock with urgent operational execution needed. The delivery of this dataset is crucial, and we require the data "in four days" specifically "in the morning." This task represents a binding contract requirement for our critical payload capture and must be treated with the utmost priority.

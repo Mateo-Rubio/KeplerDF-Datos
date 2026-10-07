@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+To craft a natural and effective request for the Earth-observation task, I will analyze each component of the provided JSON data.
+
+a) The exact string found in 'target_day' is "in three days". This specifies when the requested data capture should be completed and delivered. It indicates a deadline rather than the timing of satellite activity.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the preferred time of day for the data collection, which impacts the conditions under which the satellite will perform its task.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained within that string is "evening". This word will be directly used in the final request to specify the timing of the task.
+
+d) Confirming there is no adjustment or shift of the deadline is crucial. The deadline remains strictly as "in three days" and the data collection must occur "in the evening". Any alteration would misrepresent the urgency and specificity of the task's requirements.
+
+With these considerations, I am prepared to move on to crafting a request that seamlessly integrates this information into a natural language format, adhering to the given operational guidelines for low-priority tasks using TIR sensors.
+
+### STAGE 2 - FINAL REQUEST
+
+I am reaching out with a flexible schedule request for an Earth-observation mission focusing on thermal mapping to capture surface temperature profiles in Bontang, Indonesia. This is a low-priority importance task that involves a flexible schedule and opportunistic data capture, with instructions to drop or reschedule at convenience if needed. The goal is to obtain thermal anomaly detection using TIR sensors. Please plan for the data collection to be completed and delivered in three days' time, specifically "in the evening". This will serve as a background survey to help monitor heat emissions in the area.

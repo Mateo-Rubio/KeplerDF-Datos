@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The first step is to examine the key temporal details from the provided JSON metadata to ensure an accurate and realistic translation into our final request. Starting with the 'target_day', the exact string given in the JSON is "the day after tomorrow". This phrase will be used verbatim to specify the deadline for the data delivery, ensuring that the mission timeline is precisely aligned with the operational requirements.
+
+Next, I look at 'target_diurnal_period'. The exact string provided here is "in the morning", indicating when the data acquisition should occur. The use of this specific time period highlights the preferred timeframe for capturing the satellite imagery or data.
+
+Moving forward to identify which specific part of the day is embedded within this phrase, the word "morning" stands out as it appears explicitly in the string "in the morning". This particular diurnal period is crucial as it dictates when the observation task should be executed, allowing for clarity in planning and execution.
+
+Finally, it's important to confirm that there is no alteration or shift of the deadline from what has been defined. The phrase "the day after tomorrow" is specific to a date, and "in the morning" is definitive about the time on that particular day. There is no indication or necessity to adjust the timing to another part of the day, ensuring strict adherence to these parameters.
+
+With this understanding of the temporal context in place, I can confidently translate the metadata into an operational request that fully respects the outlined requirements and constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting a task request for an urgent operational execution of an active radar scan using microwave surface imaging over Mogotes, Colombia. This task is an absolute institutional priority with a binding contract requirement to achieve a critical payload capture in the morning on the day after tomorrow. The mission is un-preemptable and mandates piercing heavy weather or capturing ground geometry without deviation from this strict timeline.

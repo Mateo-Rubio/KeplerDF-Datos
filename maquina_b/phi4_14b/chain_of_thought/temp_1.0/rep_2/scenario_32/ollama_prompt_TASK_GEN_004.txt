@@ -1,0 +1,7 @@
+### STAGE 1 - REASONING
+
+The target day specified in the JSON metadata is "in three days." This string needs to be incorporated verbatim into our request, indicating when the task should be completed. The target diurnal period mentioned is "in the evening," which guides us on when during that specific day the satellite imagery should be captured. When examining this phrase, we identify that the specific part of the day mentioned here is "evening." It's important to ensure that the deadline for delivering data products aligns with this timing, as per operational guidelines, and we do not reinterpret or shift this period to a different time of the day, such as morning or afternoon.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a mission to capture an active radar scan over El Piñal in Colombia using microwave surface imaging. This task is designated as a standard operational tasking within our baseline pipeline tracking setup, reflecting its medium importance with fixed parameters representing normal operational status. We aim for a cloud-penetrating capture of ground geometry and plan to complete this task in three days, specifically in the evening.

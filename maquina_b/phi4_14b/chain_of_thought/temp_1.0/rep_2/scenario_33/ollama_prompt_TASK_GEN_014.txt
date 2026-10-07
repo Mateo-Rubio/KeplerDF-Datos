@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The metadata provides specific details that need to be translated into a natural and conversational request.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task must be completed by the next day after today, ensuring urgency in execution without any shifts or extensions of the deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time during which the satellite should capture the required data, emphasizing a specific window within the day rather than any part of the day like morning or afternoon.
+
+c) The single word contained in the diurnal period string that must appear literally in the final request is "evening." This is the critical part of the day identified for capturing the necessary data.
+
+d) It's confirmed that there is no shifting of the deadline to an adjacent part of the day. The task must be completed tomorrow during the evening, maintaining the integrity of the given operational deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority task in Norte, which necessitates a binding contract requirement for an urgent operational execution with a critical payload capture by tomorrow. This involves an active radar scan using microwave surface imaging to achieve cloud-penetrating capture. The mission lock is un-preemptable due to its high importance, ensuring the data is captured precisely during the evening.

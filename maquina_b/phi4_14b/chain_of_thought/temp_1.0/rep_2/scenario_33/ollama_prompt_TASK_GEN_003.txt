@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string for 'target_day' is "the day after tomorrow." This indicates the precise deadline by which the satellite imagery data should be acquired.
+
+b) The exact string for 'target_diurnal_period' is "during the afternoon." This specifies when during the target day the observation should occur.
+
+c) The single word contained in the string "during the afternoon" is "afternoon." This will be used literally in the final request to describe the time of the observation.
+
+d) The requirement is to adhere strictly to the deadline given without shifting or altering it. The diurnal period specified as "during the afternoon" on "the day after tomorrow" establishes a clear and non-negotiable window for when the data needs to be captured, and this must not be moved to any other part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority request for satellite imagery over the Ecuatorial region in Indonesia. This task involves conducting multispectral vegetation analysis using a VNIR sensor, with an emphasis on assessing chlorophyll absorption levels and calculating an NDVI index. Given its designation as a low priority importance, this is intended as a flexible schedule for opportunistic capture. Please note that this operation can be considered a non-essential background filler task, where adjustments or rescheduling should occur at your convenience. The data products are needed on the day after tomorrow during the afternoon, adhering strictly to the deadline provided.
