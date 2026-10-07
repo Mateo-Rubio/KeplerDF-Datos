@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I submit this task request to an automated satellite constellation planner. The operational guidelines direct me to interpret the raw physical simulation metadata provided in JSON format while emphasizing organic interpretation, realistic conversational tone, natural language usage, and validation accuracy.
+
+The geographic context points us to focus on 'region_name' and nested 'location_details'. For our specific location, we're looking at Colombia's La Cumbre city, but since it's not specified, I'll use the clean region name provided as 'region_name'.
+
+Our priority level is medium importance (Priority 2), which implies a professional tone appropriate for standard operational tasks. I will frame this request as part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Our primary sensor of interest is SAR, which should be presented as an active radar scan using microwave surface imaging techniques, allowing for cloud-penetrating captures and capturing ground geometry through various weather conditions.
+
+Our target day is scheduled 'in four days', and the target diurnal period specified is 'around mid-day'. I'll include these phrases verbatim in my request as they're already set by an upstream module, respecting the upper limit for data availability without changing or shortening their context.
+
+In conclusion, this task aims to capture a high-resolution SAR image over the region of Colombia's La Cumbre city, focusing on an active radar scan utilizing microwave surface imaging techniques. This standard operational tasking will serve as part of our routine monitoring process in the baseline pipeline tracking setup with predefined parameters reflecting normal operational status.
+
+The execution is to be carried out in four days precisely around mid-day, ensuring that we adhere to the provided timeframe without rephrasing or altering it in any way.

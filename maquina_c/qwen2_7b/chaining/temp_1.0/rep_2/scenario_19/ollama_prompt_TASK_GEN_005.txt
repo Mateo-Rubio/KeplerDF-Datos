@@ -1,0 +1,17 @@
+Please allocate a highly-realistic satellite mission to acquire an active radar scan, leveraging microwave surface imaging technology, for cloud-penetrating capture of Norte's ground geometry. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status and standard workflow updates. This request is classified as a "standard operational tasking" and has no impact on deadline adherence; the stipulated data availability limit is the day after tomorrow in the evening.
+
+As for the geographic context, while Norte is mentioned, it's recognized that country and city details are unavailable. Consequently, this operational description relies on the clean 'region_name' field or any remaining valid fields from 'location_details' to provide a realistic location description.
+
+This mission involves assessing the necessity of conducting an active radar scan to ensure that our baseline pipeline tracking operations can continue smoothly without interruptions. The satellite constellation planners should consider this request as part of their routine monitoring processes, with an understanding that this operation does not require urgent execution but is essential for maintaining the continuity of standard operational tasks.
+
+Given the absence of country and city details, the description must be crafted around the 'region_name', if available, or other fields from 'location_details' to paint a naturalistic picture of the area of interest. The primary sensor, SAR, dictates the mission focus on capturing ground geometry under various weather conditions by utilizing microwave surface imaging techniques.
+
+This task is not an "absolute institutional priority" or a "binding contract requirement," as its classification falls into the category of medium importance. However, it is acknowledged that the operational context involves critical payload capture and mandatory directives, emphasizing the importance of executing this mission promptly yet within standard operational parameters.
+
+Regarding delivery deadlines, the data availability limit set by an upstream module is 'the day after tomorrow in the evening,' which must be included verbatim in the request documentation. The deadline stipulation should not influence decision-making on when to conduct the mission but merely represents a clear upper boundary for data release.
+
+As for other aspects of this mission:
+- Do not use raw technical system tags, underscores, or coordinate arrays. Instead, combine the JSON parameters naturally.
+- Use descriptive language that accurately represents the operational objectives linked to each sensor type: VIS for high-resolution optical snapshots suitable for daylight photography and clear optical imagery; SAR for active radar scans using microwave surface imaging that can pierce heavy weather; TIR for thermal mapping to capture heat signatures or surface temperature profiles; VNIR for multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the vegetation NDVI index, along with surface reflectance; and NIR for near-infrared reflection assessments for water body boundary mapping and soil moisture assessment.
+
+This structured approach ensures that satellite mission planners can easily understand the request's intent while respecting operational priorities and deadline constraints.
