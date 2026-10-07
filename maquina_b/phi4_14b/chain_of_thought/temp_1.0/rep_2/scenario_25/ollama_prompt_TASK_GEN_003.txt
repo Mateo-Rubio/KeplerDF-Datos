@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word contained in the 'target_diurnal_period' string that matches one from the list {morning, mid-day, afternoon, evening, overnight} is "overnight." This word must appear literally in the final request.
+
+d) The temporal parameters are a strict operational deadline, and I will not shift the deadline to an adjacent part of the day. The task must be executed exactly "in three days" during the "overnight" period.
+
+### STAGE 2 - FINAL REQUEST
+
+We have an absolute institutional priority mission in Indonesia, specifically in Kutai Barat, requiring a high-resolution optical snapshot for clear daylight photography. This critical payload capture is a binding contract requirement and must be executed urgently, with no possibility of preemption. The satellite constellation planner must ensure this task is locked in and completed "in three days" during the "overnight" period.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task is to interpret the JSON metadata for a satellite observation request and translate it into a conversational English format. Let's begin by addressing the specific questions in order:
+
+a) The exact string contained in 'target_day' is "in four days". This indicates when the data collection must be completed, which is a strict deadline.
+
+b) The exact string within 'target_diurnal_period' is "overnight". This specifies the time during the day when the observation should occur.
+
+c) The word contained in that string, which needs to appear literally in our final request, is "overnight". It indicates the precise period for capturing the data.
+
+d) It is important to confirm that the deadline, "in four days", is not being shifted to an adjacent part of the day. The operational requirement specifies that this temporal parameter represents a strict deadline, and we must adhere strictly to this timeframe without any alterations or shifts in timing. Therefore, we maintain the original specification of "overnight" during "in four days".
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an upcoming opportunity for a low priority importance task with a flexible schedule that can be opportunistically captured as a non-essential background filler task. In four days, during the overnight period, we would appreciate it if the satellite could take a high-resolution optical snapshot over Cáchira, Colombia, focusing on capturing clear optical imagery in daylight conditions. This will provide true-color visual documentation, but please feel free to drop or reschedule this request at your convenience if needed.

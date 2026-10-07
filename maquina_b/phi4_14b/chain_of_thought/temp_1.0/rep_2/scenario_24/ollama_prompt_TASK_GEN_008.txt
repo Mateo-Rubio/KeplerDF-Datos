@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For stage one, we'll analyze the JSON metadata to ensure our task request is accurate and aligns with operational guidelines.
+
+**a)** The exact string in 'target_day' from the JSON data is "the day after tomorrow." This indicates the specific day by which the mission needs to deliver the required data product, highlighting a strict deadline that must be adhered to.
+
+**b)** The exact string in 'target_diurnal_period' is "in the morning." This defines the time of day when the satellite should capture the imagery, emphasizing an operational requirement for timing rather than being open to any moment of the day.
+
+**c)** Within the phrase "in the morning," the word "morning" directly appears. This specific time reference will be included literally in our final request to ensure clarity about the data capture window.
+
+**d)** We must confirm that we are not shifting the deadline to a different part of the day. The metadata clearly specifies "in the morning," which indicates that the mission should adhere strictly to this diurnal period. Therefore, we have no reason to reinterpret or shift this requirement to any other time frame such as mid-day, afternoon, evening, or overnight.
+
+With these considerations in mind, we move on to formulating a natural and precise operational request.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm requesting a low priority task for an opportunistic satellite pass over Lentigione, Italy, targeting high-resolution optical snapshot capture using daylight photography. This task is non-essential but should be scheduled flexibly, possibly rescheduled or dropped at convenience. The imagery should be acquired the day after tomorrow in the morning.
