@@ -1,0 +1,17 @@
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'targetdictio
+
+## Your task:Generate a complex data request instruction based on the provided document, focusing on patient demographics and health outcomes. Incordictional sentences should be removed, replace technical terms with layman explanations where necessary, and integrate specific operational phrases to indicate urgency or routine nature as suggested by the original document's priority levels (e.g., "immediate action required", "standard procedure"). The request must include information on age range, gender distribution, type of health condition, and treatment effectiveness but avoid using direct statistics. Also, incorporate a mention of geographic variation in outcomes if present. Your instruction should be framed as a conversational English request that would appear plausible for submission to a data analyst or epidemiologist studying the document's content.
+
+Document:
+
+The study involved 250 patients (Age range: 30-65 years) with Type 2 Diabetes Mellitus (T2DM), predominantly female (Gender ratio: ~2:1, Female to Male), across three different locations: Urban area A, Rural area B, and a small island community C. Treatment effectiveness varied significantly, with some patients responding well to Metformin alone, while others required combination therapy including SGLT2 inhibitors or GLP-1 receptor agonists. Notably, there was a higher prevalence of cardiovascular complications in the urban area A compared to rural areas and the small island community C. Mortality rates were also notably lower in the small island community C due to better access to healthcare facilities and adherence to treatment regimens. The document suggests genetic factors might play a role, as patients from rural area B showed a different response pattern compared to urban areas.
+
+a) What is the specific age range of the patients mentioned in the study?
+b) What is the gender distribution ratio among the patients?
+c) What type of health condition are these patients suffering from?
+d) Does the treatment effectiveness vary, and if so, how does it differ between locations?
+e) Is there a noticeable difference in mortality rates among the three different locations?
+f) Are genetic factors mentioned as playing a role in the varied response to treatment?
+
+In Stage 2, please construct your request following the above instructions.
