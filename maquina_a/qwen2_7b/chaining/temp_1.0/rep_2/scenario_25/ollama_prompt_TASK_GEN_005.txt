@@ -1,0 +1,15 @@
+Translate raw physical simulation metadata into a conversational English task request for an automated satellite constellation planner. The objective is to ensure naturalness and validation accuracy in the dataset.
+
+GEOGRAPHIC CONTEXT: In the picturesque region of Slovenia, focusing on the charming city of Norte, our mission requires a detailed observation of this area.
+
+MISSION ALLOCATION PRIORITY: This task holds a lower priority importance; hence, it can be viewed as an opportunistic background filler task that can be conveniently scheduled or dropped at your convenience. The language should reflect this flexibility without compromising clarity.
+
+SENSORS AND PHYSICAL OBJECTIVES: We're utilizing our active radar satellite to conduct an essential task—assessing the ground geometry through cloud-penetrating capture capabilities using microwave surface imaging techniques, a typical task within the standard operational pipeline tracking setup with fixed parameters.
+
+DELIVERY DEADLINE: The deadline for this task is set as 'the day after tomorrow during the afternoon'. This is your upper limit for data availability without the need to adjust or move the timing within the day.
+
+Incorporating these elements into the task request:
+
+"Please observe the region near Norte, Slovenia, using our active radar satellite for an assessment of ground geometry through cloud-penetrating capture techniques. The 'the day after tomorrow during the afternoon' is our deadline for this essential background survey task. Due to its low priority importance, it can be scheduled at your convenience, serving as a non-essential background filler task within our normal operational status."
+
+This request captures the essence of the task while maintaining the operational guidelines provided."

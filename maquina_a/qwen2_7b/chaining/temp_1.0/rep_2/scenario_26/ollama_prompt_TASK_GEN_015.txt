@@ -1,0 +1,15 @@
+We're in charge of an Earth observation mission operator seeking a task from an automated satellite constellation planner. The objective is to convert raw physical simulation metadata provided in JSON format into a single, highly realistic and conversational English request.
+
+GEOGRAPHIC CONTEXT: The focus is on the Indonesian region with its tropical characteristics, described as "Ecuatorial Indonesia" for a more vivid representation.
+
+MISSION ALLOCATION PRIORITY: Given that the priority level is 1 (low importance), this request should reflect the casual tone expected of such tasks. The priority signifies that the task is part of the baseline pipeline tracking setup requiring standard operational parameters and represents normal operational status or a routine monitoring exercise.
+
+SENSORS AND PHYSICAL OBJECTIVES: The primary sensor involved is Near-Infrared (NIR). The mission aims to capture the "near-infrared reflection" for purposes including water body boundary mapping and soil moisture assessment, which will aid in discriminating various gradients across the area under observation.
+
+DELIVERY DEADLINE: The request stipulates that the task should be accomplished by an evening deadline three days from now. This specific upper limit for data availability must be inserted verbatim into our request, as it represents the resolved date and time of data delivery.
+
+Our request is structured to maximize naturalness and validation accuracy by integrating these contextual elements in a conversational tone suitable for such low-priority tasks while adhering to all operational guidelines:
+
+"Three days from now, around the evening period, we are setting forth an Earth observation mission involving the utilization of a Near-Infrared (NIR) sensor for critical data capture over the tropical Indonesian region known as Ecuatorial Indonesia. This task, while part of the standard operational pipeline, requires us to focus on assessing water body boundaries and soil moisture levels through near-infrared reflection analysis. The primary goal is to capture valuable information that will contribute to our understanding of environmental conditions without pressing deadlines or strict priority levels attached, ensuring a flexible schedule for this background survey activity."
+
+This paragraph integrates all elements from the JSON into a single cohesive request, tailored according to operational guidelines and aiming for both natural language flow and maximum dataset validation accuracy.
