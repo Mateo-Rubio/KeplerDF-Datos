@@ -1,0 +1,5 @@
+Given the operational guidelines and the context provided by the JSON metadata, our Earth-observation mission operator is tasked with capturing a high-resolution optical snapshot of the region in Hrvatska, specifically Primorsko-goranska županija. This request is categorized as a low priority importance task, which means it can be accommodated within a flexible schedule and treated as a non-essential background filler task.
+
+The mission aims to gather data during the afternoon on the day designated as "tomorrow". The primary sensor involved will be the VNIR (Visible Near-Infrared) camera, which is essential for assessing chlorophyll absorption levels and calculating the vegetation NDVI index. This will enable us to understand surface reflectance and provide valuable insights into the health of the vegetation in the region.
+
+The deadline for delivering this data product is strictly set for tomorrow afternoon, as indicated by the 'target_day' and 'target_diurnal_period' fields in the JSON metadata. We are not altering or extending this deadline; it represents a strict operational requirement that must be met without any adjustments to the specified time frame.
