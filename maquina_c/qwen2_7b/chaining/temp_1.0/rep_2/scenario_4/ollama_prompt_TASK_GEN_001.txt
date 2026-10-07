@@ -1,0 +1,14 @@
+Translate raw simulation metadata into a highly realistic request:
+
+The objective is to translate raw physical simulation metadata provided in JSON format into a single, natural request for an Earth-observation mission operator. The dataset will be interpreted organically according to the following guidelines to ensure maximum naturalness and validation accuracy:
+
+Geographical context:
+In three days in the evening, we are tasked with capturing a daylight photograph of Colombia's picturesque city of Calamar using our VNIR sensor as part of a background survey. This request carries low priority importance, implying that it can be flexibly scheduled at convenience, treating it as a non-essential background filler task with flexible parameters for opportunistic capture.
+
+Sensor and physical objectives:
+Our goal is to assess the chlorophyll absorption level in the lush vegetation using our VNIR sensor. This involves taking a snapshot that provides insight into surface reflectance and overall health conditions without the complexity of technical jargon or abbreviations.
+
+Delivery deadline:
+The data must be available in three days in the evening, as specified by an upstream module. We will deliver this snapshot of Colombia's beauty, focusing on Calamar's unique characteristics for a low priority background survey task, allowing for flexibility and convenience in scheduling.
+
+By interpreting these guidelines, we will deliver a conversational request that respects the naturalness of language and the structural hierarchy of mission allocation priorities.
