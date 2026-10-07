@@ -1,0 +1,15 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in the string from (b) is "morning".
+
+d) The deadline specified does not extend or shift to any adjacent part of the day. It stays exactly as provided.
+
+STAGE 2:
+
+Given the absolute institutional priority level and a binding contract requirement, a critical payload capture involving our primary sensor, the Near-Infrared (NIR), we are tasked with capturing high-resolution optical snapshots of Colombia, specifically focusing on the city of Puerto Lleras. This mission prioritizes obtaining clear daylight photography and true-color visual documentation for detailed analysis of the area. As an essential background survey request, with a flexible schedule allowing for opportunistic capture within the designated parameters, it falls under our baseline pipeline tracking setup for normal operational status.
+
+The deadline to deliver this data product is tomorrow, with the operational execution focusing on the morning hours. This time frame is strictly adhered to, as it represents the exact moment in time when the satellite constellation must capture images of the targeted location, not a window for orbital passes or a countdown metric. Therefore, all operations will be precisely aligned with this 'target_day' and 'target_diurnal_period' to ensure accuracy, timing, and efficiency without any need for alteration or shifting to accommodate other tasks.
