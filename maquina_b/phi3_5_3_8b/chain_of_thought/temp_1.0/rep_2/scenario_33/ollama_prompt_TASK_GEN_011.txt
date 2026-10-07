@@ -1,0 +1,21 @@
+python
+def user_to_dict(user):
+    # Define the initial structure of the dictionary with placeholders
+    user_dict = {
+        "first_name": None,
+        "last_name": None,
+        "username": None,
+        "email": None,
+        "date_of_birth": None,
+        "bio": None,
+        # Additional fields can be added here if needed
+    }
+    
+    # Extract user data from the `user` object and populate the dictionary
+    for key in user_dict:
+        user_dict[key] = getattr(user, key, None)  # Get attribute or assign None as default
+        
+    return user_dict
+
+# Example usage with a hypothetical 'user' object
+converted_data = user_to_dict(hypothetical_user)

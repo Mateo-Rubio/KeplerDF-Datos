@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the task needs to be completed by the next day from the current reference point.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies a time window centered on mid-day, which is crucial for planning the satellite operation timing.
+
+c) The single word contained in the string "around mid-day" is "mid-day". This is important as it must appear literally in the final request to ensure clarity about the operational timing.
+
+d) I confirm that the deadline is not being shifted to any other part of the day. The task must be executed specifically around mid-day on tomorrow, adhering strictly to the provided timeframe.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational task as part of our baseline pipeline tracking. The mission involves performing an active radar scan using microwave surface imaging over the region near the city of Norte. This should provide cloud-penetrating capture capabilities and reveal ground geometry. The mission allocation priority is medium importance, indicating this is a routine monitoring task with fixed parameters, reflecting a normal operational status update. We need to ensure that this task is completed around mid-day tomorrow. Please proceed accordingly to maintain our workflow standards.

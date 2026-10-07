@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The JSON metadata provides specific details for an Earth-observation task request. Let's examine these details step-by-step:
+
+a) The 'target_day' is specified as "tomorrow" in the provided metadata. This indicates that the desired deadline for obtaining the data products is the day after today.
+
+b) The 'target_diurnal_period' in the metadata is given as "overnight." This specifies the time period during which the satellite observation should ideally occur, focusing on nighttime activities or conditions.
+
+c) Within the phrase "overnight," the word that aligns with the specified set of words {morning, mid-day, afternoon, evening, overnight} is "overnight" itself. This directly indicates the period during which the operation is intended to be carried out.
+
+d) The operational guidelines are clear in emphasizing that the 'target_diurnal_period' represents a strict deadline for data delivery. There is no indication or allowance to shift this period to another part of the day, such as morning or afternoon. Thus, the request must adhere to the "overnight" timeframe as stated.
+
+### Stage 2 - Final Request
+
+For a standard operational tasking in Colombia, specifically near the city of San Joaquín, we require a near-infrared reflection survey to be conducted tomorrow overnight. This routine monitoring is part of our baseline pipeline tracking for assessing water body boundaries and soil moisture levels. Please ensure that the fixed parameters align with our normal operational status and schedule this as a standard workflow update.

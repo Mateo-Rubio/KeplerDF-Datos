@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's break down the task request according to the provided metadata and guidelines:
+
+a) The exact string for 'target_day' is "the day after tomorrow." This specifies when the satellite imagery is expected to be captured relative to the current date.
+
+b) The exact string for 'target_diurnal_period' is "around mid-day." This indicates the specific time of day during which the observation should take place.
+
+c) From the options provided, the single word that is contained in the string "around mid-day" is "mid-day." This is a key detail that must be included in the final request to specify the exact time of day for the observation.
+
+d) It's important to confirm that we are not shifting the deadline. The instruction is clear that the temporal parameters represent a strict operational deadline, and we must adhere to them as specified without any alteration. Therefore, "the day after tomorrow around mid-day" is the precise window during which the data capture should occur.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance task for a flexible schedule with an opportunistic capture approach. Please plan for a high-resolution optical snapshot using visible light imagery of Mesetas in Colombia. This will be a non-essential background filler task, and you may drop or reschedule at your convenience if needed. The goal is to achieve clear optical imagery during daylight photography on the day after tomorrow around mid-day. Thank you for accommodating this request as part of our ongoing background survey activities.
