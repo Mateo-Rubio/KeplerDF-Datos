@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am submitting this task request to the automated satellite constellation planner. We require a highly realistic dataset by converting raw physical simulation metadata into a single English request. Here are our operational guidelines for interpretation:
+
+1. GEOGRAPHIC CONTEXT: Combine JSON parameters naturally, utilizing 'country', 'city', and 'landmark' fields from 'location_details'. For this request, the location is in Italia, specifically in the city of Norte.
+
+2. MISSION ALLOCATION PRIORITY: Based on the priority level being 3 (High Importance), we articulate an authoritative tone, emphasizing it as an absolute institutional priority or a binding contract requirement involving critical payload capture and requiring urgent operational execution that cannot be pre-empted. 
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor is TIR. We aim for thermal mapping to capture a heat signature and surface temperature profile for thermal anomaly detection, thereby mapping heat emissions.
+
+4. DELIVERY DEADLINE: The data is due in four days in the morning as an upper limit for availability; this deadline must be verbatim in the request.
+
+Given these guidelines, my request is:
+
+"As part of a high importance mission, we require thermal mapping data capturing the heat signature and surface temperature profile to perform thermal anomaly detection, utilizing our satellite's TIR sensor. This task is set for a four-day horizon with an expected availability in the morning. We emphasize this operational request as requiring urgent and un-preemptable execution, given its critical payload capture implications."
+
+Please plan your allocation accordingly to meet these strict requirements and ensure timely delivery."
