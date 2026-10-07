@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word contained in that string is "evening." This word must appear literally in the final request.
+
+d) The given strings explicitly define both the day and time of the deadline. "Tomorrow" indicates the specific day, and "in the evening" specifies the part of the day without any ambiguity or need for shifting. Therefore, the deadline is strictly set for tomorrow evening, and there will be no shift to an adjacent part of the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a critical mission with absolute institutional priority requiring immediate attention for Crespino in Italia. The task is to secure a thermal mapping data capture by utilizing TIR sensors, specifically designed to detect a heat signature and conduct a surface temperature profile analysis. This operation must be executed as a binding contract requirement, necessitating an urgent operational execution and an un-preemptable mission lock. The critical payload capture for this high-stakes objective is scheduled for tomorrow evening, aligning with our strict operational deadline.

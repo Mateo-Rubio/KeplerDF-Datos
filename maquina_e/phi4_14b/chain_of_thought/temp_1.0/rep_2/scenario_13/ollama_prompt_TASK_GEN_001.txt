@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by analyzing the provided JSON metadata to craft an appropriate task request.
+
+a) The exact string found in 'target_day' is "in three days." This indicates that the mission must be completed by that specific timeframe without any alteration.
+
+b) In 'target_diurnal_period,' the string "overnight" is specified. This denotes the timing during which data capture should occur.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} present in this context is "overnight." This term must be explicitly incorporated into the final task request to maintain clarity regarding the operational timeframe.
+
+d) It's crucial to confirm that we're not altering the deadline from "overnight" to another part of the day. By maintaining the original specification of "overnight," we ensure adherence to the strict operational deadline provided in the metadata. The deadline is neither shifted nor extended, as the capture should occur precisely during the night period specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a high-priority task for our automated satellite constellation planner involving the city of Rionegro in Colombia. This request carries the utmost importance and urgency due to its classification as a Priority 3 mission, indicating an absolute institutional priority that is non-negotiable. The operation involves capturing high-resolution near-infrared imagery focused on water body boundary mapping and soil moisture assessment, crucial for environmental monitoring efforts in this region. The satellite must capture this data overnight, precisely "in three days," without deviation from the deadline. This task is a critical component of our strategic objectives, emphasizing its non-preemptable nature and the binding requirement to obtain these essential images during the specified timeframe.
