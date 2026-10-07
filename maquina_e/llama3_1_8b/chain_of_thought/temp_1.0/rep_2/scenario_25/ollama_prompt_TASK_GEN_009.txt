@@ -1,0 +1,14 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string for 'target_diurnal_period' is "overnight". It's a direct match, and I'll use it verbatim in the final request.
+
+d) I've confirmed that I'm not shifting the deadline to an adjacent part of the day. The request specifically asks for the overnight period, so there's no need to alter or extend the deadline.
+
+Moving on to STAGE 2:
+
+```prompt
+I would like to task the satellite with an opportunistic capture, using a low priority importance request with a flexible schedule, for a non-essential background filler task where the operator notes to drop or reschedule at convenience. This task is for background survey and testbed tracking purposes. The goal is to conduct an active radar scan using microwave surface imaging, piercing heavy weather or capturing ground geometry, in the area of Indonesia, specifically the region around Malinau, on the day after tomorrow, overnight.

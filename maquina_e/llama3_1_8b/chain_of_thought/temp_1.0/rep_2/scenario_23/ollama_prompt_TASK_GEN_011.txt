@@ -1,0 +1,6 @@
+Here's the answer to Stage 1:
+
+The "target_day" field contains the exact string: "the day after tomorrow". 
+The "target_diurnal_period" field contains the exact string: "in the morning".
+The single word contained in the "target_diurnal_period" string is "morning".
+I have confirmed that I am not shifting the deadline to an adjacent part of the day. The deadline remains on the day immediately following "tomorrow", which is still "the day after tomorrow".

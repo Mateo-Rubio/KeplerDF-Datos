@@ -1,0 +1,11 @@
+Here's the reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in that string is "mid-day".
+
+d) I am not shifting the deadline to an adjacent part of the day, as "mid-day" is a specific time period that falls within the same general day as the target_day.
+
+Now I'm ready for Stage 2.
