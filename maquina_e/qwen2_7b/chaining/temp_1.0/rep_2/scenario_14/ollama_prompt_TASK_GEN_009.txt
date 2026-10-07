@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request for operational allocation. The geographic context involves Indonesia, with an Ecuatorial city, focusing on the specific operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Given the 'region_name' in Indonesia, I will describe the location naturally without using raw technical system tags or coordinate arrays. Instead, I will blend the country, city, and landmark fields to present a realistic context for the satellite mission's observation point.
+
+2. MISSION ALLOCATION PRIORITY: The 'priority_level' is 1, so my request should be framed as a "low priority importance" task with flexible scheduling considerations. This means treating it as a "non-essential background filler task", describing it explicitly as such with a mention of its "flexible schedule" and potential for "drop or rescheduling at convenience", recognizing it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The 'primary_sensor' is set to SAR, which means we're dealing with an active radar scan using microwave surface imaging techniques, ideal for piercing through heavy weather or capturing ground geometry.
+
+4. DELIVERY DEADLINE: Since the deadline for this task has been resolved as "the day after tomorrow during the afternoon", this phrase must be inserted into the request verbatim as the stated upper limit for data availability without rephrasing, shortening, or relocating it.
+
+In conclusion, I am requesting that the satellite constellation plan its mission for "the day after tomorrow during the afternoon" to conduct an active radar scan ("SAR") on Indonesia's Ecuatorial region using microwave surface imaging techniques. This task serves as a "non-essential background filler task", with operational considerations recognizing its flexible schedule and potential for dropping or rescheduling at convenience. The mission is aimed to serve as a "background survey" or "testbed tracking task", focusing on capturing ground geometry and providing insights through microwave surface imaging under the afternoon's natural conditions.

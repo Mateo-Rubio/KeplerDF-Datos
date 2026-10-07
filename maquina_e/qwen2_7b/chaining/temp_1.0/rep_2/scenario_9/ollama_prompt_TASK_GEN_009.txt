@@ -1,0 +1,13 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, we aim to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request for operational execution.
+
+Given the 'primary_sensor' field set as TIR (thermal infrared sensor), this translates to a "highly accurate thermal mapping task" required for capturing "heat signatures", which is crucial for identifying surface temperature profiles or detecting thermal anomalies. This particular mission involves assessing heat emissions across various regions, thus highlighting our need for detailed thermal data.
+
+Moving on to the 'location_details' with the provided 'country': Indonesia, and considering the 'city': Ecuatorial, this setting implies we'll be focusing on a part of Indonesia near the equator, a geographic context essential for conducting environmental studies or monitoring specific climate phenomena accurately.
+
+Considering the 'priority_level': Low Importance (1), our request frames this task as a "non-essential background filler" with flexible scheduling. This indicates that while it's part of our regular operations, it can be dropped or rescheduled at convenience, positioning it as a "background survey" suitable for monitoring less time-sensitive conditions.
+
+The 'target_day': "in three days", with the 'target_diurnal_period' set as "around mid-day" emphasizes our request for daylight imagery, specifically during the middle hours of the day. This is in alignment with our objective to capture high-resolution optical snapshots for "daylight photography", "clear optical imagery", and detailed "true-color visual documentation". This time frame provides the best conditions for visual clarity and data integrity.
+
+Our goal for this task is to efficiently execute these operational directives, ensuring that we capture all necessary thermal data without delay, as per our established guidelines. We trust our automated satellite constellation planner will handle this request promptly, adhering to the predefined priorities while managing asset contractual values accordingly.
+
+In conclusion, this request aims to translate the technical metadata into a natural and operationally relevant communication format, addressing the specific needs of thermal anomaly detection across Indonesia's equatorial regions, tailored for operational execution that aligns with our strategic guidelines and deadlines. Let us proceed with this task knowing that our automated system will take care of scheduling it appropriately within our baseline pipeline tracking setup.

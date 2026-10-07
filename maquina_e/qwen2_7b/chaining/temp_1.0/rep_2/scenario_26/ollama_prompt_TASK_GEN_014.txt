@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a highly realistic English request. The operational guidelines guide us in interpreting the metadata organically and converting it into natural language.
+
+The target geographic context is in "Italia", focusing on the region named "Norte". We shall not use any raw technical system tags, underscores, or coordinate arrays in this request. Combining the JSON parameters naturally, we describe this location using a realistic combination of the country and city fields, as well as the 'landmark' field from 'location_details', though we acknowledge that "landmark" was "N/A". Thus, we'll simply highlight that it's in Italy's Norte region.
+
+The mission allocation priority is set to 1, denoting low importance. We'll frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", implying that it serves as a "background survey" or a "testbed tracking task". The priority level does not indicate how close the deadline is but instead describes the nature of the operational task at hand.
+
+For the sensor and physical objectives, we're tasked with capturing a scene using the primary sensor designated as "NIR", or near-infrared. We'll interpret this as an objective to map water bodies and assess soil moisture by performing "near-infrared reflection" analysis. The goal is to create "true-color visual documentation" that enables us to "discriminate gradients" of various environments.
+
+The deadline for delivering this data has already been resolved, which is stated to be "in four days overnight". This phrase must be included verbatim in the request as the upper limit for data availability. We're not altering, shortening, or moving its timing into a different part of the day; it serves as a firm, pre-established deadline.
+
+In summary, my task request for this mission involves capturing "near-infrared reflection" to map water bodies and assess soil moisture in the Norte region of Italy on the night of the data's availability. This is a "low priority importance" background survey that we can drop or reschedule as per convenience, serving as an additional opportunity for tracking tasks.

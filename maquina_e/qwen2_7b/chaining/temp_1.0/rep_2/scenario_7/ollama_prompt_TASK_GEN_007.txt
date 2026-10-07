@@ -1,0 +1,13 @@
+Operating the automated satellite constellation planner for Earth observation missions requires translating the raw physical simulation metadata into a conversational English request. For this task, our focus is on ensuring maximum naturalness and validation accuracy by interpreting operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combining 'region_name' with 'country', 'city', and 'landmark' fields from 'location_details'. Here, Colombia and Valdivia are sufficient to describe the location without including "N/A" fields.
+
+2. MISSION ALLOCATION PRIORITY: The priority level indicates mission allocation authority and asset contractual value rather than proximity to deadlines. For Priority 1 (Low Importance), it is treated as a "non-essential background filler task". A flexible schedule for "opportunistic capture" aligns with this level, noting that it's not a "drop or reschedule at convenience" but can be treated as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Describing 'primary_sensor' (SAR) in an operational context for an "active radar scan" to capture "cloud-penetrating images", "microwave surface features", or "ground geometry". A concise explanation of the goal is preferred over technical terms.
+
+4. DELIVERY DEADLINE: Inserting the precise deadline "the day after tomorrow around mid-day" verbatim into the request ensures a clear upper limit for data availability without rephrasing, shortening, or moving it to different parts of the day.
+
+In light of these guidelines, our task request is:
+
+Operating the Earth-observation mission for the automated satellite constellation involves capturing an "active radar scan" of Valdivia, Colombia with a "non-essential background filler task" status for the day after tomorrow around mid-day. The operational goal is to achieve detailed cloud-penetrating images or capture ground geometry features using microwave surface imaging. This request embodies the essence of our mission without delving into raw technical specifics.
