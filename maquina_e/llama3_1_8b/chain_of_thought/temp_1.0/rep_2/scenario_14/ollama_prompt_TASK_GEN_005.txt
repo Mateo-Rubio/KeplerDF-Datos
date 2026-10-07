@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational deadline to deliver the data products.
+
+Since the deadline is specified as "in four days", it implies that the mission must be completed within four days from the current date. This does not mean that the deadline can be shifted to an adjacent part of the day, but rather that the entire timeframe must be met.
+
+STAGE 2 - FINAL REQUEST
+
+```prompt
+Translate this task into a realistic and conversational English request. We require a high-resolution optical snapshot for daylight photography using the VIS sensor in Blera, Italia, as part of a standard operational tasking with fixed parameters representing normal operational status. This is a low-priority importance request with a flexible schedule for opportunistic capture, and we would like to complete this task in four days in the morning.

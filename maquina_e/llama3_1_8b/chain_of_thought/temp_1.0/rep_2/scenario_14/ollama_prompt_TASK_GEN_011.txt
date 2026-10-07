@@ -1,0 +1,11 @@
+To translate the raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request.
+
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight", but among the options provided, it is "evening". However, I will use the correct answer, which is that no word is exactly contained among the given options. The closest match is "evening" but the actual word used in the JSON is "overnight", which means the target diurnal period is indeed at night.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request is explicitly targeting the "tomorrow" day and the "overnight" period, which implies that the deadline is for data delivery the next day during nighttime.

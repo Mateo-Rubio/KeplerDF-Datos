@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+The JSON metadata provides the following information:
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". I will include this word verbatim in the final request.
+
+d) Confirming, I am not shifting the deadline to an adjacent part of the day. The target_day is specifically set to today, and the target_diurnal_period is overnight, which implies that the data products should be delivered by the end of the current day, after the nighttime hours have passed.
+
+All conditions are met, and I can proceed to STAGE 2.

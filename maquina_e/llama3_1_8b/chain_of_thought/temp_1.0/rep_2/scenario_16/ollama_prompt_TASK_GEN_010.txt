@@ -1,0 +1,13 @@
+Let's go through the reasoning for STAGE 1.
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in the string is "evening". This is the word that will be used in the final request.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' parameters represent a specific time, and I will use them verbatim in the final request without altering or extending it.
+
+Now, let's proceed to STAGE 2. 
+
+...our task context is to conduct a near-infrared reflection survey over Colombia, focusing on Pantanillo, today in the evening, as part of an absolute institutional priority mission for critical payload capture. We require high-resolution optical snapshot capabilities using multispectral vegetation analysis to assess chlorophyll absorption level and calculate the NDVI index for surface reflectance...

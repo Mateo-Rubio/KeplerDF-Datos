@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight". This word must appear literally in my final request.
+
+d) Upon reviewing the provided JSON, I confirm that I am not shifting the deadline to an adjacent part of the day. The 'target_day' and 'target_diurnal_period' fields together specify a strict operational deadline for delivering data products, with no flexibility to alter, extend, shift, or reinterpret the deadline.
+
+STAGE 2 - FINAL REQUEST
+
+...As an absolute institutional priority, I require an active radar scan using microwave surface imaging for cloud-penetrating capture during overnight hours tomorrow. The tasking must be executed as part of a critical payload capture with mandatory directive and urgent operational execution.
