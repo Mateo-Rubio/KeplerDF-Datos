@@ -1,0 +1,10 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is: "today"
+b) The exact string in 'target_diurnal_period' is: "overnight"
+c) The word contained in the 'target_diurnal_period' string is: "overnight"
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+The Earth-observation mission operator needs a task request for today, with an emphasis on capturing data from a nighttime perspective. This operational task involves using VNIR sensors to perform multispectral vegetation analysis under low light conditions during the overnight period. The primary objective is to assess chlorophyll absorption levels and calculate the NDVI index, as well as evaluate surface reflectance across the vast agricultural landscapes of Kutai Kartanegara in Indonesia. The requirement is stringent yet flexible, emphasizing a low priority importance while noting that this can be a background survey or testbed tracking task. This request aims to collect high-resolution optical snapshots that capture true-color visual documentation during the darkness, ensuring critical data for agricultural monitoring and decision-making processes without impacting the existing baseline pipeline tracking systems. The task is not time-sensitive beyond the deadline for data delivery, respecting the priority level and allowing for opportunistically scheduling when conditions are favorable and other tasks are completed.
