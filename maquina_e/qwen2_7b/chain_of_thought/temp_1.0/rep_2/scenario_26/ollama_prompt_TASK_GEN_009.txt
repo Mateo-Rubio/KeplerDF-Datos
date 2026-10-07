@@ -1,0 +1,25 @@
+STAGE 1
+
+a) The exact string contained in 'target_day' is "in four days".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word contained in the 'target_diurnal_period' string that must appear literally in the final request is "morning". 
+d) The deadline for capturing the data is strictly set to be in four days, in the morning.
+
+STAGE 2
+
+To meet our medium importance priority level, we aim to conduct a routine monitoring task of capturing thermal anomalies on a high-resolution optical snapshot from a remote location in the equatorial region of Indonesia. Scheduled for execution in four days, during the serene early hours of the morning, this endeavor is part of our baseline pipeline tracking initiative designed for fixed parameters under normal operational status. This thermal mapping mission will allow us to document surface temperature profiles as part of our ongoing observational efforts for heat emission analysis and anomaly detection.
+
+Given the importance of adhering to the exact time frame provided, we are not extending or adjusting the deadline to accommodate an adjacent part of the day. The objective is to capture this critical data during the early morning hours when the conditions align most favorably with our operational requirements. Please proceed with scheduling the satellite constellation for a targeted acquisition on that specific day and time as outlined in the operational metadata.
+
+```prompt
+"Target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 2,
+  "target_day": "in four days",
+  "target_diurnal_period": "in the morning"
+}"
