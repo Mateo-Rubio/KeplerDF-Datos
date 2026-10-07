@@ -1,0 +1,11 @@
+Translate a single, highly realistic, and conversational English task request based on the raw physical simulation metadata provided. We aim to maximize the naturalness and validation accuracy of the dataset by interpreting operational guidelines carefully:
+
+Given the 'TIR' primary sensor for thermal mapping of Norte, an area within the region without country details specified, we focus on capturing a heat signature through this tool. This request falls under 'Priority 1 (Low Importance)', requiring a casual tone and flexible scheduling.
+
+The 'TIR' sensor aims to provide us with surface temperature profiles by assessing heat emissions from the region, crucial for detecting thermal anomalies that may indicate activities such as industrial processes or heat sources in the landscape.
+
+With the delivery deadline set for "tomorrow in the morning", we ensure that this low priority importance task is executed at convenience, serving as a background survey for monitoring purposes. Norte's location within the region does not have details like country or city names, so our interpretation avoids technical tags or coordinate arrays and uses a realistic combination of 'region_name' fields.
+
+To sum up this request succinctly:
+
+"Embark on a low-priority importance task focused on thermal mapping using our 'TIR' sensor for Norte. Aim to capture heat signatures through assessing surface temperature profiles with the ultimate goal of identifying thermal anomalies in the landscape. Proceed with casual and flexible scheduling as you prepare for delivery by tomorrow morning during the time slot allocated for this operation."
