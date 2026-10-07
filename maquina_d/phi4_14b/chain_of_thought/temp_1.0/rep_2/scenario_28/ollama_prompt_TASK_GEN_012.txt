@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The first task is to interpret the 'target_day' key from the JSON context provided. The string contained within this key reads "in three days." This indicates a specific timeframe that should not be altered or extended in any way, as it represents the strict operational deadline for delivering the data products.
+
+Next, I'll address the 'target_diurnal_period' key. The exact string here is "around mid-day." It specifies the time during which the observation should occur within the target day. This period must be reflected accurately in the final request to adhere strictly to the operational guidelines.
+
+From the phrase "around mid-day," it's clear that the word "mid-day" is a critical element, as it directly describes when the data capture should happen. It indicates a specific time of day, which should appear literally in our final request to maintain the intended temporal parameters.
+
+Lastly, I must confirm that there is no intent or need to shift this deadline to any other part of the day. The given information does not suggest any adjustments; therefore, the deadline remains precisely set for "around mid-day" in three days.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking aimed at capturing high-resolution optical snapshots over Ecuatorial in Indonesia. As part of our baseline pipeline tracking setup with fixed parameters, we require clear optical imagery of the area. This commercial tasking needs to be completed in three days, around mid-day. Please ensure that the operation proceeds according to our normal operational status and routine monitoring framework, aligning perfectly with this specified timeframe.

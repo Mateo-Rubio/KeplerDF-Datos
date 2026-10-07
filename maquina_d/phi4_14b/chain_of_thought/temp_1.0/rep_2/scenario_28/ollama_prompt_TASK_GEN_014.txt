@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow."
+
+b) The exact string present in 'target_diurnal_period' is "in the morning."
+
+c) The word contained in the string that matches one of {morning, mid-day, afternoon, evening, overnight} is "morning."
+
+d) Confirming there is no alteration, extension, or shift of the deadline to an adjacent part of the day. The original time frame specified is "the day after tomorrow" and "in the morning," which must be adhered to as given in the JSON metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request with a flexible schedule for opportunistic capture, targeting Norte, Slovenia. It’s a non-essential background filler task, so please feel free to drop or reschedule at convenience. We're looking to perform a multispectral vegetation analysis, aiming to assess chlorophyll absorption levels or calculate an NDVI index and surface reflectance using VNIR sensors. This survey is part of our routine monitoring and testing operations. The data capture should occur the day after tomorrow in the morning.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates a specific time frame relative to the current date for when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the target day the task should ideally be executed, focusing on a period of darkness.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight". This word will be directly incorporated into the final request to indicate the desired timing for the satellite observation.
+
+d) It's crucial to adhere strictly to the provided deadline and diurnal period. There is no room for shifting the deadline to an adjacent part of the day; it must occur as specified. The task is set for "the day after tomorrow" during the "overnight" period, and this timeframe should not be altered or interpreted differently.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task for an opportunistic capture in the flexible schedule targeting Indonesia near Malinau. We would like you to consider a non-essential background filler task where you can drop or reschedule at convenience if necessary. Specifically, we need an active radar scan using microwave surface imaging to achieve cloud-penetrating capture capabilities, which might be useful for piercing heavy weather or capturing ground geometry in that region. The task should be executed the day after tomorrow during the overnight period. Please proceed with this background survey as it fits into your workflow.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow." This specifies the operational deadline for when the task needs to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This indicates the time of day when the data capture should occur.
+
+c) The single word contained in that string, which appears literally in my final request, is "evening." This will be used to specify the time of day for the task.
+
+d) I must confirm that I am not shifting the deadline to an adjacent part of the day. The request must adhere strictly to the specified timing of "in the evening" on "the day after tomorrow," ensuring no changes are made to these temporal parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+Please schedule a thermal mapping task over La Vega, Colombia, to capture a surface temperature profile. This is a standard operational tasking and part of our baseline pipeline tracking. Ensure data acquisition occurs in the evening on the day after tomorrow.
