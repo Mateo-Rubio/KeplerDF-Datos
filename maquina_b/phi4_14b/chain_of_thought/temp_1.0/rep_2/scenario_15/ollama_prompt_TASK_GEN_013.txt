@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+The task involves a specific target day and diurnal period for satellite imagery over Facatativá, Colombia. First, let's analyze the 'target_day' field. The exact string present is "the day after tomorrow," indicating that data delivery is expected to be completed on this specific day. It's crucial to adhere strictly to this timeline as it sets a clear deadline for operational fulfillment.
+
+Next, we look at the 'target_diurnal_period,' which is denoted by the string "overnight." This specifies the time during which the satellite should capture imagery or data, in this case, when it's nighttime. For our purposes, the term "overnight" must be preserved in its entirety in the final request.
+
+Considering the temporal context, we identify that the single word "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is directly relevant to our description of the diurnal period. This precise wording must appear verbatim in the operational request to convey the correct timing for data capture.
+
+Finally, it's essential to confirm that we are not adjusting or shifting the deadline to a different part of the day. The parameters indicate that while the satellite imagery should be captured "overnight," the completion and delivery of these products must occur on "the day after tomorrow." Therefore, we are aligning both the capture timing and delivery timeline without altering their specific constraints.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a routine monitoring task set up for a commercial operation over Facatativá, Colombia. The requirement is for high-resolution optical snapshots to be captured overnight, focusing on clear optical imagery or true-color visual documentation of the region. This task aligns with standard operational tasking and forms part of our baseline pipeline tracking system with fixed parameters. The delivery of this data product is expected on the day after tomorrow as per our normal workflow update schedule.

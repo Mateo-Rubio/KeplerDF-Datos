@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days." This specifies the timeframe by which the data products are required.
+
+b) The exact string found in 'target_diurnal_period' is "in the evening." This indicates the specific time of day for the task execution.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "evening." This word needs to be used literally in the final request to specify the time of capture.
+
+d) The requirement is clear: we are not permitted to shift the deadline from "in three days" or from the specified "in the evening." The mission must capture the data exactly within these given parameters, adhering strictly to both the deadline and the diurnal period.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need an absolute institutional priority task for a thermal mapping mission over the Bolívar region in Colombia. This critical payload capture involves obtaining a surface temperature profile using thermal imaging. Given its high importance as a binding contract requirement, this mission has a mandatory directive to be executed urgently and is un-preemptable with an operational lock. The data products must be delivered "in three days," specifically targeting the evening for capturing the heat signature. This timeframe cannot be shifted; it is crucial that the mission adheres precisely to these parameters for accurate thermal anomaly detection in the designated region.

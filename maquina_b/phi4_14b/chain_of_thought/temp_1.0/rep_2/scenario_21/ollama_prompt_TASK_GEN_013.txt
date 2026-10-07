@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+To begin with, let's examine the 'target_day' field. The exact string present in this field is "the day after tomorrow." This indicates that the data collection or observation is scheduled for two days from today.
+
+Next, we move on to the 'target_diurnal_period.' The specific string provided here is "during the afternoon." This denotes the precise time of day when the satellite's sensor should capture the necessary data, ensuring it aligns with optimal conditions, like sufficient sunlight for a VIS sensor.
+
+Identifying which single word from the set {morning, mid-day, afternoon, evening, overnight} appears in the 'target_diurnal_period' is our next task. The word "afternoon" is explicitly included in this string, which will be crucial in phrasing our request to reflect this timing accurately.
+
+Finally, it's essential to confirm that we are not altering the deadline from its specified time. The requirement is explicitly stated as "during the afternoon" of "the day after tomorrow," and any deviation from this specific timing would misrepresent the mission's operational parameters. Therefore, we are adhering strictly to these given deadlines without shifting them to an adjacent part of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for our satellite constellation. The objective is to conduct a high-resolution optical snapshot over Carmen del Darién in Colombia during the afternoon the day after tomorrow. This request is part of our routine monitoring and baseline pipeline tracking, designed to capture clear optical imagery under normal operational conditions. Please ensure that the parameters are fixed for this mission execution to fulfill our workflow update requirements.

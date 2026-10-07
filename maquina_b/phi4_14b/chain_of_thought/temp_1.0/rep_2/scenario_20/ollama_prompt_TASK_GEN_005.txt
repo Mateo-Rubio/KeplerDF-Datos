@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand requires analyzing specific metadata from a target context JSON to formulate a coherent satellite observation request. We'll break down the components as follows:
+
+a) The string in 'target_day' is "in three days". This indicates when the data collection must be completed, serving as a strict deadline for delivery.
+
+b) The string in 'target_diurnal_period' is "around mid-day". This specifies the time of day for capturing the required imagery or data, which directly influences how the satellite's sensors should be scheduled.
+
+c) From the provided diurnal periods {morning, mid-day, afternoon, evening, overnight}, the word contained in the string "around mid-day" is "mid-day". This word will explicitly guide when the satellite must capture the imagery during its orbit to meet the specified temporal conditions.
+
+d) Confirming that we are not shifting the deadline to another part of the day, it's essential to understand that "around mid-day" is non-negotiable for operational success. We adhere strictly to this timing to ensure that the data collected aligns with the physical conditions anticipated at mid-day, such as optimal lighting for specific sensor operations. Thus, the data capture must occur in the middle of the day, not any other time.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a routine monitoring satellite operation focusing on Pavullo nel Frignano, Italy, to conduct a near-infrared reflection assessment. The objective is to map water body boundaries and assess soil moisture levels in this region. This standard operational tasking must be completed in three days, with the capture occurring around mid-day. This falls within our baseline pipeline tracking setup, maintaining normal operational status with fixed parameters.

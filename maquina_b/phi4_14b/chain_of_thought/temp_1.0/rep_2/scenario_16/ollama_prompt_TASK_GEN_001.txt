@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days". This directly indicates the timeframe for when the data product should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day for the data capture.
+
+c) From the available options, the word contained in 'target_diurnal_period' is "evening". This must appear literally in the final request as it defines the specific part of the day for observation.
+
+d) It is crucial to adhere to the specified deadline without shifting it. The target day is "in three days" and the diurnal period is "in the evening," so there should be no alteration or shift to another time within that specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking involving Santander de Quilichao, Colombia, that requires a multispectral vegetation analysis to assess the chlorophyll absorption level and calculate a vegetation NDVI index. This task is part of our routine monitoring as a baseline pipeline tracking setup with fixed parameters representing normal operational status and a standard workflow update. We request this data be captured in three days, specifically in the evening.
