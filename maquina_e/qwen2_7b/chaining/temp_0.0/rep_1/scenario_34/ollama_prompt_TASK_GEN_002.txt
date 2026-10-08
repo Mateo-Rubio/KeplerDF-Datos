@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves capturing imagery of Norte, France, which is a region of significant interest for our baseline pipeline tracking setup. The mission allocation priority is set at low importance, indicating that this request is part of our standard operational tasks with fixed parameters representing normal operational status.
+
+Our primary sensor is an active radar scan using microwave surface imaging, designed to capture cloud-penetrating imagery that pierces through heavy weather conditions or reveals ground geometry. This task aims to provide a detailed snapshot of the region's landscape and infrastructure, essential for routine monitoring and background survey purposes.
+
+The delivery deadline is set for four days in the morning, which means we need to ensure that our satellite constellation captures this data within the specified time frame without any delays. The request does not include raw technical system tags or coordinate arrays; instead, it combines the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'.
+
+In summary, our task involves capturing a high-resolution optical snapshot of Norte, France, using an active radar scan for cloud-penetrating capture. This is part of our standard operational tasks with fixed parameters representing normal operational status, scheduled for four days in the morning. The request emphasizes the importance of adhering to this deadline without any preemption or rescheduling, as it falls under our low priority importance category.
