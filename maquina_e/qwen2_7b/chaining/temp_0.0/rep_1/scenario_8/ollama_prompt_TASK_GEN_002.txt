@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of a specific location in Italy, specifically the city of Gordona. We'll describe this area using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we'll use the remaining valid fields to provide a natural description of the region.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request falls under a "low priority importance" category with a "flexible schedule" for "opportunistic capture". We'll frame this as a "non-essential background filler task", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor to be used is SAR (Synthetic Aperture Radar), which will enable us to perform an "active radar scan" using "microwave surface imaging". This technique allows for "cloud-penetrating capture", making it ideal for capturing ground geometry even under heavy weather conditions.
+
+The delivery deadline is set for "the day after tomorrow in the evening". We'll insert this phrase verbatim into our request, as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics will be included.
+
+In summary, our task request involves capturing high-resolution SAR imagery of the city of Gordona in Italy during the evening on the day after tomorrow. This mission is a "low priority importance" task with a flexible schedule and represents a "background survey" or "testbed tracking task". The use of SAR technology will enable us to perform an "active radar scan" for "cloud-penetrating capture", providing valuable insights into ground geometry under various weather conditions.

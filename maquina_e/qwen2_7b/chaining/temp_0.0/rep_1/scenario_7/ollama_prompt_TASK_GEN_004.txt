@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the region of Colombia, specifically focusing on Huasanó, using thermal mapping capabilities provided by the TIR sensor.
+
+Given the operational guidelines, we interpret the metadata organically without using raw technical system tags or coordinate arrays. We combine the JSON parameters naturally, describing the location using a realistic combination of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), which requires a casual, highly flexible, or opportunistic tone. This request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator can drop or reschedule the task at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor 'TIR' is interpreted to explain the goal as thermal mapping, capturing a heat signature, surface temperature profile, or performing thermal anomaly detection and mapping heat emissions. This physical phenomenon will be observed overnight in three days, adhering to the delivery deadline that has already been resolved by an upstream module.
+
+In summary, our request to the satellite constellation planner is to capture thermal data of Huasanó, Colombia, using TIR sensor capabilities for a background survey task with a flexible schedule and a clear deadline of "in three days overnight". This ensures the naturalness and validation accuracy of the dataset while adhering to operational guidelines.

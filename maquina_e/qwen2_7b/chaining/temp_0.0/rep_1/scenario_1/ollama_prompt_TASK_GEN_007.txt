@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's Mesetas region using the Near-Infrared (NIR) sensor for a "today in the evening" delivery deadline.
+
+The geographic context is set within Colombia, focusing on Mesetas city. The mission allocation priority is of low importance, indicating a flexible schedule for "opportunistic capture" as part of a "background survey" or "testbed tracking task". The sensors and physical objectives are centered around capturing "near-infrared reflection" to map water body boundaries and assess soil moisture levels.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically. We combine the JSON parameters naturally, avoiding raw technical system tags, underscores, or coordinate arrays. We describe the location using realistic combinations of country, city, and landmark fields from 'location_details', gracefully ignoring "N/A" values by describing the location using remaining valid fields or the clean 'region_name'.
+
+In conclusion, our request is to capture high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation using the Near-Infrared sensor. This task is part of a low-priority importance request with a flexible schedule for "opportunistic capture", fitting into our "background survey" or "testbed tracking task" setup.
+
+The deadline for this task has already been resolved by an upstream module, set as "today in the evening". We must insert this phrase verbatim into our request, as the stated upper limit for data availability. Our request is now ready to be processed by our automated satellite constellation planner.

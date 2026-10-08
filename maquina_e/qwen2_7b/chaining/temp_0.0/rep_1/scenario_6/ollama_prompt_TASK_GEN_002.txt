@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves capturing data for a specific location using the VNIR sensor, which aims to assess chlorophyll absorption levels or calculate the vegetation NDVI index and surface reflectance.
+
+The geographic context is centered around "Italia", with the city being "Norte". This location will be observed during the target day of "today", specifically overnight. The mission allocation priority is set at Level 1, indicating a low importance request with a flexible schedule for opportunistic capture. This task can be treated as a non-essential background filler task or a low-priority background survey.
+
+To maximize naturalness and validation accuracy, we interpret the metadata organically according to operational guidelines. We avoid raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we combine JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module. It is set as "today overnight", which must be inserted verbatim into our request, serving as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our request to the satellite constellation planner involves capturing VNIR data for a location in "Italia", near "Norte", during the overnight period of today. This task is of low priority and can be scheduled flexibly as a background survey or testbed tracking task.
