@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the Ecuatorial region with a primary sensor of Near-Infrared (NIR) technology, which aims to capture water body boundaries and assess soil moisture levels for environmental monitoring purposes.
+
+The mission allocation priority is set at medium importance, indicating that this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. We're focusing on capturing data in the morning of the target day, which is tomorrow, as per our baseline workflow update requirements.
+
+Given the operational guidelines, I will not use raw technical system tags or coordinate arrays in my final output. Instead, I'll describe the location using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since the country and city are marked as "N/A", I'll describe the region using the remaining valid fields or the clean 'region_name'.
+
+The request will be framed in a professional, direct, and standard operational tone. We're looking to gather data that will help us understand water body boundaries and soil moisture levels for environmental monitoring purposes. This task is part of our routine monitoring activities and represents normal operational status.
+
+To maximize naturalness and validation accuracy, I'll interpret the metadata organically according to these operational guidelines. The request will be submitted with the deadline set for tomorrow in the morning, as per the upstream module's resolution. We're not rephrasing or shortening this phrase; it serves as the upper limit for data availability.
+
+In summary, our task request involves capturing water body boundaries and assessing soil moisture levels using Near-Infrared technology in the Ecuatorial region tomorrow morning. This is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status.

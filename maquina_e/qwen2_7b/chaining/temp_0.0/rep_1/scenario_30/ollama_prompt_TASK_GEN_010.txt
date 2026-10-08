@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Tuluá, Colombia, which is a city located in the country of Colombia. The primary sensor to be used for this mission is Thermal Infrared (TIR), aiming to capture thermal mapping data that will help us identify heat signatures and surface temperature profiles, as well as detect thermal anomalies and map heat emissions.
+
+Given the priority level of 1, this task is classified as a low priority importance request with a flexible schedule for opportunistic capture. We explicitly note that this can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task. The deadline for this task has already been resolved by an upstream module, and the upper limit for data availability is "in three days overnight".
+
+In summary, our request to the satellite constellation planner is to capture thermal mapping data of Tuluá, Colombia, using a Thermal Infrared sensor, with the understanding that this task is part of a low priority importance background survey. The deadline for data availability is set as "in three days overnight", ensuring that we adhere to the operational guidelines provided.

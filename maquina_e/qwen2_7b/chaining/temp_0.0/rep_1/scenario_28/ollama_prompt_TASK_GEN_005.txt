@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves capturing data for the region of Italia, specifically focusing on the city of Cerasuolo. This location will be observed using thermal mapping capabilities provided by our TIR sensor.
+
+The mission allocation priority is set at Low Importance, indicating that this task is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task with a "drop or reschedule at convenience" approach, fitting into our "background survey" or "testbed tracking task" setup.
+
+The primary sensor involved is the TIR sensor, which will be used to capture thermal mapping data. This process aims to capture a heat signature, surface temperature profile, or perform thermal anomaly detection and mapping of heat emissions. The goal is to provide valuable insights into the thermal dynamics of the region without any strict deadlines or time constraints.
+
+The delivery deadline for this task has already been resolved by an upstream module. It's set for "the day after tomorrow around mid-day", which means our data availability upper limit is firmly established, and we must adhere to this specific time frame without rephrasing, shortening, or relocating it.
+
+In summary, our request involves capturing thermal mapping data for the city of Cerasuolo in Italia using our TIR sensor. This task is part of a low priority importance setup with a flexible schedule, aiming to provide valuable insights into the region's thermal dynamics by mid-day on the day after tomorrow.

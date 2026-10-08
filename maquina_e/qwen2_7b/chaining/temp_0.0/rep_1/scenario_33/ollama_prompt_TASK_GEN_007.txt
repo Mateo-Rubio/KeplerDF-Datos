@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing Colombia's Ibagué region overnight tomorrow using the Near-Infrared (NIR) sensor for a low priority importance task.
+
+The geographic context is centered around Colombia, with the city of Ibagué serving as our target location. This area requires capturing data on water body boundaries and soil moisture assessment due to its unique environmental conditions. The mission allocation priority is set at level 1, indicating that this request is a non-essential background filler task with a flexible schedule for opportunistic capture.
+
+The operational guidelines guide us in interpreting the metadata organically. We avoid raw technical system tags or coordinate arrays, focusing instead on describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline is set for tomorrow overnight. This phrase serves as the upper limit for data availability, indicating that the data must be ready by this time without rephrasing or shortening it.
+
+In summary, our request involves capturing near-infrared reflection data on water body boundaries and soil moisture assessment in Ibagué, Colombia, overnight tomorrow. This task is part of a low priority importance background survey, with flexible scheduling for opportunistic capture. The deadline for this task has been resolved by an upstream module, ensuring that the data will be available by tomorrow's overnight period.

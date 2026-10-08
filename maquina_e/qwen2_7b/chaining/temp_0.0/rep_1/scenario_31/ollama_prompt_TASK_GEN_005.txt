@@ -1,0 +1,9 @@
+Please capture a thermal mapping of the region named Italia, specifically focusing on the city of Roasio. The primary objective is to identify heat signatures and surface temperature profiles for this area. This task is classified as a low priority importance request with flexible scheduling requirements, treating it as a non-essential background filler task. The data should be collected overnight on the day after tomorrow, which serves as the upper limit for data availability. This "background survey" aims to detect thermal anomalies and map heat emissions without any urgency or contractual binding.
+
+The operational guidelines dictate that we interpret the raw physical simulation metadata organically, avoiding technical system tags, underscores, or coordinate arrays. We combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If these fields are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is determined by integrating specific operational phrases to reflect the structural hierarchy. Priority 1 requests are treated as low priority importance tasks with flexible schedules for opportunistic capture, labeled as "background survey" or "testbed tracking tasks".
+
+Sensors and physical objectives are explained using natural language that avoids technical abbreviations or acronyms. The primary sensor 'TIR' is interpreted as capturing thermal mapping data to assess heat signatures, surface temperature profiles, or perform thermal anomaly detection.
+
+The delivery deadline is set for the day after tomorrow overnight, which is the upper limit for data availability. This phrase must be inserted verbatim into the request without rephrasing, shortening, or moving it to a different part of the day. Raw UTC timestamps, digits, or countdown metrics are not outputted.

@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves observing El Playón, Colombia, focusing on the evening of today's date. The mission allocation priority is medium importance, indicating it's part of our standard operational tasking or commercial tracking with fixed parameters representing normal status.
+
+Our primary sensor is near-infrared (NIR), which aims to capture data for water body boundary mapping and soil moisture assessment. This process involves discerning gradients through the near-infrared reflection technique.
+
+The request emphasizes the need for a thermal anomaly detection capability, as well as mapping heat emissions, utilizing the satellite's capabilities to provide detailed information on surface temperature profiles.
+
+Given the operational guidelines, we ensure that no raw technical system tags, underscores, or coordinate arrays are used in our final output. We combine JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline is today in the evening, which serves as the upper limit for data availability. We've integrated this phrase verbatim into our request, adhering to the guidelines provided.
+
+In conclusion, our task request is structured to maximize the naturalness and validation accuracy of the dataset by interpreting metadata organically according to operational guidelines, ensuring a smooth and efficient mission allocation process.

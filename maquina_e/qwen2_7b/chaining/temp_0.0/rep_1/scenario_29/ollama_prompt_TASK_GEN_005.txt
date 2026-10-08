@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves observing a location in Norte, Brazil, which doesn't have a specific country or city mentioned. Instead, we'll describe it using the available details from 'location_details'. This area requires a detailed radar scan using microwave surface imaging capabilities of our SAR sensor for cloud-penetrating capture and ground geometry assessment.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating that this request is part of a flexible schedule for opportunistic capture. It's labeled as a low priority importance task with a 'drop or reschedule at convenience' note, fitting into our background survey or testbed tracking task setup.
+
+The delivery deadline is "the day after tomorrow in the evening", which is the upper limit for data availability as determined by an upstream module. This phrase must be inserted verbatim into our request without any rephrasing, shortening, or altering the time of day.
+
+In summary, our request involves observing Norte, Brazil, using our SAR sensor for detailed radar scans during the evening on the day after tomorrow. This task is part of a low priority importance background survey with flexible scheduling considerations and adheres to the deadline set by an upstream module.
