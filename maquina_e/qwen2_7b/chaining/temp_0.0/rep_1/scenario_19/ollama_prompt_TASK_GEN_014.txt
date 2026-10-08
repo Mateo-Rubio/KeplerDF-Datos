@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing imagery of a location in "Italia", specifically in the city of "Norte". This area requires a detailed observation using a VNIR sensor for multispectral vegetation analysis. The goal is to assess the chlorophyll absorption level or calculate the vegetation NDVI index and surface reflectance, providing valuable insights into the health and productivity of the local flora.
+
+The mission allocation priority is set at medium importance (Priority 2), indicating that this request is part of a standard operational tasking or commercial tasking setup. The baseline pipeline tracking involves fixed parameters representing normal operational status, with an emphasis on capturing the required data without compromising the integrity of other ongoing missions.
+
+The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available "in three days during the afternoon". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We are not to rephrase or shorten it and should not move it to a different part of the day.
+
+In summary, our task is to capture high-resolution optical snapshots using a VNIR sensor over a specific area in "Italia", focusing on vegetation analysis. This request aligns with standard operational procedures and has a clear deadline for data delivery. Let's proceed with this task, ensuring that we adhere to all operational guidelines and deliver the required data within the specified timeframe.

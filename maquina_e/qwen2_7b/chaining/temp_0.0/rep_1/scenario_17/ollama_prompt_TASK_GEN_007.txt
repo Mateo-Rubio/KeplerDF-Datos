@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Colombia, specifically Paya city, using thermal mapping (TIR sensor) for capturing heat signatures and surface temperature profiles. This task carries low importance (Priority 1), implying it's a flexible schedule "background survey" or "testbed tracking task". The delivery deadline is set for tomorrow during the afternoon, with no need to rephrase or adjust this time frame.
+
+The request should be framed as follows:
+
+"Please conduct a thermal mapping mission over Paya, Colombia, utilizing our TIR sensor. This task requires capturing heat signatures and surface temperature profiles for an opportunistic background survey. Given its low priority importance, we understand that this may be scheduled at your convenience or dropped if necessary. The deadline for data availability is tomorrow during the afternoon. We appreciate your understanding of this flexible schedule."
+
+This request integrates operational guidelines by avoiding raw technical system tags, underscores, coordinate arrays, and focusing on natural language to describe the mission allocation priority and physical objectives. The deadline is inserted verbatim as specified, maintaining the upper limit for data availability without rephrasing or altering the time frame.

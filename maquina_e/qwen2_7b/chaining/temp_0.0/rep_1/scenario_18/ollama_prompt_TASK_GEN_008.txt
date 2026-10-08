@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data on the region of Slovenia, specifically focusing on the city of Tomačevica. This location is described using realistic combinations of country, city, and landmark fields from 'location_details', ensuring a natural and accurate representation without raw technical system tags or coordinate arrays.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be executed with urgency and cannot be preempted, reflecting the structural hierarchy of priority levels in our operational framework.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging for cloud-penetrating capture. This technique allows us to pierce heavy weather conditions or capture ground geometry with precision and reliability, essential for our mission's success.
+
+The target day is today, with the specific diurnal period set for "in the evening". This deadline has already been resolved by an upstream module, and we must adhere to this upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day. The request does not include raw UTC timestamps, digits, or countdown metrics.
+
+In summary, our task is to capture high-resolution SAR imagery of Tomačevica, Slovenia, in the evening today, as part of an urgent operational execution that cannot be preempted. This request embodies the essence of our mission's priorities and objectives, ensuring a seamless integration into our baseline pipeline tracking setup with fixed parameters representing normal operational status.

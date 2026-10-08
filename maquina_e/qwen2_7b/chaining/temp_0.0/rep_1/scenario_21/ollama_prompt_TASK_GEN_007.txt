@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for naturalness and validation accuracy.
+
+The geographic context involves capturing a high-resolution optical snapshot of the region in Colombia, specifically focusing on the city of Aguadas. This daylight photography aims to provide clear optical imagery and true-color visual documentation of the area, essential for detailed analysis and monitoring purposes.
+
+Given the priority level of 3 (High Importance), this mission allocation is an absolute institutional priority, involving a critical payload capture that requires urgent operational execution and cannot be preempted. The language heavily implies an un-preemptable mission lock, emphasizing the importance of this task within our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The primary sensor to be utilized is VNIR (Visible Near-Infrared), which will enable us to conduct multispectral vegetation analysis. This process will assess chlorophyll absorption levels and calculate a vegetation NDVI index, providing insights into surface reflectance and overall health of the vegetation in the targeted area.
+
+The delivery deadline for this task has already been resolved by an upstream module: "tomorrow overnight". This phrase must be inserted verbatim into our request as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics but rather focus on delivering the data within the specified timeframe.
+
+In conclusion, this low priority importance request is treated as a flexible schedule task, allowing for opportunistic capture and scheduling at convenience. It serves as a background survey or testbed tracking task, contributing to our ongoing efforts in monitoring and understanding the Earth's environment with minimal impact on our primary operational activities.
