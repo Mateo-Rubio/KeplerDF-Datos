@@ -5,8 +5,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 ANALISIS = pathlib.Path(__file__).resolve().parent
-UNIFICADO = ANALISIS / 'output' / 'unificado.csv'
-SALIDA = ANALISIS / 'output' / 'distribuciones'
+UNIFICADO = ANALISIS.parent /  'unificado.csv'
+SALIDA = ANALISIS
 VARIABLE = sys.argv[1]
 CATEGORIAS = ['day', 'hour', 'sensor', 'priority', 'global']
 CLAVE = ['temp', 'modelo', 'estrategia', 'maquina', 'rep', 'categoria']

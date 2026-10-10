@@ -1,4 +1,3 @@
-import verificar_pull
 import pathlib
 from collections import Counter
 import pandas as pd

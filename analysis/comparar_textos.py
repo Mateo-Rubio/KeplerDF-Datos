@@ -1,11 +1,10 @@
-import verificar_pull
 import itertools
 import json
 import pathlib
 import pandas as pd
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
-MAQUINAS = {'A': 'maquina_a', 'B': 'maquina_b', 'C': 'maquina_c'}
+MAQUINAS = {'A': 'maquina_a', 'B': 'maquina_b', 'C': 'maquina_c', 'D': 'maquina_d', 'E': 'maquina_e'}
 TEMP = 'temp_0.0'
 
 filas = []
@@ -25,9 +24,10 @@ intra['igual'] = intra['rep_1'] == intra['rep_2']
 print('% de textos idénticos entre rep_1 y rep_2 (misma máquina):')
 print((intra.groupby(['modelo', 'maquina'])['igual'].mean().unstack() * 100).round(2), '\n')
 
-# Entre máquinas: misma repetición
+# Entre máquinas: misma repetición, solo tareas presentes en ambas máquinas del par
 entre = df.pivot_table(index=['modelo', 'estrategia', 'rep', 'escenario', 'task_id'],
-                       columns='maquina', values='texto', aggfunc='first').dropna()
-pares = pd.DataFrame({f'{a} vs {b}': entre[a] == entre[b] for a, b in itertools.combinations(MAQUINAS, 2)})
+                       columns='maquina', values='texto', aggfunc='first')
+pares = pd.DataFrame({f'{a} vs {b}': (entre[a] == entre[b]).astype(float).where(entre[a].notna() & entre[b].notna())
+                      for a, b in itertools.combinations(MAQUINAS, 2)})
 print('% de textos idénticos entre máquinas (misma repetición):')
 print((pares.groupby(level='modelo').mean() * 100).round(2))
