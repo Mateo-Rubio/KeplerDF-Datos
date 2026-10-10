@@ -1,6 +1,12 @@
 # KeplerDF-Datos
 
-Contiene las solicitudes en lenguaje natural producidas por distintos modelos de lenguaje, estrategias de prompting y temperaturas, junto con su validación semántica. El código que genera estos datos está en el repositorio KeplerDF-Logica.
+Repositorio de datos del experimento KeplerDF. Contiene las solicitudes en lenguaje natural producidas por distintos modelos de lenguaje, estrategias de prompting y temperaturas, junto con su validación semántica, y los scripts que analizan esos resultados. El código que genera los datos (Data Collector, Physics Engine, generación con Ollama y validación) está en el repositorio KeplerDF-Logica.
+
+En resumen, el repositorio cumple tres funciones:
+
+1. **Almacenar los resultados crudos** de cada máquina que ejecutó el experimento (`maquina_a/` … `maquina_e/`).
+2. **Recibir los resultados a medida que se generan:** cada máquina publica sus escenarios terminados mediante commits automáticos (`maquina_{x}: N escenarios completos`).
+3. **Analizar los resultados** con los scripts de `analysis/`, que consolidan la precisión de todas las condiciones en una única tabla (`analysis/unificado.csv`) y generan las figuras.
 
 ## Diseño experimental
 
@@ -13,6 +19,21 @@ Contiene las solicitudes en lenguaje natural producidas por distintos modelos de
 
 Los escenarios son idénticos en todas las condiciones: misma semilla por escenario, TLE congelados, caché de geocodificación y fecha de referencia fija (ver KeplerDF-Logica).
 
+Cada combinación de modelo y estrategia tiene 34 escenarios, por lo que una repetición completa de una temperatura en una máquina suma 5 × 4 × 34 = 680 escenarios.
+
+### Validación
+
+Cada tarea generada se valida en cuatro categorías, que se registran en `ollama_prompts_combined.json`:
+
+| Categoría | Campo | Qué se comprueba |
+|---|---|---|
+| `day` | `day_match` | El día de la solicitud coincide con el del `ground_truth`. |
+| `hour` | `hour_match` | La hora coincide. |
+| `sensor` | `sensor_match` | El sensor coincide. |
+| `priority` | `priority_match` | La prioridad coincide. |
+
+En el análisis, la precisión de un escenario en una categoría es la proporción de sus 15 tareas que aciertan; la precisión `global` es el promedio de las cuatro categorías. Las respuestas de `chain_of_thought` que filtran su razonamiento en la salida (por ejemplo, incluyen `stage 1 - reasoning` o `copy it verbatim`) se cuentan como fallo en todas las categorías.
+
 ## Máquinas y repeticiones
 
 Cada máquina corre 2 repeticiones por temperatura. Cada combinación de máquina y repetición se trata como una repetición independiente del experimento.
@@ -22,9 +43,27 @@ Cada máquina corre 2 repeticiones por temperatura. Cada combinación de máquin
 | 0.0 | A, B, C | 6 |
 | 0.2 – 1.0 | A, B, C, D, E | 10 |
 
-La temperatura 0.0 tiene menos repeticiones porque las repeticiones adicionales son prácticamente redundantes. Al comparar el texto generado tarea por tarea a temperatura 0.0, entre el 99,80 % y el 99,95 % de los textos fueron idénticos entre repeticiones de una misma máquina, y entre el 99,83 % y el 99,95 % entre máquinas distintas (`analysis/comparar_textos.py`).
+La temperatura 0.0 tiene menos repeticiones porque las repeticiones adicionales son prácticamente redundantes. Al comparar el texto generado tarea por tarea a temperatura 0.0 en las máquinas A, B y C, entre el 99,80 % y el 99,95 % de los textos fueron idénticos entre repeticiones de una misma máquina, y entre el 99,83 % y el 99,95 % entre máquinas distintas (`analysis/comparar_textos.py`). Es decir, la máquina no aporta variabilidad adicional a la propia de Ollama, lo que justifica agrupar las repeticiones de todas las máquinas como repeticiones equivalentes del experimento.
 
-## Estructura
+## Estructura del repositorio
+
+```
+KeplerDF-Datos/
+├── README.md
+├── .gitignore
+├── maquina_a/ … maquina_e/        Resultados crudos de cada máquina
+│   └── {modelo}/{estrategia}/temp_{T}/rep_{r}/scenario_{idx}/
+└── analysis/                      Scripts de análisis y figuras
+    ├── progreso.py
+    ├── generar_unificado.py
+    ├── unificado.csv
+    ├── comparar_textos.py
+    ├── distribuciones/
+    ├── interacciones/
+    └── repeticiones/
+```
+
+### Datos de cada máquina
 
 ```
 maquina_{x}/{modelo}/{estrategia}/temp_{T}/rep_{r}/scenario_{idx}/
@@ -32,6 +71,8 @@ maquina_{x}/{modelo}/{estrategia}/temp_{T}/rep_{r}/scenario_{idx}/
 ├── ollama_prompts_combined.json
 └── scenario_report.json
 ```
+
+Los nombres de los modelos usan `_` en lugar de `:` y `.` (por ejemplo, `llama3.1:8b` → `llama3_1_8b`).
 
 | Archivo | Contenido |
 |---|---|
@@ -56,23 +97,40 @@ cd KeplerDF-Datos
 git sparse-checkout set maquina_a
 ```
 
-Para agregar la carpeta de análisis: `git sparse-checkout add analysis`. Los scripts de análisis que comparan máquinas requieren un clon completo.
+Para agregar la carpeta de análisis: `git sparse-checkout add analysis`. Los scripts que leen los JSON de varias máquinas (`progreso.py`, `generar_unificado.py`, `comparar_textos.py`) requieren un clon completo; los que solo leen `unificado.csv` funcionan con la carpeta `analysis/`.
 
 ## Análisis
 
-La carpeta `analysis/` contiene los scripts de análisis. Todos importan primero `verificar_pull.py`, que comprueba si el repositorio local está al día con GitHub y, si no lo está, pregunta antes de continuar.
+La carpeta `analysis/` sigue un flujo en dos pasos:
 
-| Script | Descripción |
-|---|---|
-| `verificar_pull.py` | Comprobación de commits pendientes antes de cualquier análisis. |
-| `comparar_textos.py` | Porcentaje de textos idénticos entre repeticiones y entre máquinas. |
-| `hist_maquinas.py` | Histograma de la precisión por escenario para cada máquina. Guarda la figura en `analysis/output/maquinas/`. |
-| `varianza_maquinas.py` | Compara la variabilidad entre máquinas con la variabilidad entre repeticiones de una misma máquina, por temperatura (excepto 0.0). Calcula el cociente `2 · varianza entre máquinas / varianza dentro de máquina` con un intervalo de confianza del 95 % por bootstrap; un valor cercano a 1 indica que la máquina no agrega variabilidad. Guarda la figura en `analysis/output/maquinas/varianza_maquinas.png`. |
+1. `generar_unificado.py` recorre todos los `ollama_prompts_combined.json`, calcula la precisión por escenario y categoría y la guarda en `analysis/unificado.csv`.
+2. Los scripts de las subcarpetas leen `unificado.csv` (no los JSON) y guardan sus figuras en su propia carpeta.
 
-Las respuestas de `chain_of_thought` que filtran su razonamiento en la salida se cuentan como fallo en todas las categorías.
+Cuando llegan datos nuevos de las máquinas, hay que volver a ejecutar `generar_unificado.py` antes de regenerar las figuras.
 
-Requieren `numpy`, `pandas` y `matplotlib`:
+### `unificado.csv`
+
+Una fila por combinación de `temp`, `modelo`, `estrategia`, `maquina`, `rep` y `categoria` (`day`, `hour`, `sensor`, `priority`, `global`), con una columna por escenario (`1` … `34`) que contiene la precisión de ese escenario (proporción de las 15 tareas acertadas). Las celdas vacías corresponden a escenarios que todavía no se publicaron.
+
+Los scripts de figuras promedian (o calculan el desvío de) las repeticiones de todas las máquinas para cada combinación de temperatura, modelo, estrategia, escenario y categoría.
+
+### Scripts
+
+| Script | Descripción | Salida |
+|---|---|---|
+| `progreso.py` | Muestra cuántos escenarios de los 680 tiene cada máquina para cada temperatura y repetición. Sirve para seguir el avance del experimento. | Tabla por consola. |
+| `generar_unificado.py` | Calcula la precisión por escenario y categoría (aplicando la regla de fuga de `chain_of_thought`) y genera la tabla unificada. También imprime la tabla de progreso. Las máquinas de la lista `EXCLUIDAS` (actualmente `maquina_e`) no se incluyen. | `analysis/unificado.csv` |
+| `comparar_textos.py` | Porcentaje de textos idénticos a temperatura 0.0 entre `rep_1` y `rep_2` de una misma máquina, y entre pares de máquinas, por modelo. | Tablas por consola. |
+| `distribuciones/distribucion_variable.py` | Histogramas de la precisión por escenario para cada categoría, separados por los niveles de una variable que se pasa como argumento (`temp`, `modelo` o `estrategia`). Ejemplo: `python analysis/distribuciones/distribucion_variable.py modelo`. | `distribuciones/hist_{variable}.png` |
+| `interacciones/matriz_interacciones.py` | Matriz de gráficos de violín que cruza los factores `modelo`, `temp`, `estrategia` y `categoria` (solo `day` y `hour`): en la diagonal, la distribución por nivel de cada factor; fuera de ella, la interacción entre dos factores. El punto marca la media o la mediana según la constante `ESTADISTICO`. | `interacciones/matriz_interacciones_{media\|mediana}.png` |
+| `repeticiones/dispersion_repeticiones.py` | Diagramas de caja de la desviación estándar de la precisión entre repeticiones, por temperatura y categoría. Muestra cuánto varía el resultado de un mismo escenario al repetirlo. | `repeticiones/dispersion_repeticiones.png` |
+
+### Requisitos
+
+Requieren Python 3 con `numpy`, `pandas` y `matplotlib`:
 
 ```
 python -m pip install numpy pandas matplotlib
 ```
+
+Los scripts se pueden ejecutar desde cualquier directorio, ya que construyen las rutas a partir de su propia ubicación.
