@@ -40,10 +40,11 @@ Cada máquina corre 2 repeticiones por temperatura. Cada combinación de máquin
 
 | Temperatura | Máquinas | Repeticiones totales |
 |---|---|---|
-| 0.0 | A, B, C | 6 |
-| 0.2 – 1.0 | A, B, C, D, E | 10 |
+| 0.0 – 1.0 | A, B, C, D | 8 |
 
-La temperatura 0.0 tiene menos repeticiones porque las repeticiones adicionales son prácticamente redundantes. Al comparar el texto generado tarea por tarea a temperatura 0.0 en las máquinas A, B y C, entre el 99,80 % y el 99,95 % de los textos fueron idénticos entre repeticiones de una misma máquina, y entre el 99,83 % y el 99,95 % entre máquinas distintas (`analysis/comparar_textos.py`). Es decir, la máquina no aporta variabilidad adicional a la propia de Ollama, lo que justifica agrupar las repeticiones de todas las máquinas como repeticiones equivalentes del experimento.
+Las máquinas A a D tienen las 8 repeticiones completas en todas las temperaturas, incluida la 0.0. Al comparar el texto generado tarea por tarea a temperatura 0.0 en las máquinas A, B y C, entre el 99,80 % y el 99,95 % de los textos fueron idénticos entre repeticiones de una misma máquina, y entre el 99,83 % y el 99,95 % entre máquinas distintas (`analysis/comparar_textos.py`). Es decir, la máquina no aporta variabilidad adicional a la propia de Ollama, lo que justifica agrupar las repeticiones de todas las máquinas como repeticiones equivalentes del experimento.
+
+La máquina E (`maquina_e`) se ejecutó en un entorno distinto al de las demás, y sus repeticiones a temperatura 0.0 resultaron completamente discordantes. En ella no se cumple el supuesto de que la influencia de la máquina sobre la inferencia es mínima, por lo que sus resultados se conservan en el repositorio pero se excluyen del análisis (lista `EXCLUIDAS` en `generar_unificado.py`).
 
 ## Estructura del repositorio
 
@@ -84,8 +85,8 @@ Un escenario solo se publica cuando su `ollama_prompts_combined.json` registra l
 
 ## Procedencia
 
-- **Temperatura 0.0:** generada originalmente en las ramas `maquina-a`, `maquina-b` y `maquina-c` del repositorio `Kepler-Copia` y copiadas a este repositorio.
-- **Temperaturas 0.2 a 1.0:** publicadas directamente por `auto_commit.py` desde cada máquina. Los commits están firmados como `maquina_{x}`.
+- **Temperatura 0.0, máquinas A, B y C:** generada originalmente en las ramas `maquina-a`, `maquina-b` y `maquina-c` del repositorio `Kepler-Copia` y copiada a este repositorio.
+- **Temperatura 0.0, máquina D, y temperaturas 0.2 a 1.0 en todas las máquinas:** publicadas directamente por `auto_commit.py` desde cada máquina. Los commits están firmados como `maquina_{x}`.
 
 ## Clonar solo una máquina
 
