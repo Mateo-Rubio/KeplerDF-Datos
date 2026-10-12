@@ -85,8 +85,8 @@ Un escenario solo se publica cuando su `ollama_prompts_combined.json` registra l
 
 ## Procedencia
 
-- **Temperatura 0.0:** generada originalmente en las ramas `maquina-a`, `maquina-b` y `maquina-c` del repositorio `Kepler-Copia` y copiadas a este repositorio.
-- **Temperaturas 0.2 a 1.0:** publicadas directamente por `auto_commit.py` desde cada máquina. Los commits están firmados como `maquina_{x}`.
+- **Temperatura 0.0, máquinas A, B y C:** generada originalmente en las ramas `maquina-a`, `maquina-b` y `maquina-c` del repositorio `Kepler-Copia` y copiada a este repositorio.
+- **Temperatura 0.0, máquina D, y temperaturas 0.2 a 1.0 en todas las máquinas:** publicadas directamente por `auto_commit.py` desde cada máquina. Los commits están firmados como `maquina_{x}`.
 
 ## Clonar solo una máquina
 
