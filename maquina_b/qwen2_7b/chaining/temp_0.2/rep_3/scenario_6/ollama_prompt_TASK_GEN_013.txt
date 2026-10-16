@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing data from the region of Colombia, specifically focusing on the city of Tocaima. This location will be described using a realistic combination of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", they will be gracefully ignored, with the description relying on the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at High Importance (Priority 3), indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. This request must be framed as an urgent operational execution and an un-preemptable mission lock, reflecting the structural hierarchy of priority levels.
+
+The primary sensor to be used is VNIR, which will be interpreted as a multispectral vegetation analysis task aimed at assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance. This operation will provide valuable insights into the health and distribution of plant life in the region.
+
+The delivery deadline for this task has been resolved by an upstream module, with the data availability set for today in the evening. This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In conclusion, our request is to capture high-resolution multispectral vegetation analysis data from Tocaima, Colombia, in the evening today. This task is of high priority and must be executed urgently as an un-preemptable mission lock, ensuring critical information on plant health and distribution is gathered promptly for further analysis.

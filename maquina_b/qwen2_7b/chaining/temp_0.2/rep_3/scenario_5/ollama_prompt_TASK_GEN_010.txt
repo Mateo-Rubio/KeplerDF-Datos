@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Colombia, specifically the city of Buenaventura, with a primary sensor set to near-infrared (NIR) for capturing data in the evening today.
+
+The mission allocation priority is low importance, implying that this request is a flexible schedule task with no strict deadlines or contractual obligations. It's treated as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience. The operational tone is casual and highly flexible, treating it as a background survey or testbed tracking task.
+
+The sensors and physical objectives involve using the near-infrared sensor for mapping water body boundaries and assessing soil moisture. This process involves capturing data on water bodies' edges and soil moisture levels, which are critical for environmental monitoring and agricultural applications. The language used to describe this process is straightforward and avoids technical jargon, focusing on the practical outcomes of the data collection.
+
+The delivery deadline has already been resolved by an upstream module, with the upper limit for data availability being "today in the evening". This phrase is inserted verbatim into the request, as it represents the stated time frame for data availability. No raw UTC timestamps, digits, or countdown metrics are included in this request.
+
+In summary, the task request combines natural language interpretation of geographic context, operational priorities, sensor objectives, and a specific deadline to create a comprehensive and realistic communication piece for the automated satellite constellation planner.

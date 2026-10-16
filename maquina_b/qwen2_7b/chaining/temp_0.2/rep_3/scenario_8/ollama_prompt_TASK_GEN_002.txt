@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing the region of Italia, specifically the city of Gordona. Combining the JSON parameters naturally, we describe this location using realistic combinations of country, city, and landmark fields from 'location_details'. Since 'landmark' is "N/A", we proceed with the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture. This request is framed as a low priority importance task with a flexible schedule, treating it as a background survey or testbed tracking task.
+
+The primary sensor specified is SAR (Synthetic Aperture Radar), which will be used to conduct an active radar scan using microwave surface imaging. The goal is to capture cloud-penetrating imagery for the purpose of cloud-penetrating capture and capturing ground geometry, essential for understanding terrain under various weather conditions.
+
+The delivery deadline is set for "the day after tomorrow in the evening", as determined by an upstream module. This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our task request involves observing the region of Italia, focusing on the city of Gordona using SAR technology for cloud-penetrating capture and ground geometry assessment. This is a low priority importance task with a flexible schedule, adhering to the deadline set for "the day after tomorrow in the evening". The naturalness and validation accuracy are maximized through organic interpretation of operational guidelines.
