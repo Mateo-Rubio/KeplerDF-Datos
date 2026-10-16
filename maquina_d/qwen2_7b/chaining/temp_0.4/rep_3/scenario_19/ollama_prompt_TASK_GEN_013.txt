@@ -1,0 +1,11 @@
+Translate the raw physical simulation metadata from JSON format into a highly realistic and conversational English request for an Earth-observation mission operator submitting a task request to an automated satellite constellation planner. The objective is to interpret the operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+Geographic Context: Colombia's picturesque coastal city, Vista Hermosa, serves as our target location. This charming city combines the natural beauty of the Caribbean Sea with the vibrant culture of Colombia, offering a unique blend of landscapes and ecosystems that are crucial for various scientific studies.
+
+Mission Allocation Priority: This task carries a low importance level, making it a "flexible schedule" request for "opportunistic capture". The operator explicitly notes that this is a "non-essential background filler task", with the understanding that it can be "dropped or rescheduled at convenience" as part of the "background survey" or "testbed tracking task" setup.
+
+Sensors and Physical Objectives: The primary sensor for this mission is VNIR, which will capture "multispectral vegetation analysis". This will assess the "chlorophyll absorption level" and calculate a vegetation "NDVI index", providing insights into the health and productivity of the local flora. This data is essential for environmental monitoring and agricultural applications.
+
+Delivery Deadline: The deadline for this task has been resolved by an upstream module, with the target being "tomorrow in the evening". This phrase serves as the upper limit for data availability, ensuring that the satellite constellation planner understands the urgency and importance of capturing this data during that specific time slot.
+
+In conclusion, our request to the automated satellite constellation planner is to capture a "multispectral vegetation analysis" using VNIR sensors over Vista Hermosa, Colombia, tomorrow in the evening. This task, while carrying a low priority level, is crucial for environmental monitoring and agricultural applications, requiring careful planning and execution within the specified timeframe.
