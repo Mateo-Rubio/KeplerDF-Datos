@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational context, we are tasked with capturing a near-infrared reflection overnight tomorrow. This request falls under the category of a low priority importance task, as it pertains to a flexible schedule for opportunistic capture. The imagery is intended for mapping water body boundaries and assessing soil moisture, which will help in discriminating gradients. While this is not an urgent operational execution or part of a critical payload capture, it does represent a standard workflow update in our baseline pipeline tracking setup with fixed parameters reflecting normal operational status. This background survey task involves the use of our near-infrared sensor to ensure we gather accurate data for soil moisture assessment without the constraints of daylight hours. The deadline for delivering this data product is set for tomorrow overnight, adhering strictly to the operational deadline provided and not altering or extending it.
