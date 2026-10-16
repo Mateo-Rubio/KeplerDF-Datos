@@ -1,0 +1,9 @@
+Good morning! I'm reaching out as the operator of an Earth-observation mission, and I need to request a task from your automated satellite constellation planner. Our objective is to gather highly accurate data on water body boundaries and soil moisture assessment in Pekanbaru, Indonesia. We're utilizing a near-infrared sensor for this task, which allows us to capture essential information about water bodies and soil moisture levels.
+
+The importance of this mission allocation is medium, indicating it's part of our baseline pipeline tracking with standard parameters. However, we understand the urgency attached to this request, as it's classified under 'medium importance'. We aim to ensure that the data products are ingested into our pipeline before the day after tomorrow in the morning, adhering strictly to the deadline set for us.
+
+Our operational guidelines require a natural and conversational English request that integrates the provided metadata organically. We're not to use raw technical system tags or coordinate arrays; instead, we should describe Pekanbaru using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these fields are "N/A", we should gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+Please note that this request is a standard operational tasking involving our baseline pipeline tracking with fixed parameters representing normal operational status. We appreciate your attention to this matter and look forward to receiving the data products by the specified deadline.
+
+Thank you for your cooperation and understanding in this process.
