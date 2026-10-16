@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, adhering to operational guidelines for geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+The geographic context involves capturing imagery of the region named "Gordona" in the country of "Italia". This location will be described using realistic combinations of the 'country', 'city', and 'landmark' fields from 'location_details'. Since specific city or landmark details are not provided, we will focus on the country name for a general description.
+
+The mission allocation priority is indicated by the 'priority_level' key. In this case, it's set to 1, which means this request is of low importance. The language used should reflect a casual, highly flexible tone, with an explicit note that this task has a "flexible schedule" for "opportunistic capture". It can be treated as a "background survey" or "testbed tracking task", with the operator's discretion to "drop or reschedule at convenience".
+
+The primary sensor specified is 'SAR', which will be used for an active radar scan. This involves "microwave surface imaging" that allows for "cloud-penetrating capture", essential for capturing ground geometry even under heavy weather conditions. The goal is to observe the region of interest in "the day after tomorrow in the evening", with the deadline being verbatim as stated.
+
+In summary, this task request aims to capture detailed imagery of the region named "Gordona" in "Italia" using an 'SAR' sensor on the specified date and time. The language used should be conversational and flexible, reflecting a low priority importance with a clear deadline for data availability. This ensures that the request is both realistic and adheres to operational guidelines.

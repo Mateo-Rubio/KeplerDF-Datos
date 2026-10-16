@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The primary sensor specified is Near-Infrared (NIR), which aims to capture data for water body boundary mapping and soil moisture assessment, essential for discriminating gradients.
+
+The geographic context involves Norte city, although country details are not available. We're focusing on capturing thermal anomalies and heat emissions through thermal mapping, which will provide a surface temperature profile and help detect thermal signatures in the area.
+
+Given the priority level of 2, this task is part of our standard operational pipeline tracking setup with fixed parameters representing normal operational status. The mission allocation authority and asset contractual value are not the focus here; instead, we're emphasizing the importance of capturing the required data as part of our baseline workflow update.
+
+The deadline for this task is set for "the day after tomorrow in the morning," which is the upper limit for data availability as determined by an upstream module. We're inserting this phrase verbatim into our request to ensure timely delivery without rephrasing or altering the time frame.
+
+In conclusion, our request is to capture high-resolution optical snapshots for daylight photography and true-color visual documentation using a multispectral vegetation analysis to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This will be complemented by active radar scans using microwave surface imaging to pierce heavy weather or capture ground geometry, ensuring comprehensive coverage of the Norte city area with our Near-Infrared sensor on the specified day and time.
