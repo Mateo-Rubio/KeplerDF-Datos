@@ -1,0 +1,11 @@
+As the operator of an Earth-observation mission, I hereby request a highly realistic, conversational English task for our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a single, detailed request that maximizes naturalness and validation accuracy.
+
+The geographic context involves capturing high-resolution optical imagery of Quincinetto, Italia, in the evening three days from now. This location is described using realistic combinations of fields from 'location_details'—the country, city, and landmark are provided, but if any are "N/A," we gracefully ignore them and describe the region using the remaining valid fields or 'region_name'.
+
+The mission allocation priority is set to low importance (Priority 1), indicating a flexible schedule for opportunistic capture. The language must explicitly frame this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor is VIS, which aims to achieve high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. This will serve to document the landscape, capture details of interest, and provide a comprehensive visual record.
+
+The delivery deadline is set for three days in the evening, a phrase that must be inserted verbatim into the request as the upper limit for data availability. This deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+In summary, our request to the automated satellite constellation planner involves capturing high-resolution optical imagery of Quincinetto, Italia, in the evening three days from now using VIS sensors. This task is designated as a low priority importance request with a flexible schedule for opportunistic capture and must adhere to the deadline set for three days in the evening.

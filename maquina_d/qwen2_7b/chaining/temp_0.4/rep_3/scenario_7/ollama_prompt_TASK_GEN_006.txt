@@ -1,0 +1,27 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines for this task include interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadlines.
+
+The geographic context involves describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If these are "N/A", I will describe the location using remaining valid fields or clean 'region_name'. The mission allocation priority indicates institutional importance, operational status, or low priority importance based on specific operational phrases.
+
+Sensors and physical objectives require translating technical terms into natural language that explains the goal of observing high-resolution optical snapshots for daylight photography, active radar scans for cloud-penetrating capture using microwave surface imaging, thermal mapping to capture heat signatures and surface temperature profiles, and near-infrared reflection for water body boundary mapping or soil moisture assessment.
+
+The delivery deadline is set as "in three days in the evening", which must be inserted verbatim into the request. This phrase represents the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+Given these guidelines and the target task context JSON provided:
+
+Target task context JSON:
+{
+  "primary_sensor": "VIS",
+  "location_details": {
+    "country": "Indonesia",
+    "city": "Ecuatorial"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+The request for this task would be:
+
+"Please allocate an absolute institutional priority for capturing a high-resolution optical snapshot of the Ecuatorial region in Indonesia, using daylight photography capabilities. This critical payload capture is part of an urgent operational execution and must adhere to a binding contract requirement. The mission involves active radar scans utilizing microwave surface imaging to pierce heavy weather conditions and capture ground geometry. The thermal mapping task aims to detect heat signatures and map surface temperature profiles for thermal anomaly detection purposes. The deadline for this task is set as 'in three days in the evening', representing the upper limit for data availability."
+
+This request integrates the operational guidelines to create a highly realistic and conversational English text that effectively communicates the task's requirements.

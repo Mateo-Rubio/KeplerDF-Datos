@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to the automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves observing a location in Gazzola, Italia. Given that the country, city, and landmark details are available, we describe the region using these parameters naturally. Combining the JSON parameters, our description will be "Gazzola, Italia".
+
+For mission allocation priority, since the priority level is set to 1 (low importance), this request is framed as a low priority importance task with flexible scheduling for opportunistic capture. It's explicitly noted that this operator can drop or reschedule at convenience, treating it as a background survey or testbed tracking task.
+
+The sensor and physical objectives indicate that the primary sensor is VNIR, which is used for multispectral vegetation analysis to assess chlorophyll absorption levels or calculate the NDVI index and surface reflectance. This objective is naturally woven into our request by explaining the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level".
+
+The delivery deadline is set to be "in three days overnight", which means that the upper limit for data availability is resolved by an upstream module, and this phrase must be inserted verbatim into our request.
+
+In summary, our task request will be as follows: "To capture a multispectral vegetation analysis of Gazzola, Italia using a VNIR sensor in the overnight period three days from now. This low priority importance task allows for flexible scheduling and is treated as a background survey or testbed tracking task."
