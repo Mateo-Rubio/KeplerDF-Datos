@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+The geographic context involves capturing data from Indonesia, specifically focusing on the region of Kubu Raya, which is a significant area for monitoring environmental changes and ensuring ecological balance. Our primary sensor requirement is an active radar scan using microwave surface imaging, designed to pierce through heavy weather conditions or capture ground geometry with precision.
+
+Given the priority level of this task, it's categorized as a low importance request with flexible scheduling. This means we're looking at a "non-essential background filler task" that can be dropped or rescheduled as per convenience. The operational tone should reflect a casual yet professional approach, emphasizing that this is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for "in three days in the evening". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We're not to output raw UTC timestamps, digits, or countdown metrics but rather focus on conveying the urgency and importance of capturing this data during that specific time.
+
+In summary, our request is to conduct a detailed radar scan over Indonesia's Kubu Raya region using an active microwave surface imaging technique. This task carries low priority importance, with a flexible schedule for capture, and must be completed by "in three days in the evening" as per the deadline set by our upstream module.
