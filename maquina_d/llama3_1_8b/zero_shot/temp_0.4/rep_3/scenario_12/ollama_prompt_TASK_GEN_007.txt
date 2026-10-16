@@ -1,0 +1,84 @@
+```prompt
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance). Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Explain the goal of the TIR sensor as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+4. RELATIVE TIMEFRAMES: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Given the target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Otanche"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance). Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Explain the goal of the TIR sensor as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+4. RELATIVE TIMEFRAMES: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Given the target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Otanche"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2. MISSION ALLOCATION PRIORITY: Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance). Frame this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Explain the goal of the TIR sensor as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+
+4. RELATIVE TIMEFRAMES: Weave 'target_day' and 'target_diurnal_period' into a fluid conversational phrase that explicitly marks the upper limit for data availability using phrases like "...needed by [target_day] [target_diurnal_period] at the latest."
+
+Given the target task context JSON:
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Otanche"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "in the evening"
+}
+
+Here is the final natural user request:
+
+"Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission.
+
+Interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe
