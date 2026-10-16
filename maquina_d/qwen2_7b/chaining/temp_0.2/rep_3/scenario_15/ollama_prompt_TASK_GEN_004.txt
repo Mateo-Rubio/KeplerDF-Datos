@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I am submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The geographic context involves observing Colombia, specifically the city of Bugalagrande, with a primary sensor designated for thermal mapping. This task carries a low priority importance, indicating that it's a "non-essential background filler task" with a flexible schedule for "opportunistic capture". The request is framed as a "background survey" or "testbed tracking task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The operational guidelines are interpreted as follows: GEOGRAPHIC CONTEXT combines the JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. MISSION ALLOCATION PRIORITY integrates specific operational phrases to reflect the structural hierarchy of priority levels. SENSORS AND PHYSICAL OBJECTIVES weave the following operational objectives and descriptors into the request to explain the physical phenomenon to be observed.
+
+The delivery deadline is set for "tomorrow in the evening", which is the upper limit for data availability, as resolved by an upstream module. This phrase must be inserted verbatim into the request, without rephrasing or altering it.
+
+In summary, the task request is as follows:
+
+"Please capture thermal mapping of Bugalagrande, Colombia, tomorrow in the evening using a TIR sensor. This task carries low priority importance and can be scheduled flexibly for opportunistic capture. It serves as a background survey or testbed tracking task with no strict deadlines or contractual obligations."
+
+This request is crafted to maximize naturalness and validation accuracy of the dataset by interpreting metadata organically according to the provided operational guidelines.

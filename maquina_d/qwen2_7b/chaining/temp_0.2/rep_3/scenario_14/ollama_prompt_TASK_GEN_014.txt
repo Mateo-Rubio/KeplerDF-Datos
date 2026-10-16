@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The task involves capturing data using the Near-Infrared (NIR) sensor on a target day that's four days ahead in the morning. The geographic context is centered around Norte, a city within an unspecified country, which will be described as part of the operational narrative.
+
+The mission allocation priority for this task is Low Importance, indicating it's a flexible schedule request with a 'drop or reschedule at convenience' status, fitting into the background survey category. The operational tone should be casual and highly flexible, treating it as a 'non-essential background filler task'. 
+
+The primary sensor, NIR, will be used for near-infrared reflection to map water body boundaries or assess soil moisture levels, providing valuable information on surface conditions without the need for direct sunlight. The request emphasizes capturing gradients and distinguishing various soil types based on their moisture content.
+
+Given the operational guidelines, I'll ensure not to include raw technical system tags, underscores, coordinate arrays, or mention priority numbers or technical priority levels. Instead, I'll combine the JSON parameters naturally, describing the location using a realistic combination of fields from 'location_details' and interpreting 'region_name' for a comprehensive geographic context.
+
+In summary, the task request will be crafted to reflect an organic interpretation of the provided metadata, integrating operational guidelines to maximize naturalness and validation accuracy. The final request will be submitted as per the outlined specifications, adhering to the conversational tone, operational priorities, sensor objectives, and delivery deadline.
