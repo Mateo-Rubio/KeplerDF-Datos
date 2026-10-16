@@ -1,0 +1,17 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the provided raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate that we interpret the metadata organically, focusing on the geographic context, mission allocation priority, sensors and physical objectives, while adhering to specific delivery deadlines.
+
+Given the context:
+
+- **Geographic Context**: We're tasked with capturing imagery of Sesta Godano, a city located in the country of Italia. This location is described using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. The 'region_name' field provides additional geographical information that helps to paint a vivid picture of the area.
+
+- **Mission Allocation Priority**: The request is of medium importance, signifying it's part of our standard operational tasking or commercial tasking with fixed parameters representing normal operational status. We're instructed to use a professional tone when describing this request, emphasizing its role in our baseline pipeline tracking setup.
+
+- **Sensors and Physical Objectives**: Our primary sensor is VIS (Visible Imaging System), which will be used for capturing high-resolution optical snapshots of daylight photography, clear optical imagery, or true-color visual documentation. This task aims to provide detailed visual documentation of the area during the overnight period when conditions are optimal.
+
+- **Delivery Deadline**: The deadline for this task has already been set by an upstream module as "in three days overnight". This phrase is to be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or alteration.
+
+In summary, my request to the automated satellite constellation planner is as follows:
+
+"Please capture high-resolution optical imagery of Sesta Godano, located in Italia, using our Visible Imaging System. This task is part of our standard operational tasking and represents normal pipeline tracking with fixed parameters. The imagery should be collected overnight when conditions are optimal for daylight photography and clear optical documentation. Please ensure that the data is available by 'in three days overnight', adhering to our established deadline."
+
+This request seamlessly integrates the provided metadata into a conversational format, respecting the operational guidelines and ensuring clarity on the mission's objectives, priority level, and delivery timeline.

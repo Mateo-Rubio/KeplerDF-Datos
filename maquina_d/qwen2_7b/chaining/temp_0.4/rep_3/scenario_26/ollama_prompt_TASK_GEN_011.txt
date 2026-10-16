@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The task involves capturing data using the Near-Infrared (NIR) sensor on the target day, which is the day after tomorrow in the evening, following operational guidelines.
+
+We're focusing on Norte city, although it's mentioned as "N/A" for country details, we'll describe the location using realistic combinations of available fields. The request is tagged with a low priority level, implying it's a "non-essential background filler task" that can be "dropped or rescheduled at convenience". This request is framed as a "flexible schedule" for capturing "background survey" data or conducting "testbed tracking tasks".
+
+The primary sensor, NIR, will be used to assess "near-infrared reflection", aiming to map water body boundaries and assess soil moisture. This involves "discriminating gradients" in the observed area using this sensor's capabilities.
+
+Our request is structured to maximize naturalness and validation accuracy by interpreting metadata organically according to the outlined guidelines. We're not using raw technical system tags, underscores, or coordinate arrays in our final output. Instead, we're combining JSON parameters naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'.
+
+This task is part of our baseline pipeline tracking setup with "fixed parameters" representing "normal operational status". The language used heavily implies that this request is treated as a "background survey" or "testbed tracking task", which can be accommodated within our flexible schedule.
+
+To summarize, this Earth-observation mission operator is requesting the capture of data using the Near-Infrared sensor on the day after tomorrow in the evening. The location details are described realistically while keeping the request as a low priority task with a flexible schedule, adhering to our operational guidelines for naturalness and validation accuracy.
