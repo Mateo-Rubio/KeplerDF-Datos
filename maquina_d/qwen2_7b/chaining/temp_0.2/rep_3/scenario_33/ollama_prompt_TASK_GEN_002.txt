@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
+
+The geographic context involves observing a location in "Norte", a city within the country of "Italia". Since specific details about landmarks are not provided, we'll describe this area using the available information. The primary sensor to be utilized is "SAR", which will conduct an active radar scan using microwave surface imaging for cloud-penetrating capture and ground geometry observation.
+
+The mission allocation priority is set at medium importance, indicating a standard operational tasking or commercial tasking part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. This request is to be executed as a routine monitoring activity that involves capturing essential data without the urgency of an absolute institutional priority or contractual requirement.
+
+The delivery deadline for this task has already been resolved by an upstream module, and it's set for "tomorrow during the afternoon". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be included.
+
+In summary, our request is to conduct a SAR scan of a location in "Norte", Italia, with medium priority and a deadline set for tomorrow afternoon. This task aims to gather critical data without the need for an urgent operational execution or contractual binding, fitting into our standard workflow update.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We're focusing on the 'region_name', 'location_details', 'priority_level', 'primary_sensor', and 'target_day' keys for this task.
+
+The geographic context involves Colombia, with the city of Zetaquira as our target location. The mission allocation priority is set at level 1, indicating low importance with a flexible schedule for opportunistic capture. This request is framed as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor specified is "NIR", which we interpret as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment". This will help us discriminate gradients and provide valuable insights into water bodies and soil conditions.
+
+The delivery deadline is set for "tomorrow in the morning", which is the upper limit for data availability. We've inserted this phrase verbatim into our request, as it represents the stated time frame without rephrasing or shortening it.
+
+In summary, our task request involves capturing near-infrared reflection data over Zetaquira, Colombia, with a focus on water body boundaries and soil moisture assessment. This is part of a low-priority background survey, scheduled for tomorrow morning to provide insights into environmental conditions in the region.

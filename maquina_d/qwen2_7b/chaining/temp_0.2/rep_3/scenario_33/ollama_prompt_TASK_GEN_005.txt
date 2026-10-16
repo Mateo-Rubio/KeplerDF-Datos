@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request based on operational guidelines.
+
+The geographic context involves capturing imagery of Arezzo, Italy, which is nestled within the picturesque region of Tuscany. This location requires an active radar scan using microwave surface imaging capabilities provided by our SAR sensor. The goal is to pierce through heavy weather conditions and capture ground geometry for detailed analysis.
+
+The mission allocation priority is set at level 1, indicating a low importance request with flexible scheduling. This task is framed as a non-essential background filler task, where the operator explicitly notes that it can be dropped or rescheduled at convenience. The language used reflects a casual, highly flexible tone, treating this as a background survey or testbed tracking task.
+
+The delivery deadline for this task has been resolved by an upstream module and is set for "in three days in the morning". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+In summary, our request involves capturing detailed imagery of Arezzo, Italy, using SAR technology for cloud-penetrating capture and ground geometry analysis. This task is a low priority importance request with flexible scheduling, to be completed by "in three days in the morning". The language used reflects the operational guidelines provided, ensuring naturalness and validation accuracy of the dataset.
