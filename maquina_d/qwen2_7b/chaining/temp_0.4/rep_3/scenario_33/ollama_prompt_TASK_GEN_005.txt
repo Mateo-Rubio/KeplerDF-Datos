@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data on a region in Italy, specifically the city of Arezzo. Combining the JSON parameters naturally, we describe this location using the realistic combination of country and city fields. The task is to provide a detailed view of the area using an active radar scan with microwave surface imaging capabilities. This capture aims to penetrate heavy weather conditions or reveal ground geometry, serving as a standard operational tasking that fits into our baseline pipeline tracking setup.
+
+Given the priority level of 1, this request carries low importance and involves normal operational status or a routine monitoring task. It's framed as a "non-essential background filler task" with a flexible schedule for opportunistic capture, making it a background survey or testbed tracking task that can be dropped or rescheduled at convenience.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar), which will provide cloud-penetrating capture capabilities. The deadline for this task has been resolved by an upstream module and is set as "in three days in the morning." This phrase must be inserted verbatim into our request, specifying the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our request involves capturing high-resolution SAR imagery of Arezzo, Italy, with a focus on active radar scan capabilities. This task carries low priority and adheres to normal operational status, with a clear deadline set for "in three days in the morning." The request is submitted to ensure timely and accurate data collection that aligns with our baseline pipeline tracking setup.
