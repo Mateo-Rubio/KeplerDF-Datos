@@ -1,0 +1,21 @@
+Translate my request to the automated satellite constellation planner into a highly realistic and conversational English task for an Earth-observation mission:
+
+Given the operational guidelines:
+
+1. We aim to gather natural language descriptions instead of raw metadata or technical tags, focusing on the geographic context provided by 'region_name' and nested 'location_details'. Our objective is to blend these parameters smoothly, combining country, city, and landmark fields, and gracefully omitting irrelevant details.
+
+2. The mission allocation priority dictates our tone: "Priority 1 (Low Importance)" implies flexibility and opportunism in scheduling, with the language framing it as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+3. For sensors and physical objectives:
+   - 'TIR' is best described as thermal mapping aimed at capturing heat signatures, surface temperature profiles, or thermal anomalies for mapping heat emissions.
+   - The geographical location is specified in Italy, near the city of Serravalle di Chienti, which offers a realistic context.
+
+4. The delivery deadline has been set for "the day after tomorrow in the morning", maintaining this phrasing in our request as the upper limit for data availability without rephrasing or altering the timeframe.
+
+My task request:
+
+In an effort to enhance our thermal mapping capabilities, we are requesting a non-essential background filler task involving 'TIR' sensor observations. The geographic region of focus is in Italy, precisely near the city of Serravalle di Chienti, aiming for a 'high-resolution optical snapshot' that serves as daylight photography, providing clear optical imagery and true-color documentation without any constraints from heavy weather conditions.
+
+This mission is tagged with a "Priority 1 (Low Importance)" status, indicating a flexible schedule with no urgency required for execution. It can be dropped or rescheduled at convenience as part of our baseline pipeline tracking without impacting operational status or contractual agreements. The data collection window has been set for the specific day specified: "the day after tomorrow in the morning", adhering to the predetermined deadline.
+
+Please confirm receipt of this low priority importance request and proceed with task allocation accordingly.
