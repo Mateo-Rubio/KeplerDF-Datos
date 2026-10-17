@@ -1,0 +1,20 @@
+STAGE 1
+
+a) The exact string in 'target_day' is: "tomorrow"
+b) The exact string in 'target_diurnal_period' is: "during the afternoon"
+c) The single word contained in the string from step (b) that must appear literally in the final request is: "afternoon"
+d) Confirming I am not shifting the deadline to an adjacent part of the day, the specified temporal parameters state that the observation must occur precisely during the afternoon on the day following today.
+
+STAGE 2
+
+The Earth-observation mission operator requests for an absolute institutional priority (Priority 3) tasking due to its high importance. This involves the capture of an active radar scan (SAR sensor), essential for cloud-penetrating surface imaging, to gather critical data about Norte, a region with no specific country designation mentioned. With this operation taking place during the afternoon on "tomorrow", the satellite constellation planner must prioritize this mission lock due to its demanding nature and the necessity for detailed microwave surface imagery which offers superior visibility through harsh weather conditions.
+
+This request embodies a standard operational tasking (Priority 2), as it is part of a normal operational status setup with fixed parameters. Given its positioning in Norte, a region without specifics beyond a city named Norte, the operator aims to capture the essence of this geographical location with a high-resolution optical snapshot via the VIS sensor during daylight hours, which will serve as true-color visual documentation.
+
+The operator further requests thermal mapping capabilities (TIR sensor) aimed at capturing heat signatures and mapping out surface temperature profiles across the region. This is crucial for detecting any thermal anomalies that could indicate underlying issues or patterns in environmental conditions, with a focus on heat emission mapping.
+
+Lastly, in an assessment related to vegetation analysis using VNIR sensor data, the operator seeks insight into chlorophyll absorption levels and calculates NDVI indices as well as surface reflectance values, all with an understanding of its role in evaluating plant health and productivity in Norte.
+
+This comprehensive tasking encompasses baseline pipeline tracking setups utilizing normal operational status and workflow updates to ensure that the critical aspects of Norte are accurately and efficiently captured according to priority guidelines. Notably, this request underscores the operational flexibility concerning schedule adjustments and is noted as a non-essential background filler task, with clear acknowledgment that it may be dropped or rescheduled as needed for more pressing demands.
+
+With these considerations in mind, the satellite constellation planner will prioritize and execute the mission to meet the urgent operational execution requirements specified by the Earth-observation mission operator for the region of Norte.
