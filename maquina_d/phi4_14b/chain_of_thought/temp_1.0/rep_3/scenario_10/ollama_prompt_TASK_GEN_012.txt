@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow". This specifies the operational deadline for when the data product is required.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This indicates the specific time during the day when the observation should ideally occur.
+
+c) The single word contained in that string which matches the options given is "morning". It's imperative that this word appears literally in the final request to adhere to the specified diurnal period.
+
+d) There is no indication or instruction to shift the deadline to any other part of the day. The parameters provided clearly state that the observation should occur "tomorrow, in the morning," and must be respected as such without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a task request for a low priority importance mission with a flexible schedule, targeting tomorrow in the morning. This is a non-essential background filler task for opportunistic capture, which can be dropped or rescheduled at convenience. The focus is on near-infrared reflection to map out water body boundaries and assess soil moisture levels around Sekadau, Indonesia. This task should not preempt other higher-priority operations but will serve as a useful background survey. Please ensure that this request is treated with the appropriate flexibility in terms of scheduling and resource allocation.

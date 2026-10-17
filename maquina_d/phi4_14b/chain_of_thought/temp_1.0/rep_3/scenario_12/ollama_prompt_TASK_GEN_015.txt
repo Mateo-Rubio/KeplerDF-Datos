@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "tomorrow". This indicates the deadline for delivering the data products from the satellite mission is the day after today.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies that the data acquisition needs to be completed during the morning hours of the target day.
+
+c) From the string "in the morning", the word contained from the list {morning, mid-day, afternoon, evening, overnight} is "morning". This should appear literally in the final request as it identifies the precise time frame for the task.
+
+d) Based on the provided metadata, I confirm that I am not shifting the deadline to any other part of the day. The operational requirement specifies acquisition "in the morning" on "tomorrow", and this will be strictly adhered to in my final request.
+
+**STAGE 2 - FINAL REQUEST**
+
+As a medium importance mission allocation, I request standard operational tasking for monitoring activities over Kutai Kartanegara, Indonesia. We require near-infrared reflection imaging to accurately map water body boundaries and assess soil moisture levels in this region. The goal is to gather data that will help discriminate gradients within the landscape. This request falls into our baseline pipeline tracking setup with fixed parameters indicating normal operational status, aligning with routine workflow updates. The deadline for delivering these products is set for tomorrow morning, ensuring precise timing and adherence to our operational schedule.

@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+To begin, let's examine the details of the provided task context JSON:
+
+a) The exact string found in 'target_day' is "tomorrow." This specifies when the data needs to be captured and delivered.
+
+b) The exact string found in 'target_diurnal_period' is "overnight." This indicates the specific time frame during which the observation should take place.
+
+c) From the options provided — morning, mid-day, afternoon, evening, overnight — the word "overnight" is contained within the 'target_diurnal_period' string. This means that our observation task is specifically set for this period.
+
+d) It's important to confirm that we are adhering strictly to the specified deadline without any shifts. The task explicitly requires capturing and delivering data "tomorrow overnight." This means no adjustments or extensions to different parts of the day are permissible; the request must be fulfilled within this exact time frame.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+As a part of our standard operational tasks, we require an active radar scan utilizing microwave surface imaging over Pesisir Selatan in Indonesia. This commercial tasking, as part of our baseline pipeline tracking, mandates capturing data tomorrow overnight. The mission will employ SAR technology to penetrate cloud cover and document ground geometry effectively. This task aligns with our fixed parameter operational status for monitoring and provides a routine workflow update essential to our operations.
