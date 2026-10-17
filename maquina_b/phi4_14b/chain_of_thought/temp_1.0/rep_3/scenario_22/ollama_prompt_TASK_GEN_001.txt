@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+Let's begin by examining the JSON metadata for our task request. 
+
+a) The string in 'target_day' is "in three days." This indicates when the data products are due.
+
+b) The string in 'target_diurnal_period' is "overnight." This specifies when the observation needs to occur.
+
+c) Out of the given options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained in the 'target_diurnal_period' string. This implies that the task should be scheduled for nighttime capture.
+
+d) It's crucial to note that we must adhere strictly to the deadline specified without shifting it. Therefore, we confirm that the observation must occur "overnight," exactly three days from now, and not at any other time during the day.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a task in the beautiful region of Santa Helena del Opón, Colombia, where we need to capture thermal imaging data. Given its low priority, this is an opportunistic mission with a flexible schedule, allowing it to be dropped or rescheduled at convenience. The primary objective involves thermal mapping to detect any heat signatures or surface temperature profiles that could indicate thermal anomalies. We require this task to be completed "in three days" and specifically during the "overnight" period. This timing is crucial for ensuring accurate thermal data capture, so please ensure the mission aligns with these requirements.
