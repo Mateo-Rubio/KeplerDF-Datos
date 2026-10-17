@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to our automated satellite constellation planner, I seek to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. Our objective is to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to these operational guidelines:
+
+Geographic Context: Our focus is on Colombia, specifically the city of El Paujil. We combine the JSON parameters naturally, describing the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using remaining valid fields or the clean 'region_name'.
+
+Mission Allocation Priority: Considering our priority level is 1 (low importance), we frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". We explicitly treat it as a "background survey" or "testbed tracking task", highlighting its non-essential nature.
+
+Sensors and Physical Objectives: Our primary sensor is VNIR, which we interpret as a goal to perform "multispectral vegetation analysis". This involves assessing the "chlorophyll absorption level" or calculating a vegetation "NDVI index" for surface reflectance. We emphasize the importance of gathering data on these specific physical phenomena.
+
+Delivery Deadline: The deadline for this task has already been resolved by an upstream module, with the stated upper limit for data availability being "tomorrow overnight". This phrase must be inserted verbatim into our request, as it defines the stated time frame without rephrasing or altering it.
+
+In summary, our request for tomorrow's overnight mission in Colombia, focusing on El Paujil and utilizing the VNIR sensor for multispectral vegetation analysis, will adhere to our operational guidelines, ensuring that we capture the essence of this task within a realistic conversational framework while respecting all provided metadata.
