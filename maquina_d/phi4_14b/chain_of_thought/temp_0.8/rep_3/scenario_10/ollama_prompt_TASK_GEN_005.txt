@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task at hand involves interpreting the provided JSON metadata to create a realistic and conversational request for an Earth-observation mission.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific temporal deadline for when the data products should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the part of the day during which the observation should occur.
+
+c) The single word contained in that string, out of the options {morning, mid-day, afternoon, evening, overnight}, is "morning." This word will be used literally in the final request to specify when the observation should take place.
+
+d) It's crucial to confirm that we are not shifting the deadline to an adjacent part of the day. The metadata specifies "in the morning" as the diurnal period, and this must be adhered to without alteration. Therefore, the observation is strictly scheduled for the morning on "the day after tomorrow," ensuring the deadline is met precisely.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a standard operational tasking for a satellite observation of the region near Norte, focusing on near-infrared reflection capabilities. This mission involves mapping water body boundaries and assessing soil moisture levels. The task is part of our routine monitoring and baseline pipeline tracking, reflecting normal operational status with fixed parameters. Please ensure that this observation occurs in the morning on the day after tomorrow. Thank you for your attention to this standard operational tasking.

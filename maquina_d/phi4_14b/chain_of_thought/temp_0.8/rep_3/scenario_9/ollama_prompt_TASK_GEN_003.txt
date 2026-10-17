@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To start with the task at hand, let's analyze the given JSON data to prepare a well-crafted request.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This phrase directly tells us when the data collection should be completed, giving us a clear deadline for when the task needs to be executed.
+
+b) For 'target_diurnal_period', the exact string provided is "in the morning." This indicates the time of day when the satellite imagery is required, which is crucial for aligning with specific environmental conditions that may affect the quality or type of data collected.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the 'target_diurnal_period' string is "morning." This will be a critical component of our request, as it specifies the time of day for data capture and must appear literally in our final output.
+
+d) It's important to note that we are not permitted to shift the deadline to an adjacent part of the day. The given parameters strictly define both the date ("the day after tomorrow") and the time ("in the morning"), and these must be adhered to without any alterations or adjustments. This ensures that the request aligns with operational schedules and specific environmental conditions expected during this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task for opportunistic capture in the city of Bangka, Indonesia. The operator should consider this as a flexible schedule request for a non-essential background filler task that can be dropped or rescheduled at convenience. This task involves utilizing near-infrared reflection capabilities to map water body boundaries or assess soil moisture levels, providing valuable insights into environmental conditions. The data collection is scheduled for the day after tomorrow in the morning, allowing for any adjustments based on current operational capacities and environmental assessments.
