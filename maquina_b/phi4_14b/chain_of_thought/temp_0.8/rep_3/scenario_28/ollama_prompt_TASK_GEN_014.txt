@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For the task at hand, let's begin by examining the metadata provided in the JSON format to construct a realistic and conversational request for an Earth-observation mission.
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This timeframe indicates when the data products are required by the mission operators.
+
+b) The exact string found in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the observation should take place or be captured.
+
+c) From the available options {morning, mid-day, afternoon, evening, overnight}, the word "morning" is explicitly mentioned within the 'target_diurnal_period' string. This indicates that the observation needs to happen during the morning hours of the specified day.
+
+d) It is crucial to adhere strictly to the temporal parameters provided without any alterations. The deadline set for delivering the data products is "the day after tomorrow, in the morning." This deadline must be respected without shifting the observation to a different part of the day, ensuring operational compliance and accuracy.
+
+Having analyzed the metadata and established the correct context for timing, geographic location, mission priority, and sensor objectives, we are now prepared to articulate a final request that seamlessly integrates these elements.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a task requiring a low-priority importance observation using the VNIR sensor over Slovenia's region of Norte. The aim is to perform multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating NDVI indices. Given the nature of this mission, we seek a flexible schedule for opportunistic capture, understanding that it can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. Please ensure this observation is captured in the morning on the day after tomorrow. The data gathered will serve as non-essential background filler tasks within our broader operational framework.

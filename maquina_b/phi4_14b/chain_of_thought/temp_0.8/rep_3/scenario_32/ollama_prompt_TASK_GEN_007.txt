@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for the data product delivery.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies when during the day the satellite observation should occur.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight". This word must be included in the final request to accurately describe the timing of the mission.
+
+d) The deadline specified as "in three days" with an "overnight" target period indicates a strict operational deadline. There is no indication or instruction to shift this deadline to any other part of the day, such as morning or evening. Therefore, we confirm that the deadline remains firmly set for the overnight period within the three-day timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+I'm submitting a request for an opportunistic capture over Tarazá, Colombia. This is a low-priority importance task with a flexible schedule and can be dropped or rescheduled at convenience. I need an active radar scan using microwave surface imaging to perform a cloud-penetrating capture. Please ensure this mission is completed in three days during the overnight period.
