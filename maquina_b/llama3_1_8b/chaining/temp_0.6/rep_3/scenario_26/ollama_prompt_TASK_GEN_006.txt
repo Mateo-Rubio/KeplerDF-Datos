@@ -1,0 +1,13 @@
+Translate this raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission. To maximize naturalness and validation accuracy, follow these operational guidelines:
+
+For the geographic context, describe the location using a realistic combination of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'. In this case, the location is Malaysia, specifically in the city of Pantu. 
+
+For the mission allocation priority, use an authoritative tone for Priority 3 (High Importance), describing it as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive". This mission has a Priority 3 level, indicating it is an absolute institutional priority with a binding contract requirement for a critical payload capture.
+
+For the sensors and physical objectives, describe the goal of using VNIR as a "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. This mission aims to capture high-resolution multispectral imagery for detailed vegetation assessment.
+
+Finally, integrate the delivery deadline into your request verbatim: "tomorrow in the evening". 
+
+The task request is as follows:
+
+Tasking Request: Translate the provided raw physical simulation metadata into a highly realistic and conversational English request for an Earth-observation mission. The mission is an absolute institutional priority with a binding contract requirement for a critical payload capture, involving a high-resolution multispectral vegetation analysis to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance. The location is Malaysia, specifically in the city of Pantu. Deliver the tasked imagery by tomorrow in the evening.
