@@ -1,0 +1,16 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request:
+
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Uribe"
+  },
+  "priority_level": 3,
+  "target_day": "in three days",
+  "target_diurnal_period": "around mid-day"
+}
+
+Here is the natural user request:
+
+"Please conduct a high-priority, binding contract requirement for near-infrared reflection to map the water body boundaries and assess soil moisture in Uribe, Colombia. We need this data by around mid-day in three days at the latest, as it's critical for our ongoing baseline pipeline tracking setup."
