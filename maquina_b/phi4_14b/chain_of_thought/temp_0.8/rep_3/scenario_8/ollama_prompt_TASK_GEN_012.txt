@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This specifies when the task needs to be completed, indicating a deadline rather than an orbital capture window.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This refers to the specific time of day when the satellite imagery should be captured.
+
+c) The single word contained in "overnight" that must appear literally in the final request is "overnight". It indicates the specific period during which the data capture is expected to occur.
+
+d) I am not shifting the deadline to an adjacent part of the day. The task must be completed by "in three days" and specifically during the "overnight" period, as indicated in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task for an opportunistic capture of high-resolution optical snapshots over the region of Ecuatorial in Indonesia. This is scheduled to occur overnight in three days. As it is a non-essential background filler task, please consider dropping or rescheduling it at your convenience if necessary. The request involves capturing clear optical imagery, providing true-color visual documentation during this flexible schedule timeframe.

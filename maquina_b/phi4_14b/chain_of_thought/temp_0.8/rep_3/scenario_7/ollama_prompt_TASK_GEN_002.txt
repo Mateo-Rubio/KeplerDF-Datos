@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string present in 'target_day' is "the day after tomorrow." This phrase sets a clear and specific deadline for when the task should be completed.
+
+b) In 'target_diurnal_period', the string is "overnight." This indicates the time of day when the satellite imagery or data capture needs to occur, aligning with a period typically characterized by darkness or low visibility for certain sensors.
+
+c) The single word contained in "overnight" that belongs to the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term will be used directly in the final request to specify the timing of the task execution.
+
+d) It is important to confirm that the deadline specified by "the day after tomorrow" and "overnight" is not shifted to any other part of the day or date. The task must adhere strictly to these parameters, ensuring that the data collection occurs precisely during the night time on the designated future date.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting an absolute institutional priority request for a satellite tasking over Campagnatico, Italy. This mission is a binding contract requirement involving a critical payload capture using NIR sensors. The goal is to perform near-infrared reflection analysis to map water body boundaries and assess soil moisture levels. This operation must be executed with an urgent operational execution and is considered an un-preemptable mission lock due to its high importance. The imagery is required the day after tomorrow during the overnight period. Please ensure this task is prioritized accordingly to meet these stringent deadlines.
