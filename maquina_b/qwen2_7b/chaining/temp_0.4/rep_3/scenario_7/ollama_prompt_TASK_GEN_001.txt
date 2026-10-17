@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The operational guidelines dictate the interpretation of keys such as 'region_name', nested 'location_details', 'priority_level', 'primary_sensor', 'target_day', and 'target_diurnal_period'. 
+
+The geographic context involves the combination of JSON parameters naturally, avoiding raw technical tags, underscores, or coordinate arrays. For instance, instead of mentioning country, city, or landmark directly, we describe the location using realistic combinations of these fields or simply the 'region_name' if necessary.
+
+Mission allocation priority is interpreted through specific operational phrases that reflect the structural hierarchy: 'Priority 3' for high importance with an authoritative tone, implying 'absolute institutional priority' and 'urgent operational execution'. 'Priority 2' uses a professional tone for standard operational tasks, while 'Priority 1' adopts a casual approach for low priority requests.
+
+Sensors and physical objectives involve weaving operational objectives into the request. For example, using 'VIS' as 'high-resolution optical snapshot', 'SAR' as 'active radar scan', 'TIR' as 'thermal mapping', 'VNIR' as 'multispectral vegetation analysis', and 'NIR' for 'near-infrared reflection'. The delivery deadline is "in three days overnight", which must be inserted verbatim into the request.
+
+For this specific task, with a 'primary_sensor' set to 'VNIR', we're tasked with conducting a 'multispectral vegetation analysis'. We aim to assess the 'chlorophyll absorption level' and calculate the 'NDVI index' for surface reflectance. The geographic context involves observing 'Colombia', specifically the city of 'Foraquira'. This task carries 'Priority 1', indicating it's a 'low priority importance' request with a 'flexible schedule' for 'opportunistic capture'. 
+
+The deadline for this task is "in three days overnight", serving as the upper limit for data availability. The request should flow naturally, integrating these guidelines to ensure maximum naturalness and validation accuracy in the dataset.
