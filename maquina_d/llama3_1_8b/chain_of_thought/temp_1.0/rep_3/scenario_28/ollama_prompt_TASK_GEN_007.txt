@@ -1,0 +1,11 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word that appears in "in the morning" is "morning".
+
+d) Confirming that I am not shifting the deadline to an adjacent part of the day, I will incorporate "tomorrow" and "morning" into the final request exactly as they appear in the JSON data.
+
+The deadline for delivering the data products is explicitly stated as "tomorrow", which implies a strict operational commitment. The diurnal period specified as "in the morning" provides further context for the timing of the task, but does not change the overall deadline.
