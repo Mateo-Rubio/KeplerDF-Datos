@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For the task at hand, let's begin by examining the JSON metadata provided for the Earth-observation mission request.
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific deadline set for data capture, which is two days from today.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the observation should take place, ensuring that the data collected meets the temporal requirements of the mission.
+
+c) Within the string "during the afternoon," the word "afternoon" is present. This word explicitly defines the period of the day during which the satellite needs to capture data.
+
+d) It is crucial to confirm that we are not altering or shifting the deadline from its specified timeframe. The metadata indicates that the mission must be executed precisely "the day after tomorrow during the afternoon." Any deviation from this schedule would compromise the integrity of the data delivery timeline and violate the operational constraints set forth by the mission parameters.
+
+### STAGE 2 - FINAL REQUEST
+
+I am submitting a standard operational tasking for a commercial tasking as part of our baseline pipeline tracking. This involves capturing near-infrared reflection over Bukit Mabong, Malaysia, with the goal of assessing water body boundary mapping and soil moisture levels. The observation is scheduled for the day after tomorrow during the afternoon, ensuring fixed parameters are maintained for normal operational status within our workflow update.
