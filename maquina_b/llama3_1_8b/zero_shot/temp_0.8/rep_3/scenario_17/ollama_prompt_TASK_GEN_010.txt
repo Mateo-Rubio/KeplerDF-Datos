@@ -1,0 +1,21 @@
+Translate this raw physical simulation metadata into a single, highly realistic and conversational English request. 
+
+The task involves translating the provided JSON metadata into a conversational request for an Earth-observation mission operator. The key parameters to be interpreted are: GEOGRAPHIC CONTEXT (region_name, location_details), MISSION ALLOCATION PRIORITY (priority_level), SENSORS AND PHYSICAL OBJECTIVES (primary_sensor), and RELATIVE TIMEFRAMES (target_day, target_diurnal_period).
+
+The request should be framed in a conversational tone, avoiding technical jargon and using operational vocabulary to convey the urgency of the deadline.
+
+Key parameters to be interpreted:
+
+- GEOGRAPHIC CONTEXT: The location is described as Colombia, specifically San Martín, with no landmark or country mentioned. 
+
+- MISSION ALLOCATION PRIORITY: This request has a high importance level, classified as an absolute institutional priority with a critical payload capture requirement.
+
+- SENSORS AND PHYSICAL OBJECTIVES: The primary sensor used is VNIR, which involves multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index.
+
+- RELATIVE TIMEFRAMES: The deadline for data delivery is set for tomorrow in the morning.
+
+The final request should be framed in a conversational tone, reflecting the operational context of the task. 
+
+Final Request:
+
+"Tasking request: Conduct a high-resolution optical snapshot with multispectral vegetation analysis over San Martín, Colombia, using VNIR sensors as an absolute institutional priority with critical payload capture requirement. Data products are needed by tomorrow in the morning at the latest."
