@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task context provides the following information: 
+
+a) The exact string for 'target_day' is "tomorrow". This indicates that the task must be completed on the day following today.
+
+b) The exact string for 'target_diurnal_period' is "in the morning". This specifies the time of day during which the satellite observation should take place.
+
+c) Within the string "in the morning", the single word from the given set {morning, mid-day, afternoon, evening, overnight} that appears literally is "morning".
+
+d) Confirming the task's deadline timing: The strings "tomorrow" and "in the morning" together specify that the data products must be delivered by the morning of the next day. There is no indication to shift this timeframe to any other part of the day, thus maintaining its original specification as set in the JSON context.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a casual task for our satellite constellation: we need a low priority importance observation with a flexible schedule for opportunistic capture over Peroj, Croatia. It's a non-essential background filler task, so please feel free to drop or reschedule at your convenience if necessary. We're looking to carry out multispectral vegetation analysis to assess the chlorophyll absorption level and calculate the NDVI index in the area. The imagery should be captured tomorrow in the morning. This will provide us with valuable data for monitoring vegetation health and land usage without pressing urgency. Thank you for accommodating this background survey task within your workflow!

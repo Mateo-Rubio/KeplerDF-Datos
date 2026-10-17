@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string found in 'target_day' is "in three days". This indicates the time by which data delivery is expected.
+
+b) The 'target_diurnal_period' string exactly reads as "around mid-day". This specifies when the satellite data should be captured.
+
+c) Within the 'target_diurnal_period' string, the single word that matches from the given options is "mid-day". This will be used in the final request to describe when the observation should occur.
+
+d) It's important to adhere strictly to the specified temporal parameters. The request states a deadline of "in three days" with a capture time "around mid-day", and this timing should not be shifted or altered to any other part of the day. The instruction is clear about delivering data by the given timeframe without any modification, ensuring compliance with operational requirements.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are looking for a low priority importance task to perform an active radar scan using microwave surface imaging of Puerto López, Colombia, around mid-day. This task is intended as an opportunistic capture and can be flexibly scheduled. If necessary, the operator should feel free to drop or reschedule at their convenience. It's designed as a non-essential background filler task, to be completed within three days.

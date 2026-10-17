@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To create a natural and conversational task request, let's first break down the metadata details.
+
+a) The exact string found in 'target_day' is "in three days". This indicates that we need to submit our data within this timeframe, but not before. 
+
+b) The exact string for 'target_diurnal_period' is "overnight". This specifies when during the target day the observation should occur, and it's crucial for planning sensor operations.
+
+c) The single word contained in 'target_diurnal_period' that is out of {morning, mid-day, afternoon, evening, overnight} is "overnight". This word will directly appear in our final request to describe when the capture should take place.
+
+d) As per the operational guidelines, we must confirm not to shift the deadline. The deadline specified as "in three days" with a "overnight" observation window implies that we are strictly adhering to this timing. Any alteration of the timing could potentially miss critical environmental conditions or interfere with other scheduled tasks in the satellite's operation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to submit a low-priority importance request for a thermal mapping task over Tuluá, Colombia, scheduled for capture "in three days" during the overnight hours. Given the flexible schedule and nature of this observation as a non-essential background filler task, we would appreciate it if you could handle this as an opportunistic capture with the option to drop or reschedule at your convenience. This task involves using thermal imaging to produce a heat signature map that could help in assessing surface temperature profiles or identifying potential thermal anomalies in the region. Thank you for considering this background survey task for our workflow update.
