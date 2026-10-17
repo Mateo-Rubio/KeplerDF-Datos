@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This indicates when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "overnight". This specifies the time of day for capturing the data.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "overnight". This word must appear literally in the final request to accurately describe when the data should be captured.
+
+d) I am not shifting the deadline to an adjacent part of the day. The requirement explicitly states that the capture must occur "overnight" on "the day after tomorrow", and this timeframe will be adhered to as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are looking for a low-priority importance task with a flexible schedule for opportunistic capture of thermal mapping data over Kapuas Hulu, Indonesia. This is a non-essential background filler task where the operator can drop or reschedule at convenience. We aim to capture a heat signature and surface temperature profile using thermal imaging on the day after tomorrow overnight.
