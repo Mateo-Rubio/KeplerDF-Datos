@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string found in 'target_day' is "in three days." This specifies the operational deadline for delivering the data products and should be included verbatim in the final request.
+
+b) The exact string contained in 'target_diurnal_period' is "in the evening." This indicates the specific time of day when the task needs to be executed, providing context for the timing of the satellite operation.
+
+c) Within the phrase "in the evening," the word that aligns with the set options is "evening." This word should appear literally in the final request to maintain clarity regarding the diurnal period for the task.
+
+d) It's essential to adhere strictly to the given deadline, meaning there should be no adjustment or shift to an adjacent part of the day. The task must occur specifically "in three days" and "in the evening," as specified by the metadata.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request for thermal mapping over the region near Norte. This task involves capturing a heat signature using thermal infrared imaging to detect any thermal anomalies. Please note this is an opportunistic capture with a flexible schedule and can be adjusted or rescheduled at your convenience. The data should be delivered in three days, specifically during the evening period.
