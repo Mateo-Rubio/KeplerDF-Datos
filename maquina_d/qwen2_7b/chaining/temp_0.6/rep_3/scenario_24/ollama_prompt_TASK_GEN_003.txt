@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize the naturalness and validation accuracy of our dataset by interpreting the metadata organically.
+
+Given the JSON target task context provided:
+
+We're tasked with capturing thermal mapping data using the TIR sensor, focusing on the region in Indonesia, specifically the city of Ecuatorial. The operational guidelines guide us in crafting this request to reflect our mission's priorities and objectives.
+
+Considering the guidelines:
+1. GEOGRAPHIC CONTEXT - We're not using raw technical system tags or coordinate arrays. Instead, we combine 'country', 'city', and 'landmark' fields from 'location_details' smoothly. The location is described as being in Indonesia, with a focus on the city of Ecuatorial.
+2. MISSION ALLOCATION PRIORITY - This request falls under Priority 1 (low importance) since it's labeled as "low priority importance". We treat it as a "flexible schedule" for "opportunistic capture", a "background survey", or a "testbed tracking task".
+3. SENSORS AND PHYSICAL OBJECTIVES - We're utilizing the TIR sensor, which aims to capture "thermal mapping" data. This includes capturing a "heat signature", "surface temperature profile", or performing "thermal anomaly detection" and mapping heat emissions.
+4. DELIVERY DEADLINE - The task deadline is set for "today overnight".
+
+We request that our satellite constellation gather thermal mapping data using the TIR sensor over the region of Indonesia, with a specific focus on Ecuatorial city. This task falls under our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update. It's a routine monitoring task that requires no essential action to be taken immediately; it can be scheduled according to convenience. The deadline for data availability is set for today overnight.
+
+In conclusion, this request aligns with our mission's priorities and objectives, maintaining a casual, highly flexible tone to treat the task as a low priority background filler task. The use of natural language helps in achieving the goal of maximizing the naturalness and validation accuracy of our dataset while adhering to operational guidelines.

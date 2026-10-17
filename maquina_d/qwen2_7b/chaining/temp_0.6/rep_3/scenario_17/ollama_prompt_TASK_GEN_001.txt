@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic, conversational English request that maximizes naturalness and validation accuracy.
+
+Our geographic context involves Colombia, specifically San Martín city, which will be the focus of our VNIR sensor's primary mission. The combination of country, city, and landmark fields from 'location_details' allows us to describe this area as a part of Colombia's vibrant landscape, with specific attention to the city of San Martín.
+
+Regarding mission allocation priority, given that our request has a priority level of 1, we'll frame this task as a "low priority importance" request. We'll note that it carries a flexible schedule for "opportunistic capture," treating it as a "background survey" or a "testbed tracking task." This means we're looking to assess chlorophyll absorption levels and calculate the vegetation NDVI index, along with surface reflectance, without imposing any strict deadlines.
+
+The physical objectives of our mission are centered around VNIR sensors, which will provide us with the goal of conducting "multispectral vegetation analysis." We aim to evaluate how well different plant species absorb light in the visible spectrum, giving us insights into health and environmental conditions.
+
+The delivery deadline for this task is set as "in four days overnight," meaning our data should be available by the time we're sleeping, ensuring minimal impact on operational schedules. We will not include raw timestamps or digits in this request, adhering to the guidelines provided.
+
+Therefore, our request to the satellite constellation planner is as follows:
+
+"Please capture a multispectral vegetation analysis using VNIR sensors for the area of San Martín, Colombia. This task falls under the category of a low priority importance request with flexible scheduling, focusing on assessing chlorophyll absorption levels and calculating the vegetation NDVI index and surface reflectance. Please ensure the data is available in four days overnight to align with our operational needs."
+
+Thank you for your attention, and we look forward to receiving the results."
