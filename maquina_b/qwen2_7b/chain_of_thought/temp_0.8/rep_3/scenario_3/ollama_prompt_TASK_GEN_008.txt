@@ -1,0 +1,17 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) Yes, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, we are tasked with an earth observation mission involving a 'low importance' (Priority 1), using a VNIR sensor, focused on capturing high-resolution optical imagery through "true-color visual documentation" of a specific location. This mission is to be executed in the "overnight" timeframe at a deadline "in three days". The region of focus is "Gazzola", located within the country of "Italia". 
+
+To meet these requirements, our request will emphasize that this tasking involves a "non-essential background filler task", with a flexible schedule and status as a "background survey" or "testbed tracking task". The primary sensor VNIR will be utilized for "multispectral vegetation analysis", aiming to assess "chlorophyll absorption levels", calculate the "NDVI index", and evaluate surface reflectance.
+
+Upon completion of this request, it's imperative that the data collection adheres strictly to the operational deadline provided in the JSON metadata: being executed "overnight" at a date "in three days". No alterations or interpretations are made regarding the temporal parameters given their role as an operational deadline.

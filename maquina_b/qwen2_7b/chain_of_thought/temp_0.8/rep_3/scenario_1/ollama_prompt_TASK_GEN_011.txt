@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string is "afternoon".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given the operational guidelines and the specific JSON metadata, the final request can be framed as follows:
+
+In preparation for tomorrow's critical tasking period during the afternoon hours, our automated satellite constellation planner will be focusing on acquiring high-resolution radar imagery. Specifically, we are tasked with capturing an active radar scan of the region named "Grottaferrata", located in Italia. This radar observation aims to provide cloud-penetrating capture and detailed surface geometry imaging, serving as a standard operational tasking requirement for our baseline pipeline tracking setup.
+
+This priority 1 mission allocation has been designated with the understanding that it carries a flexible schedule, allowing for opportunistic capture at convenience should there be any need to adjust timing. This task is to be viewed as a non-essential background filler task, to be prioritized based on operational needs and context, without affecting critical payload capture or contractual requirements. The deadline for delivering this data product is strictly set for "tomorrow afternoon," reflecting the operational deadline rather than an orbital window.
+
+With these considerations in place, our automated satellite constellation planner will proceed with the acquisition of radar data from Grottaferrata, Italia, during the designated period tomorrow afternoon.

@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+To begin with, let's examine the target day specified in the JSON metadata. The exact string for 'target_day' is "the day after tomorrow." This timeframe provides a clear operational deadline for when the data products need to be delivered.
+
+Next, we look at the 'target_diurnal_period', which is described as "during the afternoon." This indicates the specific time of day during which the satellite imagery or data capture should occur. 
+
+Now, we must identify which single word from the set {morning, mid-day, afternoon, evening, overnight} is contained in the string "during the afternoon." The word "afternoon" appears literally in the description and will be used verbatim in the final request.
+
+Finally, it's important to confirm that there is no alteration or shifting of the deadline. The phrase "the day after tomorrow" must be adhered to as is, without any changes to its meaning or timing. This ensures that the data capture aligns precisely with the specified operational deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a flexible schedule for an opportunistic capture in Indonesia, near the city of Ecuatorial, focusing on multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This is a non-essential background filler task, so please drop or reschedule at convenience. The data should be captured during the afternoon, the day after tomorrow.
