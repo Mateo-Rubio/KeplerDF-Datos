@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The JSON object provided outlines a task for observing an area using specific parameters. Let's go through the questions to translate this metadata into a natural and conversational request.
+
+a) The exact string found in 'target_day' is "in three days". This phrase clearly sets the deadline for when the task should be completed, indicating the time frame within which the observation needs to be conducted.
+
+b) The exact string found in 'target_diurnal_period' is "overnight". This specifies the time of day when the observation should occur, implying that the data capture must happen during nighttime hours.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "overnight". This word must appear literally in the final request to accurately reflect the time frame for the observation.
+
+d) It is important to confirm that the deadline is not being shifted to an adjacent part of the day. The original data specifies "overnight" as the diurnal period, and this should be adhered to strictly. Therefore, the task must be completed during the night hours on the specified target day without any adjustments to other parts of the day.
+
+### STAGE 2 - FINAL REQUEST
+
+We are looking for a casual, flexible observation request over Tarazá in Colombia using an active radar scan with microwave surface imaging capabilities. This low priority importance request has a flexible schedule for opportunistic capture, as it's a non-essential background filler task that can be dropped or rescheduled at convenience. The primary goal is to achieve cloud-penetrating capture, piercing through any heavy weather to capture ground geometry. The deadline for delivering these data products is set for "in three days", specifically during the "overnight" hours, allowing the operators to conduct this background survey or testbed tracking task at their discretion.
