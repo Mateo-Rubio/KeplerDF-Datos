@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This specifies when the satellite data collection needs to occur.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This details the specific time within the target day for the task execution.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that is contained in the 'target_diurnal_period' string is "evening." This word must be included in the final request to specify when during the day the data capture should happen.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The task must be completed specifically in the evening of tomorrow, without any changes to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+This mission is a binding contract requirement involving a critical payload capture as it constitutes an absolute institutional priority. We need a thermal mapping operation focusing on capturing a surface temperature profile over Latina, Italy. Utilizing the TIR sensor for thermal anomaly detection and heat emissions mapping is imperative. This data acquisition task is to be executed in the evening of tomorrow, adhering strictly to our urgent operational execution directive. Given its high importance, this is an un-preemptable mission lock, ensuring timely delivery without rescheduling or dropping the task.

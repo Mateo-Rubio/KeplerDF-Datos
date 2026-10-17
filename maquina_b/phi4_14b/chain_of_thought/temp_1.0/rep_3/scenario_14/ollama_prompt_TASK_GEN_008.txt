@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow." This indicates the data collection task is scheduled for the next calendar day from today.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies that the data should be captured during the nighttime hours, aligning with the period when the sensor's capabilities are most advantageous.
+
+c) The single word contained in the 'target_diurnal_period' string is "overnight." This term will be used verbatim in the final request to specify the time of data capture accurately.
+
+d) The deadline is not being shifted to an adjacent part of the day. The request explicitly states the task should occur "overnight" on "tomorrow," maintaining the integrity and specificity of the operational timeframe provided in the metadata. This ensures compliance with the strict deadline set for data delivery, without any alterations or extensions.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low priority importance request for capturing imagery over Norte using our satellite's active radar scan capabilities. This task involves microwave surface imaging to obtain cloud-penetrating captures of ground geometry. Given its nature as a non-essential background filler task, there is a flexible schedule for opportunistic capture. It is at your discretion to drop or reschedule this activity as needed, treating it as a background survey within the broader workflow. Please ensure that this data collection occurs overnight tomorrow.

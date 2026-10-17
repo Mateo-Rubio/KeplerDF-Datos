@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To develop a naturalistic and conversational task request, we start by dissecting the metadata provided:
+
+a) The 'target_day' field contains the string "tomorrow," which indicates when the satellite observation is expected to be delivered, not necessarily when it will occur. This strict deadline will be integrated directly into our final request.
+
+b) The 'target_diurnal_period' field has the string "overnight," indicating the time frame during which the data acquisition is scheduled.
+
+c) From the given options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is contained in the 'target_diurnal_period' field. This word will appear explicitly in the final task request, highlighting the specific diurnal period of interest.
+
+d) It's essential to adhere strictly to the deadline specified by these parameters without altering it to another part of the day. Thus, the observation must occur during "overnight" and deliver data on "tomorrow." 
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a flexible schedule for an opportunistic capture focusing on Malinau, Indonesia. This is a low-priority importance request with a non-essential background filler task that can be dropped or rescheduled at convenience. The objective is to perform near-infrared reflection analysis for soil moisture assessment and water body boundary mapping overnight. Please aim to have this data delivered by tomorrow, treating it as a background survey or testbed tracking task.
