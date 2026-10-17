@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context revolves around capturing data for a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The target day is "today", specifically in the evening, with no need to rephrase or shorten this phrase.
+
+Our geographic context involves Colombia, with the city of Puerto Rico. Combining these parameters naturally, we describe the location without raw technical system tags, underscores, or coordinate arrays. The operational guidelines dictate that we should not use country, city, or landmark if they are "N/A" and instead describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set to 'Priority 1', which implies a "low priority importance". We frame this as a "non-essential background filler task" with a "flexible schedule". The language must be casual, highly flexible, or opportunistic.
+
+The primary sensor involved is VNIR, which we interpret as "multispectral vegetation analysis". This operation aims to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance. The goal is to gather data on plant health and environmental conditions without the need for urgency or high priority.
+
+In conclusion, our request to the satellite constellation planner is as follows: "Please capture multispectral vegetation analysis data in Colombia, specifically in Puerto Rico, during today's evening hours. This task serves as a 'background survey', offering insights into plant health and environmental conditions without demanding an urgent response. We appreciate your flexibility in scheduling this task according to operational convenience."
+
+This request integrates the operational guidelines effectively, ensuring naturalness and validation accuracy while adhering to the provided metadata.
