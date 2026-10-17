@@ -1,0 +1,7 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request. The context involves observing Indonesia's Kubu Raya region using the SAR sensor with a primary focus on active radar scanning for cloud-penetrating capture of ground geometry.
+
+Given the location details from 'location_details', we combine them naturally without using raw technical system tags or coordinate arrays. The country is Indonesia, and the city is Kubu Raya, though these might be "N/A", so we describe the location using realistic terms from the provided fields. This request falls under Priority 1 (low importance), meaning it's treated as a flexible schedule task with a "non-essential background filler" and an "opportunistic capture".
+
+The delivery deadline is set for "in three days in the evening", which must be inserted verbatim into the request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
+
+To summarize, the objective of this mission is to conduct an active radar scan using the SAR sensor over Indonesia's Kubu Raya region to capture ground geometry characteristics during the evening hours three days from now. This task is not a high priority requirement but fits into our operational pipeline as a standard background survey for future analysis.

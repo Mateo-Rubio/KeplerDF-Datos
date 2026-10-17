@@ -1,0 +1,11 @@
+As an operator of an Earth-observation mission, I'm submitting a task request to an automated satellite constellation planner for a highly realistic request based on the raw physical simulation metadata provided in JSON format. The objective is to translate this data into a conversational English request that maximizes naturalness and validation accuracy.
+
+**Geographic Context**: We're focusing on capturing a high-resolution optical snapshot of Colombia, specifically the city of Curití. This task involves a detailed daylight photography session, aiming for clear optical imagery and true-color visual documentation to provide comprehensive coverage of the area.
+
+**Mission Allocation Priority**: Given that our priority level is set at Medium Importance (2), this request requires a professional and standard operational tone. It's part of our baseline pipeline tracking setup with fixed parameters, representing normal operational status. This task is akin to a routine monitoring effort or a workflow update, ensuring we maintain our standard procedures without any urgent need for preemption.
+
+**Sensors and Physical Objectives**: The primary sensor used will be VNIR (Visible Near-Infrared), which will facilitate the assessment of chlorophyll absorption levels and calculate a vegetation NDVI (Normalized Difference Vegetation Index) and surface reflectance. This multispectral vegetation analysis will provide critical insights into the health and condition of the vegetation in the area.
+
+**Delivery Deadline**: The deadline for this task has been resolved by an upstream module. We aim to deliver the data by "the day after tomorrow in the evening", adhering to this specific upper limit for data availability without rephrasing or altering the time frame.
+
+This request is structured to ensure that all operational guidelines are followed, from interpreting geographic context naturally, respecting mission priority levels with appropriate language tone, explaining physical objectives in a descriptive manner, and incorporating the delivery deadline verbatim as provided. Our goal is to optimize the dataset's utility while maintaining its authenticity and relevance to our operational requirements.
