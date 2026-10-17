@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the task needs to be completed by the day following today.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day when the data capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} that appears in the string is "afternoon." This word will be used verbatim in the final request to specify the timing of the operation.
+
+d) The deadline specified as "during the afternoon tomorrow" must not be altered or shifted. It is critical to adhere strictly to this timeframe for the data capture and delivery, ensuring that the task aligns with operational requirements without extending or modifying the given period.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for Desa Muaro Sentajo in Indonesia, requiring a thermal mapping operation using TIR sensors to capture surface temperature profiles. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. Please ensure the data collection occurs during the afternoon tomorrow, as this timeframe is crucial for fulfilling our routine monitoring objectives.

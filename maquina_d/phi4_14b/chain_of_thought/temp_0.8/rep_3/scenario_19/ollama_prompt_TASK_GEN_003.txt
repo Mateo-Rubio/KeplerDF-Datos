@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string present in 'target_day' is "in three days." This indicates the specific timeframe by which the data must be delivered, providing a clear deadline for mission planning.
+
+b) The exact string found in 'target_diurnal_period' is "overnight." This denotes when the satellite's sensors should capture the required imagery or data, specifically during the nighttime.
+
+c) The word contained within 'target_diurnal_period' that matches one from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term will be used directly in the final request to specify the timing of the operation.
+
+d) I confirm that there is no intention to shift the deadline to another part of the day. The deadline is strictly set for "in three days" during the "overnight" period, aligning with the operational constraints and requirements provided in the metadata.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority task request to capture thermal mapping data over Indonesia, specifically focusing on the city of Ecuatorial. This mission is a critical payload capture, mandated by our binding contract requirements, necessitating urgent operational execution with an un-preemptable mission lock. We need this thermal imagery, which will provide a heat signature and surface temperature profile, "in three days" during the "overnight" period. This data is vital for detecting and mapping any thermal anomalies in the region.
