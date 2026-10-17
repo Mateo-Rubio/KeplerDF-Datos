@@ -1,0 +1,14 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in that string is "mid-day".
+d) Yes, the deadline is set for mid-day tomorrow and not shifted to an adjacent part of the day.
+
+STAGE 2 - FINAL REQUEST
+
+Given the operational guidelines and the information provided, we are tasked with capturing a high-resolution optical snapshot of the region located in Italy, specifically under the mountain of Giovanni XXIII. This request falls under Priority Level 1, meaning it is considered a low priority importance task with a flexible schedule for opportunistic capture. We aim to complete this task tomorrow around mid-day, as per the deadline specified.
+
+The primary sensor designated for this mission is VNIR, which will be used for multispectral vegetation analysis. This involves assessing the chlorophyll absorption level across the landscape and calculating the vegetation NDVI index, along with surface reflectance data. The goal is to gather detailed information about the vegetation health and distribution in the area under Giovanni XXIII mountain.
+
+This task aligns with our role as an operator of an automated satellite constellation planner, where we translate raw physical simulation metadata into actionable, natural language requests that guide our satellite assets to capture the necessary data products within the specified timeframes. The deadline for this data collection is set for tomorrow mid-day, and it will be executed in accordance with our operational guidelines for low priority tasks, ensuring that we can drop or reschedule this mission at convenience if needed.
