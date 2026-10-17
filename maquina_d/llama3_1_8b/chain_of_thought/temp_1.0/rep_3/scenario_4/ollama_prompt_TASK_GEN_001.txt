@@ -1,0 +1,13 @@
+Let's work through the reasoning for STAGE 1.
+
+a) The exact string in 'target_day' is: "in three days".
+
+b) The exact string in 'target_diurnal_period' is: "in the evening".
+
+c) The single word contained in 'target_diurnal_period' is: "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day, as I am interpreting the temporal parameters as a strict operational deadline for delivering data products, and not the orbital capture window. The 'target_day' string specifies a three-day deadline, which is a fixed and non-negotiable requirement.
+
+Now that we've completed STAGE 1, let's move on to STAGE 2. 
+
+...our task context JSON specifies a low-priority importance request with a flexible schedule for opportunistic capture. We need to frame this as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task". The location is in Colombia, specifically in Calamar, and we will be conducting multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels. Our objective is to capture a high-resolution optical snapshot for daylight photography and clear optical imagery. We require this data to be delivered in three days, in the evening.
