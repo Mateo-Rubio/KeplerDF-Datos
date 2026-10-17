@@ -1,0 +1,13 @@
+Here is the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The original request specifies a target diurnal period of "in the morning", which I will preserve verbatim in the final request.
+
+Now moving on to STAGE 2:
+
+...We require an absolute institutional priority to capture a high-resolution multispectral vegetation analysis using VNIR in Aguazul, Colombia tomorrow in the morning. The goal is to assess the chlorophyll absorption level and calculate the vegetation NDVI index for a critical payload capture, ensuring normal operational status for our baseline pipeline tracking setup...

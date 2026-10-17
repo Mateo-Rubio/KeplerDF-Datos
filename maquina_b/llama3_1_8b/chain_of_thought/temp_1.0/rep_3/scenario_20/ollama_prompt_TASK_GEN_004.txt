@@ -1,0 +1,9 @@
+I'll work through the four questions in STAGE 1 - REASONING.
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in the string is "overnight". This word will appear literally in my final request.
+
+d) I am not shifting the deadline to an adjacent part of the day. The temporal parameters represent a strict operational DEADLINE to deliver the data products, and "tomorrow" and "overnight" explicitly indicate a deadline that is one day ahead of today, which starts at midnight and includes the entire night.
