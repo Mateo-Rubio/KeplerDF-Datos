@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit a task request for a highly realistic and conversational English description based on the given metadata. The objective is to translate the raw physical simulation JSON data into a natural-sounding request.
+
+Our geographic context revolves around Norte City within an unspecified country. The operational guidelines have led us to combine JSON parameters in an organic manner. Instead of mentioning "N/A" or technical tags, we describe the location as being within a region that likely encompasses Norte City.
+
+The mission allocation priority indicates low importance for this task. It is framed as a flexible, opportunistic request with a focus on capturing data when it best suits our operational schedule. The language used explicitly notes that while this task has a defined importance level, it carries "low priority importance", and it may be adjusted in terms of schedule to accommodate other priorities or "drop" it if necessary.
+
+The primary sensor designated for the task is VIS (Visual Imaging System). Our operational objectives are clearly articulated within the context. This system's role here involves a "high-resolution optical snapshot", akin to capturing a "daylight photograph" that ensures "clear visual imagery". The intention behind this is "true-color documentation" which highlights details suitable for various applications without any technical jargon.
+
+The deadline has already been set by an upstream module, requiring the data by "in three days overnight". This phrase must be inserted verbatim into the request, emphasizing that this timeframe represents the upper limit for availability and not a countdown metric or raw timestamp. This aspect of the task underscores the necessity for prompt action within the outlined schedule to meet operational needs.
+
+In summary, our Earth-observation mission is requesting an "in-the-moment" snapshot with the VIS sensor from Norte City. The request acknowledges its lower priority status, indicating that while it's a critical task, there is flexibility in scheduling. The deadline ensures the importance of timely data collection within the defined timeframe for operational effectiveness.
