@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+Let's work through the details provided in the JSON metadata for crafting a task request:
+
+a) The exact string for 'target_day' is "in three days." This indicates when the data needs to be delivered, not when the satellite will capture the imagery.
+
+b) The exact string for 'target_diurnal_period' is "in the morning." This specifies the time of day when the desired observation should occur.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning."
+
+d) It's important to confirm that the deadline, which is "in three days," remains fixed and cannot be shifted to any other part of the day. The request must adhere strictly to this timeline without adjustment.
+
+### STAGE 2 - FINAL REQUEST
+
+I'm reaching out with a low-priority importance task for an Earth-observation mission involving Indonesia's city of Bengkalis. This request is flexible, allowing us to capture data on a convenient schedule, so please feel free to drop or reschedule at your convenience if necessary. We seek thermal mapping in the form of a heat signature analysis, focusing on surface temperature profiles and any potential thermal anomalies. Ideally, this task should be completed in three days, specifically in the morning. Thank you for accommodating this non-essential background filler task as part of our broader surveying efforts.
