@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request with a focus on maximizing naturalness and validation accuracy.
+
+The geographic context of our operation involves Colombia, specifically the city of Pantanillo, which is our primary location for data collection. We aim to capture essential information using the Near-Infrared (NIR) sensor, focusing on mapping water body boundaries and assessing soil moisture levels with high precision.
+
+Given the priority level of 3, this task is an absolute institutional priority. It involves a mandatory directive for capturing critical data related to water management and environmental monitoring. The urgency of this mission is paramount; thus, we request that it be executed in today's evening, adhering to the deadline set by our upstream module.
+
+Our operational guidelines dictate a natural interpretation of technical metadata. Therefore, instead of raw system tags or coordinate arrays, we will describe the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+In summary, our request is to gather high-quality Near-Infrared data for water body boundaries and soil moisture assessment in Pantanillo, Colombia, today in the evening. We emphasize that this task requires an authoritative tone due to its high importance and must be treated with urgency.
+
+Let's proceed with the execution of this mission, ensuring that all operational guidelines are followed to deliver accurate and valuable data for our stakeholders.
