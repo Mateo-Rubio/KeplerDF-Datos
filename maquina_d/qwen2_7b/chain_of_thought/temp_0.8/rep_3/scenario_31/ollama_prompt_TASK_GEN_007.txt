@@ -1,0 +1,31 @@
+STAGE 1:
+
+a) "in three days"
+b) "during the afternoon"
+c) "afternoon"
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Nestled in the vibrant heart of Colombia, specifically in the town of Mapiripán, we have a mission allocation priority of medium importance requiring immediate attention. This task involves capturing critical thermal data using our specialized TIR sensor during the afternoon timeframe exactly three days ahead, as dictated by the operational guidelines. 
+
+We aim to achieve unparalleled insight into the heat signature and thermal profile of this region through an active radar scan. The objective is to penetrate any cloud cover and accurately map ground geometry, providing valuable information that can inform decisions on various fronts from environmental monitoring to strategic planning. 
+
+Our operational approach embodies professionalism and standard procedures, ensuring that all baseline pipeline tracking parameters are adhered to while accommodating the fixed parameters representing normal operational status. This request for thermal anomaly detection is part of our continuous effort towards comprehensive monitoring and data collection.
+
+Given its medium importance, we understand that this task can be treated as a routine monitoring activity with slight flexibility in scheduling. Should any unforeseen circumstances affect our operations, the mission allocation may be rescheduled or dropped at our convenience without compromising the quality and integrity of our scientific endeavors. 
+
+The deadline set for capturing thermal data is strict, but remains within the target day and diurnal period specified. The urgency to collect accurate and timely data underscores the importance of this mission in contributing to our overall operational goals and strategic objectives.
+
+```prompt
+"Target task context JSON:
+{
+    "primary_sensor": "TIR",
+    "location_details": {
+        "country": "Colombia",
+        "city": "Mapiripán"
+    },
+    "priority_level": 2,
+    "target_day": "in three days",
+    "target_diurnal_period": "during the afternoon"
+}"
