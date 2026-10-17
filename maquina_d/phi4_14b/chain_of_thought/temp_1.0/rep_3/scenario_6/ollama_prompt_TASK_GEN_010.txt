@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+The task is to translate metadata into a conversational request for an Earth-observation mission. Let's break down the elements as required:
+
+a) The exact string in 'target_day' is "tomorrow." This directly indicates when the satellite constellation needs to capture data, without any alteration to its temporal context.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the time of day during which the satellite should be operational to meet mission requirements.
+
+c) From the set {morning, mid-day, afternoon, evening, overnight}, the word contained in 'target_diurnal_period' is "afternoon." This specific time of day needs to be mentioned in the final request.
+
+d) It is critical to confirm that there is no shifting of the deadline. The operational deadline is strictly set for "tomorrow during the afternoon," and this timing should not be changed or adjusted to another part of the day. The requirement is for a precise adherence to this specified timeframe to ensure the data's timely delivery.
+
+### Stage 2 - Final Request
+
+I am requesting a standard operational tasking from the satellite constellation planner for an active radar scan over Medio Baudó, Colombia, focusing on cloud-penetrating capture using microwave surface imaging. This task is part of our baseline pipeline tracking with fixed parameters for monitoring ground geometry and other relevant surface features. The capture should occur tomorrow during the afternoon to ensure it aligns with our routine workflow update schedule.
