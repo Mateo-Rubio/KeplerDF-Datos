@@ -1,0 +1,16 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "in three days".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in that string, which must appear literally in the final request, is "overnight".
+d) Confirming that I am not shifting the deadline to an adjacent part of the day, the task request will specifically note an overnight deadline without altering the time frame.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines, here's the task request based on the provided metadata:
+
+In three days, an absolute institutional priority mission has been allocated for satellite observations targeting Indonesia, specifically within the region known as Ecuatorial. This task is to capture a comprehensive "overnight" VIS (high-resolution optical snapshot) for daylight photography purposes, including clear optical imagery and true-color visual documentation. This captures a detailed snapshot of the land's surface features under the darkness veil, providing an essential dataset for various applications requiring nighttime visibility without any cloud interference or sunlight disruption.
+
+The "overnight" deadline ensures that satellite operators adhere strictly to this operational window without altering it to adjacent hours, as stipulated by the JSON metadata. As this falls under Priority 1, which indicates a low priority importance with flexible scheduling considerations, the request explicitly notes that this is treated as a "background survey" or "testbed tracking task", where the operator may "drop or reschedule at convenience". The task involves normal operational status and baseline pipeline tracking setups with fixed parameters representing standard workflow updates.
+
+In conclusion, the operational request for satellite observations involves a VIS (optical snapshot) task within Indonesia's Ecuatorial region over an "overnight" period in three days. The mission has been set as a low priority background filler task under standard operational management, with adherence to a clear deadline rather than prioritizing the timing of the observation.

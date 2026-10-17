@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string contained in 'target_day' is "the day after tomorrow".
+b) The exact string contained in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string, which is to be used literally in the final request, is "morning".
+d) The deadline is clearly defined as "the day after tomorrow" at "in the morning", so no temporal adjustment was made. The operator must capture the data strictly within this timeframe without any shifts to other parts of the same day or altering the deadline.
+
+STAGE 2 - FINAL REQUEST
+On the day after tomorrow, in the morning, our Earth-observation mission requires a satellite to provide a low-priority importance task for a thermal mapping mission utilizing near-infrared sensors. We're interested in acquiring "data" that captures the heat signature of specific areas across Colombia, with a focal point on San Alberto. The primary objective is to perform a scan of surface temperatures and detect thermal anomalies as part of an opportunistic background survey. This "mission lock" is set for flexibility in scheduling, implying that we may "drop or reschedule" if the operational flow needs adjustments for any reason, treating this as a background task to complement our ongoing monitoring and data capture efforts. The deadline is non-negotiable—please ensure the data product captures the required data in accordance with these parameters at the specified time.
