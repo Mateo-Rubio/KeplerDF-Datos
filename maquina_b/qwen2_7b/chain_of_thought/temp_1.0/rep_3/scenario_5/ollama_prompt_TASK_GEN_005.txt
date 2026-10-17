@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string, which must appear literally in the final request, is "overnight".
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. It is a strict operational deadline set for "the day after tomorrow" during the time frame designated as "overnight".
+
+STAGE 2:
+
+The task involves capturing the 'target_day', which is "the day after tomorrow", with the specific condition that it will be "overnight" for the mission's execution period. The primary sensor to be used for this observation will be VNIR, intended for "multispectral vegetation analysis". This includes assessing chlorophyll absorption levels and calculating the vegetation NDVI index, as well as surface reflectance measurements.
+
+Geographically, we are focusing on the location in "Borgo San Lorenzo, Italia", which serves as our geographical context without further clarification needed from the metadata since there are no other specific details provided like city or landmark that might not be explicitly mentioned.
+
+The priority level is set to "Priority 1" which indicates a low priority importance with a flexible schedule for this task. This means that it is treated as a "non-essential background filler task", which can be dropped or rescheduled at convenience, treating it as "background survey" or "testbed tracking task". 
+
+The deadline for delivery of the data products is strictly set for "the day after tomorrow" during the period designated as "overnight", implying that this is an exact time frame, not open to interpretation or extension. The request will be carried out without altering the temporal parameters provided in the metadata.
