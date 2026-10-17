@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm tasked with submitting a single, highly realistic, and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate the data into a natural-sounding request that maximizes validation accuracy while adhering to operational guidelines.
+
+The target task context involves an operational focus on a specific geographic area using advanced satellite sensors for detailed imaging. The primary sensor specified here is SAR (Synthetic Aperture Radar), which will conduct an active radar scan employing microwave surface imaging capabilities. This approach allows for cloud-penetrating capture, making it suitable for imaging ground geometry even under heavy weather conditions.
+
+The location details indicate the target area is within the country of Italia, specifically in the city of Sizzano, combining these parameters to form a realistic geographical description. The 'priority_level' is set to 1, which means this request is treated as a low priority importance task with a flexible schedule. It's framed as a "non-essential background filler task" that can be dropped or rescheduled as needed, fitting into the role of a "background survey" or "testbed tracking task".
+
+The mission allocation priority is determined by the context provided: an "absolute institutional priority", reflecting the binding contract requirement for "critical payload capture". This language heavily implies an "urgent operational execution" and an "un-preemptable mission lock", aligning with the concept of a "binding contract requirement".
+
+The deadline for this task has already been resolved by an upstream module, set as "in three days around mid-day". This phrase is inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing or adjustment.
+
+In summary, the request involves utilizing SAR technology to capture detailed images of the Sizzano region in Italia, with a focus on cloud-penetrating radar scans. The task is given low priority importance and carries flexible scheduling requirements, emphasizing its role as a background survey or testbed tracking task. The deadline for data availability is set three days ahead, around mid-day, reflecting the resolved timeframe for the mission's execution.
