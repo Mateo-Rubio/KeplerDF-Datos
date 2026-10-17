@@ -1,0 +1,7 @@
+Given the operational guidelines and interpreting the provided metadata, our request targets a task with a priority level marked as "low importance" as indicated by the 'priority_level' key set to '1'. This suggests a "non-essential background filler task" that can be scheduled based on flexibility, treating it as a "background survey" or "testbed tracking task".
+
+The sensor designated for this mission is 'SAR', which we understand to be an "active radar scan". The aim here is to capture the surface geometry of a location described by the 'location_details' field. Specifically, the target area is Indonesia's Ecuatorial region.
+
+This task is set with a deadline that we interpret strictly as "in three days" and specifically within "the morning" of that period. The temporal parameters represent a strict operational deadline for delivering the data products, not altering the orbital capture window.
+
+In summary, our request involves deploying a SAR sensor to gather detailed surface geometry data on Indonesia's Ecuatorial region by performing an active radar scan in the morning three days from now, underlining its low priority importance and flexible scheduling considerations.
