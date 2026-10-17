@@ -1,0 +1,25 @@
+Translate the provided physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission. The request should be based on the following operational guidelines:
+
+1.  Interpret the geographic context by combining the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+2.  Translate the mission allocation priority into specific operational phrases to reflect the structural hierarchy:
+    *   For Priority 3 (High Importance), use an authoritative, explicit, and commanding tone, framing this as an "absolute institutional priority" or a "binding contract requirement" involving a "critical payload capture" or "mandatory directive".
+    *   For Priority 2 (Medium Importance), use a professional, direct, and standard operational tone, describing this request as a "standard operational tasking", "commercial tasking", or "routine monitoring" part of a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update".
+    *   For Priority 1 (Low Importance), use a casual, highly flexible, or opportunistic tone, explicitly framing this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture".
+
+3.  Interpret the sensors and physical objectives by naturally weaving operational objectives and descriptors into your request to explain the physical phenomenon to be observed:
+    *   For VIS, explain the goal as a "high-resolution optical snapshot" for "daylight photography", "clear optical imagery", or "true-color visual documentation".
+    *   For SAR, explain the goal as an "active radar scan" using "microwave surface imaging" for "cloud-penetrating capture", piercing heavy weather or capturing ground geometry.
+    *   For TIR, explain the goal as "thermal mapping" to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions.
+    *   For VNIR, explain the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+    *   For NIR, explain the goal as "near-infrared reflection" for "water body boundary mapping" or "soil moisture assessment" to discriminate gradients.
+
+4.  The deadline for this task is "in three days overnight".
+
+The request should be framed as follows:
+
+Translate the provided physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission. The task involves translating the geographic context by combining the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. Since the country is "Slovenija" and the city is "Norte", we can describe the location as being in Slovenia, specifically in the city of Norte.
+
+This task is classified as a low priority importance request with a flexible schedule for opportunistic capture, making it a non-essential background filler task that can be dropped or rescheduled at convenience. The objective of this mission is to conduct thermal mapping to capture a heat signature and surface temperature profile, which is essential for thermal anomaly detection and mapping heat emissions.
+
+The deadline for this task is in three days overnight, and we need to ensure that the data availability is within this timeframe. We should frame this request as a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".

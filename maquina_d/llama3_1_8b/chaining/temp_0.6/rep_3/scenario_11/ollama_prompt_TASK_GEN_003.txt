@@ -1,0 +1,19 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. 
+
+To accomplish this, interpret the metadata organically according to the operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally. Describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The target location is in Indonesia, specifically in Murung Raya. This region is a part of the Indonesian archipelago, situated in the heart of Borneo.
+
+2. MISSION ALLOCATION PRIORITY: Priority indicates mission allocation authority and asset contractual value, NOT how close the deadline is. Use an authoritative, explicit, and commanding tone for Priority 3 (High Importance).
+
+This is an absolute institutional priority to capture a critical payload involving near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. 
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Naturally weave the operational objectives and descriptors into your request to explain the physical phenomenon to be observed.
+
+The primary objective is to conduct a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation using near-infrared (NIR) reflection.
+
+4. DELIVERY DEADLINE: The deadline for this task has already been resolved by an upstream module and is as follows: "in three days overnight." 
+
+The request should be framed in a way that reflects the operational hierarchy and priority level, while maintaining a natural flow of language to ensure the highest accuracy of the dataset.
