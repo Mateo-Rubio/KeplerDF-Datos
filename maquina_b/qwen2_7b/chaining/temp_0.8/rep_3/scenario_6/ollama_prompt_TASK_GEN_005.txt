@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, my task is to submit a request to our automated satellite constellation planner. The operational guidelines require interpreting raw physical simulation metadata provided in JSON format for a highly realistic and conversational English request.
+
+The geographic context involves the 'region_name' and nested 'location_details', which are 'Italia' and 'Sizzano'. We combine these natural elements to describe the location as 'Sizzano, Italia'. If fields such as 'country', 'city', or 'landmark' were unavailable, we would use 'region_name' to provide an accurate description.
+
+The mission allocation priority indicates a low importance ('Priority 1'), suggesting a casual and flexible tone. We frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". It's classified as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience".
+
+The sensors and physical objectives interpret the primary sensor's role. In this case, it's 'SAR', which we describe as an "active radar scan" using "microwave surface imaging". The objective is to pierce heavy weather or capture ground geometry through cloud-penetrating capture.
+
+The deadline for this task has been resolved by an upstream module, requiring the data to be available in three days around mid-day. This phrase is inserted verbatim into our request, respecting its upper limit for data availability without rephrasing or altering it.
+
+In summary, my request to the satellite constellation planner will adhere to operational guidelines by interpreting the JSON metadata naturally and providing a request that reflects the guidelines' principles.
