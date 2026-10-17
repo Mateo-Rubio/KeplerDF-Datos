@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days". This indicates the deadline for delivering the data products from the satellite observation.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day". This specifies when during the day the satellite should capture the data.
+
+c) The single word contained in that string, which must appear literally in the final request, is "mid-day".
+
+d) The deadline specified as "in four days" and "around mid-day" is strict. There is no indication or allowance to shift this deadline to any other part of the day, such as morning, afternoon, evening, or overnight. The timing is fixed to ensure the data captures occur precisely at the specified time.
+
+### STAGE 2 - FINAL REQUEST
+
+I am requesting a satellite observation over Nóvita, Colombia, with a focus on capturing data using an active radar scan. This mission involves microwave surface imaging, ideal for cloud-penetrating capture and ground geometry analysis. Given its low priority importance, this task has a flexible schedule and can be considered an opportunistic capture. It is a non-essential background filler task that can be dropped or rescheduled at convenience. The data should be delivered in four days, around mid-day.

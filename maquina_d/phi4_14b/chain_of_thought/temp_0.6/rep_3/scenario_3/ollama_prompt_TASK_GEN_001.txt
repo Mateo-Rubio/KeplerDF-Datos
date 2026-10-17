@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+For this task, we are provided with metadata regarding an Earth-observation mission request targeting the city of Tame in Colombia. The primary objective is to utilize a VNIR sensor for the observation.
+
+a) The exact string present in 'target_day' is "tomorrow." This indicates that the data collection should occur on the day following the current one, without any ambiguity or alteration in timing.
+
+b) The exact string in 'target_diurnal_period' is "in the evening." This specifies the time of day when the observation should be conducted, which aligns with a specific part of the day when lighting conditions are suitable for VNIR imaging.
+
+c) The word contained within this string that matches the specified set {morning, mid-day, afternoon, evening, overnight} is "evening." This term must appear in the final request to accurately describe the timing of the observation.
+
+d) It's crucial to confirm that we are not shifting or altering the deadline. The task specifies "tomorrow" and "in the evening," which means the observation should be captured strictly within this timeframe. There is no indication or allowance to adjust this period to a different part of the day, ensuring that the data collection aligns with the given operational deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a standard operational tasking for a commercial tasking as part of our baseline pipeline tracking in Tame, Colombia. This mission involves a multispectral vegetation analysis using a VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The data collection should be executed tomorrow in the evening, adhering to the fixed parameters representing normal operational status within our standard workflow update.
