@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. We aim to translate raw physical simulation metadata into a highly realistic, conversational English request, adhering to operational guidelines:
+
+1. GEOGRAPHIC CONTEXT: Our primary focus will be the Indonesian region of Bengkalis. This description combines 'country' and 'city' fields from 'location_details', providing a vivid image for potential stakeholders.
+
+2. MISSION ALLOCATION PRIORITY: With a priority level marked as Low Importance, this task requires flexible scheduling, fitting into our background survey or testbed tracking task framework.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor will be the TIR (Thermal Infrared) system, allowing us to capture thermal mapping data. This enables us to detect heat signatures and surface temperature profiles, or perform thermal anomaly detection as needed for various environmental studies.
+
+4. DELIVERY DEADLINE: The task is scheduled to deliver its results "in three days in the morning". We'll ensure this date and time stamp remains verbatim in our communication process for consistency with upstream modules.
+
+With these guidelines, my request to our satellite constellation planner reads:
+
+"Please prepare for a thermal mapping mission focused on Bengkalis, Indonesia, for a background survey task. Our TIR sensor will be deployed to capture heat signatures and surface temperature profiles, serving as a 'non-essential background filler task' with a flexible schedule that fits our normal operational status.
+
+The data collection process is expected to occur on the third day of our task, during the morning hours, providing us with comprehensive thermal mapping results by the end of this period. Please ensure this mission aligns with your baseline pipeline tracking setup for fixed parameters and maintains 'normal operational status' for our constellation."
+
+Thank you for taking this request into consideration and providing us with reliable Earth-observation data as per our guidelines."
