@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The single word contained in the string "overnight" is "overnight". This word must appear literally in your final request.
+d) Confirming that you are not shifting the deadline to an adjacent part of the day, since "the day after tomorrow" specifically denotes the 24-hour period from the time this task request is issued until the next day's midnight, with the "overnight" period being a specific sub-interval of that day.
+
+STAGE 2:
+
+Given the operational guidelines and context provided in the JSON metadata, our Earth-observation mission will focus on capturing thermal mapping data for Indonesia's Kapuas Hulu region overnight, on "the day after tomorrow." The request is categorized as having low priority importance ("Priority 1"), indicating a flexible schedule for "opportunistic capture" or a "non-essential background filler task". 
+
+The primary sensor designated for this task is "TIR", which we will use to map thermal emissions with the aim of identifying heat signatures and surface temperature profiles across Kapuas Hulu. This thermal mapping mission aligns with our baseline pipeline tracking efforts and complements normal operational status without compromising any binding contract requirements or critical payload captures.
+
+To execute this task accurately, we need to adhere strictly to the deadline specified for "the day after tomorrow", beginning our data collection at the "overnight" period. This means capturing thermal data from midnight until sunrise on that specific day, respecting the temporal parameters provided without extending or altering them in any way.
+
+In summary, our Earth-observation mission involves collecting thermal mapping data for Kapuas Hulu overnight on the day after tomorrow using a TIR sensor, fulfilling low priority operational tasks with standard parameters and flexible scheduling considerations.

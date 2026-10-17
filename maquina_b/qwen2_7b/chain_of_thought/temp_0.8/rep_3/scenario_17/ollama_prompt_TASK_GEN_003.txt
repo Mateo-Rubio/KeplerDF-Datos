@@ -1,0 +1,10 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string, which must appear literally in the final request, is "overnight".
+d) I am not shifting the deadline to an adjacent part of the day; instead, it stays as specified in the JSON metadata.
+
+STAGE 2 - FINAL REQUEST
+
+Given the specifics provided in the JSON metadata, we are tasked with capturing high-resolution near-infrared reflection data for a "background survey" of Berau, Indonesia. The operational requirement is that this "non-essential background filler task" must be completed overnight "tomorrow", adhering to the deadline for delivering the data products without any adjustments or extensions. This request is positioned as a low priority importance with flexible scheduling parameters, allowing for "drop or rescheduling at convenience". Therefore, we aim to perform this "testbed tracking task" with the intent to map water body boundaries or assess soil moisture while considering the unique conditions that might be more favorable overnight due to reduced light interference and other environmental factors specific to nighttime observations.
