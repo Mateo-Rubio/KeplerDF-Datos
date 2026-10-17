@@ -1,0 +1,13 @@
+Please capture a high-resolution optical snapshot of the city of Istmina in Colombia, focusing on daylight photography for clear optical imagery. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The goal is to provide true-color visual documentation of the area for further analysis. As this request has a priority level of 1, it is considered a low priority importance task with a flexible schedule for opportunistic capture. We aim to treat this as a background survey or testbed tracking task that can be dropped or rescheduled at convenience.
+
+The deadline for this task is "in four days overnight", meaning the upper limit for data availability is set for the period from midnight until morning on the fourth day, ensuring we receive thermal mapping data of the target area during this time frame. This request does not require any raw technical system tags, underscores, or coordinate arrays; instead, it combines the JSON parameters naturally to describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", we gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+For the physical objectives, our primary sensor will be a VIS sensor. The goal is to assess chlorophyll absorption levels and calculate the vegetation NDVI index and surface reflectance through multispectral vegetation analysis. This will help us understand the health of vegetation in the area.
+
+The SAR sensor will not be used for this task as we are focusing on optical data. However, if needed, it would capture cloud-penetrating radar scans using microwave surface imaging to provide ground geometry and detailed mapping even under heavy weather conditions.
+
+TIR sensors will also not be utilized here. If required, they would perform thermal mapping to detect heat signatures, map surface temperature profiles, or identify thermal anomalies and heat emissions in the target area.
+
+NIR sensors are not part of this request but could be used for water body boundary mapping or soil moisture assessment if needed for future tasks.
+
+This task is self-contained and does not require any external inputs or outputs. Please ensure that all data collection activities adhere to our operational guidelines and guidelines for maximum naturalness and validation accuracy.
