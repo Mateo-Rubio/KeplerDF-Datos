@@ -1,0 +1,16 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "today".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The task context specifies a strict operational deadline for delivering data products, which corresponds to the target day and time period.
+
+STAGE 2 - FINAL REQUEST
+
+The operator requests a low-priority importance task with a flexible schedule for opportunistic capture, labeling it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task". The objective is to capture a thermal mapping using "thermal imaging" for "heat signature" and "surface temperature profile" in Indonesia, specifically in the city of Kapuas. The request must be completed today in the evening.
+
+```prompt
+The operator requests a low-priority importance task with a flexible schedule for opportunistic capture, labeling it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task". The objective is to capture a thermal mapping using "thermal imaging" for "heat signature" and "surface temperature profile" in Indonesia, specifically in the city of Kapuas. The request must be completed today in the evening.
