@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string, which matches the provided list, is "overnight". This word should appear literally in the final request.
+
+d) I must ensure not to shift the deadline from "tomorrow overnight" to any other part of the day. The operational parameters clearly specify that the data delivery is due by "tomorrow overnight", which means the task needs to be completed during the night hours of the following day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to schedule a routine monitoring satellite pass over San Joaquín, Colombia, focusing on near-infrared reflection capabilities for water body boundary mapping. This is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. The data capture should occur tomorrow overnight, aligning with our standard workflow update requirements.

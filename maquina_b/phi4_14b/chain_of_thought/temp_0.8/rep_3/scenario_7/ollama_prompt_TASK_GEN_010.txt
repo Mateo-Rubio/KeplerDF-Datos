@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+To construct a natural request for this Earth-observation task, I'll begin by analyzing the provided JSON data to ensure an accurate translation into a conversational English request. 
+
+a) The exact string in 'target_day' is "in three days." This indicates the timeline for when the data product needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies the time of day during which the satellite capture should occur.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning." This is a specific timeframe that must be included in the final request to ensure clarity regarding when the observation should take place.
+
+d) It is important to confirm that we are not shifting the deadline to an adjacent part of the day. The JSON explicitly states "in the morning," so we must adhere to this timing without alteration or reinterpretation, ensuring the capture aligns with this specified diurnal period.
+
+Having addressed these considerations, I can now proceed to create a request that incorporates all relevant details naturally and accurately.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a standard operational tasking for a commercial tasking involving a multispectral vegetation analysis using near-infrared reflection. The objective is to assess chlorophyll absorption levels in the Pantanillo region of Colombia. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, and we aim to deliver this data product in three days, specifically in the morning.

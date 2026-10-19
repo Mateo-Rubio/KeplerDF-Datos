@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} contained in that string is "overnight." This word must appear literally in the final request.
+
+d) The instruction specifies that the temporal parameters represent a strict operational deadline for delivering data products. The 'target_diurnal_period' is "overnight," indicating that this period is crucial and should not be shifted to an adjacent part of the day, such as early morning or late evening. This confirms that the deadline remains fixed during the overnight hours.
+
+**STAGE 2 - FINAL REQUEST**
+
+This task is an absolute institutional priority, mandating a critical payload capture for a binding contract requirement involving an overnight observation in Rionegro, Colombia. We require an opportunistic capture of near-infrared reflection to assess soil moisture levels and discriminate gradients, ensuring the data is delivered within three days. This non-essential background filler task must be executed with utmost priority, treating it as a critical operational lock that cannot be preempted or rescheduled.

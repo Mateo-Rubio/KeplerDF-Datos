@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in 'target_diurnal_period' is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the task context specifies a specific diurnal period ("in the morning") and I am only copying that verbatim into the final request.

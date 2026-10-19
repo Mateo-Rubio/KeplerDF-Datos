@@ -1,0 +1,17 @@
+As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to capture highly realistic and conversational English descriptions based on the raw physical simulation metadata provided in JSON format. This request aims to maximize naturalness and validation accuracy by interpreting the data organically according to established guidelines.
+
+Given the specific task context:
+
+- **Geographic Context**: We are tasked with observing Tuluá, Colombia, a vibrant city nestled within a lush region of South America. Our operational interpretation combines elements from 'location_details', focusing on the country and city names for a realistic location description.
+
+- **Mission Allocation Priority**: This request is classified as medium importance under priority level 2. We frame this as a standard operational tasking that aligns with our baseline pipeline tracking setup, involving fixed parameters representing normal operational status.
+
+- **Sensors and Physical Objectives**: Our primary sensor is the Near-Infrared (NIR) instrument. The operational objective here is to assess soil moisture levels through near-infrared reflection, mapping water body boundaries with precision for agricultural and environmental monitoring purposes.
+
+- **Delivery Deadline**: Data availability has been resolved by an upstream module for "today overnight". This phrase will be inserted verbatim into the request as the stated upper limit for data availability.
+
+With these guidelines in mind, our request reads:
+
+"Please capture a near-infrared (NIR) reflection assessment of Tuluá, Colombia, focusing on soil moisture levels and water body boundaries. This medium-importance task is part of our baseline pipeline tracking setup and represents normal operational status. The deadline for data availability is today overnight as specified by the upstream module. We aim to capture a detailed snapshot that meets the requirements set forth by our institutional priorities without compromising the quality or accuracy of the observations."
+
+This request encapsulates the essence of the provided metadata, adhering to all guidelines and ensuring clarity and precision in communication with our satellite constellation planner.

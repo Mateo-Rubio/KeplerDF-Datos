@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "today."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The word "evening" from the set {morning, mid-day, afternoon, evening, overnight} is contained in that string. This word must appear literally in the final request.
+
+d) The task specifies capturing data specifically "in the evening," so there's no shifting the deadline to another part of the day. The mission must adhere to this temporal constraint and deliver the data by the specified time.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low-priority importance task focused on capturing near-infrared reflection imagery over the city of Buenaventura in Colombia. This is a flexible schedule, opportunistic capture, and should be treated as a non-essential background filler task. Please note that this can be dropped or rescheduled at convenience. The objective is to assess water body boundaries and soil moisture levels with a near-infrared sensor. The data products are needed by today in the evening, and the request should be accommodated within this time frame.

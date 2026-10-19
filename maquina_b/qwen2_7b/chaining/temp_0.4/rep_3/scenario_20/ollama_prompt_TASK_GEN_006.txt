@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am submitting a task request to an automated satellite constellation planner. The operational guidelines for this request are as follows:
+
+1. GEOGRAPHIC CONTEXT: We aim to capture high-resolution thermal mapping of the Sekadau region in Indonesia, combining the country field with realistic context. Since 'city' and 'landmark' fields are "N/A", we will describe the location using 'country' only.
+
+2. MISSION ALLOCATION PRIORITY: This task is of medium importance, as indicated by priority level 2. We frame this request as a standard operational tasking that involves capturing thermal anomalies and surface temperature profiles to support baseline pipeline tracking with fixed parameters representing normal operational status.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: Our primary sensor will be the TIR (Thermal Infrared), which we interpret as "thermal mapping" for heat signature detection, surface temperature profiling, and thermal anomaly detection.
+
+4. DELIVERY DEADLINE: The deadline for this task is "the day after tomorrow during the afternoon", a clear upper limit for data availability without rephrasing or moving the time.
+
+Incorporating these guidelines into our request:
+
+"Please allocate our satellite constellation to capture high-resolution thermal mapping of the Sekadau region in Indonesia, focusing on heat signature detection and surface temperature profiling. This task is part of our standard operational pipeline tracking with normal parameters, representing our baseline monitoring activities. The primary sensor will be the TIR (Thermal Infrared), which will be used for thermal anomaly detection and mapping heat emissions. The deadline for this task is 'the day after tomorrow during the afternoon', as per our upstream module's resolution."
+
+Please ensure that the satellite constellation responds to this request promptly, as it represents a standard operational tasking with medium importance.

@@ -1,0 +1,16 @@
+Translate the following raw physical simulation metadata into a single, highly realistic and conversational English request:
+
+{
+  "primary_sensor": "TIR",
+  "location_details": {
+    "country": "Italia",
+    "city": "Napoli"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the evening"
+}
+
+Here is the translated request:
+
+"Capture a thermal mapping dataset over the city of Napoli, Italia, utilizing active microwave surface imaging to detect heat signatures and surface temperature profiles. This is an absolute institutional priority with a binding contract requirement for a critical payload capture. The data must be ready by the day after tomorrow in the evening at the latest."

@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I am requesting a low priority importance task for a near-infrared (NIR) sensor capture tomorrow overnight. The geographical context involves Colombia, with the city of Ibagué being the focal point. This "non-essential background filler task" aims to map water body boundaries and assess soil moisture levels in this area. Given its "flexible schedule" nature, it is treated as a "background survey" or "testbed tracking task". The deadline for this task has already been established as "tomorrow overnight", serving as the upper limit for data availability.
+
+The execution of this request should not be considered an "urgent operational execution" or involve an "un-preemptable mission lock". Instead, it is part of a "standard operational tasking" or "routine monitoring" within a "baseline pipeline tracking" setup with "fixed parameters" representing "normal operational status" or a standard "workflow update". We will treat this as a "low priority importance" request with the understanding that it can be "dropped or rescheduled at convenience" if necessary.
+
+For more information, please refer to the provided JSON context:
+{
+  "primary_sensor": "NIR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Ibagué"
+  },
+  "priority_level": 1,
+  "target_day": "tomorrow",
+  "target_diurnal_period": "overnight"
+}

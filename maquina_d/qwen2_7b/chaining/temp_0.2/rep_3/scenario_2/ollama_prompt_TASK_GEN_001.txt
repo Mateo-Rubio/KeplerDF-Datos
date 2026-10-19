@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing the city of Génova in Colombia. Given that both country and city details are provided, we'll describe this location using a realistic combination of these fields. The target day is today, with the specified diurnal period being "in the evening". 
+
+The mission allocation priority is set to 'Priority 1', which means this request falls under low importance, with a flexible schedule for opportunistic capture. It's labeled as a "non-essential background filler task" that can be dropped or rescheduled at convenience.
+
+The primary sensor involved is SAR (Synthetic Aperture Radar), which will conduct an active radar scan using microwave surface imaging to capture cloud-penetrating data. This is crucial for cloud-penetrating capture, allowing us to pierce heavy weather conditions and capture ground geometry with precision.
+
+In conclusion, our request is to observe the city of Génova in Colombia today, specifically in the evening, with a low priority importance level. We're focusing on utilizing SAR technology to perform an active radar scan for cloud-penetrating data collection. The deadline for this task has already been resolved by an upstream module, and we aim to adhere to the specified upper limit of data availability being "today in the evening".

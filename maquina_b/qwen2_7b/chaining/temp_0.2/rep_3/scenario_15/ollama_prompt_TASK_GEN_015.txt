@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The context involves observing the location in Indonesia, specifically in the city of Basa Ampek Balai Tapan, using thermal mapping (TIR) as the primary sensor. This task carries low importance (Priority Level 1), implying it's a flexible schedule "background survey" or "testbed tracking task". The deadline for this task is "the day after tomorrow overnight", which means we aim to capture the heat signature and surface temperature profile of the area by that time.
+
+The operational guidelines guide us in interpreting the metadata organically. We avoid using raw technical system tags, underscores, or coordinate arrays. Instead, we combine the JSON parameters naturally, describing the location using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we describe the location using remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is interpreted according to the guidelines provided. Priority Level 1 indicates a low priority importance request with a flexible schedule for opportunistic capture. The language must be casual, highly flexible, or opportunistic, treating it as a background survey or testbed tracking task.
+
+In summary, our request to the satellite constellation planner is as follows:
+
+"Please observe the location in Indonesia, specifically in the city of Basa Ampek Balai Tapan, using thermal mapping (TIR) as the primary sensor. This task carries low importance and requires capturing the heat signature and surface temperature profile by 'the day after tomorrow overnight'. We aim to assess the thermal anomaly detection and map heat emissions during this period."
+
+This request is submitted in accordance with our operational guidelines, ensuring naturalness and validation accuracy of the dataset."

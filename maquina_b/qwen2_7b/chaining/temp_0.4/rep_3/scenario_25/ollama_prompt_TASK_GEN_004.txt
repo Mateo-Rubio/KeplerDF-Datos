@@ -1,0 +1,15 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate the raw physical simulation metadata provided into a single, highly realistic, and conversational English request. The operational guidelines for this task are as follows:
+
+1. GEOGRAPHIC CONTEXT: I must interpret 'region_name' and nested 'location_details'. In this case, we have a specific country and city mentioned, Colombia and La Macarena respectively. I will describe the location using these fields naturally, combining them into a realistic context without using raw technical system tags, underscores, or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: The priority level is set to 1, which indicates low importance. I should frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". This implies that it's a non-essential background filler task, treated as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is VNIR, which I will interpret as "multispectral vegetation analysis" to assess the "chlorophyll absorption level" or calculate a vegetation "NDVI index". This type of analysis helps us understand surface reflectance and plant health.
+
+4. DELIVERY DEADLINE: The deadline for this task is "the day after tomorrow overnight", which I will insert verbatim into my request as the stated upper limit for data availability.
+
+Taking all these guidelines into account, my request to the satellite constellation planner would be:
+
+"Please schedule a low priority importance 'background survey' or 'testbed tracking task' for the day after tomorrow overnight. The task involves conducting a 'multispectral vegetation analysis' using VNIR technology to assess the 'chlorophyll absorption level' or calculate a vegetation 'NDVI index'. This request pertains to the region of Colombia, specifically focusing on La Macarena. Please note that this deadline is 'the day after tomorrow overnight', serving as the upper limit for data availability."
+
+This request maintains a casual, highly flexible tone, aligning with the operational guidelines for priority level 1 tasks.

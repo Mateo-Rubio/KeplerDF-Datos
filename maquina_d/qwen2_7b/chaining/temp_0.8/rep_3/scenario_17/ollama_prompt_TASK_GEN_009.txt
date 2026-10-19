@@ -1,0 +1,21 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. Our objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. 
+
+Given the JSON parameters provided:
+
+In the geographic context:
+- We're targeting Indonesia, specifically the equatorial region of Ecuatorial City. Combining these details naturally, I'll describe the location using a realistic combination of country, city, and landmark fields from 'location_details'. If any of country, city, or landmark are "N/A", I will gracefully ignore them and describe the location using the remaining valid fields.
+
+Regarding the mission allocation priority:
+- With a priority level of 1 (low importance), this request is a low priority importance task with a flexible schedule. It's designated as a "non-essential background filler task" that can be dropped or rescheduled at convenience. It's explicitly noted as a "background survey" or "testbed tracking task".
+
+Concerning the sensors and physical objectives:
+- The primary sensor is set to SAR (Synthetic Aperture Radar). I'll frame this goal as an active radar scan using microwave surface imaging for cloud-penetrating capture, enabling us to pierce heavy weather and map ground geometry.
+
+The delivery deadline:
+- Data availability has already been resolved by an upstream module, with the task due "in three days in the morning". This phrase should be inserted verbatim into our request without rephrasing or shortening.
+
+My task request will read as follows:
+
+"Please schedule a SAR scan for high-resolution active radar imaging of the equatorial region of Ecuatorial City in Indonesia. Given its low priority importance, this task is a flexible background survey with no impact on urgent deadlines. The data delivery deadline is 'in three days in the morning', a fixed parameter representing normal operational status."
+
+In crafting this request, I've ensured that technical system tags, underscores, coordinate arrays, raw priority numbers, or technical priority levels are omitted. Instead, I've integrated specific operational phrases and language that reflect an authoritative, professional, or casual tone based on the priority level. Additionally, I've woven in natural descriptors for each sensor type as it pertains to their intended physical objectives. Lastly, the delivery deadline was seamlessly integrated into our request without alteration.

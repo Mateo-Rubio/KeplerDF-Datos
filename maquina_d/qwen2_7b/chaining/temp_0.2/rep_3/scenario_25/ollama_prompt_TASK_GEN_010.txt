@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The objective is to translate this data into a single request that maximizes naturalness and validation accuracy by interpreting it organically according to the outlined operational guidelines.
+
+The geographic context involves observing a location in Colombia, specifically Chima, which is described using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these details are "N/A", the description will gracefully omit them and use the remaining valid fields or the clean 'region_name' for an accurate depiction.
+
+The mission allocation priority is High Importance, as indicated by a priority level of 3. This request must be framed with an authoritative tone that reflects an "absolute institutional priority" or a "binding contract requirement". The language should heavily imply an "urgent operational execution" and an "un-preemptable mission lock", emphasizing the critical nature of this payload capture.
+
+The primary sensor is TIR, which will be used for thermal mapping to capture a "heat signature", "surface temperature profile", or for "thermal anomaly detection" and mapping heat emissions. This task aims to provide valuable insights into heat patterns and emission sources in Chima, Colombia.
+
+The deadline for this task is set as "in four days in the morning". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without rephrasing or altering it.
+
+In summary, this Earth-observation mission requires a detailed and urgent thermal mapping of Chima, Colombia, using TIR sensors. The task is of High Importance, necessitating an authoritative tone that underscores its critical nature. The deadline is set for four days in the morning, ensuring timely delivery of the data.

@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request.
+
+The geographic context involves capturing data for a location in France, specifically in Norte city. We aim to conduct a detailed observation of the area using the Near-Infrared sensor. This sensor will provide us with near-infrared reflection data, which we'll use to map water body boundaries and assess soil moisture levels, allowing us to discriminate gradients effectively.
+
+This request carries low importance, as indicated by the priority level of 1. We're treating it as a "non-essential background filler task" that can be accommodated based on our flexible schedule. The operator explicitly notes that this task is a "background survey" or "testbed tracking task," which doesn't require immediate attention.
+
+The target day for this task is the day after tomorrow, with the data acquisition scheduled around mid-day. The deadline for this task has already been resolved by an upstream module, and we're inserting this phrase verbatim into our request to ensure that the upper limit for data availability is clearly communicated.
+
+In conclusion, our mission allocation priority reflects the structural hierarchy of institutional tasks, where Priority 1 tasks are considered low importance requests with a flexible schedule. We're looking forward to receiving the data by mid-day on the day after tomorrow and will proceed with our baseline pipeline tracking setup based on the fixed parameters representing normal operational status.

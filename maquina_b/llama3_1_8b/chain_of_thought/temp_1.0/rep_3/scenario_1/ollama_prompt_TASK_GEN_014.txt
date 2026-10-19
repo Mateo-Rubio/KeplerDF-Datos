@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+
+c) The single word contained in the string "around mid-day" is "mid-day".
+
+d) The request explicitly specifies a deadline to deliver data products for "tomorrow", which means the deadline is for the next day, not an adjacent part of the current day.

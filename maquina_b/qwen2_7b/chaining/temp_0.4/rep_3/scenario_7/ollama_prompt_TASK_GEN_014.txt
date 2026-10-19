@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting this task request to our automated satellite constellation planner. Our objective is to translate raw physical simulation metadata provided in JSON format into a highly realistic and conversational English request for an operational task.
+
+The geographic context of our mission involves capturing data from the region known as Norte, focusing on the city of Norte itself. While specific country details are unavailable, we'll describe this location using a realistic combination of the available fields, resulting in a detailed snapshot of the area's environmental conditions.
+
+The mission allocation priority for this task is set at Level 1 (Low Importance), indicating that this request falls under a flexible schedule for opportunistic capture. We're explicitly noting this as a "low priority importance" task with a "flexible schedule" for "opportunistic data collection", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor for this mission is the Near-Infrared (NIR) sensor, which will be used to map water body boundaries and assess soil moisture. The goal here is to capture "near-infrared reflection" data that will help us discriminate gradients in soil moisture content, crucial for agricultural monitoring and environmental management.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the target being "tomorrow around mid-day". This exact phrase must be inserted into our request as the stated upper limit for data availability, ensuring clear communication about when we expect to receive the data.
+
+In summary, our task is to capture detailed data on water body boundaries and soil moisture levels using a Near-Infrared sensor from the region of Norte, with the deadline set for tomorrow around mid-day. This mission aligns with our low priority importance tasks, allowing us to gather valuable information without strict time constraints.

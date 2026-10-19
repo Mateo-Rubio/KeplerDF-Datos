@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves a satellite constellation planner receiving a request for a mission to observe an area using specific parameters provided in the JSON metadata. Let's break down the components:
+
+a) The exact string in 'target_day' is "in four days". This indicates when the data should be delivered, not when the satellite will capture it.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day for the observation relative to local time at the target location.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in that string is "morning". This word will be directly included in the final request to specify when the observation should occur.
+
+d) It's important to confirm that we are not shifting the deadline. The deadline for delivering the data products is strictly "in four days", and this does not imply any flexibility or adjustment to the diurnal period, which remains "in the morning". This ensures that the task aligns with the operational timeline without altering the specified time of observation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance observation of Moncalieri, Italy, using VNIR sensors. The goal is to perform multispectral vegetation analysis, assessing chlorophyll absorption levels and calculating the NDVI index for surface reflectance. This task is flexible in scheduling, allowing it to be captured opportunistically with the ability to drop or reschedule at convenience, treating it as a non-essential background filler task. Please ensure data delivery in four days, with the observation occurring in the morning.

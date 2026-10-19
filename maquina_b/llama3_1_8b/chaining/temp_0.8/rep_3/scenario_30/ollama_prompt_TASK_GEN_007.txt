@@ -1,0 +1,13 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the automated satellite constellation planner. The task involves interpreting the provided JSON format according to the operational guidelines.
+
+To maximize naturalness and validation accuracy, start by describing the geographic context of the mission. The location details indicate that the observation is taking place in Colombia, specifically in the city of El Marmol. This can be naturally combined into a realistic description of the location.
+
+Given the priority level of 1, frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture". Label it as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience", treating it as a "background survey" or "testbed tracking task".
+
+The primary sensor used for this mission is VNIR, which requires explaining the goal as "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index" and surface reflectance.
+
+Finally, note that the deadline for this task has already been resolved by an upstream module. The upper limit for data availability is "the day after tomorrow during the afternoon". This phrase should be inserted verbatim into the request.
+
+Therefore, the translated request would be: 
+
+Obtain a high-resolution optical snapshot for daylight photography in Colombia, specifically in the city of El Marmol. This task has low priority importance and a flexible schedule for opportunistic capture, which can be treated as a non-essential background filler task that can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. The goal is to conduct multispectral vegetation analysis to assess chlorophyll absorption level or calculate a vegetation NDVI index and surface reflectance. Data should be available the day after tomorrow during the afternoon.

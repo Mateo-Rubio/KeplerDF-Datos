@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+The metadata for this Earth-observation task request includes several critical elements that need to be translated into a natural English request.
+
+a) The exact string present in the 'target_day' key is "in four days." This indicates when the data products are expected, providing a clear deadline without referring to specific timestamps or countdown metrics. It emphasizes the delivery time frame for capturing and processing the required imagery.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the particular time during which the imaging should occur, helping guide the satellite constellation's operations to focus during these hours.
+
+c) The single word from the set {morning, mid-day, afternoon, evening, overnight} contained in the string "overnight" is "overnight." This term needs to be included verbatim in the final request as it indicates a specific time frame for the imagery capture, and it directly influences when the task should be conducted.
+
+d) To confirm, we are not shifting the deadline to an adjacent part of the day. The 'target_diurnal_period' is explicitly "overnight," which means that any planning or adjustments must respect this specified timeframe without attempting to change it to another time such as morning or evening. The task must align with this exact period.
+
+---
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for capturing high-resolution optical snapshots in the region around Sotta, France, over an overnight period, in four days. This flexible schedule allows for opportunistic capture and is considered a non-essential background filler task. It's recommended to drop or reschedule this mission at convenience if operational priorities shift, treating it as a background survey task. The aim is to obtain clear optical imagery during this specified timeframe without any adjustments to the diurnal period mentioned.

@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+To translate the task request from the provided JSON metadata into a natural English request, I will follow the guidelines set forth for geographic context, mission allocation priority, sensors and physical objectives, and relative timeframes.
+
+a) The exact string in 'target_day' is "in three days." This indicates that the data delivery must occur within this timeframe from the current date, emphasizing urgency without altering or shifting the deadline.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies when the satellite should capture the imagery during the target day, indicating a specific time window for data collection.
+
+c) The single word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be explicitly included in the final request to ensure clarity about the timing of the satellite operation.
+
+d) It is crucial to confirm that there is no alteration or shifting of the deadline. The data must be delivered "in three days" and captured "overnight," strictly adhering to these parameters without any deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting an absolute institutional priority mission for a high-resolution optical snapshot over Kutai Barat, Indonesia. This critical payload capture is a binding contract requirement that necessitates urgent operational execution with an un-preemptable mission lock. The satellite must acquire clear optical imagery during the overnight period in three days. This task is essential to our operational goals and must be executed without delay.

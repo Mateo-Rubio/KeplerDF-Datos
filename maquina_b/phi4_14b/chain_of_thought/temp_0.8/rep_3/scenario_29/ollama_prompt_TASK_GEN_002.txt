@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The provided JSON metadata contains several key elements that need to be interpreted according to the guidelines for crafting a realistic and conversational satellite task request.
+
+a) The exact string in 'target_day' is "in three days." This indicates the specific timeframe within which the data must be delivered, emphasizing the urgency of the mission.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon." This specifies the part of the day when the satellite should capture the imagery, aligning with the operational requirements for optimal lighting conditions.
+
+c) The single word contained in the 'target_diurnal_period' string that must appear literally in the final request is "afternoon." This term precisely defines the time frame for data capture and ensures clarity in the request.
+
+d) It is crucial to confirm that there is no shift in the deadline to an adjacent part of the day. The request must adhere strictly to the specified timeframe, capturing the data "during the afternoon" as stated. This adherence ensures that the mission's operational parameters are met without deviation.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority with a binding contract requirement for a critical payload capture over northern Italy, specifically in the city of Norte. We urgently need a high-resolution optical snapshot during the afternoon, in three days, to ensure clear optical imagery under daylight conditions. This mission is un-preemptable and demands immediate operational execution to meet our fixed parameters and workflow update needs.

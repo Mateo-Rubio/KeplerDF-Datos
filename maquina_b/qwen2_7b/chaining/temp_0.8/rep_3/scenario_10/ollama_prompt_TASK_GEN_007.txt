@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. My objective is to translate the provided raw physical simulation metadata into a highly realistic and conversational English request.
+
+Geographically speaking, we're focused on capturing data from the TIR sensor over the region in Colombia known as Apartadó, which combines the country with the city name directly. Since no landmark was specified, this location remains described using the available details provided in 'location_details'.
+
+The mission allocation priority level is set to Low Importance, a request that operates under flexible scheduling, acting as a 'non-essential background filler task'. The operator's note indicates they may drop or reschedule the mission at convenience, treating it as a 'background survey' or 'testbed tracking task'.
+
+With regards to sensors and physical objectives, the primary sensor is TIR, which necessitates thermal mapping for heat signature capture, surface temperature profiling, or thermal anomaly detection. The goal is to map heat emissions accurately through this process.
+
+The delivery deadline for this task has already been resolved by an upstream module: "the day after tomorrow overnight". This phrase must be included as the stated upper limit for data availability without any rephrasing, shortening, or relocation within the day's context.
+
+In summary, our request to the satellite constellation planner involves capturing thermal data over Apartadó, Colombia, during the overnight period of the day after tomorrow. The task operates under a flexible schedule and low priority importance, serving as a 'background survey' with no constraints on availability.

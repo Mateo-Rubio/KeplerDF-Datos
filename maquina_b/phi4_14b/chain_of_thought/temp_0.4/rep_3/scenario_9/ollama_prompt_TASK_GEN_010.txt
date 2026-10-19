@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow." This indicates a specific timeframe for the task to be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the morning." This specifies when during the day the observation should ideally occur.
+
+c) The single word contained in that string is "morning." This word will be used verbatim in the final request to describe the timing of the task.
+
+d) The deadline specified by "the day after tomorrow" and "in the morning" must be adhered to strictly. There is no indication or allowance for shifting this deadline to another part of the day, such as mid-day, afternoon, evening, or overnight. The task must be completed within the given timeframe without alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for a flexible schedule with an opportunistic capture in Puerto Wilches, Colombia. This is a non-essential background filler task that can be dropped or rescheduled at convenience, serving as a background survey or testbed tracking task. The objective is to perform multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please aim to complete this task the day after tomorrow in the morning.

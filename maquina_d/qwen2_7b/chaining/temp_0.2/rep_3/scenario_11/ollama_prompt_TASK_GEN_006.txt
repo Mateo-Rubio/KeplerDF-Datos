@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
+
+The geographic context involves capturing data for Indonesia, specifically in the city of Setiris. This location will be described using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", they will be gracefully ignored, and the description will be based on the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is medium importance, as indicated by a priority level of 2. This request should be framed as a standard operational tasking, part of a baseline pipeline tracking setup with fixed parameters representing normal operational status. The language must not imply how close the deadline is but should reflect an "urgent operational execution" and an "un-preemptable mission lock".
+
+The primary sensor to be used is VNIR (Vegetation Near-Infrared), which will be explained as a goal for multispectral vegetation analysis, assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance. This objective aims to provide valuable insights into the health and condition of the vegetation in Setiris.
+
+The delivery deadline for this task is "today overnight", which means the upper limit for data availability is set as today's overnight period. This phrase must be inserted verbatim into the request, without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, the task request will be crafted with a casual, highly flexible tone, treating this as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". It will be labeled as a "non-essential background filler task", where the operator explicitly notes to "drop or reschedule at convenience", considering it a "background survey" or "testbed tracking task".
+
+This request aims to maximize the naturalness and validation accuracy of the dataset by interpreting the metadata organically according to the provided operational guidelines.

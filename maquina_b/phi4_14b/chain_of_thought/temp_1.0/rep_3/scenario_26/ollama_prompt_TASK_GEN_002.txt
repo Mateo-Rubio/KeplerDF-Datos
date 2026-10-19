@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The provided JSON task context gives a clear depiction of the mission details we need to convert into a conversational request. 
+
+a) The exact string in 'target_day' is "in three days". This provides us with a precise deadline for when the data should be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the specific time of day when the observation should occur, highlighting that the focus is on capturing images during this period.
+
+c) The single word contained in the 'target_diurnal_period' string that must appear literally in our final request is "evening". This word will help us ensure that the timing of the operation aligns with the specific requirements.
+
+d) It's crucial to adhere strictly to the given temporal parameters without any alterations. The deadline specified as "in three days" and "in the evening" must be respected, confirming that no shift to an adjacent part of the day is necessary or appropriate. This ensures that the operational plan remains precise and unaltered from the original task context.
+
+### STAGE 2 - FINAL REQUEST
+
+We have been tasked with conducting a multispectral vegetation analysis over the region of Corteno Golgi in Italy. This mission should be regarded as a standard operational tasking within our routine monitoring activities, forming part of our baseline pipeline tracking system. The parameters are set for a fixed schedule to ensure normal operational status and adhere to our workflow update procedures. We aim to calculate the NDVI index and analyze surface reflectance effectively. Please ensure this task is completed in three days with observations captured in the evening to secure accurate data delivery within the specified deadline.

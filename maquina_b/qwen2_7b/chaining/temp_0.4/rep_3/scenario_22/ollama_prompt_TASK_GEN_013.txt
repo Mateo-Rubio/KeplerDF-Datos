@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic, single, and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves Colombia, specifically the city of Ráquira, which we aim to document with a high-resolution optical snapshot for daylight photography. This will serve as a true-color visual documentation that captures the essence of this beautiful Colombian city.
+
+Regarding mission allocation priority, this task is categorized under low importance (Priority 1). It's explicitly noted as a "low priority importance" request with a flexible schedule for "opportunistic capture". We treat it as a "background survey" or "testbed tracking task", allowing it to be dropped or rescheduled at our convenience.
+
+The primary sensor to be utilized is VIS, which will enable us to achieve clear optical imagery and true-color visual documentation of Ráquira. This sensor provides us with the capability to assess daylight conditions and capture detailed images of the cityscape.
+
+The delivery deadline for this task has been resolved by an upstream module, and it's set for "in three days around mid-day". We must include this phrase verbatim in our request, as the stated upper limit for data availability. This ensures that our task is completed within the specified timeframe without any rephrasing or alteration.
+
+In conclusion, our request to the automated satellite constellation planner is to capture high-resolution optical imagery of Ráquira, Colombia, using VIS sensors, with a deadline set for "in three days around mid-day". This task is categorized as low priority importance and will be treated as a flexible background survey or testbed tracking task.

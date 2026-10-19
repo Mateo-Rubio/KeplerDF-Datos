@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English description. The raw physical simulation metadata provided in JSON format will be translated organically into a single request that maximizes naturalness and validation accuracy.
+
+The geographic context involves a location in Colombia, specifically the city of Toledo. This request is categorized as Priority 1 (Low Importance), which means it's treated as a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, and operators are explicitly instructed to drop or reschedule this task at their convenience.
+
+The primary sensor targeted for this mission is VIS (Visible Imaging System). This involves capturing a high-resolution optical snapshot for daylight photography, true-color visual documentation, and clear optical imagery that will serve as a valuable resource for understanding the landscape during daytime hours. The request emphasizes the importance of including detailed information about the location, which combines the country and city fields from 'location_details' to provide context.
+
+The delivery deadline is set for "in four days overnight", indicating that the upper limit for data availability is during the nighttime period, four days ahead of the current time frame. This deadline is already resolved by an upstream module and must be included verbatim in the request.
+
+In summary, this task request aims to capture essential visual data using a VIS sensor over a location in Colombia's Toledo city, with a flexible schedule for data collection during the overnight period four days from now. The request is mindful of the geographic context, operational priorities, and specific hardware requirements, ensuring that all elements are seamlessly integrated into a single, coherent narrative.

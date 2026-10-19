@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon."
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon." This word must appear literally in the final request.
+
+d) It's important to confirm that the deadline is not being shifted to an adjacent part of the day. The specified timeframe is "during the afternoon" on "tomorrow," and this should be adhered to without any alterations or extensions.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need a standard operational tasking for a commercial satellite mission over northern Italy. This involves acquiring active radar scans using microwave surface imaging to penetrate cloud cover and capture ground geometry. The data is required as part of our baseline pipeline tracking with fixed parameters, reflecting normal operational status. Please ensure the data is delivered by tomorrow during the afternoon.

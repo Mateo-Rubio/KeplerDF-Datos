@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. The operational guidelines include interpreting geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
+
+Geographically, we're focusing on Indonesia's Malinau region, which serves as our primary observation area. With the primary sensor being SAR (Synthetic Aperture Radar), our mission involves an active radar scan using microwave surface imaging. This is aimed at cloud-penetrating capture, essential for capturing ground geometry under heavy weather conditions.
+
+Given the priority level of 1, this task is framed as a low priority importance request with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, treated as a background survey or testbed tracking task, where the operator explicitly notes to drop or reschedule at convenience.
+
+The delivery deadline for this task has been resolved by an upstream module, set for "the day after tomorrow overnight". This phrase is inserted verbatim into the request, serving as the upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics are outputted.
+
+In summary, our mission involves capturing ground geometry using SAR technology in Indonesia's Malinau region, with a flexible schedule and deadline set for "the day after tomorrow overnight". This task is considered low priority, allowing for opportunistic capture as part of a background survey or testbed tracking task.

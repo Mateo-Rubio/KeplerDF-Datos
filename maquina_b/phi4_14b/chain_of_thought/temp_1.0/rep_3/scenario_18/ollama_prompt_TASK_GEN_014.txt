@@ -1,0 +1,17 @@
+### STAGE 1 - REASONING
+
+For the task request, let's examine the JSON metadata to ensure a precise and coherent transformation into an operational request.
+
+a) The exact string present in 'target_day' is "in four days". This indicates the specific time frame by which the data must be delivered, emphasizing that the deadline should not be adjusted or modified.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This tells us precisely when during the day the satellite observation should ideally take place, without any need to shift it to another part of the day.
+
+c) The single word contained in the diurnal period string that we need to incorporate verbatim into the final request is "morning". This will clearly communicate the time of day for data capture within the request.
+
+d) Confirming that we are not shifting the deadline involves understanding that both "in four days" and "in the morning" define an unchangeable temporal context. Therefore, the delivery of the satellite imagery is strictly bound by these parameters, with no room for alterations to the timing.
+
+Having considered each aspect of the metadata, we can now formulate the final operational request.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority and binding contract requirement involving a critical payload capture. We mandate a thermal mapping operation over Povici di sotto, Italy, utilizing a satellite with a primary sensor focused on capturing heat signatures and surface temperature profiles in order to identify any potential thermal anomalies or heat emissions present in the region. This mission lock is un-preemptable, and we require the data to be delivered strictly within four days, specifically targeting an observational window in the morning for optimal results.

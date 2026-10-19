@@ -1,0 +1,15 @@
+I'll work through the four questions in order.
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string is "overnight". This is the word that will appear in the final request.
+
+d) I confirm that the deadline is not being shifted to an adjacent part of the day. The original deadline of "in three days" remains unchanged.
+
+Now, moving on to STAGE 2 - FINAL REQUEST:
+
+```prompt
+Task Request: 
+We are requesting a low priority importance task for opportunistic capture with a flexible schedule. This non-essential background filler task should be treated as a background survey or testbed tracking task where we can drop or reschedule at convenience if needed. We require thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions, using an active thermal scan for cloud-penetrating capture, piercing heavy weather, in the region of Slovenia, specifically targeting the overnight period in three days.

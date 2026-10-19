@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task at hand involves interpreting the metadata from a JSON object to create a natural and realistic satellite task request. Let's break down each component step by step:
+
+a) The string in 'target_day' is "the day after tomorrow." This indicates that the data capture should be completed two days from now.
+
+b) The string in 'target_diurnal_period' is "overnight." This specifies the time period during which the data capture should occur.
+
+c) The word contained in the string "overnight" from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This word will be used literally in the final request to specify when the task should be executed.
+
+d) It's crucial to confirm that we are not altering the deadline. The operational guidelines explicitly state that the temporal parameters represent a strict deadline for delivering data products. Therefore, the capture must occur overnight on the day after tomorrow, without any shifts or adjustments to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+This is an absolute institutional priority task involving a critical payload capture. We require an urgent operational execution with an un-preemptable mission lock. The mission involves thermal mapping to capture a heat signature or surface temperature profile over the region named "Norte." This task is part of a binding contract requirement and must be completed on the day after tomorrow, specifically overnight.

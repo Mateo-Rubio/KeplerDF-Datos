@@ -1,0 +1,11 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day. The task explicitly mentions capturing data "in the morning" on the same target day, which is specified as "in four days" from now.
+
+The target day and diurnal period are strictly tied to the deadline for delivering the data products, not the orbital capture window.

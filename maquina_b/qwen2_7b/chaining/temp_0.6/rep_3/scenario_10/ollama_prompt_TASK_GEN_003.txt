@@ -1,0 +1,11 @@
+Your Earth observation mission operator has requested a highly realistic task submission to an automated satellite constellation planner. The operational guidelines for translating raw physical simulation metadata into a conversational English request are as follows:
+
+1. GEOGRAPHIC CONTEXT: The region is centered around Indonesia, with a focus on the equatorial city of Ecuatorial. The description combines country, city, and landmark fields from 'location_details', providing a natural blend of geographic information without relying on technical system tags or coordinate arrays.
+
+2. MISSION ALLOCATION PRIORITY: The priority level is set to 1, which indicates low importance. This request is framed as a "non-essential background filler task" with a flexible schedule for "opportunistic capture". It's treated as a "background survey" or "testbed tracking task", reflecting a casual and opportunistic tone.
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is a SAR (Synthetic Aperture Radar), which will perform an active radar scan using microwave surface imaging technology. This method allows for cloud-penetrating capture, enabling the satellite to observe ground geometry regardless of weather conditions.
+
+4. DELIVERY DEADLINE: The deadline for this task has been resolved by an upstream module and is set for "tomorrow during the afternoon". The exact time frame is included verbatim in the request, without any rephrasing or adjustments.
+
+The Earth observation mission operator requests that the automated satellite constellation planner conduct a thermal mapping task using SAR technology on the Indonesian Ecuatorial region. This task aims to capture heat signatures and surface temperature profiles for "tomorrow during the afternoon". The operator treats this as a low-priority importance request with a flexible schedule, indicating it's part of a "background survey" or "testbed tracking task". The focus is on gathering data that will assist in identifying thermal anomalies and mapping heat emissions without causing an urgent operational execution or affecting contractual obligations.

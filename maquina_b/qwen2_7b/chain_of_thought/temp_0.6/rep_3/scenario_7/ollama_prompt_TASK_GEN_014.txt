@@ -1,0 +1,16 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "around mid-day".
+c) The word contained in the 'target_diurnal_period' string is "mid-day".
+d) No, I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2:
+
+Given our operational guidelines and interpreting the metadata, we are tasked with capturing high-resolution near-infrared (NIR) data on a location whose country details are unavailable but is located in Norte City. The priority level of this mission allocation is low importance, indicating that this is a flexible schedule request for an opportunistic capture task.
+
+The deadline is set for tomorrow around mid-day, which represents the strict operational deadline to deliver the data products. This deadline does not shift or alter the time window within which the satellite constellation needs to capture the data; it serves as the final point by which all necessary data must be acquired and processed.
+
+To accomplish this task, we aim to conduct a near-infrared reflection survey for water body boundary mapping and soil moisture assessment in Norte City. The goal is to capture clear optical imagery that will help discriminate gradients through the process of near-infrared scanning, ensuring that the heat signature and surface temperature profile are accurately mapped for potential thermal anomalies or unique features.
+
+The rationale behind this request is to provide an efficient background survey task that aligns with our baseline pipeline tracking setup. The fixed parameters involved represent normal operational status, allowing us to update workflows without disrupting any critical payload capture or mandatory directive requirements. This low priority importance request ensures that the operator can drop or reschedule at convenience if necessary, treating it as a non-essential task in our institutional priorities.

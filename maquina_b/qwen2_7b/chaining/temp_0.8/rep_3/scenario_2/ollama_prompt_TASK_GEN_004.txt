@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I submit this task request to our automated satellite constellation planner. Our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request.
+
+**GEOGRAPHIC CONTEXT**: The target region is Colombia, and we are focusing on the city of Nóvita. It's essential to combine the JSON parameters naturally; thus, I'll describe the location using these details in a realistic manner. Colombia alone sounds majestic, but combining it with Nóvita, a charming town nestled among the lush landscapes, provides a vivid picture for the satellite to capture.
+
+**MISSION ALLOCATION PRIORITY**: This task carries a low priority importance ("Priority 1"), indicated by the operational guidelines. However, despite its "low" status, I frame this as a flexible schedule request for "opportunistic capture". Our intention is not to push this task to the top of the queue but rather consider it as a "background survey" or "testbed tracking task" that can be rescheduled at convenience.
+
+**SENSORS AND PHYSICAL OBJECTIVES**: Our primary sensor is set to a SAR (Synthetic Aperture Radar). This technology enables active radar scans using microwave surface imaging, which allows capturing details even through heavy weather conditions. The goal here is to achieve cloud-penetrating capture, providing us with invaluable ground geometry data for our analysis.
+
+**DELIVERY DEADLINE**: The deadline for this task is fixed in four days around mid-day, serving as the stated upper limit for data availability. This is a clear instruction given by an upstream module and must be adhered to without rephrasing or moving it to a different part of the day.
+
+In summary, our request to the automated satellite constellation planner is that they capture high-resolution SAR imagery of the city of Nóvita, Colombia on the target day at mid-day. This task carries a low priority importance, is for opportunistic capture, and is to be completed within the specified deadline, adhering to flexible scheduling guidelines.

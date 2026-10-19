@@ -1,0 +1,17 @@
+STAGE 1 REASONING:
+
+a) The exact string present in 'target_day' is: "tomorrow"
+
+b) The exact string present in 'target_diurnal_period' is: "in the morning"
+
+c) The word contained within that string is: "morning"
+
+d) I am not shifting or altering the deadline to an adjacent part of the day. The target deadline for data acquisition remains tomorrow morning.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and the specified parameters, the task request is as follows:
+
+Tomorrow morning, our automated satellite constellation planner should prioritize the allocation of an asset with the primary sensor set to perform an active radar scan for cloud-penetrating capture using microwave surface imaging technology. The target area is Colombia, specifically in Restrepo, which requires capturing a detailed image of ground geometry under conditions of heavy weather. This task has been identified as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+Since it carries low priority importance and does not meet the criteria for an urgent operational execution or a critical payload capture, it should be framed as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience". This operational request ensures that the satellite's assets are efficiently allocated while respecting the flexibility of our schedule.

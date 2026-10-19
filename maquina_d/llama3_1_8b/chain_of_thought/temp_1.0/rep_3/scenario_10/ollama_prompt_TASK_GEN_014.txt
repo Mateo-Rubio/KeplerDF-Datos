@@ -1,0 +1,13 @@
+Here's my reasoning for Stage 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the evening".
+
+c) The single word contained in that string is "evening".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request specifically targets "tomorrow" in the evening, which is the same temporal parameter specified in the input JSON.
+
+Now, I'll move on to Stage 2. Here's the operational request:
+
+It is an absolute institutional priority to obtain a high-resolution thermal map of the region, capturing a heat signature and surface temperature profile for the critical payload capture. We require active thermal mapping using microwave surface imaging to be carried out in Italia, with a focus on Crespino, in the evening of tomorrow. The mission allocation authority mandates a binding contract requirement, involving an urgent operational execution and un-preemptable mission lock to deliver the data products on time.

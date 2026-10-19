@@ -1,0 +1,17 @@
+**STAGE 1 - REASONING**
+
+To translate the provided JSON metadata into a natural English request, let's go through each aspect step-by-step.
+
+a) The exact string in 'target_day' is "in three days". This indicates the timeframe within which the data needs to be delivered, making it a clear deadline for operational execution. It is crucial to use this verbatim in the final request to maintain the integrity of the timeline.
+
+b) The exact string in 'target_diurnal_period' is "during the afternoon". This specifies when the satellite should capture the imagery, ensuring that the conditions are optimal for the intended sensor and objective. This timing is essential for achieving the desired observational quality.
+
+c) The single word contained in the string "during the afternoon" from the set {morning, mid-day, afternoon, evening, overnight} is "afternoon". This word must appear literally in the final request to clearly communicate the precise time of day when the imagery should be captured.
+
+d) It's important to confirm that we are not shifting the deadline to an adjacent part of the day. The original metadata specifies "during the afternoon", and this must remain unchanged to adhere strictly to the operational guidelines provided. Any alteration could affect the quality or relevance of the data captured, given the specific requirements tied to the time of day.
+
+By considering these elements, we ensure that the request is both precise and aligned with the operational priorities and objectives.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task involving a critical payload capture in Chivatá, Colombia. This mission is a binding contract requirement, necessitating urgent operational execution with an un-preemptable mission lock. We require a high-resolution optical snapshot using a VNIR sensor to conduct multispectral vegetation analysis, focusing on assessing chlorophyll absorption levels and calculating a vegetation NDVI index. The imagery must be captured during the afternoon in three days. This is a non-negotiable directive, and timely delivery is essential for maintaining our operational commitments.

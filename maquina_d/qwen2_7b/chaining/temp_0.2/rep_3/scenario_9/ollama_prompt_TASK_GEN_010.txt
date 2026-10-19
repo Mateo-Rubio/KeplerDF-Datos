@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our geographic context involves observing Colombia, specifically focusing on Puerto Wilches, with the primary sensor being VNIR for a daylight photography task. This low priority importance mission allocation requires no strict deadlines, allowing for flexible scheduling as a background survey or testbed tracking task.
+
+The operational guidelines guide us in interpreting the metadata organically. We avoid raw technical system tags, underscores, or coordinate arrays, combining JSON parameters naturally. The 'country', 'city', and 'landmark' fields from 'location_details' are used to describe the location realistically. If these fields are "N/A", we describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Priority 1 (Low Importance), which means this request should be treated as a low priority importance task with a flexible schedule for opportunistic capture. It's labeled as a non-essential background filler task, where the operator explicitly notes to drop or reschedule at convenience.
+
+The sensors and physical objectives are interpreted naturally into operational objectives and descriptors. For the VNIR sensor, we explain the goal as a "multispectral vegetation analysis" to assess chlorophyll absorption levels or calculate a vegetation NDVI index and surface reflectance.
+
+The delivery deadline is already resolved by an upstream module: "the day after tomorrow in the morning". This phrase must be inserted verbatim into our request, as the stated upper limit for data availability. We do not output raw UTC timestamps, digits, or countdown metrics.
+
+In summary, this task request aims to capture high-resolution optical imagery of Puerto Wilches in Colombia using a VNIR sensor for a low priority importance mission with a flexible schedule and a clear deadline of "the day after tomorrow in the morning". This approach ensures that the dataset maximizes naturalness and validation accuracy by interpreting metadata organically according to operational guidelines.

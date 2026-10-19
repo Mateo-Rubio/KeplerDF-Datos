@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task requires interpreting a JSON dataset to create a realistic and conversational English request for an Earth-observation mission. Let's break down the components step-by-step:
+
+a) The exact string in 'target_day' is "in three days". This specifies when the data collection should be completed.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This indicates the time of day when the observation should occur.
+
+c) The single word contained in the string "in the evening" that must appear literally in the final request is "evening".
+
+d) It's important to confirm that we are not shifting the deadline. The requirement is clear: the data must be delivered by "in three days" and captured "in the evening". There is no flexibility to adjust this timeframe, so the observation must occur precisely during the evening of the specified day.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need to schedule a standard operational tasking for a multispectral vegetation analysis in Santander de Quilichao, Colombia. This involves capturing chlorophyll absorption levels and calculating a vegetation NDVI index using VNIR sensors. The request is part of our baseline pipeline tracking setup with fixed parameters, ensuring it aligns with our normal operational status. Please ensure that the data collection occurs "in three days" and specifically "in the evening". This task is a routine monitoring effort and should be integrated into our standard workflow update. Thank you for coordinating this as a commercial tasking.

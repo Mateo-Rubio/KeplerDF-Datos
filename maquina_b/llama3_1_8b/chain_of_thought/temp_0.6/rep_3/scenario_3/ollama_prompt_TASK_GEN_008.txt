@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly states a deadline for delivery of data products, which is to be met by capturing data during the specified diurnal period.
+
+STAGE 2 - FINAL REQUEST
+
+...We require a routine monitoring tasking as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status, to be executed as a non-essential background filler task. Please allocate this low priority importance request with a flexible schedule for opportunistic capture, where we can drop or reschedule at convenience if needed. The task involves capturing a multispectral vegetation analysis using VNIR to assess chlorophyll absorption level and calculate a vegetation NDVI index and surface reflectance, over the region of Italia, specifically in the city of Gazzola. We need this data within the next in three days, during the overnight period.

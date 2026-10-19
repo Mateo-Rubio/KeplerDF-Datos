@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves interpreting a JSON metadata for an Earth-observation mission request. Let's examine the relevant details:
+
+a) The 'target_day' key in the JSON metadata contains the exact string "tomorrow." This indicates that the data collection is intended to occur on the day following today.
+
+b) The 'target_diurnal_period' key contains the exact string "in the morning." This specifies the time of day when the data should be captured, which is during the early hours.
+
+c) Within the string "in the morning," the single word that matches the options provided is "morning." This word will be used literally in the final request to specify the time frame for data capture.
+
+d) It's important to confirm that the deadline is not being shifted. The request specifies "tomorrow" and "in the morning," which clearly delineates a strict operational deadline. There is no indication or need to adjust this timeframe to another part of the day, ensuring that the mission adheres to the specified timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am submitting an absolute institutional priority request for a critical payload capture over Aguazul, Colombia. This mission involves a high-priority directive for multispectral vegetation analysis using near-infrared reflection to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The task is an un-preemptable mission lock with an urgent operational execution required tomorrow in the morning. It is imperative that this operation is conducted without delay to fulfill our binding contract requirements.

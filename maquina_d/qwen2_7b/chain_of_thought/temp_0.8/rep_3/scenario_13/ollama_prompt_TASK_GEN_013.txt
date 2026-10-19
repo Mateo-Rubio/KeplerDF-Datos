@@ -1,0 +1,10 @@
+STAGE 1
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "in the morning".
+c) The word contained in that string is "morning".
+d) The deadline remains fixed at "in the morning" tomorrow and isn't shifted to another part of the day.
+
+STAGE 2
+
+The Earth-observation mission planner is tasked with capturing a detailed multispectral vegetation analysis using a VNIR sensor for the region around Campo Capote, Colombia. This high-priority standard operational tasking aims to assess the chlorophyll absorption levels and calculate a vegetation NDVI index to monitor ecological conditions. With a strict deadline set for "in the morning" tomorrow, the focus must be on delivering this critical payload capture efficiently. This represents a routine monitoring activity within our baseline pipeline tracking system with fixed parameters, maintaining normal operational status and ensuring a comprehensive update to our workflow.

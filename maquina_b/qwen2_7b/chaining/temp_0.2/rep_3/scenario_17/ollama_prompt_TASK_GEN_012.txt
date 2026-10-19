@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
+
+The geographic context involves observing Indonesia's Ecuatorial region, combining the country and city details naturally without using technical system tags or coordinate arrays. We aim to capture the essence of this location by describing it as part of the Indonesian archipelago, focusing on its unique characteristics rather than raw data points.
+
+The mission allocation priority is medium importance, indicated by a priority level of 2. This request is framed as a standard operational tasking that aligns with our baseline pipeline tracking setup. We're dealing with fixed parameters representing normal operational status and a routine monitoring activity that is part of our standard workflow update process.
+
+The primary sensor to be utilized is SAR (Synthetic Aperture Radar). Our mission aims to conduct an active radar scan using microwave surface imaging technology. This scan will serve as cloud-penetrating capture, allowing us to pierce through heavy weather conditions or capture ground geometry with unparalleled precision.
+
+The delivery deadline for this task has already been resolved by an upstream module, requiring the data to be available "in four days in the morning". We've inserted this phrase verbatim into our request, adhering to the upper limit for data availability without rephrasing or altering the time frame.
+
+In summary, our request is to capture high-resolution optical snapshots using a SAR sensor to observe Indonesia's Ecuatorial region. This mission is part of our standard operational tasks with medium importance, aiming to provide clear optical imagery and true-color visual documentation for daylight photography, cloud-penetrating capture, and ground geometry mapping. The deadline for data availability is set for "in four days in the morning," ensuring timely delivery without compromising on quality or precision.

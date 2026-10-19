@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This indicates the deadline for when the data products need to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the observation should occur.
+
+c) The single word contained in that string is "evening". This word must appear literally in the final request to accurately describe the timing of the observation.
+
+d) I am not shifting the deadline to an adjacent part of the day. The request explicitly states "in the evening," which aligns with the provided temporal parameters without any alteration.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance task for a flexible schedule, allowing for opportunistic capture in Colombia, specifically around Murindó. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to take a high-resolution optical snapshot using the primary sensor for daylight photography, aiming for clear optical imagery and true-color visual documentation. The data products need to be delivered in three days, with the observation scheduled for the evening.

@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "in three days". This represents the timeframe within which the task must be completed and the data delivered.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This indicates the specific time of day when the satellite observation should occur.
+
+c) The single word from the options {morning, mid-day, afternoon, evening, overnight} contained in this string is "morning". This will be used to specify the time of capture in the final request.
+
+d) It is crucial to ensure that the deadline is not shifted to any other part of the day. The specified diurnal period is "in the morning", and thus, the observation should occur during this time without any adjustments or extensions to other times such as mid-day, afternoon, evening, or overnight.
+
+**STAGE 2 - FINAL REQUEST**
+
+I would like to request a standard operational tasking for baseline pipeline tracking in the region of Pantanillo, Colombia. This involves a multispectral vegetation analysis using the primary VNIR sensor. The goal is to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This task has medium importance and should be part of our routine monitoring activities. Please ensure that the data capture occurs "in three days" and specifically "in the morning". Thank you for adhering to these parameters.

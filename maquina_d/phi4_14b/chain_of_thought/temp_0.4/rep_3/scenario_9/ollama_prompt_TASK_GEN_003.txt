@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "the day after tomorrow". This phrase indicates a specific time frame relative to the current date, without any ambiguity regarding the deadline for data delivery.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies the time of day when the observation should ideally occur, aligning with the natural light conditions that are optimal for the specified sensor type.
+
+c) The single word contained in the string "in the morning" that must appear literally in the final request is "morning". This ensures clarity about the time of day the task should be executed.
+
+d) It is crucial to confirm that the deadline is not being shifted. The phrase "the day after tomorrow, in the morning" sets a strict operational deadline. The task must be completed by this specific time frame without any adjustments or extensions. The deadline is firm and must be adhered to as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have a low priority importance request for an opportunistic capture over Bangka, Indonesia. This task involves using near-infrared reflection to map water body boundaries and assess soil moisture levels. Given its flexible schedule, this non-essential background filler task can be dropped or rescheduled at convenience. Please aim to complete this by the day after tomorrow, in the morning.

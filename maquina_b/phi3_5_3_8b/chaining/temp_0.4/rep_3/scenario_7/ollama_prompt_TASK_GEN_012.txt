@@ -1,0 +1,13 @@
+As an Earth-observation mission operator, I am tasked with submitting a request to our automated satellite constellation planner. The objective is to translate the raw physical simulation metadata provided in JSON format into a realistic and conversational English task request. Here's what we have:
+
+The primary sensor involved is NIR (Near-Infrared Reflection), aimed at capturing near-infrared reflection for water body boundary mapping or soil moisture assessment to discriminate gradients. The location of interest, as outlined in the metadata, involves a city named Ecuatorial—a term that suggests an equatorial setting without specifying a country; hence, we will focus on this general geographic hint and integrate it with operational phrases for clarity.
+
+Given the medium importance priority level (Priority 2), our tasking is to be framed as a "standard operational tasking" within our routine monitoring schedule. This implies that while the request does not hold an absolute institutional urgency, it remains a significant part of maintaining our baseline pipeline tracking for environmental and agricultural assessments.
+
+Considering the geographic context, without specific country or landmark details beyond "Ecuatorial," we will describe this as monitoring water bodies along the equator, which are critical in understanding regional climate patterns and biodiversity. The absence of concrete location data necessitates a more generalized approach to ensure comprehensive surveillance across potentially diverse ecosystems present at such latitudes.
+
+The delivery deadline for our request is set as "the day after tomorrow in the morning." This fixed parameter indicates when we expect fresh data, aligning with typical operational windows that balance between immediate needs and resource allocation efficiency.
+
+Here's how I would articulate this task:
+
+"Request a standard operational tasking for multispectral vegetation analysis using Near-Infrared Reflection to assess water body boundary mapping or soil moisture discrimination along the equatorial region, with deliverables expected by 'the day after tomorrow in the morning.' This routine monitoring is essential for our ongoing environmental and agricultural studies."

@@ -1,0 +1,15 @@
+I'll go through the reasoning step by step.
+
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in the string "overnight" is "overnight". However, among the options {morning, mid-day, afternoon, evening, overnight}, I'll choose "overnight" as the relevant word.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The "target_day" and "target_diurnal_period" are specific and distinct parameters that represent the deadline, and I will incorporate them into the final request without altering or extending it in any way.
+
+STAGE 2 - FINAL REQUEST
+
+The satellite constellation planner is tasked with scheduling a low-priority importance mission to capture thermal mapping data for the region of Indonesia, specifically focusing on the city of Malinau. This task is considered a non-essential background filler task with a flexible schedule for opportunistic capture, and it can be dropped or rescheduled at convenience if needed. The goal is to obtain a thermal map of the area, capturing a heat signature and surface temperature profile. The mission requires a thermal infrared (TIR) scan, and the deadline for delivery of the data products is "the day after tomorrow" overnight.

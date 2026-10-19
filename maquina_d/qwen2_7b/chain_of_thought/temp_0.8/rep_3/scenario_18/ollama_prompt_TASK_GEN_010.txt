@@ -1,0 +1,18 @@
+STAGE 1
+
+a) The exact string found in 'target_day' is "tomorrow".
+b) The exact string found in 'target_diurnal_period' is "during the afternoon".
+c) The word contained in that string which matches one of the options {morning, mid-day, afternoon, evening, overnight} is "afternoon".
+d) I confirm that no shift or alteration of the deadline has been made. The target day is set for "tomorrow", and the target diurnal period is specified to be "during the afternoon".
+
+STAGE 2
+
+Given the operational guidelines and the data provided in JSON format, the Earth-observation mission operator requests a high-resolution thermal mapping task focusing on an area of significant interest located in Concepción, Colombia. This request carries a low priority importance due to its non-essential nature in relation to immediate institutional priorities or contractual requirements. 
+
+The goal is to capture thermal anomalies within the region during the afternoon of tomorrow, aiming for accurate heat signatures and surface temperature profiles to serve as a comprehensive dataset on thermal emissions. The "tomorrow afternoon" deadline is stringent but adheres strictly to operational parameters and not orbital capture windows.
+
+To meet this demand, operators will utilize a thermal infrared (TIR) sensor for active radar scanning of the area, leveraging microwave surface imaging capabilities to penetrate any cloud cover or adverse weather conditions for unparalleled visibility and precision. The data collected will be instrumental for various applications, including environmental monitoring, infrastructure assessment, and support services that require detailed insights into heat sources.
+
+This task is designated as a "background survey" with flexible scheduling considerations, allowing for rescheduling or dropping the mission at the operator's discretion to accommodate other operational priorities or emergencies. However, it remains a part of the baseline pipeline tracking setup within normal operational status.
+
+In conclusion, the Earth-observation mission operator seeks to execute this task with due consideration for the operational guidelines and technical specifications provided in the JSON metadata, emphasizing the importance of the afternoon deadline set for tomorrow.

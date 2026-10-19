@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "overnight."
+
+c) The word "overnight" from the provided set {morning, mid-day, afternoon, evening, overnight} is contained within the 'target_diurnal_period' string.
+
+d) The temporal parameters clearly indicate that the deadline is "tomorrow, overnight," and there is no intention or reason to shift this deadline to any other part of the day. This strict operational deadline must be adhered to as specified.
+
+**STAGE 2 - FINAL REQUEST**
+
+We are seeking an opportunistic schedule for a low priority importance request focused on Rokan Hilir in Indonesia. The mission involves capturing an active radar scan using microwave surface imaging, ideal for cloud-penetrating capture and capturing ground geometry. While this task is non-essential, we would appreciate it if the satellite constellation planner could incorporate this into their schedule as a flexible background survey, allowing for drop or rescheduling at convenience. We kindly request this data be delivered by tomorrow, overnight, without any shifts in the specified deadline.

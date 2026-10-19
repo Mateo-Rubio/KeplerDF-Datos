@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+**a)** The exact string in 'target_day' is "the day after tomorrow."
+
+**b)** The exact string in 'target_diurnal_period' is "in the evening."
+
+**c)** The single word contained in that string, which must appear literally in the final request, is "evening."
+
+**d)** The provided timeframe specifies "the day after tomorrow" and "in the evening," indicating a strict deadline. This means the data collection must occur on the specified evening of "the day after tomorrow," with no allowance for shifting it to another time of day.
+
+---
+
+### Stage 2 - Final Request
+
+As part of our standard operational tasking, we need you to conduct thermal mapping over La Vega in Colombia. The goal is to capture a heat signature or surface temperature profile, focusing on thermal anomaly detection and mapping heat emissions. This request is a routine monitoring task within our baseline pipeline tracking setup, with fixed parameters indicating normal operational status. Please ensure that the data products are delivered on the day after tomorrow, specifically in the evening.

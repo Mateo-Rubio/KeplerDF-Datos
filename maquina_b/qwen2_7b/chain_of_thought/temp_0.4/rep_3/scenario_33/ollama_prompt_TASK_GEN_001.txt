@@ -1,0 +1,13 @@
+Given the operational guidelines and interpreting the metadata provided, we are tasked with capturing high-resolution active radar scan imagery for the region of Colombia, specifically focusing on the city of Dolores. This request is categorized as a low priority importance task with a flexible schedule, treating it as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The mission allocation priority is set to 'Priority 1', indicating an absolute institutional priority or a binding contract requirement involving a critical payload capture. The deadline for delivering the data products is set for three days from now, with the specific target time being in the morning. This temporal parameter represents a strict operational deadline for data delivery, not the orbital capture window.
+
+The primary sensor to be utilized for this task is 'SAR', which will employ microwave surface imaging for cloud-penetrating capture, enabling us to gather detailed ground geometry information even under heavy weather conditions. The imagery collected will serve as an essential tool for monitoring and mapping various environmental features in Colombia, including land use, infrastructure, and potential hazards.
+
+As part of this baseline pipeline tracking setup with fixed parameters, we aim to capture thermal anomalies and surface temperature profiles using 'TIR' capabilities. This will assist in identifying heat signatures and mapping heat emissions across different regions within the city of Dolores, providing valuable insights for urban planning, emergency response, and environmental management.
+
+The 'VIS' sensor will be used for daylight photography purposes, offering clear optical imagery that captures true-color visual documentation of the region. This will provide a comprehensive view of the landscape, vegetation health, and water body boundaries, contributing to our understanding of the ecological dynamics within Colombia.
+
+Lastly, the 'VNIR' sensor will be employed for multispectral vegetation analysis, allowing us to assess chlorophyll absorption levels and calculate the NDVI index and surface reflectance. This information is crucial for agricultural monitoring, forest management, and biodiversity conservation efforts in the area.
+
+In summary, our operational request involves capturing SAR imagery for the city of Dolores in Colombia on a specified morning three days from now, adhering to the 'Priority 1' directive without altering the deadline. We aim to leverage this data for thermal mapping, vegetation analysis, and daylight photography, ensuring that our mission is executed with the utmost care and attention to detail within the given time frame.

@@ -1,0 +1,15 @@
+As an Earth-observation mission operator, I'm submitting a task request to an automated satellite constellation planner. The operational guidelines for translating raw physical simulation metadata into a highly realistic and conversational English request are as follows:
+
+1. GEOGRAPHIC CONTEXT: Combine the JSON parameters naturally. In this case, we're focusing on Indonesia's equatorial region, a location that doesn't have a specific city mentioned.
+
+2. MISSION ALLOCATION PRIORITY: This task is of low importance, indicated by priority level 1. I'll frame this request as a "low priority importance" task with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task".
+
+3. SENSORS AND PHYSICAL OBJECTIVES: The primary sensor is set to "NIR". This will be used for "near-infrared reflection" to map water body boundaries and assess soil moisture, which allows us to discriminate gradients.
+
+4. DELIVERY DEADLINE: The deadline for this task is already resolved by an upstream module. It's set for "the day after tomorrow during the afternoon", which must be inserted verbatim into the request.
+
+Taking these guidelines into account, my request is as follows:
+
+"Please conduct a background survey utilizing near-infrared reflection to map water body boundaries and assess soil moisture levels during the equatorial region of Indonesia on 'the day after tomorrow', specifically during the afternoon. This task serves as a testbed tracking task with a flexible schedule for opportunistic capture."
+
+This request adheres to the operational guidelines, ensuring naturalness and validation accuracy of the dataset while interpreting the metadata organically according to the specified operational principles."

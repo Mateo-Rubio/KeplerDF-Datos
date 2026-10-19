@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task involves analyzing specific details from the provided JSON metadata to formulate a realistic operational request for an Earth-observation mission.
+
+a) The 'target_day' specified in the JSON is "today." This indicates that the data capture or observation needs to occur on the current day, implying an immediate operational deadline.
+
+b) The 'target_diurnal_period' in the JSON is "overnight." This specifies the time of day when the observation should take place. It indicates that the task should be executed during nighttime hours.
+
+c) Out of the possible options {morning, mid-day, afternoon, evening, overnight}, the word "overnight" is explicitly present in the 'target_diurnal_period'. Therefore, this term must be included in the final request to convey the correct time frame for the task execution.
+
+d) The operational guidelines clearly state that the temporal parameters provided in the JSON represent a strict deadline for delivering the data products. There should be no alteration, extension, shift, or reinterpretation of the deadline to an adjacent part of the day. The mission must occur "overnight" on "today," as specified, without deviation from these constraints.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a casual request for observation over Northern Italy with low priority importance. We are looking for a flexible schedule that allows for opportunistic capture, and this task is considered non-essential background filler. It can be dropped or rescheduled at your convenience. The primary sensor in use is the VNIR, aimed at conducting multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. This observation should occur "overnight" on "today."

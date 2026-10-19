@@ -1,0 +1,11 @@
+### Stage 1 - Reasoning
+
+The 'target_day' string in the JSON data is "tomorrow." This directly implies that the deadline for delivering the data products from this mission is set to occur on the day after today. This temporal parameter is critical as it represents a strict operational deadline, which must be adhered to without any adjustments or shifts.
+
+The 'target_diurnal_period' string provided is "in the evening." This indicates the specific time within the designated day when the task should be completed. For clarity, the term "evening" explicitly falls within the set of options {morning, mid-day, afternoon, evening, overnight}. Here, "evening" is identified as the precise word contained in this string, and it must appear verbatim in the final request to reflect the exact timing requirement.
+
+It is essential to confirm that there will be no shift or reinterpretation of the deadline to an adjacent part of the day. The specified target day, "tomorrow," remains fixed, and the period within that day, "in the evening," is non-negotiable. This ensures compliance with the operational guidelines which emphasize delivering data products by this exact temporal window.
+
+### Stage 2 - Final Request
+
+We are initiating a standard operational tasking for tomorrow, targeting in the evening, over the region of Delang Kerohong in Indonesia. As part of our baseline pipeline tracking, we need high-resolution optical snapshots taken during daylight photography to capture clear optical imagery and provide true-color visual documentation. This operation is structured within our routine monitoring workflow update, featuring fixed parameters representative of normal operational status and constituting a typical workflow update.

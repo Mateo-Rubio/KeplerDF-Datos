@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, I seek to achieve a mission allocation with a focus on operational guidelines ensuring the naturalness and validation accuracy of our dataset.
+
+We aim to capture a highly realistic, conversational English request based on the raw physical simulation metadata provided in JSON format. For GEOGRAPHIC CONTEXT, we will describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. In this case, the target location is Santander de Quilichao in Colombia.
+
+Regarding MISSION ALLOCATION PRIORITY, the request has been set at Priority 2, indicating standard operational tasking or commercial tasking as part of our baseline pipeline tracking with fixed parameters representing normal operational status. We will frame this request with professional and direct language emphasizing our standard workflow update.
+
+For SENSORS AND PHYSICAL OBJECTIVES, we are employing the VNIR sensor for a mission allocating "multispectral vegetation analysis" aimed at assessing the chlorophyll absorption level or calculating the vegetation NDVI index and surface reflectance. This high-resolution optical snapshot will serve as true-color visual documentation to provide detailed insights into the environmental conditions.
+
+The delivery deadline is set for "in three days in the evening", which means our data availability upper limit adheres to this specified timeframe without any rephrasing or shortening. We're confident that our automated satellite constellation planner will ensure we capture this critical payload at the optimal moment, adhering to our agreed-upon operational guidelines.
+
+Therefore, our final request is a succinct yet comprehensive guide for our automated satellite constellation planner to understand and execute our mission requirements efficiently, incorporating all specified operational nuances.

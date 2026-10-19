@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves translating a JSON metadata for a satellite observation mission into a natural language request.
+
+a) The exact string in 'target_day' is "tomorrow."
+
+b) The exact string in 'target_diurnal_period' is "in the evening."
+
+c) The single word from the list {morning, mid-day, afternoon, evening, overnight} that appears in the 'target_diurnal_period' string is "evening."
+
+d) It is crucial to adhere strictly to the specified deadline. The task must be executed tomorrow in the evening. There should be no alterations or shifts to this timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority request for a satellite observation over Calvi, France. This mission is a binding contract requirement involving a critical payload capture using thermal mapping to obtain a surface temperature profile. The data is needed tomorrow in the evening to ensure compliance with our urgent operational execution and un-preemptable mission lock.

@@ -1,0 +1,14 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "in four days".
+
+b) The exact string in 'target_diurnal_period' is "overnight".
+
+c) The single word contained in that string is "overnight".
+
+d) I am not shifting the deadline to an adjacent part of the day. The target day remains as specified, and I am only interpreting the temporal parameters as described in the guidelines.
+
+Now, moving on to STAGE 2:
+
+```prompt
+Please task the satellite with capturing a high-resolution optical snapshot for daylight photography over Indonesia, specifically targeting the Bulungan area, as part of a low priority importance request with a flexible schedule for opportunistic capture. This non-essential background filler task can be dropped or rescheduled at convenience, but we aim to complete it in four days overnight.

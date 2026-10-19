@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission.
+
+The geographic context involves observing Indonesia's equatorial region, with a focus on capturing thermal mapping data overnight today. The 'primary_sensor' set to TIR indicates the need for thermal imaging to capture heat signatures or surface temperature profiles, essential for thermal anomaly detection and mapping heat emissions.
+
+Given the 'priority_level' of 1, this request is framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted as a "background survey" or "testbed tracking task", allowing for "drop or rescheduling at convenience".
+
+The deadline for this task has been resolved by an upstream module: "today overnight". This phrase must be inserted verbatim into the request, setting the upper limit for data availability without rephrasing, shortening, or moving it to a different part of the day.
+
+In summary, our mission allocation involves capturing thermal data from Indonesia's equatorial region overnight today using TIR sensors. This task is considered low priority with a flexible schedule and serves as a background survey or testbed tracking task. The deadline for data availability is "today overnight", ensuring timely delivery without compromising on quality.

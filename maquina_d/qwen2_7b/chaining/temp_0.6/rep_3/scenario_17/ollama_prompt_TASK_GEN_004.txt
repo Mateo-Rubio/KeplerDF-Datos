@@ -1,0 +1,17 @@
+Please capture a low priority importance, flexible schedule task as an opportunistic background survey for Colombia's Caramanta region. This involves a "low priority importance" request with a "flexible schedule" for "opportunistic capture", treating it as a "background survey" or "testbed tracking task". The mission allocation priority is classified as low importance, which does not imply how close the deadline is but is instead framed as a "non-essential background filler task" with an explicit note to "drop or reschedule at convenience".
+
+The physical phenomenon to be observed involves the use of VNIR sensors for "multispectral vegetation analysis" to assess the "chlorophyll absorption level". This task aims to calculate the vegetation "NDVI index" and surface reflectance, providing valuable insights into the health and characteristics of the region's vegetation.
+
+Given the operational guidelines provided, we describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. In this case, Colombia serves as the country context, while Caramanta represents the specific city. If country, city, or landmark are "N/A", we would describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task is set for "in three days in the evening". This upper limit for data availability has already been resolved by an upstream module and must be inserted verbatim into your request. The deadline does not require rephrasing, shortening, or moving to a different part of the day.
+
+For clarity and naturalness, let's structure this request in a conversational tone:
+
+Ladies and gentlemen at the satellite constellation planner, kindly allocate a task for an opportunistic background survey involving Colombia's Caramanta region. This mission is classified as low priority importance with a flexible schedule for "opportunistic capture". We're treating it as a "background survey" or "testbed tracking task", allowing us to drop or reschedule at our convenience.
+
+The physical phenomenon we aim to capture utilizes VNIR sensors for "multispectral vegetation analysis". Our goal here is to assess the "chlorophyll absorption level" and calculate the vegetation "NDVI index" along with surface reflectance. This will provide us with valuable insights into the region's vegetation health.
+
+Please note that the deadline for this task has been set for "in three days in the evening", which means we're looking for data availability until then. Please adhere to this timeframe without any rephrasing or adjustment, ensuring our upstream modules receive the information within the specified upper limit for data availability.
+
+Thank you for your attention and cooperation in ensuring this mission is executed successfully.

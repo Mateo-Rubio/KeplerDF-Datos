@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The task involves capturing thermal mapping data using the 'TIR' sensor over the region of Colombia, specifically focusing on the city of Mapiripán. This request falls under priority level 2, which requires professional and standard operational procedures. It is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status.
+
+The geographic context for this mission involves a detailed description of the location: in the heart of Colombia, with a focus on Mapiripán, a city that adds to the richness of our dataset. If necessary, we'll gracefully ignore any 'N/A' fields and describe the location using the available parameters.
+
+The delivery deadline is set for three days during the afternoon, which is the upper limit for data availability as determined by an upstream module. This ensures that we capture the thermal anomalies in daylight conditions when the satellite's sensors can operate at their full efficiency.
+
+In summary, our mission allocation request involves capturing a 'heat signature' or 'surface temperature profile' using the 'TIR' sensor over Mapiripán, Colombia, during the afternoon of the third day following our initial task submission. This is part of our standard operational tasking and represents normal baseline pipeline tracking with fixed parameters.
+
+Let's proceed with executing this mission to gather critical data for our analysis and decision-making processes.

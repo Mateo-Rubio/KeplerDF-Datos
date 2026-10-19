@@ -1,0 +1,17 @@
+STAGE 1 - REASONING:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string which must appear literally in your final request is "morning".
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The deadline remains strictly as specified.
+
+STAGE 2 - FINAL REQUEST:
+
+Given the operational guidelines and interpreting the metadata, our Earth-observation mission aims to capture a thermal mapping ("TIR") dataset on a high-resolution scale for a location in Norte, Brazil. This critical payload capture is designated with a "low priority importance" status, allowing for a "flexible schedule" and treating it as a "background survey" task.
+
+The deadline for this data collection is set for "tomorrow", with the specific requirement to conduct the mission during the "morning" period. The primary objective involves observing thermal signatures ("heat signature", "surface temperature profile") across the region, focusing on detecting potential thermal anomalies and mapping heat emissions without any adjustments to the specified time frame.
+
+This task aligns with our baseline pipeline tracking setup, incorporating fixed parameters for normal operational status, while acknowledging its non-essential background filler nature. The operator is instructed to drop or reschedule this task at convenience if it conflicts with higher priority missions.

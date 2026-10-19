@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow". This indicates the task is scheduled for the next day relative to when the request was made.
+
+b) The exact string in 'target_diurnal_period' is "in the morning". This specifies that the task should be executed during the early hours of the day.
+
+c) The single word contained in that string, which must appear literally in the final request, is "morning". It indicates the specific time within the day when the observation should occur.
+
+d) There is no indication or instruction to shift the deadline to any other part of the day. The task must be completed in the morning of tomorrow, without any alteration to this timing.
+
+**STAGE 2 - FINAL REQUEST**
+
+I am requesting a low-priority importance observation of Indonesia's Ecuatorial region using a multispectral sensor. This task is to capture vegetation data, specifically assessing chlorophyll absorption levels and calculating an NDVI index. The observation should be conducted with a flexible schedule, allowing for opportunistic capture tomorrow in the morning. Please treat this as a background survey and adjust or reschedule at convenience if necessary.

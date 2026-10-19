@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
+
+The geographic context involves observing Tanjung Jabung Timur in Indonesia. Given the specifics of this location, we'll describe it using realistic combinations of country, city, and landmark fields from 'location_details'. If any of these are "N/A", we'll gracefully ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
+
+The mission allocation priority is set at Level 1 (Low Importance), which means this request should be framed as a low priority importance task with a flexible schedule for opportunistic capture. It's explicitly noted that this operator has the option to drop or reschedule it at convenience, treating it as a background survey or testbed tracking task.
+
+The primary sensor is SAR, which will be used for an active radar scan employing microwave surface imaging. This technique allows us to capture cloud-penetrating data and ground geometry, providing valuable insights into the area's topography and features that might not be visible through other means.
+
+The delivery deadline is set for tomorrow in the morning, with this phrase being inserted verbatim into our request. The upper limit for data availability is clearly defined, and we do not need to rephrase or shorten it, nor move it to a different part of the day.
+
+In summary, our task request involves observing Tanjung Jabung Timur in Indonesia using an active SAR radar scan with a focus on capturing cloud-penetrating data and ground geometry. This is a low priority importance task with a flexible schedule for opportunistic capture, adhering to the deadline set for tomorrow in the morning.

@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to capture a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format.
+
+The geographic context involves capturing imagery of a location within the country of Italia, specifically in the city of Norte. This request falls under the category of a low priority importance task, which means it can be scheduled with a flexible schedule for opportunistic capture. The mission allocation authority and asset contractual value are not as critical as they might suggest; instead, this is treated as a non-essential background filler task that can be dropped or rescheduled at convenience.
+
+The primary sensor to be used for this mission is VIS (visual imagery), which will provide us with high-resolution optical snapshots for daylight photography, clear optical imagery, and true-color visual documentation. The goal here is to capture the essence of the location in a visually appealing manner that highlights its natural beauty or urban landscape.
+
+Given the operational guidelines, we are not to mention raw technical system tags, underscores, or coordinate arrays. Instead, we should describe the location using realistic combinations of 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", we can describe the location using the remaining valid fields or the clean 'region_name'.
+
+The delivery deadline for this task has already been resolved by an upstream module, with the data availability set as "tomorrow in the evening". This phrase must be inserted verbatim into our request, as it represents the upper limit for data availability. We do not need to rephrase, shorten, or move it to a different part of the day.
+
+In conclusion, our task request involves capturing high-quality VIS imagery of a location in Italia's Norte region, with a low priority importance level and a flexible schedule for data acquisition. The deadline is set for tomorrow evening, ensuring that we capture the essence of the location under optimal lighting conditions for the best possible imagery.

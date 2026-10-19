@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. We aim to maximize naturalness and validation accuracy by interpreting the data organically according to established guidelines.
+
+The geographic context involves Colombia, specifically Baraya, which provides a vivid backdrop for our observation. The mission allocation priority is set at low importance, indicating that this task is part of a flexible schedule for opportunistic capture. It's framed as a "non-essential background filler task" with a "low priority importance", allowing for "drop or rescheduling at convenience". The operational status is described as a "background survey" or "testbed tracking task".
+
+The primary sensor in play is SAR, which will conduct an active radar scan using microwave surface imaging. This technique is crucial for capturing ground geometry and penetrating heavy weather conditions, ensuring that we gather comprehensive data regardless of atmospheric disturbances.
+
+The deadline for this task has been resolved by an upstream module, requiring the data to be available "in four days in the morning". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability without any rephrasing or adjustment.
+
+In summary, our request is to capture high-resolution optical snapshots using a SAR sensor over Baraya, Colombia, with a focus on active radar scans for cloud-penetrating capture. This task carries a low priority importance and must be completed by "in four days in the morning", adhering to the established guidelines for natural language interpretation of Earth-observation mission metadata.

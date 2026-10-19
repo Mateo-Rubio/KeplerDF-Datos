@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The primary sensor is set to "SAR", which will be used for an active radar scan employing microwave surface imaging to capture cloud-penetrating data, ensuring ground geometry is accurately mapped even under heavy weather conditions.
+
+The geographic context involves a location within "Italia", with the city being "Tesis". Although specific details about country, city, and landmark are provided, they are not essential for the request's clarity. The region name serves as an adequate description of the area to be observed.
+
+The mission allocation priority is set at level 1, indicating a low importance request with a flexible schedule for opportunistic capture. This task is framed as a "non-essential background filler task", which can be dropped or rescheduled at convenience and treated as a "background survey" or "testbed tracking task".
+
+The deadline for this task has been resolved by an upstream module, set for "the day after tomorrow around mid-day". The request must include this phrase verbatim as the upper limit for data availability, without any rephrasing, shortening, or altering the time of day.
+
+In summary, our request to the satellite constellation planner is to capture detailed microwave surface imagery of the region in "Italia", specifically in "Tesis", using a SAR sensor. This task is part of a low priority importance background survey, with the deadline set for "the day after tomorrow around mid-day". The goal is to ensure accurate ground geometry mapping even under adverse weather conditions, contributing to our ongoing baseline pipeline tracking setup with fixed parameters representing normal operational status.

@@ -1,0 +1,13 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+b) The exact string in 'target_diurnal_period' is "overnight".
+c) The word contained in that string which must appear literally in the final request is "overnight".
+d) The deadline does not require shifting to an adjacent part of the day, as it clearly refers to an overnight period tomorrow.
+
+STAGE 2:
+
+Given the parameters outlined, our objective involves capturing a high-resolution optical snapshot of Indonesia's Ecuatorial region using the VIS sensor, targeted for an "overnight" acquisition on "tomorrow". This "standard operational tasking" aims to harness daylight photography capabilities, providing us with clear optical imagery and true-color visual documentation from the Indonesian Ecuatorial area during this critical nighttime period. With the deadline firmly set for tomorrow's overnight timeframe, our aim is to gather data efficiently as part of a baseline pipeline tracking setup with fixed parameters that represent normal operational status.
+
+```prompt
+"overnight tomorrow"

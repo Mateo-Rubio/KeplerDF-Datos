@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on maximizing naturalness and validation accuracy.
+
+The geographic context involves observing the region of Norte, Brazil, which is described through the operational guidelines provided. We're not using raw technical system tags or coordinate arrays; instead, we're combining JSON parameters naturally. The location details include the city of Norte, but since it's marked as "N/A", we'll describe the location using the remaining valid fields or the clean 'region_name'. 
+
+The mission allocation priority is set at Level 1 (Low Importance), indicating a flexible schedule for opportunistic capture and treating it as a non-essential background filler task. This request will be framed as a low priority importance task with a "flexible schedule" for "opportunistic capture", labeled as a "background survey" or "testbed tracking task".
+
+The primary sensor is SAR (Synthetic Aperture Radar), which we'll interpret as an active radar scan using microwave surface imaging. This is aimed at capturing cloud-penetrating imagery, ideal for piercing heavy weather or capturing ground geometry.
+
+The delivery deadline is set for "in three days overnight", which is the upper limit for data availability as determined by an upstream module. We're not rephrasing or shortening this phrase; it's inserted verbatim into our request.
+
+In summary, our task request involves observing Norte, Brazil, using a SAR sensor for cloud-penetrating imagery during the overnight period, with a deadline of "in three days overnight". This request is framed as a low priority importance task with a flexible schedule for opportunistic capture, focusing on background survey and testbed tracking tasks.

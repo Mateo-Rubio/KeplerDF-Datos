@@ -1,0 +1,11 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, our objective is to translate the raw physical simulation metadata provided into a highly realistic and conversational English request. We aim to maximize naturalness and validation accuracy by interpreting the operational guidelines given for each key element:
+
+The geographic context involves the 'region_name' and nested 'location_details'. In this case, we have the country "Colombia" and city "Sabana de Torres". We will describe the location using realistic combinations of these fields to avoid raw technical system tags, underscores, or coordinate arrays.
+
+The mission allocation priority is determined by the 'priority_level'. Here, we have a Priority 3 request, which implies an "absolute institutional priority", a "binding contract requirement", and an "urgent operational execution" or "un-preemptable mission lock". The language reflects this structural hierarchy with authoritative phrases.
+
+For sensors and physical objectives, we interpret the key 'primary_sensor'. The VNIR sensor goal is explained as a "multispectral vegetation analysis" to assess "chlorophyll absorption level" or calculate a vegetation "NDVI index". This includes surface reflectance measurements for a detailed understanding of plant health and environmental conditions.
+
+The deadline for this task has already been resolved by an upstream module, with the delivery date set as "in four days in the morning". This phrase is directly inserted into our request without rephrasing or altering the time frame.
+
+In conclusion, our highly realistic and conversational English request integrates these elements to provide a detailed plan for the automated satellite constellation planner. It emphasizes operational priorities, interprets sensor objectives naturally, and adheres to the deadline with precision.

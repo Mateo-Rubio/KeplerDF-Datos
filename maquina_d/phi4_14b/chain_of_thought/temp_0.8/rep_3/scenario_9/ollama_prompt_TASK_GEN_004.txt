@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+The task context provided is centered around capturing thermal imagery of the San Martín region in Colombia using an automated satellite constellation planner.
+
+a) The exact string found in 'target_day' is "the day after tomorrow." This specific temporal descriptor indicates a strict deadline for when the data needs to be delivered, emphasizing the urgency of the task.
+
+b) The exact string found in 'target_diurnal_period' is "during the afternoon." This phrase provides clarity on the precise time frame during which the satellite is expected to capture the required imagery. It's crucial to adhere to this specification to ensure that the data meets operational requirements and accurately reflects the thermal conditions at that time.
+
+c) Within the string "during the afternoon," the single word from the set {morning, mid-day, afternoon, evening, overnight} that appears is "afternoon." This word must be included verbatim in the final request to maintain alignment with the specified operational timeframe.
+
+d) It is important to confirm that there is no intention to shift the deadline to a different part of the day. The temporal parameters provided are precise, and altering them would violate the operational guidelines. The deadline is fixed for "the day after tomorrow during the afternoon," and this must be respected to ensure compliance with mission requirements.
+
+### STAGE 2 - FINAL REQUEST
+
+This is an absolute institutional priority request for a thermal mapping task over the San Martín region in Colombia, which involves capturing a heat signature or surface temperature profile. The primary sensor required for this mission is TIR, tasked specifically with thermal anomaly detection and mapping heat emissions. This mission is designated as a critical payload capture under a mandatory directive, necessitating urgent operational execution with an un-preemptable mission lock. The data products must be delivered by the day after tomorrow during the afternoon.

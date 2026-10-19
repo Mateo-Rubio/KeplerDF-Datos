@@ -1,0 +1,15 @@
+**STAGE 1 - REASONING**
+
+The task involves analyzing metadata for an Earth-observation mission and crafting a request that accurately reflects the provided details.
+
+a) The exact string in 'target_day' is "tomorrow." This indicates when the data collection needs to be completed, not when it begins or ends.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This specifies the time frame during which the satellite data capture must occur within the target day.
+
+c) The single word contained in the diurnal period string "overnight" is "overnight." It indicates that the observation should take place throughout the nighttime hours, providing a clear temporal context for when the data collection is expected to occur.
+
+d) I must confirm that I am not shifting the deadline to any other part of the day. The mission requires the data to be delivered by tomorrow night, which corresponds to the "overnight" period on that target day. This strict adherence ensures the operational timeline and priority are maintained as per the task's specifications.
+
+**STAGE 2 - FINAL REQUEST**
+
+I need an absolute institutional priority mission execution for a critical payload capture over Barrancabermeja, Colombia, using high-resolution optical snapshot capabilities for clear optical imagery. Given the binding contract requirement, this task is of un-preemptable mission lock and must be completed with urgent operational execution by tomorrow overnight. This high importance directive ensures that the necessary data is captured and delivered according to the specified timeline without any deviation from the set deadline.

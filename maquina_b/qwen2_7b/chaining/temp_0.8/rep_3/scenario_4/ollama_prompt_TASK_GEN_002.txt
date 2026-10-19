@@ -1,0 +1,13 @@
+As an Earth-observation mission operator submitting a task request to our automated satellite constellation planner, my objective is to translate raw physical simulation metadata provided in JSON format into a single, highly realistic, and conversational English request, maximizing the naturalness and validation accuracy of the dataset.
+
+In light of the operational guidelines, I intend to interpret the geographic context 'region_name' and nested 'location_details', while handling keys like 'priority_level', 'primary_sensor', and 'target_day'. Our current task's location is set in "Norte", a region in Brazil, where our priority level stands at 'High Importance', signifying an "absolute institutional priority" or a "binding contract requirement". This involves capturing a "critical payload" with an "urgent operational execution" that cannot be "un-preempted" and should be executed as a "standard operational tasking" or part of a "baseline pipeline tracking".
+
+The primary sensor set for our mission is 'VNIR', which will be employed to assess the 'chlorophyll absorption level' during daylight photography, providing us with "true-color visual documentation" that captures the essence of 'daylight' imagery. The geographic coordinates mentioned are within Brazil's territory, offering us an opportunity to conduct a "flexible schedule" task that can be completed as a "background survey" or a "testbed tracking task".
+
+Our delivery deadline for this task is set three days in the morning, which represents the upper limit for data availability as communicated by the upstream module. We are not to rephrase, shorten, or move this phrase to a different part of the day.
+
+Given these parameters and guidelines, my request for this mission is as follows:
+
+"Please allocate our satellite constellation to capture high-resolution optical snapshots of Norte in Brazil using the VNIR sensor. This task is deemed of 'High Importance', requiring immediate attention and prioritization akin to a 'critical payload capture' or 'mandatory directive'. The goal is to assess the 'chlorophyll absorption level' during daylight photography, providing us with 'true-color visual documentation' that captures the essence of 'daylight' imagery, which will be available no later than three days in the morning."
+
+This request aims to translate technical metadata into a natural and professional dialogue, ensuring maximum naturalness and validation accuracy while adhering to operational guidelines. We are committed to optimizing our mission planning based on these instructions.

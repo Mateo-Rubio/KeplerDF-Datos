@@ -1,0 +1,15 @@
+### STAGE 1 - REASONING
+
+To begin with, let's analyze the metadata provided. 
+
+a) The exact string in 'target_day' is "in four days." This indicates the specific timeframe for when the data needs to be delivered.
+
+b) The exact string in 'target_diurnal_period' is "overnight." This tells us the time during which the observation should take place.
+
+c) The single word contained in that string from the set {morning, mid-day, afternoon, evening, overnight} is "overnight." This term will be explicitly used in the final request to describe when the observation should occur.
+
+d) It's crucial to confirm that we are not altering the deadline. The metadata specifies a strict operational deadline for data delivery, which is "in four days." We must adhere to this timeline without shifting it to any other part of the day. The observation itself is scheduled for "overnight," but this does not affect the delivery deadline.
+
+### STAGE 2 - FINAL REQUEST
+
+We have a low-priority importance request with a flexible schedule for an opportunistic capture over Betulia, Colombia. This is a non-essential background filler task that can be dropped or rescheduled at convenience. We are looking to perform a multispectral vegetation analysis using VNIR to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The goal is to document surface reflectance during the overnight period. Please ensure that the data products are delivered in four days.

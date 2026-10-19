@@ -1,0 +1,26 @@
+As an Earth-observation mission operator submitting this task request to the automated satellite constellation planner, I am aiming to translate the raw physical simulation metadata provided into a comprehensive English request that maximizes naturalness and validation accuracy. Given the parameters:
+
+### Geographic Context
+Region: The operation focuses on the northern region without specifying a country or city, so we'll rely on the information from the nested 'location_details'. In this case, Norte indicates a specific geographical location which, for simplicity in communication, will be referenced as such.
+
+### Mission Allocation Priority
+Priority Level: Medium Importance (priority_level 2), indicating this is part of standard operational tasks and represents normal pipeline tracking status. This should be described with professional and direct language that reflects routine monitoring without implying urgency.
+
+### Sensors and Physical Objectives
+Primary Sensor: Active Radar Scan using SAR technology, for which we aim to capture detailed information about the surface geometry, especially penetrating through clouds or heavy weather conditions.
+
+### Delivery Deadline
+Given that the deadline is "the day after tomorrow in the evening", this provides a clear upper limit for data availability without specifying exact hours. This phrase should be directly inserted into the request as given, without any rephrasing or adjustments.
+
+### Combining Information to Craft the Request
+Based on the above guidelines and parameters, my request is as follows:
+
+---
+
+The task for an active radar scan using SAR technology at medium importance level (priority 2) requires capturing detailed surface geometry information of the Northern region (Norte), without specifying country or city details due to 'N/A' tags. The geographical reference 'Norte' will serve as the focus point for the satellite operation during daylight hours until "the day after tomorrow in the evening". This standard operational task involves routine monitoring with fixed parameters, embodying normal status within our baseline pipeline tracking setup.
+
+The active radar scan aims to penetrate clouds and heavy weather conditions to achieve comprehensive surface imaging with a view towards microwaves as the primary means of surface illumination. This task is not driven by urgency as indicated by its medium importance level but is part of our standard procedures that require meticulous planning due to the fixed parameters involved in such scans.
+
+---
+
+---

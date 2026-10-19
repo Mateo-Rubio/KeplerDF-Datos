@@ -1,0 +1,9 @@
+As an Earth-observation mission operator, my task is to translate raw physical simulation metadata into a highly realistic and conversational English request. The objective is to capture a detailed multispectral vegetation analysis using the VNIR sensor on the target day, which is 'in three days around mid-day'. The geographic context involves observing 'Norte', a location that combines elements of the city name with additional nuances for realism.
+
+Given the 'priority_level' is set at 1, this request is framed as a low priority importance task with a flexible schedule. It's explicitly noted to be a 'non-essential background filler task', suitable for 'opportunistic capture'. The operator treats it as a 'background survey' or 'testbed tracking task', allowing for 'drop or rescheduling at convenience'.
+
+To maximize the naturalness and validation accuracy of the dataset, I interpret the metadata organically according to operational guidelines. This includes avoiding raw technical system tags, underscores, or coordinate arrays in the final output.
+
+The 'primary_sensor' VNIR is explained as a 'multispectral vegetation analysis', with the goal of assessing the 'chlorophyll absorption level' and calculating the 'NDVI index'. This approach emphasizes the importance of capturing surface reflectance for understanding vegetation health and environmental conditions.
+
+In conclusion, the Earth-observation mission operator submits this task request, encapsulating the specific details provided in JSON format. The request is presented in a conversational style that aligns with operational guidelines, ensuring naturalness and validation accuracy while adhering to the structured hierarchy of priority levels and sensor objectives.

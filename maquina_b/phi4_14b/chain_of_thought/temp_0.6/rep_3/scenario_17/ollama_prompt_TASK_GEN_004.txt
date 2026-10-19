@@ -1,0 +1,13 @@
+### STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "in three days". This indicates the specific deadline by which the data product needs to be delivered, emphasizing that this is not an orbital capture window but a strict operational deadline.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day when the observation should occur, aligning with the operational requirements for capturing the necessary data.
+
+c) The single word contained in the string "in the evening" is "evening". This word must appear literally in the final request to accurately describe the time of day for the observation.
+
+d) I confirm that I am not shifting the deadline to an adjacent part of the day. The specified deadline is strictly "in three days" and during "the evening", which must be adhered to without alteration.
+
+### STAGE 2 - FINAL REQUEST
+
+I would like to request a low-priority importance observation over Caramanta, Colombia, with a flexible schedule for opportunistic capture. This task can be considered a non-essential background filler task, where the operator is free to drop or reschedule at convenience. The objective is to conduct multispectral vegetation analysis using the primary VNIR sensor to assess chlorophyll absorption levels and calculate a vegetation NDVI index. Please ensure this data is delivered in three days, specifically during the evening, as part of a background survey or testbed tracking task.

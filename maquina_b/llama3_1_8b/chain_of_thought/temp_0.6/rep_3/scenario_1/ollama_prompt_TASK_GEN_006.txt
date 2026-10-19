@@ -1,0 +1,9 @@
+STAGE 1 - REASONING
+
+a) The exact string in 'target_day' is "the day after tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) No, I am not shifting the deadline to an adjacent part of the day. The 'target_day' specifies a specific day, and the 'target_diurnal_period' specifies a time within that day, but I am interpreting the temporal parameters as a strict operational deadline to deliver the data products, not the orbital capture window.

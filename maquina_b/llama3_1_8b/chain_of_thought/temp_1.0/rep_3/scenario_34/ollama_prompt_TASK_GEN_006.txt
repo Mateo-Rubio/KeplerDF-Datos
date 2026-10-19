@@ -1,0 +1,13 @@
+STAGE 1 - REASONING
+
+The JSON metadata provided indicates that the target day is "in four days" for capturing data with a specific sensor. The exact string in 'target_day' is "in four days".
+
+Next, we look at the 'target_diurnal_period', which specifies the optimal time for capturing the data as "overnight". The exact string in 'target_diurnal_period' is "overnight".
+
+The word contained in the string "overnight" that appears literally in the final request is "overnight".
+
+Lastly, I confirm that I am not shifting the deadline to an adjacent part of the day. The original temporal parameters represent a strict operational DEADLINE to deliver the data products, and I will adhere to this constraint in the final request.
+
+STAGE 2 - FINAL REQUEST
+```prompt
+We require a low-priority importance task with a flexible schedule for opportunistic capture of a high-resolution optical snapshot for daylight photography overnight in four days.

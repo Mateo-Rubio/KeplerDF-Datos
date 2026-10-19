@@ -1,0 +1,11 @@
+As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. Our operational guidelines dictate that we interpret the provided JSON format with natural language and organic understanding.
+
+The geographic context of this task involves Indonesia, a country known for its diverse landscapes and tropical climate. We're focusing on a city called Ecuatorial, which, while not explicitly detailed, suggests a location in the equatorial region of Indonesia where the sun's rays are most direct and consistent throughout the year. This is crucial for our primary sensor, which is set to capture data using near-infrared (NIR) technology.
+
+Our mission allocation priority is marked as low importance, indicating that this task is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task with a "drop or reschedule at convenience" approach, fitting into our "background survey" or "testbed tracking task" setup.
+
+The physical objective of this task involves capturing data using the near-infrared sensor to map water body boundaries and assess soil moisture. The NIR technology allows us to discriminate gradients by mapping water bodies and soil moisture levels effectively.
+
+The deadline for this task has already been resolved by an upstream module, stating that the data should be available "in four days overnight". This phrase is to be inserted verbatim into our request, as the stated upper limit for data availability.
+
+In summary, we're requesting a satellite mission to capture near-infrared data over Indonesia's Ecuatorial region, focusing on water body boundaries and soil moisture assessment. This task aligns with our low priority importance, allowing us to treat it as a flexible background survey or testbed tracking task that can be accommodated within our operational schedule.

@@ -1,0 +1,16 @@
+Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request for the Earth-observation mission. 
+
+Interpret the location details organically according to the operational guidelines: 
+Combine the JSON parameters naturally to describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. 
+In this case, the location is in Colombia, specifically in Samacá, a city in the country. 
+
+Translate the mission allocation priority into an operational phrase: 
+As an absolute institutional priority, we require a thermal mapping task to capture a heat signature and surface temperature profile using an active thermal scan over the region of Samacá, Colombia. 
+
+Translate the sensor type into a physical phenomenon objective: 
+The goal is thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions. 
+
+Insert the delivery deadline verbatim: 
+We require this task to be completed in three days overnight. 
+
+Here is the request:

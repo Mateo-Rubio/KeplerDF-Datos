@@ -1,0 +1,10 @@
+STAGE 1
+
+a) The exact string found in 'target_day' is "the day after tomorrow".
+b) The exact string found in 'target_diurnal_period' is "in the morning".
+c) The single word contained in that string is "morning".
+d) I am not shifting the deadline to an adjacent part of the day.
+
+STAGE 2
+
+To capture the critical thermal signature of the region in Colombia, specifically the area around Puerto López, our automated satellite constellation planner is tasked with conducting a thermal mapping operation using the TIR sensor on the designated 'target_day', which falls on "the day after tomorrow", precisely at "in the morning". This request is classified as having a "low priority importance" and is to be treated as a "non-essential background filler task". We understand that this mission might be subject to "flexible scheduling", allowing for it to be "dropped or rescheduled at convenience". It represents a "background survey" within our operational workflow, serving as a "testbed tracking task" with no impact on the deadline itself. The planner should aim for the highest efficiency in capturing the thermal anomalies without altering the specified time frame of "morning".

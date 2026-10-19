@@ -1,0 +1,15 @@
+STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The word contained in that string is "morning".
+
+d) No, the deadline is not being shifted to an adjacent part of the day; it remains as specified.
+
+STAGE 2:
+
+Given the operational guidelines and interpreting the metadata provided, we are tasked with scheduling a satellite mission to capture data from the Indonesian region, specifically focusing on Kabupaten Padang Lawas Utara. The mission will involve utilizing near-infrared (NIR) sensors for an active radar scan during the morning hours, aiming to obtain detailed information about water body boundaries and assess soil moisture levels. This standard operational tasking request aligns with a baseline pipeline tracking setup that incorporates fixed parameters, representing normal operational status.
+
+The deadline for this data collection is set for tomorrow in the morning. Please note that while the deadline indicates strict temporal constraints, it does not imply an extended window or flexibility beyond the specified timeframe for capturing imagery of the Indonesian region's inland waters and soil conditions. The execution must adhere to these parameters without deviation to ensure accurate and timely data acquisition.

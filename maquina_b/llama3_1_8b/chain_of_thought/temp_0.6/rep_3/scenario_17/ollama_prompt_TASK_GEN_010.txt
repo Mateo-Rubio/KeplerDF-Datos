@@ -1,0 +1,14 @@
+Here's the reasoning for STAGE 1:
+
+a) The exact string in 'target_day' is "tomorrow".
+
+b) The exact string in 'target_diurnal_period' is "in the morning".
+
+c) The single word contained in that string is "morning".
+
+d) I am not shifting the deadline to an adjacent part of the day, as the request explicitly specifies "tomorrow" which implies the next day, and "in the morning" within that day.
+
+Now, moving on to STAGE 2:
+
+```prompt
+Translate this task into a single, highly realistic, and conversational English request: Translate a high-resolution optical snapshot of the region using multispectral vegetation analysis to assess chlorophyll absorption level for a critical payload capture involving a baseline pipeline tracking setup with fixed parameters representing normal operational status. This is an absolute institutional priority requirement involving mandatory directive for a standard operational tasking part of our routine monitoring setup, scheduled for tomorrow in the morning. The data products must be delivered by then, as per contractual requirements and mission allocation authority.

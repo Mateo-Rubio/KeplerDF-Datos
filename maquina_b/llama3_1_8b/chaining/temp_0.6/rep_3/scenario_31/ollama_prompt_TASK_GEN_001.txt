@@ -1,0 +1,14 @@
+Translate the following raw physical simulation metadata into a single, highly realistic, and conversational English request for an Earth-observation mission. The metadata is provided in JSON format below.
+
+{
+  "primary_sensor": "SAR",
+  "location_details": {
+    "country": "Colombia",
+    "city": "Mogotes"
+  },
+  "priority_level": 3,
+  "target_day": "the day after tomorrow",
+  "target_diurnal_period": "in the morning"
+}
+
+The task is an absolute institutional priority, a binding contract requirement for a critical payload capture involving a mandatory directive with urgent operational execution and un-preemptable mission lock. We need to conduct an active radar scan using microwave surface imaging to pierce heavy weather and capture ground geometry in the region of Colombia, specifically in the city of Mogotes. The objective is to obtain high-resolution cloud-penetrating capture for detailed topographical analysis. This task must be completed by the day after tomorrow in the morning.

@@ -1,0 +1,15 @@
+### Stage 1 - Reasoning
+
+To create a conversational English request for an Earth-observation mission, we need to interpret the provided JSON metadata according to specific operational guidelines.
+
+a) The exact string in 'target_day' is "tomorrow". This indicates when the task should be completed, adhering to the specified deadline without any changes or shifts.
+
+b) The exact string in 'target_diurnal_period' is "in the evening". This specifies the time of day during which the data capture should occur, aligning with the operational deadline.
+
+c) From the options {morning, mid-day, afternoon, evening, overnight}, the word "evening" is contained in the 'target_diurnal_period' string. This word will be explicitly used in the final request to ensure clarity and adherence to the specified timeframe.
+
+d) The task requires strict compliance with the deadline. Therefore, we must confirm that the deadline is not shifted to an adjacent part of the day. The deadline remains "tomorrow in the evening", ensuring that the task is scheduled precisely as specified without any alterations.
+
+### Stage 2 - Final Request
+
+I have a low-priority importance request for a flexible schedule regarding opportunistic capture. We need a multispectral vegetation analysis over Belén de Umbría, Colombia, to assess chlorophyll absorption levels or calculate an NDVI index. This is a non-essential background filler task, so please feel free to drop or reschedule it at your convenience. The data should be captured tomorrow in the evening.

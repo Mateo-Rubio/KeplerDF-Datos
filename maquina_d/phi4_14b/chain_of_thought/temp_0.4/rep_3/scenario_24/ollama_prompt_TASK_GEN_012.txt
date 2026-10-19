@@ -1,0 +1,13 @@
+**STAGE 1 - REASONING**
+
+a) The exact string in 'target_day' is "tomorrow." This indicates that the data delivery deadline is set for the next day from the current date.
+
+b) The exact string in 'target_diurnal_period' is "around mid-day." This specifies the time of day when the observation should occur, focusing on the middle part of the day.
+
+c) The single word contained in the 'target_diurnal_period' string that matches one of the options {morning, mid-day, afternoon, evening, overnight} is "mid-day." This word will be used verbatim in the final request to describe the timing of the observation.
+
+d) It is confirmed that there is no intention to shift the deadline to an adjacent part of the day. The request explicitly states "around mid-day" as the time for data capture, aligning with the operational guidelines without altering the specified timeframe.
+
+**STAGE 2 - FINAL REQUEST**
+
+We have an absolute institutional priority task requiring a critical payload capture over Indonesia, specifically around the city of Ecuatorial. This mission is a binding contract requirement involving multispectral vegetation analysis to assess chlorophyll absorption levels and calculate a vegetation NDVI index. The task must be completed with high-resolution optical imagery capabilities, capturing detailed surface reflectance data. The deadline for delivering these data products is set for tomorrow, around mid-day, ensuring an urgent operational execution with an un-preemptable mission lock.
