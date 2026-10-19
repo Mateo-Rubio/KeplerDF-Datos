@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for tomorrow around mid-day, focusing on Malaysia's Bukit Mabong region.
-
-The geographical context involves capturing a high-resolution optical snapshot of the area using near-infrared (NIR) sensors for daylight photography, clear optical imagery, or true-color visual documentation. This task is labeled as a low priority importance request with a flexible schedule for opportunistic capture, treated as a non-essential background filler task.
-
-The mission allocation priority is set at level 1, which means this request is framed as a low priority importance task with a 'drop or reschedule at convenience' note, indicating it's part of the baseline pipeline tracking setup with fixed parameters representing normal operational status. The language heavily implies that this is a background survey or testbed tracking task.
-
-The delivery deadline for this task has already been resolved by an upstream module and is set for tomorrow around mid-day, which must be inserted verbatim into our request as the stated upper limit for data availability. No raw UTC timestamps, digits, or countdown metrics should be outputted.
-
-In summary, our request to the satellite constellation planner involves capturing thermal mapping of Malaysia's Bukit Mabong region using near-infrared sensors for water body boundary mapping or soil moisture assessment tomorrow around mid-day, with a clear understanding that this task is part of the normal operational status and can be dropped or rescheduled at convenience.

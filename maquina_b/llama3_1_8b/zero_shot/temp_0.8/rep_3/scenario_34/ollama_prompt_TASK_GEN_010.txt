@@ -1,9 +1,0 @@
-Translate the physical simulation metadata into a single, highly realistic, and conversational English request.
-
-Interpret the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If any of these fields are "N/A", ignore them and describe the location using the remaining valid fields or the clean 'region_name'.
-
-For this task, use an authoritative tone to frame it as an "absolute institutional priority" involving a "critical payload capture" due to the high importance. The language must heavily imply an "urgent operational execution" and an "un-preemptable mission lock".
-
-Describe the physical phenomenon to be observed as a "high-resolution optical snapshot" for "daylight photography". 
-
-Ensure that the data products are ingested into the pipeline before the deadline of in three days around mid-day at the latest.

@@ -1,9 +1,0 @@
-I'll work through the questions in STAGE 1.
-
-a) The exact string in 'target_day' is: "the day after tomorrow"
-
-b) The exact string in 'target_diurnal_period' is: "overnight"
-
-c) The single word contained in that string is: "overnight"
-
-d) Upon re-examining the deadline parameters, I confirm that I am not shifting the deadline to an adjacent part of the day. The target_day and target_diurnal_period are two separate parameters, where target_day specifies a specific date and target_diurnal_period specifies the desired time of day for the data collection, in this case, "overnight".

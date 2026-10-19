@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I hereby submit a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
-
-The geographic context involves capturing thermal mapping data of the region named "Italia", specifically focusing on the city of Santa Croce sull'Arno, using the primary sensor designated as TIR. This task falls under the category of a low priority importance request, implying that it is a flexible schedule background survey or testbed tracking task with no strict deadlines.
-
-The mission allocation priority level is set to 1, which means this request is treated as a non-essential background filler task with a "drop or reschedule at convenience" approach. The language used should reflect a casual, highly flexible tone that treats it as a "background survey" or "testbed tracking task".
-
-The delivery deadline for this task has already been resolved by an upstream module and is set to be "in four days overnight". This phrase must be inserted verbatim into the request, serving as the upper limit for data availability without any rephrasing, shortening, or moving it to a different part of the day.
-
-In summary, our mission involves capturing thermal mapping data of Santa Croce sull'Arno using TIR sensors during the overnight period four days from now. This task is part of our baseline pipeline tracking setup with fixed parameters representing normal operational status or a standard workflow update, but it carries no urgency due to its low priority level.

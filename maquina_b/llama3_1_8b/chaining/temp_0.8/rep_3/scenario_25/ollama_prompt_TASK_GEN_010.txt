@@ -1,9 +1,0 @@
-Translate raw physical simulation metadata into a highly realistic and conversational English request. To maximize naturalness and validation accuracy, interpret the metadata organically according to operational guidelines. 
-
-For geographic context, combine location details naturally, describing the location using a realistic combination of country, city, and landmark fields from location_details. If any field is "N/A", ignore it and describe the location using the remaining valid fields or the clean 'region_name'. In this case, the location is Colombia, specifically in Chima, a city within that region.
-
-For mission allocation priority, use an authoritative tone for Priority 3 (High Importance). This task is an absolute institutional priority, a binding contract requirement involving a critical payload capture. The language implies an urgent operational execution and un-preemptable mission lock. 
-
-The primary sensor is TIR, which translates to thermal mapping to capture a heat signature, surface temperature profile, or for thermal anomaly detection and mapping heat emissions.
-
-Delivery deadline is in four days in the morning.

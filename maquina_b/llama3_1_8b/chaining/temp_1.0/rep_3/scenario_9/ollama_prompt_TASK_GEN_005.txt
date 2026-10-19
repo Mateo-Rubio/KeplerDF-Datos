@@ -1,8 +1,0 @@
-Translate this task into a highly realistic and conversational English request for mission execution. 
-Interpret the given metadata organically according to the following guidelines: 
-- Geographic context: Combine the location details naturally, describing the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. If country, city, or landmark are "N/A", ignore them gracefully and describe the location using the remaining valid fields or the clean 'region_name'. 
-- Mission allocation priority: Use an authoritative and explicit tone for Priority 3, a professional and direct tone for Priority 2, and a casual and highly flexible tone for Priority 1. 
-- Sensors and physical objectives: Explain the physical phenomenon to be observed using natural language, avoiding technical abbreviations or acronyms. 
-- Delivery deadline: Insert the phrase "in four days in the morning" verbatim into your request.
-
-We require an absolute institutional priority for thermal mapping of surface temperature profiles over the region of Northern Italy using our TIR sensor. The task involves a critical payload capture and mandatory directive to be executed with an un-preemptable mission lock. Please allocate necessary resources to facilitate this operation, noting that data availability is expected in four days in the morning.

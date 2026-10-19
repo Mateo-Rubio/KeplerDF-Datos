@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I'm submitting this task request to an automated satellite constellation planner. The operational guidelines include interpreting the geographic context naturally by combining the 'country', 'city', and 'landmark' fields from 'location_details'. In our case, we're focusing on Bossico, a town in Italia.
-
-Our mission allocation priority is marked as Priority 1 (Low Importance), indicating it's a low-priority importance request with a flexible schedule for opportunistic capture. We'll frame this as a "non-essential background filler task" where the operator explicitly notes to "drop or reschedule at convenience". The underlying language represents a "background survey" or "testbed tracking task".
-
-The primary sensor assigned for our mission is SAR (Synthetic Aperture Radar), which will enable us to conduct an active radar scan using microwave surface imaging. This technique allows for cloud-penetrating capture, making it perfect for scenarios where we need to pierce heavy weather or capture ground geometry.
-
-Our target day is 'the day after tomorrow', and the desired diurnal period for this task is 'in the morning'. The deadline has already been resolved by an upstream module with this phrase as the stated upper limit for data availability; do not rephrase it, do not shorten it, and ensure it's placed verbatim as specified.
-
-The request encapsulates the need for a specific moment in time when the satellite constellation should be tasked with capturing high-resolution imagery of the region around Bossico, Italia, under the operational guidelines provided. This involves leveraging SAR to achieve cloud-penetrating observations, providing essential data for our background survey tasks.

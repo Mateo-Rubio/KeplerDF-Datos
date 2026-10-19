@@ -1,9 +1,0 @@
-STAGE 1 - REASONING
-
-a) The exact string in 'target_day' is "today".
-
-b) The exact string in 'target_diurnal_period' is "in the evening".
-
-c) The single word out of {morning, mid-day, afternoon, evening, overnight} that is contained in the string from (b) is "evening".
-
-d) I confirm that the deadline is not being shifted to an adjacent part of the day. The task is simply to capture data "in the evening" on "today", which implies a strict deadline to deliver the data products by the end of the current day.

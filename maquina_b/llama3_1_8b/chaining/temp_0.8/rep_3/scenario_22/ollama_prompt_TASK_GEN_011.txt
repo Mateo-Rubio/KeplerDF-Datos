@@ -1,5 +1,0 @@
-Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. To maximize naturalness and validation accuracy, follow these operational guidelines: 
-For geographic context, describe the location using a realistic combination of the 'country', 'city', and 'landmark' fields from 'location_details'. In this case, the location is in France, specifically in Calenzana. 
-For mission allocation priority, use an authoritative tone for priority 3, a professional tone for priority 2, and a casual tone for priority 1. Here, the priority is low, treating it as a "non-essential background filler task" with a "flexible schedule" for "opportunistic capture". 
-For sensors and physical objectives, naturally weave in operational objectives and descriptors to explain the physical phenomenon to be observed. In this case, the goal is a "high-resolution optical snapshot" for "daylight photography" using VIS. 
-Finally, incorporate the deadline verbatim into your request: "the day after tomorrow in the evening".

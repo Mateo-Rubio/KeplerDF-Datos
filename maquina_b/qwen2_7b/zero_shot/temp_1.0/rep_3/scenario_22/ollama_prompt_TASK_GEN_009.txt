@@ -1,9 +1,0 @@
-Hello, automated satellite constellation planner. I'm from an Earth-observation mission operator here at our HQ, and we have a standard operational tasking for you based on the provided metadata. Our focus is on monitoring an area in Indonesia specifically, focusing on the city of Banyuasin with our VNIR sensor.
-
-We're requesting that you perform multispectral vegetation analysis capturing chlorophyll absorption levels or calculating a NDVI index and surface reflectance to provide us with comprehensive data for this region. Your task must involve a high-resolution optical snapshot for daylight photography, clear optical imagery, or true-color visual documentation of the targeted area.
-
-We prioritize this task as medium importance and request that you schedule your capture as part of our baseline pipeline tracking setup with fixed parameters representing normal operational status. We have established parameters that include capturing a heat signature through thermal mapping to detect surface temperature profiles or thermal anomalies, mapping heat emissions across different landscapes within our specific area of interest.
-
-We require the data products by [target_day] around mid-day at the latest, meaning we need the data before it reaches nighttime on that day. Our deadline is set in stone to ensure that the data ingestion into our pipeline will be accomplished by this specified time. Your capture must strictly adhere to these guidelines without altering or extending the deadline mentioned.
-
-Thank you for your attention and prompt action on this matter.

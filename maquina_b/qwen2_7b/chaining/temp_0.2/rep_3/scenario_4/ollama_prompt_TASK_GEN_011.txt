@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, focusing on the operational guidelines provided.
-
-The geographic context involves capturing data from the region of Hrvatska, specifically Primorsko-goranska županija. This area requires a detailed thermal mapping operation using our TIR sensor, aiming to capture a heat signature or surface temperature profile for potential thermal anomalies and heat emission mapping. The mission allocation priority is set at level 1, indicating this task is of low importance with a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, noting that it can be dropped or rescheduled at convenience.
-
-The delivery deadline for this task has been resolved by an upstream module and is set for "in three days during the afternoon". This phrase must be inserted verbatim into our request, serving as the upper limit for data availability. We're not outputting raw UTC timestamps, digits, or countdown metrics.
-
-In summary, our request to the satellite constellation planner is to capture thermal data from Hrvatska's Primorsko-goranska županija using our TIR sensor during the afternoon of the specified date. This task is part of a background survey and will be executed with a flexible schedule, reflecting its low priority importance.
