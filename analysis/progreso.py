@@ -5,7 +5,8 @@ import pandas as pd
 REPO = pathlib.Path(__file__).resolve().parent.parent
 TOTAL = 5 * 4 * 34
 TEMPS = [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
-REPS = ['rep_1', 'rep_2']
+REPS = ['rep_1', 'rep_2', 'rep_3']
+REPS_MAQUINA = {'maquina_b': REPS, 'maquina_d': REPS}  # el resto solo tiene rep_1 y rep_2
 
 conteo = Counter()
 for f in REPO.glob('maquina_*/*/*/temp_*/rep_*/scenario_*/ollama_prompts_combined.json'):
@@ -13,6 +14,7 @@ for f in REPO.glob('maquina_*/*/*/temp_*/rep_*/scenario_*/ollama_prompts_combine
     conteo[(maquina, float(temp.split('_')[1]), rep)] += 1
 
 maquinas = sorted(p.name for p in REPO.glob('maquina_*'))
-tabla = pd.DataFrame({f'T{t} {r}': [f'{conteo[(m, t, r)]}/{TOTAL}' for m in maquinas]
+tabla = pd.DataFrame({f'T{t} {r}': [f'{conteo[(m, t, r)]}/{TOTAL}' if r in REPS_MAQUINA.get(m, REPS[:2]) else '-'
+                                  for m in maquinas]
                       for t in TEMPS for r in REPS}, index=maquinas)
 print(tabla.to_string())

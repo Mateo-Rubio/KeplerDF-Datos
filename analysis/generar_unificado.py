@@ -9,7 +9,8 @@ SALIDA = pathlib.Path(__file__).resolve().parent / 'unificado.csv'
 EXCLUIDAS = ['maquina_e']
 TOTAL = 5 * 4 * 34
 TEMPS = [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
-REPS = ['rep_1', 'rep_2']
+REPS = ['rep_1', 'rep_2', 'rep_3']
+REPS_MAQUINA = {'maquina_b': REPS, 'maquina_d': REPS}  # el resto solo tiene rep_1 y rep_2
 CATEGORIAS = {'day': 'day_match', 'hour': 'hour_match', 'sensor': 'sensor_match', 'priority': 'priority_match'}
 FUGA = ("stage 1 - reasoning", "stage 2 - final", "which exact string", "copy it verbatim")
 CLAVE = ['temp', 'modelo', 'estrategia', 'maquina', 'rep', 'categoria']
@@ -34,7 +35,8 @@ for f in REPO.glob('maquina_*/*/*/temp_*/rep_*/scenario_*/ollama_prompts_combine
                       'categoria': c, 'escenario': int(escenario.split('_')[1]), 'precision': p})
 
 maquinas = sorted(p.name for p in REPO.glob('maquina_*') if p.name not in EXCLUIDAS)
-tabla = pd.DataFrame({f'T{t} {r}': [f'{conteo[(m, t, r)]}/{TOTAL}' for m in maquinas]
+tabla = pd.DataFrame({f'T{t} {r}': [f'{conteo[(m, t, r)]}/{TOTAL}' if r in REPS_MAQUINA.get(m, REPS[:2]) else '-'
+                                  for m in maquinas]
                       for t in TEMPS for r in REPS}, index=maquinas)
 print(tabla.to_string())
 

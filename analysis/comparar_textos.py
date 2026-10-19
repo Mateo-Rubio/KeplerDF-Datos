@@ -17,17 +17,18 @@ for maq, carpeta in MAQUINAS.items():
                           'escenario': escenario, 'task_id': t['task_id'], 'texto': t['generated_output']})
 df = pd.DataFrame(filas)
 
-# Referencia: rep_1 vs rep_2 dentro de cada máquina
+# Referencia: todos los pares de repeticiones dentro de cada máquina (B y D tienen además rep_3)
 intra = df.pivot_table(index=['maquina', 'modelo', 'estrategia', 'escenario', 'task_id'],
-                       columns='rep', values='texto', aggfunc='first').dropna()
-intra['igual'] = intra['rep_1'] == intra['rep_2']
-print('% de textos idénticos entre rep_1 y rep_2 (misma máquina):')
-print((intra.groupby(['modelo', 'maquina'])['igual'].mean().unstack() * 100).round(2), '\n')
+                       columns='rep', values='texto', aggfunc='first')
+pares_rep = pd.concat([(intra[a] == intra[b]).astype(float).where(intra[a].notna() & intra[b].notna())
+                       for a, b in itertools.combinations(sorted(intra.columns), 2)])
+print('% de textos idénticos entre repeticiones (misma máquina):')
+print((pares_rep.groupby(['modelo', 'maquina']).mean().unstack() * 100).round(2), '\n')
 
-# Entre máquinas: misma repetición, solo tareas presentes en ambas máquinas del par
+# Entre máquinas: misma repetición, solo tareas presentes en ambas máquinas del par (rep_3 solo cuenta en B vs D)
 entre = df.pivot_table(index=['modelo', 'estrategia', 'rep', 'escenario', 'task_id'],
                        columns='maquina', values='texto', aggfunc='first')
 pares = pd.DataFrame({f'{a} vs {b}': (entre[a] == entre[b]).astype(float).where(entre[a].notna() & entre[b].notna())
                       for a, b in itertools.combinations(MAQUINAS, 2)})
 print('% de textos idénticos entre máquinas (misma repetición):')
-print((pares.groupby(level='modelo').mean() * 100).round(2))
+print((pares.groupby(level='modelo').mean() * 100).round(2).to_string())
