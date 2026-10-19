@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request, ensuring naturalness and validation accuracy.
-
-The geographic context involves observing Norte, a location in Brazil. Although the country field is marked as "N/A", we can describe the region using the remaining valid fields or the clean 'region_name'. The mission allocation priority is set to Low Importance, which means this task is treated as a "low priority importance" request with a "flexible schedule" for "opportunistic capture". We're instructed to frame it as a "non-essential background filler task", considering it as a "background survey" or "testbed tracking task".
-
-The primary sensor involved is Near-Infrared (NIR), which aims to map water body boundaries and assess soil moisture. This operation will be conducted overnight tomorrow, adhering to the deadline set by an upstream module.
-
-In summary, our request is to capture near-infrared reflection data for water body boundary mapping and soil moisture assessment in Norte, Brazil, during the overnight period of the following day. This task is part of a "background survey" or "testbed tracking task", with no strict deadlines or contractual obligations attached. The operator should explicitly note that this task can be "dropped or rescheduled at convenience" due to its low priority importance.

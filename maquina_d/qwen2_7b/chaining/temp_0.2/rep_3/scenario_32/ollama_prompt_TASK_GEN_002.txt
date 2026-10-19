@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request for a single mission allocation.
-
-The geographic context involves capturing imagery of Talamello, a city in the beautiful country of Italia. We aim to gather data that will provide us with a detailed view of the region's landscape during the target day, which is today, specifically in the evening when conditions are optimal for our primary sensor, VNIR.
-
-Our mission allocation priority is set at Low Importance, indicating that this request is part of a flexible schedule for opportunistic capture. We're treating it as a non-essential background filler task, with the understanding that it can be dropped or rescheduled at convenience, fitting into our background survey or testbed tracking tasks.
-
-The primary sensor VNIR will be used to assess chlorophyll absorption levels and calculate the vegetation NDVI index for surface reflectance. This multispectral vegetation analysis will help us understand the health of the local flora and its environmental conditions.
-
-In conclusion, our request is to capture high-resolution optical snapshots of Talamello in Italia during today's evening period using our VNIR sensor. This task aligns with our low priority importance, allowing for flexible scheduling while contributing valuable data to our baseline pipeline tracking setup. The deadline for this task has been resolved by an upstream module, and we're targeting today's evening for data availability, adhering to the specified upper limit for data availability without rephrasing or altering the phrase.

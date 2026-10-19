@@ -1,9 +1,0 @@
-As an Earth-observation mission operator, I hereby submit a task request to the automated satellite constellation planner for a highly realistic and conversational English request based on the provided raw physical simulation metadata in JSON format. The operational guidelines will be followed meticulously to ensure naturalness and validation accuracy of the dataset.
-
-The geographic context is set in Indonesia, specifically Air Itam city, with the mission allocation priority level being 'Priority 1', indicating a low importance request with a flexible schedule for opportunistic capture. This task involves utilizing an active radar scan using microwave surface imaging capabilities provided by the SAR sensor to conduct cloud-penetrating capture, enabling us to pierce through heavy weather conditions and capture ground geometry.
-
-The primary objective of this mission is to observe and document a high-resolution optical snapshot of Air Itam city during daylight hours, aiming for clear optical imagery and true-color visual documentation. This serves as a 'background survey' or 'testbed tracking task', with the understanding that it can be dropped or rescheduled at convenience.
-
-The delivery deadline for this task has been resolved by an upstream module, requiring the data to be available 'the day after tomorrow in the evening'. This is the upper limit for data availability and must be inserted verbatim into the request.
-
-In conclusion, I am requesting a mission with a 'Priority 1' status to capture Air Itam city using SAR technology on 'the day after tomorrow' at 'in the evening', with the understanding that this task is part of a flexible schedule and can be adjusted based on operational convenience. The primary objective is to obtain high-quality optical imagery and conduct cloud-penetrating capture for ground geometry observation.

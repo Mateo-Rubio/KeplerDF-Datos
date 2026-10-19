@@ -1,9 +1,0 @@
-Translate the raw physical simulation metadata into a single, highly realistic, and conversational English request. To maximize naturalness and validation accuracy, we will interpret the metadata organically according to the following operational guidelines: 
-
-First, we will focus on the geographic context by combining the 'country', 'city', and 'landmark' fields from 'location_details' to describe the location naturally. For this task, the region is Indonesia with a specific focus on the city of Ecuatorial, which should be accurately captured in the imagery.
-
-Next, we will prioritize the mission allocation according to the provided 'priority_level'. In this case, the task has been designated as an absolute institutional priority, and we must treat it as a critical payload capture with a binding contract requirement for mandatory directive execution. This implies an urgent operational execution and an un-preemptable mission lock.
-
-Moving on to the sensors and physical objectives, the primary sensor is a VNIR (multispectral vegetation analysis tool), which will assess chlorophyll absorption levels and calculate a vegetation NDVI index and surface reflectance. The goal is to capture high-resolution optical snapshots for daylight photography and true-color visual documentation.
-
-Finally, we must ensure that the task is completed within the specified deadline. As per upstream module resolution, the deadline for this task is the day after tomorrow in the morning.

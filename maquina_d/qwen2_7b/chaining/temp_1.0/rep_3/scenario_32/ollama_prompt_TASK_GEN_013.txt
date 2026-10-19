@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request for an automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request focusing on a specific geographic context, mission allocation priority, sensors and physical objectives, and delivery deadline.
-
-Given the JSON provided, our mission involves the VNIR sensor with the goal of assessing chlorophyll absorption levels or calculating the vegetation NDVI index and surface reflectance. The target area is in Belén de Umbría, Colombia, an opportunistically scheduled background survey with a flexible schedule for opportunistic capture, which aligns with its low importance status under baseline pipeline tracking with normal operational parameters.
-
-For our physical observation, we aim to capture high-resolution optical snapshots of daylight photography or clear optical imagery, crucial for visual documentation. The delivery deadline is fixed for tomorrow in the evening, as set by an upstream module, with no room for rephrasing or alteration within the request. This request is treated as a non-essential background filler task without an urgency requirement for execution.
-
-By integrating these contextual elements, we're crafting our request to serve operational guidelines for maximum naturalness and validation accuracy, maintaining clarity on the physical phenomenon to be observed while addressing all the key details of the mission.

@@ -1,9 +1,0 @@
-Your automated Earth-observation mission operator is submitting a task request to our satellite constellation planner. The mission's geographic context involves capturing high-resolution optical imagery of a significant location in Indonesia. Specifically, the target is set for a region around the equator, known colloquially as "Ecuatorial," which will provide us with critical data related to the plant health and vegetation coverage.
-
-With the primary sensor designated as VNIR (Vegetation Near-Infrared), our mission aims to assess chlorophyll absorption levels across various areas, calculate the NDVI (Normalized Difference Vegetation Index) for surface reflectance, and identify any potential environmental anomalies. This request is categorized under "low priority importance" due to its flexible schedule, acting as a "background survey" or "testbed tracking task". 
-
-In accordance with our baseline pipeline tracking setup, this task has been allocated as part of our standard operational workflow, emphasizing fixed parameters representing normal operational status. The specific directive involves capturing data that will aid in monitoring ecological conditions and health across the target region without imposing any urgent operational execution constraints.
-
-The mission's deadline for data availability has been resolved by an upstream module, with the stipulated upper limit being "tomorrow in the morning". Our automated operator will adhere to this precise timeframe as dictated by the system, ensuring that data is collected and delivered accordingly without altering or rephrasing the specified time frame. 
-
-Please proceed with executing the task as outlined to capture the required VNIR imagery of the equatorial region in Indonesia, as per our operational guidelines.

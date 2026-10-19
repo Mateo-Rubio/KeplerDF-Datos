@@ -1,9 +1,0 @@
-Translate the raw physical simulation metadata into a highly realistic and conversational English task request. The mission operator from an Earth-observation mission needs to address this request to an automated satellite constellation planner.
-
-The geographical context is set in Italy, with a specific location detailed in Bossico city. The primary sensor selected for this operation is SAR (Synthetic Aperture Radar), which aims to perform an active radar scan using microwave surface imaging. This technology is to capture the cloud-penetrating view, providing critical information on ground geometry amidst heavy weather conditions.
-
-The mission allocation priority is categorized as Low Importance, characterized by a flexible schedule for opportunistic capture and treatment as a background survey task. The operator is explicitly noting to drop or reschedule this request at convenience due to its non-essential nature within the baseline pipeline tracking setup with fixed parameters.
-
-The delivery deadline is set for "the day after tomorrow in the morning," marking the upper limit for data availability as per upstream module decisions, without any rephrasing or adjustment of timing details.
-
-Organically interpreting and combining the operational guidelines, the task request should convey the mission's objective in a natural manner, emphasizing the specific context, sensor's role, priority level, and the deadline. This way, the final request integrates the raw metadata into an English paragraph that mirrors operational conversations, ensuring the dataset maintains naturalness and validation accuracy.

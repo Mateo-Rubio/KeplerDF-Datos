@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to the automated satellite constellation planner. The objective is to translate raw physical simulation metadata into a highly realistic and conversational English request. The target geographic context involves capturing data for Norte, which lies within an unspecified country. The primary sensor designated for this mission is VNIR, aiming to achieve a multispectral vegetation analysis by assessing chlorophyll absorption levels or calculating the NDVI index and surface reflectance.
-
-The mission allocation priority is set at Low Importance, indicating that this request is part of a flexible schedule for opportunistic capture, acting as a non-essential background filler task. The operator explicitly notes that this task can be dropped or rescheduled at convenience, treating it as a background survey or testbed tracking task.
-
-The delivery deadline is resolved by an upstream module, with the data availability set for "in three days around mid-day". This phrase must be inserted verbatim into the request, serving as the stated upper limit for data availability without any rephrasing, shortening, or altering the time of day.
-
-In summary, our task involves capturing VNIR data for Norte, with a low priority importance and a flexible schedule for execution. The deadline is set for three days ahead, around mid-day, ensuring that we adhere to the provided upper limit for data availability.

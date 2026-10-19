@@ -1,7 +1,0 @@
-Translate this raw physical simulation metadata into a realistic task request. Translate the location using country, city, and landmark fields. Combine them naturally to describe the location. If any of these fields are "N/A", ignore them and use the clean 'region_name' and the remaining valid fields.
-
-The mission allocation priority is high importance, so use an authoritative tone. Frame it as a binding contract requirement involving a critical payload capture or a mandatory directive. The language must heavily imply an urgent operational execution and an un-preemptable mission lock.
-
-The primary sensor used is TIR, which translates to thermal mapping. Explain the goal as capturing a heat signature or surface temperature profile, and map heat emissions. Describe this request as a routine monitoring part of a baseline pipeline tracking setup with fixed parameters representing normal operational status.
-
-Ensure the products are ingested into the pipeline by in three days in the evening at the latest.

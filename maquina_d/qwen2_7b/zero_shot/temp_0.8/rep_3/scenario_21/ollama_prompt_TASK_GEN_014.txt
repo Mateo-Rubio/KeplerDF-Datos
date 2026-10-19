@@ -1,7 +1,0 @@
-As an Earth-observation mission operator, I'm submitting a task request to our automated satellite constellation planner. The primary sensor required is Thermal Infrared (TIR) for capturing thermal mapping data. Our geographic context involves Norte city, although specific details are unavailable; thus, we will rely on the broader region name provided in the JSON metadata.
-
-This request has been designated with a low priority importance, meaning it's considered a flexible background survey task that can be scheduled at convenience. However, operational efficiency remains crucial, and I hereby emphasize that this is not an essential background filler task but rather a critical payload capture opportunity for understanding heat signatures or thermal anomaly detection across the region.
-
-The target day for delivering the data products is tomorrow with a strict delivery deadline set for morning hours. This implies we require the satellite constellation to deliver thermal mapping data before sunrise, ensuring the products are ingested into our pipeline before the end of the day's overnight block.
-
-I trust our automated satellite constellation planner will manage this task with the appropriate priority and allocate assets accordingly, respecting this baseline pipeline tracking setup with fixed parameters representing normal operational status. I look forward to receiving the high-quality thermal mapping data that will provide valuable insights on surface temperature profiles or heat emissions across the region.
